@@ -6,7 +6,8 @@ Zip ko kholna nahi padta — PDFs seedhe zip se padhe jaate hain.
 Metadata CSV (diary_no, case_no, pet, res, bench, judgement_by,
 judgment_dates, temp_link...) zip ke andar ho to wahi, warna repo mein rakhi
 copy (vendor/product/indian-supreme-court-judgments-old) use hoti hai.
-PDF ko temp_link ke aakhri hisse (jaise 'judis/1524.pdf') se milaya jata hai.
+Zip mein PDF ka naam diary_no + '___' + temp_link hota hai
+(jaise 'pdfs/-0___jonew__judis__10166.pdf'); CSV row isi se milti hai.
 
 Jo judgment SCR wale data mein pehle se hai (tareekh + petitioner ke naam se
 milaan), use dobara nahi jodte. Har row ke meta_json mein license likha hota
@@ -91,6 +92,62 @@ def _rows(z):
         return list(csv.DictReader(f)), str(VENDORED_CSV)
 
 
+def _parse_member(name):
+    """'pdfs/-0___jonew__judis__10166.pdf' -> ('-0', 'jonew/judis/10166.pdf').
+    Kaggle zip mein naam = diary_no + '___' + temp_link ('/' ki jagah '__')."""
+    base = name.rsplit("/", 1)[-1]
+    if "___" not in base:
+        return None, base.lower()
+    diary, rest = base.split("___", 1)
+    return diary, rest.replace("__", "/").lower()
+
+
+def _index(names):
+    """Zip ke PDFs teen tarah se dhoondhne layak: (diary, link), sirf link, aur aakhri hissa."""
+    exact, by_link, by_tail = {}, {}, {}
+    for n in names:
+        if not n.lower().endswith(".pdf"):
+            continue
+        diary, link = _parse_member(n)
+        exact[(diary, link)] = n
+        by_link.setdefault(link, []).append(n)
+        by_tail.setdefault(_tail(link), []).append(n)
+    return exact, by_link, by_tail
+
+
+def _find(idx, diary, link):
+    exact, by_link, by_tail = idx
+    link = link.lower()
+    if (diary, link) in exact:
+        return exact[(diary, link)]
+    for table, key in ((by_link, link), (by_tail, _tail(link))):
+        hits = table.get(key, [])
+        if len(hits) == 1:
+            return hits[0]
+    return None
+
+
+def _insert(con, rel, member, r, csv_src):
+    """Ek Kaggle row (r = CSV row, ya None jab PDF ka metadata nahi mila)."""
+    r = r or {}
+    date = _iso(r.get("judgment_dates"))
+    pet, res = (r.get("pet") or "").strip(), (r.get("res") or "").strip()
+    judges = _judges(r.get("bench"))
+    meta = {"license": LICENSE, "diary_no": r.get("diary_no") or _parse_member(member)[0], "csv": csv_src,
+            "pet_adv": r.get("pet_adv"), "res_adv": r.get("res_adv")}
+    if not r:
+        meta["orphan"] = "Kaggle CSV mein nahi mila"
+    cur = con.execute(
+        "INSERT INTO judgments (source, source_key, court, title, petitioner, respondent, case_no, "
+        "decision_date, year, judges, bench_size, author_judge, pdf_archive, pdf_member, meta_json) "
+        "VALUES ('sc-kaggle', ?, 'SC', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) ON CONFLICT(source_key) DO NOTHING",
+        ("kaggle:" + member.rsplit("/", 1)[-1], f"{pet} versus {res}" if pet or res else None, pet or None,
+         res or None, (r.get("case_no") or "").strip() or None, date, int(date[:4]) if date else None,
+         json.dumps(judges, ensure_ascii=False) if judges else None, len(judges) or None,
+         (r.get("judgement_by") or "").strip() or None, rel, member, json.dumps(meta, ensure_ascii=False)))
+    return cur.rowcount
+
+
 def load(con, data_dir, workers=None, log=print):
     data_dir = Path(data_dir)
     zpath = find_zip(data_dir)
@@ -103,44 +160,35 @@ def load(con, data_dir, workers=None, log=print):
                                    "WHERE court = 'SC' AND source != 'sc-kaggle' AND decision_date IS NOT NULL"):
         existing.setdefault((d, _key(pet)), []).append(_key(res))
     with zipfile.ZipFile(zpath) as z:
-        by_tail = {}
-        for n in z.namelist():
-            if n.lower().endswith(".pdf"):
-                by_tail.setdefault(_tail(n), n)
-                by_tail.setdefault(_tail(n, 1), n)
+        names = z.namelist()
+        idx = _index(names)
         rows, csv_src = _rows(z)
         counts = Counter((_iso(r.get("judgment_dates")), _key(r.get("pet"))) for r in rows)
-        stats = {"rows": len(rows), "already_scr": 0, "no_pdf": 0, "added": 0}
-        seen = set()
+        stats = {"rows": len(rows), "already_scr": 0, "no_pdf": 0, "added": 0, "orphans": 0}
+        used = set()
         for r in rows:
             link = (r.get("temp_link") or "").strip()
-            if not link or link in seen:
+            member = _find(idx, (r.get("diary_no") or "").strip(), link) if link else None
+            if member is None:
+                stats["no_pdf"] += 1
                 continue
-            seen.add(link)
+            if member in used:
+                continue
+            used.add(member)
             date = _iso(r.get("judgment_dates"))
             pet, res = (r.get("pet") or "").strip(), (r.get("res") or "").strip()
             if date and pet and _is_dup(existing, counts, date, pet, res):
                 stats["already_scr"] += 1
                 continue
-            member = by_tail.get(_tail(link)) or by_tail.get(_tail(link, 1))
-            if member is None:
-                stats["no_pdf"] += 1
-                continue
-            judges = _judges(r.get("bench"))
-            cur = con.execute(
-                "INSERT INTO judgments (source, source_key, court, title, petitioner, respondent, case_no, "
-                "decision_date, year, judges, bench_size, author_judge, pdf_archive, pdf_member, meta_json) "
-                "VALUES ('sc-kaggle', ?, 'SC', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) ON CONFLICT(source_key) DO NOTHING",
-                ("kaggle:" + link, f"{pet} versus {res}" if pet or res else None, pet or None, res or None,
-                 (r.get("case_no") or "").strip() or None, date, int(date[:4]) if date else None,
-                 json.dumps(judges, ensure_ascii=False) if judges else None, len(judges) or None,
-                 (r.get("judgement_by") or "").strip() or None, rel, member,
-                 json.dumps({"license": LICENSE, "diary_no": r.get("diary_no"), "csv": csv_src,
-                             "pet_adv": r.get("pet_adv"), "res_adv": r.get("res_adv")}, ensure_ascii=False)))
-            stats["added"] += cur.rowcount
+            stats["added"] += _insert(con, rel, member, r, csv_src)
+        # Zip mein PDF hai par CSV mein uski row nahi — phir bhi jodo, koi judgment na chhoote.
+        for n in names:
+            if n.lower().endswith(".pdf") and n not in used:
+                stats["orphans"] += _insert(con, rel, n, None, csv_src)
         con.commit()
-        log(f"Kaggle: {stats['rows']} rows, {stats['already_scr']} SCR mein pehle se, "
-            f"{stats['no_pdf']} ki PDF zip mein nahi mili, {stats['added']} naye (baaki pehle se Kaggle wale).")
+        log(f"Kaggle: {stats['rows']} CSV rows, {len(used)} PDFs se mili; {stats['already_scr']} SCR mein pehle se, "
+            f"{stats['no_pdf']} rows ki PDF zip mein nahi, {stats['added']} naye, "
+            f"{stats['orphans']} PDFs bina CSV row ke (phir bhi jode).")
         todo = con.execute("SELECT id, pdf_member FROM judgments WHERE source = 'sc-kaggle' AND pdf_archive = ? "
                            "AND (text_version IS NULL OR text_version < ?)", (rel, ingest.PARSER_VERSION)).fetchall()
         log(f"Kaggle: {len(todo)} PDFs padhne hain...")
