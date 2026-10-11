@@ -178,7 +178,9 @@ async def uk_case(out, args):
                     bad += 1
                     print(f"  [error] {odate or ''} {order.order_type}: {err}")
                     continue
-                kind = "judgment" if "judg" in (order.order_type or "").lower() else "order"
+                # Nainital HC 'order on' mein case number likhta hai, isliye aakhri faisla tarikh se pehchano.
+                final = bool(detail and detail.decision_date and order.order_date == detail.decision_date)
+                kind = "judgment" if final or "judg" in (order.order_type or "").lower() else "order"
                 save(path, pdf, {
                     "court": "UKHC", "source": "uk-live",
                     "source_key": f"ukhc-live:{ctype}/{no}/{year}:{path.name}",
