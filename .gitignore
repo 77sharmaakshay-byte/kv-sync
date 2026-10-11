@@ -7,3 +7,4 @@ mirror/
 data/
 *.pdf
 .DS_Store
+.venv-tools/
