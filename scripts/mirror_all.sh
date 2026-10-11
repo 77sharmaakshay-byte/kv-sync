@@ -13,11 +13,11 @@ DEST="${1:?Pehla argument: data kahan rakhna hai, jaise ~/krishivlaw-data}"
 shift
 cd "$(dirname "$0")/.." || exit 1
 
-GROUPS="sc-english,sc-meta-parquet,sc-meta-raw,uk-hc-pdf,uk-hc-meta-parquet,uk-hc-meta-raw"
+DATA_GROUPS="sc-english,sc-meta-parquet,sc-meta-raw,uk-hc-pdf,uk-hc-meta-parquet,uk-hc-meta-raw"
 WITH_KAGGLE=1
 for opt in "$@"; do
   case "$opt" in
-    --with-hindi) GROUPS="$GROUPS,sc-regional" ;;
+    --with-hindi) DATA_GROUPS="$DATA_GROUPS,sc-regional" ;;
     --no-kaggle) WITH_KAGGLE=0 ;;
     *) echo "Ye option samajh nahi aaya: $opt"; exit 1 ;;
   esac
@@ -31,7 +31,7 @@ echo "== 1/4 Code ki copy (vendor/)"
 python3 scripts/vendor_sync.py || status=1
 
 echo "== 2/4 Judgments data -> $DEST"
-python3 scripts/mirror_data.py --dest "$DEST" --groups "$GROUPS" --yes
+python3 scripts/mirror_data.py --dest "$DEST" --groups "$DATA_GROUPS" --yes
 rc=$?
 if [ $rc -eq 3 ]; then
   echo "Disk par jagah kam hai, isliye aage nahi badh raha. Jagah khaali karke dobara chalao."
