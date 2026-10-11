@@ -8,6 +8,14 @@
       "why": "SC judgments scraper (scr.sci.gov.in) — fallback agar AWS data band ho jaye"
     },
     {
+      "name": "indian-supreme-court-judgments-old",
+      "url": "https://github.com/vanga/indian-supreme-court-judgments",
+      "branch": "old",
+      "license": "CC-BY-4.0",
+      "use": "product",
+      "why": "SC app API wala purana scraper + 48,283 judgments ki list (reportable aur non-reportable dono, 1950–2024)"
+    },
+    {
       "name": "bharat-courts",
       "url": "https://github.com/iamshouvikmitra/bharat-courts",
       "license": "MIT",

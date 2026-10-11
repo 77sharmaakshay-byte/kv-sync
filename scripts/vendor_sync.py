@@ -32,9 +32,9 @@ def git(*args, cwd=None):
     return subprocess.run(["git", *args], cwd=cwd, capture_output=True, text=True, env=env)
 
 
-def remote_head(url):
-    """Upstream ki HEAD commit, ya None agar repo nahi mila."""
-    res = git("ls-remote", url, "HEAD")
+def remote_head(url, branch=None):
+    """Upstream ki HEAD (ya branch) commit, ya None agar repo/branch nahi mila."""
+    res = git("ls-remote", url, f"refs/heads/{branch}" if branch else "HEAD")
     if res.returncode != 0 or not res.stdout.strip():
         return None
     return res.stdout.split()[0]
@@ -44,7 +44,8 @@ def snapshot(repo, dest):
     """Repo ko clone karke .git ke bina dest mein rakho. Commit info lautao."""
     with tempfile.TemporaryDirectory() as tmp:
         work = Path(tmp) / "repo"
-        res = git("clone", "--quiet", "--depth", "1", repo["url"], str(work))
+        branch = ["--branch", repo["branch"]] if repo.get("branch") else []
+        res = git("clone", "--quiet", "--depth", "1", *branch, repo["url"], str(work))
         if res.returncode != 0:
             raise RuntimeError(res.stderr.strip())
         info = git("log", "-1", "--format=%H%n%cI", cwd=work).stdout.split("\n")
@@ -98,7 +99,7 @@ def main():
         entry = lock.get(name, {})
         entry.update({k: repo[k] for k in ("url", "license", "use")})
         entry["checked_at"] = now
-        head = remote_head(repo["url"])
+        head = remote_head(repo["url"], repo.get("branch"))
         if head is None:
             problems += 1
             entry["status"] = "GAYAB — upstream nahi mila, purani copy rakhi hai"

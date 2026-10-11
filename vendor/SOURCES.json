@@ -3,7 +3,7 @@
     "url": "https://github.com/vanga/indian-supreme-court-judgments",
     "license": "CC-BY-4.0",
     "use": "product",
-    "checked_at": "2026-10-11T05:54:29+00:00",
+    "checked_at": "2026-10-11T06:05:38+00:00",
     "commit": "e6376df92538c9086b94fcccd334912cfd08c15d",
     "commit_date": "2026-07-17T17:38:44+00:00",
     "status": "zinda — copy taaza hai"
@@ -12,7 +12,7 @@
     "url": "https://github.com/iamshouvikmitra/bharat-courts",
     "license": "MIT",
     "use": "product",
-    "checked_at": "2026-10-11T05:54:29+00:00",
+    "checked_at": "2026-10-11T06:05:38+00:00",
     "commit": "73cb5fa8b45332bb20e3e30dd1b5d0b7655c27d0",
     "commit_date": "2026-09-08T13:15:30+05:30",
     "status": "zinda — copy taaza hai"
@@ -21,7 +21,7 @@
     "url": "https://github.com/OpenNyAI/Opennyai",
     "license": "MIT",
     "use": "product",
-    "checked_at": "2026-10-11T05:54:29+00:00",
+    "checked_at": "2026-10-11T06:05:38+00:00",
     "commit": "2abee8fc7085270d7197dcb70d7b8c07d00364e3",
     "commit_date": "2026-04-01T18:45:13+05:30",
     "status": "zinda — copy taaza hai"
@@ -30,7 +30,7 @@
     "url": "https://github.com/vanga/indian-high-court-judgments",
     "license": "NONE (code); data CC-BY-4.0",
     "use": "reference",
-    "checked_at": "2026-10-11T05:54:29+00:00",
+    "checked_at": "2026-10-11T06:05:38+00:00",
     "commit": "0d941bf8ce2c721b461782f15fe21ef69b559037",
     "commit_date": "2026-08-24T22:09:19+05:30",
     "status": "zinda — copy taaza hai"
@@ -39,7 +39,7 @@
     "url": "https://github.com/openjustice-in/ecourts",
     "license": "GPL-3.0-or-later",
     "use": "reference",
-    "checked_at": "2026-10-11T05:54:29+00:00",
+    "checked_at": "2026-10-11T06:05:38+00:00",
     "commit": "812d1c44540f7ca03bb8a5fd51fc8026cb9e188f",
     "commit_date": "2026-10-05T16:08:23+00:00",
     "status": "zinda — copy taaza hai"
@@ -48,7 +48,7 @@
     "url": "https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline",
     "license": "Apache-2.0",
     "use": "product",
-    "checked_at": "2026-10-11T05:54:29+00:00",
+    "checked_at": "2026-10-11T06:05:38+00:00",
     "commit": "bc0c9079734e4626a080721a3b4012953fdda0b5",
     "commit_date": "2024-04-17T14:11:55+05:30",
     "status": "zinda — copy taaza hai"
@@ -57,9 +57,18 @@
     "url": "https://github.com/vanga/indian-district-court-judgments",
     "license": "NONE (code)",
     "use": "reference",
-    "checked_at": "2026-10-11T05:54:29+00:00",
+    "checked_at": "2026-10-11T06:05:38+00:00",
     "commit": "95b62b992be7d6887f3074e8528eb3b0e721486c",
     "commit_date": "2026-05-08T11:50:54+05:30",
+    "status": "zinda — copy taaza hai"
+  },
+  "indian-supreme-court-judgments-old": {
+    "url": "https://github.com/vanga/indian-supreme-court-judgments",
+    "license": "CC-BY-4.0",
+    "use": "product",
+    "checked_at": "2026-10-11T06:05:38+00:00",
+    "commit": "3a392955a28cc4ed737af8f4c6daae249664c358",
+    "commit_date": "2025-05-01T09:38:25+05:30",
     "status": "zinda — copy taaza hai"
   }
 }
