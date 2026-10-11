@@ -35,9 +35,14 @@ def _row(con, rel, side, sha):
 def load(con, data_dir, workers=None, log=print):
     data_dir = Path(data_dir)
     root = data_dir / "live"
-    # '_case.json' poore case ka page hai (status, parties), PDF ka sidecar nahi.
-    sides = sorted(p for p in root.glob("**/*.json") if not p.name.startswith("_")) if root.exists() else []
+    # '_case.json' (case page) aur '_gap/' (court ki lists) PDF ke sidecar nahi hain.
+    sides = sorted(p for p in root.glob("**/*.json")
+                   if not any(part.startswith("_") for part in p.relative_to(root).parts)) if root.exists() else []
     known = {r[0] for r in con.execute("SELECT pdf_sha256 FROM judgments WHERE pdf_sha256 IS NOT NULL")}
+    # AWS mein case ka aakhri faisla pehle se ho (wahi CNR + tarikh) to court wali copy dobara nahi.
+    known_cd = {(r[0], r[1]) for r in con.execute(
+        "SELECT cnr, decision_date FROM judgments WHERE cnr IS NOT NULL AND decision_date IS NOT NULL "
+        "AND (pdf_archive IS NULL OR pdf_archive != ?)", (ARCHIVE,))}
     stats = {"files": len(sides), "added": 0, "already": 0, "bad": 0}
     for sp in sides:
         pdf = sp.with_suffix(".pdf")
@@ -50,7 +55,7 @@ def load(con, data_dir, workers=None, log=print):
             log(f"[chhoda] {sp}: {err}")
             continue
         sha = hashlib.sha256(pdf.read_bytes()).hexdigest()
-        if sha in known:
+        if sha in known or (side.get("cnr"), side.get("decision_date")) in known_cd:
             stats["already"] += 1
             continue
         if _row(con, str(pdf.relative_to(data_dir)), side, sha):

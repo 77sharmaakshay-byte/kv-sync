@@ -8,11 +8,14 @@ Phir (Mac par, .venv-live wale Python se):
     .venv-live/bin/python scripts/fetch_live.py --data ~/krishivlaw-data uk-types
     .venv-live/bin/python scripts/fetch_live.py --data ~/krishivlaw-data uk-case WPSS/1304/2024 WPSB/12/2025
     .venv-live/bin/python scripts/fetch_live.py --data ~/krishivlaw-data uk-search "compassionate appointment" --max 300
+    .venv-live/bin/python scripts/fetch_live.py --data ~/krishivlaw-data uk-gap --types WPSS --years 2026 --list-only
 
 - sc-latest : sci.gov.in ke "Latest Judgements / Orders" (aakhri 50; roz chalao to kuch nahi chhootega)
 - uk-types  : Nainital HC ke case type codes (WPSS, WPSB, SPA...) dikhao
 - uk-case   : case number se us case ke orders/judgment (hcservices.ecourts.gov.in)
 - uk-search : judgments.ecourts.gov.in par shabd se Uttarakhand HC judgments (pura search, pages ke saath)
+- uk-gap    : Nainital HC ke SAARE disposed cases (case type + saal) aur unke saare orders
+- uk-probe  : uk-gap ka form court ke page se pakka karo (scripts/ukhc_live.py dekho)
 
 Har PDF ke saath ek JSON sidecar <data>/live/... mein banta hai. Database mein
 daalne ke liye: python3 scripts/build_db.py --data ~/krishivlaw-data --live
@@ -21,46 +24,18 @@ par dobara chalana safe hai. Captcha bharat-courts ka OCR (ddddocr, model saath 
 """
 import argparse
 import asyncio
-import datetime as dt
-import hashlib
-import json
-import re
 import sys
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode
 
 import httpx
-from bharat_courts.courts import get_court
-from bharat_courts.hcservices import endpoints as hc_endpoints
-from bharat_courts.hcservices.client import HCServicesClient
+import ukhc_live
 from bharat_courts.judgments import endpoints as judg_endpoints
 from bharat_courts.judgments.client import JudgmentSearchClient
 from bharat_courts.sci.client import SCIClient
+from live_common import iso, safe, save
 
-UK = get_court("uttarakhand")
-CASE_RE = re.compile(r"^([A-Za-z0-9.()^]+)[/ -](\d+)[/ -](\d{4})$")
-
-
-def now():
-    return dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
-
-
-def iso(d):
-    return d.isoformat() if d else None
-
-
-def save(path, pdf, side):
-    """PDF + JSON sidecar. Pehle JSON .tmp mein, taaki adhoori file kabhi 'poori' na lage."""
-    path.parent.mkdir(parents=True, exist_ok=True)
-    side = dict(side, sha256=hashlib.sha256(pdf).hexdigest(), fetched_at=now(), fetched_by="fetch_live.py")
-    path.with_suffix(".pdf").write_bytes(pdf)
-    tmp = path.with_suffix(".json.tmp")
-    tmp.write_text(json.dumps(side, ensure_ascii=False, indent=1), encoding="utf-8")
-    tmp.replace(path.with_suffix(".json"))
-
-
-def safe(s):
-    return re.sub(r"[^A-Za-z0-9._-]+", "_", s or "").strip("_") or "x"
+UK = ukhc_live.UK
 
 
 async def sc_latest(out, args):
@@ -91,123 +66,6 @@ async def sc_latest(out, args):
             print(f"  [new] {iso(j.judgment_date)} {j.case_number} {j.title[:70]}")
     print(f"SC: {new} naye, {old} pehle se, {bad} errors")
     return 1 if bad else 0
-
-
-def _label(name):
-    return re.sub(r"[^A-Z]", "", re.split(r"[(\-]", name)[0].upper())
-
-
-def _match_type(types, label):
-    """'WPSS' (ya seedha code '12') -> [codes]. Portal ke naam 'WPSS(...)' / 'WPSS - ...' jaise hote hain."""
-    if label in types:
-        return [label]
-    want = re.sub(r"[^A-Z]", "", label.upper())
-    return [code for code, name in types.items() if _label(name) == want]
-
-
-async def uk_types(out, args):
-    async with HCServicesClient() as client:
-        types = await client.list_case_types(UK, bench_code=args.bench)
-    for code, name in sorted(types.items(), key=lambda x: x[1]):
-        print(f"  {code:10s} {name}")
-    print(f"{len(types)} case types")
-    return 0
-
-
-async def uk_case(out, args):
-    bad = 0
-    async with HCServicesClient() as client:
-        types = await client.list_case_types(UK, bench_code=args.bench)
-        for spec in args.cases:
-            m = CASE_RE.match(spec.strip())
-            codes = _match_type(types, m.group(1)) if m else []
-            if len(codes) != 1:
-                bad += 1
-                hint = ", ".join(f"{c}={types[c]}" for c in codes) or "uk-types se dekho"
-                print(f"[samjha nahi] {spec} — likho jaise WPSS/1304/2024; type ke liye code bhi chalega ({hint})")
-                continue
-            code, no, year = codes[0], m.group(2), m.group(3)
-            ctype = _label(types[code]) or code
-            try:
-                infos = await client.case_status(UK, case_type=code, case_number=no, year=year,
-                                                 bench_code=args.bench)
-            except Exception as err:  # noqa: BLE001
-                bad += 1
-                print(f"[error] {spec}: {err}")
-                continue
-            info = infos[0] if infos else None
-            detail, orders = None, []
-            if info and info.cnr_number:
-                # CNR wala poora case page: har order ki tarikh, judge aur apna link.
-                try:
-                    detail = await client.case_status_by_cnr(info.cnr_number)
-                    orders = detail.orders
-                except Exception as err:  # noqa: BLE001
-                    print(f"  [CNR page nahi mila, doosra raasta] {err}")
-            if not orders:
-                try:
-                    orders = await client.court_orders(UK, case_type=code, case_number=no, year=year,
-                                                       bench_code=args.bench)
-                except Exception as err:  # noqa: BLE001
-                    print(f"  [orders nahi mile] {err}")
-            pet = (detail.petitioners[0].name if detail and detail.petitioners else None) or (info and info.petitioner)
-            res = (detail.respondents[0].name if detail and detail.respondents else None) or (info and info.respondent)
-            status = (detail and (detail.status or detail.case_stage)) or (info and info.status) or "?"
-            print(f"{spec}: {pet} v. {res} · CNR {info.cnr_number if info else '?'} · {status}"
-                  f"{' · faisla ' + iso(detail.decision_date) if detail and detail.decision_date else ''}"
-                  f" · {len(orders)} order PDF")
-            folder = out / "uk" / f"{ctype}-{no}-{year}"
-            if detail:
-                folder.mkdir(parents=True, exist_ok=True)
-                (folder / "_case.json").write_text(detail.to_json(indent=1), encoding="utf-8")
-            for n, order in enumerate(orders, 1):
-                # Sirf CNR page wali tarikh sahi hai; doosre raaste mein library aaj ki tarikh bhar deti hai.
-                odate = iso(order.order_date) if detail else None
-                path = folder / (f"{odate}-{n:03d}" if odate else f"order-{n:03d}")
-                if path.with_suffix(".json").exists():
-                    continue
-                pdf, err = None, None
-                for attempt in range(3):  # 'Unable to connect to server' aksar thodi der ka hota hai
-                    try:
-                        pdf = await order_pdf(client, order.pdf_url)
-                        break
-                    except Exception as e:  # noqa: BLE001
-                        err = e
-                        await asyncio.sleep(5 * (attempt + 1))
-                if pdf is None:
-                    bad += 1
-                    print(f"  [error] {odate or ''} {order.order_type}: {err}")
-                    continue
-                # Nainital HC 'order on' mein case number likhta hai, isliye aakhri faisla tarikh se pehchano.
-                final = bool(detail and detail.decision_date and order.order_date == detail.decision_date)
-                kind = "judgment" if final or "judg" in (order.order_type or "").lower() else "order"
-                save(path, pdf, {
-                    "court": "UKHC", "source": "uk-live",
-                    "source_key": f"ukhc-live:{ctype}/{no}/{year}:{path.name}",
-                    "title": f"{pet} versus {res}" if pet or res else None, "petitioner": pet, "respondent": res,
-                    "case_no": f"{ctype}/{no}/{year}", "case_type": ctype, "decision_date": odate,
-                    "cnr": info.cnr_number if info else None, "doc_kind": kind, "order_type": order.order_type,
-                    "judges": [order.judge] if order.judge else None,
-                    "case_status": status, "pdf_url": order.pdf_url})
-                print(f"  [new] {odate or ''} {order.order_type} {order.judge}")
-    return 1 if bad else 0
-
-
-def clean_pdf(content):
-    """Nainital HC ka server PDF se pehle UTF-8 BOM (3 bytes) laga deta hai — hata do.
-    PDF ke andar ke byte-offsets bina BOM ke hisaab se hote hain, isliye kaatna hi sahi hai."""
-    start = content.find(b"%PDF", 0, 1024)
-    if start < 0:
-        text = content[:200].decode("utf-8", "replace").lstrip("\ufeff").strip()
-        raise RuntimeError(f"PDF nahi mili, server ne kaha: {text!r}")
-    return content[start:]
-
-
-async def order_pdf(client, url):
-    """bharat-courts ka download_order_pdf BOM wali PDF ko 'galat' maan leta hai; wahi request, apni jaanch."""
-    resp = await client._http.get(url, headers={"Referer": hc_endpoints.MAIN_PAGE_URL,
-                                               "Accept": "application/pdf,*/*"})
-    return clean_pdf(resp.content)
 
 
 def _with_filters(build, extra):
@@ -264,9 +122,7 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
     p = sub.add_parser("sc-latest")
     p.add_argument("--limit", type=int, default=50)
-    sub.add_parser("uk-types")
-    p = sub.add_parser("uk-case")
-    p.add_argument("cases", nargs="+", help="jaise WPSS/1304/2024")
+    commands = ukhc_live.add_commands(sub)
     p = sub.add_parser("uk-search")
     p.add_argument("text")
     p.add_argument("--opt", default="PHRASE", choices=["PHRASE", "ALL", "ANY"])
@@ -275,7 +131,7 @@ def main():
     p.add_argument("--max", type=int, default=0, help="itne results ke baad ruko (0 = sab)")
     args = ap.parse_args()
     out = args.data.expanduser() / "live"
-    run = {"sc-latest": sc_latest, "uk-types": uk_types, "uk-case": uk_case, "uk-search": uk_search}[args.cmd]
+    run = dict(commands, **{"sc-latest": sc_latest, "uk-search": uk_search})[args.cmd]
     try:
         return asyncio.run(run(out, args))
     except httpx.HTTPError as err:
