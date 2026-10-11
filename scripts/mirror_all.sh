@@ -47,12 +47,15 @@ echo "== 4/4 SC (reportable + non-reportable, 1950-2024) Kaggle se -> $DEST/kagg
 if [ $WITH_KAGGLE -eq 0 ]; then
   echo "   --no-kaggle diya hai, ye hissa chhod diya."
 else
-  # kaggle apne alag folder (.venv-tools) mein install hota hai, taaki Mac ke
-  # system Python, PATH ya "externally-managed" jaisi dikkatein beech mein na aayein.
-  KAGGLE=".venv-tools/bin/kaggle"
+  # Naya kaggle (naye KGAT_ token ke saath) Python 3.11+ maangta hai, jabki Mac
+  # par aksar Python 3.9 hota hai (us par kaggle 1.7 aata hai jo sirf kaggle.json
+  # samajhta hai). Isliye uv se ek alag Python 3.12 (.venv-kaggle) banate hain.
+  KAGGLE=".venv-kaggle/bin/kaggle"
   if [ ! -x "$KAGGLE" ]; then
-    echo "   kaggle install ho raha hai (.venv-tools/)..."
-    python3 -m venv .venv-tools && .venv-tools/bin/python -m pip install -q --upgrade pip kaggle \
+    echo "   kaggle install ho raha hai (.venv-kaggle/, Python 3.12)..."
+    { python3 -m venv .venv-tools && .venv-tools/bin/python -m pip install -q --upgrade pip uv \
+      && .venv-tools/bin/uv venv -q --python 3.12 .venv-kaggle \
+      && .venv-tools/bin/uv pip install -q --python .venv-kaggle/bin/python kaggle; } \
       || { echo "   kaggle install nahi hua — upar ka error message bhejo."; KAGGLE=""; }
   fi
   FREE=$(free_gb "$DEST")
