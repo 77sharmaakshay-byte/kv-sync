@@ -62,7 +62,7 @@ def sc_rows(data_dir):
         index = tar_dir / "english.index.json"
         members = _index_members(index) if index.exists() else {}
         cols = [c for c in pq.read_schema(pq_path).names if c != "raw_html"]
-        for r in pq.read_table(pq_path, columns=cols).to_pylist():
+        for r in pq.ParquetFile(pq_path).read(columns=cols).to_pylist():
             key = _s(r.get("path"))
             if not key:
                 continue
@@ -92,7 +92,7 @@ def uk_rows(data_dir):
         index = tar_dir / "data.index.json"
         members = _index_members(index) if index.exists() else {}
         cols = [c for c in pq.read_schema(pq_path).names if c not in ("raw_html", "description")]
-        for r in pq.read_table(pq_path, columns=cols).to_pylist():
+        for r in pq.ParquetFile(pq_path).read(columns=cols).to_pylist():
             link = _s(r.get("pdf_link"))
             if not link:
                 continue
