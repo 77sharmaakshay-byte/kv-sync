@@ -24,6 +24,9 @@ def _process(args):
     """Worker: PDF bytes -> sab kuch jo database mein jana hai. (Alag process mein chalta hai.)"""
     jid, court, pdf_bytes = args
     out = {"id": jid, "sha256": hashlib.sha256(pdf_bytes).hexdigest()}
+    if not pdf_bytes:
+        out["error"] = "khaali file (source mein 0 bytes — PDF kabhi download hi nahi hui)"
+        return out
     try:
         pages, has_text = pdftext.extract(pdf_bytes)
     except ValueError as err:
