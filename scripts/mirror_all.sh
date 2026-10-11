@@ -22,6 +22,10 @@ python3 scripts/mirror_models.py --dest "$DEST" || status=1
 # SC ke non-reportable judgments: vanga ka purana Kaggle dataset (CC-BY).
 # Free Kaggle account + ~/.kaggle/kaggle.json token chahiye.
 echo "== 4/4 SC (reportable + non-reportable, 1950-2024) Kaggle se -> $DEST/kaggle-sc-all"
+# Mac par 'pip3 install kaggle' user folder mein jata hai (~/Library/Python/3.x/bin),
+# jo aksar PATH mein nahi hota.
+USER_BIN="$(python3 -m site --user-base 2>/dev/null)/bin"
+[ -d "$USER_BIN" ] && PATH="$USER_BIN:$PATH"
 if command -v kaggle >/dev/null 2>&1; then
   kaggle datasets download -d vangap/indian-supreme-court-judgments -p "$DEST/kaggle-sc-all" || status=1
 else
