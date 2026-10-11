@@ -1,0 +1,56 @@
+!!python/object:entities.case.Case
+bench: Single Bench
+case_number: null
+case_status: MOTION
+case_type: BA
+category: null
+cnr_number: GAHC040007922024
+coram: 1366HONBLE MR. JUSTICE PARTHIVJYOTI SAIKIA
+decision_date: null
+district: null
+filing_date: 2024-06-24
+filing_number: 343/2024
+fir: null
+first_hearing_date: null
+hearings:
+- !!python/object:entities.hearing.Hearing
+  cause_list_type: Supplementary
+  court_no: '1434'
+  date: 2024-06-25
+  details: null
+  judge: HONBLE MR. JUSTICE BUDI HABUNG
+  next_date: null
+  purpose: MOTION
+  srno: 1
+judicial: Criminal Section
+nature_of_disposal: null
+not_before_me: null
+objections:
+- !!python/object:entities.objection.Objection
+  compliance_date: null
+  objection: All Objections are Complied
+  receipt_date: null
+  scrutiny_date: 2024-06-24
+orders:
+- !!python/object:entities.order.Order
+  date: 2024-06-25
+  filename: bzPoyUlszYLCUcCpirIpqLPkTLgaTkEH+t8f0EzOfYNA5sdZ6N4WquS8CofJwYCV
+  judge: HONBLE MR. JUSTICE BUDI HABUNG
+  judgement: null
+petitioners:
+- !!python/object:entities.party.Party
+  advocate: Teto Taba,Begi Taba,Begi Taba ,Begi Taba,C Ering,Vijay Duku Raji,Mardo
+    Game,Anong kabak,Nimcha Hondique
+  name: Mama Rigam
+registration_date: 2024-06-24
+registration_number: 64/2024
+respondents:
+- !!python/object:entities.party.Party
+  advocate: P P of AP
+  name: The State of AP and Anr
+- !!python/object:entities.party.Party
+  advocate: null
+  name: Miss Tana Moryom
+state: Arunachal Pradesh
+sub_category: null
+token: null

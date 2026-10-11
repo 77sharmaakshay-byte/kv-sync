@@ -1,0 +1,76 @@
+{
+  "repos": [
+    {
+      "name": "indian-supreme-court-judgments",
+      "url": "https://github.com/vanga/indian-supreme-court-judgments",
+      "license": "CC-BY-4.0",
+      "use": "product",
+      "why": "SC judgments scraper (scr.sci.gov.in) — fallback agar AWS data band ho jaye"
+    },
+    {
+      "name": "bharat-courts",
+      "url": "https://github.com/iamshouvikmitra/bharat-courts",
+      "license": "MIT",
+      "use": "product",
+      "why": "Advocate ke cases (bar code se), advocate cause list, HC judgments portal client"
+    },
+    {
+      "name": "opennyai",
+      "url": "https://github.com/OpenNyAI/Opennyai",
+      "license": "MIT",
+      "use": "product",
+      "why": "Judgment ke para tag: Facts / Issue / Ratio / Precedent relied"
+    },
+    {
+      "name": "indian-high-court-judgments",
+      "url": "https://github.com/vanga/indian-high-court-judgments",
+      "license": "NONE (code); data CC-BY-4.0",
+      "use": "reference",
+      "why": "HC scraper — code par license nahi, isliye sirf padhne ke liye; product mein nahi"
+    },
+    {
+      "name": "ecourts",
+      "url": "https://github.com/openjustice-in/ecourts",
+      "license": "GPL-3.0-or-later",
+      "use": "reference",
+      "why": "eCourts HC services ka doosra client — GPL, isliye product code mein nahi"
+    }
+  ],
+  "models": [
+    {
+      "name": "InRhetoricalRoleModel.pt",
+      "url": "https://huggingface.co/opennyaiorg/InRhetoricalRoles/resolve/main/InRhetoricalRoleModel.pt"
+    },
+    {
+      "name": "InExtractiveSummarizerModel.pt",
+      "url": "https://huggingface.co/opennyaiorg/InExtractiveSummarizer/resolve/main/InExtractiveSummarizerModel.pt"
+    },
+    {
+      "name": "en_legal_ner_trf-any-py3-none-any.whl",
+      "url": "https://huggingface.co/opennyaiorg/en_legal_ner_trf/resolve/main/en_legal_ner_trf-any-py3-none-any.whl"
+    }
+  ],
+  "datasets": {
+    "sc": {
+      "bucket": "indian-supreme-court-judgments",
+      "license": "CC-BY-4.0",
+      "groups": {
+        "sc-english": {"prefix": "data/tar/", "contains": "/english/"},
+        "sc-regional": {"prefix": "data/tar/", "contains": "/regional/", "optional": true},
+        "sc-meta-parquet": {"prefix": "metadata/parquet/"},
+        "sc-meta-raw": {"prefix": "metadata/tar/"}
+      }
+    },
+    "hc": {
+      "bucket": "indian-high-court-judgments",
+      "license": "CC-BY-4.0",
+      "court": "5_15",
+      "years": [1950, 2026],
+      "groups": {
+        "uk-hc-pdf": {"prefix": "data/tar/year={year}/court={court}/"},
+        "uk-hc-meta-parquet": {"prefix": "metadata/parquet/year={year}/court={court}/"},
+        "uk-hc-meta-raw": {"prefix": "metadata/tar/year={year}/court={court}/"}
+      }
+    }
+  }
+}

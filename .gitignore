@@ -1,0 +1,9 @@
+# Data aur secrets kabhi commit nahi
+*.part
+__pycache__/
+.env
+.env.*
+mirror/
+data/
+*.pdf
+.DS_Store

@@ -1,0 +1,2061 @@
+import shutil
+from src.gs import compress_pdf
+from src.utils.file_utils import (
+    extract_decision_date_from_json,
+    extract_bench_from_path,
+)
+import argparse
+import concurrent.futures
+import json
+import logging
+import random
+import re
+import sys
+import threading
+import time
+import traceback
+import urllib.parse
+import uuid
+import warnings
+from collections import deque
+from datetime import datetime, timedelta
+from http.cookies import SimpleCookie
+from pathlib import Path
+from typing import Optional, Generator, List, Dict
+
+import lxml.html as LH
+import requests
+import urllib3
+from bs4 import BeautifulSoup
+from tqdm import tqdm
+from src.captcha_solver.main import get_text
+
+from src.utils.court_utils import (
+    to_s3_format,
+    from_s3_format,
+    get_json_file,
+    get_court_codes,
+    get_bench_codes,
+    load_court_bench_mapping,
+)
+from src.utils.s3_utils import (
+    S3_AVAILABLE,
+    create_and_upload_parquet_files,
+    get_court_dates_from_index_files,
+    get_existing_files_from_s3_v2,
+    get_existing_judgment_identities_from_parquet,
+    get_metadata_identity_from_file,
+    upload_files_to_s3_v2,
+    write_scraped_through_date,
+)
+
+
+S3_ENABLED = False
+DAILY_UPDATE_BUFFER_DAYS = 14
+TASK_DOWNLOAD_ATTEMPTS = 3
+# Tolerance for transient task failures before failing the whole run. Failed
+# ranges auto-resume next run (their court's last-downloaded date never
+# advances), so a few transient failures shouldn't paint CI red. Fail hard only
+# when failures are widespread (ratio) or large in absolute terms (count).
+FAILURE_RATIO_THRESHOLD = 0.2
+FAILURE_COUNT_THRESHOLD = 10
+# Wall-clock budget for a whole run. Must stay below the CI job timeout so the
+# run stops itself - draining in-flight uploads and advancing resume cursors -
+# instead of being killed mid-write. A run that cannot reach every court is
+# reported as a failure: an unattempted court is a silent data gap, not a
+# transient error.
+DEFAULT_MAX_RUNTIME_MINUTES = 300
+# Upload and advance the resume cursor every N date ranges within a court,
+# instead of only once after the whole court finishes. The graceful budget above
+# only helps when the process gets to exit on its own; a hard kill (CI hard
+# timeout, OOM, runner eviction) never reaches the end-of-court upload and
+# discards everything that court scraped. Checkpointing bounds that loss to the
+# last partial batch. A normal daily run generates fewer tasks than this, so it
+# still uploads once per court - this only engages when draining a backlog.
+DEFAULT_CHECKPOINT_TASKS = 10
+# Consecutive connectivity failures before the run gives up entirely. A portal
+# that refuses to connect will not start working because we asked 3,000 more
+# times: retrying past this point is just load on a service that is already
+# struggling, and it burns the run's budget producing nothing. Counts only
+# connection-level errors (timeouts, refused, DNS) - an HTTP response, even an
+# error one, means the portal is alive and is handled by the per-task retries.
+# Reachability is judged from a sliding window of individual request outcomes.
+# Earlier versions counted consecutive *task* failures, which conflates two
+# different things: a portal that is gone, and one merely slow enough that
+# whole tasks fail. At a 33% connection-drop rate almost every task fails while
+# two thirds of requests still succeed - a portal well worth continuing
+# against, which the old design stopped the run on anyway.
+CONNECTIVITY_WINDOW = 40
+# Never judge on a handful of requests; several workers can each hit a blip.
+CONNECTIVITY_MIN_SAMPLES = 20
+# Only near-total failure means "nothing is answering". A partial drop rate,
+# however painful, is a working portal.
+CONNECTIVITY_FAILURE_RATIO = 0.9
+# How long to hold off before letting traffic re-prove reachability.
+CONNECTIVITY_PAUSE_SECONDS = 60
+# No successful request at all for this long means the portal is genuinely
+# gone, and the run stops rather than waiting out its whole budget.
+CONNECTIVITY_OUTAGE_SECONDS = 300
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+warnings.filterwarnings("ignore")
+
+# Import compression functions
+
+# Check if Ghostscript is available on the system
+
+
+def check_ghostscript_available():
+    """Check if Ghostscript is available on the system"""
+    import subprocess
+
+    try:
+        result = subprocess.run(
+            ["gs", "--version"], capture_output=True, text=True, timeout=5
+        )
+        return result.returncode == 0
+    except (subprocess.TimeoutExpired, FileNotFoundError, OSError):
+        return False
+
+
+COMPRESSION_AVAILABLE = check_ghostscript_available()
+if not COMPRESSION_AVAILABLE:
+    print("WARNING: PDF compression not available (Ghostscript not found)")
+
+
+logger = logging.getLogger(__name__)
+logger.setLevel("INFO")
+handler = logging.StreamHandler(sys.stdout)
+handler.setLevel(logging.INFO)
+handler.setFormatter(
+    logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+)
+logger.addHandler(handler)
+
+
+def compress_pdf_if_enabled(pdf_path):
+    """
+    Compress a PDF file if compression is enabled and available.
+    Returns the path to the final PDF (original or compressed).
+    """
+    if not COMPRESSION_AVAILABLE:
+        return pdf_path
+
+    try:
+        # Create temporary compressed file
+        compressed_path = pdf_path.with_suffix(".compressed.pdf")
+
+        # Compress the PDF
+        success, message = compress_pdf(pdf_path, compressed_path)
+
+        if success and compressed_path.exists():
+            original_size = pdf_path.stat().st_size
+            compressed_size = compressed_path.stat().st_size
+
+            # Only replace if compressed version is smaller
+            if compressed_size < original_size:
+                # Replace original with compressed version
+                pdf_path.unlink()  # Remove original
+                # Rename compressed to original name
+                compressed_path.rename(pdf_path)
+                logger.debug(
+                    f"Compressed PDF: {pdf_path.name} ({original_size} → {compressed_size} bytes)"
+                )
+                return pdf_path
+            else:
+                # Keep original, remove compressed version
+                compressed_path.unlink()
+                logger.debug(
+                    f"Skipped compression for {pdf_path.name}: no size reduction"
+                )
+                return pdf_path
+        else:
+            # Compression failed, keep original
+            if compressed_path.exists():
+                compressed_path.unlink()
+            logger.debug(f"Compression failed for {pdf_path.name}: {message}")
+            return pdf_path
+
+    except Exception as e:
+        logger.warning(f"Error compressing {pdf_path.name}: {e}")
+        return pdf_path
+
+
+root_url = "https://judgments.ecourts.gov.in"
+output_dir = Path("./data")
+
+
+payload = "&sEcho=1&iColumns=2&sColumns=,&iDisplayStart=0&iDisplayLength=100&mDataProp_0=0&sSearch_0=&bRegex_0=false&bSearchable_0=true&bSortable_0=true&mDataProp_1=1&sSearch_1=&bRegex_1=false&bSearchable_1=true&bSortable_1=true&sSearch=&bRegex=false&iSortCol_0=0&sSortDir_0=asc&iSortingCols=1&search_txt1=&search_txt2=&search_txt3=&search_txt4=&search_txt5=&pet_res=&state_code=27~1&state_code_li=&dist_code=null&case_no=&case_year=&from_date=&to_date=&judge_name=&reg_year=&fulltext_case_type=&int_fin_party_val=undefined&int_fin_case_val=undefined&int_fin_court_val=undefined&int_fin_decision_val=undefined&act=&sel_search_by=undefined&sections=undefined&judge_txt=&act_txt=&section_txt=&judge_val=&act_val=&year_val=&judge_arr=&flag=&disp_nature=&search_opt=PHRASE&date_val=ALL&fcourt_type=2&citation_yr=&citation_vol=&citation_supl=&citation_page=&case_no1=&case_year1=&pet_res1=&fulltext_case_type1=&citation_keyword=&sel_lang=&proximity=&neu_cit_year=&neu_no=&ajax_req=true&app_token=1fbc7fbb840eb95975c684565909fe6b3b82b8119472020ff10f40c0b1c901fe"
+
+
+pdf_link_payload = "val=0&lang_flg=undefined&path=cnrorders/taphc/orders/2017/HBHC010262202017_1_2047-06-29.pdf#page=&search=+&citation_year=&fcourt_type=2&file_type=undefined&nc_display=undefined&ajax_req=true&app_token=c64944b84c687f501f9692e239e2a0ab007eabab497697f359a2f62e4fcd3d10"
+
+page_size = 1000
+NO_CAPTCHA_BATCH_SIZE = 25
+lock = threading.Lock()
+
+# Portal bench filters confirmed from browser network captures. These split
+# dense courts into smaller search payloads and avoid repeated session expiry.
+DEFAULT_DIST_CODES_BY_COURT = {
+    "33~10": ("1", "2"),  # Madras: hc_cis_mas, mdubench
+}
+
+captcha_failures_dir = Path("./captcha-failures")
+captcha_tmp_dir = Path("./captcha-tmp")
+captcha_failures_dir.mkdir(parents=True, exist_ok=True)
+captcha_tmp_dir.mkdir(parents=True, exist_ok=True)
+
+S3_PREFIX = "metadata/json/"
+LOCAL_DIR = "./local_hc_metadata"
+OUTPUT_DIR = output_dir
+
+
+class S3FileListCacheStore:
+    """Cache for S3 file listings, keyed by (year, court_code, bench, data_type).
+
+    Populated lazily on first access. Call invalidate() after uploading new files
+    so subsequent lookups reflect the new state.
+    """
+    def __init__(self):
+        self.cache = {}
+
+    def get(self, year: int, court_code: str, bench: str, data_type: str):
+        s3_court_code = to_s3_format(court_code)
+        key = (year, s3_court_code, bench, data_type)
+        if key in self.cache:
+            return self.cache[key]
+        else:
+            files = get_existing_files_from_s3_v2(data_type, year, s3_court_code, bench)
+            self.cache[key] = files
+            return files
+
+    def invalidate(self, year: int, court_code: str, bench: str, data_type: str = None):
+        """Remove cached entries so the next get() fetches fresh data from S3.
+
+        If data_type is None, invalidates both metadata and data for the key.
+        """
+        s3_court_code = to_s3_format(court_code)
+        if data_type:
+            self.cache.pop((year, s3_court_code, bench, data_type), None)
+        else:
+            self.cache.pop((year, s3_court_code, bench, "metadata"), None)
+            self.cache.pop((year, s3_court_code, bench, "data"), None)
+
+
+cache_store = S3FileListCacheStore()
+
+
+def get_new_date_range(
+    last_date: str, day_step: int = 1
+) -> tuple[str | None, str | None]:
+    last_date_dt = datetime.strptime(last_date, "%Y-%m-%d")
+    new_from_date_dt = last_date_dt + timedelta(days=1)
+    new_to_date_dt = new_from_date_dt + timedelta(days=day_step - 1)
+    if new_from_date_dt.date() > datetime.now().date():
+        return None, None
+
+    if new_to_date_dt.date() > datetime.now().date():
+        new_to_date_dt = datetime.now()
+    new_from_date = new_from_date_dt.strftime("%Y-%m-%d")
+    new_to_date = new_to_date_dt.strftime("%Y-%m-%d")
+    return new_from_date, new_to_date
+
+
+def get_date_ranges_to_process(court_code, start_date, end_date, day_step=1):
+    """
+    Generate date ranges to process for a given court.
+    Requires explicit start_date and end_date parameters.
+    """
+    if not start_date or not end_date:
+        raise ValueError("Both start_date and end_date are required")
+
+    start_date_dt = datetime.strptime(start_date, "%Y-%m-%d")
+    end_date_dt = datetime.strptime(end_date, "%Y-%m-%d")
+
+    current_date = start_date_dt
+    while current_date <= end_date_dt:
+        range_end = min(current_date + timedelta(days=day_step - 1), end_date_dt)
+        yield (current_date.strftime("%Y-%m-%d"), range_end.strftime("%Y-%m-%d"))
+        current_date = range_end + timedelta(days=1)
+
+
+class CourtDateTask:
+    def __init__(
+        self,
+        court_code: str,
+        from_date: str,
+        to_date: str,
+        dist_code: Optional[str] = None,
+    ):
+        self.id = str(uuid.uuid4())
+        self.court_code = court_code
+        self.from_date = from_date
+        self.to_date = to_date
+        self.dist_code = dist_code
+
+    def __str__(self):
+        dist_part = (
+            f", dist_code={self.dist_code}"
+            if self.dist_code is not None
+            else ""
+        )
+        return (
+            f"CourtDateTask(id={self.id}, court_code={self.court_code}, "
+            f"from_date={self.from_date}, to_date={self.to_date}{dist_part})"
+        )
+
+
+def generate_tasks(
+    court_codes: Optional[list[str]] = None,
+    start_date: Optional[str] = None,
+    end_date: Optional[str] = None,
+    day_step: int = 1,
+    dist_code: Optional[str] = None,
+    use_default_dist_codes: bool = True,
+) -> Generator[CourtDateTask, None, None]:
+    """Generate tasks for processing courts and date ranges as a generator"""
+    all_court_codes = get_court_codes()
+    if not court_codes:
+        court_codes = all_court_codes
+    else:
+        normalized_codes = []
+        for court_code in court_codes:
+            normalized_code = from_s3_format(court_code)
+            if normalized_code in all_court_codes:
+                normalized_codes.append(normalized_code)
+            else:
+                raise ValueError(
+                    f"Court code {court_code} (normalized to {normalized_code}) not found in court-codes.json"
+                )
+        court_codes = normalized_codes
+
+    for code in court_codes:
+        if dist_code is not None:
+            dist_codes = (dist_code,)
+        elif use_default_dist_codes:
+            dist_codes = DEFAULT_DIST_CODES_BY_COURT.get(code, (None,))
+        else:
+            dist_codes = (None,)
+
+        for from_date, to_date in get_date_ranges_to_process(
+            code, start_date, end_date, day_step
+        ):
+            for task_dist_code in dist_codes:
+                yield CourtDateTask(
+                    code, from_date, to_date, dist_code=task_dist_code
+                )
+
+
+class PortalUnreachable(RuntimeError):
+    """The portal stopped accepting connections; the run gave up on purpose."""
+
+
+def _is_connectivity_error(exc):
+    """True if the portal could not be reached at all.
+
+    Deliberately narrow: a connection-level failure means nothing answered.
+    An HTTP response - even 5xx, even a CAPTCHA or session error - proves the
+    portal is alive and is the per-task retries' problem, not the breaker's.
+    """
+    seen = set()
+    while exc is not None and id(exc) not in seen:
+        seen.add(id(exc))
+        if isinstance(
+            exc,
+            (
+                requests.exceptions.ConnectionError,
+                requests.exceptions.ConnectTimeout,
+                requests.exceptions.ReadTimeout,
+                urllib3.exceptions.NewConnectionError,
+                urllib3.exceptions.ConnectTimeoutError,
+            ),
+        ):
+            return True
+        exc = exc.__cause__ or exc.__context__
+    return False
+
+
+class _ConnectivityBreaker:
+    """Judges reachability from recent request outcomes.
+
+    Two separate questions, deliberately kept apart:
+
+    `unreachable` - is almost nothing getting through *right now*? Measured as
+    the failure ratio over the last CONNECTIVITY_WINDOW requests. Workers hold
+    while this is true, then traffic is let back in to re-prove it.
+
+    `exhausted` - has *nothing at all* succeeded for CONNECTIVITY_OUTAGE_SECONDS?
+    That is the only condition that ends a run, and a portal serving even a
+    trickle can never satisfy it.
+    """
+
+    def __init__(self):
+        self._lock = threading.Lock()
+        self._window = deque(maxlen=CONNECTIVITY_WINDOW)
+        self._last_success = time.monotonic()
+        self._paused_until = None
+
+    def reset(self):
+        with self._lock:
+            self._window.clear()
+            # Start the outage clock at the run, not at process import.
+            self._last_success = time.monotonic()
+            self._paused_until = None
+
+    def record_success(self):
+        with self._lock:
+            self._window.append(True)
+            self._last_success = time.monotonic()
+
+    def record_failure(self):
+        with self._lock:
+            self._window.append(False)
+
+    @property
+    def exhausted(self):
+        """Nothing has answered for a long time: give up on this run."""
+        with self._lock:
+            return (
+                time.monotonic() - self._last_success >= CONNECTIVITY_OUTAGE_SECONDS
+            )
+
+    @property
+    def unreachable(self):
+        """Near-total failure over the recent window: hold off for now."""
+        with self._lock:
+            if self._paused_until is not None:
+                if time.monotonic() < self._paused_until:
+                    return True
+                # Pause elapsed: discard stale evidence so live traffic decides.
+                self._paused_until = None
+                self._window.clear()
+                return False
+
+            if len(self._window) < CONNECTIVITY_MIN_SAMPLES:
+                return False
+            failures = sum(1 for ok in self._window if not ok)
+            if failures / len(self._window) >= CONNECTIVITY_FAILURE_RATIO:
+                self._paused_until = time.monotonic() + CONNECTIVITY_PAUSE_SECONDS
+                return True
+            return False
+
+
+connectivity_breaker = _ConnectivityBreaker()
+
+
+def _tracked_request(method, url, **kwargs):
+    """requests.request, with the outcome fed to the connectivity breaker.
+
+    Every HTTP attempt the scraper makes goes through here, so reachability is
+    judged from what actually happened on the wire rather than inferred from
+    whole tasks failing. Only connection-level errors count against the portal:
+    an HTTP response, whatever its status, proves it is alive.
+    """
+    try:
+        response = requests.request(method, url, **kwargs)
+    except Exception as exc:
+        if _is_connectivity_error(exc):
+            connectivity_breaker.record_failure()
+        raise
+    connectivity_breaker.record_success()
+    return response
+
+
+def process_task(task: CourtDateTask, compression_enabled=False):
+    """Process a single court-date task"""
+    court_codes = get_court_codes()
+    for attempt in range(1, TASK_DOWNLOAD_ATTEMPTS + 1):
+        # While the breaker is open, hold this worker instead of failing the
+        # range: a stressed portal usually recovers within the cooldown, and
+        # failing here would throw away a range we could still scrape. Only a
+        # breaker that has used up its trips is treated as final.
+        while connectivity_breaker.unreachable and not connectivity_breaker.exhausted:
+            time.sleep(5)
+        if connectivity_breaker.exhausted:
+            raise PortalUnreachable(
+                f"Portal unreachable; skipped {task} without contacting it"
+            )
+        try:
+            downloader = Downloader(
+                task,
+                compression_enabled=compression_enabled,
+            )
+            downloader.download()
+            connectivity_breaker.record_success()
+            return
+        except Exception as e:
+            connectivity = _is_connectivity_error(e)
+            if connectivity and connectivity_breaker.record_failure():
+                raise PortalUnreachable(
+                    f"Portal unreachable after {CONNECTIVITY_FAILURE_LIMIT} "
+                    f"consecutive connection failures; stopping so we stop "
+                    f"hammering it: {e}"
+                ) from e
+            logger.error(
+                f"Error processing court {task.court_code} "
+                f"{court_codes.get(task.court_code, 'Unknown')} "
+                f"(attempt {attempt}/{TASK_DOWNLOAD_ATTEMPTS}): {e}"
+            )
+            traceback.print_exc()
+            if attempt >= TASK_DOWNLOAD_ATTEMPTS:
+                raise
+            time.sleep(attempt + random.uniform(0, 1))
+
+
+def run(
+    court_codes=None,
+    start_date=None,
+    end_date=None,
+    day_step=1,
+    max_workers=2,
+    compress_pdfs=False,
+    dist_code: Optional[str] = None,
+    use_default_dist_codes: bool = True,
+    max_runtime_minutes: Optional[int] = DEFAULT_MAX_RUNTIME_MINUTES,
+    checkpoint_every: Optional[int] = DEFAULT_CHECKPOINT_TASKS,
+):
+    """
+    Run the downloader with explicit date ranges.
+
+    Behavior:
+    - Requires explicit start_date and end_date parameters
+    - Downloads for specified range, skipping already-downloaded files
+    - Always checks S3 for existing files to avoid re-downloading
+    - Appends to existing tar files in S3 after download
+    - Stops starting new work after max_runtime_minutes and fails the run if
+      any court was left unattempted (pass None to disable the budget)
+    - Uploads and advances the resume cursor every checkpoint_every ranges
+      within a court, so an ungraceful kill loses at most one batch (pass None
+      to checkpoint only once per court)
+    """
+
+    if isinstance(court_codes, str):
+        court_codes = [court_codes]
+
+    # Auto-detect end_date if not provided
+    if end_date is None:
+        end_date = datetime.now().strftime("%Y-%m-%d")
+        print(f"Auto-detected end_date: {end_date} (today)")
+    end_date_dt = datetime.strptime(end_date, "%Y-%m-%d")
+
+    # Default bootstrap date for brand-new courts with no S3 index entries
+    DEFAULT_BOOTSTRAP = "2008-01-01"
+
+    # Per-court auto-resume: each court starts from its own last-sync date.
+    # Populated only when start_date is not explicitly provided.
+    court_start_dates: Dict[str, str] = {}
+
+    if start_date is None:
+        if not S3_ENABLED:
+            print(
+                "ERROR: start_date is required when S3 sync is disabled (no index files to read)"
+            )
+            print(
+                "Usage: python download.py --start_date 2024-01-01 --end_date 2024-01-31"
+            )
+            return
+        print("Auto-detecting per-court start_dates from S3 index files...")
+        court_dates = get_court_dates_from_index_files()
+        if not court_dates:
+            print("ERROR: No S3 index files found. Cannot auto-detect start_date.")
+            print("Provide --start_date explicitly for first run")
+            return
+
+        # For each court, take the MIN resume cursor across its benches and
+        # re-scrape with a fixed overlap window. Resume cursors are YYYY-MM-DD
+        # strings returned by get_court_dates_from_index_files() — they come
+        # from the scraped_through_date field (new) or max filename date
+        # (legacy). The overlap protects against judgments that appear on the
+        # portal days after their decision date. One lagging bench still drags
+        # that court, but other courts are no longer affected.
+        for court, benches in court_dates.items():
+            bench_cursors = []
+            for _, cursor_str in benches.items():
+                try:
+                    dt = datetime.strptime(cursor_str, "%Y-%m-%d")
+                    bench_cursors.append(dt)
+                except (ValueError, TypeError):
+                    continue
+            if bench_cursors:
+                earliest = min(bench_cursors)
+                overlap_floor = end_date_dt - timedelta(days=DAILY_UPDATE_BUFFER_DAYS)
+                overlap_start = min(earliest, overlap_floor)
+                court_start_dates[court] = overlap_start.strftime(
+                    "%Y-%m-%d"
+                )
+
+        if not court_start_dates:
+            print("ERROR: Could not parse any dates from S3 index files")
+            print("Provide --start_date explicitly")
+            return
+
+        print(
+            f"Resolved per-court start_dates for {len(court_start_dates)} court(s). "
+            f"Using a {DAILY_UPDATE_BUFFER_DAYS}-day overlap window. "
+            f"Courts not listed will fall back to {DEFAULT_BOOTSTRAP}."
+        )
+
+    print(f"Downloading through end_date: {end_date}")
+
+    # Determine which courts to process
+    if court_codes is None:
+        # Process all courts
+        target_courts = list(get_court_codes().keys())
+    else:
+        # Process specified courts
+        target_courts = court_codes
+
+    print(f"Processing {len(target_courts)} court(s): {', '.join(target_courts)}")
+    if dist_code is not None:
+        print(f"Using explicit dist_code={dist_code} for all generated tasks")
+    elif use_default_dist_codes:
+        active_defaults = {
+            court: DEFAULT_DIST_CODES_BY_COURT[court]
+            for court in target_courts
+            if court in DEFAULT_DIST_CODES_BY_COURT
+        }
+        if active_defaults:
+            formatted = ", ".join(
+                f"{court}={','.join(codes)}"
+                for court, codes in active_defaults.items()
+            )
+            print(f"Using default dist_code splits for: {formatted}")
+
+    # Single background uploader so scraping for court N+1 can start while
+    # court N's tar/parquet upload is still running. Queue depth is bounded
+    # to 1 (we wait on the previous future before submitting the next) so
+    # disk usage stays at "at most two courts on disk at once".
+    upload_executor = (
+        concurrent.futures.ThreadPoolExecutor(
+            max_workers=1, thread_name_prefix="s3-upload"
+        )
+        if S3_ENABLED
+        else None
+    )
+    pending_upload: Optional[concurrent.futures.Future] = None
+    # Module-level state, so clear it per run rather than inheriting a trip
+    # from an earlier call in the same process.
+    connectivity_breaker.reset()
+    task_failures = []
+    courts_skipped_portal_down = []
+    total_tasks = 0
+    unrun_tasks: List[CourtDateTask] = []
+    unattempted_courts: List[str] = []
+    deadline = _run_deadline(max_runtime_minutes)
+    if deadline is not None:
+        print(f"Run budget: {max_runtime_minutes} minute(s)")
+
+    # Process each court individually for proper S3 handling
+    for court_code in target_courts:
+        # Nothing is reachable, so starting another court would only generate
+        # more failed connections against a portal that is already down.
+        # Tracked separately from budget skips: the cause is different and so
+        # is the fix, and conflating them tells the reader to raise a timeout
+        # that was never the problem.
+        if connectivity_breaker.exhausted:
+            courts_skipped_portal_down.append(court_code)
+            continue
+
+        if deadline is not None and time.monotonic() >= deadline:
+            unattempted_courts.append(court_code)
+            print(
+                f"\nWARNING: run budget exhausted; court {court_code} was not "
+                f"attempted."
+            )
+            continue
+
+        # Resolve per-court start_date. Explicit --start_date on the CLI
+        # short-circuits the per-court logic; otherwise look up by the court's
+        # S3-format code and fall back to DEFAULT_BOOTSTRAP for brand-new courts.
+        if start_date is not None:
+            court_start = start_date
+        else:
+            court_start = court_start_dates.get(
+                to_s3_format(court_code), DEFAULT_BOOTSTRAP
+            )
+
+        if court_start > end_date:
+            print(
+                f"\nINFO: court {court_code} up to date "
+                f"(start {court_start} > end {end_date}). Skipping."
+            )
+            continue
+
+        print(
+            f"\nProcessing court {court_code} from {court_start} to {end_date}..."
+        )
+
+        # Generate tasks for this specific court
+        tasks = list[CourtDateTask](
+            generate_tasks(
+                [court_code],
+                court_start,
+                end_date,
+                day_step,
+                dist_code=dist_code,
+                use_default_dist_codes=use_default_dist_codes,
+            )
+        )
+
+        if not tasks:
+            print(f"No tasks to process for court {court_code}")
+            continue
+
+        print(f"Generated {len(tasks)} tasks for court {court_code}")
+
+        # Scrape this court in the foreground, then hand the upload off to
+        # the background worker so we can start the next court immediately.
+        total_tasks += len(tasks)
+        # Scrape in batches and checkpoint after each, so an ungraceful kill
+        # costs at most one batch rather than everything this court scraped.
+        batch_size = checkpoint_every if checkpoint_every else len(tasks)
+        court_failures = []
+        court_unrun = []
+
+        for batch_start in range(0, len(tasks), batch_size):
+            if deadline is not None and time.monotonic() >= deadline:
+                court_unrun.extend(tasks[batch_start:])
+                break
+
+            batch = tasks[batch_start : batch_start + batch_size]
+            batch_failures, batch_unrun = _run_tasks(
+                batch, max_workers, compress_pdfs, deadline
+            )
+            court_failures.extend(batch_failures)
+            court_unrun.extend(batch_unrun)
+            remaining = tasks[batch_start + len(batch) :]
+
+            if S3_ENABLED:
+                end_date_obj = (
+                    datetime.strptime(end_date, "%Y-%m-%d").date() if end_date else None
+                )
+                # Only advance this court's resume cursor as far as it is
+                # contiguously covered, so a failed or unrun range is retried
+                # next run instead of being stepped over. Batches not yet
+                # reached block the cursor for the same reason.
+                scraped_through = _contiguous_scraped_through(
+                    end_date,
+                    [task for task, _ in court_failures] + court_unrun + remaining,
+                )
+                if pending_upload is not None:
+                    # Wait for the previous upload to finish before queueing the
+                    # next — bounds disk to ~2 batches at a time.
+                    pending_upload.result()
+                pending_upload = upload_executor.submit(
+                    _upload_court_to_s3, court_code, end_date_obj, scraped_through
+                )
+
+            if batch_unrun:
+                # Budget went while this batch was in flight; later batches
+                # would only be cancelled too.
+                court_unrun.extend(remaining)
+                break
+
+        task_failures.extend(court_failures)
+        unrun_tasks.extend(court_unrun)
+
+    if pending_upload is not None:
+        pending_upload.result()
+    if upload_executor is not None:
+        upload_executor.shutdown(wait=True)
+
+    # Both conditions below can hold in the same run (a run can exhaust its
+    # budget *and* accumulate genuine task failures). They are collected and
+    # raised together: raising on the first one found would hide the other, and
+    # the per-task detail is exactly what is needed to tell a transient portal
+    # wobble apart from a budget that is simply too small.
+    problems = []
+
+    if task_failures:
+        failed_tasks = "\n".join(
+            f"- {task}: {error}" for task, error in task_failures
+        )
+        # Failed ranges never advance their court's last-downloaded date, so the
+        # exact same ranges are retried automatically on the next run. A handful
+        # of transient failures (e.g. eCourts session expiry) therefore don't
+        # warrant a red CI run — only fail hard when failures are widespread.
+        n_failed = len(task_failures)
+        failure_ratio = n_failed / total_tasks if total_tasks else 1.0
+        fatal = failure_ratio > FAILURE_RATIO_THRESHOLD or n_failed > FAILURE_COUNT_THRESHOLD
+        if fatal:
+            problems.append(
+                f"{n_failed}/{total_tasks} task(s) failed "
+                f"({failure_ratio:.0%} > {FAILURE_RATIO_THRESHOLD:.0%} or "
+                f"count > {FAILURE_COUNT_THRESHOLD}):\n{failed_tasks}"
+            )
+        else:
+            logger.warning(
+                "%d/%d task(s) failed transiently (%.0f%%); within tolerance, "
+                "will resume on next run:\n%s",
+                n_failed,
+                total_tasks,
+                failure_ratio * 100,
+                failed_tasks,
+            )
+
+    # A court that was never attempted (or a range that never ran) is a silent
+    # data gap, not a transient error, so it is always fatal — unlike the
+    # tolerated task failures above. Raised after the uploads above so whatever
+    # progress the run did make is still persisted.
+    # Suppressed when the portal died: the message above already explains why
+    # work was skipped, and blaming the clock would point at the wrong fix.
+    if (unattempted_courts or unrun_tasks) and not connectivity_breaker.exhausted:
+        problems.append(
+            f"Run budget of {max_runtime_minutes} minute(s) exhausted before the "
+            f"work was finished: {len(unattempted_courts)} court(s) not attempted "
+            f"({', '.join(unattempted_courts) or 'none'}) and "
+            f"{len(unrun_tasks)} date range(s) not run. Those courts are not "
+            f"being refreshed — raise --max-runtime-minutes, narrow the date "
+            f"window, or backfill the lagging courts with an explicit "
+            f"--court_code run."
+        )
+
+    if connectivity_breaker.exhausted:
+        skipped = (
+            f" {len(courts_skipped_portal_down)} court(s) were skipped without "
+            f"being contacted ({', '.join(courts_skipped_portal_down)})."
+            if courts_skipped_portal_down
+            else ""
+        )
+        problems.insert(
+            0,
+            f"Portal unreachable: no request succeeded for "
+            f"{CONNECTIVITY_OUTAGE_SECONDS}s, so the run stopped contacting "
+            f"it.{skipped} Nothing is "
+            f"wrong with the resume cursors - no range was marked covered - so "
+            f"a later run picks up exactly where this one stopped. This is a "
+            f"reachability problem, not a timeout: check whether "
+            f"judgments.ecourts.gov.in answers from this network before "
+            f"re-running. Raising --max-runtime-minutes will not help.",
+        )
+
+    if problems:
+        raise RuntimeError("\n\n".join(problems))
+
+    logger.info("All download tasks completed")
+
+
+def _run_deadline(max_runtime_minutes):
+    """Monotonic timestamp after which no new work is started."""
+    if not max_runtime_minutes:
+        return None
+    return time.monotonic() + max_runtime_minutes * 60
+
+
+def _contiguous_scraped_through(end_date, incomplete_tasks):
+    """Date a court is contiguously covered through.
+
+    The resume cursor must never step over a range that failed or never ran,
+    so it stops the day before the earliest such range. With no incomplete
+    ranges the court is covered through end_date.
+    """
+    if not incomplete_tasks:
+        return end_date
+    earliest = min(task.from_date for task in incomplete_tasks)
+    cutoff = datetime.strptime(earliest, "%Y-%m-%d") - timedelta(days=1)
+    return min(cutoff.strftime("%Y-%m-%d"), end_date)
+
+
+def _run_tasks(tasks, max_workers, compression_enabled=False, deadline=None):
+    """Run download tasks without S3 upload.
+
+    Returns (failures, unrun_tasks). Once `deadline` (a time.monotonic()
+    value) passes, tasks that have not started yet are cancelled so the run can
+    finish cleanly — draining uploads and advancing cursors — rather than being
+    killed mid-write when the CI job hits its timeout.
+    """
+    failures = []
+    unrun = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        with tqdm(total=len(tasks), desc="Processing tasks", unit="task") as pbar:
+            future_to_task = {
+                executor.submit(process_task, task, compression_enabled): task
+                for task in tasks
+            }
+            budget_exhausted = False
+            aborted = False
+            for future in concurrent.futures.as_completed(future_to_task):
+                task = future_to_task[future]
+                pbar.set_description(
+                    f"Processing {task.court_code} ({task.from_date} to {task.to_date})"
+                )
+                if future.cancelled():
+                    pbar.update(1)
+                    continue
+                try:
+                    future.result()
+                except Exception as e:
+                    failures.append((task, e))
+                    logger.error(
+                        "Task failed after retries and will be reported after "
+                        "S3 sync: %s, error: %s",
+                        task,
+                        e,
+                    )
+                pbar.update(1)
+                # The portal is unreachable: drop everything still queued
+                # rather than working through it one 30s timeout at a time.
+                # Cancelled ranges are reported as unrun, so no cursor advances
+                # over them and the next run retries them.
+                if not aborted and connectivity_breaker.exhausted:
+                    aborted = True
+                    for pending_future, pending_task in future_to_task.items():
+                        if pending_future.cancel():
+                            unrun.append(pending_task)
+                    logger.error(
+                        "Portal unreachable; abandoned %d queued range(s) for "
+                        "court %s instead of retrying against a dead endpoint",
+                        len(unrun),
+                        task.court_code,
+                    )
+                if (
+                    not budget_exhausted
+                    and deadline is not None
+                    and time.monotonic() >= deadline
+                ):
+                    budget_exhausted = True
+                    for pending_future, pending_task in future_to_task.items():
+                        if pending_future.cancel():
+                            unrun.append(pending_task)
+                    logger.error(
+                        "Run budget exhausted; cancelled %d not-yet-started "
+                        "range(s) for court %s",
+                        len(unrun),
+                        task.court_code,
+                    )
+    return failures, unrun
+
+
+def group_files_by_year(files: List[Path]) -> Dict[int, List[Path]]:
+    """Group files by year extracted from the decision date in the JSON metadata.
+
+    Files whose decision date cannot be parsed are logged and skipped.
+    Callers should be aware these files will NOT appear in any year bucket.
+    """
+    files_by_year: Dict[int, List[Path]] = {}
+    skipped: List[Path] = []
+    for file in files:
+        json_file = file.with_suffix(".json")
+        year = extract_decision_date_from_json(json_file)
+        if year is None:
+            skipped.append(file)
+            continue
+        if year not in files_by_year:
+            files_by_year[year] = []
+        files_by_year[year].append(file)
+    if skipped:
+        logger.warning(
+            f"Skipped {len(skipped)} file(s) with unparseable decision dates "
+            f"(these will NOT be uploaded): {[str(f) for f in skipped[:10]]}"
+            + (f" ... and {len(skipped) - 10} more" if len(skipped) > 10 else "")
+        )
+    return files_by_year
+
+
+def filter_new_files_by_name(local_files: List[Path], existing_names: List[str]) -> set[Path]:
+    """Return local files whose filename is not already present in an S3 index."""
+    existing_name_set = {Path(name).name for name in existing_names}
+    return {file for file in local_files if file.name not in existing_name_set}
+
+
+def filter_metadata_files_by_existing_identity(
+    local_files: set[Path],
+    existing_identities: set[tuple[str, str, str]],
+) -> set[Path]:
+    """Drop web metadata already represented by mobile/web parquet identity."""
+    if not existing_identities:
+        return local_files
+
+    new_files = set()
+    skipped = 0
+    for file in local_files:
+        identity = get_metadata_identity_from_file(file)
+        if identity and identity in existing_identities:
+            skipped += 1
+            continue
+        new_files.add(file)
+
+    if skipped:
+        logger.info(
+            "Skipped %s metadata files already present by CNR/date/order identity",
+            skipped,
+        )
+    return new_files
+
+
+def _upload_court_to_s3(court_code, end_date, scraped_through=None):
+    """
+    Scan local files for a court, diff against S3, and upload.
+
+    Designed to run on a background thread so the main loop can start
+    scraping the next court while this one uploads. If the process dies
+    mid-upload, local files are preserved (we only unlink after successful
+    upload), so the next run can resume by re-diffing.
+
+    scraped_through is the date this court is contiguously covered through
+    (YYYY-MM-DD). Defaults to end_date. Callers that only got part way through
+    a court's ranges should pass the earlier date so the resume cursor never
+    steps over a range that was not actually scraped.
+    """
+    print(f"\nCollecting NEW files for {court_code}...")
+    downloaded_files = {"metadata": [], "data": []}
+
+    bench_to_court = load_court_bench_mapping()
+    bench_codes = get_bench_codes()
+
+    for bench, cc in bench_codes.items():
+        if bench not in bench_to_court:
+            bench_to_court[bench] = cc
+
+    court_code_underscore = to_s3_format(court_code)
+
+    target_benches = [
+        bench for bench, cc in bench_to_court.items() if cc == court_code_underscore
+    ]
+
+    if not target_benches:
+        print(f"Warning: No benches found for court code {court_code}")
+        return
+
+    print(
+        f"Found {len(target_benches)} benches for court {court_code}: {', '.join(target_benches)}"
+    )
+
+    print(f"Scanning local files to identify year partitions...")
+    years_in_local_files = set()
+
+    for bench in target_benches:
+        bench_path = Path(f"data/court/cnrorders/{bench}")
+        if not bench_path.exists():
+            continue
+
+        json_files = list(bench_path.glob("**/*.json"))
+        sample_size = min(100, len(json_files))
+
+        for json_file in json_files[:sample_size]:
+            year = extract_decision_date_from_json(str(json_file))
+            if year:
+                years_in_local_files.add(year)
+
+    if end_date:
+        years_in_local_files.add(end_date.year)
+
+    if not years_in_local_files:
+        print("Warning: Could not extract any years from decision dates in local files")
+        print("This might indicate an issue with the JSON files or HTML parsing")
+        return
+
+    print(
+        f"Found files spanning {len(years_in_local_files)} year(s): {sorted(years_in_local_files)}"
+    )
+
+    print(
+        f"Loading S3 index files for {len(years_in_local_files)} year partition(s)..."
+    )
+
+    total_on_disk = 0
+    total_new = 0
+    upload_failures = []
+    # Year partitions each bench touched, and benches whose upload failed.
+    # Collected here so resume cursors can be advanced below for EVERY bench of
+    # this court, including benches that produced no new files this run.
+    bench_year_partitions: Dict[str, set] = {}
+    benches_blocked: set = set()
+    # Benches that finished their iteration without raising. Used to persist
+    # partial progress if a later bench blows up mid-loop — see the except below.
+    benches_completed: set = set()
+    cursors_advanced = False
+    cursor_target = scraped_through if scraped_through is not None else end_date
+
+    try:
+        for bench in target_benches:
+            bench_path = Path(f"data/court/cnrorders/{bench}")
+            if not bench_path.exists():
+                continue
+
+            json_files = list(bench_path.glob("**/*.json"))
+            pdf_files = list(bench_path.glob("**/*.pdf"))
+
+            total_on_disk += len(json_files) + len(pdf_files)
+            json_files_by_year_partition = group_files_by_year(json_files)
+            pdf_files_by_year_partition = group_files_by_year(pdf_files)
+
+            bench_files = {}
+
+            for year in json_files_by_year_partition.keys():
+                # get cached files from S3
+                existing_files = set(get_existing_files_from_s3_v2(
+                    "metadata", year, court_code_underscore, bench
+                ))
+                existing_identities = get_existing_judgment_identities_from_parquet(
+                    year, court_code_underscore, bench
+                )
+                new_files = filter_new_files_by_name(
+                    json_files_by_year_partition[year], existing_files
+                )
+                new_files = filter_metadata_files_by_existing_identity(
+                    new_files, existing_identities
+                )
+
+                if year not in bench_files:
+                    bench_files[year] = {
+                        "parquet_metadata": set(),
+                        "metadata": set(),
+                        "data": set(),
+                    }
+
+                bench_files[year]["parquet_metadata"] = set(
+                    json_files_by_year_partition[year]
+                )
+                bench_files[year]["metadata"] = new_files
+            for year in pdf_files_by_year_partition.keys():
+                existing_pdf_files = set(get_existing_files_from_s3_v2(
+                    "data", year, court_code_underscore, bench
+                ))
+                new_pdf_files = filter_new_files_by_name(
+                    pdf_files_by_year_partition[year], existing_pdf_files
+                )
+
+                logger.info(
+                    f"New PDF files: {len(new_pdf_files)}, for year {year}, bench {bench}, court {court_code_underscore}"
+                )
+
+                if year not in bench_files:
+                    bench_files[year] = {
+                        "parquet_metadata": set(),
+                        "metadata": set(),
+                        "data": set(),
+                    }
+
+                bench_files[year]["data"] = new_pdf_files
+
+            synced_years = []
+            failed_years = set()
+            bench_year_partitions[bench] = set(bench_files.keys())
+
+            for year, year_files in bench_files.items():
+                try:
+                    # Parquet must succeed before raw S3 indexes move forward.
+                    # Otherwise later runs will skip the raw files and the
+                    # parquet gap becomes sticky.
+                    success = create_and_upload_parquet_files(
+                        year,
+                        court_code_underscore,
+                        bench,
+                        {
+                            "metadata": year_files["parquet_metadata"],
+                            "data": year_files["data"],
+                        },
+                    )
+                    if not success:
+                        raise RuntimeError(
+                            "parquet update failed before raw upload"
+                        )
+
+                    if year_files["metadata"]:
+                        upload_files_to_s3_v2(
+                            "metadata",
+                            year,
+                            court_code_underscore,
+                            bench,
+                            year_files["metadata"],
+                        )
+                        cache_store.invalidate(year, court_code, bench, "metadata")
+
+                    if year_files["data"]:
+                        upload_files_to_s3_v2(
+                            "data", year, court_code_underscore, bench, year_files["data"]
+                        )
+                        cache_store.invalidate(year, court_code, bench, "data")
+
+                    synced_years.append(year)
+                except Exception as e:
+                    failed_years.add(year)
+                    message = (
+                        f"Failed to sync year {year} for bench {bench}, "
+                        f"court {court_code_underscore}: {e}"
+                    )
+                    upload_failures.append(message)
+                    logger.error(message)
+
+            if failed_years:
+                benches_blocked.add(bench)
+
+            # Clean up only files that were successfully uploaded.
+            # Files with unparseable dates were never uploaded and should be preserved.
+            uploaded_files = []
+            for year in synced_years:
+                year_files = bench_files[year]
+                uploaded_files.extend(year_files.get("parquet_metadata", []))
+                uploaded_files.extend(year_files.get("data", []))
+            for f in uploaded_files:
+                try:
+                    Path(f).unlink(missing_ok=True)
+                except OSError:
+                    pass
+            # Remove bench dir if no files remain (ignore empty subdirectories)
+            remaining_files = [p for p in bench_path.rglob("*") if p.is_file()] if bench_path.exists() else []
+            if bench_path.exists() and not remaining_files:
+                shutil.rmtree(bench_path)
+            elif remaining_files:
+                logger.warning(
+                    f"Preserved {len(remaining_files)} file(s) in {bench_path} "
+                    f"(unparseable dates or upload failures)"
+                )
+
+            benches_completed.add(bench)
+
+        _advance_court_resume_cursors(
+            court_code_underscore,
+            target_benches,
+            cursor_target,
+            bench_year_partitions,
+            benches_blocked,
+        )
+        cursors_advanced = True
+
+        if upload_failures:
+            raise RuntimeError(
+                "S3 sync completed with failures:\n- " + "\n- ".join(upload_failures)
+            )
+
+    except Exception as e:
+        # An exception anywhere in the bench loop (e.g. a transient S3 read
+        # before the per-year guard) would otherwise skip the advance entirely
+        # and discard cursors for benches that already synced cleanly. Persist
+        # those, and only those: benches at or after the failure point have not
+        # been shown to be covered, so they keep their old cursor and retry.
+        if not cursors_advanced:
+            try:
+                _advance_court_resume_cursors(
+                    court_code_underscore,
+                    sorted(benches_completed),
+                    cursor_target,
+                    bench_year_partitions,
+                    benches_blocked,
+                )
+            except Exception:
+                logger.exception(
+                    "Failed to persist partial resume cursors for "
+                    f"{court_code_underscore}"
+                )
+        print(f"Error during S3 upload: {e}")
+        traceback.print_exc()
+        raise
+
+
+def _advance_court_resume_cursors(
+    court_code_underscore,
+    target_benches,
+    scraped_through,
+    bench_year_partitions,
+    benches_blocked,
+):
+    """Advance scraped_through_date for every bench of this court.
+
+    We use the date scraped THROUGH rather than max decision date, because the
+    scrape operates on decision-date ranges and that is the actual boundary.
+    Write to the data index so auto-detect sees it.
+
+    Benches that produced no new files are included on purpose. The search is
+    issued per court, so a bench with no rows in the range has genuinely been
+    covered - "no judgments" is not "not looked at". Skipping those benches
+    left them with no cursor at all, and run() resolves a court's start date as
+    the MIN across its benches, so a single quiet bench pinned its whole court
+    to an ever-growing re-scrape window (see issue #30).
+    """
+    if scraped_through is None:
+        return
+    scraped_through_str = (
+        scraped_through.strftime("%Y-%m-%d")
+        if hasattr(scraped_through, "strftime")
+        else str(scraped_through)
+    )
+    default_year = int(scraped_through_str[:4])
+    for bench in target_benches:
+        if bench in benches_blocked:
+            continue
+        # All year partitions this bench has touched, plus the cursor's own
+        # year (in case the bench has no files for it yet).
+        years_to_update = set(bench_year_partitions.get(bench, ())) | {default_year}
+        for yr in sorted(years_to_update):
+            try:
+                write_scraped_through_date(
+                    "data", yr, court_code_underscore, bench, scraped_through_str
+                )
+            except Exception as e:
+                logger.warning(
+                    f"Failed to write scraped_through_date for "
+                    f"{yr}/{court_code_underscore}/{bench}: {e}"
+                )
+
+
+class Downloader:
+    def __init__(self, task: CourtDateTask, compression_enabled=False):
+        self.task = task
+        self.root_url = "https://judgments.ecourts.gov.in"
+        self.search_url = f"{self.root_url}/pdfsearch/?p=pdf_search/home/"
+        # not lint skip/
+        self.captcha_url = (
+            f"{self.root_url}/pdfsearch/vendor/securimage/securimage_show.php"
+        )
+        self.captcha_token_url = f"{self.root_url}/pdfsearch/?p=pdf_search/checkCaptcha"
+        self.pdf_link_url = f"{self.root_url}/pdfsearch/?p=pdf_search/openpdfcaptcha"
+        self.pdf_link_url_wo_captcha = f"{root_url}/pdfsearch/?p=pdf_search/openpdf"
+
+        self.court_code = task.court_code
+        self.court_codes = get_court_codes()
+        self.court_name = self.court_codes[self.court_code]
+        self.session_cookie_name = "JUDGEMENTSSEARCH_SESSID"
+        self.ecourts_token_cookie_name = "JSESSION"
+        self.session_id = None
+        self.ecourts_token = None
+        # not lint skip/
+        self.app_token = (
+            "490a7e9b99e4553980213a8b86b3235abc51612b038dbdb1f9aa706b633bbd6c"
+        )
+
+        # PDF compression settings
+        self.compression_enabled = compression_enabled and COMPRESSION_AVAILABLE
+        self.task_stats = self._new_task_stats()
+
+    def _new_task_stats(self):
+        return {
+            "pages_fetched": 0,
+            "results_seen": 0,
+            "downloaded": 0,
+            "skip_s3": 0,
+            "skip_local": 0,
+            "metadata_only": 0,
+            "no_download": 0,
+            "parse_failure": 0,
+            "session_refreshes": 0,
+            "session_expire_events": 0,
+            "errormsg_events": 0,
+        }
+
+    def _log_task_summary(self):
+        logger.info(
+            "Task summary: court=%s from=%s to=%s pages=%s results=%s downloaded=%s "
+            "skip_s3=%s skip_local=%s metadata_only=%s no_download=%s parse_failures=%s "
+            "session_refreshes=%s session_expire=%s api_errors=%s",
+            self.court_code,
+            self.task.from_date,
+            self.task.to_date,
+            self.task_stats["pages_fetched"],
+            self.task_stats["results_seen"],
+            self.task_stats["downloaded"],
+            self.task_stats["skip_s3"],
+            self.task_stats["skip_local"],
+            self.task_stats["metadata_only"],
+            self.task_stats["no_download"],
+            self.task_stats["parse_failure"],
+            self.task_stats["session_refreshes"],
+            self.task_stats["session_expire_events"],
+            self.task_stats["errormsg_events"],
+        )
+
+    def _results_exist_in_search_response(self, res_dict):
+        results_exist = (
+            "reportrow" in res_dict
+            and "aaData" in res_dict["reportrow"]
+            and len(res_dict["reportrow"]["aaData"]) > 0
+        )
+        return results_exist
+
+    def _raise_for_terminal_search_error(self, res_dict):
+        """Surface exhausted API retries as task failures, not empty pages."""
+        if res_dict.get("session_expire") == "Y":
+            raise RuntimeError(
+                f"Search API session expired after retries for task {self.task}"
+            )
+        if "errormsg" in res_dict and "reportrow" not in res_dict:
+            raise RuntimeError(
+                f"Search API error after retries for task {self.task}: "
+                f"{res_dict.get('errormsg')}"
+            )
+
+    def _prepare_next_iteration(self, search_payload):
+        search_payload["sEcho"] += 1
+        search_payload["iDisplayStart"] += page_size
+        return search_payload
+
+    def _refresh_search_pagination(self, search_payload):
+        """Refresh search pagination state without rewinding the current page."""
+        search_payload["sEcho"] = 1
+        return search_payload
+
+    def process_court(self):
+        """Backward-compatible alias for the main task runner."""
+        return self.download()
+
+    def check_result_in_s3(self, pdf_path: str | Path) -> tuple[bool, bool]:
+        """Return (json_in_s3, pdf_in_s3) for the given pdf fragment.
+
+        Consults both the metadata and data S3 indexes so callers can decide
+        whether to skip the row entirely (both present), skip only the PDF
+        download (PDF present, JSON missing), or run the full flow (neither
+        present). A JSON-present-only case is rare and handled by the batch
+        upload path which dedupes against the metadata index.
+        """
+        pdf_path_obj = Path(pdf_path) if isinstance(pdf_path, str) else pdf_path
+        # get_pdf_output_path expects a string (calls .split("#"))
+        pdf_path_str = str(pdf_path) if not isinstance(pdf_path, str) else pdf_path
+
+        bench = extract_bench_from_path(pdf_path_obj)
+        if not bench:
+            return False, False
+
+        # If a local JSON already exists from a prior run, use its decision date
+        # for an exact year lookup instead of guessing from the task date range.
+        json_path = self.get_pdf_output_path(pdf_path_str).with_suffix(".json")
+        decision_year = None
+        if json_path.exists():
+            decision_year = extract_decision_date_from_json(str(json_path))
+
+        if decision_year is not None:
+            years = {decision_year}
+        else:
+            # Fallback: check both years the task date range spans
+            start_year = datetime.strptime(self.task.from_date, "%Y-%m-%d").year
+            end_year = datetime.strptime(self.task.to_date, "%Y-%m-%d").year
+            years = {start_year, end_year}
+
+        pdf_name = pdf_path_obj.name
+        json_name = pdf_path_obj.with_suffix(".json").name
+        json_in_s3 = False
+        pdf_in_s3 = False
+        for year in years:
+            if pdf_name in cache_store.get(year, self.court_code, bench, "data"):
+                pdf_in_s3 = True
+            if json_name in cache_store.get(year, self.court_code, bench, "metadata"):
+                json_in_s3 = True
+            if json_in_s3 and pdf_in_s3:
+                break
+        return json_in_s3, pdf_in_s3
+
+    def process_result_row(self, row, row_pos):
+        html = row[1]
+        soup = BeautifulSoup(html, "html.parser")
+        # html_element = LH.fromstring(html)
+        # why am I using both LH and BS4? idk.
+        # title = html_element.xpath("./button/font/text()")[0]
+        # description = html_element.xpath("./text()")[0]
+        # case_details = html_element.xpath("./strong//text()")
+        # check if button with onclick is present
+        if not (soup.button and "onclick" in soup.button.attrs):
+            logger.debug(
+                f"No button found, likely multi language judgment, task: {self.task}"
+            )
+            with open("html-parse-failures.txt", "a") as f:
+                f.write(html + "\n")
+            # TODO: requires special parsing
+            return "parse_failure"
+        pdf_fragment = self.extract_pdf_fragment(soup.button["onclick"])
+
+        json_in_s3, pdf_in_s3 = self.check_result_in_s3(pdf_fragment)
+        pdf_output_path = self.get_pdf_output_path(pdf_fragment)
+        is_local_pdf_present = self.is_pdf_downloaded(pdf_fragment)
+        is_pdf_present = pdf_in_s3 or is_local_pdf_present
+        pdf_needs_download = not is_pdf_present
+        if pdf_needs_download:
+            is_fresh_download = self.download_pdf(pdf_fragment, row_pos)
+        else:
+            is_fresh_download = False
+        metadata_output = pdf_output_path.with_suffix(".json")
+        metadata = {
+            "court_code": self.court_code,
+            "court_name": self.court_name,
+            "raw_html": html,
+            # "title": title,
+            # "description": description,
+            # "case_details": case_details,
+            "pdf_link": pdf_fragment,
+            "downloaded": is_pdf_present or is_fresh_download,
+        }
+        metadata_output.parent.mkdir(parents=True, exist_ok=True)
+        with open(metadata_output, "w") as f:
+            json.dump(metadata, f)
+        if is_fresh_download:
+            return "downloaded"
+        if json_in_s3 and pdf_in_s3:
+            return "skip_s3"
+        if pdf_in_s3 and not json_in_s3:
+            return "metadata_only"
+        if is_local_pdf_present and not pdf_in_s3:
+            return "skip_local"
+        return "no_download"
+
+    def download_pdf(self, pdf_fragment, row_pos):
+        # prepare temp pdf request
+        pdf_output_path = self.get_pdf_output_path(pdf_fragment)
+        pdf_link_payload = self.default_pdf_link_payload()
+        pdf_link_payload["path"] = pdf_fragment
+        pdf_link_payload["val"] = row_pos
+        pdf_link_payload["app_token"] = self.app_token
+        pdf_link_response = self.request_api(
+            "POST", self.pdf_link_url, pdf_link_payload
+        )
+        try:
+            pdf_link_data = pdf_link_response.json()
+        except Exception as e:
+            logger.error(
+                f"Error downloading pdf, task: {self.task}, "
+                f"non-json PDF link response: {e}"
+            )
+            return False
+        if "outputfile" not in pdf_link_data:
+            logger.error(
+                f"Error downloading pdf, task: {self.task}, Error: {pdf_link_data}"
+            )
+            return False
+        pdf_download_link = pdf_link_data["outputfile"]
+
+        # download pdf and save
+        pdf_response = _tracked_request(
+            "GET",
+            root_url + pdf_download_link,
+            verify=False,
+            headers=self.get_headers(),
+            timeout=30,
+        )
+        pdf_output_path.parent.mkdir(parents=True, exist_ok=True)
+        # number of response bytes
+        no_of_bytes = len(pdf_response.content)
+        if no_of_bytes == 0:
+            logger.error(
+                f"Empty pdf, task: {self.task}, output path: {pdf_output_path}"
+            )
+            return False
+        if no_of_bytes == 315:
+            logger.error(
+                f"404 pdf response, task: {self.task}, output path: {pdf_output_path}"
+            )
+            return False
+        if pdf_response.status_code != 200:
+            logger.error(
+                f"Unexpected pdf status {pdf_response.status_code}, "
+                f"task: {self.task}, output path: {pdf_output_path}"
+            )
+            return False
+        if not pdf_response.content.startswith(b"%PDF"):
+            logger.error(
+                f"Non-PDF response while downloading pdf, task: {self.task}, "
+                f"output path: {pdf_output_path}, first bytes: "
+                f"{pdf_response.content[:32]!r}"
+            )
+            return False
+        with open(pdf_output_path, "wb") as f:
+            f.write(pdf_response.content)
+
+        # Compress PDF if compression is enabled
+        if hasattr(self, "compression_enabled") and self.compression_enabled:
+            original_size = pdf_output_path.stat().st_size
+            pdf_output_path = compress_pdf_if_enabled(pdf_output_path)
+            compressed_size = pdf_output_path.stat().st_size
+            if compressed_size < original_size:
+                logger.debug(
+                    f"Compressed PDF: {pdf_output_path.name} ({original_size} → {compressed_size} bytes)"
+                )
+
+        logger.debug(
+            f"Downloaded, task: {self.task}, output path: {pdf_output_path}, size: {pdf_output_path.stat().st_size}"
+        )
+        return True
+
+    def update_headers_with_new_session(self, headers):
+        cookie = SimpleCookie()
+        cookie.load(headers["Cookie"])
+        cookie[self.session_cookie_name] = self.session_id
+        headers["Cookie"] = cookie.output(header="", sep=";").strip()
+
+    def extract_pdf_fragment(self, html_attribute):
+        pattern = r"javascript:open_pdf\('.*?','.*?','(.*?)'\)"
+        match = re.search(pattern, html_attribute)
+        if match:
+            return match.group(1).split("#")[0]
+        return None
+
+    def solve_captcha(self, retries=0, captcha_url=None):
+        logger.debug(f"Solving captcha, retries: {retries}, task: {self.task.id}")
+        if retries > 10:
+            raise ValueError("Failed to solve captcha")
+        if captcha_url is None:
+            captcha_url = self.captcha_url
+        # download captcha image and save
+        captcha_response = _tracked_request(
+            "GET",
+            captcha_url, headers={"Cookie": self.get_cookie()}, verify=False, timeout=30
+        )
+        # Generate a unique filename using UUID
+        unique_id = uuid.uuid4().hex[:8]
+        captcha_filename = Path(
+            f"{captcha_tmp_dir}/captcha_{self.court_code}_{unique_id}.png"
+        )
+        with open(captcha_filename, "wb") as f:
+            f.write(captcha_response.content)
+
+        captcha_text = get_text(str(captcha_filename))
+
+        captcha_text = captcha_text.strip()
+
+        captcha_text = captcha_text.strip()
+        if len(captcha_text) != 6:
+            if retries > 10:
+                raise Exception("Captcha not solved")
+            return self.solve_captcha(retries + 1)
+        return captcha_text
+
+    def solve_pdf_download_captcha(self, response, pdf_link_payload, retries=0):
+        html_str = response["filename"]
+        html = LH.fromstring(html_str)
+        img_src = html.xpath("//img[@id='captcha_image_pdf']/@src")[0]
+        img_src = root_url + img_src
+        # download captch image and save
+        captcha_text = self.solve_captcha(captcha_url=img_src)
+        pdf_link_payload["captcha1"] = captcha_text
+        pdf_link_payload["app_token"] = response["app_token"]
+        pdf_link_response = self.request_api(
+            "POST", self.pdf_link_url_wo_captcha, pdf_link_payload
+        )
+        res_json = pdf_link_response.json()
+        if "message" in res_json and res_json["message"] == "Captcha not solved":
+            logger.warning(
+                f"Captcha not solved, task: {self.task.id}, retries: {retries}, Error: {pdf_link_response.json()}"
+            )
+            if retries == 2:
+                return res_json
+            logger.info(f"Retrying pdf captch solve, task: {self.task.id}")
+            return self.solve_pdf_download_captcha(
+                response, pdf_link_payload, retries + 1
+            )
+        return pdf_link_response
+
+    def refresh_token(self, with_app_token=False):
+        logger.debug(f"Current session id {self.session_id}, token {self.app_token}")
+        answer = self.solve_captcha()
+        captcha_check_payload = {
+            "captcha": answer,
+            "search_opt": "PHRASE",
+            "ajax_req": "true",
+        }
+        if with_app_token:
+            captcha_check_payload["app_token"] = self.app_token
+        res = _tracked_request(
+            "POST",
+            self.captcha_token_url,
+            headers=self.get_headers(),
+            data=captcha_check_payload,
+            verify=False,
+            timeout=30,
+        )
+        res_json = res.json()
+        self.app_token = res_json["app_token"]
+        self.update_session_id(res)
+        logger.debug("Refreshed token")
+
+    def request_api(self, method, url, payload, _retry_count=0, **kwargs):
+        MAX_RETRIES = 5
+        headers = self.get_headers()
+        logger.debug(
+            f"api_request {self.session_id} {payload.get('app_token') if payload else None} {url}"
+        )
+        response = _tracked_request(
+            method,
+            url,
+            headers=headers,
+            data=payload,
+            **kwargs,
+            timeout=60,
+            verify=False,
+        )
+        # if response is json
+        try:
+            response_dict = response.json()
+        except Exception:
+            response_dict = {}
+        if "app_token" in response_dict:
+            self.app_token = response_dict["app_token"]
+        self.update_session_id(response)
+        if url == self.captcha_token_url:
+            return response
+
+        if (
+            "filename" in response_dict
+            and "securimage_show" in response_dict["filename"]
+        ):
+            self.app_token = response_dict["app_token"]
+            return self.solve_pdf_download_captcha(response_dict, payload)
+
+        elif response_dict.get("session_expire") == "Y":
+            self.task_stats["session_expire_events"] += 1
+            if _retry_count >= MAX_RETRIES:
+                logger.error(f"Giving up after {MAX_RETRIES} session_expire retries for {url}")
+                return response
+            self._sleep_backoff(_retry_count)
+            self.init_user_session()
+            self.refresh_token()
+            if payload:
+                payload["app_token"] = self.app_token
+            return self.request_api(method, url, payload, _retry_count=_retry_count + 1, **kwargs)
+
+        elif "errormsg" in response_dict:
+            self.task_stats["errormsg_events"] += 1
+            if _retry_count >= MAX_RETRIES:
+                logger.error(f"Giving up after {MAX_RETRIES} errormsg retries for {url}: {response_dict.get('errormsg')}")
+                return response
+            logger.debug(f"Error {response_dict['errormsg']}")
+            self._sleep_backoff(_retry_count)
+            self.refresh_token()
+            if payload:
+                payload["app_token"] = self.app_token
+            return self.request_api(method, url, payload, _retry_count=_retry_count + 1, **kwargs)
+
+        return response
+
+    @staticmethod
+    def _sleep_backoff(retry_count, base=1.0, cap=30.0):
+        """Exponential backoff with full jitter between API retries.
+
+        Instant retries hit the same transient bad window (server overload /
+        rate-limiting) and exhaust the retry budget without recovering. Waiting
+        a (jittered, exponentially growing) interval lets the window pass.
+        """
+        delay = min(cap, base * (2**retry_count))
+        delay = random.uniform(0, delay)
+        logger.debug(f"Backing off {delay:.1f}s before retry {retry_count + 1}")
+        time.sleep(delay)
+
+    def get_pdf_output_path(self, pdf_fragment):
+        return output_dir / pdf_fragment.split("#")[0]
+
+    def is_pdf_downloaded(self, pdf_fragment):
+        pdf_metadata_path = self.get_pdf_output_path(pdf_fragment).with_suffix(".json")
+        if pdf_metadata_path.exists():
+            pdf_metadata = get_json_file(pdf_metadata_path)
+            return pdf_metadata["downloaded"]
+        return False
+
+    def get_search_url(self):
+        return f"{self.root_url}/pdfsearch/?p=pdf_search/home/"
+
+    def default_search_payload(self):
+        search_payload = urllib.parse.parse_qs(payload)
+        search_payload = {k: v[0] for k, v in search_payload.items()}
+        search_payload["sEcho"] = 1
+        search_payload["iDisplayStart"] = 0
+        search_payload["iDisplayLength"] = page_size
+        return search_payload
+
+    def default_pdf_link_payload(self):
+        pdf_link_payload_o = urllib.parse.parse_qs(pdf_link_payload)
+        pdf_link_payload_o = {k: v[0] for k, v in pdf_link_payload_o.items()}
+        return pdf_link_payload_o
+
+    def init_user_session(self):
+        res = _tracked_request(
+            "GET",
+            f"{self.root_url}/pdfsearch/",
+            verify=False,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+            },
+            timeout=30,
+        )
+        self.session_id = res.cookies.get(self.session_cookie_name)
+        self.ecourts_token = res.cookies.get(self.ecourts_token_cookie_name)
+        if self.ecourts_token is None:
+            raise ValueError(
+                "Failed to get session token, not expected to happen. This could happen if the IP might have been detected as spam"
+            )
+
+    def get_cookie(self):
+        return f"{self.ecourts_token_cookie_name}={self.ecourts_token}; {self.session_cookie_name}={self.session_id}"
+
+    def update_session_id(self, response):
+        new_session_cookie = response.cookies.get(self.session_cookie_name)
+        if new_session_cookie:
+            self.session_id = new_session_cookie
+
+    def get_headers(self):
+        headers = {
+            "Accept": "application/json, text/javascript, */*; q=0.01",
+            "Accept-Language": "en-US,en;q=0.9,pt;q=0.8",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+            "Cookie": self.get_cookie(),
+            "DNT": "1",
+            "Origin": self.root_url,
+            "Referer": self.root_url + "/",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "same-origin",
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "X-Requested-With": "XMLHttpRequest",
+            "sec-ch-ua": '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": '"macOS"',
+        }
+        return headers
+
+    def download(self):
+        """Process a specific date range for this court"""
+        if self.task.from_date is None or self.task.to_date is None:
+            logger.info(f"No more data to download for: task: {self.task}")
+            return
+
+        search_payload = self.default_search_payload()
+        search_payload["from_date"] = self.task.from_date
+        search_payload["to_date"] = self.task.to_date
+        if self.task.dist_code is not None:
+            search_payload["dist_code"] = self.task.dist_code
+        self.init_user_session()
+        search_payload["state_code"] = self.court_code
+        search_payload["app_token"] = self.app_token
+        results_available = True
+        pdfs_downloaded = 0
+        self.task_stats = self._new_task_stats()
+
+        logger.info(f"Starting task: {self.task}")
+
+        while results_available:
+            try:
+                response = self.request_api("POST", self.search_url, search_payload)
+                res_dict = response.json()
+                self._raise_for_terminal_search_error(res_dict)
+                if self._results_exist_in_search_response(res_dict):
+                    self.task_stats["pages_fetched"] += 1
+                    results = res_dict["reportrow"]["aaData"]
+                    num_results = len(results)
+                    self.task_stats["results_seen"] += num_results
+
+                    with tqdm(
+                        total=num_results,
+                        desc=f"Processing results for {self.task.court_code}",
+                        unit="result",
+                        leave=False,
+                    ) as result_pbar:
+                        for idx, row in enumerate(results):
+                            try:
+                                outcome = self.process_result_row(
+                                    row, row_pos=idx
+                                )
+                                self.task_stats[outcome] += 1
+                                if outcome == "downloaded":
+                                    pdfs_downloaded += 1
+                                    result_pbar.set_postfix(downloaded=pdfs_downloaded)
+
+                                result_pbar.update(1)
+
+                                if pdfs_downloaded >= NO_CAPTCHA_BATCH_SIZE:
+                                    break
+                            except Exception as e:
+                                logger.error(
+                                    f"Error processing row {row}: {e}, task: {self.task}"
+                                )
+                                traceback.print_exc()
+                                result_pbar.update(1)
+
+                    # Re-fetch the same search page after a session refresh.
+                    # For backfills, most rows on the page are usually already
+                    # present and cheap to skip; avoiding smaller search pages
+                    # keeps the old-data path faster.
+                    if pdfs_downloaded >= NO_CAPTCHA_BATCH_SIZE:
+                        pdfs_downloaded = 0
+                        self.task_stats["session_refreshes"] += 1
+                        self.init_user_session()
+                        search_payload = self._refresh_search_pagination(search_payload)
+                        search_payload["app_token"] = self.app_token
+                        continue
+
+                    # prepare next iteration
+                    search_payload = self._prepare_next_iteration(search_payload)
+                else:
+                    results_available = False
+
+            except Exception as e:
+                logger.error(f"Error processing task: {self.task}, {e}")
+                traceback.print_exc()
+                raise
+
+        self._log_task_summary()
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="""
+Download judgments from Indian High Courts with intelligent S3 integration.
+
+SMART DATE DETECTION:
+- No dates: Automatically reads latest dates from S3 and downloads from next day
+- With dates: Downloads specified range, skipping already-downloaded files
+
+Examples:
+  # Auto-detect dates and download for specific court
+  python download.py --court_code 33_10
+
+  # Download specific date range for a court
+  python download.py --court_code 33_10 --start_date 2025-01-01 --end_date 2025-01-31
+
+  # Download with PDF compression enabled
+  python download.py --court_code 33_10 --compress-pdfs --compression-level screen
+
+  # Download with S3 sync and PDF compression
+  python download.py --court_code 33_10 --sync-s3 --compress-pdfs --compression-workers 8
+
+  # Download for all courts (auto-detect dates)
+  python download.py
+
+  # Just check what dates are in S3
+  python download.py --fetch_dates
+        """,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument(
+        "--court_code",
+        type=str,
+        default=None,
+        help="Single court code to process (accepts both 33_10 or 33~10 format)",
+    )
+    parser.add_argument(
+        "--court_codes",
+        type=str,
+        default=[],
+        help="Comma-separated court codes (e.g., 33_10,27_1 or 33~10,27~1)",
+    )
+    parser.add_argument(
+        "--start_date",
+        type=str,
+        default=None,
+        help="Start date in YYYY-MM-DD format (omit to auto-detect from S3 with a 14-day overlap buffer)",
+    )
+    parser.add_argument(
+        "--end_date",
+        type=str,
+        default=None,
+        help="End date in YYYY-MM-DD format (defaults to today)",
+    )
+    parser.add_argument(
+        "--day_step", type=int, default=1, help="Number of days per chunk"
+    )
+    parser.add_argument(
+        "--dist-code",
+        type=str,
+        default=None,
+        help=(
+            "Optional eCourts dist_code filter. For courts where the portal "
+            "uses Select Bench, this scopes a run to one bench and overrides "
+            "the built-in default splits."
+        ),
+    )
+    parser.add_argument(
+        "--default-dist-codes",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help=(
+            "Use built-in eCourts dist_code splits for known high-volume courts. "
+            "Enabled by default; pass --no-default-dist-codes to force an "
+            "unfiltered court-level search."
+        ),
+    )
+    parser.add_argument(
+        "--max_workers", type=int, default=2, help="Number of parallel workers"
+    )
+    parser.add_argument(
+        "--max-runtime-minutes",
+        type=int,
+        default=DEFAULT_MAX_RUNTIME_MINUTES,
+        help=(
+            "Wall-clock budget for the run. Stops starting new work once "
+            "exceeded and exits non-zero if any court was left unattempted. "
+            "Keep it below the CI job timeout. Pass 0 to disable."
+        ),
+    )
+    parser.add_argument(
+        "--checkpoint-every",
+        type=int,
+        default=DEFAULT_CHECKPOINT_TASKS,
+        help=(
+            "Upload and advance the resume cursor every N date ranges within a "
+            "court, so a run killed outright loses at most one batch instead of "
+            "everything that court scraped. Pass 0 to checkpoint once per court."
+        ),
+    )
+    parser.add_argument(
+        "--fetch_dates",
+        action="store_true",
+        help="Just display latest dates from S3 index files without downloading",
+    )
+    parser.add_argument(
+        "--sync-s3",
+        action="store_true",
+        default=False,
+        help="Enable S3 integration (uploads to S3, checks existing files, syncs dates)",
+    )
+    parser.add_argument(
+        "--compress-pdfs",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Compress PDFs during download with Ghostscript. Enabled by default; "
+             "pass --no-compress-pdfs to disable. No-op if Ghostscript is not installed.",
+    )
+
+    args = parser.parse_args()
+
+    if args.sync_s3:
+        S3_ENABLED = True
+        print("INFO: S3 integration enabled by --sync-s3 flag")
+    else:
+        S3_ENABLED = False
+        print("INFO: S3 integration disabled (use --sync-s3 to enable)")
+
+    # Handle PDF compression settings
+    if args.compress_pdfs:
+        if not COMPRESSION_AVAILABLE:
+            print(
+                "WARNING: PDF compression enabled but Ghostscript not found on PATH. "
+                "PDFs will be uploaded uncompressed. Install Ghostscript to enable."
+            )
+        else:
+            print("INFO: PDF compression enabled")
+    else:
+        print("INFO: PDF compression disabled (--no-compress-pdfs)")
+
+    # Handle different modes
+    if args.fetch_dates:
+        # Just print dates from S3 without downloading
+        court_dates = get_court_dates_from_index_files()
+        print(f"Found dates for {len(court_dates)} courts")
+        print(json.dumps(court_dates, indent=2))
+    else:
+        # Main download mode (with intelligent date detection)
+        if args.court_codes:
+            assert (
+                args.court_code is None
+            ), "court_code and court_codes cannot both be provided"
+            court_codes = args.court_codes.split(",")
+        elif args.court_code:
+            court_codes = [args.court_code]
+        else:
+            court_codes = None
+
+        run(
+            court_codes,
+            args.start_date,
+            args.end_date,
+            args.day_step,
+            args.max_workers,
+            compress_pdfs=args.compress_pdfs,
+            dist_code=args.dist_code,
+            use_default_dist_codes=args.default_dist_codes,
+            max_runtime_minutes=args.max_runtime_minutes or None,
+            checkpoint_every=args.checkpoint_every or None,
+        )
+
+"""
+captcha prompt while downloading pdf seems to be different from session timeout
+Every search API request returns a new app_token in response payload and new PHPSESSID in response cookies that need to be sent in the next request.
+openpdfcaptcha request refreshes the app_token but not PHPSESSID
+
+"""

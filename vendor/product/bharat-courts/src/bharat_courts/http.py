@@ -1,0 +1,163 @@
+"""Rate-limited async HTTP client with retry logic."""
+
+from __future__ import annotations
+
+import asyncio
+import logging
+import ssl
+
+import httpx
+
+from bharat_courts.config import BharatCourtsConfig
+from bharat_courts.config import config as default_config
+
+logger = logging.getLogger(__name__)
+
+
+def create_legacy_ssl_context() -> ssl.SSLContext:
+    """Create an SSL context that allows legacy server renegotiation.
+
+    Some government websites (e.g. calcuttahighcourt.gov.in) use outdated
+    TLS configurations that require this workaround.
+    """
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    ctx.options |= 0x4  # SSL_OP_LEGACY_SERVER_CONNECT
+    return ctx
+
+
+class RateLimitedClient:
+    """Async HTTP client with rate limiting, retries, and SSL bypass.
+
+    Government websites often have expired/invalid SSL certs, so verification
+    is disabled by default. For sites requiring legacy SSL renegotiation,
+    pass ``ssl_context=create_legacy_ssl_context()``.
+    """
+
+    def __init__(
+        self,
+        config: BharatCourtsConfig | None = None,
+        ssl_context: ssl.SSLContext | None = None,
+    ):
+        self._config = config or default_config
+        self._ssl_context = ssl_context
+        self._client: httpx.AsyncClient | None = None
+        self._last_request_at: float = 0.0
+
+    def _ensure_client(self) -> httpx.AsyncClient:
+        if self._client is None or self._client.is_closed:
+            verify: bool | ssl.SSLContext = self._ssl_context if self._ssl_context else False
+            self._client = httpx.AsyncClient(
+                timeout=self._config.timeout,
+                headers={
+                    "User-Agent": self._config.user_agent,
+                    "Accept": "application/json, text/javascript, */*; q=0.01",
+                    "Accept-Language": "en-US,en;q=0.9",
+                    "X-Requested-With": "XMLHttpRequest",
+                },
+                follow_redirects=True,
+                verify=verify,
+            )
+        return self._client
+
+    async def __aenter__(self):
+        self._ensure_client()
+        return self
+
+    async def __aexit__(self, *args):
+        await self.close()
+
+    async def close(self):
+        if self._client and not self._client.is_closed:
+            await self._client.aclose()
+            self._client = None
+
+    async def get(self, url: str, **kwargs) -> httpx.Response:
+        """GET with rate limiting and retry."""
+        return await self._request("GET", url, **kwargs)
+
+    async def post(self, url: str, **kwargs) -> httpx.Response:
+        """POST with rate limiting and retry."""
+        return await self._request("POST", url, **kwargs)
+
+    async def _request(self, method: str, url: str, **kwargs) -> httpx.Response:
+        """Execute request with rate limiting and exponential backoff retry."""
+        client = self._ensure_client()
+
+        # Rate-limit: only sleep if the gap since the last request is shorter
+        # than request_delay. The first request pays no pre-delay.
+        loop = asyncio.get_event_loop()
+        now = loop.time()
+        gap = now - self._last_request_at
+        if self._last_request_at and gap < self._config.request_delay:
+            await asyncio.sleep(self._config.request_delay - gap)
+        self._last_request_at = loop.time()
+
+        last_error: Exception | None = None
+        for attempt in range(self._config.max_retries):
+            try:
+                resp = await client.request(method, url, **kwargs)
+                resp.raise_for_status()
+                return resp
+            except httpx.HTTPStatusError as e:
+                # 4xx is a permanent client error (bad request, wrong captcha,
+                # missing field, not found, etc.) — retrying makes no sense and
+                # only burns the retry budget on the same wrong state. Only 5xx
+                # responses are treated as transient.
+                if e.response.status_code < 500:
+                    raise
+                last_error = e
+                if attempt == self._config.max_retries - 1:
+                    raise
+                wait = (attempt + 1) * 2
+                logger.warning(
+                    "Retry %d/%d for %s %s: %s. Waiting %ds.",
+                    attempt + 1,
+                    self._config.max_retries,
+                    method,
+                    url,
+                    e,
+                    wait,
+                )
+                await asyncio.sleep(wait)
+            except (
+                httpx.TimeoutException,  # Read/Connect/Write/Pool timeouts
+                httpx.NetworkError,  # Connect/Read/Write/Close errors
+                httpx.RemoteProtocolError,  # server disconnected mid-response
+            ) as e:
+                # The eCourts portals routinely drop connections under load
+                # ("Server disconnected without sending a response") — that
+                # surfaces as RemoteProtocolError, which is NOT a ConnectError
+                # or ReadTimeout, so it previously escaped the retry loop and
+                # failed the whole query on the first blip. Retry all transient
+                # transport failures; LocalProtocolError / UnsupportedProtocol /
+                # ProxyError are excluded (they're our bug or config, not the
+                # server being flaky).
+                last_error = e
+                if attempt == self._config.max_retries - 1:
+                    raise
+                wait = (attempt + 1) * 2
+                logger.warning(
+                    "Retry %d/%d for %s %s: %s. Waiting %ds.",
+                    attempt + 1,
+                    self._config.max_retries,
+                    method,
+                    url,
+                    e,
+                    wait,
+                )
+                await asyncio.sleep(wait)
+
+        msg = f"Request failed after {self._config.max_retries} retries"
+        raise RuntimeError(msg) from last_error
+
+    async def get_bytes(self, url: str, **kwargs) -> bytes:
+        """GET and return raw bytes (for PDF downloads)."""
+        resp = await self.get(url, **kwargs)
+        return resp.content
+
+    async def get_text(self, url: str, **kwargs) -> str:
+        """GET and return decoded text."""
+        resp = await self.get(url, **kwargs)
+        return resp.text

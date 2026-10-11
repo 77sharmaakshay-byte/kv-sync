@@ -1,0 +1,72 @@
+[project]
+name = "ecourts"
+description = "ecourts is a information retrieval tool for Indian High Courts."
+authors = [
+    {name = "Abhay Rana"}
+]
+keywords = ["ecourts", "legal-research", "india", "judiciary", "law", "information-retrieval"]
+
+dependencies = [
+    "requests~=2.32",
+    "beautifulsoup4~=4.14",
+    "opencv-python>=4.10,<5.1",
+    "click~=8.3",
+    "tabulate~=0.9",
+    "tqdm~=4.67",
+    "html5lib>=1.1",
+]
+
+requires-python = ">=3.10"
+dynamic = ["version", "readme"]
+
+[tool.setuptools.dynamic]
+readme = {file = ["README.md"], content-type = "text/markdown"}
+
+[tool.setuptools.packages.find]
+where = ["ecourts"]
+namespaces = false
+
+[project.optional-dependencies]
+# Building Docs
+docs = [
+  "pdoc>=15,<17"
+]
+# Running Tests
+test = [
+  "pytest~=9.0",
+  "pytest-cov>=7,<9",
+  "PyYAML~=6.0",
+  "pytest-recording~=0.13",
+  "wat-inspector~=0.4"
+]
+
+[build-system]
+requires = ["setuptools", "setuptools_scm"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+[tool.setuptools_scm]
+# This is automatically generated
+version_file = "ecourts/_version.py"
+
+[tool.pytest.ini_options]
+# Coverage reports
+addopts = "--cov=ecourts --cov-report lcov --cov-report html"
+pythonpath = [
+  "ecourts"
+]
+testpaths = [
+  "test"
+]
+
+[project.scripts]
+ecourts = "cli:ecourts"
+
+[tool.pdoc]
+modules = ["ecourts"]
+
+[tool.coverage.run]
+source = ["ecourts"]
+
+[tool.coverage.html]
+directory = "docs/coverage"
