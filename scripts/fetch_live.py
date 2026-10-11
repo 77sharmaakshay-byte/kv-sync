@@ -31,6 +31,7 @@ from urllib.parse import parse_qsl, urlencode
 
 import httpx
 from bharat_courts.courts import get_court
+from bharat_courts.hcservices import endpoints as hc_endpoints
 from bharat_courts.hcservices.client import HCServicesClient
 from bharat_courts.judgments import endpoints as judg_endpoints
 from bharat_courts.judgments.client import JudgmentSearchClient
@@ -168,7 +169,7 @@ async def uk_case(out, args):
                 pdf, err = None, None
                 for attempt in range(3):  # 'Unable to connect to server' aksar thodi der ka hota hai
                     try:
-                        pdf = await client.download_order_pdf(order.pdf_url)
+                        pdf = await order_pdf(client, order.pdf_url)
                         break
                     except Exception as e:  # noqa: BLE001
                         err = e
@@ -188,6 +189,23 @@ async def uk_case(out, args):
                     "case_status": status, "pdf_url": order.pdf_url})
                 print(f"  [new] {odate or ''} {order.order_type} {order.judge}")
     return 1 if bad else 0
+
+
+def clean_pdf(content):
+    """Nainital HC ka server PDF se pehle UTF-8 BOM (3 bytes) laga deta hai — hata do.
+    PDF ke andar ke byte-offsets bina BOM ke hisaab se hote hain, isliye kaatna hi sahi hai."""
+    start = content.find(b"%PDF", 0, 1024)
+    if start < 0:
+        text = content[:200].decode("utf-8", "replace").lstrip("\ufeff").strip()
+        raise RuntimeError(f"PDF nahi mili, server ne kaha: {text!r}")
+    return content[start:]
+
+
+async def order_pdf(client, url):
+    """bharat-courts ka download_order_pdf BOM wali PDF ko 'galat' maan leta hai; wahi request, apni jaanch."""
+    resp = await client._http.get(url, headers={"Referer": hc_endpoints.MAIN_PAGE_URL,
+                                               "Accept": "application/pdf,*/*"})
+    return clean_pdf(resp.content)
 
 
 def _with_filters(build, extra):
