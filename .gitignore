@@ -8,3 +8,7 @@ data/
 *.pdf
 .DS_Store
 .venv-tools/
+*.db
+*.db-wal
+*.db-shm
+.venv/
