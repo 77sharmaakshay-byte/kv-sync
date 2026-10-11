@@ -7,6 +7,8 @@
 #   ... --with-hindi    SC ke Hindi/regional anuvaad bhi (+51.5 GB)
 #   ... --no-kaggle     Kaggle wala (non-reportable) hissa abhi chhod do
 set -u
+# Python ka output turant dikhe, pipe (| tee) ke saath bhi.
+export PYTHONUNBUFFERED=1
 DEST="${1:?Pehla argument: data kahan rakhna hai, jaise ~/krishivlaw-data}"
 shift
 cd "$(dirname "$0")/.." || exit 1
