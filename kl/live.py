@@ -21,7 +21,7 @@ COLS = ("court", "title", "petitioner", "respondent", "case_no", "case_type", "d
 def _row(con, rel, side, sha):
     year = int(side["decision_date"][:4]) if side.get("decision_date") else None
     judges = side.get("judges") or None
-    meta = {k: side.get(k) for k in ("pdf_url", "source_url", "fetched_at", "order_type", "fetched_by")}
+    meta = {k: side.get(k) for k in ("pdf_url", "source_url", "fetched_at", "order_type", "case_status", "fetched_by")}
     cur = con.execute(
         "INSERT INTO judgments (source, source_key, year, judges, bench_size, pdf_archive, pdf_member, pdf_sha256, "
         f"meta_json, {', '.join(COLS)}) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, {', '.join('?' * len(COLS))}) "
@@ -35,7 +35,8 @@ def _row(con, rel, side, sha):
 def load(con, data_dir, workers=None, log=print):
     data_dir = Path(data_dir)
     root = data_dir / "live"
-    sides = sorted(root.glob("**/*.json")) if root.exists() else []
+    # '_case.json' poore case ka page hai (status, parties), PDF ka sidecar nahi.
+    sides = sorted(p for p in root.glob("**/*.json") if not p.name.startswith("_")) if root.exists() else []
     known = {r[0] for r in con.execute("SELECT pdf_sha256 FROM judgments WHERE pdf_sha256 IS NOT NULL")}
     stats = {"files": len(sides), "added": 0, "already": 0, "bad": 0}
     for sp in sides:

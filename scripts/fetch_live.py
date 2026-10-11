@@ -130,39 +130,63 @@ async def uk_case(out, args):
             try:
                 infos = await client.case_status(UK, case_type=code, case_number=no, year=year,
                                                  bench_code=args.bench)
-                orders = await client.court_orders(UK, case_type=code, case_number=no, year=year,
-                                                   bench_code=args.bench)
             except Exception as err:  # noqa: BLE001
                 bad += 1
                 print(f"[error] {spec}: {err}")
                 continue
             info = infos[0] if infos else None
-            print(f"{spec}: {info.status if info else 'status nahi mila'} · "
-                  f"{info.petitioner if info else ''} v. {info.respondent if info else ''} · {len(orders)} order PDF")
-            folder = out / "uk" / f"{ctype}-{no}-{year}"
-            for n, order in enumerate(orders, 1):
+            detail, orders = None, []
+            if info and info.cnr_number:
+                # CNR wala poora case page: har order ki tarikh, judge aur apna link.
                 try:
-                    pdf = await client.download_order_pdf(order.pdf_url)
+                    detail = await client.case_status_by_cnr(info.cnr_number)
+                    orders = detail.orders
                 except Exception as err:  # noqa: BLE001
-                    bad += 1
-                    print(f"  [error] order {n}: {err}")
-                    continue
-                sha = hashlib.sha256(pdf).hexdigest()
-                path = folder / sha[:16]
+                    print(f"  [CNR page nahi mila, doosra raasta] {err}")
+            if not orders:
+                try:
+                    orders = await client.court_orders(UK, case_type=code, case_number=no, year=year,
+                                                       bench_code=args.bench)
+                except Exception as err:  # noqa: BLE001
+                    print(f"  [orders nahi mile] {err}")
+            pet = (detail.petitioners[0].name if detail and detail.petitioners else None) or (info and info.petitioner)
+            res = (detail.respondents[0].name if detail and detail.respondents else None) or (info and info.respondent)
+            status = (detail and (detail.status or detail.case_stage)) or (info and info.status) or "?"
+            print(f"{spec}: {pet} v. {res} · CNR {info.cnr_number if info else '?'} · {status}"
+                  f"{' · faisla ' + iso(detail.decision_date) if detail and detail.decision_date else ''}"
+                  f" · {len(orders)} order PDF")
+            folder = out / "uk" / f"{ctype}-{no}-{year}"
+            if detail:
+                folder.mkdir(parents=True, exist_ok=True)
+                (folder / "_case.json").write_text(detail.to_json(indent=1), encoding="utf-8")
+            for n, order in enumerate(orders, 1):
+                # Sirf CNR page wali tarikh sahi hai; doosre raaste mein library aaj ki tarikh bhar deti hai.
+                odate = iso(order.order_date) if detail else None
+                path = folder / (f"{odate}-{n:03d}" if odate else f"order-{n:03d}")
                 if path.with_suffix(".json").exists():
                     continue
-                # JSON wale jawab mein order ki tarikh nahi aati (library aaj ki tarikh bhar deti hai) —
-                # galat tarikh se behtar hai khaali; text se baad mein nikalegi.
-                odate = iso(order.order_date) if order.order_date != dt.date.today() else None
+                pdf, err = None, None
+                for attempt in range(3):  # 'Unable to connect to server' aksar thodi der ka hota hai
+                    try:
+                        pdf = await client.download_order_pdf(order.pdf_url)
+                        break
+                    except Exception as e:  # noqa: BLE001
+                        err = e
+                        await asyncio.sleep(5 * (attempt + 1))
+                if pdf is None:
+                    bad += 1
+                    print(f"  [error] {odate or ''} {order.order_type}: {err}")
+                    continue
+                kind = "judgment" if "judg" in (order.order_type or "").lower() else "order"
                 save(path, pdf, {
-                    "court": "UKHC", "source": "uk-live", "source_key": f"ukhc-live:{ctype}/{no}/{year}:{sha[:16]}",
-                    "title": f"{info.petitioner} versus {info.respondent}" if info else None,
-                    "petitioner": info.petitioner if info else None, "respondent": info.respondent if info else None,
+                    "court": "UKHC", "source": "uk-live",
+                    "source_key": f"ukhc-live:{ctype}/{no}/{year}:{path.name}",
+                    "title": f"{pet} versus {res}" if pet or res else None, "petitioner": pet, "respondent": res,
                     "case_no": f"{ctype}/{no}/{year}", "case_type": ctype, "decision_date": odate,
-                    "cnr": info.cnr_number if info else None, "doc_kind": "order", "order_type": order.order_type,
-                    "judges": [order.judge] if order.judge else (info.judges if info else None),
-                    "case_status": info.status if info else None, "pdf_url": order.pdf_url})
-                print(f"  [new] {path.with_suffix('.pdf').name}")
+                    "cnr": info.cnr_number if info else None, "doc_kind": kind, "order_type": order.order_type,
+                    "judges": [order.judge] if order.judge else None,
+                    "case_status": status, "pdf_url": order.pdf_url})
+                print(f"  [new] {odate or ''} {order.order_type} {order.judge}")
     return 1 if bad else 0
 
 
