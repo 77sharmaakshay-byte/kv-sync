@@ -34,6 +34,20 @@
       "license": "GPL-3.0-or-later",
       "use": "reference",
       "why": "eCourts HC services ka doosra client — GPL, isliye product code mein nahi"
+    },
+    {
+      "name": "rhetorical-role-baseline",
+      "url": "https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline",
+      "license": "Apache-2.0",
+      "use": "product",
+      "why": "OpenNyAI ka para-tag model banane ka code — HuggingFace se model hat jaye to dobara train kar sakein"
+    },
+    {
+      "name": "indian-district-court-judgments",
+      "url": "https://github.com/vanga/indian-district-court-judgments",
+      "license": "NONE (code)",
+      "use": "reference",
+      "why": "eCourts mobile API scraper (advocate, hearings, acts) — code par license nahi, sirf padhne ke liye"
     }
   ],
   "models": [
