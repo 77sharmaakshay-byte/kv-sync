@@ -155,6 +155,24 @@ def run(con, data_dir, archives=None, workers=None, force=False, log=print):
     return stats
 
 
+def run_items(con, items, workers=None):
+    """Tar ke bina koi bhi source: items = iterable of (judgment_id, court, pdf_bytes).
+
+    Kaggle zip aur court website se laaye PDFs isi se database mein jaate hain.
+    """
+    workers = workers or max(1, (os.cpu_count() or 2) - 1)
+    stats = {"done": 0, "errors": 0, "orphans": 0, "conflicts": 0}
+    with ProcessPoolExecutor(max_workers=workers) as pool:
+        jobs = []
+        for item in items:
+            jobs.append(item)
+            if len(jobs) >= workers * 8:
+                stats = _flush(con, pool, jobs, stats)
+                jobs = []
+        stats = _flush(con, pool, jobs, stats)
+    return stats
+
+
 def _flush(con, pool, jobs, stats):
     for res in pool.map(_process, jobs, chunksize=4):
         _store(con, res)

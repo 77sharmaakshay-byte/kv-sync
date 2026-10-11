@@ -3,6 +3,9 @@
 
     python3 scripts/build_db.py --data ~/krishivlaw-data
     python3 scripts/build_db.py --data ~/krishivlaw-data --search "compassionate appointment"
+    python3 scripts/build_db.py --data ~/krishivlaw-data --kaggle-inspect   # Kaggle zip mein kya hai
+    python3 scripts/build_db.py --data ~/krishivlaw-data --kaggle           # Kaggle (non-reportable) jodo
+    python3 scripts/build_db.py --data ~/krishivlaw-data --live             # fetch_live.py wale naye PDFs jodo
 
 Database file: <data>/krishivlaw.db (ya --db se apna path).
 Dobara chalao to sirf baaki documents bante hain; beech mein rok do to
@@ -16,7 +19,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from kl import db, ingest, meta  # noqa: E402
+from kl import db, ingest, kaggle, live, meta  # noqa: E402
 
 
 def search(con, query, limit=10):
@@ -36,6 +39,9 @@ def main():
     ap.add_argument("--db", type=Path, help="database file (default: <data>/krishivlaw.db)")
     ap.add_argument("--workers", type=int, help="kitne CPU cores (default: sab minus ek)")
     ap.add_argument("--search", help="database ban jaane ke baad sirf search karo")
+    ap.add_argument("--kaggle-inspect", action="store_true", help="Kaggle zip ke andar ki files dikhao")
+    ap.add_argument("--kaggle", action="store_true", help="sirf Kaggle zip wale judgments jodo")
+    ap.add_argument("--live", action="store_true", help="sirf <data>/live (fetch_live.py) wale jodo")
     args = ap.parse_args()
 
     data = args.data.expanduser()
@@ -44,6 +50,21 @@ def main():
     if args.search:
         search(con, args.search)
         return 0
+    if args.kaggle_inspect:
+        zpath = kaggle.find_zip(data)
+        if zpath is None:
+            print("Kaggle zip nahi mili (<data>/kaggle-sc-all/*.zip).")
+            return 1
+        kaggle.inspect(zpath)
+        return 0
+    if args.kaggle or args.live:
+        t0 = time.time()
+        stats = (kaggle if args.kaggle else live).load(con, data, workers=args.workers,
+                                                          log=lambda m: print("  " + m, flush=True))
+        if stats is None:
+            return 1
+        print(f"== Ho gaya: {stats['done']} PDFs padhe, errors {stats['errors']}. ({(time.time() - t0) / 60:.0f} min)")
+        return 1 if stats["errors"] else 0
 
     t0 = time.time()
     n_sc = meta.upsert(con, meta.sc_rows(data))
