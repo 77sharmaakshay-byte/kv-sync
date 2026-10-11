@@ -1,0 +1,32 @@
+{
+  "naam": "mritak-aashrit-niyukti",
+  "topics": [
+    {"id": "T1", "title": "Retrospective / baad wali policy purane aavedan par",
+     "queries": ["compassionate AND (retrospective OR retrospectively OR retroactive)",
+                 "\"dying in harness\" AND (retrospective OR retrospectively)"]},
+    {"id": "T2", "title": "Date of death vs date of consideration / application",
+     "queries": ["compassionate AND (\"date of death\" OR \"date of the death\") AND (policy OR scheme OR rules)",
+                 "compassionate AND (\"date of consideration\" OR \"date of application\" OR \"date of submission\")",
+                 "compassionate AND (prevailing OR \"in force\" OR \"applicable at the time\")"]},
+    {"id": "T3", "title": "Niyam badalna / rules of the game / legitimate expectation",
+     "queries": ["compassionate AND (\"rules of the game\" OR midway OR \"legitimate expectation\")",
+                 "\"dying in harness\" AND (amendment OR amended) AND (application OR applied)"]},
+    {"id": "T4", "title": "5% seema / ceiling / merit se chayan",
+     "queries": ["compassionate AND (\"5%\" OR \"five per cent\" OR \"5 per cent\" OR ceiling OR quota)",
+                 "compassionate AND (merit OR \"merit list\" OR ranking OR competitive)"]},
+    {"id": "T5", "title": "Adhisankhyak (supernumerary) pad",
+     "queries": ["compassionate AND supernumerary", "\"dying in harness\" AND supernumerary"]},
+    {"id": "T6", "title": "Typing / qualifying test, nyuntam star (Rule 8(2))",
+     "queries": ["compassionate AND (typing OR \"qualifying test\" OR \"minimum standard\" OR \"minimum level\")",
+                 "\"dying in harness\" AND (\"rule 8\" OR \"rule 5\")"]},
+    {"id": "T7", "title": "Uttarakhand Police / Police Establishment Committee",
+     "queries": ["compassionate AND (\"Police Establishment\" OR \"Establishment Committee\")",
+                 "compassionate AND police AND (ministerial OR \"constable (m)\" OR clerk)"]},
+    {"id": "T8", "title": "1974 Niyamavali (UP / Uttarakhand)",
+     "queries": ["\"dying in harness\" AND 1974", "\"Recruitment of Dependants\" AND 1974"]},
+    {"id": "T9", "title": "Mukhya SC faisle jinka zikr hota hai",
+     "queries": ["\"Santhosh\" AND compassionate", "\"Shashi Kumar\" AND compassionate",
+                 "\"Ashish Awasthi\" AND compassionate", "\"Umesh Kumar Nagpal\"", "\"Sushma Gosain\"",
+                 "\"Ajithkumar\" AND compassionate", "\"Tej Prakash Pathak\"", "\"Manjusree\""]}
+  ]
+}
