@@ -2,7 +2,7 @@
 
 `scripts/vendor_sync.py` se bani. Haath se mat badlo.
 
-| Repo | Use | License | Commit | Commit date | Last check | Status |
+| Repo | Use | License | Commit | Commit date | Last change | Status |
 |---|---|---|---|---|---|---|
 | [bharat-courts](https://github.com/iamshouvikmitra/bharat-courts) | product | MIT | `73cb5fa8b4` | 2026-09-08 | 2026-10-11 | zinda — copy taaza hai |
 | [ecourts](https://github.com/openjustice-in/ecourts) | reference | GPL-3.0-or-later | `812d1c4454` | 2026-10-05 | 2026-10-11 | zinda — copy taaza hai |

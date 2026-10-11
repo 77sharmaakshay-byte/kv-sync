@@ -66,14 +66,14 @@ def write_md(lock):
         "",
         "`scripts/vendor_sync.py` se bani. Haath se mat badlo.",
         "",
-        "| Repo | Use | License | Commit | Commit date | Last check | Status |",
+        "| Repo | Use | License | Commit | Commit date | Last change | Status |",
         "|---|---|---|---|---|---|---|",
     ]
     for name, r in sorted(lock.items()):
         lines.append(
             f"| [{name}]({r['url']}) | {r['use']} | {r['license']} | "
             f"`{r.get('commit', '')[:10]}` | {r.get('commit_date', '')[:10]} | "
-            f"{r.get('checked_at', '')[:10]} | {r.get('status', '')} |"
+            f"{r.get('updated_at', '')[:10]} | {r.get('status', '')} |"
         )
     lines += [
         "",
@@ -96,9 +96,10 @@ def main():
 
     for repo in repos:
         name = repo["name"]
-        entry = lock.get(name, {})
+        old = dict(lock.get(name, {}))
+        old.pop("checked_at", None)               # purane version ka field
+        entry = dict(old)
         entry.update({k: repo[k] for k in ("url", "license", "use")})
-        entry["checked_at"] = now
         head = remote_head(repo["url"], repo.get("branch"))
         if head is None:
             problems += 1
@@ -106,7 +107,7 @@ def main():
             print(f"[GAYAB] {name}: {repo['url']}")
         elif args.check:
             same = head == entry.get("commit")
-            entry["status"] = "zinda" + ("" if same else " — nayi commit hai, sync chalao")
+            entry["status"] = "zinda — copy taaza hai" if same else "zinda — nayi commit hai, sync chalao"
             print(f"[ok] {name}: {head[:10]}{'' if same else '  (nayi commit)'}")
         elif head == entry.get("commit"):
             entry["status"] = "zinda — copy taaza hai"
@@ -122,11 +123,19 @@ def main():
                 problems += 1
                 entry["status"] = f"clone fail — purani copy rakhi hai ({err})"
                 print(f"[fail] {name}: {err}")
+        # Samay tabhi badlo jab kuch sach mein badla ho (commit, status...),
+        # warna har run par file badal jaati hai bina kisi wajah ke.
+        changed = {k: v for k, v in entry.items() if k != "updated_at"} != \
+                  {k: v for k, v in old.items() if k != "updated_at"}
+        if changed or "updated_at" not in entry:
+            entry["updated_at"] = now
         lock[name] = entry
 
     VENDOR.mkdir(exist_ok=True)
-    LOCK.write_text(json.dumps(lock, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    write_md(lock)
+    text = json.dumps(lock, indent=2, ensure_ascii=False) + "\n"
+    if not LOCK.exists() or LOCK.read_text(encoding="utf-8") != text:
+        LOCK.write_text(text, encoding="utf-8")
+        write_md(lock)
     return 1 if problems else 0
 
 
