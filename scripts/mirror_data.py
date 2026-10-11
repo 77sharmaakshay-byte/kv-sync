@@ -21,6 +21,7 @@ import datetime as dt
 import hashlib
 import json
 import re
+import shutil
 import sys
 import tarfile
 import urllib.parse
@@ -32,6 +33,7 @@ CONFIG = ROOT / "config" / "upstreams.json"
 DEFAULT_GROUPS = ["sc-english", "sc-meta-parquet", "sc-meta-raw",
                   "uk-hc-pdf", "uk-hc-meta-parquet", "uk-hc-meta-raw"]
 ASK_ABOVE_BYTES = 5 * 1024 ** 3
+KEEP_FREE_BYTES = 15 * 1024 ** 3
 CHUNK = 4 * 1024 * 1024
 
 
@@ -157,6 +159,13 @@ def main():
         todo += [(bucket, o) for o in new]
 
     print(f"{'KUL':20s} {len(todo):6d} files, {human(total)}")
+    args.dest.mkdir(parents=True, exist_ok=True)
+    free = shutil.disk_usage(args.dest).free
+    print(f"{'Disk par khaali':20s} {human(free)} ({args.dest})")
+    if free - total < KEEP_FREE_BYTES:
+        print(f"Jagah kam hai: download ke baad bhi {human(KEEP_FREE_BYTES)} khaali rehna chahiye, "
+              f"taaki computer na atke. {human(total + KEEP_FREE_BYTES - free)} aur jagah chahiye.")
+        return 3
     if total > ASK_ABOVE_BYTES and not args.yes:
         print("5 GB se zyada hai. Manzoori ho to --yes ke saath dobara chalao.")
         return 2
