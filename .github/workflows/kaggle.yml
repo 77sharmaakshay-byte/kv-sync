@@ -78,6 +78,9 @@ jobs:
         run: |
           echo "User: ${KAGGLE_USERNAME:-(pata nahi; 'user' input mein daalo)}"
           kaggle datasets list --mine 2>&1 | head -20
+          for d in $(kaggle datasets list --mine --csv 2>/dev/null | tail -n +2 | cut -d, -f1); do
+            echo "== $d ki files:"; kaggle datasets files "$d" 2>&1 | head -8
+          done
           kaggle kernels list --mine 2>&1 | head -10
       - name: Training data Kaggle par (private)
         if: inputs.task == 'upload-data'
