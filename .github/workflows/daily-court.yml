@@ -126,3 +126,7 @@ jobs:
           if git diff --cached --quiet; then echo "Kuch naya nahi"; exit 0; fi
           git commit -q -m "court data ${{ steps.todo.outputs.date }}"
           git push -q origin data
+
+      - name: App site update
+        if: always()
+        run: sh scripts/publish_site.sh databranch

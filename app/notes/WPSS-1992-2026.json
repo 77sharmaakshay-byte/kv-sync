@@ -1,0 +1,33 @@
+{
+  "badge": "Stay chal raha",
+  "summary": "Assistant Teacher (niyukti 28.05.2022) ki seva 06.05.2026 ko khatam ki gayi — graduation mein 42% hain, 45% se kam. Petitioner ka kehna: NCTE ki 13.11.2019 ki notification ke anusaar jinhone B.Ed. mein 29.07.2011 se pehle pravesh liya, un par 45% ki shart lagu nahi. Graduation 1998, B.Ed. 1999.",
+  "source": "29.07.2026 ka order, para 4–8",
+  "status": "29.07.2026 ko court ne 25.04.2026 aur 06.05.2026 ke dono aadesh agli tareekh tak rok diye. Respondents ko 6 hafte mein counter affidavit dena tha.",
+  "timeline": [
+    {"date": "1998 · 1999", "text": "Graduation (42%) aur B.Ed. — petition ke anusaar"},
+    {"date": "13.11.2019", "text": "NCTE notification: 29.07.2011 se pehle B.Ed. pravesh walon par graduation % ki shart nahi"},
+    {"date": "28.05.2022", "text": "Assistant Teacher ke pad par niyukti"},
+    {"date": "25.04.2026", "text": "Director Elementary Education ka patra (Annexure 22)"},
+    {"date": "06.05.2026", "text": "DEO (Basic) ne seva samaapt ki"},
+    {"date": "29.07.2026", "text": "Justice Pankaj Purohit: dono aadesh par roak, counter 6 hafte mein, agli tareekh 12.10.2026"}
+  ],
+  "pros": [
+    "Pehli sunwai mein hi court ne petitioner ki baat mein \"substance\" maana aur dono aadesh rok diye (29.07.2026, para 9–11).",
+    "NCTE notification 13.11.2019: 29.07.2011 se pehle B.Ed. pravesh walon par graduation % ki shart lagu nahi, aur ye 29.07.2011 se hi lagu maani gayi.",
+    "Supreme Court, Manilal v. State of Rajasthan (2024 INSC 675): isi notification par appeal allowed.",
+    "Petitioner lagbhag 4 saal (2022–2026) seva mein raha."
+  ],
+  "cons_title": "State kya keh sakti hai",
+  "cons": [
+    "Uttarakhand ki bharti niyamavali ya vigyapan mein 45% alag se likha ho to State usi par tikegi — vigyapan aur niyam dekhna zaroori.",
+    "B.Ed. mein pravesh 29.07.2011 se pehle hua, iska kagazi saboot chahiye (1999 ki marksheet / admission).",
+    "Counter ki 6 hafte ki seema beet chuki — counter aaya ya nahi, dekho; aaya ho to rejoinder taiyaar karo."
+  ],
+  "todo": ["NCTE notification 13.11.2019 ki copy", "Manilal (2024 INSC 675) — para 8", "Stay jaari rakhne ki maang"],
+  "disclaimer": "Ye vishleshan Claude ne court ke 29.07.2026 ke order aur judgments database se banaya hai — advocate ka review zaroori. Petition/counter milne par aur gehra hoga. Koi jeetne ka % nahi.",
+  "similar": [
+    {"court": "Supreme Court", "tag": "Paksh mein · quote jaancha", "verified": true, "title": "Manilal v. State of Rajasthan", "cite": "2024 INSC 675 · [2024] 9 S.C.R. 223 · 10.09.2024 · Appeal allowed", "why": "Wahi NCTE notification (13.11.2019) — 29.07.2011 se pehle B.Ed. walon par graduation % lagu nahi.", "quote": "“…minimum percentage of marks in graduation shall not be applicable to those incumbents who had already taken admission to the Bachelor of Education … prior to 29th July, 2011.” — para 8"},
+    {"court": "Supreme Court", "tag": "Zikr mila · padhna baaki", "verified": false, "title": "Neeraj Kumar Rai v. State of U.P.", "cite": "Civil Appeal 9732/2017 · 25.07.2017", "why": "Manilal (para 9) ke anusaar 13.11.2019 ki notification isi faisle ke baad aayi."},
+    {"court": "Nainital HC", "tag": "Padhna baaki", "verified": false, "title": "Kiran v. State of Uttarakhand", "cite": "WPSB/316/2023 · 12.11.2024 · Dismissed", "why": "29.07.2011 aur NCTE ka zikr — paksh ya khilaaf, faisla padh kar tay hoga."}
+  ]
+}
