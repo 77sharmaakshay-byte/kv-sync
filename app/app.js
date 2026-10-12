@@ -35,6 +35,13 @@
     var s = d.getDate() + ' ' + MON[d.getMonth()];
     return long ? WEEK[d.getDay()] + ', ' + s + ' ' + d.getFullYear() : s;
   }
+  function dayWord(iso) { // list ki tareekh: aaj / kal / '13 Oct'
+    var t = new Date(), pad = function (n) { return (n < 10 ? '0' : '') + n; };
+    var ymd = function (d) { return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()); };
+    if (iso === ymd(t)) return 'aaj';
+    t.setDate(t.getDate() + 1);
+    return iso === ymd(t) ? 'kal' : fmtDate(iso);
+  }
   function dmy(iso) { return iso ? iso.split('-').reverse().join('.') : ''; }
   function caseId(no) { return (no || '').replace(/\//g, '-'); }
   function words(q) { return (q || '').toUpperCase().split(/\s+/).filter(Boolean); }
@@ -111,8 +118,8 @@
             '<a class="btn" href="#/settings">Naam likho</a></div><a class="btn ghost" href="#/list">Poori cause list dekho</a></div>');
         }
         var r = courtsHtml(data, words(name), known);
-        render(head + '<div class="pad"><div class="count"><b>' + r.total + '</b><span>case aaj · ' + r.courts +
-          ' court mein</span></div>' + (r.html || '<div class="empty">Aaj ki list mein "' + esc(name) +
+        render(head + '<div class="pad"><div class="count"><b>' + r.total + '</b><span>case ' + esc(dayWord(date)) + ' · ' + r.courts +
+          ' court mein</span></div>' + (r.html || '<div class="empty">' + esc(dayWord(date)) + ' ki list mein "' + esc(name) +
           '" nahi mila. Naam ki spelling "Main" tab mein jaancho.</div>') +
           '<p class="muted">Court ki PDF cause list se. Update: ' + esc((idx.generated_at || '').replace('T', ' ').slice(0, 16)) +
           ' UTC. Jaane se pehle court ki list se ek baar mila lein.</p></div>');

@@ -1,6 +1,7 @@
-# Roz ka court data — GitHub apne aap chalata hai (India time 06:03, 08:03, 10:03).
-# 1. Nainital HC ki aaj ki cause list: jis run mein mil gayi, us din ke baaki runs kuch nahi karte.
-# 2. Scraper (SC latest + Nainital HC ke naye disposed cases): din mein ek hi baar.
+# Roz ka court data — GitHub apne aap chalata hai (India time 06:03, 08:03, 10:03 aur shaam 18:03, 19:03).
+# 1. Nainital HC ki cause list: subah ke runs aaj ki, shaam ke runs agle din ki (Ravivaar ho to Somvaar).
+#    Jis run mein mil gayi, us tareekh ke baaki runs kuch nahi karte; mil te hi app (site) par.
+# 2. Scraper (SC latest + Nainital HC ke naye disposed cases): din mein ek hi baar, subah.
 # Nateeja: 'data' branch (cause list ka text, state) + Releases (PDFs ki tar.gz).
 # Haath se chalana: Actions tab → "Roz ka court data" → Run workflow.
 name: Roz ka court data
@@ -10,6 +11,8 @@ on:
     - cron: '33 0 * * *'   # 06:03 IST
     - cron: '33 2 * * *'   # 08:03 IST
     - cron: '33 4 * * *'   # 10:03 IST
+    - cron: '33 12 * * *'  # 18:03 IST — agle din ki list
+    - cron: '33 13 * * *'  # 19:03 IST — agle din ki list
   workflow_dispatch:
     inputs:
       date:
@@ -54,10 +57,16 @@ jobs:
         id: todo
         run: |
           DATE="${{ inputs.date }}"
+          CL=yes; SCRAPE=yes
+          if [ -z "$DATE" ] && [ "$(TZ=Asia/Kolkata date +%H)" -ge 15 ]; then
+            # shaam: agle din ki list (Ravivaar ko court band, to Somvaar); scraper subah hi
+            NEXT=1; [ "$(TZ=Asia/Kolkata date -d tomorrow +%u)" = "7" ] && NEXT=2
+            DATE=$(TZ=Asia/Kolkata date -d "+$NEXT day" +%d-%m-%Y)
+            SCRAPE=no
+          fi
           [ -n "$DATE" ] || DATE=$(TZ=Asia/Kolkata date +%d-%m-%Y)
           echo "date=$DATE" >> "$GITHUB_OUTPUT"
           FORCE="${{ inputs.force }}"
-          CL=yes; SCRAPE=yes
           if [ "$FORCE" != "true" ]; then
             [ -f "databranch/causelist/$DATE/index.json" ] && CL=no
             [ "$(cat databranch/state/last_scrape 2>/dev/null)" = "$DATE" ] && SCRAPE=no
