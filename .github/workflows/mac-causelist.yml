@@ -1,0 +1,30 @@
+# Nainital HC ki apni cause list site (ehcr.uk.gov.in) sirf India se khulti hai, isliye yeh aapke Mac
+# (self-hosted runner 'mac') par chalta hai. Mac band ho to yeh line mein rukta hai; eCourts wala raasta
+# (daily-court.yml) GitHub par chalta rehta hai.
+name: Mac cause list (ehcr)
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'probe = site ka format dekho'
+        type: choice
+        options: [probe]
+        default: probe
+
+permissions:
+  contents: read
+
+concurrency:
+  group: mac-causelist
+  cancel-in-progress: false
+
+jobs:
+  ehcr:
+    runs-on: [self-hosted, macOS]
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Site ka format
+        if: inputs.mode == 'probe'
+        run: python3 scripts/ukhc_ehcr.py --probe
