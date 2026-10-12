@@ -53,7 +53,13 @@ def probe():
         resp = post(op, BASE + "includes/cc_functions.php",
                     {"upt_rad_val": "upt_rad_val", "rad_val": rad, "sel_dt": dt, "se_id": ""})
         print(f"== cc_functions rad_val={rad}", len(resp))
-        print(resp[:6000])
+        print(resp[:3000])
+    dates = re.findall(r"value=\\?'(\d{4}-\d\d-\d\d)", resp)
+    print("== tareekhein", dates)
+    for rad in ("d", "w", "s"):
+        resp = post(op, BASE + "view_causelist_ajax.php", {"rad_val": rad, "cause_date": dates[0] if dates else dt})
+        print(f"== view_causelist_ajax rad_val={rad}", len(resp))
+        print(resp[:8000])
     return 0
 
 
