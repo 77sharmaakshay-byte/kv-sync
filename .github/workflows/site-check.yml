@@ -9,13 +9,18 @@ on:
       paths:
         description: "Kaunse page dekhne hain (space se alag)"
         default: "/ /data/index.json /app.js"
+      runner:
+        description: "Kahan se kholein: GitHub ka server ya aapka Mac (India)"
+        type: choice
+        options: [ubuntu-latest, self-hosted]
+        default: ubuntu-latest
       find:
         description: "Page mein yeh dhundho (regex, jaise cause), milte links dikhao"
         required: false
         default: ""
 jobs:
   check:
-    runs-on: ubuntu-latest
+    runs-on: ${{ inputs.runner || 'ubuntu-latest' }}
     timeout-minutes: 5
     steps:
       - name: Link kholo
@@ -25,13 +30,13 @@ jobs:
           FIND: ${{ inputs.find }}
         run: |
           host=$(echo "$URL" | sed -E 's#https?://([^/]+).*#\1#')
-          echo "== DNS"; getent hosts "$host" || echo "DNS nahi mila"
+          echo "== DNS"; getent hosts "$host" 2>/dev/null || host "$host" 2>/dev/null | head -2 || echo "DNS nahi mila"
           for path in $PATHS; do
             echo "== $path"
-            curl -sS -m 60 -L -o body.txt -D head.txt -w "status %{http_code}\n" "$URL$path" || true
+            curl -sS -m 60 -L -A "Mozilla/5.0" -o body.txt -D head.txt -w "status %{http_code}\n" "$URL$path" || true
             head -15 head.txt 2>/dev/null; head -c 400 body.txt 2>/dev/null; echo
             if [ -n "$FIND" ]; then
               echo "-- '$FIND' wale links:"
-              grep -oiE "<a [^>]*href=[^>]*>[^<]{0,120}" body.txt | grep -iE "$FIND" | head -80 || true
+              grep -oiE "<(a|form|option|select|input|iframe)[^>]*>[^<]{0,120}" body.txt | grep -iE "$FIND" | head -120 || true
             fi
           done
