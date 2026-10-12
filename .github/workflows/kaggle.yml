@@ -1,0 +1,36 @@
+# Apna model: GitHub se Kaggle (free GPU) par data aur training bhejna.
+# Actions tab → "Kaggle" → Run workflow → kaam chuno.
+#   check  : Kaggle token chal raha hai ya nahi (aapke datasets ki list)
+name: Kaggle
+
+on:
+  workflow_dispatch:
+    inputs:
+      task:
+        description: 'Kya karna hai'
+        type: choice
+        options: [check]
+        default: check
+
+jobs:
+  kaggle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Kaggle CLI
+        run: pip install --quiet kaggle
+      - name: Token jaancho
+        if: inputs.task == 'check'
+        run: |
+          test -n "$KAGGLE_USERNAME" || { echo "KAGGLE_USERNAME secret nahi mila"; exit 1; }
+          test -n "$KAGGLE_KEY" || { echo "KAGGLE_KEY secret nahi mila"; exit 1; }
+          echo "User: $KAGGLE_USERNAME"
+          kaggle datasets list --mine --max-size 0 2>&1 | head -20 || true
+          kaggle kernels list --mine 2>&1 | head -10 || true
