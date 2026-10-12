@@ -128,6 +128,12 @@ details.order summary::-webkit-details-marker { display: none; }
 details.order pre { margin: 0; padding: 0 14px 14px; white-space: pre-wrap; font-family: var(--serif); font-size: 15px; line-height: 1.5; }
 
 .btn { display: flex; align-items: center; justify-content: center; min-height: 52px; padding: 0 16px; border: 0; border-radius: 14px; background: var(--brand-fill); color: var(--on-brand); font-size: 16px; font-weight: 600; text-decoration: none; cursor: pointer; }
+.btn svg { width: 20px; height: 20px; margin-right: 8px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+a.card.link { text-decoration: none; color: inherit; }
+a.card.link:active { background: var(--line-2); }
+.go { display: inline-flex; align-items: center; gap: 2px; font-size: 14px; font-weight: 600; color: var(--brand); }
+.go svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2.4; }
+.quote { background: var(--line-2); padding: 10px 12px; border-radius: 10px; }
 .btn.ghost { background: var(--card); color: var(--ink); border: 1.5px solid var(--line); }
 .field { display: flex; flex-direction: column; gap: 8px; }
 .field span { font-size: 15px; font-weight: 600; }
