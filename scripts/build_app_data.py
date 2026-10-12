@@ -16,6 +16,7 @@ import datetime as dt
 import hashlib
 import json
 import re
+import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -211,6 +212,10 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
     dates = build_causelists(args.data_branch, out)
     cases = build_cases(args.data_branch, out)
+    khoj = args.data_branch / "khoj"   # scripts/export_khoj.py: 'Khoj' tab ke faisle aur niyam
+    if (khoj / "index.json").exists():
+        shutil.rmtree(out / "khoj", ignore_errors=True)
+        shutil.copytree(khoj, out / "khoj")
     now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes")
     (out / "index.json").write_text(json.dumps({"generated_at": now, "dates": dates, "cases": cases},
                                                ensure_ascii=False, indent=1), encoding="utf-8")

@@ -75,11 +75,13 @@ jobs:
           echo "DB=$W/krishivlaw.db" >> "$GITHUB_ENV"
       - name: Auto notes
         run: python scripts/auto_notes.py --db "$DB" --cases databranch/cases --out databranch/notes_auto ${{ inputs.force && '--force' || '' }}
+      - name: Khoj tab ke faisle (export)
+        run: python scripts/export_khoj.py --db "$DB" --out databranch/khoj
       - name: Data branch par save
         id: save
         run: |
           cd databranch
-          git add notes_auto
+          git add notes_auto khoj
           if git diff --cached --quiet; then echo "Kuch naya nahi"; echo "changed=0" >> "$GITHUB_OUTPUT"; exit 0; fi
           git commit -qm "auto notes $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
           git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }

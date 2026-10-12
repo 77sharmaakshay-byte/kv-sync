@@ -68,10 +68,10 @@ def topics_for(case_type, text):
 _SIM = {}
 
 
-def similar(con, up, mudda, query):
+def similar(con, up, mudda, query, per_court=PER_COURT):
     """Usi upvishay (aur mudda ho to usi) ke mukhya faisle, sabse milta asli paragraph ke saath. SC pehle,
     phir Nainital HC; naye aur zyada pannon par is vishay wale pehle. Ek upvishay ka nateeja yaad rakhte hain."""
-    key = (up, mudda)
+    key = (up, mudda, per_court)
     if key in _SIM:
         return _SIM[key]
     out = []
@@ -80,7 +80,7 @@ def similar(con, up, mudda, query):
             "SELECT k.judgment_id, k.title, k.case_no, k.neutral_citation, k.decision_date, k.nateeja, j.judges "
             "FROM khoj k JOIN judgments j ON j.id = k.judgment_id "
             "WHERE k.upvishay = ? AND k.mudda = ? AND k.strength = 'mukhya' AND k.court = ? "
-            "ORDER BY (k.hits >= 3) DESC, k.decision_date DESC LIMIT 30", (up, mudda or "", court)).fetchall()
+            "ORDER BY (k.hits >= 3) DESC, k.decision_date DESC LIMIT ?", (up, mudda or "", court, max(30, per_court * 6))).fetchall()
         if not rows:
             continue
         meta = {r[0]: r for r in rows}
@@ -111,7 +111,7 @@ def similar(con, up, mudda, query):
                 "quote": "“" + (text[:420] + ("…" if len(text) > 420 else "")) + "”" + (f" (para {para_no})" if para_no else ""),
             })
             picked += 1
-            if picked >= PER_COURT:
+            if picked >= per_court:
                 break
     _SIM[key] = out
     return out
