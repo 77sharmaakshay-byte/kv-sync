@@ -1,5 +1,5 @@
 // Sab kuch pehle internet se (naya version turant mile); internet na ho to pichhli copy.
-const SHELL = 'ns-shell-v3';
+const SHELL = 'ns-shell-v4';
 const DATA = 'ns-data-v1';
 const SHELL_FILES = ['./', 'index.html', 'app.css', 'app.js', 'manifest.webmanifest', 'icons/icon-192.png'];
 
