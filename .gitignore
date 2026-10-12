@@ -6,6 +6,8 @@ __pycache__/
 mirror/
 data/
 *.pdf
+# Court ke public judgments (AWS Open Data, CC-BY-4.0) app mein download ke liye — client documents nahi
+!app/judgments/*.pdf
 .DS_Store
 .venv-tools/
 *.db
