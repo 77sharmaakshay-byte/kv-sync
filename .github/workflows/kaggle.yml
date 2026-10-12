@@ -41,7 +41,7 @@ jobs:
           INPUT_USER: ${{ inputs.user }}
         run: |
           python3 - <<'PY'
-          import json, os, pathlib
+          import json, os, re
           s = (os.environ.get("SECRET") or "").strip()
           env = {}
           try:
@@ -53,10 +53,16 @@ jobs:
                   env = {"KAGGLE_USERNAME": os.environ["OLD_USER"], "KAGGLE_KEY": os.environ["OLD_KEY"]}
                   kind = "KAGGLE_USERNAME/KAGGLE_KEY"
               elif s:
-                  env = {"KAGGLE_API_TOKEN": s}
-                  if os.environ.get("INPUT_USER"):
-                      env["KAGGLE_USERNAME"] = os.environ["INPUT_USER"].strip()
-                  kind = "API token"
+                  s = s.strip().strip('"').strip("'")
+                  user = (os.environ.get("INPUT_USER") or "").strip()
+                  if re.fullmatch(r"[0-9a-f]{32}", s):  # purani kaggle.json wali 'key' akeli
+                      env = {"KAGGLE_KEY": s}
+                      kind = "purani key (username bhi chahiye)"
+                  else:
+                      env = {"KAGGLE_API_TOKEN": s}
+                      kind = f"naya API token ({len(s)} akshar)"
+                  if user:
+                      env["KAGGLE_USERNAME"] = user
               else:
                   raise SystemExit("KRISHIVLAW secret khaali hai ya mila nahi")
           print("Token mila:", kind)
