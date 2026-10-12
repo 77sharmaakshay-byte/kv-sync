@@ -10,6 +10,11 @@ on:
   schedule:
     - cron: '47 20 * * 6'   # Ravivaar subah 02:17 IST
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'Naye orders na hon tab bhi chalao (jaise chhantai ke naye niyam)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -80,7 +85,9 @@ jobs:
             gh release download "$tag" -p "$name" -D "$W/dl" --clobber
             tar -xzf "$W/dl/$name" -C "$W/data" && rm "$W/dl/$name"
           done < "$W/todo.txt"
-          echo "count=$(wc -l < "$W/todo.txt")" >> "$GITHUB_OUTPUT"
+          n=$(wc -l < "$W/todo.txt")
+          [ "${{ inputs.force }}" = "true" ] && [ "$n" = "0" ] && n=force
+          echo "count=$n" >> "$GITHUB_OUTPUT"
       - name: Kaggle se database
         if: steps.new.outputs.count != '0'
         run: |
