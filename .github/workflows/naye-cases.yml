@@ -44,13 +44,14 @@ jobs:
           CASES=$(python3 scripts/new_cases.py --data-branch databranch --max "${{ inputs.max || '150' }}")
           echo "$CASES"
           echo "cases=$CASES" >> "$GITHUB_OUTPUT"
-      - uses: actions/setup-python@v5
+      - name: Python 3.12 + bharat-courts (Mac ka python3 3.9 hai; ek baar banta hai, phir wahi)
         if: steps.todo.outputs.cases != ''
-        with:
-          python-version: '3.12'
-      - name: bharat-courts
-        if: steps.todo.outputs.cases != ''
-        run: pip install -q "./vendor/product/bharat-courts[ocr]" pypdfium2
+        run: |
+          V="$HOME/actions-runner/kl-venv"
+          [ -x "$V/tools/bin/uv" ] || { python3 -m venv "$V/tools" && "$V/tools/bin/python" -m pip install -q --upgrade pip uv; }
+          "$V/tools/bin/uv" venv -q --allow-existing --python 3.12 "$V/live"
+          "$V/tools/bin/uv" pip install -q --python "$V/live/bin/python" "./vendor/product/bharat-courts[ocr]" pypdfium2
+          echo "$V/live/bin" >> "$GITHUB_PATH"
       - name: Case laao
         if: steps.todo.outputs.cases != ''
         run: |
