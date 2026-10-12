@@ -12,6 +12,7 @@
 import asyncio
 import json
 import re
+import sqlite3
 
 from bharat_courts.courts import get_court
 from bharat_courts.hcservices import endpoints as hc_endpoints
@@ -183,10 +184,24 @@ async def _gap_list(client, gapdir, code, year, form, bench):
     return rows
 
 
+def _known_cnrs(db_path):
+    """Database (AWS + pehle laaye) mein jin Nainital HC cases ka faisla pehle se hai, unke CNR."""
+    if not db_path.exists():
+        raise SystemExit(f"Database nahi mila: {db_path} — pehle build_db.py chalao")
+    con = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+    try:
+        return {r[0] for r in con.execute("SELECT DISTINCT cnr FROM judgments WHERE court = 'UKHC' AND cnr IS NOT NULL")}
+    finally:
+        con.close()
+
+
 async def uk_gap(out, args):
     form = dict(GAP_FORM, **json.loads(args.form)) if args.form else GAP_FORM
     gapdir = out / "uk" / "_gap"
-    total = done = bad = 0
+    total = done = bad = skipped = 0
+    known = _known_cnrs(out.parent / "krishivlaw.db") if args.only_missing else set()
+    if args.only_missing:
+        print(f"Database mein {len(known)} Nainital HC cases pehle se — sirf baaki wale laayenge")
     async with HCServicesClient() as client:
         types = await client.list_case_types(UK, bench_code=args.bench)
         wanted = [c for t in args.types.split(",") for c in _match_type(types, t.strip())] if args.types else \
@@ -208,6 +223,9 @@ async def uk_gap(out, args):
                 if args.list_only:
                     continue
                 for r in rows:
+                    if r["cnr"] in known:
+                        skipped += 1
+                        continue
                     marker = out / "uk" / f"{ctype}-{r['no']}-{r['year']}" / "_done"
                     if marker.exists():
                         done += 1
@@ -219,7 +237,8 @@ async def uk_gap(out, args):
                         marker.parent.mkdir(parents=True, exist_ok=True)
                         marker.write_text("ok", encoding="utf-8")
                         done += 1
-    print(f"UK gap: {total} disposed cases list mein, {done} poore, {bad} adhoore (dobara chalao)")
+    print(f"UK gap: {total} disposed cases list mein, {skipped} database mein pehle se (chhode), "
+          f"{done} poore, {bad} adhoore (dobara chalao)")
     return 1 if bad else 0
 
 
@@ -257,6 +276,8 @@ def add_commands(sub):
     p.add_argument("--types", help="jaise WPSS,WPSB (default: saare case types)")
     p.add_argument("--years", default="2001-2026", help="registration saal, jaise 2001-2026 ya 2024")
     p.add_argument("--list-only", action="store_true", help="sirf ginti, download nahi")
+    p.add_argument("--only-missing", action="store_true",
+                   help="jin cases ka faisla database (AWS) mein pehle se hai unhe chhodo — sirf chhoote hue laao")
     p.add_argument("--form", help='form badalna ho to JSON, jaise {"caseStatusSearchType": "CScaseType"}')
     sub.add_parser("uk-probe")
     return {"uk-types": uk_types, "uk-case": uk_case, "uk-gap": uk_gap, "uk-probe": uk_probe}
