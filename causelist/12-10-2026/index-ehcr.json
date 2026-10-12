@@ -1,0 +1,75 @@
+{
+ "date": "12-10-2026",
+ "fetched": "12-10-2026",
+ "source": "ehcr",
+ "uploads": [
+  "DAILY CAUSELIST|09.10.2026 08:42 PM",
+  "DAILY LIST REGISTRAR JUDICIAL|09.10.2026 07:18 PM",
+  "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1|12.10.2026 10:51 AM"
+ ],
+ "benches": [
+  {
+   "kind": "Daily",
+   "bench": "DAILY LIST REGISTRAR JUDICIAL",
+   "type": "DAILY LIST REGISTRAR JUDICIAL",
+   "file": "ehcr-20261012_1013_0-01.pdf",
+   "source_pdf": "20261012_1013_0.pdf",
+   "uploaded": "09.10.2026 07:18 PM",
+   "chars": 5522
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 02",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261012_1001_0-01-court-02.pdf",
+   "source_pdf": "20261012_1001_0.pdf",
+   "uploaded": "09.10.2026 08:42 PM",
+   "chars": 18363
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 03",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261012_1001_0-02-court-03.pdf",
+   "source_pdf": "20261012_1001_0.pdf",
+   "uploaded": "09.10.2026 08:42 PM",
+   "chars": 35614
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 04",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261012_1001_0-03-court-04.pdf",
+   "source_pdf": "20261012_1001_0.pdf",
+   "uploaded": "09.10.2026 08:42 PM",
+   "chars": 19474
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 05",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261012_1001_0-04-court-05.pdf",
+   "source_pdf": "20261012_1001_0.pdf",
+   "uploaded": "09.10.2026 08:42 PM",
+   "chars": 14679
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 07",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261012_1001_0-05-court-07.pdf",
+   "source_pdf": "20261012_1001_0.pdf",
+   "uploaded": "09.10.2026 08:42 PM",
+   "chars": 10109
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "Court 04",
+   "type": "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1",
+   "file": "ehcr-20261012_1003_1173-01-court-04.pdf",
+   "source_pdf": "20261012_1003_1173.pdf",
+   "uploaded": "12.10.2026 10:51 AM",
+   "chars": 1087
+  }
+ ]
+}

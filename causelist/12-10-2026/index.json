@@ -1,75 +1,150 @@
 {
  "date": "12-10-2026",
- "fetched": "12-10-2026",
- "source": "ehcr",
- "uploads": [
-  "DAILY CAUSELIST|09.10.2026 08:42 PM",
-  "DAILY LIST REGISTRAR JUDICIAL|09.10.2026 07:18 PM",
-  "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1|12.10.2026 10:51 AM"
- ],
  "benches": [
   {
-   "kind": "Daily",
-   "bench": "DAILY LIST REGISTRAR JUDICIAL",
-   "type": "DAILY LIST REGISTRAR JUDICIAL",
-   "file": "ehcr-20261012_1013_0-01.pdf",
-   "source_pdf": "20261012_1013_0.pdf",
-   "uploaded": "09.10.2026 07:18 PM",
-   "chars": 5522
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Manoj Kumar Tiwari, Hon'ble Mr. Justice Subhash Upadhyay",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-01-Hon_ble_Mr._Justice_Manoj_Kumar_Tiwari_Hon_ble_Mr._Justice_Subhash_Upadhyay-DAILY_CAUSE_LIST.pdf",
+   "pages": 18,
+   "chars": 28486
   },
   {
-   "kind": "Daily",
-   "bench": "Court 02",
-   "type": "DAILY CAUSELIST",
-   "file": "ehcr-20261012_1001_0-01-court-02.pdf",
-   "source_pdf": "20261012_1001_0.pdf",
-   "uploaded": "09.10.2026 08:42 PM",
-   "chars": 18363
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Ravindra Maithani",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-02-Hon_ble_Mr._Justice_Ravindra_Maithani-DAILY_CAUSE_LIST.pdf",
+   "pages": 7,
+   "chars": 9975
   },
   {
-   "kind": "Daily",
-   "bench": "Court 03",
-   "type": "DAILY CAUSELIST",
-   "file": "ehcr-20261012_1001_0-02-court-03.pdf",
-   "source_pdf": "20261012_1001_0.pdf",
-   "uploaded": "09.10.2026 08:42 PM",
-   "chars": 35614
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Ravindra Maithani, Hon'ble Mr. Justice Siddhartha Sah",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-03-Hon_ble_Mr._Justice_Ravindra_Maithani_Hon_ble_Mr._Justice_Siddhartha_Sah-DAILY_CAUSE_LIST.pdf",
+   "pages": 7,
+   "chars": 9006
   },
   {
-   "kind": "Daily",
-   "bench": "Court 04",
-   "type": "DAILY CAUSELIST",
-   "file": "ehcr-20261012_1001_0-03-court-04.pdf",
-   "source_pdf": "20261012_1001_0.pdf",
-   "uploaded": "09.10.2026 08:42 PM",
-   "chars": 19474
+   "kind": "civil",
+   "bench": "Registrar (Judicial)",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-04-Registrar_Judicial_-DAILY_CAUSE_LIST.pdf",
+   "pages": 5,
+   "chars": 5862
   },
   {
-   "kind": "Daily",
-   "bench": "Court 05",
-   "type": "DAILY CAUSELIST",
-   "file": "ehcr-20261012_1001_0-04-court-05.pdf",
-   "source_pdf": "20261012_1001_0.pdf",
-   "uploaded": "09.10.2026 08:42 PM",
-   "chars": 14679
+   "kind": "civil",
+   "bench": "Registrar",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-05-Registrar-DAILY_CAUSE_LIST.pdf",
+   "pages": 2,
+   "chars": 2196
   },
   {
-   "kind": "Daily",
-   "bench": "Court 07",
-   "type": "DAILY CAUSELIST",
-   "file": "ehcr-20261012_1001_0-05-court-07.pdf",
-   "source_pdf": "20261012_1001_0.pdf",
-   "uploaded": "09.10.2026 08:42 PM",
-   "chars": 10109
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-06-Hon_ble_Mr._Justice_Rakesh_Thapliyal-DAILY_CAUSE_LIST.pdf",
+   "pages": 23,
+   "chars": 36752
   },
   {
-   "kind": "Supplementary",
-   "bench": "Court 04",
-   "type": "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1",
-   "file": "ehcr-20261012_1003_1173-01-court-04.pdf",
-   "source_pdf": "20261012_1003_1173.pdf",
-   "uploaded": "12.10.2026 10:51 AM",
-   "chars": 1087
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Pankaj Purohit",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-08-Hon_ble_Mr._Justice_Pankaj_Purohit-DAILY_CAUSE_LIST.pdf",
+   "pages": 14,
+   "chars": 20156
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Alok Mahra",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-09-Hon_ble_Mr._Justice_Alok_Mahra-DAILY_CAUSE_LIST.pdf",
+   "pages": 12,
+   "chars": 15464
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Siddhartha Sah",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-10-Hon_ble_Mr._Justice_Siddhartha_Sah-DAILY_CAUSE_LIST.pdf",
+   "pages": 6,
+   "chars": 8250
+  },
+  {
+   "kind": "criminal",
+   "bench": "Hon'ble Mr. Justice Manoj Kumar Tiwari, Hon'ble Mr. Justice Subhash Upadhyay",
+   "type": "DAILY CAUSE LIST",
+   "file": "criminal-01-Hon_ble_Mr._Justice_Manoj_Kumar_Tiwari_Hon_ble_Mr._Justice_Subhash_Upadhyay-DAILY_CAUSE_LIST.pdf",
+   "pages": 18,
+   "chars": 28486
+  },
+  {
+   "kind": "criminal",
+   "bench": "Hon'ble Mr. Justice Ravindra Maithani",
+   "type": "DAILY CAUSE LIST",
+   "file": "criminal-02-Hon_ble_Mr._Justice_Ravindra_Maithani-DAILY_CAUSE_LIST.pdf",
+   "pages": 7,
+   "chars": 9975
+  },
+  {
+   "kind": "criminal",
+   "bench": "Hon'ble Mr. Justice Ravindra Maithani, Hon'ble Mr. Justice Siddhartha Sah",
+   "type": "DAILY CAUSE LIST",
+   "file": "criminal-03-Hon_ble_Mr._Justice_Ravindra_Maithani_Hon_ble_Mr._Justice_Siddhartha_Sah-DAILY_CAUSE_LIST.pdf",
+   "pages": 7,
+   "chars": 9006
+  },
+  {
+   "kind": "criminal",
+   "bench": "Registrar (Judicial)",
+   "type": "DAILY CAUSE LIST",
+   "file": "criminal-04-Registrar_Judicial_-DAILY_CAUSE_LIST.pdf",
+   "pages": 5,
+   "chars": 5862
+  },
+  {
+   "kind": "criminal",
+   "bench": "Registrar",
+   "type": "DAILY CAUSE LIST",
+   "file": "criminal-05-Registrar-DAILY_CAUSE_LIST.pdf",
+   "pages": 2,
+   "chars": 2196
+  },
+  {
+   "kind": "criminal",
+   "bench": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "type": "DAILY CAUSE LIST",
+   "file": "criminal-06-Hon_ble_Mr._Justice_Rakesh_Thapliyal-DAILY_CAUSE_LIST.pdf",
+   "pages": 23,
+   "chars": 36752
+  },
+  {
+   "kind": "criminal",
+   "bench": "Hon'ble Mr. Justice Pankaj Purohit",
+   "type": "DAILY CAUSE LIST",
+   "file": "criminal-08-Hon_ble_Mr._Justice_Pankaj_Purohit-DAILY_CAUSE_LIST.pdf",
+   "pages": 14,
+   "chars": 20156
+  },
+  {
+   "kind": "criminal",
+   "bench": "Hon'ble Mr. Justice Alok Mahra",
+   "type": "DAILY CAUSE LIST",
+   "file": "criminal-09-Hon_ble_Mr._Justice_Alok_Mahra-DAILY_CAUSE_LIST.pdf",
+   "pages": 12,
+   "chars": 15464
+  },
+  {
+   "kind": "criminal",
+   "bench": "Hon'ble Mr. Justice Siddhartha Sah",
+   "type": "DAILY CAUSE LIST",
+   "file": "criminal-10-Hon_ble_Mr._Justice_Siddhartha_Sah-DAILY_CAUSE_LIST.pdf",
+   "pages": 6,
+   "chars": 8250
   }
- ]
+ ],
+ "errors": 2
 }
