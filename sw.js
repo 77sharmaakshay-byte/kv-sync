@@ -1,5 +1,5 @@
 // App ka dhaancha offline bhi khule; data (cause list, cases) pehle internet se, na mile to pichhli copy.
-const SHELL = 'ns-shell-v1';
+const SHELL = 'ns-shell-v2';
 const DATA = 'ns-data-v1';
 const SHELL_FILES = ['./', 'index.html', 'app.css', 'app.js', 'manifest.webmanifest', 'icons/icon-192.png'];
 
