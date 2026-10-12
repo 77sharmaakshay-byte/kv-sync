@@ -65,6 +65,22 @@
   }
   function courtName(c) { return c.court_no ? 'Court No. ' + c.court_no : (c.judges[0] || c.bench || 'Registrar'); }
   function benchText(c) { return (c.court_no ? c.judges.join(' + ') : '') + (c.judges.length > 1 ? ' · Division Bench' : ''); }
+  var NAV = {
+    home: ['#/', 'Aaj', '<path d="M4 11l8-7 8 7v9h-5v-6H9v6H4z"/>'],
+    mycase: ['#/', 'Mera case', '<path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5M9 13h6M9 17h4"/>'],
+    list: ['#/list', 'Cause list', '<rect x="4" y="5" width="16" height="15" rx="2"/><path d="M8 3v4M16 3v4M4 10h16"/>'],
+    mine: ['#/mine', 'Mere cases', '<path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/>'],
+    settings: ['#/settings', 'Main', '<circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/>']
+  };
+  function role() { return store('ns-role') || (store('ns-name') ? 'advocate' : null); } // purane users: naam hai to advocate
+  function drawNav() {
+    var tabs = role() === 'party' ? ['mycase', 'list', 'settings'] : ['home', 'list', 'mine', 'settings'];
+    var nav = document.querySelector('.nav');
+    nav.hidden = !role();
+    nav.innerHTML = tabs.map(function (t) {
+      return '<a href="' + NAV[t][0] + '" data-tab="' + t + '"><svg viewBox="0 0 24 24" aria-hidden="true">' + NAV[t][2] + '</svg>' + NAV[t][1] + '</a>';
+    }).join('');
+  }
   function setTab(name) {
     Array.prototype.forEach.call(document.querySelectorAll('.nav a'), function (a) {
       a.classList.toggle('on', a.getAttribute('data-tab') === name);
@@ -104,6 +120,80 @@
         rows.map(function (e) { return rowHtml(e, ws, known[caseId(e.case_no)]); }).join('') + '</section>';
     });
     return { html: html, total: total, courts: courts };
+  }
+
+  // ---------- Pehli baar: aap kaun hain ----------
+  function viewStart() {
+    drawNav();
+    render('<header class="hero welcome"><div class="kicker">Nyay Sahayak</div><h1>Namaste</h1>' +
+      '<div class="sub">Nainital High Court · roz ki cause list, aapke cases aur unka vishleshan</div></header>' +
+      '<div class="pad"><p class="p"><b>Aap kaun hain?</b> Usi hisaab se app aapko dikhayega.</p>' +
+      '<button type="button" class="card pick" data-role="advocate"><span class="lbl brand">Advocate</span>' +
+      '<b class="serif">Main vakeel hoon</b><span class="muted">Mere naam se roz ke cases, poori cause list, har case ka vishleshan aur milte-julte faisle.</span></button>' +
+      '<button type="button" class="card pick" data-role="party"><span class="lbl brand">Party / aam vyakti</span>' +
+      '<b class="serif">Mera apna case hai</b><span class="muted">Apna case number daalo: kab lagega, kis court mein, ab tak kya hua aur aage kya.</span></button>' +
+      '<p class="muted">Baad mein "Main" mein badal sakte hain. Sab jaankari sirf is phone par rehti hai.</p></div>');
+    Array.prototype.forEach.call(document.querySelectorAll('.pick'), function (b) {
+      b.addEventListener('click', function () {
+        store('ns-role', b.getAttribute('data-role'));
+        drawNav();
+        go(b.getAttribute('data-role') === 'party' ? '#/' : '#/settings');
+      });
+    });
+  }
+
+  // ---------- Party: mera case ----------
+  var TYPES = ['WPSS', 'WPSB', 'WPMS', 'WPMB', 'WPCRL', 'WPPIL', 'SPA', 'BA1', 'ABA', 'C482', 'C528', 'CRLA', 'CRLR',
+    'FA', 'SA', 'AO', 'CLR', 'CLCON', 'ITA', 'ARBAP'];
+  function myCases() { try { return JSON.parse(store('ns-cases') || '[]'); } catch (e) { return []; } }
+  function upcoming(idx, today) {
+    var dates = idx.dates.filter(function (d) { return d >= today; }).sort();
+    return Promise.all(dates.map(function (d) { return list(d).catch(function () { return null; }); }));
+  }
+  function todayIso() {
+    var t = new Date(), pad = function (n) { return (n < 10 ? '0' : '') + n; };
+    return t.getFullYear() + '-' + pad(t.getMonth() + 1) + '-' + pad(t.getDate());
+  }
+  function viewMyCase() {
+    setTab('mycase');
+    var mine = myCases();
+    var form = '<form id="add" class="card"><span class="lbl brand">Case jodo</span><div class="trio">' +
+      '<label class="field"><span>Type</span><select id="ct">' + TYPES.map(function (t) { return '<option>' + t + '</option>'; }).join('') + '</select></label>' +
+      '<label class="field"><span>Number</span><input id="cn" inputmode="numeric" pattern="[0-9]*" placeholder="818" required></label>' +
+      '<label class="field"><span>Saal</span><input id="cy" inputmode="numeric" pattern="[0-9]*" placeholder="2025" maxlength="4" required></label></div>' +
+      '<button class="btn" type="submit">Dekho</button><span class="muted">Case number aapke vakeel ki parchi ya court ki receiving par hota hai, jaise WPSS / 818 / 2025.</span></form>';
+    index().then(function (idx) {
+      return upcoming(idx, todayIso()).then(function (lists) {
+        var cards = mine.map(function (no) {
+          var id = caseId(no), rec = idx.cases.filter(function (c) { return c.id === id; })[0], hits = [];
+          lists.forEach(function (data) {
+            if (!data) return;
+            data.courts.forEach(function (c) { c.entries.forEach(function (e) { if (e.case_no === no) hits.push({ d: data.date, c: c, e: e }); }); });
+          });
+          var h = hits[0];
+          return '<a class="card link mycase" href="#/case/' + esc(id) + '"><div class="mc-top"><b>' + esc(no) + '</b>' +
+            (h ? '<span class="chip brand">' + esc(dayWord(h.d)) + ' lagega</span>' : rec && rec.next_date ? '<span class="chip blue">Agli: ' + esc(dmy(rec.next_date)) + '</span>' : '<span class="chip">Tareekh abhi nahi</span>') +
+            '</div><span>' + esc(rec ? rec.title : (h ? [h.e.pet, h.e.res].filter(Boolean).join(' v. ') : '')) + '</span>' +
+            (h ? '<div class="today"><b>' + esc(fmtDate(h.d)) + '</b><span>' + esc(courtName(h.c)) + ' · item ' + esc(h.e.item) + '<small>' + esc(benchText(h.c)) + (h.c.time ? ' · ' + esc(h.c.time) : '') + '</small></span></div>' : '') +
+            '<span class="go">' + (rec ? 'Poori jaankari aur vishleshan' : 'Dekho') + ICON_NEXT + '</span></a>';
+        }).join('');
+        render('<header class="hero"><div class="kicker">Nainital High Court</div><h1>Mera case</h1><div class="sub">' +
+          (mine.length ? mine.length + ' case · cause list aate hi yahan dikhega' : 'Apna case number daalo') + '</div></header><div class="pad">' +
+          cards + form + aage(idx.dates, todayIso()) +
+          '<p class="muted">Court ki cause list se (court ki site aur eCourts). Update: ' + esc((idx.generated_at || '').replace('T', ' ').slice(0, 16)) + ' UTC.</p></div>');
+        bindAdd();
+      });
+    }).catch(function () { render('<header class="hero"><h1>Mera case</h1></header><div class="pad">' + form + '</div>'); bindAdd(); });
+    function bindAdd() {
+      document.getElementById('add').addEventListener('submit', function (ev) {
+        ev.preventDefault();
+        var no = document.getElementById('ct').value + '/' + (+document.getElementById('cn').value) + '/' + document.getElementById('cy').value.trim();
+        if (!/^[A-Z0-9]+\/\d+\/\d{4}$/.test(no)) return;
+        var m = myCases().filter(function (x) { return x !== no; }); m.unshift(no);
+        store('ns-cases', JSON.stringify(m.slice(0, 20)));
+        go('#/case/' + caseId(no));
+      });
+    }
   }
 
   // ---------- Aaj ----------
@@ -220,7 +310,7 @@
 
   // ---------- Case ----------
   function viewCase(id, params) {
-    setTab('mine');
+    setTab(role() === 'party' ? 'mycase' : 'mine');
     var tab = params.t || 'saar';
     index().then(function (idx) {
       var known = idx.cases.some(function (c) { return c.id === id; });
@@ -238,7 +328,7 @@
         data.courts.forEach(function (c) { c.entries.forEach(function (e) { if (e.case_no === no) found.push({ d: data.date, c: c, e: e }); }); });
       });
       var e = found[0] && found[0].e;
-      render('<header class="hero"><a class="back" href="#/list">' + ICON_BACK + 'Cause list</a><h1>' + esc(e ? [e.pet, e.res].filter(Boolean).join(' v. ') : no) +
+      render('<header class="hero"><a class="back" href="' + (role() === 'party' ? '#/' : '#/list') + '">' + ICON_BACK + (role() === 'party' ? 'Mera case' : 'Cause list') + '</a><h1>' + esc(e ? [e.pet, e.res].filter(Boolean).join(' v. ') : no) +
         '</h1><div class="sub">' + esc(no) + '</div></header><div class="pad">' +
         found.map(function (f) {
           return '<div class="card"><span class="lbl brand">' + esc(fmtDate(f.d, true)) + '</span><b>' + esc(courtName(f.c)) + ' · item ' + esc(f.e.item) +
@@ -246,8 +336,8 @@
             (f.e.adv ? '<p class="p"><b>Vakeel:</b> ' + esc(f.e.adv) + '</p>' : '') +
             (f.e.apps.length ? '<p class="p"><b>Applications:</b> ' + esc(f.e.apps.join('; ')) + '</p>' : '') + '</div>';
         }).join('') +
-        '<div class="empty">Is case ka poora court record (parties, tareekhein, orders) abhi app mein nahi. GitHub par Actions → "Case lookup" → ' +
-        esc(no) + ' daalo; 4–5 minute mein yahan aa jaayega.</div></div>');
+        (found.length ? '' : '<div class="empty">Yeh case aaj ya aage ki cause list mein abhi nahi hai. Jaise hi court ise list karega, yahan tareekh, court aur item number aa jaayega.</div>') +
+        '<div class="empty">Is case ka poora record (parties, purani tareekhein, orders) aur vishleshan abhi app mein nahi hai. Hum ise jod rahe hain; tab tak cause list se jaankari milti rahegi.</div></div>');
     });
   }
 
@@ -259,7 +349,7 @@
     if (n.pros || n.cons) tabs.push(['analysis', 'Vishleshan']);
     if (n.similar) tabs.push(['similar', 'Milte-julte']);
     var latest = (idx.dates || [])[0];
-    var html = '<header class="hero"><a class="back" href="#/mine">' + ICON_BACK + 'Mere cases</a><div class="chips">' +
+    var html = '<header class="hero"><a class="back" href="' + (role() === 'party' ? '#/' : '#/mine') + '">' + ICON_BACK + (role() === 'party' ? 'Mera case' : 'Mere cases') + '</a><div class="chips">' +
       (c.decision_date ? '<span class="chip good">Disposed · ' + esc(dmy(c.decision_date)) + '</span>' : '<span class="chip warn">Pending</span>') +
       (n.badge ? '<span class="chip good">' + esc(n.badge) + '</span>' : '') + (c.bench_type ? '<span class="chip dark">' + esc(c.bench_type) + '</span>' : '') +
       '</div><h1 style="font-size:25px">' + esc(title) + '</h1><div class="sub">' + esc(c.case_no) + ' · CNR ' + esc(c.cnr) + '</div>' +
@@ -350,16 +440,32 @@
   function viewSettings() {
     setTab('settings');
     var name = store('ns-name') || '';
+    var party = role() === 'party', mine = myCases();
     render('<header class="hero"><h1>Main</h1><div class="sub">Ye jaankari sirf is phone par rehti hai.</div></header><div class="pad">' +
+      (party ? '<div class="card"><span class="lbl">Mere case</span>' + (mine.length ? mine.map(function (no) {
+        return '<div class="mc-top"><b>' + esc(no) + '</b><button type="button" class="chip warn rm" data-no="' + esc(no) + '">Hatao</button></div>';
+      }).join('') : '<span class="muted">Abhi koi case nahi jodha.</span>') + '</div>' :
       '<form id="f" class="card"><label class="field"><span>Mera naam (jaisa cause list mein aata hai)</span>' +
       '<input id="name" autocomplete="name" placeholder="Jaise: Bhagwat Mehra" value="' + esc(name) + '"></label>' +
-      '<button class="btn" type="submit">Save karo</button></form>' +
+      '<button class="btn" type="submit">Save karo</button></form>') +
+      '<div class="card"><span class="lbl">Main kaun hoon</span><p class="p">' + (party ? 'Party / aam vyakti' : 'Advocate') + '</p>' +
+      '<button type="button" id="sw" class="btn ghost">' + (party ? 'Advocate wala app dikhao' : 'Party (apna case) wala app dikhao') + '</button></div>' +
       '<div class="card"><span class="lbl">Phone par app ki tarah</span><p class="p"><b>iPhone:</b> Safari → Share → "Add to Home Screen".<br><b>Android:</b> Chrome → ⋮ menu → "Add to Home screen" / "Install app".</p></div>' +
-      '<p class="muted">Cause list roz subah 6, 8 aur 10 baje apne aap update hoti hai.</p></div>');
-    document.getElementById('f').addEventListener('submit', function (ev) {
+      '<p class="muted">Cause list apne aap aati hai: court ki site se shaam 5 se 9 baje tak har ghante (agle din ki) aur subah; eCourts se subah 6, 8, 10 aur shaam 6, 7 baje.</p></div>');
+    var f = document.getElementById('f');
+    if (f) f.addEventListener('submit', function (ev) {
       ev.preventDefault();
       store('ns-name', document.getElementById('name').value.trim());
       go('#/');
+    });
+    document.getElementById('sw').addEventListener('click', function () {
+      store('ns-role', party ? 'advocate' : 'party'); drawNav(); go('#/');
+    });
+    Array.prototype.forEach.call(document.querySelectorAll('.rm'), function (b) {
+      b.addEventListener('click', function () {
+        store('ns-cases', JSON.stringify(myCases().filter(function (x) { return x !== b.getAttribute('data-no'); })));
+        viewSettings();
+      });
     });
   }
 
@@ -380,7 +486,9 @@
     var h = cur.replace(/^#/, '') || '/';
     var parts = h.split('?'), path = parts[0], params = {};
     (parts[1] || '').split('&').forEach(function (kv) { if (!kv) return; var p = kv.split('='); params[p[0]] = decodeURIComponent(p[1] || ''); });
-    if (path === '/' || path === '') return viewHome();
+    if (!role() && path !== '/start') return viewStart();
+    if (path === '/start') return viewStart();
+    if (path === '/' || path === '') return role() === 'party' ? viewMyCase() : viewHome();
     if (path === '/list') return viewList(params);
     if (path === '/mine') return viewMine();
     if (path === '/settings') return viewSettings();
@@ -389,6 +497,7 @@
     viewHome();
   }
   window.addEventListener('hashchange', function () { cur = location.hash || '#/'; route(); });
+  drawNav();
   route();
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
