@@ -2,7 +2,8 @@
 # Har hafte (aur haath se bhi): Kaggle se database lo, roz ke scraper wale naye orders
 # (Releases 'live-YYYY-MM' ki tar.gz: Nainital HC + Supreme Court) jodo, naya version Kaggle par.
 # Kaunsi tar jud chuki, woh 'data' branch ki state/kaggle_synced.txt mein; dobara nahi judti.
-# Saath mein state/known_ukhc_cnrs.txt.gz bhi database se taaza, taaki scraper wahi case dobara na laaye.
+# Saath mein state/known_ukhc_cnrs.txt.gz bhi database se taaza, taaki scraper wahi case dobara na laaye,
+# aur faislon ki chhantai (kl/classify.py) bhi har baar nayi.
 name: Kaggle database update
 
 on:
@@ -100,6 +101,7 @@ jobs:
         if: steps.new.outputs.count != '0'
         run: |
           python scripts/build_db.py --data "$W/data" --db "$W/db/krishivlaw.db" --live || true
+          python scripts/classify_db.py --db "$W/db/krishivlaw.db"   # category -> vishay -> upvishay
           sqlite3 "$W/db/krishivlaw.db" "SELECT court, count(*) FROM judgments GROUP BY court;"
           sqlite3 "$W/db/krishivlaw.db" "SELECT DISTINCT cnr FROM judgments WHERE court='UKHC' AND cnr IS NOT NULL;" \
             | gzip -9 > databranch/state/known_ukhc_cnrs.txt.gz
