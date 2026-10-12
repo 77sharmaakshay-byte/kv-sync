@@ -84,7 +84,9 @@ jobs:
         if: steps.new.outputs.count != '0'
         run: |
           mkdir -p "$W/db"
-          kaggle datasets download "$DATASET" -p "$W/db" --unzip
+          # pura-dataset zip Kaggle der se banata hai (404); seedha database file lo
+          kaggle datasets download "$DATASET" -f krishivlaw.db -p "$W/db" \
+            || kaggle datasets download "$DATASET" -p "$W/db"
           cd "$W/db" && ls -la
           for z in *.zip; do [ -f "$z" ] && unzip -q "$z" && rm "$z"; done
           # naam kuch bhi ho: pehli .db.gz / .gz ya .db file lo
