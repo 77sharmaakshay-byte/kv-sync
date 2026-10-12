@@ -6,6 +6,9 @@ on:
       url:
         description: "App ka link"
         default: "https://nyay-sahayak-jn1t.onrender.com"
+      paths:
+        description: "Kaunse page dekhne hain (space se alag)"
+        default: "/ /data/index.json /app.js"
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -14,10 +17,11 @@ jobs:
       - name: Link kholo
         env:
           URL: ${{ inputs.url }}
+          PATHS: ${{ inputs.paths }}
         run: |
           host=$(echo "$URL" | sed -E 's#https?://([^/]+).*#\1#')
           echo "== DNS"; getent hosts "$host" || echo "DNS nahi mila"
-          for path in / /data/index.json /app.js; do
+          for path in $PATHS; do
             echo "== $path"
             curl -sS -m 60 -L -o body.txt -D head.txt -w "status %{http_code}\n" "$URL$path" || true
             head -15 head.txt 2>/dev/null; head -c 400 body.txt 2>/dev/null; echo
