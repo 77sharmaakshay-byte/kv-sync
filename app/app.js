@@ -269,7 +269,7 @@
         return '<details class="order"' + (i === 0 ? ' open' : '') + '><summary><b>' + esc(dmy(o.date) || 'Order') + '</b><span class="muted">' + esc(o.judge || '') + '</span></summary><pre>' + esc(o.text) + '</pre></details>';
       }).join('') || '<div class="empty">Abhi koi order nahi aaya.</div>';
     } else if (tab === 'analysis') {
-      html += pts('Paksh mein', 'good', '+', n.pros) + pts(n.cons_title || 'Saamne wala kya keh sakta hai', 'bad', '–', n.cons) +
+      html += pts(n.pros_title || 'Paksh mein', 'good', '+', n.pros) + pts(n.cons_title || 'Saamne wala kya keh sakta hai', 'bad', '–', n.cons) +
         (n.todo ? '<div class="card dark"><span class="lbl light">Court le jaana</span>' + n.todo.map(function (t) { return '<div class="pt"><span class="mark dark">✓</span><span>' + esc(t) + '</span></div>'; }).join('') + '</div>' : '') +
         '<p class="muted">' + esc(n.disclaimer || 'Sirf court ke orders aur database se. Advocate ka review zaroori. Koi jeetne ka % nahi.') + '</p>';
     } else if (tab === 'similar') {

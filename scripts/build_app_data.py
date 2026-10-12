@@ -156,6 +156,8 @@ def build_cases(src, out):
         if not case_json.exists():
             continue
         c = json.loads(case_json.read_text(encoding="utf-8"))
+        if not c.get("registration_number"):  # lookup mein case nahi mila; app cause list se dikhayegi
+            continue
         orders = []
         for side in sorted(folder.glob("*.json")):
             if side.name.startswith("_"):
