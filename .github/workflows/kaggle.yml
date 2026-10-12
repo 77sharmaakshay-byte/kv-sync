@@ -2,6 +2,9 @@
 # Actions tab → "Kaggle" → Run workflow → kaam chuno.
 #   check       : Kaggle token chal raha hai ya nahi (aapke datasets ki list)
 #   upload-data : 'train-data' branch ka training data -> private Kaggle dataset <user>/nyay-train-v1
+#   train       : kaggle/train/train_nyay.py ko Kaggle ke GPU par chalao (private notebook)
+#   result      : training ka nateeja (eval.json) laakar 'data' branch mein models/ ke andar rakho
+# Token: repo secret KRISHIVLAW mein poori kaggle.json ({"username": ..., "key": ...}) ya naya API token.
 name: Kaggle
 
 on:
@@ -10,34 +13,69 @@ on:
       task:
         description: 'Kya karna hai'
         type: choice
-        options: [check, upload-data]
+        options: [check, upload-data, train, result]
         default: check
+      user:
+        description: 'Kaggle username (sirf tab, jab secret mein akela token ho)'
+        required: false
+
+permissions:
+  contents: write
 
 jobs:
   kaggle:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    env:
-      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
-      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - name: Kaggle CLI
-        run: pip install --quiet kaggle
+        run: pip install --quiet --upgrade kaggle
+      - name: Token
+        env:
+          SECRET: ${{ secrets.KRISHIVLAW }}
+          OLD_USER: ${{ secrets.KAGGLE_USERNAME }}
+          OLD_KEY: ${{ secrets.KAGGLE_KEY }}
+          INPUT_USER: ${{ inputs.user }}
+        run: |
+          python3 - <<'PY'
+          import json, os, pathlib
+          s = (os.environ.get("SECRET") or "").strip()
+          env = {}
+          try:
+              d = json.loads(s)
+              env = {"KAGGLE_USERNAME": d["username"], "KAGGLE_KEY": d["key"]}
+              kind = "kaggle.json"
+          except (ValueError, KeyError, TypeError):
+              if os.environ.get("OLD_USER") and os.environ.get("OLD_KEY"):
+                  env = {"KAGGLE_USERNAME": os.environ["OLD_USER"], "KAGGLE_KEY": os.environ["OLD_KEY"]}
+                  kind = "KAGGLE_USERNAME/KAGGLE_KEY"
+              elif s:
+                  env = {"KAGGLE_API_TOKEN": s}
+                  if os.environ.get("INPUT_USER"):
+                      env["KAGGLE_USERNAME"] = os.environ["INPUT_USER"].strip()
+                  kind = "API token"
+              else:
+                  raise SystemExit("KRISHIVLAW secret khaali hai ya mila nahi")
+          print("Token mila:", kind)
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              for k, v in env.items():
+                  if k != "KAGGLE_USERNAME":
+                      print(f"::add-mask::{v}")
+                  f.write(f"{k}={v}\n")
+          PY
       - name: Token jaancho
         if: inputs.task == 'check'
         run: |
-          test -n "$KAGGLE_USERNAME" || { echo "KAGGLE_USERNAME secret nahi mila"; exit 1; }
-          test -n "$KAGGLE_KEY" || { echo "KAGGLE_KEY secret nahi mila"; exit 1; }
-          echo "User: $KAGGLE_USERNAME"
-          kaggle datasets list --mine 2>&1 | head -20 || true
-          kaggle kernels list --mine 2>&1 | head -10 || true
+          echo "User: ${KAGGLE_USERNAME:-(pata nahi; 'user' input mein daalo)}"
+          kaggle datasets list --mine 2>&1 | head -20
+          kaggle kernels list --mine 2>&1 | head -10
       - name: Training data Kaggle par (private)
         if: inputs.task == 'upload-data'
         run: |
+          test -n "$KAGGLE_USERNAME" || { echo "Kaggle username chahiye ('user' input)"; exit 1; }
           git fetch --depth 1 origin train-data
           mkdir -p up && git archive origin/train-data | tar -x -C up
           cd up
@@ -54,3 +92,31 @@ jobs:
             kaggle datasets create -p . --dir-mode skip
           fi
           kaggle datasets status "$KAGGLE_USERNAME/nyay-train-v1" || true
+      - name: Training Kaggle GPU par
+        if: inputs.task == 'train'
+        run: |
+          test -n "$KAGGLE_USERNAME" || { echo "Kaggle username chahiye ('user' input)"; exit 1; }
+          mkdir -p kt && cp kaggle/train/train_nyay.py kt/
+          cat > kt/kernel-metadata.json <<META
+          {"id": "$KAGGLE_USERNAME/nyay-train", "title": "nyay-train", "code_file": "train_nyay.py",
+           "language": "python", "kernel_type": "script", "is_private": true, "enable_gpu": true,
+           "enable_internet": true, "dataset_sources": ["$KAGGLE_USERNAME/nyay-train-v1"],
+           "competition_sources": [], "kernel_sources": []}
+          META
+          kaggle kernels push -p kt
+          sleep 60
+          kaggle kernels status "$KAGGLE_USERNAME/nyay-train" || true
+      - name: Training ka nateeja
+        if: inputs.task == 'result'
+        run: |
+          test -n "$KAGGLE_USERNAME" || { echo "Kaggle username chahiye ('user' input)"; exit 1; }
+          kaggle kernels status "$KAGGLE_USERNAME/nyay-train"
+          mkdir -p out && kaggle kernels output "$KAGGLE_USERNAME/nyay-train" -p out --file-pattern 'eval\.json|.*\.log' || true
+          ls -la out
+          test -f out/eval.json || { echo "eval.json abhi nahi bana (training chal rahi ho sakti hai)"; tail -50 out/*.log 2>/dev/null; exit 0; }
+          python3 -c "import json;d=json.load(open('out/eval.json'));print({k:d[k] for k in d if k!='samples'})"
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin data:data && git worktree add databranch data
+          mkdir -p databranch/models/nyay-v1 && cp out/eval.json databranch/models/nyay-v1/
+          cd databranch && git add models && (git diff --cached --quiet || git commit -qm "nyay-v1 eval") && git push -q origin data
