@@ -16,6 +16,8 @@ Phir (Mac par, .venv-live wale Python se):
 - uk-search : judgments.ecourts.gov.in par shabd se Uttarakhand HC judgments (pura search, pages ke saath)
 - uk-gap    : Nainital HC ke SAARE disposed cases (case type + saal) aur unke saare orders
 - uk-probe  : uk-gap ka form court ke page se pakka karo (scripts/ukhc_live.py dekho)
+- uk-advocate / uk-diary : advocate ke cases / enrolment number se us din ki list
+- uk-causelist / uk-find : roz ki poori cause list PDFs, aur usme naam/case dhundhna
 
 Har PDF ke saath ek JSON sidecar <data>/live/... mein banta hai. Database mein
 daalne ke liye: python3 scripts/build_db.py --data ~/krishivlaw-data --live
@@ -29,6 +31,7 @@ from pathlib import Path
 from urllib.parse import parse_qsl, urlencode
 
 import httpx
+import ukhc_causelist
 import ukhc_live
 from bharat_courts.judgments import endpoints as judg_endpoints
 from bharat_courts.judgments.client import JudgmentSearchClient
@@ -122,7 +125,7 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
     p = sub.add_parser("sc-latest")
     p.add_argument("--limit", type=int, default=50)
-    commands = ukhc_live.add_commands(sub)
+    commands = dict(ukhc_live.add_commands(sub), **ukhc_causelist.add_commands(sub))
     p = sub.add_parser("uk-search")
     p.add_argument("text")
     p.add_argument("--opt", default="PHRASE", choices=["PHRASE", "ALL", "ANY"])

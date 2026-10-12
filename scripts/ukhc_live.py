@@ -14,6 +14,8 @@ import datetime as dt
 import json
 import re
 import sqlite3
+import time
+from pathlib import Path
 
 from bharat_courts.courts import get_court
 from bharat_courts.hcservices import endpoints as hc_endpoints
@@ -160,10 +162,10 @@ def _years(spec):
     return sorted(out, reverse=True)
 
 
-async def _gap_list(client, gapdir, code, year, form, bench):
-    """Ek case type + saal ke disposed cases (court se ek baar, phir file se)."""
+async def _gap_list(client, gapdir, code, year, form, bench, refresh=False):
+    """Ek case type + saal ke disposed cases (court se ek baar, phir file se; refresh = dobara court se)."""
     cache = gapdir / f"{code.replace('^', '_')}-{year}.json"
-    if cache.exists():
+    if cache.exists() and not refresh:
         saved = json.loads(cache.read_text(encoding="utf-8"))
         if saved.get("form") == form:  # form badla to list dobara lo (galat form ki khaali list na atke)
             return saved["rows"]
@@ -185,6 +187,16 @@ async def _gap_list(client, gapdir, code, year, form, bench):
     return rows
 
 
+def _read_cnrs(path):
+    """CNR list file (ek line ek CNR; .gz bhi chalega)."""
+    import gzip
+    if not path.exists():
+        return set()
+    opener = gzip.open if path.suffix == ".gz" else open
+    with opener(path, "rt", encoding="utf-8") as f:
+        return {line.strip() for line in f if line.strip()}
+
+
 def _known_cnrs(db_path):
     """Database (AWS + pehle laaye) mein jin Nainital HC cases ka faisla pehle se hai, unke CNR."""
     if not db_path.exists():
@@ -200,18 +212,31 @@ async def uk_gap(out, args):
     form = dict(GAP_FORM, **json.loads(args.form)) if args.form else GAP_FORM
     gapdir = out / "uk" / "_gap"
     total = done = bad = skipped = 0
-    known = _known_cnrs(out.parent / "krishivlaw.db") if args.only_missing else set()
+    known = set()
     if args.only_missing:
+        # GitHub Actions par database nahi hota — wahan CNR list file (--known-file) kaam aati hai.
+        known = _read_cnrs(Path(args.known_file)) if args.known_file else _known_cnrs(out.parent / "krishivlaw.db")
         print(f"Database mein {len(known)} Nainital HC cases pehle se — sirf baaki wale laayenge")
+    done_file = Path(args.done_file) if args.done_file else None
+    if done_file:
+        known |= _read_cnrs(done_file)
+    deadline = time.monotonic() + args.max_minutes * 60 if args.max_minutes else None
     async with HCServicesClient() as client:
         types = await client.list_case_types(UK, bench_code=args.bench)
         wanted = [c for t in args.types.split(",") for c in _match_type(types, t.strip())] if args.types else \
             sorted(types, key=lambda c: types[c])
+        if args.rotate and wanted:
+            # Roz alag case type se shuru — samay ki seema mein bhi har type ki baari aaye.
+            k = dt.date.today().toordinal() % len(wanted)
+            wanted = wanted[k:] + wanted[:k]
         for code in wanted:
             ctype = _label(types[code]) or code
             for year in _years(args.years):
+                if deadline and time.monotonic() > deadline:
+                    print(f"[samay poora] {args.max_minutes} minute ho gaye — agli baar yahin se")
+                    return 0
                 try:
-                    rows = await _gap_list(client, gapdir, code, year, form, args.bench)
+                    rows = await _gap_list(client, gapdir, code, year, form, args.bench, refresh=args.refresh_lists)
                 except ServerError as err:
                     print(f"[list error] {ctype} {year}: {err} — form galat ho sakta hai; uk-probe chala kar output bhejo")
                     return 3
@@ -238,6 +263,13 @@ async def uk_gap(out, args):
                         marker.parent.mkdir(parents=True, exist_ok=True)
                         marker.write_text("ok", encoding="utf-8")
                         done += 1
+                        known.add(r["cnr"])
+                        if done_file:
+                            with open(done_file, "a", encoding="utf-8") as f:
+                                f.write(r["cnr"] + "\n")
+                    if deadline and time.monotonic() > deadline:
+                        print(f"[samay poora] {args.max_minutes} minute ho gaye — agli baar yahin se")
+                        return 1 if bad else 0
     print(f"UK gap: {total} disposed cases list mein, {skipped} database mein pehle se (chhode), "
           f"{done} poore, {bad} adhoore (dobara chalao)")
     return 1 if bad else 0
@@ -348,6 +380,11 @@ def add_commands(sub):
     p.add_argument("--only-missing", action="store_true",
                    help="jin cases ka faisla database (AWS) mein pehle se hai unhe chhodo — sirf chhoote hue laao")
     p.add_argument("--form", help='form badalna ho to JSON, jaise {"caseStatusSearchType": "CScaseType"}')
+    p.add_argument("--known-file", help="--only-missing ke liye CNR list file (database ki jagah; GitHub Actions)")
+    p.add_argument("--done-file", help="poore hue cases ke CNR yahan jodte jao; agli baar ye bhi chhoot jaayenge")
+    p.add_argument("--max-minutes", type=int, default=0, help="itne minute baad ruk jao (0 = koi seema nahi)")
+    p.add_argument("--refresh-lists", action="store_true", help="court ki list dobara lo (naye disposed cases ke liye)")
+    p.add_argument("--rotate", action="store_true", help="roz alag case type se shuru karo")
     sub.add_parser("uk-probe")
     p = sub.add_parser("uk-advocate")
     p.add_argument("--name", help="advocate ka naam (milte-julte naam bhi aa sakte hain)")

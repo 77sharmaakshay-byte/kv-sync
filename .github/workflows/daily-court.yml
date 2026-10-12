@@ -1,0 +1,128 @@
+# Roz ka court data — GitHub apne aap chalata hai (India time 06:03, 08:03, 10:03).
+# 1. Nainital HC ki aaj ki cause list: jis run mein mil gayi, us din ke baaki runs kuch nahi karte.
+# 2. Scraper (SC latest + Nainital HC ke naye disposed cases): din mein ek hi baar.
+# Nateeja: 'data' branch (cause list ka text, state) + Releases (PDFs ki tar.gz).
+# Haath se chalana: Actions tab → "Roz ka court data" → Run workflow.
+name: Roz ka court data
+
+on:
+  schedule:
+    - cron: '33 0 * * *'   # 06:03 IST
+    - cron: '33 2 * * *'   # 08:03 IST
+    - cron: '33 4 * * *'   # 10:03 IST
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Tareekh DD-MM-YYYY (khaali = aaj)'
+        required: false
+      force:
+        description: 'Pehle ho chuka ho to bhi dobara'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: court-data
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      PYTHONUNBUFFERED: '1'
+      GH_TOKEN: ${{ github.token }}
+      WORK: ${{ runner.temp }}/kl
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Data branch kholo
+        run: |
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin data >/dev/null; then
+            git fetch --depth 1 origin data:data
+            git worktree add databranch data
+          else
+            git worktree add --orphan -b data databranch
+          fi
+          mkdir -p databranch/causelist databranch/state
+
+      - name: Aaj kya baaki hai
+        id: todo
+        run: |
+          DATE="${{ inputs.date }}"
+          [ -n "$DATE" ] || DATE=$(TZ=Asia/Kolkata date +%d-%m-%Y)
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+          FORCE="${{ inputs.force }}"
+          CL=yes; SCRAPE=yes
+          if [ "$FORCE" != "true" ]; then
+            [ -f "databranch/causelist/$DATE/index.json" ] && CL=no
+            [ "$(cat databranch/state/last_scrape 2>/dev/null)" = "$DATE" ] && SCRAPE=no
+          fi
+          echo "causelist=$CL" >> "$GITHUB_OUTPUT"
+          echo "scrape=$SCRAPE" >> "$GITHUB_OUTPUT"
+          echo "$DATE — cause list: $CL, scraper: $SCRAPE"
+
+      - uses: actions/setup-python@v5
+        if: steps.todo.outputs.causelist == 'yes' || steps.todo.outputs.scrape == 'yes'
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: vendor/product/bharat-courts/pyproject.toml
+
+      - name: bharat-courts install
+        if: steps.todo.outputs.causelist == 'yes' || steps.todo.outputs.scrape == 'yes'
+        run: pip install -q "./vendor/product/bharat-courts[ocr]" pypdfium2
+
+      - name: Cause list
+        id: cl
+        if: steps.todo.outputs.causelist == 'yes'
+        continue-on-error: true
+        run: |
+          DATE=${{ steps.todo.outputs.date }}
+          set +e
+          python scripts/fetch_live.py --data "$WORK" uk-causelist --date "$DATE" --out "$WORK/causelist" ${{ inputs.force && '--force' || '' }}
+          rc=$?
+          set -e
+          if [ $rc -eq 4 ]; then echo "List abhi nahi aayi — agle run mein dobara"; exit 0; fi
+          [ $rc -eq 0 ] || exit $rc
+          # Branch mein sirf text + index (chhota); PDFs Release mein.
+          mkdir -p "databranch/causelist/$DATE"
+          cp "$WORK/causelist/$DATE"/*.txt "$WORK/causelist/$DATE/index.json" "databranch/causelist/$DATE/"
+          tar -czf "$WORK/causelist-$DATE.tar.gz" -C "$WORK/causelist" "$DATE"
+          TAG="causelist-${DATE:6:4}-${DATE:3:2}"   # mahine ki ek release, har din ek file
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "Cause list ${DATE:3:7}" \
+            --notes "Nainital HC ki roz ki cause list PDFs (har din ek tar.gz)" --latest=false
+          gh release upload "$TAG" "$WORK/causelist-$DATE.tar.gz" --clobber
+
+      - name: Scraper (SC latest + Nainital HC naye disposed cases)
+        id: scrape
+        if: steps.todo.outputs.scrape == 'yes'
+        continue-on-error: true
+        run: |
+          DATE=${{ steps.todo.outputs.date }}
+          YEAR=$(TZ=Asia/Kolkata date +%Y)
+          python scripts/fetch_live.py --data "$WORK" sc-latest || true
+          python scripts/fetch_live.py --data "$WORK" uk-gap --only-missing \
+            --known-file databranch/state/known_ukhc_cnrs.txt.gz --done-file databranch/state/done_ukhc_cnrs.txt \
+            --years "$((YEAR-1))-$YEAR" --refresh-lists --rotate --max-minutes 30 || true
+          if [ -d "$WORK/live" ] && [ -n "$(find "$WORK/live" -name '*.pdf' -print -quit)" ]; then
+            tar -czf "$WORK/live-$DATE.tar.gz" --exclude='_gap' -C "$WORK" live
+            TAG="live-${DATE:6:4}-${DATE:3:2}"
+            gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "Naye orders ${DATE:3:7}" \
+              --notes "Court se laaye naye judgments/orders (har din ek tar.gz). Mac par kholo: ~/krishivlaw-data mein, phir build_db.py --live" --latest=false
+            gh release upload "$TAG" "$WORK/live-$DATE.tar.gz" --clobber
+          fi
+          echo "$DATE" > databranch/state/last_scrape
+
+      - name: Data branch par save
+        if: always()
+        run: |
+          cd databranch
+          git add -A
+          if git diff --cached --quiet; then echo "Kuch naya nahi"; exit 0; fi
+          git commit -q -m "court data ${{ steps.todo.outputs.date }}"
+          git push -q origin data
