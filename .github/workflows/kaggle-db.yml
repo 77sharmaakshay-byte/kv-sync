@@ -1,4 +1,4 @@
-# Ek jagah sab: Kaggle ka private dataset krishivlaw/krishivlaw-db hi asli database hai.
+# Ek jagah sab: Kaggle ka private dataset krishivlaw/sc-data-set (SC + Nainital HC) hi asli database hai.
 # Har hafte (aur haath se bhi): Kaggle se database lo, roz ke scraper wale naye orders
 # (Releases 'live-YYYY-MM' ki tar.gz: Nainital HC + Supreme Court) jodo, naya version Kaggle par.
 # Kaunsi tar jud chuki, woh 'data' branch ki state/kaggle_synced.txt mein; dobara nahi judti.
@@ -24,7 +24,7 @@ jobs:
     env:
       PYTHONUNBUFFERED: '1'
       GH_TOKEN: ${{ github.token }}
-      DATASET: krishivlaw/krishivlaw-db
+      DATASET: krishivlaw/sc-data-set
     steps:
       - name: Disk khaali karo (database ~9 GB)
         run: |
@@ -105,7 +105,7 @@ jobs:
           mkdir -p "$W/up"
           sqlite3 "$W/db/krishivlaw.db" "PRAGMA wal_checkpoint(TRUNCATE);" >/dev/null
           gzip -1 -c "$W/db/krishivlaw.db" > "$W/up/krishivlaw.db.gz" && rm "$W/db/krishivlaw.db"
-          echo "{\"title\": \"krishivlaw-db\", \"id\": \"$DATASET\", \"licenses\": [{\"name\": \"other\"}]}" > "$W/up/dataset-metadata.json"
+          echo "{\"title\": \"sc data set\", \"id\": \"$DATASET\", \"licenses\": [{\"name\": \"other\"}]}" > "$W/up/dataset-metadata.json"
           ls -la "$W/up"
           kaggle datasets version -p "$W/up" -m "update $(TZ=Asia/Kolkata date +%d-%m-%Y): $(wc -l < "$W/todo.txt") nayi tar"
           cat "$W/todo.txt" >> databranch/state/kaggle_synced.txt
