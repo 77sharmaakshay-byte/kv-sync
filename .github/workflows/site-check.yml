@@ -15,7 +15,7 @@ on:
         options: [ubuntu-latest, self-hosted]
         default: ubuntu-latest
       find:
-        description: "Page mein yeh dhundho (regex, jaise cause), milte links dikhao"
+        description: "Page mein yeh dhundho (regex, jaise cause), milte links dikhao; 'poora' = poora page"
         required: false
         default: ""
 jobs:
@@ -35,7 +35,9 @@ jobs:
             echo "== $path"
             curl -sS -m 60 -L -A "Mozilla/5.0" -o body.txt -D head.txt -w "status %{http_code}\n" "$URL$path" || true
             head -15 head.txt 2>/dev/null; head -c 400 body.txt 2>/dev/null; echo
-            if [ -n "$FIND" ]; then
+            if [ "$FIND" = "poora" ]; then
+              echo "-- poora page:"; head -c 40000 body.txt; echo
+            elif [ -n "$FIND" ]; then
               echo "-- '$FIND' wale links:"
               grep -oiE "<(a|form|option|select|input|iframe)[^>]*>[^<]{0,120}" body.txt | grep -iE "$FIND" | head -120 || true
             fi
