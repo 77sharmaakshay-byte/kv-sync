@@ -9,6 +9,10 @@ on:
       paths:
         description: "Kaunse page dekhne hain (space se alag)"
         default: "/ /data/index.json /app.js"
+      find:
+        description: "Page mein yeh dhundho (regex, jaise cause), milte links dikhao"
+        required: false
+        default: ""
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -18,6 +22,7 @@ jobs:
         env:
           URL: ${{ inputs.url }}
           PATHS: ${{ inputs.paths }}
+          FIND: ${{ inputs.find }}
         run: |
           host=$(echo "$URL" | sed -E 's#https?://([^/]+).*#\1#')
           echo "== DNS"; getent hosts "$host" || echo "DNS nahi mila"
@@ -25,4 +30,8 @@ jobs:
             echo "== $path"
             curl -sS -m 60 -L -o body.txt -D head.txt -w "status %{http_code}\n" "$URL$path" || true
             head -15 head.txt 2>/dev/null; head -c 400 body.txt 2>/dev/null; echo
+            if [ -n "$FIND" ]; then
+              echo "-- '$FIND' wale links:"
+              grep -oiE "<a [^>]*href=[^>]*>[^<]{0,120}" body.txt | grep -iE "$FIND" | head -80 || true
+            fi
           done
