@@ -470,7 +470,9 @@
   }
 
   // Router: '#/...' links; kuch jagah (jaise embedded frame) URL hash nahi badalta, isliye apna 'cur' bhi.
-  var cur = location.hash || '#/';
+  // App kholne par hamesha shuru (Home) se — pichhli baar jahan band kiya tha wahan se nahi.
+  var cur = '#/';
+  try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* frame */ }
   function go(h) {
     cur = h;
     try { history.replaceState(null, '', h); } catch (e) { /* frame mein mana ho to bhi chale */ }
@@ -497,6 +499,17 @@
     viewHome();
   }
   window.addEventListener('hashchange', function () { cur = location.hash || '#/'; route(); });
+  // Phone app ko band karne ki jagah peeche rakh deta hai; 5 minute se zyada peeche raha to wapas aane par
+  // Home se, aur data (cause list) naya.
+  var hiddenAt = 0;
+  document.addEventListener('visibilitychange', function () {
+    if (document.hidden) { hiddenAt = Date.now(); return; }
+    if (hiddenAt && Date.now() - hiddenAt > 5 * 60 * 1000) {
+      cache = { index: null, lists: {}, cases: {} };
+      go('#/');
+    }
+  });
+  window.addEventListener('pageshow', function (ev) { if (ev.persisted) { cache = { index: null, lists: {}, cases: {} }; go('#/'); } });
   drawNav();
   route();
   if ('serviceWorker' in navigator) {
