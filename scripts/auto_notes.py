@@ -100,6 +100,7 @@ def similar(con, up, mudda, query, per_court=PER_COURT):
             if any(text[:200] in o["quote"] for o in out):  # judi hui petitions mein wahi paragraph
                 continue
             out.append({
+                "id": jid,
                 "court": "Supreme Court" if court == "SC" else "Nainital HC",
                 "tag": (nateeja or "Nateeja ?") + " · machine se chuna",
                 "verified": False,

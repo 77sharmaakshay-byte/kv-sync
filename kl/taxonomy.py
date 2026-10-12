@@ -138,7 +138,10 @@ ISSUES = {
         ("Aarthik sthiti (indigence)", 'NEAR(compassionate indigent, 12) OR NEAR(compassionate penury, 12) '
                                        'OR NEAR(compassionate "financial condition", 12) OR "immediate financial"'),
         ("Kaunsi scheme lagegi (mrityu ki tareekh)", 'NEAR(scheme "date of death", 10) OR NEAR(policy "date of death", 10)'),
-        ("Parivaar mein pehle se naukri", 'NEAR(compassionate "already employed", 12) OR NEAR(compassionate "family member" employed, 12)'),
+        ("Parivaar mein pehle se naukri", 'NEAR(compassionate "already employed", 15) OR "gainfully employed" OR NEAR(brother employed, 5) '
+                                          'OR NEAR(brother "government service", 6) OR NEAR(brother "govt service", 6) '
+                                          'OR NEAR(husband "government service", 6) OR NEAR(sister employed, 5) OR NEAR("5(1)" employed, 12) '
+                                          'OR NEAR(family member "government service", 8)'),
         ("Doosri patni / aashrit", '"second wife" OR NEAR(compassionate dependent definition, 12)'),
         ("Pad ka star (higher post)", 'NEAR(compassionate "higher post", 12) OR NEAR(compassionate "class IV", 12) '
                                       'OR NEAR(compassionate "Group D", 12)'),
