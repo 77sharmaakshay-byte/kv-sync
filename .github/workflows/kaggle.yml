@@ -1,6 +1,7 @@
 # Apna model: GitHub se Kaggle (free GPU) par data aur training bhejna.
 # Actions tab → "Kaggle" → Run workflow → kaam chuno.
-#   check  : Kaggle token chal raha hai ya nahi (aapke datasets ki list)
+#   check       : Kaggle token chal raha hai ya nahi (aapke datasets ki list)
+#   upload-data : 'train-data' branch ka training data -> private Kaggle dataset <user>/nyay-train-v1
 name: Kaggle
 
 on:
@@ -9,7 +10,7 @@ on:
       task:
         description: 'Kya karna hai'
         type: choice
-        options: [check]
+        options: [check, upload-data]
         default: check
 
 jobs:
@@ -34,3 +35,22 @@ jobs:
           echo "User: $KAGGLE_USERNAME"
           kaggle datasets list --mine 2>&1 | head -20 || true
           kaggle kernels list --mine 2>&1 | head -10 || true
+      - name: Training data Kaggle par (private)
+        if: inputs.task == 'upload-data'
+        run: |
+          git fetch --depth 1 origin train-data
+          mkdir -p up && git archive origin/train-data | tar -x -C up
+          cd up
+          cat train.jsonl.gz.part-* > train.jsonl.gz && rm train.jsonl.gz.part-*
+          sha256sum -c SHA256SUMS
+          cat > dataset-metadata.json <<META
+          {"title": "nyay-train-v1", "id": "$KAGGLE_USERNAME/nyay-train-v1",
+           "licenses": [{"name": "CC-BY-4.0"}]}
+          META
+          ls -la
+          if kaggle datasets status "$KAGGLE_USERNAME/nyay-train-v1" >/dev/null 2>&1; then
+            kaggle datasets version -p . -m "update" --dir-mode skip
+          else
+            kaggle datasets create -p . --dir-mode skip
+          fi
+          kaggle datasets status "$KAGGLE_USERNAME/nyay-train-v1" || true
