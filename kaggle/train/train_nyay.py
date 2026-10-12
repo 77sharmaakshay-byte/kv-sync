@@ -93,11 +93,14 @@ def encode(row):
 
 
 def collate(batch):
-    n = max(len(b["input_ids"]) for b in batch)
-    pad = tok.pad_token_id
-    ids = torch.tensor([b["input_ids"] + [pad] * (n - len(b["input_ids"])) for b in batch])
-    lab = torch.tensor([b["labels"] + [-100] * (n - len(b["labels"])) for b in batch])
-    return {"input_ids": ids, "labels": lab, "attention_mask": (ids != pad).long()}
+    # batch 1 (per_device_train_batch_size=1). Loss sirf headnote par lagta hai, isliye logits bhi sirf
+    # aakhri hisse ke banao: poore 2600 token x 1.5 lakh shabd ke float32 logits ~3 GB (wahi OOM tha).
+    assert len(batch) == 1
+    b = batch[0]
+    ids = torch.tensor([b["input_ids"]])
+    keep = sum(1 for x in b["labels"] if x != -100) + 1
+    return {"input_ids": ids, "labels": torch.tensor([b["labels"][-keep:]]),
+            "attention_mask": torch.ones_like(ids), "logits_to_keep": keep}
 
 
 all_train = lines("train.jsonl.gz")
