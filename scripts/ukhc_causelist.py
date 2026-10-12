@@ -68,7 +68,7 @@ async def uk_causelist(out, args):
     if not entries:
         print(f"{day} ki cause list abhi court par nahi mili" + (" (errors upar)" if bad else ""))
         return NOT_YET
-    index_path.write_text(json.dumps({"date": day, "benches": entries, "errors": bad}, ensure_ascii=False, indent=1),
+    index_path.write_text(json.dumps({"date": day, "fetched": ukhc_live._today_ist(), "benches": entries, "errors": bad}, ensure_ascii=False, indent=1),
                           encoding="utf-8")
     print(f"{day}: {len(entries)} PDFs saved in {folder}" + (f" · {bad} errors" if bad else ""))
     return 0

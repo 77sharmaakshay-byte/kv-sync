@@ -1,5 +1,5 @@
 # Roz ka court data — GitHub apne aap chalata hai (India time 06:03, 08:03, 10:03 aur shaam 18:03, 19:03).
-# 1. Nainital HC ki cause list: subah ke runs aaj ki, shaam ke runs agle din ki (Ravivaar ho to Somvaar).
+# 1. Nainital HC ki cause list: subah aaj ki, aur har run mein aage ke 3 court din ki (court pehle daal deta hai).
 #    Jis run mein mil gayi, us tareekh ke baaki runs kuch nahi karte; mil te hi app (site) par.
 # 2. Scraper (SC latest + Nainital HC ke naye disposed cases): din mein ek hi baar, subah.
 # Nateeja: 'data' branch (cause list ka text, state) + Releases (PDFs ki tar.gz).
@@ -56,24 +56,41 @@ jobs:
       - name: Aaj kya baaki hai
         id: todo
         run: |
-          DATE="${{ inputs.date }}"
-          CL=yes; SCRAPE=yes
-          if [ -z "$DATE" ] && [ "$(TZ=Asia/Kolkata date +%H)" -ge 15 ]; then
-            # shaam: agle din ki list (Ravivaar ko court band, to Somvaar); scraper subah hi
-            NEXT=1; [ "$(TZ=Asia/Kolkata date -d tomorrow +%u)" = "7" ] && NEXT=2
-            DATE=$(TZ=Asia/Kolkata date -d "+$NEXT day" +%d-%m-%Y)
-            SCRAPE=no
-          fi
-          [ -n "$DATE" ] || DATE=$(TZ=Asia/Kolkata date +%d-%m-%Y)
-          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+          # Kaunsi tareekhon ki list laani hai: subah aaj ki, aur hamesha aage ke 3 court din (Ravivaar chhod ke);
+          # court aksar 2-3 din pehle daal deta hai. Pehle aa chuki list us din subah ek baar dobara (badlav ke liye).
+          TODAY=$(TZ=Asia/Kolkata date +%d-%m-%Y); H=$(TZ=Asia/Kolkata date +%H)
           FORCE="${{ inputs.force }}"
-          if [ "$FORCE" != "true" ]; then
-            [ -f "databranch/causelist/$DATE/index.json" ] && CL=no
-            [ "$(cat databranch/state/last_scrape 2>/dev/null)" = "$DATE" ] && SCRAPE=no
+          if [ -n "${{ inputs.date }}" ]; then
+            DATES="${{ inputs.date }}"
+          else
+            DATES=""; [ "$H" -lt 15 ] && DATES="$TODAY"
+            n=0; i=1
+            while [ $n -lt 3 ]; do
+              if [ "$(TZ=Asia/Kolkata date -d "+$i day" +%u)" != 7 ]; then
+                DATES="$DATES $(TZ=Asia/Kolkata date -d "+$i day" +%d-%m-%Y)"; n=$((n + 1))
+              fi
+              i=$((i + 1))
+            done
           fi
-          echo "causelist=$CL" >> "$GITHUB_OUTPUT"
+          TODO=""
+          for d in $DATES; do
+            f="databranch/causelist/$d/index.json"
+            if [ "$FORCE" = "true" ] || [ ! -f "$f" ]; then
+              TODO="$TODO $d"
+            elif [ "$d" = "$TODAY" ] && [ "$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1])).get("fetched",""))' "$f")" != "$TODAY" ]; then
+              TODO="$TODO $d:dobara"
+            fi
+          done
+          TODO=$(echo $TODO)
+          SCRAPE=no
+          if [ -z "${{ inputs.date }}" ] && [ "$H" -lt 15 ]; then
+            SCRAPE=yes; [ "$FORCE" != "true" ] && [ "$(cat databranch/state/last_scrape 2>/dev/null)" = "$TODAY" ] && SCRAPE=no
+          fi
+          echo "date=$TODAY" >> "$GITHUB_OUTPUT"
+          echo "dates=$TODO" >> "$GITHUB_OUTPUT"
+          echo "causelist=$([ -n "$TODO" ] && echo yes || echo no)" >> "$GITHUB_OUTPUT"
           echo "scrape=$SCRAPE" >> "$GITHUB_OUTPUT"
-          echo "$DATE — cause list: $CL, scraper: $SCRAPE"
+          echo "dekhi: $DATES | laani: ${TODO:-koi nahi} | scraper: $SCRAPE"
 
       - uses: actions/setup-python@v5
         if: steps.todo.outputs.causelist == 'yes' || steps.todo.outputs.scrape == 'yes'
@@ -91,21 +108,26 @@ jobs:
         if: steps.todo.outputs.causelist == 'yes'
         continue-on-error: true
         run: |
-          DATE=${{ steps.todo.outputs.date }}
-          set +e
-          python scripts/fetch_live.py --data "$WORK" uk-causelist --date "$DATE" --out "$WORK/causelist" ${{ inputs.force && '--force' || '' }}
-          rc=$?
-          set -e
-          if [ $rc -eq 4 ]; then echo "List abhi nahi aayi — agle run mein dobara"; exit 0; fi
-          [ $rc -eq 0 ] || exit $rc
-          # Branch mein sirf text + index (chhota); PDFs Release mein.
-          mkdir -p "databranch/causelist/$DATE"
-          cp "$WORK/causelist/$DATE"/*.txt "$WORK/causelist/$DATE/index.json" "databranch/causelist/$DATE/"
-          tar -czf "$WORK/causelist-$DATE.tar.gz" -C "$WORK/causelist" "$DATE"
-          TAG="causelist-${DATE:6:4}-${DATE:3:2}"   # mahine ki ek release, har din ek file
-          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "Cause list ${DATE:3:7}" \
-            --notes "Nainital HC ki roz ki cause list PDFs (har din ek tar.gz)" --latest=false
-          gh release upload "$TAG" "$WORK/causelist-$DATE.tar.gz" --clobber
+          bad=0
+          for item in ${{ steps.todo.outputs.dates }}; do
+            DATE=${item%%:*}; F=""
+            [ "$item" != "$DATE" ] || [ "${{ inputs.force }}" = "true" ] && F=--force
+            set +e
+            python scripts/fetch_live.py --data "$WORK" uk-causelist --date "$DATE" --out "$WORK/causelist" $F
+            rc=$?
+            set -e
+            if [ $rc -eq 4 ]; then echo "$DATE: list abhi nahi aayi — agle run mein dobara"; continue; fi
+            if [ $rc -ne 0 ]; then echo "$DATE: galti ($rc)"; bad=1; continue; fi
+            # Branch mein sirf text + index (chhota); PDFs Release mein. Dobara laayi to purani hata do.
+            rm -rf "databranch/causelist/$DATE" && mkdir -p "databranch/causelist/$DATE"
+            cp "$WORK/causelist/$DATE"/*.txt "$WORK/causelist/$DATE/index.json" "databranch/causelist/$DATE/"
+            tar -czf "$WORK/causelist-$DATE.tar.gz" -C "$WORK/causelist" "$DATE"
+            TAG="causelist-${DATE:6:4}-${DATE:3:2}"   # mahine ki ek release, har din ek file
+            gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "Cause list ${DATE:3:7}" \
+              --notes "Nainital HC ki roz ki cause list PDFs (har din ek tar.gz)" --latest=false
+            gh release upload "$TAG" "$WORK/causelist-$DATE.tar.gz" --clobber
+          done
+          exit $bad
 
       - name: Scraper (SC latest + Nainital HC naye disposed cases)
         id: scrape

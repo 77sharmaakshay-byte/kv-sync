@@ -42,6 +42,12 @@
     t.setDate(t.getDate() + 1);
     return iso === ymd(t) ? 'kal' : fmtDate(iso);
   }
+  function pickDay(dates) { // kaunsi list dikhaayein: aaj ki; shaam 3 baje ke baad agle din ki; warna sabse nayi
+    var t = new Date(), pad = function (n) { return (n < 10 ? '0' : '') + n; };
+    var today = t.getFullYear() + '-' + pad(t.getMonth() + 1) + '-' + pad(t.getDate());
+    var up = dates.filter(function (d) { return t.getHours() >= 15 ? d > today : d >= today; }).sort();
+    return up[0] || dates[0];
+  }
   function dmy(iso) { return iso ? iso.split('-').reverse().join('.') : ''; }
   function caseId(no) { return (no || '').replace(/\//g, '-'); }
   function words(q) { return (q || '').toUpperCase().split(/\s+/).filter(Boolean); }
@@ -105,7 +111,7 @@
     setTab('home');
     var name = store('ns-name');
     index().then(function (idx) {
-      var date = idx.dates[0];
+      var date = pickDay(idx.dates);
       if (!date) return render('<div class="pad"><div class="empty">Abhi koi cause list nahi aayi.</div></div>');
       return list(date).then(function (data) {
         var known = {}; idx.cases.forEach(function (c) { known[c.id] = 1; });
@@ -121,17 +127,25 @@
         render(head + '<div class="pad"><div class="count"><b>' + r.total + '</b><span>case ' + esc(dayWord(date)) + ' · ' + r.courts +
           ' court mein</span></div>' + (r.html || '<div class="empty">' + esc(dayWord(date)) + ' ki list mein "' + esc(name) +
           '" nahi mila. Naam ki spelling "Main" tab mein jaancho.</div>') +
-          '<p class="muted">Court ki PDF cause list se. Update: ' + esc((idx.generated_at || '').replace('T', ' ').slice(0, 16)) +
+          aage(idx.dates, date) + '<p class="muted">Court ki PDF cause list se. Update: ' + esc((idx.generated_at || '').replace('T', ' ').slice(0, 16)) +
           ' UTC. Jaane se pehle court ki list se ek baar mila lein.</p></div>');
       });
     }).catch(fail);
+  }
+
+  function aage(dates, shown) { // aage ki tareekhon ki list bhi aa chuki ho to link
+    var later = dates.filter(function (d) { return d > shown; }).sort();
+    if (!later.length) return '';
+    return '<p class="p">Aage ki list bhi aa gayi: ' + later.map(function (d) {
+      return '<a href="#/list?d=' + d + '">' + esc(fmtDate(d)) + '</a>';
+    }).join(' · ') + '</p>';
   }
 
   // ---------- Cause list ----------
   function viewList(params) {
     setTab('list');
     index().then(function (idx) {
-      var date = params.d || idx.dates[0];
+      var date = params.d || pickDay(idx.dates);
       var q = params.q != null ? params.q : (store('ns-name') || '');
       if (!date) return render('<div class="pad"><div class="empty">Abhi koi cause list nahi aayi.</div></div>');
       return list(date).then(function (data) {
