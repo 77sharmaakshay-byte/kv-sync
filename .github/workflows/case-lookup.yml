@@ -1,0 +1,78 @@
+# Kisi bhi Nainital HC case ka poora record: case page (parties, advocates, status, tareekhein)
+# aur saare orders (PDF + text). Actions tab → "Case lookup" → Run workflow → case numbers.
+# Nateeja: 'data' branch mein cases/<TYPE>-<NO>-<YEAR>/ (JSON + text), PDFs Release 'cases' mein.
+name: Case lookup
+
+on:
+  workflow_dispatch:
+    inputs:
+      cases:
+        description: 'Case numbers, space se alag (jaise WPSS/1992/2026 WPSS/1325/2021)'
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: court-data
+  cancel-in-progress: false
+
+jobs:
+  lookup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PYTHONUNBUFFERED: '1'
+      GH_TOKEN: ${{ github.token }}
+      CASES: ${{ inputs.cases }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Data branch kholo
+        run: |
+          echo "WORK=$RUNNER_TEMP/kl" >> "$GITHUB_ENV"
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin data:data
+          git worktree add databranch data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: vendor/product/bharat-courts/pyproject.toml
+      - run: pip install -q "./vendor/product/bharat-courts[ocr]" pypdfium2
+      - name: Case laao
+        run: |
+          read -ra LIST <<< "$CASES"
+          python scripts/fetch_live.py --data "$WORK" uk-case "${LIST[@]}" || true
+      - name: Text nikaalo, save karo
+        run: |
+          python - <<'PY'
+          import json, os, pathlib, shutil, pypdfium2
+          work = pathlib.Path(os.environ["WORK"]) / "live" / "uk"
+          out = pathlib.Path("databranch/cases")
+          for case in sorted(p for p in work.iterdir() if p.is_dir() and not p.name.startswith("_")):
+              dest = out / case.name
+              dest.mkdir(parents=True, exist_ok=True)
+              for f in case.iterdir():
+                  if f.suffix == ".json":
+                      shutil.copy(f, dest / f.name)
+                  elif f.suffix == ".pdf":
+                      doc = pypdfium2.PdfDocument(f.read_bytes())
+                      text = "\f".join(doc[i].get_textpage().get_text_range() for i in range(len(doc)))
+                      (dest / (f.stem + ".txt")).write_text(text, encoding="utf-8")
+              print(case.name, len(list(dest.iterdir())), "files")
+          PY
+          if [ -n "$(find "$WORK/live" -name '*.pdf' -print -quit 2>/dev/null)" ]; then
+            STAMP=$(date -u +%Y%m%d-%H%M%S)
+            tar -czf "$WORK/cases-$STAMP.tar.gz" -C "$WORK" live
+            gh release view cases >/dev/null 2>&1 || gh release create cases --title "Case lookups" \
+              --notes "Case lookup workflow ki PDFs" --latest=false
+            gh release upload cases "$WORK/cases-$STAMP.tar.gz" --clobber
+          fi
+      - name: Data branch par save
+        run: |
+          cd databranch
+          git add -A
+          if git diff --cached --quiet; then echo "Kuch naya nahi"; exit 0; fi
+          git commit -q -m "case lookup: $CASES"
+          git push -q origin data
