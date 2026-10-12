@@ -1,0 +1,24 @@
+name: App site check
+# Render par app ka link GitHub ke server se khol ke dekhna (DNS, status, kya page aata hai).
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "App ka link"
+        default: "https://nyay-sahayak-jn1t.onrender.com"
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Link kholo
+        env:
+          URL: ${{ inputs.url }}
+        run: |
+          host=$(echo "$URL" | sed -E 's#https?://([^/]+).*#\1#')
+          echo "== DNS"; getent hosts "$host" || echo "DNS nahi mila"
+          for path in / /data/index.json /app.js; do
+            echo "== $path"
+            curl -sS -m 60 -L -o body.txt -D head.txt -w "status %{http_code}\n" "$URL$path" || true
+            head -15 head.txt 2>/dev/null; head -c 400 body.txt 2>/dev/null; echo
+          done
