@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/259/2004:2026-05-12-007",
+ "title": "ASHOK versus STATE",
+ "petitioner": "ASHOK",
+ "respondent": "STATE",
+ "case_no": "CRLA/259/2004",
+ "case_type": "CRLA",
+ "decision_date": "2026-05-12",
+ "cnr": "UKHC010029952004",
+ "doc_kind": "order",
+ "order_type": "CRLA/259/2004",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "REMANDED MATTERS -143",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=uW%2Bn37LFVnslSkp6Wc1vIDw9Vdv1kNX1qTeqti36kyHlVRIvI7MDzLk1HyV4ViK5&caseno=CRLA/259/2004&cCode=1&cino=UKHC010029952004&state_code=15&court_code=1&&appFlag=",
+ "sha256": "37b02441476cb879282d61e7b6bce5b1904df824c7f291e6abb0c74a6ba21b3d",
+ "fetched_at": "2026-10-12T18:48:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

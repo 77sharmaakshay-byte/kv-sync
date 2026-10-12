@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/655/2025:2026-07-08-007",
+ "title": "POORAN BUDA versus STATE OF UTTARAKHAND",
+ "petitioner": "POORAN BUDA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/655/2025",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010174292025",
+ "doc_kind": "order",
+ "order_type": "CRLA/655/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmzcqO55vuwQDucCd9FXzhASpPz9cgRG1sfuwgJVhI4Fi&caseno=CRLA/655/2025&cCode=1&cino=UKHC010174292025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "39f78e3ccf79eebad06ef75beb2ceb6e0bbdfb5b1f9e800d3c4e4a311718ce84",
+ "fetched_at": "2026-10-12T18:34:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

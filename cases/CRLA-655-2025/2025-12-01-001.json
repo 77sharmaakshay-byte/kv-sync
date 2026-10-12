@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/655/2025:2025-12-01-001",
+ "title": "POORAN BUDA versus STATE OF UTTARAKHAND",
+ "petitioner": "POORAN BUDA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/655/2025",
+ "case_type": "CRLA",
+ "decision_date": "2025-12-01",
+ "cnr": "UKHC010174292025",
+ "doc_kind": "order",
+ "order_type": "CRLA/655/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmzcqO55vuwQDucCd9FXzhATJSG65OmHXdeiViFfhSJNe&caseno=CRLA/655/2025&cCode=1&cino=UKHC010174292025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7d9df86789d69317799922ab7cba07e8b96f987152bf23f2d193512730dfe6c9",
+ "fetched_at": "2026-10-12T18:34:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

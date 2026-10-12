@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/254/2004:2026-02-24-005",
+ "title": "ANIL @ NEELU versus STATE",
+ "petitioner": "ANIL @ NEELU",
+ "respondent": "STATE",
+ "case_no": "CRLA/254/2004",
+ "case_type": "CRLA",
+ "decision_date": "2026-02-24",
+ "cnr": "UKHC010029932004",
+ "doc_kind": "order",
+ "order_type": "CRLA/254/2004",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "REMANDED MATTERS -143",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=uW%2Bn37LFVnslSkp6Wc1vIHKfFxrCb2Yqqwflin2mFDZFS0%2Fs7GXg9Vd0bva4oilg&caseno=CRLA/254/2004&cCode=1&cino=UKHC010029932004&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5fb62989ffe2c5f2fdc6434eea3b0860cf5e9876100aea59c1e1c0f66b555d16",
+ "fetched_at": "2026-10-12T18:48:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

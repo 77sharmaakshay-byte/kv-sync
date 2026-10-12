@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/258/2004:2026-07-08-009",
+ "title": "PRAMOD versus STATE",
+ "petitioner": "PRAMOD",
+ "respondent": "STATE",
+ "case_no": "CRLA/258/2004",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010029942004",
+ "doc_kind": "order",
+ "order_type": "CRLA/258/2004",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "REMANDED MATTERS -143",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=uW%2Bn37LFVnslSkp6Wc1vIApDqpXOnQDTOxlZx3gOu5E0DskEb79kK9yh71i3%2BJE2&caseno=CRLA/258/2004&cCode=1&cino=UKHC010029942004&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ab20eae7695adc717d5b605381951c505975bcd8b2b3501430546651ff2b4cc",
+ "fetched_at": "2026-10-12T18:48:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

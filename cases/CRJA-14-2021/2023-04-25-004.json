@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/14/2021:2023-04-25-004",
+ "title": "SARABJEET SINGH versus STATE OF UTTARKAHAND",
+ "petitioner": "SARABJEET SINGH",
+ "respondent": "STATE OF UTTARKAHAND",
+ "case_no": "CRJA/14/2021",
+ "case_type": "CRJA",
+ "decision_date": "2023-04-25",
+ "cnr": "UKHC010039282021",
+ "doc_kind": "order",
+ "order_type": "CRJA/14/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkE5hJaGsz7rPxyha%2F3DsFS1FSAN83METNe%2BBrmUi%2BJQU&caseno=CRJA/14/2021&cCode=1&cino=UKHC010039282021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5add9b440f8f5fc0e15cac0e0bcd1571aaaca0f85b0fed326643c34bf62fd04a",
+ "fetched_at": "2026-10-12T18:35:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

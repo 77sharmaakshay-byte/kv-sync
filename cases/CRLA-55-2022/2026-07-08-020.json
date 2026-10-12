@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/55/2022:2026-07-08-020",
+ "title": "AASHIQ versus STATE OF UTTARAKHAND",
+ "petitioner": "AASHIQ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/55/2022",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010016852022",
+ "doc_kind": "order",
+ "order_type": "CRLA/55/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y3g7LYLso8k59Rn9NgV5%2FrA%2Bq5HpO7cdUsmqb8t2%2FL7&caseno=CRLA/55/2022&cCode=1&cino=UKHC010016852022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "39f78e3ccf79eebad06ef75beb2ceb6e0bbdfb5b1f9e800d3c4e4a311718ce84",
+ "fetched_at": "2026-10-12T18:36:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

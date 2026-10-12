@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/655/2025:2026-08-19-010",
+ "title": "POORAN BUDA versus STATE OF UTTARAKHAND",
+ "petitioner": "POORAN BUDA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/655/2025",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010174292025",
+ "doc_kind": "order",
+ "order_type": "CRLA/655/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmzcqO55vuwQDucCd9FXzhAQjnfYVOHfPfPmwK5uVnq2g&caseno=CRLA/655/2025&cCode=1&cino=UKHC010174292025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4565da63e3bf87cb580a1f778ec7410eeb9a6a0aa8013a9695a4df6000faa31f",
+ "fetched_at": "2026-10-12T18:34:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

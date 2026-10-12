@@ -1,0 +1,20 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/258/2004:2012-09-12-001",
+ "title": "PRAMOD versus STATE",
+ "petitioner": "PRAMOD",
+ "respondent": "STATE",
+ "case_no": "CRLA/258/2004",
+ "case_type": "CRLA",
+ "decision_date": "2012-09-12",
+ "cnr": "UKHC010029942004",
+ "doc_kind": "order",
+ "order_type": "CRLA/258/2004",
+ "judges": null,
+ "case_status": "REMANDED MATTERS -143",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=uW%2Bn37LFVnslSkp6Wc1vIApDqpXOnQDTOxlZx3gOu5HnfwdxC7%2F2z2B%2B0rRxYjos&caseno=CRLA/258/2004&cCode=1&cino=UKHC010029942004&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bfc68e391803d8441e46dfc48a0275856b2088a2e6624b3f169aaf4fc6074201",
+ "fetched_at": "2026-10-12T18:48:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

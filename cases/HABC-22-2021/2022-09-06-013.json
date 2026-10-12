@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:HABC/22/2021:2022-09-06-013",
+ "title": "BRIDJET SPENCER versus STATE OF UTTARAKHAND",
+ "petitioner": "BRIDJET SPENCER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "HABC/22/2021",
+ "case_type": "HABC",
+ "decision_date": "2022-09-06",
+ "cnr": "UKHC010144902021",
+ "doc_kind": "order",
+ "order_type": "HABC/22/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkBEdkeF0o1DodBE5pkjietcavRizV6AatEzos45yHo5b&caseno=HABC/22/2021&cCode=1&cino=UKHC010144902021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "45a5a3e61e80cb89a24988d8af29ef819ad071f59fc79633950f1334813b792d",
+ "fetched_at": "2026-10-12T18:38:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

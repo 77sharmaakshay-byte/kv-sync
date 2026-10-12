@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/704/2023:2026-08-19-007",
+ "title": "ANUSHKA BUDHATHOKI versus STATE OF UTTARAKHAND",
+ "petitioner": "ANUSHKA BUDHATHOKI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/704/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010163312023",
+ "doc_kind": "order",
+ "order_type": "CRLA/704/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY31HpsRVtwxI62g46yF3JpI%2B%2F2LY2M%2F%2BS0AmiaSg3bPI&caseno=CRLA/704/2023&cCode=1&cino=UKHC010163312023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4565da63e3bf87cb580a1f778ec7410eeb9a6a0aa8013a9695a4df6000faa31f",
+ "fetched_at": "2026-10-12T18:36:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

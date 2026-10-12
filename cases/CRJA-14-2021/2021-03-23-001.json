@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/14/2021:2021-03-23-001",
+ "title": "SARABJEET SINGH versus STATE OF UTTARKAHAND",
+ "petitioner": "SARABJEET SINGH",
+ "respondent": "STATE OF UTTARKAHAND",
+ "case_no": "CRJA/14/2021",
+ "case_type": "CRJA",
+ "decision_date": "2021-03-23",
+ "cnr": "UKHC010039282021",
+ "doc_kind": "order",
+ "order_type": "CRJA/14/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkE5hJaGsz7rPxyha%2F3DsFS1sWdY3wz19VXfF3s%2Fq4Zeg&caseno=CRJA/14/2021&cCode=1&cino=UKHC010039282021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d61782cc28cec9c5ec291765aa98f9ff890af284ed1cbdfa1810e3464e1e2409",
+ "fetched_at": "2026-10-12T18:35:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/254/2004:2026-08-25-013",
+ "title": "ANIL @ NEELU versus STATE",
+ "petitioner": "ANIL @ NEELU",
+ "respondent": "STATE",
+ "case_no": "CRLA/254/2004",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-25",
+ "cnr": "UKHC010029932004",
+ "doc_kind": "order",
+ "order_type": "CRLA/254/2004",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "REMANDED MATTERS -143",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=uW%2Bn37LFVnslSkp6Wc1vIHKfFxrCb2Yqqwflin2mFDZKsoTlu035DpkfNSAqh25C&caseno=CRLA/254/2004&cCode=1&cino=UKHC010029932004&state_code=15&court_code=1&&appFlag=",
+ "sha256": "df19f17c614f62e82a8f38fcd502d47df067bc9fd1f917c28a9e220fdec197e2",
+ "fetched_at": "2026-10-12T18:48:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/13/2020:2020-01-10-001",
+ "title": "BHURA ANSARI versus STATE OF UTTARAKHAND",
+ "petitioner": "BHURA ANSARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/13/2020",
+ "case_type": "CRLA",
+ "decision_date": "2020-01-10",
+ "cnr": "UKHC010001982020",
+ "doc_kind": "order",
+ "order_type": "CRLA/13/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjI2m4x175IHlfpr8gu7vJOylpAGKFIKloGnkbAqoax9D&caseno=CRLA/13/2020&cCode=1&cino=UKHC010001982020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e5d513a36ff5689e0fdd7252003553a08ec92f2d47e9c2954b12346a0acd214c",
+ "fetched_at": "2026-10-12T18:35:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

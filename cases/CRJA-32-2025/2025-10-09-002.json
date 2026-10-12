@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/32/2025:2025-10-09-002",
+ "title": "NAVEEN YOGI versus STATE OF UTTARAKHAND",
+ "petitioner": "NAVEEN YOGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/32/2025",
+ "case_type": "CRJA",
+ "decision_date": "2025-10-09",
+ "cnr": "UKHC010076822025",
+ "doc_kind": "order",
+ "order_type": "CRJA/32/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6tDUSkSmSoMLzl%2FGYWuAp0LY7mbRtUGNTcltBAho7kB&caseno=CRJA/32/2025&cCode=1&cino=UKHC010076822025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "200b47ccc72311f9780a299bc3886753452c8d68efa5b26bed5070534c3d7ed4",
+ "fetched_at": "2026-10-12T18:51:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/55/2022:2023-01-04-007",
+ "title": "AASHIQ versus STATE OF UTTARAKHAND",
+ "petitioner": "AASHIQ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/55/2022",
+ "case_type": "CRLA",
+ "decision_date": "2023-01-04",
+ "cnr": "UKHC010016852022",
+ "doc_kind": "order",
+ "order_type": "CRLA/55/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y3g7LYLso8k59Rn9NgV5%2Fou0PtFw6eMmX07slE5FRXG&caseno=CRLA/55/2022&cCode=1&cino=UKHC010016852022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d9e732794269bf8ae5e02a5b858d212d01e0017b79e09cf0e7339e46ffe1fad",
+ "fetched_at": "2026-10-12T18:36:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

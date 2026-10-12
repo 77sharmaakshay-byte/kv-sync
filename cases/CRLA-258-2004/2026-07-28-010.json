@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/258/2004:2026-07-28-010",
+ "title": "PRAMOD versus STATE",
+ "petitioner": "PRAMOD",
+ "respondent": "STATE",
+ "case_no": "CRLA/258/2004",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-28",
+ "cnr": "UKHC010029942004",
+ "doc_kind": "order",
+ "order_type": "CRLA/258/2004",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "REMANDED MATTERS -143",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=uW%2Bn37LFVnslSkp6Wc1vIApDqpXOnQDTOxlZx3gOu5Ht6TphXSoBneH%2F6I95YVWf&caseno=CRLA/258/2004&cCode=1&cino=UKHC010029942004&state_code=15&court_code=1&&appFlag=",
+ "sha256": "546be78048db7cf9056e3c174fcf7997cadc03fa7422cbbc46d11b0483a472b6",
+ "fetched_at": "2026-10-12T18:48:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

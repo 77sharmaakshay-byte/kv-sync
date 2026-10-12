@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/55/2022:2025-10-28-012",
+ "title": "AASHIQ versus STATE OF UTTARAKHAND",
+ "petitioner": "AASHIQ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/55/2022",
+ "case_type": "CRLA",
+ "decision_date": "2025-10-28",
+ "cnr": "UKHC010016852022",
+ "doc_kind": "order",
+ "order_type": "CRLA/55/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y3g7LYLso8k59Rn9NgV5%2Fq4%2B0dXPtVc0xXgFcLDrPjp&caseno=CRLA/55/2022&cCode=1&cino=UKHC010016852022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4aff97f094426146542050ae1cfec2a80f558f37304a837d5c0128eba89ec13f",
+ "fetched_at": "2026-10-12T18:36:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

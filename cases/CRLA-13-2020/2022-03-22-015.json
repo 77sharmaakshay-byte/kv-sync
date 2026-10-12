@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/13/2020:2022-03-22-015",
+ "title": "BHURA ANSARI versus STATE OF UTTARAKHAND",
+ "petitioner": "BHURA ANSARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/13/2020",
+ "case_type": "CRLA",
+ "decision_date": "2022-03-22",
+ "cnr": "UKHC010001982020",
+ "doc_kind": "order",
+ "order_type": "CRLA/13/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjI2m4x175IHlfpr8gu7vJOwF1iKzPUxJoT9tT60M%2B95L&caseno=CRLA/13/2020&cCode=1&cino=UKHC010001982020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a3a7a38b3c572f00c05133f56b10de407329eaf9d99b499f51c710cd3e965f46",
+ "fetched_at": "2026-10-12T18:35:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/14/2021:2026-07-08-012",
+ "title": "SARABJEET SINGH versus STATE OF UTTARKAHAND",
+ "petitioner": "SARABJEET SINGH",
+ "respondent": "STATE OF UTTARKAHAND",
+ "case_no": "CRJA/14/2021",
+ "case_type": "CRJA",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010039282021",
+ "doc_kind": "order",
+ "order_type": "CRJA/14/2021",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkE5hJaGsz7rPxyha%2F3DsFS26fqEfkCutgnPTCgu6IYhp&caseno=CRJA/14/2021&cCode=1&cino=UKHC010039282021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "39f78e3ccf79eebad06ef75beb2ceb6e0bbdfb5b1f9e800d3c4e4a311718ce84",
+ "fetched_at": "2026-10-12T18:35:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

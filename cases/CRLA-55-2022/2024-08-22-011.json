@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/55/2022:2024-08-22-011",
+ "title": "AASHIQ versus STATE OF UTTARAKHAND",
+ "petitioner": "AASHIQ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/55/2022",
+ "case_type": "CRLA",
+ "decision_date": "2024-08-22",
+ "cnr": "UKHC010016852022",
+ "doc_kind": "order",
+ "order_type": "CRLA/55/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y3g7LYLso8k59Rn9NgV5%2FrafTZIcaJCDVqeQ7EvodS0&caseno=CRLA/55/2022&cCode=1&cino=UKHC010016852022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "15b8ab07d8067acb0b7c489b34c406e821436028d5e4603e10e4f499e56a87ec",
+ "fetched_at": "2026-10-12T18:36:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

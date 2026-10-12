@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/13/2020:2020-10-07-006",
+ "title": "BHURA ANSARI versus STATE OF UTTARAKHAND",
+ "petitioner": "BHURA ANSARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/13/2020",
+ "case_type": "CRLA",
+ "decision_date": "2020-10-07",
+ "cnr": "UKHC010001982020",
+ "doc_kind": "order",
+ "order_type": "CRLA/13/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjI2m4x175IHlfpr8gu7vJOzxcfhPEwo2E2a%2F%2FO7OgE0a&caseno=CRLA/13/2020&cCode=1&cino=UKHC010001982020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a2e73f6815df4e0c2429185b4051454745cfca428dc34b52a0f0c39fc4ab4c32",
+ "fetched_at": "2026-10-12T18:35:09+00:00",
+ "fetched_by": "fetch_live.py"
+}
