@@ -32,5 +32,5 @@ jobs:
           test -n "$KAGGLE_USERNAME" || { echo "KAGGLE_USERNAME secret nahi mila"; exit 1; }
           test -n "$KAGGLE_KEY" || { echo "KAGGLE_KEY secret nahi mila"; exit 1; }
           echo "User: $KAGGLE_USERNAME"
-          kaggle datasets list --mine --max-size 0 2>&1 | head -20 || true
+          kaggle datasets list --mine 2>&1 | head -20 || true
           kaggle kernels list --mine 2>&1 | head -10 || true
