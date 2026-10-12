@@ -34,12 +34,12 @@ jobs:
     env:
       PYTHONUNBUFFERED: '1'
       GH_TOKEN: ${{ github.token }}
-      WORK: ${{ runner.temp }}/kl
     steps:
       - uses: actions/checkout@v4
 
       - name: Data branch kholo
         run: |
+          echo "WORK=$RUNNER_TEMP/kl" >> "$GITHUB_ENV"
           git config --global user.name "krishivlaw-bot"
           git config --global user.email "krishivlaw-bot@users.noreply.github.com"
           if git ls-remote --exit-code --heads origin data >/dev/null; then
