@@ -120,7 +120,7 @@ jobs:
           kaggle kernels status "$KAGGLE_USERNAME/nyay-train"
           mkdir -p out && kaggle kernels output "$KAGGLE_USERNAME/nyay-train" -p out --file-pattern 'eval\.json|.*\.log' || true
           ls -la out
-          test -f out/eval.json || { echo "eval.json abhi nahi bana (training chal rahi ho sakti hai)"; tail -50 out/*.log 2>/dev/null; exit 0; }
+          test -f out/eval.json || { echo "eval.json abhi nahi bana (training chal rahi ho sakti hai)"; tail -50 out/*.log 2>/dev/null || true; exit 0; }
           python3 -c "import json;d=json.load(open('out/eval.json'));print({k:d[k] for k in d if k!='samples'})"
           git config --global user.name "krishivlaw-bot"
           git config --global user.email "krishivlaw-bot@users.noreply.github.com"
