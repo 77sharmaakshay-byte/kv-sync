@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2710/2021:2021-12-15-001",
+ "title": "A M T BUILDERS PVT LTD versus STATE OF UTTARAKHAND",
+ "petitioner": "A M T BUILDERS PVT LTD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2710/2021",
+ "case_type": "WPMS",
+ "decision_date": "2021-12-15",
+ "cnr": "UKHC010157942021",
+ "doc_kind": "order",
+ "order_type": "WPMS/2710/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkPpVD3d0S2OBY6dB4PoPsyKEFcxjVxEBJLotf1zFOeYo&caseno=WPMS/2710/2021&cCode=1&cino=UKHC010157942021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "81e7c29df9e922edb93d0c001385e02ace856dd8b279f73d5043ec0c4e2c9b27",
+ "fetched_at": "2026-10-12T10:17:13+00:00",
+ "fetched_by": "fetch_live.py"
+}
