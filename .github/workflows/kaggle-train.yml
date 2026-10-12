@@ -1,0 +1,149 @@
+# Apna model, round dar round (back to back). Har 3 ghante: Kaggle par training ka kya haal hai?
+#   round khatam -> adapter + state.json Kaggle dataset <user>/nyay-model mein (naya version), nateeja 'data' branch
+#                   models/nyay/round-N.json mein, aur turant agla round (training data ka agla hissa).
+#   chal raha    -> kuch nahi.
+#   GPU nahi mila (hafte ka free GPU khatam) -> agle check par phir koshish.
+#   koi aur galti -> ek baar laal (log ke saath), phir ruka rehta hai; dobara: Run workflow -> start.
+# Kaggle ka free GPU hafte mein ~30 ghante; ek round ~10 ghante, to hafte mein ~3 round.
+# Rokna ho to: Actions -> "Kaggle training" -> ... -> Disable workflow.
+name: Kaggle training
+
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'auto = haal dekho / agla round; start = naya round abhi shuru karo'
+        type: choice
+        options: [auto, start]
+        default: auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kaggle-train
+  cancel-in-progress: false
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      KERNEL: krishivlaw/nyay-train
+      MODEL: krishivlaw/nyay-model
+      DATA: krishivlaw/nyay-train-v1
+      M: databranch/models/nyay
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Kaggle CLI
+        run: pip install --quiet --upgrade kaggle
+      - name: Kaggle token
+        env:
+          SECRET: ${{ secrets.KRISHIVLAW }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          s = (os.environ.get("SECRET") or "").strip().strip('"').strip("'")
+          try:
+              d = json.loads(s); env = {"KAGGLE_USERNAME": d["username"], "KAGGLE_KEY": d["key"]}
+          except (ValueError, KeyError, TypeError):
+              if not s:
+                  raise SystemExit("KRISHIVLAW secret khaali hai")
+              env = {"KAGGLE_KEY": s} if re.fullmatch(r"[0-9a-f]{32}", s) else {"KAGGLE_API_TOKEN": s}
+              env["KAGGLE_USERNAME"] = "krishivlaw"
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              for k, v in env.items():
+                  if k != "KAGGLE_USERNAME":
+                      print(f"::add-mask::{v}")
+                  f.write(f"{k}={v}\n")
+          PY
+      - name: Data branch
+        run: |
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin data:data
+          git worktree add databranch data
+          mkdir -p "$M"
+      - name: Haal aur agla kadam
+        id: step
+        run: |
+          s=$(kaggle kernels status "$KERNEL" 2>&1 | tr 'A-Z' 'a-z' || true); echo "kernel: $s"
+          case "$s" in *running*|*queued*) st=running;; *complete*) st=complete;; *error*|*cancel*) st=error;; *) st=none;; esac
+          pushed=$(cat "$M/pushed" 2>/dev/null || true)       # jo round Kaggle par bheja, uska number
+          done_r=$(cat "$M/done_round" 2>/dev/null || echo 0)  # jis round ka nateeja aa chuka
+          next=""
+          if [ "${{ inputs.action }}" = "start" ]; then
+            [ "$st" = running ] && { echo "Ek round abhi chal raha hai; naya nahi"; exit 0; }
+            next=$((done_r + 1))
+          elif [ -z "$pushed" ]; then
+            echo "Koi round nahi chal raha (shuru karne ke liye: Run workflow -> start)"; exit 0
+          elif [ "$st" = running ] || [ "$st" = none ]; then
+            echo "Round $pushed: $st"; exit 0
+          elif [ "$st" = error ]; then
+            mkdir -p out && kaggle kernels output "$KERNEL" -p out --file-pattern '.*\.log' >/dev/null 2>&1 || true
+            tail -c 6000 out/*.log 2>/dev/null | tr ',' '\n' | grep '"data"' | tail -40 || true
+            if grep -qs "GPU nahi mila" out/*.log; then
+              echo "Round $pushed: GPU nahi mila (hafte ka free GPU khatam?) — phir koshish"; next=$pushed
+            else
+              mv "$M/pushed" "$M/failed"; echo "round $pushed fail" > "$M/failed"
+              echo "fail=1" >> "$GITHUB_OUTPUT"
+            fi
+          else  # complete
+            mkdir -p out && kaggle kernels output "$KERNEL" -p out
+            st_file=$(find out -name state.json | head -1)
+            r=$(python3 -c "import json,sys;print(json.load(open(sys.argv[1]))['round'])" "$st_file" 2>/dev/null || echo 0)
+            if [ "$r" = "$pushed" ] && [ "$r" -gt "$done_r" ]; then
+              a=$(dirname "$st_file"); mkdir -p up && cp "$a"/adapter_config.json "$a"/adapter_model.safetensors "$a"/state.json up/
+              echo "{\"title\": \"nyay-model\", \"id\": \"$MODEL\", \"licenses\": [{\"name\": \"other\"}]}" > up/dataset-metadata.json
+              ls -la up
+              if kaggle datasets status "$MODEL" >/dev/null 2>&1; then
+                kaggle datasets version -p up -m "round $r"
+              else
+                kaggle datasets create -p up
+              fi
+              for i in $(seq 1 40); do kaggle datasets status "$MODEL" 2>&1 | grep -qi ready && break; sleep 30; done
+              cp "$(find out -name eval.json | head -1)" "$M/round-$r.json"
+              python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print({k:d[k] for k in d if k!='samples'})" "$M/round-$r.json"
+              echo "$r" > "$M/done_round"; done_r=$r
+            fi
+            if [ "$done_r" -ge "$pushed" ]; then
+              left=$(python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print(d['total']-d['offset'])" "$st_file" 2>/dev/null || echo 1)
+              if [ "$left" -le 0 ]; then echo "Saara training data sikhaya ja chuka"; rm -f "$M/pushed"; else next=$((done_r + 1)); fi
+            else
+              echo "Kaggle par round $pushed ka nateeja nahi mila (mila round $r) — dobara bhejo"; next=$pushed
+            fi
+          fi
+          if [ -n "$next" ]; then
+            mkdir -p kt
+            python3 - "$next" <<'PY'
+          import base64, sys
+          src = open("kaggle/train/launch.py").read()
+          w = base64.b64encode(open("kaggle/train/train_nyay.py", "rb").read()).decode()
+          open("kt/launch.py", "w").write(src.replace("__WORKER_B64__", w).replace("__ROUND__", sys.argv[1]))
+          PY
+            src="\"$DATA\""; [ "$next" -gt 1 ] && src="$src, \"$MODEL\""
+            cat > kt/kernel-metadata.json <<META
+          {"id": "$KERNEL", "title": "nyay-train", "code_file": "launch.py", "language": "python",
+           "kernel_type": "script", "is_private": true, "enable_gpu": true, "enable_internet": true,
+           "dataset_sources": [$src], "competition_sources": [], "kernel_sources": []}
+          META
+            kaggle kernels push -p kt
+            echo "$next" > "$M/pushed"; rm -f "$M/failed"
+            echo "Round $next Kaggle par shuru"
+          fi
+      - name: Data branch par save
+        if: always()
+        run: |
+          cd databranch
+          git add models
+          git diff --cached --quiet || git commit -qm "nyay model: $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
+          git push -q origin data
+      - name: Round fail
+        if: steps.step.outputs.fail == '1'
+        run: |
+          echo "Training round fail hua (log upar). Theek karke: Run workflow -> start"; exit 1
