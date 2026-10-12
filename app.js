@@ -65,6 +65,8 @@
   }
   var ICON_SEARCH = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>';
   var ICON_BACK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg>';
+  var ICON_NEXT = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg>';
+  var ICON_DOWN = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>';
 
   function rowHtml(e, ws, linkable) {
     var party = [e.pet, e.res].filter(Boolean).join(' v. ');
@@ -271,10 +273,12 @@
         (n.todo ? '<div class="card dark"><span class="lbl light">Court le jaana</span>' + n.todo.map(function (t) { return '<div class="pt"><span class="mark dark">✓</span><span>' + esc(t) + '</span></div>'; }).join('') + '</div>' : '') +
         '<p class="muted">' + esc(n.disclaimer || 'Sirf court ke orders aur database se. Advocate ka review zaroori. Koi jeetne ka % nahi.') + '</p>';
     } else if (tab === 'similar') {
-      html += n.similar.map(function (j) {
-        return '<div class="card"><div class="chips"><span class="chip ' + (j.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(j.court) + '</span><span class="chip ' + (j.verified ? 'good' : 'warn') + '">' + esc(j.tag) + '</span></div>' +
+      html += n.similar.map(function (j, i) {
+        var open = j.key ? '<a class="card link" href="#/j/' + esc(j.key) + '?from=' + esc(c.id) + '&i=' + i + '">' : '<div class="card">';
+        return open + '<div class="chips"><span class="chip ' + (j.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(j.court) + '</span><span class="chip ' + (j.verified ? 'good' : 'warn') + '">' + esc(j.tag) + '</span></div>' +
           '<b class="serif" style="font-size:18px">' + esc(j.title) + '</b><span class="muted">' + esc(j.cite) + '</span><p class="p">' + esc(j.why) + '</p>' +
-          (j.quote ? '<p class="p serif" style="background:var(--line-2);padding:10px 12px;border-radius:10px">' + esc(j.quote) + '</p>' : '') + '</div>';
+          (j.quote ? '<p class="p serif quote">' + esc(j.quote) + '</p>' : '') +
+          (j.key ? '<span class="go">Poora faisla padho · PDF ' + ICON_NEXT + '</span></a>' : '</div>');
       }).join('');
     }
     render(html + '</div>');
@@ -287,6 +291,38 @@
     return '<div class="card"><span class="lbl ' + kind + '">' + esc(title) + '</span>' + list.map(function (p) {
       return '<div class="pt"><span class="mark ' + kind + '">' + sign + '</span><span>' + esc(p) + '</span></div>';
     }).join('') + '</div>';
+  }
+
+  // ---------- Judgment (milta-julta faisla) ----------
+  function viewJudgment(key, params) {
+    setTab('mine');
+    var from = params.from ? caseDoc(params.from).catch(function () { return null; }) : Promise.resolve(null);
+    Promise.all([getJSON('judgments/' + encodeURIComponent(key) + '.json'), from]).then(function (r) {
+      var d = r[0], c = r[1], rel = c && c.notes && c.notes.similar ? c.notes.similar[+params.i || 0] : null, n = d.note || {};
+      var back = c ? '<a class="back" href="#/case/' + esc(c.id) + '?t=similar">' + ICON_BACK + esc(c.case_no) + '</a>' : '<a class="back" href="#/mine">' + ICON_BACK + 'Mere cases</a>';
+      var cite = [d.neutral_citation, d.report_citation, d.case_no && !d.neutral_citation ? d.case_no : null].filter(Boolean).join(' · ');
+      var html = '<header class="hero">' + back + '<div class="chips"><span class="chip ' + (d.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(d.court) + '</span>' +
+        (rel ? '<span class="chip ' + (rel.verified ? 'good' : 'warn') + '">' + esc(rel.tag) + '</span>' : '') + '</div>' +
+        '<h1 style="font-size:25px">' + esc(n.title || (rel && rel.title) || d.title) + '</h1><div class="sub">' + esc(cite) + ' · ' + esc(dmy(d.date)) + '</div></header><div class="pad">';
+      if (rel) html += '<div class="card key"><span class="lbl brand">Aapke case se rishta</span><p class="p">' + esc(rel.why) + '</p>' + (rel.quote ? '<p class="p serif quote">' + esc(rel.quote) + '</p>' : '') + '</div>';
+      if (n.summary) html += '<div class="card"><span class="lbl">Faisla ek nazar mein</span><p class="p">' + esc(n.summary) + '</p>' + (n.held ? '<p class="p"><b>Court ne kaha:</b> ' + esc(n.held) + '</p>' : '') + '</div>';
+      html += pts('Aapke kaam ki baat', 'good', '+', n.use) + pts('Dhyaan rahe', 'bad', '!', n.caution);
+      html += '<div class="card"><span class="lbl">Record</span><p class="p">' + [['Court', d.court], ['Tareekh', dmy(d.date)], ['Bench', n.bench || d.judges], ['Citation', cite], ['Nateeja', d.disposal], ['Pages', d.pages]]
+        .filter(function (x) { return x[1]; }).map(function (x) { return '<b>' + x[0] + ':</b> ' + esc(x[1]); }).join('<br>') + '</p></div>';
+      var paras = {}; d.paras.forEach(function (p) { paras[p.no] = p.text; });
+      (n.key_paras || []).forEach(function (no) {
+        if (paras[no]) html += '<div class="card"><span class="lbl brand">Para ' + esc(no) + '</span><p class="p serif">' + esc(paras[no]) + '</p></div>';
+      });
+      (n.quotes || []).forEach(function (q) {
+        html += '<div class="card"><span class="lbl brand">' + esc(q.ref) + '</span><p class="p serif">“' + esc(q.text) + '”</p></div>';
+      });
+      if (d.pdf) html += '<a class="btn" href="judgments/' + esc(d.pdf) + '" download="' + esc(d.pdf_name) + '">' + ICON_DOWN + 'Download PDF</a>' +
+        '<a class="btn ghost" href="judgments/' + esc(d.pdf) + '" target="_blank" rel="noopener">PDF kholo</a>';
+      html += '<details class="order"><summary><b>Poora faisla (text)</b><span class="muted">' + d.paras.length + ' para</span></summary><pre>' +
+        esc(d.head) + '\n\n' + d.paras.map(function (p) { return p.no + '. ' + esc(p.text); }).join('\n\n') + '</pre></details>';
+      html += '<p class="muted">' + esc(n.disclaimer || 'Text PDF se nikala gaya hai; court mein PDF (asli copy) hi padhein.') + ' Srot: ' + esc(d.source) + '.</p>';
+      render(html + '</div>');
+    }).catch(fail);
   }
 
   // ---------- Main (settings) ----------
@@ -328,6 +364,7 @@
     if (path === '/mine') return viewMine();
     if (path === '/settings') return viewSettings();
     if (path.indexOf('/case/') === 0) return viewCase(path.slice(6), params);
+    if (path.indexOf('/j/') === 0) return viewJudgment(decodeURIComponent(path.slice(3)), params);
     viewHome();
   }
   window.addEventListener('hashchange', function () { cur = location.hash || '#/'; route(); });
