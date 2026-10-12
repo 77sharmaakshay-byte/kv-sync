@@ -19,8 +19,10 @@ from transformers import (AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfi
                           TrainingArguments)
 
 BASE = "Qwen/Qwen2.5-7B-Instruct"
-DATA = next(os.path.join(r, f) for r, _, fs in os.walk("/kaggle/input") for f in fs if f == "train.jsonl.gz")
-DATA_DIR = os.path.dirname(DATA)
+# Kaggle .gz ko kabhi khol deta hai (train.jsonl), kabhi waise hi rakhta hai; dono chalein
+FILES = {f: os.path.join(r, f) for r, _, fs in os.walk("/kaggle/input") for f in fs}
+if not any(k.startswith("train.jsonl") for k in FILES):
+    raise SystemExit("train.jsonl nahi mila. /kaggle/input mein: " + ", ".join(sorted(FILES)[:50]))
 OUT = "/kaggle/working"
 N_TRAIN = int(os.environ.get("NYAY_N_TRAIN", "2000"))  # T4 par session ki seema mein rehne ke liye
 N_EVAL = int(os.environ.get("NYAY_N_EVAL", "25"))
@@ -36,7 +38,9 @@ print("GPU:", [torch.cuda.get_device_name(i) for i in range(torch.cuda.device_co
 
 
 def load(name, n):
-    with gzip.open(os.path.join(DATA_DIR, name), "rt", encoding="utf-8") as f:
+    path = FILES.get(name) or FILES[name.replace(".gz", "")]
+    opener = gzip.open if path.endswith(".gz") else open
+    with opener(path, "rt", encoding="utf-8") as f:
         rows = [json.loads(line) for line in f]
     random.Random(7).shuffle(rows)
     return rows[:n]
