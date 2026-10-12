@@ -27,7 +27,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: court-data
+  group: daily-court   # Kaggle database update (ghanta bhar) ke peeche na ruke
   cancel-in-progress: false
 
 jobs:
@@ -134,7 +134,7 @@ jobs:
           git add -A
           if git diff --cached --quiet; then echo "Kuch naya nahi"; exit 0; fi
           git commit -q -m "court data ${{ steps.todo.outputs.date }}"
-          git push -q origin data
+          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }  # doosre workflow ne beech mein push kiya ho
 
       - name: App site update
         if: always()

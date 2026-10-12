@@ -135,4 +135,4 @@ jobs:
           cd databranch
           git add state
           git diff --cached --quiet || git commit -qm "Kaggle database update $(TZ=Asia/Kolkata date +%d-%m-%Y)"
-          git push -q origin data
+          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }  # doosre workflow ne beech mein push kiya ho

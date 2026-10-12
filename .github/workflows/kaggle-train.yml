@@ -142,7 +142,7 @@ jobs:
           cd databranch
           git add models
           git diff --cached --quiet || git commit -qm "nyay model: $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
-          git push -q origin data
+          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }  # doosre workflow ne beech mein push kiya ho
       - name: Round fail
         if: steps.step.outputs.fail == '1'
         run: |
