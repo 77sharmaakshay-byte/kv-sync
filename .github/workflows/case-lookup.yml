@@ -20,7 +20,7 @@ concurrency:
 jobs:
   lookup:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 170
     env:
       PYTHONUNBUFFERED: '1'
       GH_TOKEN: ${{ github.token }}
