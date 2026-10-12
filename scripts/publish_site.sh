@@ -7,7 +7,7 @@ DATA="${1:?data branch checkout ka path do}"
 cd "$(dirname "$0")/.."
 OUT="sitebranch"
 if git ls-remote --exit-code --heads origin site >/dev/null 2>&1; then
-  git fetch -q --depth 1 origin site:site
+  git fetch -q --depth 1 origin +site:site
   git worktree add -q "$OUT" site
 else
   git worktree add -q --orphan -b site "$OUT"
