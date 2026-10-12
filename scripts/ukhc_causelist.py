@@ -6,6 +6,7 @@
                  tay karta hai ki 8/10 baje dobara koshish karni hai.
 - uk-find      : rakhi hui cause list mein naam / case number dhundho (enrolment number nahi chahiye).
 """
+import hashlib
 import json
 import re
 from pathlib import Path
@@ -34,7 +35,7 @@ async def uk_causelist(out, args):
     if index_path.exists() and not args.force:
         print(f"{day} ki cause list pehle se hai: {index_path}")
         return 0
-    entries, bad = [], 0
+    entries, bad, seen = [], 0, set()
     async with HCServicesClient() as client:
         for civil in (True, False):
             kind = "civil" if civil else "criminal"
@@ -53,6 +54,10 @@ async def uk_causelist(out, args):
                     bad += 1
                     print(f"  [error] {item.bench}: {err}")
                     continue
+                digest = hashlib.sha256(pdf).hexdigest()
+                if digest in seen:  # court civil aur criminal mein aksar wahi PDF deta hai
+                    continue
+                seen.add(digest)
                 folder.mkdir(parents=True, exist_ok=True)
                 (folder / f"{name}.pdf").write_bytes(pdf)
                 pages = _pdf_text(pdf)
