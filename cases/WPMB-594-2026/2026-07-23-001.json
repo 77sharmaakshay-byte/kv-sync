@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/594/2026:2026-07-23-001",
+ "title": "AMT BUILDERS PVT LTD versus STATE OF UTTARAKHAND",
+ "petitioner": "AMT BUILDERS PVT LTD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/594/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-07-23",
+ "cnr": "UKHC010128202026",
+ "doc_kind": "order",
+ "order_type": "WPMB/594/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtL3M4oGvd2P5jLneAuoTFWZR5Iu%2F2BB66N9GIh7%2FUi0&caseno=WPMB/594/2026&cCode=1&cino=UKHC010128202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c56d09b24973510590c714e1d983cab8e2d6adabe7a4b82eb4f1441cb191893f",
+ "fetched_at": "2026-10-12T10:26:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

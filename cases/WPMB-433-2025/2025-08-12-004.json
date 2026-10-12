@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/433/2025:2025-08-12-004",
+ "title": "A M T BUILDERS PVT LTD versus STATE OF UTTARAKHAND",
+ "petitioner": "A M T BUILDERS PVT LTD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/433/2025",
+ "case_type": "WPMB",
+ "decision_date": "2025-08-12",
+ "cnr": "UKHC010094772025",
+ "doc_kind": "order",
+ "order_type": "WPMB/433/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5kSTAzJ3%2BUk2xSFmPQbAHlqzy6A3Xkdp2c8xjpQC9us&caseno=WPMB/433/2025&cCode=1&cino=UKHC010094772025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "15463a1e5787696681f007a0d9a280106c86e165fd9919373d01a764c8c1eff0",
+ "fetched_at": "2026-10-12T10:26:09+00:00",
+ "fetched_by": "fetch_live.py"
+}
