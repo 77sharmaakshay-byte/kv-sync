@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/683/2026:2026-09-21-001",
+ "title": "RAJNI DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJNI DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/683/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010043222026",
+ "doc_kind": "order",
+ "order_type": "WPMS/683/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpmnrfhYYrawTcThu9QKDCXL6GrK8%2BSU670%2FPrIT9fzp&caseno=WPMS/683/2026&cCode=1&cino=UKHC010043222026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "31e116c5bafe596fa22e9f7ebb749b04ae814362f38c49ffcc0269d2af46840e",
+ "fetched_at": "2026-10-12T20:38:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

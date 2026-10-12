@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2422/2025:2026-04-22-004",
+ "title": "SAWAN versus I M S UNISON UNIVERSITY",
+ "petitioner": "SAWAN",
+ "respondent": "I M S UNISON UNIVERSITY",
+ "case_no": "WPMS/2422/2025",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-22",
+ "cnr": "UKHC010126032025",
+ "doc_kind": "order",
+ "order_type": "WPMS/2422/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwQx0oTkrv3DzVxq4vffhKWrn5zpDLxzbu5iFRPHmW0U&caseno=WPMS/2422/2025&cCode=1&cino=UKHC010126032025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7aee83fe3c5b9c37eb70f90cd5192d06b54a72914fc33ef10c07beca057f649e",
+ "fetched_at": "2026-10-12T20:38:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

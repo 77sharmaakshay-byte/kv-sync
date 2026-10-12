@@ -1,0 +1,111 @@
+{
+ "cnr_number": "UKHC010173252026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /9022/2026",
+ "filing_date": "2026-09-28",
+ "registration_number": "WPMS /3045/2026",
+ "registration_date": "2026-09-28",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-13",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "",
+ "district": "",
+ "petitioners": [
+  {
+   "name": "PRIME INSTITUTE OF HEALTH SCIENCES 350",
+   "advocate": "VIKAS PANDE,AMIT KAPRI,AMIT KAPRI, ,AMIT KAPRI"
+  },
+  {
+   "name": "TARA DATT JOSHI",
+   "advocate": "K S RAUTELA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  },
+  {
+   "name": "DIRECTOR OF MEDICAL EDUCATION",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "HEMWATI NANDAN BAHUGUNA GARHWAL UNIVERSITY",
+   "advocate": "SHAILENDRA NAURIYAL"
+  },
+  {
+   "name": "SECRETARY",
+   "advocate": "TARUN PANDE"
+  },
+  {
+   "name": "REGISTRAR",
+   "advocate": "ATUL BAHUGUNA"
+  },
+  {
+   "name": "SECRETARY",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-29",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-13",
+   "business_date": "2026-10-12",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-12",
+   "business_date": "2026-10-05",
+   "purpose": "FRESH CASES FOR ADMISSION -260",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-29",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-10-05",
+   "order_type": "WPMS/3045/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoJ9No1oj5wk1UXqFpm25zKZjdIonkm6JZrS9VgnLo8y&caseno=WPMS/3045/2026&cCode=1&cino=UKHC010173252026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-12",
+   "order_type": "WPMS/3045/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoJ9No1oj5wk1UXqFpm25zI0zqXSINwamgwNjrI80jdA&caseno=WPMS/3045/2026&cCode=1&cino=UKHC010173252026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

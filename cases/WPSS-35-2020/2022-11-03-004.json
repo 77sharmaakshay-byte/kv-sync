@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/35/2020:2022-11-03-004",
+ "title": "PREM BAHADUR versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM BAHADUR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/35/2020",
+ "case_type": "WPSS",
+ "decision_date": "2022-11-03",
+ "cnr": "UKHC010003552020",
+ "doc_kind": "order",
+ "order_type": "WPSS/35/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNCM5xn4Qm1FVIFia%2BHVizvwmQ%2FITt3dOfLYOUlb7kPR&caseno=WPSS/35/2020&cCode=1&cino=UKHC010003552020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e3420b3e6833e1a8b077728a20825ed90d20461a8e18076ce7ca0d1777b78097",
+ "fetched_at": "2026-10-12T20:15:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

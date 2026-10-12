@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1837/2022:2022-12-05-002",
+ "title": "SONI DEVI versus STATE BANK OF INDIA",
+ "petitioner": "SONI DEVI",
+ "respondent": "STATE BANK OF INDIA",
+ "case_no": "WPSS/1837/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-12-05",
+ "cnr": "UKHC010138992022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1837/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT063sqHccml4YzPuFAv8wRNb717OoKOqtsojtY5ysj5E2&caseno=WPSS/1837/2022&cCode=1&cino=UKHC010138992022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "15b626b0b9e1ee34bfcd79d260c72b0d23e42351b7136d2ef2e6dbbacffdcb6a",
+ "fetched_at": "2026-10-12T20:17:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1837/2022:2024-03-13-004",
+ "title": "SONI DEVI versus STATE BANK OF INDIA",
+ "petitioner": "SONI DEVI",
+ "respondent": "STATE BANK OF INDIA",
+ "case_no": "WPSS/1837/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-03-13",
+ "cnr": "UKHC010138992022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1837/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT063sqHccml4YzPuFAv8wRNYQ003Q84z3Mqo1713A5sZF&caseno=WPSS/1837/2022&cCode=1&cino=UKHC010138992022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e6c0be2c23a3eb7cd39569b7fb8d443ec2b278a4adf40f60dae692c40cd65772",
+ "fetched_at": "2026-10-12T20:17:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

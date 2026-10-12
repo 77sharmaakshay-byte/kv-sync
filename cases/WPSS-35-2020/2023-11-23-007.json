@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/35/2020:2023-11-23-007",
+ "title": "PREM BAHADUR versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM BAHADUR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/35/2020",
+ "case_type": "WPSS",
+ "decision_date": "2023-11-23",
+ "cnr": "UKHC010003552020",
+ "doc_kind": "order",
+ "order_type": "WPSS/35/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNCM5xn4Qm1FVIFia%2BHViztK6qjPB2wThqZQlwduT23G&caseno=WPSS/35/2020&cCode=1&cino=UKHC010003552020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6c5c8b46210ff253f12e32c1075fe459df1241df1d558e6df3969ba3205d405f",
+ "fetched_at": "2026-10-12T20:15:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

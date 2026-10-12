@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1092/2021:2021-06-11-001",
+ "title": "GULAM JILANI versus COMPETENT AUTHORITY GAIL INDIA LIMITED",
+ "petitioner": "GULAM JILANI",
+ "respondent": "COMPETENT AUTHORITY GAIL INDIA LIMITED",
+ "case_no": "WPMS/1092/2021",
+ "case_type": "WPMS",
+ "decision_date": "2021-06-11",
+ "cnr": "UKHC010063272021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1092/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkFiJFcXSbuizaCrRVbzN4Q6SHOUlUN8xNBNoduh8Tt3K&caseno=WPMS/1092/2021&cCode=1&cino=UKHC010063272021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "96f1105391f143537a1bc28243053446d0fedf9318726fa0e5cab6e361ffcad8",
+ "fetched_at": "2026-10-12T20:30:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

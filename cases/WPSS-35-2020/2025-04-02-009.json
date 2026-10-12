@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/35/2020:2025-04-02-009",
+ "title": "PREM BAHADUR versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM BAHADUR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/35/2020",
+ "case_type": "WPSS",
+ "decision_date": "2025-04-02",
+ "cnr": "UKHC010003552020",
+ "doc_kind": "order",
+ "order_type": "WPSS/35/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNCM5xn4Qm1FVIFia%2BHVizsOTzXD7caM09nWQW4C2r7g&caseno=WPSS/35/2020&cCode=1&cino=UKHC010003552020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "860dc0132702d12b714fddad959a51c650e32ec9d2900b81787301d87c5859fb",
+ "fetched_at": "2026-10-12T20:15:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

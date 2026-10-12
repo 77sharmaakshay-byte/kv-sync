@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/312/2026:2026-02-12-001",
+ "title": "UVES RAJA versus STATE OF UTTARAKHAND",
+ "petitioner": "UVES RAJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/312/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-12",
+ "cnr": "UKHC010019682026",
+ "doc_kind": "order",
+ "order_type": "WPMS/312/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjQl0gqTW8Hc%2BCgpMRcibNlobIPfgFQ3dF5rmXsdw4MP&caseno=WPMS/312/2026&cCode=1&cino=UKHC010019682026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "de0d0a735ae68a3e825c5c38b8c4397f25af976f997ab95309fcc3b0d08ae9c7",
+ "fetched_at": "2026-10-12T20:33:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

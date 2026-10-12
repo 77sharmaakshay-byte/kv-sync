@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1362/2019:2025-04-28-020",
+ "title": "CHATAR DUTT JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "CHATAR DUTT JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1362/2019",
+ "case_type": "WPMS",
+ "decision_date": "2025-04-28",
+ "cnr": "UKHC010071262019",
+ "doc_kind": "order",
+ "order_type": "WPMS/1362/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFzeyjSf9sUnj6L4YtWjMIGNpj14MwCbok2PY36s0i8Al&caseno=WPMS/1362/2019&cCode=1&cino=UKHC010071262019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "795488d1f3637daa1eac2104efb80293bd03811595830daae6efb99e0234feed",
+ "fetched_at": "2026-10-12T20:40:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

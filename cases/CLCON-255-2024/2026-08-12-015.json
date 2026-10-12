@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/255/2024:2026-08-12-015",
+ "title": "VINOD KUMAR versus RANJEET SINHA",
+ "petitioner": "VINOD KUMAR",
+ "respondent": "RANJEET SINHA",
+ "case_no": "CLCON/255/2024",
+ "case_type": "CLCON",
+ "decision_date": "2026-08-12",
+ "cnr": "UKHC010126632024",
+ "doc_kind": "order",
+ "order_type": "IA/7/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcHDLRvwShmYmDpHlCUbYm%2BlwNQVcFAtlS0oVuwlYVuzg&caseno=CLCON/255/2024&cCode=1&cino=UKHC010126632024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0297158903aefd7a4250220eedef7835212a7474cf4924ddbed475005ebe4e11",
+ "fetched_at": "2026-10-12T20:41:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

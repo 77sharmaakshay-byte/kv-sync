@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/845/2023:2026-09-30-013",
+ "title": "HIMANSHU TAMTA versus STATE OF UTTARAKHAND",
+ "petitioner": "HIMANSHU TAMTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/845/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010089552023",
+ "doc_kind": "order",
+ "order_type": "WPSS/845/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY0E3%2BncY6FOHO2zK4OZ9DUtn8cIDlhzcYpOZyBrV2gCR&caseno=WPSS/845/2023&cCode=1&cino=UKHC010089552023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a773cd266468b4a6db385ccb22a328ddb72fd496814499755efe68afc7ec9fe5",
+ "fetched_at": "2026-10-12T20:17:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

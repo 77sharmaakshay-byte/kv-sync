@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/250/2026:2026-08-25-003",
+ "title": "KAJAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KAJAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/250/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-08-25",
+ "cnr": "UKHC010110572026",
+ "doc_kind": "order",
+ "order_type": "ABA/250/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvFHHbdLuIXq%2F9J3YIoSMdH20p13XZHmITwVzesCbO8%2F&caseno=ABA/250/2026&cCode=1&cino=UKHC010110572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ad84dbf943f41ffa1af42ae14923c74d67335805e4565937ba2a5847da0255c0",
+ "fetched_at": "2026-10-12T20:31:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

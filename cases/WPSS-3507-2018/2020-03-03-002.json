@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/3507/2018:2020-03-03-002",
+ "title": "SANJAY KUMAR versus UNION OF INDIA",
+ "petitioner": "SANJAY KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/3507/2018",
+ "case_type": "WPSS",
+ "decision_date": "2020-03-03",
+ "cnr": "UKHC010161842018",
+ "doc_kind": "order",
+ "order_type": "WPSS/3507/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL0bwAppGhY7I2vLkkcbiA%2BNxeIampoKHUIP0kybIt45y&caseno=WPSS/3507/2018&cCode=1&cino=UKHC010161842018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc3792b8dbd6a83103587b8a2d72fa1b0e56de169833eaa152022dda2f336594",
+ "fetched_at": "2026-10-12T20:14:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

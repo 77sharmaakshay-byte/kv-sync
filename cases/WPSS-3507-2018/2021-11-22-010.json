@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/3507/2018:2021-11-22-010",
+ "title": "SANJAY KUMAR versus UNION OF INDIA",
+ "petitioner": "SANJAY KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/3507/2018",
+ "case_type": "WPSS",
+ "decision_date": "2021-11-22",
+ "cnr": "UKHC010161842018",
+ "doc_kind": "order",
+ "order_type": "WPSS/3507/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL0bwAppGhY7I2vLkkcbiA%2BMfTgIVJPnKqWbTGaOFwGLA&caseno=WPSS/3507/2018&cCode=1&cino=UKHC010161842018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a9da663cb928a4c999ca4d45bb528fa3054f3484cf2caa7dd6650d2f9f63b0cb",
+ "fetched_at": "2026-10-12T20:14:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

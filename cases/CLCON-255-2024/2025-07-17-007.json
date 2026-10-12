@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/255/2024:2025-07-17-007",
+ "title": "VINOD KUMAR versus RANJEET SINHA",
+ "petitioner": "VINOD KUMAR",
+ "respondent": "RANJEET SINHA",
+ "case_no": "CLCON/255/2024",
+ "case_type": "CLCON",
+ "decision_date": "2025-07-17",
+ "cnr": "UKHC010126632024",
+ "doc_kind": "order",
+ "order_type": "CLCON/255/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcHDLRvwShmYmDpHlCUbYm%2BnYGFSrOZUs%2FuwemLIOu%2Bbn&caseno=CLCON/255/2024&cCode=1&cino=UKHC010126632024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9aa4cdf1fb0661925f132b1e3048f900214c71738cca18408f81562cd55797b6",
+ "fetched_at": "2026-10-12T20:41:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

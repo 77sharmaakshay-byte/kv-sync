@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3074/2026:2026-10-06-001",
+ "title": "ABHAY SHARMA versus UNIQUE IDENTIFICATION AUTHORITY OF INDIA",
+ "petitioner": "ABHAY SHARMA",
+ "respondent": "UNIQUE IDENTIFICATION AUTHORITY OF INDIA",
+ "case_no": "WPMS/3074/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-06",
+ "cnr": "UKHC010175972026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3074/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmQtsbkBNZJHpiuArtgx9T0b0AFYnNbPJoqz40Qp0sHC&caseno=WPMS/3074/2026&cCode=1&cino=UKHC010175972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "75487d1b04a94e923ce1ab0bb1b2198f842fc73e2a5b34ce556c30dd96aa4cb0",
+ "fetched_at": "2026-10-12T20:27:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

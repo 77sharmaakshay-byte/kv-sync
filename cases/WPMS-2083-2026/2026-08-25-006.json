@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2083/2026:2026-08-25-006",
+ "title": "HUSSAIN versus STATE OF UTTARAKHAND",
+ "petitioner": "HUSSAIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2083/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-25",
+ "cnr": "UKHC010119712026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2083/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsQ04trnSKPnfj6sOVyOcMXgCKW8MNzpsJIDzjj8VDKu&caseno=WPMS/2083/2026&cCode=1&cino=UKHC010119712026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2f62b9c5b03bf44e0fa206d8f157666251af60e6b34bac96af38b88e7200ba95",
+ "fetched_at": "2026-10-12T20:34:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,99 @@
+{
+ "cnr_number": "UKHC010169322026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /8799/2026",
+ "filing_date": "2026-09-22",
+ "registration_number": "WPMS /2943/2026",
+ "registration_date": "2026-09-22",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-13",
+ "decision_date": null,
+ "case_stage": "AFTER FRESH MATTERS -128",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "SHIVANK TOMER",
+   "advocate": "SUBHASH JOSHI,SIDDHARTH BHATIA,SIDDHARTH BHATIA, ,SIDDHARTH BHATIA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "UTTARAKHAND STATE COOPERATIVE",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "MANAGING DIRECTOR",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "DISTRICT MANAGER",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "BHUPESH MEHANDIRATTA",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-25",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-10-13",
+   "business_date": "2026-10-06",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-06",
+   "business_date": "2026-09-29",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-29",
+   "business_date": "2026-09-25",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-25",
+   "order_type": "WPMS/2943/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpiI9kV%2FKAz4M9BJdGjhHBL5O%2B68w85bzElkF2K5IQKp&caseno=WPMS/2943/2026&cCode=1&cino=UKHC010169322026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-06",
+   "order_type": "WPMS/2943/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpiI9kV%2FKAz4M9BJdGjhHBJz0fN5UA6fk5HYzltzseN%2B&caseno=WPMS/2943/2026&cCode=1&cino=UKHC010169322026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

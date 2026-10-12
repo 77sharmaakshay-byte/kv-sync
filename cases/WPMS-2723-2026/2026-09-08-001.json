@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2723/2026:2026-09-08-001",
+ "title": "PANKAJ KUMAR versus DISTRICT MAGISTRATE U S NAGAR",
+ "petitioner": "PANKAJ KUMAR",
+ "respondent": "DISTRICT MAGISTRATE U S NAGAR",
+ "case_no": "WPMS/2723/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010158092026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2723/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg%2BC532jK46dqatf5YYEfsCGpfKkLbiVGd6FDgjrrDOH&caseno=WPMS/2723/2026&cCode=1&cino=UKHC010158092026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1042d85921a4bd4421f74178dc1dfdb693ee67811cafa4d81f8fae0279efbd97",
+ "fetched_at": "2026-10-12T20:35:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

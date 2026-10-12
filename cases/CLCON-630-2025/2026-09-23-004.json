@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/630/2025:2026-09-23-004",
+ "title": "SURENDRA SINGH versus SONIKA COMMISSIONER",
+ "petitioner": "SURENDRA SINGH",
+ "respondent": "SONIKA COMMISSIONER",
+ "case_no": "CLCON/630/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-23",
+ "cnr": "UKHC010194312025",
+ "doc_kind": "order",
+ "order_type": "CLCON/630/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5I%2B36rL0PRr9eD7Z5nHjfQX2e2FhRrcOvCeop5e%2BW8k&caseno=CLCON/630/2025&cCode=1&cino=UKHC010194312025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "06f212d03d55e160a988d303c29af9c93a54fdf521c47eb943b1e278eb8092c8",
+ "fetched_at": "2026-10-12T20:36:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

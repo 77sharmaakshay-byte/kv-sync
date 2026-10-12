@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/35/2020:2021-03-19-002",
+ "title": "PREM BAHADUR versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM BAHADUR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/35/2020",
+ "case_type": "WPSS",
+ "decision_date": "2021-03-19",
+ "cnr": "UKHC010003552020",
+ "doc_kind": "order",
+ "order_type": "WPSS/35/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNCM5xn4Qm1FVIFia%2BHViztlKpT4s7dxrvslEUbOUpN9&caseno=WPSS/35/2020&cCode=1&cino=UKHC010003552020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "242a2e609b6f656b36acd79ad486b4a721749cf6db33dfc7201eca7e17e80979",
+ "fetched_at": "2026-10-12T20:15:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

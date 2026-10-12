@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/34/2026:2026-02-18-001",
+ "title": "MEENU versus SONIKA COMMISSIONER",
+ "petitioner": "MEENU",
+ "respondent": "SONIKA COMMISSIONER",
+ "case_no": "CLCON/34/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-02-18",
+ "cnr": "UKHC010023712026",
+ "doc_kind": "order",
+ "order_type": "CLCON/34/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQttkL2iT4Yn5LOR7kPSC3zSCtSJ9GGFI48qmP7Bd8lU7&caseno=CLCON/34/2026&cCode=1&cino=UKHC010023712026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5cf9a3e675f389dcf92bb740f0b1c2dfd55f74d88cc0ba5e2900271505924823",
+ "fetched_at": "2026-10-12T20:37:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

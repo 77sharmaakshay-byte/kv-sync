@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/340/2026:2026-08-20-002",
+ "title": "PRAVINA KHATRI versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAVINA KHATRI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/340/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010146252026",
+ "doc_kind": "order",
+ "order_type": "ABA/340/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQon5NFqrxdmBCzO9i0Kd8e1oVAq9wvJQBmqkdUKPOkIJ&caseno=ABA/340/2026&cCode=1&cino=UKHC010146252026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bc6b693ee714168188bba848dd93d565b4c02500eeb8c27ba1a189e39560cf97",
+ "fetched_at": "2026-10-12T20:32:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

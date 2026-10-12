@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/307/2026:2026-05-29-001",
+ "title": "RAMESH KUMAR versus AKASH JOSHI",
+ "petitioner": "RAMESH KUMAR",
+ "respondent": "AKASH JOSHI",
+ "case_no": "CLCON/307/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-05-29",
+ "cnr": "UKHC010090642026",
+ "doc_kind": "order",
+ "order_type": "CLCON/307/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsXsf0tOqN9A8DeG3ryzkVp7iCYV9ZJ5ppett82hqe1Y&caseno=CLCON/307/2026&cCode=1&cino=UKHC010090642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0698cd8f35ece6c4aec9f0a1a5ae67d74441b38fde22f65a09d00d81cee701bd",
+ "fetched_at": "2026-10-12T20:38:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

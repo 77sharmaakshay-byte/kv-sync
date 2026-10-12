@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/255/2024:2026-03-13-012",
+ "title": "VINOD KUMAR versus RANJEET SINHA",
+ "petitioner": "VINOD KUMAR",
+ "respondent": "RANJEET SINHA",
+ "case_no": "CLCON/255/2024",
+ "case_type": "CLCON",
+ "decision_date": "2026-03-13",
+ "cnr": "UKHC010126632024",
+ "doc_kind": "order",
+ "order_type": "CLCON/255/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcHDLRvwShmYmDpHlCUbYm%2BlkxWmK3tgSNhTUrTVxjumo&caseno=CLCON/255/2024&cCode=1&cino=UKHC010126632024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "012e4d1d9de76d4c5628f2d60102516b2398839419575d1e34a117864b38ee21",
+ "fetched_at": "2026-10-12T20:41:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

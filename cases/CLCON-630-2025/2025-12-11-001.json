@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/630/2025:2025-12-11-001",
+ "title": "SURENDRA SINGH versus SONIKA COMMISSIONER",
+ "petitioner": "SURENDRA SINGH",
+ "respondent": "SONIKA COMMISSIONER",
+ "case_no": "CLCON/630/2025",
+ "case_type": "CLCON",
+ "decision_date": "2025-12-11",
+ "cnr": "UKHC010194312025",
+ "doc_kind": "order",
+ "order_type": "CLCON/630/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5I%2B36rL0PRr9eD7Z5nHjfRSWNFi4OU3mVTcFtscccAJ&caseno=CLCON/630/2025&cCode=1&cino=UKHC010194312025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a47f277b423acfd45b56647dc15d2f36eb3217fdcb15f5760f0ede1e8e6b716c",
+ "fetched_at": "2026-10-12T20:36:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

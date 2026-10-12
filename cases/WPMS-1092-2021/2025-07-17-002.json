@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1092/2021:2025-07-17-002",
+ "title": "GULAM JILANI versus COMPETENT AUTHORITY GAIL INDIA LIMITED",
+ "petitioner": "GULAM JILANI",
+ "respondent": "COMPETENT AUTHORITY GAIL INDIA LIMITED",
+ "case_no": "WPMS/1092/2021",
+ "case_type": "WPMS",
+ "decision_date": "2025-07-17",
+ "cnr": "UKHC010063272021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1092/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkFiJFcXSbuizaCrRVbzN4Q74GVQQF%2BcAaPRV3yvKUqwd&caseno=WPMS/1092/2021&cCode=1&cino=UKHC010063272021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b2d98fb8c012f952aace854446e361f966c7255ff70b888627aeeec8261994a4",
+ "fetched_at": "2026-10-12T20:30:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/3507/2018:2026-09-11-018",
+ "title": "SANJAY KUMAR versus UNION OF INDIA",
+ "petitioner": "SANJAY KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/3507/2018",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010161842018",
+ "doc_kind": "order",
+ "order_type": "WPSS/3507/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL0bwAppGhY7I2vLkkcbiA%2BO%2Bek6O9N3vyLjj3ERTVjnw&caseno=WPSS/3507/2018&cCode=1&cino=UKHC010161842018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "07af754fef2b258d45d76fcd56a787c484d28518abf49703a1c0433eea31b3aa",
+ "fetched_at": "2026-10-12T20:14:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1030/2026:2026-09-09-001",
+ "title": "SAFIKA KHATUN versus STATE OF UTTARAKHAND",
+ "petitioner": "SAFIKA KHATUN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1030/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010063132026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1030/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk4OJNMTClu1DhorFJ%2F%2BsHphGalGmncIlPWokk38vwAz&caseno=WPMS/1030/2026&cCode=1&cino=UKHC010063132026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd9b2f6d11cd1e78194cdc5cafe05f791dec11a5462352053151dc450d734a00",
+ "fetched_at": "2026-10-12T20:19:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

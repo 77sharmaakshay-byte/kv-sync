@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/845/2023:2025-01-07-006",
+ "title": "HIMANSHU TAMTA versus STATE OF UTTARAKHAND",
+ "petitioner": "HIMANSHU TAMTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/845/2023",
+ "case_type": "WPSS",
+ "decision_date": "2025-01-07",
+ "cnr": "UKHC010089552023",
+ "doc_kind": "order",
+ "order_type": "WPSS/845/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY0E3%2BncY6FOHO2zK4OZ9DUuE3A%2FireGEYR8a382QhIDG&caseno=WPSS/845/2023&cCode=1&cino=UKHC010089552023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ec82f879cddfa673d845a0fabb2ab17460cde7d21481208ad1418d6aec3512a",
+ "fetched_at": "2026-10-12T20:17:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

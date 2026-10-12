@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1405/2026:2026-07-22-001",
+ "title": "MOHAMMAD TALIB versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHAMMAD TALIB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1405/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-07-22",
+ "cnr": "UKHC010127172026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1405/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsvGljUoKPW7zDc4Vftaj0QLS17HPKSJN2s%2Bwb97M%2F1O&caseno=WPCRL/1405/2026&cCode=1&cino=UKHC010127172026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5dcd34362dcd02fcab2602174451d5ad2d7a9d5f23517d0d39169a16d51d5861",
+ "fetched_at": "2026-10-12T20:39:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

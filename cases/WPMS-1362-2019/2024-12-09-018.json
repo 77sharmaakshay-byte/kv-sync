@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1362/2019:2024-12-09-018",
+ "title": "CHATAR DUTT JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "CHATAR DUTT JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1362/2019",
+ "case_type": "WPMS",
+ "decision_date": "2024-12-09",
+ "cnr": "UKHC010071262019",
+ "doc_kind": "order",
+ "order_type": "WPMS/1362/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFzeyjSf9sUnj6L4YtWjMIGMlNs8uLRUQa5KOWujmBhEu&caseno=WPMS/1362/2019&cCode=1&cino=UKHC010071262019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "418c78c87a49de67f65002b983d500f870b984d7c9fa3829ef3b3896e76d0666",
+ "fetched_at": "2026-10-12T20:40:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

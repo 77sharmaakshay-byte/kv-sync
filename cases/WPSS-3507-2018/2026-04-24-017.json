@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/3507/2018:2026-04-24-017",
+ "title": "SANJAY KUMAR versus UNION OF INDIA",
+ "petitioner": "SANJAY KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/3507/2018",
+ "case_type": "WPSS",
+ "decision_date": "2026-04-24",
+ "cnr": "UKHC010161842018",
+ "doc_kind": "order",
+ "order_type": "WPSS/3507/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL0bwAppGhY7I2vLkkcbiA%2BPoFmeRdzE3oiWmNPECj%2FJJ&caseno=WPSS/3507/2018&cCode=1&cino=UKHC010161842018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8cfa5ef6f077af45add7c55101d3744d9c12632c5e13a86f7dd819399207c228",
+ "fetched_at": "2026-10-12T20:14:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

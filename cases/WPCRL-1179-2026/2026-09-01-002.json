@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1179/2026:2026-09-01-002",
+ "title": "RAJEEV AHUJA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJEEV AHUJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1179/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010108992026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1179/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkoMcN539iUwxFWMLsg7uzV6hDB2hYo9ccqE7JyDfM1d&caseno=WPCRL/1179/2026&cCode=1&cino=UKHC010108992026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9ecc2885d625dfe0cb169ad3fbdf4fea7a20638bb1db1a897371c74515585013",
+ "fetched_at": "2026-10-12T20:31:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

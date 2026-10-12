@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2248/2024:2026-02-16-004",
+ "title": "STATE OF UTTARAKHAND versus SANTRAM",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "SANTRAM",
+ "case_no": "WPMS/2248/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010130362024",
+ "doc_kind": "order",
+ "order_type": "WPMS/2248/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS (AFTER FRESH) -30",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBkdwttco%2FmRv%2F9SLh0Rtx7v%2BjCdUNpM8erRmnvVB8OO&caseno=WPMS/2248/2024&cCode=1&cino=UKHC010130362024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d0b7cab9f497431a239d384d6b2cbb522b1e3fc6a604cd01599aab2f4fba67a0",
+ "fetched_at": "2026-10-12T20:30:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/628/2025:2026-05-05-002",
+ "title": "MOHAN SINGH versus DALIP JAWALKAR",
+ "petitioner": "MOHAN SINGH",
+ "respondent": "DALIP JAWALKAR",
+ "case_no": "CLCON/628/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-05-05",
+ "cnr": "UKHC010194232025",
+ "doc_kind": "order",
+ "order_type": "CLCON/628/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3c7dCLIyqxz4%2BxVeNUeifDmVJMz803%2F9UKqZD%2Fh55eJ&caseno=CLCON/628/2025&cCode=1&cino=UKHC010194232025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ee41226773b5e382e678a6495195fca8fe3c441349d67241c30d6f4a32a599ba",
+ "fetched_at": "2026-10-12T20:35:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

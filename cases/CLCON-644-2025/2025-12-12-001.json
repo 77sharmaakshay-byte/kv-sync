@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/644/2025:2025-12-12-001",
+ "title": "AMIT GUSAIN versus DILIP JAWALKAR",
+ "petitioner": "AMIT GUSAIN",
+ "respondent": "DILIP JAWALKAR",
+ "case_no": "CLCON/644/2025",
+ "case_type": "CLCON",
+ "decision_date": "2025-12-12",
+ "cnr": "UKHC010198242025",
+ "doc_kind": "order",
+ "order_type": "CLCON/644/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwbLrySQ3MvCF%2BQQW4j6%2BxvIJhrOrJ%2Brarr5T4zJkCvC&caseno=CLCON/644/2025&cCode=1&cino=UKHC010198242025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "19fbb7d03484619dc56d340e92cb34cf3125dc181204b2838784025adee33a81",
+ "fetched_at": "2026-10-12T20:36:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

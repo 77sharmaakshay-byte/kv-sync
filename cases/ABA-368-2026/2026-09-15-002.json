@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/368/2026:2026-09-15-002",
+ "title": "KASIM ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "KASIM ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/368/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010154882026",
+ "doc_kind": "order",
+ "order_type": "ABA/368/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsZajkWmJCr7xLIROT2UknR3m%2Bd7m0DmdVBM0Px1R2rW&caseno=ABA/368/2026&cCode=1&cino=UKHC010154882026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c407e1024f6674f8f0c18d04d31973b365ec39a7a56d46367252fee344abcd5b",
+ "fetched_at": "2026-10-12T20:32:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

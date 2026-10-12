@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/625/2025:2025-12-04-001",
+ "title": "PREM SING BISHT versus SONIKA COMMISSIONER STATE TAX DEPARTMENT",
+ "petitioner": "PREM SING BISHT",
+ "respondent": "SONIKA COMMISSIONER STATE TAX DEPARTMENT",
+ "case_no": "CLCON/625/2025",
+ "case_type": "CLCON",
+ "decision_date": "2025-12-04",
+ "cnr": "UKHC010192742025",
+ "doc_kind": "order",
+ "order_type": "CLCON/625/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmzeGx8q1unJKDrSTg7AgBBfcql8uUepLI4now9k7dkhj&caseno=CLCON/625/2025&cCode=1&cino=UKHC010192742025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0709f6dd45916628db352fb696b6af39b1af6ab3c3b25c7d6a94e3fcb4011195",
+ "fetched_at": "2026-10-12T20:36:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1229/2022:2023-04-17-007",
+ "title": "RAMAN KUMAR SHAH versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMAN KUMAR SHAH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1229/2022",
+ "case_type": "WPCRL",
+ "decision_date": "2023-04-17",
+ "cnr": "UKHC010087952022",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1229/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00YlxaOwqFj5c%2F4QyiGCMPeVvKgjaw5LIH5eaTBZjwDR&caseno=WPCRL/1229/2022&cCode=1&cino=UKHC010087952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ef3925931401029265511950841dc407ed1acab76503797b6cbd630310ed5c0b",
+ "fetched_at": "2026-10-12T20:40:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

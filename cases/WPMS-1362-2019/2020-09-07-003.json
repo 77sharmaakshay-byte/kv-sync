@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1362/2019:2020-09-07-003",
+ "title": "CHATAR DUTT JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "CHATAR DUTT JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1362/2019",
+ "case_type": "WPMS",
+ "decision_date": "2020-09-07",
+ "cnr": "UKHC010071262019",
+ "doc_kind": "order",
+ "order_type": "WPMS/1362/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFzeyjSf9sUnj6L4YtWjMIGPMEDgp%2FK4NANHvc7FIV08x&caseno=WPMS/1362/2019&cCode=1&cino=UKHC010071262019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bc085daef51432938df3f8f5ebf1ee17e55ac0d5102387a3f12a3add346cb12a",
+ "fetched_at": "2026-10-12T20:40:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

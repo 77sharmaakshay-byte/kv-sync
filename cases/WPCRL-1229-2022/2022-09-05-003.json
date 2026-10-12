@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1229/2022:2022-09-05-003",
+ "title": "RAMAN KUMAR SHAH versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMAN KUMAR SHAH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1229/2022",
+ "case_type": "WPCRL",
+ "decision_date": "2022-09-05",
+ "cnr": "UKHC010087952022",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1229/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00YlxaOwqFj5c%2F4QyiGCMPcsXsRq13TMO0O6d6A%2BYVKn&caseno=WPCRL/1229/2022&cCode=1&cino=UKHC010087952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4a493011c51b4ba5c1b59e50f7f48972065c7335c08be91f4bdf58139ac90c09",
+ "fetched_at": "2026-10-12T20:40:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

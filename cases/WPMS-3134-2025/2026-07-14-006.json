@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3134/2025:2026-07-14-006",
+ "title": "RAM BHARAT versus UNION OF INDIA",
+ "petitioner": "RAM BHARAT",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMS/3134/2025",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-14",
+ "cnr": "UKHC010178272025",
+ "doc_kind": "order",
+ "order_type": "WPMS/3134/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5YQrRlj7jjDwwaiXspA6d5l%2BACgrQgqsoO8HWIcJih0&caseno=WPMS/3134/2025&cCode=1&cino=UKHC010178272025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c84a79ba8075722fa244cf74bc292aee779632c93c1930d8b170ebb35970781c",
+ "fetched_at": "2026-10-12T20:38:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1740/2026:2026-07-08-001",
+ "title": "UDAY SINGH versus UNION OF INDIA",
+ "petitioner": "UDAY SINGH",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1740/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010116882026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1740/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk%2BZtRXyhsLCTUdnTgDYj5aziHE3Qth6oH7EJD%2BKvIV5&caseno=WPSS/1740/2026&cCode=1&cino=UKHC010116882026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d9b997a80ff8cf7c0e50bbbaa874fa7d666fcc172238687617b0a662e4bae848",
+ "fetched_at": "2026-10-12T20:12:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

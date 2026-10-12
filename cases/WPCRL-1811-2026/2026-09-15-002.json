@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1811/2026:2026-09-15-002",
+ "title": "NASIM versus STATE OF UTTARAKHAND",
+ "petitioner": "NASIM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1811/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010157952026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1811/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhfYxAfunLuJrMguJtZQ37GJWTqdb%2BWJE%2B6226BXXsAH&caseno=WPCRL/1811/2026&cCode=1&cino=UKHC010157952026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2e8400451d0250a3472d5337f305d6f4a008174c2f3fcea3698b3180589dcfb8",
+ "fetched_at": "2026-10-12T20:39:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,108 @@
+{
+ "cnr_number": "UKHC010176332026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /9174/2026",
+ "filing_date": "2026-10-01",
+ "registration_number": "WPMS /3076/2026",
+ "registration_date": "2026-10-01",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-13",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "KISAN UNION HARIDWAR",
+   "advocate": "SHUBHANG DOBHAL"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  },
+  {
+   "name": "DISTRICT MAGISTRATE",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "TEHSILDAR",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SUPERINTENDING ENGINEER",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "HARIDWAR ROORKEE DEVELOPMENT AUTHORITY",
+   "advocate": "LALIT MIGLANI"
+  },
+  {
+   "name": "SECRETARY",
+   "advocate": "LALIT MIGLANI"
+  },
+  {
+   "name": "KIRTI AGARWAL",
+   "advocate": ""
+  },
+  {
+   "name": "KM ADITI AGARWAL",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-06",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -260",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-13",
+   "business_date": "2026-10-12",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-12",
+   "business_date": "2026-10-06",
+   "purpose": "FRESH CASES FOR ADMISSION -260",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-10-06",
+   "order_type": "WPMS/3076/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoHdIkP7NYEGyMpI2YH0hXiXNAA6n4whHTUjGpmBdyZu&caseno=WPMS/3076/2026&cCode=1&cino=UKHC010176332026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-12",
+   "order_type": "WPMS/3076/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoHdIkP7NYEGyMpI2YH0hXibIi5zea%2BK94PiDS16wjQe&caseno=WPMS/3076/2026&cCode=1&cino=UKHC010176332026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

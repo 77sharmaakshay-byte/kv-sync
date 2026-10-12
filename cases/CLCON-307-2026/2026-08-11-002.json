@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/307/2026:2026-08-11-002",
+ "title": "RAMESH KUMAR versus AKASH JOSHI",
+ "petitioner": "RAMESH KUMAR",
+ "respondent": "AKASH JOSHI",
+ "case_no": "CLCON/307/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010090642026",
+ "doc_kind": "order",
+ "order_type": "CLCON/307/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsXsf0tOqN9A8DeG3ryzkVqnYGrvill%2Bk4XgLZ8MuyzX&caseno=CLCON/307/2026&cCode=1&cino=UKHC010090642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "847783a56e16204f3a6746abe59c66f82437f20f4b3b6b3e7cd90f6a7666341b",
+ "fetched_at": "2026-10-12T20:38:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

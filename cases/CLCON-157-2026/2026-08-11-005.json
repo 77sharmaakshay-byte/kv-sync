@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/157/2026:2026-08-11-005",
+ "title": "SANJEEV DEVNATH versus HARENDRA KUMAR MISHRA",
+ "petitioner": "SANJEEV DEVNATH",
+ "respondent": "HARENDRA KUMAR MISHRA",
+ "case_no": "CLCON/157/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010054882026",
+ "doc_kind": "order",
+ "order_type": "IA/1/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnBtsAtR9eGsJtxt4ugfpvBbE7Mf6Bz1iv819AOSD%2Bp%2F&caseno=CLCON/157/2026&cCode=1&cino=UKHC010054882026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "59336e0a5f22d272b2bb8111b50a259e97778a2098512f18c717b87cef996cdf",
+ "fetched_at": "2026-10-12T20:38:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

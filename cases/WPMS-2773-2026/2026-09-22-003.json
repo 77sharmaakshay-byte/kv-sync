@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2773/2026:2026-09-22-003",
+ "title": "SHANKAR KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SHANKAR KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2773/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010161892026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2773/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuc%2Fe%2B8Kp6nVWXqihf3nbMaiZyM1BRdiXlW3Mc12r%2B8s&caseno=WPMS/2773/2026&cCode=1&cino=UKHC010161892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ee7df539bdc1d1d327e0d4a77d9ed9c2cc6ab17dc39f7ed0923874ba60a869c1",
+ "fetched_at": "2026-10-12T20:26:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

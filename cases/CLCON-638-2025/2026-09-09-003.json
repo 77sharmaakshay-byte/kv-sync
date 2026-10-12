@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/638/2025:2026-09-09-003",
+ "title": "DR SHASHI KANT VERMA versus VIJAY KUMAR BANGA",
+ "petitioner": "DR SHASHI KANT VERMA",
+ "respondent": "VIJAY KUMAR BANGA",
+ "case_no": "CLCON/638/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010196612025",
+ "doc_kind": "order",
+ "order_type": "CLCON/638/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9S8ks4N7LpY6%2FBI%2BqhCc0EcLdMFJ4JIX7GY6JCfP4j1&caseno=CLCON/638/2025&cCode=1&cino=UKHC010196612025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "29e3fa2d6026c703b67554326e08b1eb99b9e90860a124163825a1fab59b5879",
+ "fetched_at": "2026-10-12T20:37:54+00:00",
+ "fetched_by": "fetch_live.py"
+}
