@@ -1,5 +1,5 @@
-// App ka dhaancha offline bhi khule; data (cause list, cases) pehle internet se, na mile to pichhli copy.
-const SHELL = 'ns-shell-v2';
+// Sab kuch pehle internet se (naya version turant mile); internet na ho to pichhli copy.
+const SHELL = 'ns-shell-v3';
 const DATA = 'ns-data-v1';
 const SHELL_FILES = ['./', 'index.html', 'app.css', 'app.js', 'manifest.webmanifest', 'icons/icon-192.png'];
 
@@ -15,13 +15,12 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET' || url.origin !== location.origin) return;
-  if (url.pathname.includes('/data/')) {
-    e.respondWith(fetch(e.request).then((res) => {
+  const store = url.pathname.includes('/data/') ? DATA : SHELL;
+  e.respondWith(fetch(e.request).then((res) => {
+    if (res.ok && !url.pathname.endsWith('.pdf')) {
       const copy = res.clone();
-      caches.open(DATA).then((c) => c.put(e.request, copy));
-      return res;
-    }).catch(() => caches.match(e.request)));
-    return;
-  }
-  e.respondWith(caches.match(e.request).then((hit) => hit || fetch(e.request)));
+      caches.open(store).then((c) => c.put(e.request, copy));
+    }
+    return res;
+  }).catch(() => caches.match(e.request)));
 });
