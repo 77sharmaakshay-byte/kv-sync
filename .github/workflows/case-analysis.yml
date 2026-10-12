@@ -1,0 +1,89 @@
+# Har case ka machine-vishleshan (scripts/auto_notes.py): case ke record se vishay (shreni > vishay > upvishay >
+# mudda) aur Kaggle wale database se milte-julte faisle (asli paragraph + court ka nateeja).
+# Har "Case lookup" ke baad apne aap; haath se bhi (force = pehle bane notes bhi dobara).
+# Haath ka note (app/notes/<case>.json) ho to app wahi dikhata hai; yeh sirf baaki cases ke liye.
+name: Case analysis
+
+on:
+  workflow_run:
+    workflows: ['Case lookup']
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Pehle bane auto notes bhi dobara banao'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: case-analysis
+  cancel-in-progress: false
+
+jobs:
+  notes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      PYTHONUNBUFFERED: '1'
+      DATASET: krishivlaw/sc-data-set
+    steps:
+      - name: Disk khaali karo (database ~9 GB)
+        run: sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install --quiet kaggle
+      - name: Kaggle token
+        env:
+          SECRET: ${{ secrets.KRISHIVLAW }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          s = (os.environ.get("SECRET") or "").strip().strip('"').strip("'")
+          try:
+              d = json.loads(s); env = {"KAGGLE_USERNAME": d["username"], "KAGGLE_KEY": d["key"]}
+          except (ValueError, KeyError, TypeError):
+              if not s:
+                  raise SystemExit("KRISHIVLAW secret khaali hai")
+              env = {"KAGGLE_KEY": s} if re.fullmatch(r"[0-9a-f]{32}", s) else {"KAGGLE_API_TOKEN": s}
+              env["KAGGLE_USERNAME"] = "krishivlaw"
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              for k, v in env.items():
+                  if k != "KAGGLE_USERNAME":
+                      print(f"::add-mask::{v}")
+                  f.write(f"{k}={v}\n")
+          PY
+      - name: Data branch
+        run: |
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin data:data
+          git worktree add databranch data
+      - name: Kaggle se database
+        run: |
+          W=$RUNNER_TEMP/db && mkdir -p $W && cd $W
+          kaggle datasets download "$DATASET" -f krishivlaw.db -p . || kaggle datasets download "$DATASET" -p .
+          for z in *.zip; do [ -f "$z" ] && unzip -q "$z" && rm "$z"; done
+          g=$(ls -S *.gz 2>/dev/null | head -1 || true)
+          [ -n "$g" ] && gunzip -c "$g" > krishivlaw.db.tmp && rm "$g" && mv krishivlaw.db.tmp krishivlaw.db
+          [ -f krishivlaw.db ] || { d=$(ls -S *.db 2>/dev/null | head -1 || true); [ -n "$d" ] && mv "$d" krishivlaw.db; }
+          test -f krishivlaw.db && ls -la
+          echo "DB=$W/krishivlaw.db" >> "$GITHUB_ENV"
+      - name: Auto notes
+        run: python scripts/auto_notes.py --db "$DB" --cases databranch/cases --out databranch/notes_auto ${{ inputs.force && '--force' || '' }}
+      - name: Data branch par save
+        id: save
+        run: |
+          cd databranch
+          git add notes_auto
+          if git diff --cached --quiet; then echo "Kuch naya nahi"; echo "changed=0" >> "$GITHUB_OUTPUT"; exit 0; fi
+          git commit -qm "auto notes $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
+          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }
+          echo "changed=1" >> "$GITHUB_OUTPUT"
+      - name: App site update
+        if: steps.save.outputs.changed == '1'
+        run: sh scripts/publish_site.sh databranch

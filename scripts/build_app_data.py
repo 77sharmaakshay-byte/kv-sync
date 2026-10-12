@@ -184,9 +184,12 @@ def build_cases(src, out):
                "coram": c.get("coram"), "bench_type": c.get("bench_type"),
                "petitioners": c.get("petitioners") or [], "respondents": c.get("respondents") or [],
                "acts": c.get("acts") or [], "history": c.get("history") or [], "orders": orders}
-        note = notes_dir / f"{folder.name}.json"
+        note = notes_dir / f"{folder.name}.json"           # haath ka (advocate ke liye taiyaar)
+        auto = src / "notes_auto" / f"{folder.name}.json"  # machine ka (scripts/auto_notes.py)
         if note.exists():
             doc["notes"] = json.loads(note.read_text(encoding="utf-8"))
+        elif auto.exists():
+            doc["notes"] = json.loads(auto.read_text(encoding="utf-8"))
         (out / "cases").mkdir(parents=True, exist_ok=True)
         (out / "cases" / f"{folder.name}.json").write_text(json.dumps(doc, ensure_ascii=False, separators=(",", ":")),
                                                          encoding="utf-8")

@@ -353,7 +353,7 @@
     var title = [pet.name, res.name].filter(Boolean).join(' v. ') + (c.respondents.length > 1 ? ' & Ors.' : '');
     var n = c.notes || {};
     var tabs = [['saar', 'Saar'], ['dates', 'Tareekhein'], ['orders', 'Orders · ' + c.orders.length]];
-    if (n.pros || n.cons) tabs.push(['analysis', 'Vishleshan']);
+    if (n.pros || n.cons || n.issues) tabs.push(['analysis', 'Vishleshan']);
     if (n.similar) tabs.push(['similar', 'Milte-julte']);
     var latest = (idx.dates || [])[0];
     var html = '<header class="hero"><a class="back" href="' + (role() === 'party' ? '#/' : '#/mine') + '">' + ICON_BACK + (role() === 'party' ? 'Mera case' : 'Mere cases') + '</a><div class="chips">' +
@@ -387,6 +387,15 @@
         return '<details class="order"' + (i === 0 ? ' open' : '') + '><summary><b>' + esc(dmy(o.date) || 'Order') + '</b><span class="muted">' + esc(o.judge || '') + '</span></summary><pre>' + esc(o.text) + '</pre></details>';
       }).join('') || '<div class="empty">Abhi koi order nahi aaya.</div>';
     } else if (tab === 'analysis') {
+      if (n.vishay) html += '<div class="card key"><span class="lbl brand">Case ka vishay' + (n.auto ? ' · machine' : '') + '</span><div class="chips">' +
+        [n.vishay.shreni, n.vishay.vishay, n.vishay.upvishay].map(function (x) { return '<span class="chip blue">' + esc(x) + '</span>'; }).join('') +
+        (n.vishay.mudde || []).map(function (x) { return '<span class="chip brand">' + esc(x) + '</span>'; }).join('') + '</div>' +
+        (n.vishay.aur && n.vishay.aur.length ? '<span class="muted">Ye bhi ho sakta hai: ' + esc(n.vishay.aur.join(', ')) + '</span>' : '') + '</div>';
+      if (n.issues && n.issues.length) html += '<div class="card"><span class="lbl">' + esc(n.issues_title || 'Aam mudde') + '</span>' +
+        n.issues.map(function (x) {
+          return '<div class="pt"><span class="mark ' + (x.is_case_mein ? 'good' : 'dark') + '">' + (x.is_case_mein ? '✓' : '·') + '</span><span>' + esc(x.mudda) +
+            ' <span class="muted">· ' + x.faisle + ' faisle' + (x.is_case_mein ? ' · is case ke orders mein bhi' : '') + '</span></span></div>';
+        }).join('') + (n.similar ? '<a class="go" href="#/case/' + esc(c.id) + '?t=similar">Milte-julte faisle dekho' + ICON_NEXT + '</a>' : '') + '</div>';
       html += pts(n.pros_title || 'Paksh mein', 'good', '+', n.pros) + pts(n.cons_title || 'Saamne wala kya keh sakta hai', 'bad', '–', n.cons) +
         (n.todo ? '<div class="card dark"><span class="lbl light">Court le jaana</span>' + n.todo.map(function (t) { return '<div class="pt"><span class="mark dark">✓</span><span>' + esc(t) + '</span></div>'; }).join('') + '</div>' : '') +
         '<p class="muted">' + esc(n.disclaimer || 'Sirf court ke orders aur database se. Advocate ka review zaroori. Koi jeetne ka % nahi.') + '</p>';
