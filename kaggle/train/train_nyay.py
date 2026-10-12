@@ -10,10 +10,9 @@ import subprocess
 import sys
 import time
 
-subprocess.run([sys.executable, "-m", "pip", "install", "-q", "peft==0.13.2", "bitsandbytes==0.44.1",
-                "rouge-score==0.1.2"], check=True)
+subprocess.run([sys.executable, "-m", "pip", "install", "-q", "-U", "peft", "bitsandbytes", "rouge-score"], check=True)
 
-import torch  # noqa: E402
+import torch  # noqa: E402,F811
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training  # noqa: E402
 from rouge_score import rouge_scorer  # noqa: E402
 from transformers import (AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, Trainer,  # noqa: E402
@@ -31,6 +30,9 @@ SYSTEM = ("Aap Indian Supreme Court ke faislon ke headnote likhne wale anubhavi 
           "'Held:' ke point, aur kaunse purane faisle relied on / distinguished hue. Sirf faisle mein likhi baat; "
           "apni taraf se koi citation ya tathya mat jodiye.")
 T0 = time.time()
+if not torch.cuda.is_available():
+    raise SystemExit("GPU nahi mila: Kaggle account phone se verify karo aur notebook mein GPU on karo")
+print("GPU:", [torch.cuda.get_device_name(i) for i in range(torch.cuda.device_count())], flush=True)
 
 
 def load(name, n):
