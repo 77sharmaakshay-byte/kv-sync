@@ -1,12 +1,12 @@
 # Har case ka machine-vishleshan (scripts/auto_notes.py): case ke record se vishay (shreni > vishay > upvishay >
 # mudda) aur Kaggle wale database se milte-julte faisle (asli paragraph + court ka nateeja).
-# Har "Case lookup" ke baad apne aap; haath se bhi (force = pehle bane notes bhi dobara).
+# Har "Case lookup" / "Naye cases" ke baad apne aap; haath se bhi (force = pehle bane notes bhi dobara).
 # Haath ka note (app/notes/<case>.json) ho to app wahi dikhata hai; yeh sirf baaki cases ke liye.
 name: Case analysis
 
 on:
   workflow_run:
-    workflows: ['Case lookup']
+    workflows: ['Case lookup', 'Naye cases']
     types: [completed]
   workflow_dispatch:
     inputs:
@@ -86,6 +86,6 @@ jobs:
           git commit -qm "auto notes $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
           git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }
           echo "changed=1" >> "$GITHUB_OUTPUT"
-      - name: App site update
-        if: steps.save.outputs.changed == '1'
+      - name: App site update   # naye case records bhi app mein aayein
+        if: always()
         run: sh scripts/publish_site.sh databranch

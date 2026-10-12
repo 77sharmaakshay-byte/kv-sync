@@ -1,0 +1,94 @@
+# Roz ke naye cases miss na hon: cause list aate hi (dono raaste: court ki site / eCourts) aaj aur aage ki list ke
+# jin cases ka court record app mein nahi (ya 7 din purana) hai, unka record (parties, tareekhein, orders) laao.
+# Ek baar mein 150; baaki agli baar. Uske baad "Case analysis" apne aap (machine vishleshan + app).
+# Aapke Mac (self-hosted runner) par: GitHub ke free minute bachte hain. Mac band ho to line mein rukta hai.
+name: Naye cases
+
+on:
+  workflow_run:
+    workflows: ['Mac cause list (ehcr)', 'Roz ka court data']
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      max:
+        description: 'Ek baar mein kitne case'
+        default: '150'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: naye-cases
+  cancel-in-progress: false
+
+jobs:
+  lookup:
+    runs-on: [self-hosted, macOS]
+    timeout-minutes: 300
+    env:
+      PYTHONUNBUFFERED: '1'
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Data branch
+        run: |
+          echo "WORK=$RUNNER_TEMP/kl" >> "$GITHUB_ENV"
+          rm -rf databranch "$RUNNER_TEMP/kl"; git worktree prune
+          git config user.name "krishivlaw-bot"
+          git config user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin +data:data
+          git worktree add databranch data
+      - name: Kaunse case laane hain
+        id: todo
+        run: |
+          CASES=$(python3 scripts/new_cases.py --data-branch databranch --max "${{ inputs.max || '150' }}")
+          echo "$CASES"
+          echo "cases=$CASES" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@v5
+        if: steps.todo.outputs.cases != ''
+        with:
+          python-version: '3.12'
+      - name: bharat-courts
+        if: steps.todo.outputs.cases != ''
+        run: pip install -q "./vendor/product/bharat-courts[ocr]" pypdfium2
+      - name: Case laao
+        if: steps.todo.outputs.cases != ''
+        run: |
+          read -ra LIST <<< "${{ steps.todo.outputs.cases }}"
+          python scripts/fetch_live.py --data "$WORK" uk-case "${LIST[@]}" || true
+      - name: Text nikaalo, save karo
+        if: steps.todo.outputs.cases != ''
+        run: |
+          python - <<'PY'
+          import datetime as dt, json, os, pathlib, shutil, pypdfium2
+          work = pathlib.Path(os.environ["WORK"]) / "live" / "uk"
+          out = pathlib.Path("databranch/cases")
+          state = pathlib.Path("databranch/state/case_fetched.json")
+          fetched = json.loads(state.read_text()) if state.exists() else {}
+          today = (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=5, minutes=30)).date().isoformat()
+          for case in sorted(p for p in work.iterdir() if p.is_dir() and not p.name.startswith("_")) if work.exists() else []:
+              dest = out / case.name
+              dest.mkdir(parents=True, exist_ok=True)
+              for f in case.iterdir():
+                  if f.suffix == ".json":
+                      shutil.copy(f, dest / f.name)
+                  elif f.suffix == ".pdf":
+                      doc = pypdfium2.PdfDocument(f.read_bytes())
+                      text = "\f".join(doc[i].get_textpage().get_text_range() for i in range(len(doc)))
+                      (dest / (f.stem + ".txt")).write_text(text, encoding="utf-8")
+              fetched[case.name] = today
+              print(case.name, len(list(dest.iterdir())), "files")
+          state.parent.mkdir(parents=True, exist_ok=True)
+          state.write_text(json.dumps(fetched, indent=0, sort_keys=True))
+          PY
+      - name: Data branch par save
+        if: steps.todo.outputs.cases != ''
+        run: |
+          cd databranch
+          git add -A cases state
+          if git diff --cached --quiet; then echo "Kuch naya nahi"; exit 0; fi
+          git commit -q -m "naye cases: $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
+          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }
+      - name: Saaf karo
+        if: always()
+        run: git worktree remove --force databranch || true
