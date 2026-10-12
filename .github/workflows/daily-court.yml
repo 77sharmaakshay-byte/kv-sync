@@ -77,6 +77,8 @@ jobs:
             f="databranch/causelist/$d/index.json"
             if [ "$FORCE" = "true" ] || [ ! -f "$f" ]; then
               TODO="$TODO $d"
+            elif [ "$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1])).get("source",""))' "$f")" = "ehcr" ]; then
+              :  # court ki apni site (mac-causelist.yml) wali list; eCourts se mat badlo
             elif [ "$d" = "$TODAY" ] && [ "$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1])).get("fetched",""))' "$f")" != "$TODAY" ]; then
               TODO="$TODO $d:dobara"
             fi

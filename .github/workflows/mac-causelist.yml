@@ -1,23 +1,24 @@
-# Nainital HC ki apni cause list site (ehcr.uk.gov.in) sirf India se khulti hai, isliye yeh aapke Mac
-# (self-hosted runner 'mac') par chalta hai. Mac band ho to yeh line mein rukta hai; eCourts wala raasta
-# (daily-court.yml) GitHub par chalta rehta hai.
+# Nainital HC ki apni cause list site (ehcr.uk.gov.in): court kal ki list aaj shaam (~5 baje) yahin daalta hai,
+# eCourts par baad mein. Site sirf India se khulti hai, isliye PDF laana aapke Mac (self-hosted runner 'mac')
+# par; text nikaalna, data branch aur app (site) GitHub par. Mac band ho to yeh line mein rukta hai aur
+# eCourts wala raasta (daily-court.yml) chalta rehta hai.
+# Badli hui list (court ne naya PDF ya naya time daala) aate hi us din ki list app mein badal jaati hai.
 name: Mac cause list (ehcr)
 
 on:
+  schedule:
+    - cron: '3 1 * * *'              # 06:33 IST — aaj ki (aakhri badlav)
+    - cron: '33 11,12,13,14,15 * * *'  # 17:03-21:03 IST, har ghante — kal ki list
   workflow_dispatch:
     inputs:
       mode:
-        description: 'probe = site ka format dekho'
+        description: 'fetch = list laao aur app par; probe = site ka format dekho'
         type: choice
-        options: [probe]
-        default: probe
+        options: [fetch, probe]
+        default: fetch
 
 permissions:
-  contents: read
-
-concurrency:
-  group: mac-causelist
-  cancel-in-progress: false
+  contents: write
 
 jobs:
   ehcr:
@@ -28,3 +29,76 @@ jobs:
       - name: Site ka format
         if: inputs.mode == 'probe'
         run: python3 scripts/ukhc_ehcr.py --probe
+      - name: List PDFs laao
+        if: inputs.mode != 'probe'
+        run: |
+          rm -rf ehcr && python3 scripts/ukhc_ehcr.py fetch --out ehcr
+          mkdir -p ehcr && ls -R ehcr | head -40
+      - uses: actions/upload-artifact@v4
+        if: inputs.mode != 'probe'
+        with:
+          name: ehcr
+          path: ehcr
+          if-no-files-found: ignore
+          retention-days: 3
+
+  publish:
+    needs: ehcr
+    if: inputs.mode != 'probe'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    concurrency:
+      group: daily-court   # data branch par eCourts wale workflow ke saath ek hi waqt mein nahi
+      cancel-in-progress: false
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        continue-on-error: true   # Mac ko kuch nahi mila to artifact nahi hota
+        with:
+          name: ehcr
+          path: ehcr
+      - name: Kuch mila?
+        id: got
+        run: echo "n=$(find ehcr -name ehcr.json 2>/dev/null | wc -l)" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@v5
+        if: steps.got.outputs.n != '0'
+        with:
+          python-version: '3.12'
+      - name: PDF se text, court-wise
+        if: steps.got.outputs.n != '0'
+        run: |
+          pip install -q pypdfium2
+          python scripts/ukhc_ehcr.py split --dir ehcr
+      - name: Data branch mein (sirf nayi / badli hui list)
+        if: steps.got.outputs.n != '0'
+        id: save
+        run: |
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin data:data && git worktree add databranch data
+          changed=0
+          for d in ehcr/*/; do
+            DATE=$(basename "$d"); old="databranch/causelist/$DATE/index.json"
+            new_up=$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1]))["uploads"])' "$d/index.json")
+            old_up=$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1])).get("uploads"))' "$old" 2>/dev/null || echo none)
+            if [ "$new_up" = "$old_up" ]; then echo "$DATE: koi badlav nahi"; continue; fi
+            echo "$DATE: nayi/badli list — $new_up"
+            rm -rf "databranch/causelist/$DATE" && mkdir -p "databranch/causelist/$DATE"
+            cp "$d"/*.txt "$d/index.json" "databranch/causelist/$DATE/"
+            tar -czf "ehcr-$DATE.tar.gz" -C ehcr "$DATE"
+            TAG="causelist-${DATE:6:4}-${DATE:3:2}"
+            gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "Cause list ${DATE:3:7}" \
+              --notes "Nainital HC ki roz ki cause list PDFs (har din ek tar.gz)" --latest=false
+            gh release upload "$TAG" "ehcr-$DATE.tar.gz" --clobber
+            changed=1
+          done
+          cd databranch
+          git add -A
+          git diff --cached --quiet || git commit -qm "cause list (ehcr) $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
+          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+      - name: App site update
+        if: steps.save.outputs.changed == '1'
+        run: sh scripts/publish_site.sh databranch
