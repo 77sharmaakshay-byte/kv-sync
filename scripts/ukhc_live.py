@@ -10,6 +10,7 @@
              (uk-gap ka form bharat-courts mein nahi hai, isliye pehle isse pakka karte hain)
 """
 import asyncio
+import datetime as dt
 import json
 import re
 import sqlite3
@@ -268,6 +269,74 @@ async def uk_probe(out, args):
     return 0
 
 
+def _today_ist():
+    return (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=5, minutes=30)).strftime("%d-%m-%Y")
+
+
+async def uk_advocate(out, args):
+    """Advocate ke naam / bar code se uske cases (default: pending)."""
+    if bool(args.name) == bool(args.bar):
+        print("--name ya --bar, dono mein se ek do")
+        return 2
+    async with HCServicesClient() as client:
+        res = await client.advocate_search(UK, advocate_name=args.name, bar_code=args.bar,
+                                           bench_code=args.bench, status_filter=args.status)
+    if not res.found and not res.cases:
+        print("Court ko ye advocate nahi mila — naam/enrolment number dobara jaancho")
+        return 1
+    cases, seen = [], set()
+    for c in res.cases:
+        if c.cnr_number in seen:
+            continue
+        seen.add(c.cnr_number)
+        cases.append(c)
+    print(f"Court ne pehchana: {res.raw_name or '(naam nahi lauta)'} · {len(cases)} {args.status} cases")
+    if args.name:
+        print("Dhyan do: naam se search mein milte-julte naam wale doosre advocate bhi aa sakte hain; --bar pakka hai.")
+    for c in cases[:args.show]:
+        print(f"  {c.case_type} {c.case_number} · {c.petitioner} v. {c.respondent} · {c.cnr_number}")
+    if len(cases) > args.show:
+        print(f"  ... aur {len(cases) - args.show} (poori list file mein)")
+    d = out / "uk" / "_diary"
+    d.mkdir(parents=True, exist_ok=True)
+    f = d / f"advocate-{re.sub(r'[^A-Za-z0-9]+', '_', args.bar or args.name)}-{args.status}.json"
+    f.write_text(json.dumps({"query": args.bar or args.name, "echo": res.raw_name, "status": args.status,
+                             "cases": [c.to_dict() for c in cases]}, ensure_ascii=False, indent=1, default=str),
+                 encoding="utf-8")
+    print(f"Saved: {f}")
+    return 0
+
+
+async def uk_diary(out, args):
+    """Kisi din ki advocate ki cause list (bar code chahiye), judge-wise."""
+    day = args.date or _today_ist()
+    async with HCServicesClient() as client:
+        rows = await client.advocate_cause_list(UK, bar_code=args.bar, causelist_date=day, bench_code=args.bench)
+    by_judge = {}
+    for r in rows:
+        key = r.cnr_number or f"{r.case_type}/{r.case_number}"
+        cases = by_judge.setdefault(r.judge or "(judge ka naam nahi)", {})
+        cases.setdefault(key, r)
+    total = len({r.cnr_number or f"{r.case_type}/{r.case_number}" for r in rows})
+    print(f"{day} ki cause list · {args.bar} · {total} case")
+    if not total:
+        print("Is din koi case listed nahi (ya court ne list abhi nahi daali).")
+    for judge, cases in by_judge.items():
+        print(f"\n== {judge} ({len(cases)})")
+        for r in cases.values():
+            last = f" · pichhli tareekh {r.business_date:%d.%m.%Y}" if r.business_date else ""
+            print(f"  {r.case_type} {r.case_number} · {r.petitioner} v. {r.respondent}")
+            print(f"     {r.purpose or '-'}{last}")
+    print("\nItem number court ki PDF cause list mein hota hai; ye portal sirf judge aur case deta hai.")
+    d = out / "uk" / "_diary"
+    d.mkdir(parents=True, exist_ok=True)
+    f = d / f"causelist-{day}.json"
+    f.write_text(json.dumps({"date": day, "bar": args.bar, "rows": [r.to_dict() for r in rows]},
+                            ensure_ascii=False, indent=1, default=str), encoding="utf-8")
+    print(f"Saved: {f}")
+    return 0
+
+
 def add_commands(sub):
     sub.add_parser("uk-types")
     p = sub.add_parser("uk-case")
@@ -280,4 +349,13 @@ def add_commands(sub):
                    help="jin cases ka faisla database (AWS) mein pehle se hai unhe chhodo — sirf chhoote hue laao")
     p.add_argument("--form", help='form badalna ho to JSON, jaise {"caseStatusSearchType": "CScaseType"}')
     sub.add_parser("uk-probe")
-    return {"uk-types": uk_types, "uk-case": uk_case, "uk-gap": uk_gap, "uk-probe": uk_probe}
+    p = sub.add_parser("uk-advocate")
+    p.add_argument("--name", help="advocate ka naam (milte-julte naam bhi aa sakte hain)")
+    p.add_argument("--bar", help="enrolment / bar registration number, jaise UK/123/2005")
+    p.add_argument("--status", default="Pending", choices=["Pending", "Disposed", "Both"])
+    p.add_argument("--show", type=int, default=40, help="screen par kitne dikhane hain")
+    p = sub.add_parser("uk-diary")
+    p.add_argument("--bar", required=True, help="enrolment / bar registration number, jaise UK/123/2005")
+    p.add_argument("--date", help="DD-MM-YYYY (default: aaj, IST)")
+    return {"uk-types": uk_types, "uk-case": uk_case, "uk-gap": uk_gap, "uk-probe": uk_probe,
+            "uk-advocate": uk_advocate, "uk-diary": uk_diary}
