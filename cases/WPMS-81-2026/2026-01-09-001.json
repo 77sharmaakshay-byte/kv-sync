@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/81/2026:2026-01-09-001",
+ "title": "COMMITTEE OF MANAGEMENT JANTA INTER COLLEGE CHAID CHAINPUR versus STATE OF UTTARAKHAND",
+ "petitioner": "COMMITTEE OF MANAGEMENT JANTA INTER COLLEGE CHAID CHAINPUR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/81/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-09",
+ "cnr": "UKHC010003952026",
+ "doc_kind": "order",
+ "order_type": "WPMS/81/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjNTl25eP2Yc4bEOFLRZ9wTUnnQ%2BECP2VNYMOERQ1IrZ&caseno=WPMS/81/2026&cCode=1&cino=UKHC010003952026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2c3b2e4d9d2428978107d5f9e46105e2bcdabc1f0b630204219c8c51edf7d156",
+ "fetched_at": "2026-10-12T19:21:59+00:00",
+ "fetched_by": "fetch_live.py"
+}
