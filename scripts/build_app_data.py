@@ -125,16 +125,21 @@ def build_causelists(src, out):
             continue
         index = json.loads((folder / "index.json").read_text(encoding="utf-8")) if (folder / "index.json").exists() else {}
         benches = {Path(b["file"]).stem: b.get("bench") for b in index.get("benches", [])}
-        courts, seen = [], set()
-        for txt in sorted(folder.glob("*.txt")):
+        courts, seen, have = [], set(), set()
+        # Pehle court ki apni site (ehcr-*) wali list, phir eCourts; eCourts ka wahi court dobara nahi
+        for txt in sorted(folder.glob("*.txt"), key=lambda p: (not p.name.startswith("ehcr-"), p.name)):
             text = txt.read_text(encoding="utf-8")
             digest = hashlib.sha256(text.encode()).hexdigest()
             if digest in seen:  # civil/criminal mein wahi list dobara
                 continue
             seen.add(digest)
             c = parse_causelist(text, benches.get(txt.stem))
-            if c["entries"]:
-                courts.append(c)
+            key = (c["court_no"], tuple(c.get("judges") or ()))
+            if not c["entries"] or (not txt.name.startswith("ehcr-") and key in have):
+                continue
+            if txt.name.startswith("ehcr-"):
+                have.add(key)
+            courts.append(c)
         courts.sort(key=lambda c: (c["court_no"] is None, c["court_no"] or 0))
         days.append(day)
         (out / "causelist").mkdir(parents=True, exist_ok=True)

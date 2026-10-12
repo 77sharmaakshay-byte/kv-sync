@@ -121,7 +121,7 @@ def pdf_text(path):
 
 
 def split(folder):
-    """<dir>/<DD-MM-YYYY>/ehcr.json + PDFs -> wahi folder mein court-wise .txt + index.json (daily-court jaisa)."""
+    """<dir>/<DD-MM-YYYY>/ehcr.json + PDFs -> wahi folder mein court-wise ehcr-*.txt + index-ehcr.json."""
     for day_dir in sorted(p for p in folder.iterdir() if (p / "ehcr.json").exists()):
         meta = json.loads((day_dir / "ehcr.json").read_text(encoding="utf-8"))
         benches = []
@@ -141,7 +141,7 @@ def split(folder):
                 print("   (court alag nahi hue; shuru ka hissa:)\n   " + text[:600].replace("\n", " | "))
         index = {"date": meta["date"], "fetched": today_ist().strftime("%d-%m-%Y"), "source": "ehcr",
                  "uploads": sorted(f"{it['title']}|{it['uploaded']}" for it in meta["items"]), "benches": benches}
-        (day_dir / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
+        (day_dir / "index-ehcr.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
     return 0
 
 

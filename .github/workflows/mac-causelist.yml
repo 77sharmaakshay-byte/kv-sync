@@ -80,13 +80,14 @@ jobs:
           git fetch --depth 1 origin data:data && git worktree add databranch data
           changed=0
           for d in ehcr/*/; do
-            DATE=$(basename "$d"); old="databranch/causelist/$DATE/index.json"
-            new_up=$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1]))["uploads"])' "$d/index.json")
-            old_up=$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1])).get("uploads"))' "$old" 2>/dev/null || echo none)
+            DATE=$(basename "$d"); dst="databranch/causelist/$DATE"
+            new_up=$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1]))["uploads"])' "$d/index-ehcr.json")
+            old_up=$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1])).get("uploads"))' "$dst/index-ehcr.json" 2>/dev/null || echo none)
             if [ "$new_up" = "$old_up" ]; then echo "$DATE: koi badlav nahi"; continue; fi
             echo "$DATE: nayi/badli list — $new_up"
-            rm -rf "databranch/causelist/$DATE" && mkdir -p "databranch/causelist/$DATE"
-            cp "$d"/*.txt "$d/index.json" "databranch/causelist/$DATE/"
+            # sirf pichhli ehcr files hatao; eCourts wali (index.json, civil-*/criminal-*) rehne do
+            mkdir -p "$dst" && rm -f "$dst"/ehcr-*.txt "$dst/index-ehcr.json"
+            cp "$d"/ehcr-*.txt "$d/index-ehcr.json" "$dst/"
             tar -czf "ehcr-$DATE.tar.gz" -C ehcr "$DATE"
             TAG="causelist-${DATE:6:4}-${DATE:3:2}"
             gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "Cause list ${DATE:3:7}" \

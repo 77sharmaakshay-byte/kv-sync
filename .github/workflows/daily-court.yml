@@ -77,8 +77,6 @@ jobs:
             f="databranch/causelist/$d/index.json"
             if [ "$FORCE" = "true" ] || [ ! -f "$f" ]; then
               TODO="$TODO $d"
-            elif [ "$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1])).get("source",""))' "$f")" = "ehcr" ]; then
-              :  # court ki apni site (mac-causelist.yml) wali list; eCourts se mat badlo
             elif [ "$d" = "$TODAY" ] && [ "$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1])).get("fetched",""))' "$f")" != "$TODAY" ]; then
               TODO="$TODO $d:dobara"
             fi
@@ -121,7 +119,8 @@ jobs:
             if [ $rc -eq 4 ]; then echo "$DATE: list abhi nahi aayi — agle run mein dobara"; continue; fi
             if [ $rc -ne 0 ]; then echo "$DATE: galti ($rc)"; bad=1; continue; fi
             # Branch mein sirf text + index (chhota); PDFs Release mein. Dobara laayi to purani hata do.
-            rm -rf "databranch/causelist/$DATE" && mkdir -p "databranch/causelist/$DATE"
+            # dobara laayi to purani eCourts files hatao; court ki site wali (ehcr-*) rehne do
+            mkdir -p "databranch/causelist/$DATE" && find "databranch/causelist/$DATE" -type f ! -name 'ehcr-*' ! -name 'index-ehcr.json' -delete
             cp "$WORK/causelist/$DATE"/*.txt "$WORK/causelist/$DATE/index.json" "databranch/causelist/$DATE/"
             tar -czf "$WORK/causelist-$DATE.tar.gz" -C "$WORK/causelist" "$DATE"
             TAG="causelist-${DATE:6:4}-${DATE:3:2}"   # mahine ki ek release, har din ek file
