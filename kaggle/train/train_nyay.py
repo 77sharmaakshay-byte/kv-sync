@@ -93,10 +93,16 @@ model = get_peft_model(model, LoraConfig(r=16, lora_alpha=32, lora_dropout=0.05,
                                                          "gate_proj", "up_proj", "down_proj"]))
 model.print_trainable_parameters()
 
-args = TrainingArguments(output_dir=f"{OUT}/ckpt", per_device_train_batch_size=1, gradient_accumulation_steps=16,
-                         num_train_epochs=1, learning_rate=2e-4, lr_scheduler_type="cosine", warmup_ratio=0.03,
-                         fp16=True, logging_steps=10, save_steps=50, save_total_limit=2, report_to=[],
-                         gradient_checkpointing=True, optim="paged_adamw_8bit", max_grad_norm=0.3)
+# transformers ke naye/purane version: jo setting is version mein nahi, use chhod do (aur batao)
+import inspect  # noqa: E402
+steps = max(1, -(-len(train) // 16))
+want = dict(output_dir=f"{OUT}/ckpt", per_device_train_batch_size=1, gradient_accumulation_steps=16,
+            num_train_epochs=1, learning_rate=2e-4, lr_scheduler_type="cosine", warmup_steps=max(1, int(steps * 0.03)),
+            fp16=True, logging_steps=10, save_steps=50, save_total_limit=2, report_to=[],
+            gradient_checkpointing=True, optim="paged_adamw_8bit", max_grad_norm=0.3)
+ok = set(inspect.signature(TrainingArguments.__init__).parameters)
+print("TrainingArguments mein nahi:", [k for k in want if k not in ok], flush=True)
+args = TrainingArguments(**{k: v for k, v in want.items() if k in ok})
 Trainer(model=model, args=args, train_dataset=train, data_collator=collate).train()
 model.save_pretrained(f"{OUT}/adapter")
 tok.save_pretrained(f"{OUT}/adapter")
