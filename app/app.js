@@ -19,7 +19,14 @@
     return fetch(path, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); });
   }
   function index() {
-    return cache.index ? Promise.resolve(cache.index) : getJSON('data/index.json').then(function (d) { cache.index = d; return d; });
+    // Beeti tareekh ki list nahi dikhaate: sirf aaj aur aage ki (purani data mein rehti hai)
+    return cache.index ? Promise.resolve(cache.index) : getJSON('data/index.json').then(function (d) {
+      var t = new Date(), pad = function (n) { return (n < 10 ? '0' : '') + n; };
+      var today = t.getFullYear() + '-' + pad(t.getMonth() + 1) + '-' + pad(t.getDate());
+      d.allDates = d.dates;
+      d.dates = d.dates.filter(function (x) { return x >= today; });
+      cache.index = d; return d;
+    });
   }
   function list(date) {
     if (cache.lists[date]) return Promise.resolve(cache.lists[date]);
@@ -202,7 +209,7 @@
     var name = store('ns-name');
     index().then(function (idx) {
       var date = pickDay(idx.dates);
-      if (!date) return render('<div class="pad"><div class="empty">Abhi koi cause list nahi aayi.</div></div>');
+      if (!date) return render('<div class="pad"><div class="empty">Aaj ya aage ki cause list abhi nahi aayi. Court shaam ko agle din ki list daalta hai; aate hi yahan dikhegi.</div></div>');
       return list(date).then(function (data) {
         var known = {}; idx.cases.forEach(function (c) { known[c.id] = 1; });
         var head = '<header class="hero"><div class="kicker">Nyay Sahayak</div><h1>' +
@@ -237,10 +244,10 @@
     index().then(function (idx) {
       var date = params.d || pickDay(idx.dates);
       var q = params.q != null ? params.q : (store('ns-name') || '');
-      if (!date) return render('<div class="pad"><div class="empty">Abhi koi cause list nahi aayi.</div></div>');
+      if (!date) return render('<div class="pad"><div class="empty">Aaj ya aage ki cause list abhi nahi aayi. Court shaam ko agle din ki list daalta hai; aate hi yahan dikhegi.</div></div>');
       return list(date).then(function (data) {
         var known = {}; idx.cases.forEach(function (c) { known[c.id] = 1; });
-        var days = idx.dates.slice(0, 7).map(function (d) {
+        var days = idx.dates.slice().sort().slice(0, 7).map(function (d) {
           return '<button type="button" class="day' + (d === date ? ' on' : '') + '" data-day="' + d + '">' +
             esc(fmtDate(d)) + '<small>' + esc(WEEK[new Date(d + 'T00:00:00').getDay()]) + '</small></button>';
         }).join('');
@@ -273,7 +280,7 @@
     var name = store('ns-name');
     if (!name) return render('<header class="hero"><h1>Mere cases</h1></header><div class="pad"><div class="empty">Pehle "Main" tab mein apna naam likho.</div><a class="btn" href="#/settings">Naam likho</a></div>');
     index().then(function (idx) {
-      var dates = idx.dates.slice(0, 14);
+      var dates = (idx.allDates || idx.dates).slice(0, 14);
       return Promise.all(dates.map(function (d) { return list(d).catch(function () { return null; }); })).then(function (lists) {
         var ws = words(name), seen = {}, items = [];
         idx.cases.forEach(function (c) {
@@ -321,7 +328,7 @@
 
   function caseFromLists(idx, id) {
     var no = id.replace(/-/g, '/');
-    return Promise.all(idx.dates.slice(0, 14).map(function (d) { return list(d).catch(function () { return null; }); })).then(function (lists) {
+    return Promise.all((idx.allDates || idx.dates).slice(0, 14).map(function (d) { return list(d).catch(function () { return null; }); })).then(function (lists) {
       var found = [];
       lists.forEach(function (data) {
         if (!data) return;
