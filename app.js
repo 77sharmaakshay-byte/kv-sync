@@ -2,7 +2,7 @@
 (function () {
   'use strict';
   var view = document.getElementById('view');
-  var cache = { index: null, lists: {}, cases: {} };
+  var cache = { index: null, lists: {}, cases: {}, khoj: null };
   var WEEK = ['Ravivaar', 'Somvaar', 'Mangalvaar', 'Budhvaar', 'Guruvaar', 'Shukravaar', 'Shanivaar'];
   var MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -75,13 +75,14 @@
   var NAV = {
     home: ['#/', 'Aaj', '<path d="M4 11l8-7 8 7v9h-5v-6H9v6H4z"/>'],
     mycase: ['#/', 'Mera case', '<path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5M9 13h6M9 17h4"/>'],
+    khoj: ['#/khoj', 'Khoj', '<circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/>'],
     list: ['#/list', 'Cause list', '<rect x="4" y="5" width="16" height="15" rx="2"/><path d="M8 3v4M16 3v4M4 10h16"/>'],
     mine: ['#/mine', 'Mere cases', '<path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/>'],
     settings: ['#/settings', 'Main', '<circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/>']
   };
   function role() { return store('ns-role') || (store('ns-name') ? 'advocate' : null); } // purane users: naam hai to advocate
   function drawNav() {
-    var tabs = role() === 'party' ? ['mycase', 'list', 'settings'] : ['home', 'list', 'mine', 'settings'];
+    var tabs = role() === 'party' ? ['mycase', 'khoj', 'list', 'settings'] : ['home', 'list', 'khoj', 'mine', 'settings'];
     var nav = document.querySelector('.nav');
     nav.hidden = !role();
     nav.innerHTML = tabs.map(function (t) {
@@ -201,6 +202,121 @@
         go('#/case/' + caseId(no));
       });
     }
+  }
+
+  // ---------- Khoj: apne case ki baat likho -> vishay, review, supporting faisle ----------
+  // Hinglish shabd -> English (niyam English faislon ke shabdon par bane hain)
+  var HING = [
+    [/anukamp|mritak ?ashrit|ashrit/i, 'compassionate appointment dying in harness'], [/mrityu|maut|dehant|nidhan|guzar/i, 'died death harness'],
+    [/naukri|niyukti/i, 'appointment'], [/aavedan|avedan|arzi|application/i, 'application'], [/\bder\b|vilamb|der se|late/i, 'delay belated'],
+    [/vivahit beti|shadi ?shuda beti|married beti/i, 'married daughter'], [/bahu/i, 'daughter in law'], [/doosri patni|dusri patni|second wife/i, 'second wife'],
+    [/nabalig|minor/i, 'minor years after'], [/pehle se naukri|already (in )?job|bhai.*naukri|naukri.*bhai/i, 'already employed family member employed'],
+    [/garib|aarthik|paise nahi|tangi/i, 'indigent financial condition penury'], [/pension|pensan/i, 'pension rules pensionary benefits'],
+    [/padonnati|pramotion|promotion|tarakki/i, 'promotion seniority departmental promotion committee'], [/varishtata|seniority/i, 'seniority list'],
+    [/tabadla|transfer/i, 'transfer order transfer policy'], [/niyamit|pakka karo|regulari/i, 'regularisation services regularization rules'],
+    [/dainik|daily wage|samvida|contract par|upnal|outsourc/i, 'daily wage contractual employee'], [/nilamb|suspend/i, 'suspension order placed under suspension'],
+    [/barkhast|nikal diya|nikala|terminat|dismiss/i, 'termination services dismissal service disciplinary proceedings'],
+    [/vetan|tankhwah|salary|pay scale/i, 'pay scale parity equal pay for equal work'], [/vasooli|recovery/i, 'recovery excess payment'],
+    [/gratuity|gratuiti|leave encash/i, 'gratuity leave encashment'], [/agrim zamanat|anticipatory/i, 'anticipatory bail'],
+    [/zamanat|jamanat|bail/i, 'bail section 439'], [/dahej|dowry|498/i, 'dowry prohibition 498A'], [/talak|talaq|divorce/i, 'decree of divorce'],
+    [/gujara|kharcha|maintenance|bharan ?poshan/i, 'maintenance section 125 interim maintenance'], [/cheque|check bounce/i, 'negotiable instruments 138'],
+    [/zameen|jameen|bhumi|khatauni|daakhil|dakhil kharij|mutation/i, 'mutation revenue records khatauni'], [/kiraye?dar|makan malik|eviction/i, 'eviction tenant landlord tenant'],
+    [/hatya|murder|302/i, 'section 302'], [/balatkar|rape|376/i, 'section 376 rape'], [/ganja|charas|smack|ndps|nasha/i, 'NDPS Act'],
+    [/fir (radd|quash)|quash|radd/i, 'quash first information report section 482'], [/durghatna|accident|mact/i, 'Motor Accident Claims Tribunal just compensation'],
+    [/bachche ki custody|custody/i, 'custody child welfare of the child'], [/tender|theka/i, 'tender bid notice inviting tender'],
+    [/bharti|recruitment|vigyapti|advertisement/i, 'eligibility qualification advertisement merit list select list'], [/aarakshan|reservation/i, 'reservation recruitment horizontal reservation']
+  ];
+  function expand(text) {
+    var extra = HING.filter(function (h) { return h[0].test(text); }).map(function (h) { return h[1]; });
+    return text + ' ' + extra.join(' ');
+  }
+  function ruleHit(rules, text) {
+    return rules.filter(function (alt) { return alt.every(function (r) { return new RegExp(r, 'i').test(text); }); }).length;
+  }
+  function khojIndex() {
+    return cache.khoj ? Promise.resolve(cache.khoj) : getJSON('data/khoj/index.json').then(function (d) { cache.khoj = d; return d; });
+  }
+  var GOOD = ['Paksh mein', 'Aanshik paksh mein', 'Nirdesh: vibhag vichaar kare'];
+  function judgCard(j) {
+    var good = GOOD.indexOf(j.tag.split(' · ')[0]) >= 0, bad = /^Khilaf/.test(j.tag);
+    return '<div class="card"><div class="chips"><span class="chip ' + (j.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(j.court) + '</span>' +
+      '<span class="chip ' + (good ? 'good' : bad ? 'warn' : '') + '">' + esc(j.tag.split(' · ')[0]) + '</span></div>' +
+      '<b class="serif" style="font-size:17px">' + esc(j.title) + '</b><span class="muted">' + esc(j.cite) + '</span>' +
+      '<p class="p serif quote">' + esc(j.quote) + '</p></div>';
+  }
+  function judgGroups(list) {
+    var seen = {}, uniq = list.filter(function (j) { var k = j.title + j.cite; if (seen[k]) return false; seen[k] = 1; return true; });
+    var good = uniq.filter(function (j) { return GOOD.indexOf(j.tag.split(' · ')[0]) >= 0; });
+    var bad = uniq.filter(function (j) { return /^Khilaf/.test(j.tag); });
+    var other = uniq.filter(function (j) { return good.indexOf(j) < 0 && bad.indexOf(j) < 0; });
+    return (good.length ? '<span class="lbl good">Aapke paksh mein ja sakte hain · ' + good.length + '</span>' + good.map(judgCard).join('') : '') +
+      (bad.length ? '<span class="lbl bad">Dhyaan rahe: in mein court ne maang nahi maani · ' + bad.length + '</span>' + bad.map(judgCard).join('') : '') +
+      (other.length ? '<span class="lbl">Anya (nipataara / nateeja saaf nahi) · ' + other.length + '</span>' + other.map(judgCard).join('') : '');
+  }
+  function topicResult(t, text, others) {
+    return getJSON('data/khoj/t/' + t.id + '.json').then(function (d) {
+      var found = t.issues.filter(function (x) { return text && ruleHit(x.rules, text); });
+      var list = [];
+      found.forEach(function (x) { list = list.concat(d.by_mudda[x.mudda] || []); });
+      list = list.concat(d.judgments);
+      var html = '<div class="card key"><span class="lbl brand">' + (text ? 'Aapke case ka vishay' : 'Vishay') + '</span><div class="chips">' +
+        [t.shreni, t.vishay, t.upvishay].map(function (x) { return '<span class="chip blue">' + esc(x) + '</span>'; }).join('') +
+        found.map(function (x) { return '<span class="chip brand">' + esc(x.mudda) + '</span>'; }).join('') + '</div>' +
+        '<span class="muted">Database mein is vishay ke ' + t.faisle + ' mukhya faisle' + (t.jaancha ? '' : ' · is vishay ka niyam abhi jaancha ja raha hai') + '</span>' +
+        (others && others.length ? '<span class="muted">Ye bhi ho sakta hai: ' + others.map(function (o) { return '<a href="#/khoj/t/' + o.id + '">' + esc(o.upvishay) + '</a>'; }).join(', ') + '</span>' : '') + '</div>';
+      if (t.issues.length) {
+        html += '<div class="card"><span class="lbl">Case review: is vishay ke mudde</span>' + t.issues.map(function (x) {
+          var on = found.indexOf(x) >= 0;
+          return '<div class="pt"><span class="mark ' + (on ? 'good' : 'dark') + '">' + (on ? '✓' : '?') + '</span><span>' + esc(x.mudda) +
+            ' <span class="muted">· ' + x.faisle + ' faisle · ' + (on ? 'aapki baat mein hai' : 'kya yeh aapke case mein hai? Ho to likh kar dobara khojo') + '</span></span></div>';
+        }).join('') + '</div>';
+      }
+      html += '<div class="card dark"><span class="lbl light">Vakeel ke paas le jaana</span>' +
+        ['Petition / aavedan ki copy aur uski tareekh ka saboot', 'Vibhag ka order (reject / latkaane wala) aur usmein likhi wajah',
+          'Jo niyam ya GO lagta hai uski copy', 'Neeche ke faislon mein se jo aapke tathyon se milte hon']
+          .map(function (x) { return '<div class="pt"><span class="mark dark">✓</span><span>' + esc(x) + '</span></div>'; }).join('') + '</div>';
+      html += judgGroups(list) + '<p class="muted">Faisle niyamon se machine ne chune hain; quote faisle ka asli paragraph hai. Har faisla aapke tathyon par lagta hai ya nahi, yeh vakeel se jaanch lein. Koi jeetne ka % nahi.</p>';
+      return html;
+    });
+  }
+  function viewKhoj() {
+    setTab('khoj');
+    var draft = store('ns-khoj') || '';
+    khojIndex().then(function (idx) {
+      var byShreni = {};
+      idx.topics.forEach(function (t) { (byShreni[t.shreni] = byShreni[t.shreni] || []).push(t); });
+      render('<header class="hero"><div class="kicker">Khoj</div><h1>Apne case ki baat likho</h1>' +
+        '<div class="sub">Vishay, case review aur supporting faisle — Supreme Court aur Nainital HC ke database se</div></header><div class="pad">' +
+        '<form id="kf" class="card"><label class="field"><span>Case mein kya hua (Hindi-English mein, jaise bolte ho)</span>' +
+        '<textarea id="kt" rows="5" placeholder="Jaise: Pita PAC mein Nayak the, 2016 mein naukri mein rehte mrityu hui. Maine anukampa naukri ka aavedan diya, Commandant ne der ka kaaran bata kar reject kar diya.">' + esc(draft) + '</textarea></label>' +
+        '<button class="btn" type="submit">' + ICON_SEARCH + 'Khojo</button></form><div id="kr"></div>' +
+        '<span class="lbl">Ya vishay chuno</span>' + Object.keys(byShreni).map(function (sh) {
+          return '<details class="order"><summary><b>' + esc(sh) + '</b><span class="muted">' + byShreni[sh].length + ' vishay</span></summary><div class="pad">' +
+            byShreni[sh].map(function (t) { return '<a class="row" href="#/khoj/t/' + t.id + '"><span class="body"><span class="no">' + esc(t.upvishay) + '</span><span class="adv">' + esc(t.vishay) + ' · ' + t.faisle + ' faisle</span></span></a>'; }).join('') + '</div></details>';
+        }).join('') + '</div>');
+      var kf = document.getElementById('kf');
+      kf.addEventListener('submit', function (ev) {
+        ev.preventDefault();
+        var raw = document.getElementById('kt').value.trim();
+        store('ns-khoj', raw);
+        var text = expand(raw), out = document.getElementById('kr');
+        var scored = idx.topics.map(function (t) { return { t: t, s: ruleHit(t.rules, text) + 0.5 * t.issues.filter(function (x) { return ruleHit(x.rules, text); }).length }; })
+          .filter(function (x) { return x.s > 0; }).sort(function (a, b) { return b.s - a.s; });
+        if (!scored.length) { out.innerHTML = '<div class="empty">Vishay pakad mein nahi aaya. Thoda aur likho: kis vibhag / kaam ka case hai, kya maanga, kis wajah se mana hua. Ya neeche se vishay chuno.</div>'; return; }
+        out.innerHTML = '<div class="empty">Dhoondh rahe hain…</div>';
+        topicResult(scored[0].t, text, scored.slice(1, 4).map(function (x) { return x.t; })).then(function (h) { out.innerHTML = '<div class="pad" style="padding:0">' + h + '</div>'; }).catch(fail);
+      });
+    }).catch(function () { render('<div class="pad"><div class="empty">Khoj ka data abhi site par nahi hai. Thodi der mein dobara kholo.</div></div>'); });
+  }
+  function viewKhojTopic(id) {
+    setTab('khoj');
+    khojIndex().then(function (idx) {
+      var t = idx.topics.filter(function (x) { return x.id === id; })[0];
+      if (!t) return viewKhoj();
+      return topicResult(t, '', []).then(function (h) {
+        render('<header class="hero"><a class="back" href="#/khoj">' + ICON_BACK + 'Khoj</a><div class="kicker">' + esc(t.shreni + ' · ' + t.vishay) + '</div><h1>' + esc(t.upvishay) + '</h1></header><div class="pad">' + h + '</div>');
+      });
+    }).catch(fail);
   }
 
   // ---------- Aaj ----------
@@ -353,7 +469,7 @@
     var title = [pet.name, res.name].filter(Boolean).join(' v. ') + (c.respondents.length > 1 ? ' & Ors.' : '');
     var n = c.notes || {};
     var tabs = [['saar', 'Saar'], ['dates', 'Tareekhein'], ['orders', 'Orders · ' + c.orders.length]];
-    if (n.pros || n.cons) tabs.push(['analysis', 'Vishleshan']);
+    if (n.pros || n.cons || n.issues) tabs.push(['analysis', 'Vishleshan']);
     if (n.similar) tabs.push(['similar', 'Milte-julte']);
     var latest = (idx.dates || [])[0];
     var html = '<header class="hero"><a class="back" href="' + (role() === 'party' ? '#/' : '#/mine') + '">' + ICON_BACK + (role() === 'party' ? 'Mera case' : 'Mere cases') + '</a><div class="chips">' +
@@ -387,6 +503,15 @@
         return '<details class="order"' + (i === 0 ? ' open' : '') + '><summary><b>' + esc(dmy(o.date) || 'Order') + '</b><span class="muted">' + esc(o.judge || '') + '</span></summary><pre>' + esc(o.text) + '</pre></details>';
       }).join('') || '<div class="empty">Abhi koi order nahi aaya.</div>';
     } else if (tab === 'analysis') {
+      if (n.vishay) html += '<div class="card key"><span class="lbl brand">Case ka vishay' + (n.auto ? ' · machine' : '') + '</span><div class="chips">' +
+        [n.vishay.shreni, n.vishay.vishay, n.vishay.upvishay].map(function (x) { return '<span class="chip blue">' + esc(x) + '</span>'; }).join('') +
+        (n.vishay.mudde || []).map(function (x) { return '<span class="chip brand">' + esc(x) + '</span>'; }).join('') + '</div>' +
+        (n.vishay.aur && n.vishay.aur.length ? '<span class="muted">Ye bhi ho sakta hai: ' + esc(n.vishay.aur.join(', ')) + '</span>' : '') + '</div>';
+      if (n.issues && n.issues.length) html += '<div class="card"><span class="lbl">' + esc(n.issues_title || 'Aam mudde') + '</span>' +
+        n.issues.map(function (x) {
+          return '<div class="pt"><span class="mark ' + (x.is_case_mein ? 'good' : 'dark') + '">' + (x.is_case_mein ? '✓' : '·') + '</span><span>' + esc(x.mudda) +
+            ' <span class="muted">· ' + x.faisle + ' faisle' + (x.is_case_mein ? ' · is case ke orders mein bhi' : '') + '</span></span></div>';
+        }).join('') + (n.similar ? '<a class="go" href="#/case/' + esc(c.id) + '?t=similar">Milte-julte faisle dekho' + ICON_NEXT + '</a>' : '') + '</div>';
       html += pts(n.pros_title || 'Paksh mein', 'good', '+', n.pros) + pts(n.cons_title || 'Saamne wala kya keh sakta hai', 'bad', '–', n.cons) +
         (n.todo ? '<div class="card dark"><span class="lbl light">Court le jaana</span>' + n.todo.map(function (t) { return '<div class="pt"><span class="mark dark">✓</span><span>' + esc(t) + '</span></div>'; }).join('') + '</div>' : '') +
         '<p class="muted">' + esc(n.disclaimer || 'Sirf court ke orders aur database se. Advocate ka review zaroori. Koi jeetne ka % nahi.') + '</p>';
@@ -499,6 +624,8 @@
     if (path === '/start') return viewStart();
     if (path === '/' || path === '') return role() === 'party' ? viewMyCase() : viewHome();
     if (path === '/list') return viewList(params);
+    if (path === '/khoj') return viewKhoj();
+    if (path.indexOf('/khoj/t/') === 0) return viewKhojTopic(path.slice(8));
     if (path === '/mine') return viewMine();
     if (path === '/settings') return viewSettings();
     if (path.indexOf('/case/') === 0) return viewCase(path.slice(6), params);
