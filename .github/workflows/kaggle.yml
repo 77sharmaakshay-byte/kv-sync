@@ -16,8 +16,9 @@ on:
         options: [check, upload-data, train, result]
         default: check
       user:
-        description: 'Kaggle username (sirf tab, jab secret mein akela token ho)'
+        description: 'Kaggle username'
         required: false
+        default: krishivlaw
 
 permissions:
   contents: write
@@ -38,7 +39,7 @@ jobs:
           SECRET: ${{ secrets.KRISHIVLAW }}
           OLD_USER: ${{ secrets.KAGGLE_USERNAME }}
           OLD_KEY: ${{ secrets.KAGGLE_KEY }}
-          INPUT_USER: ${{ inputs.user }}
+          INPUT_USER: ${{ inputs.user || 'krishivlaw' }}
         run: |
           python3 - <<'PY'
           import json, os, re
