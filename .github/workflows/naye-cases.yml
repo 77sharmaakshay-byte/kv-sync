@@ -18,7 +18,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: naye-cases
+  group: case-records   # Case lookup ke saath ek hi line (dono cases/ likhte hain)
   cancel-in-progress: false
 
 jobs:
@@ -89,7 +89,7 @@ jobs:
           git add -A cases state
           if git diff --cached --quiet; then echo "Kuch naya nahi"; exit 0; fi
           git commit -q -m "naye cases: $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
-          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }
+          git push -q origin data || { git pull -q --rebase -X theirs origin data && git push -q origin data; }
       - name: Saaf karo
         if: always()
         run: git worktree remove --force databranch || true

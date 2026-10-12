@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: case-lookup
+  group: case-records   # Naye cases ke saath ek hi line (dono cases/ likhte hain)
   cancel-in-progress: false
 
 jobs:
@@ -75,7 +75,7 @@ jobs:
           git add -A
           if git diff --cached --quiet; then echo "Kuch naya nahi"; exit 0; fi
           git commit -q -m "case lookup: $CASES"
-          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }
+          git push -q origin data || { git pull -q --rebase -X theirs origin data && git push -q origin data; }
 
       - name: App site update
         if: always()
