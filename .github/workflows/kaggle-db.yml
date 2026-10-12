@@ -87,8 +87,11 @@ jobs:
           kaggle datasets download "$DATASET" -p "$W/db" --unzip
           cd "$W/db" && ls -la
           for z in *.zip; do [ -f "$z" ] && unzip -q "$z" && rm "$z"; done
-          [ -f krishivlaw.db.gz ] && gunzip krishivlaw.db.gz
-          test -f krishivlaw.db || { echo "krishivlaw.db nahi mila"; ls -la; exit 1; }
+          # naam kuch bhi ho: pehli .db.gz / .gz ya .db file lo
+          g=$(ls -S *.gz 2>/dev/null | head -1 || true)
+          [ -n "$g" ] && gunzip -c "$g" > krishivlaw.db.tmp && rm "$g" && mv krishivlaw.db.tmp krishivlaw.db
+          [ -f krishivlaw.db ] || { d=$(ls -S *.db *.sqlite 2>/dev/null | head -1 || true); [ -n "$d" ] && mv "$d" krishivlaw.db; }
+          test -f krishivlaw.db || { echo "database file nahi mili"; ls -la; exit 1; }
           sqlite3 krishivlaw.db "PRAGMA quick_check;" | head -3
           sqlite3 krishivlaw.db "SELECT court, count(*) FROM judgments GROUP BY court;"
       - name: Naye orders database mein
