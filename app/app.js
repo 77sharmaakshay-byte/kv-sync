@@ -147,7 +147,7 @@
         }
         input.addEventListener('input', draw);
         Array.prototype.forEach.call(document.querySelectorAll('.day'), function (b) {
-          b.addEventListener('click', function () { location.hash = '#/list?d=' + b.getAttribute('data-day') + '&q=' + encodeURIComponent(input.value); });
+          b.addEventListener('click', function () { go('#/list?d=' + b.getAttribute('data-day') + '&q=' + encodeURIComponent(input.value)); });
         });
         draw();
       });
@@ -274,12 +274,12 @@
       html += n.similar.map(function (j) {
         return '<div class="card"><div class="chips"><span class="chip ' + (j.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(j.court) + '</span><span class="chip ' + (j.verified ? 'good' : 'warn') + '">' + esc(j.tag) + '</span></div>' +
           '<b class="serif" style="font-size:18px">' + esc(j.title) + '</b><span class="muted">' + esc(j.cite) + '</span><p class="p">' + esc(j.why) + '</p>' +
-          (j.quote ? '<p class="p serif" style="background:#F7F5F0;padding:10px 12px;border-radius:10px">' + esc(j.quote) + '</p>' : '') + '</div>';
+          (j.quote ? '<p class="p serif" style="background:var(--line-2);padding:10px 12px;border-radius:10px">' + esc(j.quote) + '</p>' : '') + '</div>';
       }).join('');
     }
     render(html + '</div>');
     Array.prototype.forEach.call(document.querySelectorAll('.tabs button'), function (b) {
-      b.addEventListener('click', function () { location.hash = '#/case/' + c.id + '?t=' + b.getAttribute('data-t'); });
+      b.addEventListener('click', function () { go('#/case/' + c.id + '?t=' + b.getAttribute('data-t')); });
     });
   }
   function pts(title, kind, sign, list) {
@@ -302,12 +302,25 @@
     document.getElementById('f').addEventListener('submit', function (ev) {
       ev.preventDefault();
       store('ns-name', document.getElementById('name').value.trim());
-      location.hash = '#/';
+      go('#/');
     });
   }
 
+  // Router: '#/...' links; kuch jagah (jaise embedded frame) URL hash nahi badalta, isliye apna 'cur' bhi.
+  var cur = location.hash || '#/';
+  function go(h) {
+    cur = h;
+    try { history.replaceState(null, '', h); } catch (e) { /* frame mein mana ho to bhi chale */ }
+    route();
+  }
+  document.addEventListener('click', function (ev) {
+    var a = ev.target.closest && ev.target.closest('a[href^="#/"]');
+    if (!a) return;
+    ev.preventDefault();
+    go(a.getAttribute('href'));
+  });
   function route() {
-    var h = location.hash.replace(/^#/, '') || '/';
+    var h = cur.replace(/^#/, '') || '/';
     var parts = h.split('?'), path = parts[0], params = {};
     (parts[1] || '').split('&').forEach(function (kv) { if (!kv) return; var p = kv.split('='); params[p[0]] = decodeURIComponent(p[1] || ''); });
     if (path === '/' || path === '') return viewHome();
@@ -317,7 +330,7 @@
     if (path.indexOf('/case/') === 0) return viewCase(path.slice(6), params);
     viewHome();
   }
-  window.addEventListener('hashchange', route);
+  window.addEventListener('hashchange', function () { cur = location.hash || '#/'; route(); });
   route();
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
