@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1477/2021:2022-11-14-002",
+ "title": "HARPAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARPAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1477/2021",
+ "case_type": "WPSS",
+ "decision_date": "2022-11-14",
+ "cnr": "UKHC010143612021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1477/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkHvVbRcvPs26u3BXyJ4haSWRd1LO%2Bk%2Bq6ODnhYTCmRJK&caseno=WPSS/1477/2021&cCode=1&cino=UKHC010143612021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "16be6e2a076e67faa2f085fadeb549a879cf8c29dca24b7a3bf217a3d9bc8d38",
+ "fetched_at": "2026-10-12T19:57:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

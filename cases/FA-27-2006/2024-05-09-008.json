@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/27/2006:2024-05-09-008",
+ "title": "STATE versus RAVI KUMAR",
+ "petitioner": "STATE",
+ "respondent": "RAVI KUMAR",
+ "case_no": "FA/27/2006",
+ "case_type": "FA",
+ "decision_date": "2024-05-09",
+ "cnr": "UKHC010002922006",
+ "doc_kind": "order",
+ "order_type": "IA/4528/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FqDBsDHvzMM9z57RVihxzBhpHas1TJJ6GUhM6gwnkV1oDXT%2FwQyFbVv5eux7W1zz&caseno=FA/27/2006&cCode=1&cino=UKHC010002922006&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d8c9bcdaf9131afa2c52d6935e1c821f595cea98905050a4732d1456a9886c9d",
+ "fetched_at": "2026-10-12T19:55:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

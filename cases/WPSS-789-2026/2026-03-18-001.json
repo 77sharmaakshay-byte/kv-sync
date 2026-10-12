@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/789/2026:2026-03-18-001",
+ "title": "MAHADEV NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHADEV NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/789/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-03-18",
+ "cnr": "UKHC010039892026",
+ "doc_kind": "order",
+ "order_type": "WPSS/789/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhOcfeok6j13%2FrHxx8o18SXhLy6hvOvpu%2FQ0a%2F2p4%2Bcz&caseno=WPSS/789/2026&cCode=1&cino=UKHC010039892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e7fdc9a50b9954311586abc654a762722596b49d1512cd38e3f9f7120fc03c4e",
+ "fetched_at": "2026-10-12T19:46:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2121/2025:2026-08-11-003",
+ "title": "RAKESH versus STATE OF UTTARAKHAND",
+ "petitioner": "RAKESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2121/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010193112025",
+ "doc_kind": "order",
+ "order_type": "WPSS/2121/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmx9jTmq4oFq64LUndkdaZjn6tPOHViF1%2BSh7%2BNZC0EtD&caseno=WPSS/2121/2025&cCode=1&cino=UKHC010193112025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6ff731939fab672a77319d856be841f65c3b8449ad0389350d594041b5815947",
+ "fetched_at": "2026-10-12T19:59:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

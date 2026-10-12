@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2290/2025:2026-08-11-002",
+ "title": "BRIJPAL SAINI versus STATE OF UTTARAKHAND",
+ "petitioner": "BRIJPAL SAINI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2290/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010208112025",
+ "doc_kind": "order",
+ "order_type": "WPSS/2290/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1rmVGFSp25rJ22c0gQ1PyGkhYu7kc6fNKK2gxlVGSP1&caseno=WPSS/2290/2025&cCode=1&cino=UKHC010208112025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d9135b48ed39c0b67f188e5b3040867c461b10fdff31029eb7909eff7dd18518",
+ "fetched_at": "2026-10-12T19:59:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

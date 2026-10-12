@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/22651/1997:2023-07-19-001",
+ "title": "RAVI KUMAR versus BOARD OF REVENUE and OTHER",
+ "petitioner": "RAVI KUMAR",
+ "respondent": "BOARD OF REVENUE and OTHER",
+ "case_no": "WPMS/22651/1997",
+ "case_type": "WPMS",
+ "decision_date": "2023-07-19",
+ "cnr": "UKHC010213322003",
+ "doc_kind": "order",
+ "order_type": "WPMS/22651/1997",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=cYEgRZPQMmW72oYryEOtr3OzlyZjgb19fPKdmbhEX3%2BIio9nADKThbm2LdA7vqWx&caseno=WPMS/22651/1997&cCode=1&cino=UKHC010213322003&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0aaff01378b5e1dee91a1b3d65301153b5a2005b8eb10039832179b061e9842f",
+ "fetched_at": "2026-10-12T19:55:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

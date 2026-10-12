@@ -1,0 +1,80 @@
+{
+ "cnr_number": "UKHC010040822025",
+ "case_type": "WPSS",
+ "filing_number": "WPSS /2002/2025",
+ "filing_date": "2025-03-25",
+ "registration_number": "WPSS /423/2025",
+ "registration_date": "2025-03-25",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-13",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "CHANDRA MANI SINGH",
+   "advocate": "NEETU SINGH,ANAMIKA BASIWAL,ANAMIKA BASIWAL, ANAMIKA BASIWAL"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "MANAGING DIRECTOR UTTARAKHAND TRANSPORT CORPORATION",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "GENEREAL MANAGER (OPERATION)",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "ASSISTANT GENERAL MANAGER (FINANCE)",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "FINANCE CONTROLLER",
+   "advocate": "LALIT SAMANT"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2025-03-26",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-23",
+   "business_date": "2026-04-07",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-08",
+   "business_date": "2025-04-04",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-03-26",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

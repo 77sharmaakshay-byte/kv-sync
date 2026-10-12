@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/533/2025:2025-12-10-006",
+ "title": "ANJU versus STATE OF UTTARAKHAND",
+ "petitioner": "ANJU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/533/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-12-10",
+ "cnr": "UKHC010047902025",
+ "doc_kind": "order",
+ "order_type": "WPSS/533/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyS9Kc%2BiW9ppPSCmoeJuuvndmy%2BmJG4pFPDTfkUa7iJy&caseno=WPSS/533/2025&cCode=1&cino=UKHC010047902025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9497ac9b18d100e103acb4f00637a529ae7aacd7e330d4ff39839c97791d9f43",
+ "fetched_at": "2026-10-12T19:31:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

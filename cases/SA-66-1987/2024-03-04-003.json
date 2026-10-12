@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/66/1987:2024-03-04-003",
+ "title": "STATE versus VIRENDRA KUMAR",
+ "petitioner": "STATE",
+ "respondent": "VIRENDRA KUMAR",
+ "case_no": "SA/66/1987",
+ "case_type": "SA",
+ "decision_date": "2024-03-04",
+ "cnr": "UKHC010219592003",
+ "doc_kind": "order",
+ "order_type": "SA/66/1987",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=cYEgRZPQMmW72oYryEOtrzUEplpAqO%2FWFEvgQmt1iOxiQx5NqEpTcQvOvWGQVYH%2F&caseno=SA/66/1987&cCode=1&cino=UKHC010219592003&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c2d857567f76e02b5a94fc19d0e8a553a2ab0c39d652ab43f5bfaf41b0fd2d1d",
+ "fetched_at": "2026-10-12T19:54:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

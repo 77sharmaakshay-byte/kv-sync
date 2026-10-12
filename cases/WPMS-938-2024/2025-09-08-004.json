@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/938/2024:2025-09-08-004",
+ "title": "ABDUL HAMEED versus SAHEED AHMAD",
+ "petitioner": "ABDUL HAMEED",
+ "respondent": "SAHEED AHMAD",
+ "case_no": "WPMS/938/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-09-08",
+ "cnr": "UKHC010052052024",
+ "doc_kind": "order",
+ "order_type": "WPMS/938/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcNU6FeNN6K45JM3nBJxT%2BwvHKyoqxc0a%2B2neYCkPhueC&caseno=WPMS/938/2024&cCode=1&cino=UKHC010052052024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4820e3e6074cba2d72790fe5c7b24a0bee84502efb985f5091c510d495d7ad3e",
+ "fetched_at": "2026-10-12T20:08:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/694/2026:2026-03-10-001",
+ "title": "AKASH versus STATE OF UTTARAKHAND",
+ "petitioner": "AKASH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/694/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-03-10",
+ "cnr": "UKHC010033712026",
+ "doc_kind": "order",
+ "order_type": "WPSS/694/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtZmOI0hUvIIrLZWnkvSf0IMTYJenSv1LoMVJOfjjbPx&caseno=WPSS/694/2026&cCode=1&cino=UKHC010033712026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5a2c116d5138066ba329d2839ddd70a4be27875e79a5e484674478ffe94fc588",
+ "fetched_at": "2026-10-12T19:59:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

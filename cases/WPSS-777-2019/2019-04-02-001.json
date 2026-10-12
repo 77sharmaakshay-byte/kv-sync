@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/777/2019:2019-04-02-001",
+ "title": "HIMANSHU BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "HIMANSHU BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/777/2019",
+ "case_type": "WPSS",
+ "decision_date": "2019-04-02",
+ "cnr": "UKHC010046772019",
+ "doc_kind": "order",
+ "order_type": "WPSS/777/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF8nUBQkIkb5jUKrn1N22y%2B0EnhViWp4z64R8pZCNXQCD&caseno=WPSS/777/2019&cCode=1&cino=UKHC010046772019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "30a48070fd59f0900c72c0cdfebd96ad042d5c823d162586914a4e34a77344ea",
+ "fetched_at": "2026-10-12T20:05:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

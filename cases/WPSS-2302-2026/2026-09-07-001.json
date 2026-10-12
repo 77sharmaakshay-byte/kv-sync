@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2302/2026:2026-09-07-001",
+ "title": "VIRENDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "VIRENDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2302/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010153852026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2302/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsPxwYTguIHvgP8C1ZcVKeWw9sVaIp5jU5dFh3ITD5fp&caseno=WPSS/2302/2026&cCode=1&cino=UKHC010153852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1cd64292ebbf105ac9439a8ea1a8005e011babb585add7daf7b15b8c40d420a8",
+ "fetched_at": "2026-10-12T20:03:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

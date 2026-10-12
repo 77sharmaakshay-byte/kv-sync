@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1918/2026:2026-08-05-003",
+ "title": "ANKIT BIST versus STATE OF UTTARAKHAND",
+ "petitioner": "ANKIT BIST",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1918/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-05",
+ "cnr": "UKHC010125902026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1918/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhsiqsBmyVPW4Y9s3LjxvYzb%2Fl0pQ3DN9CP22KBkaNDb&caseno=WPSS/1918/2026&cCode=1&cino=UKHC010125902026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "85bbb41cd3ee967b0e49106d55d34b5f97754d34c02e3c2ddb65f1f8cb3ab0d0",
+ "fetched_at": "2026-10-12T19:52:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

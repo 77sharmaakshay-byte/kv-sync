@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/408/2022:2026-03-10-007",
+ "title": "KANHAIYA LAL versus LIFE INSURANCE CORPORATION OF INDIA",
+ "petitioner": "KANHAIYA LAL",
+ "respondent": "LIFE INSURANCE CORPORATION OF INDIA",
+ "case_no": "WPSS/408/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-03-10",
+ "cnr": "UKHC010029682022",
+ "doc_kind": "order",
+ "order_type": "WPSS/408/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT04xDShn6N3%2F9s17tB65wXtKuGWzN7uTB4co%2BsspOX%2F%2FR&caseno=WPSS/408/2022&cCode=1&cino=UKHC010029682022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fbd1975b586b8e0d0a20878a96c94f5c864d5aa57f5e179fa76febf7dd75db35",
+ "fetched_at": "2026-10-12T20:06:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

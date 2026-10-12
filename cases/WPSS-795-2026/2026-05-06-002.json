@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/795/2026:2026-05-06-002",
+ "title": "VIJAY KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/795/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-06",
+ "cnr": "UKHC010039952026",
+ "doc_kind": "order",
+ "order_type": "WPSS/795/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQux6xaprcEphhN2dYU9T9mtuJvFvqnv%2BZc4CPM9PbYgG&caseno=WPSS/795/2026&cCode=1&cino=UKHC010039952026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "53d1cac5ae75d276881232747a42ae313d91a9b038b88c62aa99b90912b3e93d",
+ "fetched_at": "2026-10-12T19:48:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

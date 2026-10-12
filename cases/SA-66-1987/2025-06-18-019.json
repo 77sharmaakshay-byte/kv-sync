@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/66/1987:2025-06-18-019",
+ "title": "STATE versus VIRENDRA KUMAR",
+ "petitioner": "STATE",
+ "respondent": "VIRENDRA KUMAR",
+ "case_no": "SA/66/1987",
+ "case_type": "SA",
+ "decision_date": "2025-06-18",
+ "cnr": "UKHC010219592003",
+ "doc_kind": "order",
+ "order_type": "SA/66/1987",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=cYEgRZPQMmW72oYryEOtrzUEplpAqO%2FWFEvgQmt1iOyMTjd58JwGKYD850pelLxu&caseno=SA/66/1987&cCode=1&cino=UKHC010219592003&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd4f45e96216a1aac441046ce3cc90aab966f7e93c4cfa6a839706d2cf5549fe",
+ "fetched_at": "2026-10-12T19:54:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

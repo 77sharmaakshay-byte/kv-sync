@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/842/2026:2026-03-23-001",
+ "title": "HIMANSHU CHANDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "HIMANSHU CHANDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/842/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-03-23",
+ "cnr": "UKHC010042982026",
+ "doc_kind": "order",
+ "order_type": "WPSS/842/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgrw4eLc3Pjhh1RRKbBipFzy1u03qfgG8VNKaxz9xvI7&caseno=WPSS/842/2026&cCode=1&cino=UKHC010042982026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "896191194c06b6de67f753cb465b73b26b42c06961787a8fca180a5da8b82c9a",
+ "fetched_at": "2026-10-12T19:51:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

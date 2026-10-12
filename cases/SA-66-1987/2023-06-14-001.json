@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/66/1987:2023-06-14-001",
+ "title": "STATE versus VIRENDRA KUMAR",
+ "petitioner": "STATE",
+ "respondent": "VIRENDRA KUMAR",
+ "case_no": "SA/66/1987",
+ "case_type": "SA",
+ "decision_date": "2023-06-14",
+ "cnr": "UKHC010219592003",
+ "doc_kind": "order",
+ "order_type": "SA/66/1987",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=cYEgRZPQMmW72oYryEOtrzUEplpAqO%2FWFEvgQmt1iOzpH27OeFCUTnrQTj1%2BQhRp&caseno=SA/66/1987&cCode=1&cino=UKHC010219592003&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ee843e98e5b060eb1da6f66071274abaa2440ebea0c88adef1949bbb6d1955fe",
+ "fetched_at": "2026-10-12T19:54:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

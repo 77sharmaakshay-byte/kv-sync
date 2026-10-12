@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1974/2026:2026-07-27-001",
+ "title": "PRADIP CHAKRABORTY versus UNION OF INDIA",
+ "petitioner": "PRADIP CHAKRABORTY",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1974/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-27",
+ "cnr": "UKHC010130182026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1974/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkl9n4sDS%2Fzg2uojtUwAoIFiumXA32bMeYo7YKcZr0t6&caseno=WPSS/1974/2026&cCode=1&cino=UKHC010130182026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c33fb764c42184037ba8ee2774c8f806baf98f7d768d3c178d76b8c63dc282ff",
+ "fetched_at": "2026-10-12T19:52:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1412/2026:2026-05-29-001",
+ "title": "MEENAKSHI ARYA versus STATE OF UTTARAKHAND",
+ "petitioner": "MEENAKSHI ARYA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1412/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-29",
+ "cnr": "UKHC010090712026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1412/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQorzubZhTquZl2%2BMB84OK9xoSL7fJJzA5mZ244eBpHAz&caseno=WPSS/1412/2026&cCode=1&cino=UKHC010090712026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ef3c998cfbd00729e98b6e03896ebc7224da6f58b213b3792f598ca3019ff195",
+ "fetched_at": "2026-10-12T20:02:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

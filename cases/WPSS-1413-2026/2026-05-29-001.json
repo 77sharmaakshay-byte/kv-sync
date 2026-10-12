@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1413/2026:2026-05-29-001",
+ "title": "URVASHI BHANDARI versus STATE OF UTTARAKHAND",
+ "petitioner": "URVASHI BHANDARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1413/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-29",
+ "cnr": "UKHC010091062026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1413/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrINw9o8kNi2m7ZlXHdv92FUDQmf6yiqqv0mkG6mZw75&caseno=WPSS/1413/2026&cCode=1&cino=UKHC010091062026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6133155994638c5a91d9438a369c9e05042e4cf281b3011240d016ac62e48a22",
+ "fetched_at": "2026-10-12T20:02:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/522/2026:2026-02-23-001",
+ "title": "PREMWATI versus STATE OF UTTARAKHAND",
+ "petitioner": "PREMWATI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/522/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-02-23",
+ "cnr": "UKHC010025882026",
+ "doc_kind": "order",
+ "order_type": "WPSS/522/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo2fJUVVRBwuvBJHrqxTSZNk%2FJGnHhXApOJhiI5jWO7S&caseno=WPSS/522/2026&cCode=1&cino=UKHC010025882026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "218205598bf98875876bd2e52495dec98a6b7a085f94d54b85a25122e6466c4a",
+ "fetched_at": "2026-10-12T19:59:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

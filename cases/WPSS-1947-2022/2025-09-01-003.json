@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1947/2022:2025-09-01-003",
+ "title": "BUDDHIRAM versus STATE OF UTTARAKHAND",
+ "petitioner": "BUDDHIRAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1947/2022",
+ "case_type": "WPSS",
+ "decision_date": "2025-09-01",
+ "cnr": "UKHC010148082022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1947/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05CIPN0Ajgns59zKtfeKunfpTgVH2mydGPoSl2OJP8vQ&caseno=WPSS/1947/2022&cCode=1&cino=UKHC010148082022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "394c044babd78d712c6861fdadf0835689c645e95f118dfdc3e15748ffe1f966",
+ "fetched_at": "2026-10-12T20:07:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

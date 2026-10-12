@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1482/2026:2026-06-08-001",
+ "title": "ATUL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ATUL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1482/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-06-08",
+ "cnr": "UKHC010098672026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1482/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvKF9mSj7lskZhI1fQYQYNS8yaV4bTVA%2BsrDBtQ9FubY&caseno=WPSS/1482/2026&cCode=1&cino=UKHC010098672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "aa5b2806f4fe30486abb1526d35a67f67af4eb278c122fcb36e2ae9179d60cc3",
+ "fetched_at": "2026-10-12T19:53:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

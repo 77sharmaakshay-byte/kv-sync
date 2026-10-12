@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/765/2026:2026-03-16-001",
+ "title": "MOHD ARBAZ versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD ARBAZ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/765/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-03-16",
+ "cnr": "UKHC010038362026",
+ "doc_kind": "order",
+ "order_type": "WPSS/765/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk42qqda08kfvMGeNVUl6KeOMmfeY%2B%2BeWlQYK5SmOFOp&caseno=WPSS/765/2026&cCode=1&cino=UKHC010038362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "71d112a6a39769283c39c3c62cbd90c92684cb6298a38dfa3c8b282f57b70c93",
+ "fetched_at": "2026-10-12T19:45:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

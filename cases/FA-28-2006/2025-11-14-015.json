@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/28/2006:2025-11-14-015",
+ "title": "STATE versus RAVI KUMAR",
+ "petitioner": "STATE",
+ "respondent": "RAVI KUMAR",
+ "case_no": "FA/28/2006",
+ "case_type": "FA",
+ "decision_date": "2025-11-14",
+ "cnr": "UKHC010038782006",
+ "doc_kind": "order",
+ "order_type": "FA/28/2006",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FqDBsDHvzMM9z57RVihxzPRW89dKRBXYPRifgwPtEoAAywMKod%2B8mRaPuuV9Eo%2BQ&caseno=FA/28/2006&cCode=1&cino=UKHC010038782006&state_code=15&court_code=1&&appFlag=",
+ "sha256": "64385f3b9d335507c8d92a776f805181278c99e9709b8c1be977500f5f9b730c",
+ "fetched_at": "2026-10-12T19:56:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

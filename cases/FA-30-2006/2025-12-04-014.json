@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/30/2006:2025-12-04-014",
+ "title": "STATE versus SMT. ISHWARI DEVI (DECEASED)",
+ "petitioner": "STATE",
+ "respondent": "SMT. ISHWARI DEVI (DECEASED)",
+ "case_no": "FA/30/2006",
+ "case_type": "FA",
+ "decision_date": "2025-12-04",
+ "cnr": "UKHC010038792006",
+ "doc_kind": "order",
+ "order_type": "FA/30/2006",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FqDBsDHvzMM9z57RVihxzI6d07ZxF%2B%2FBzLqfmAQa6ZAwegpcnpDPDEfQEDV6vnO7&caseno=FA/30/2006&cCode=1&cino=UKHC010038792006&state_code=15&court_code=1&&appFlag=",
+ "sha256": "33d63a56c9d9ba2b80a2def9b456a64d2ec2be3238fc4a910a4dab49bb0223b5",
+ "fetched_at": "2026-10-12T19:56:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

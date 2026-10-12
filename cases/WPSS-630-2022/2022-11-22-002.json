@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/630/2022:2022-11-22-002",
+ "title": "DIWANI RAM versus STATE OF UTTARAKHAND",
+ "petitioner": "DIWANI RAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/630/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-11-22",
+ "cnr": "UKHC010044532022",
+ "doc_kind": "order",
+ "order_type": "WPSS/630/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT09P6pKznRFg%2BrY56h%2Byz5xwK4ZyPRNvQUirO0cZJ9hHl&caseno=WPSS/630/2022&cCode=1&cino=UKHC010044532022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "59fddf2bcb5d14c95ea3b04034168246e5faa04fb76299ac004a23042dd11983",
+ "fetched_at": "2026-10-12T19:57:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/28/2006:2023-06-14-001",
+ "title": "STATE versus RAVI KUMAR",
+ "petitioner": "STATE",
+ "respondent": "RAVI KUMAR",
+ "case_no": "FA/28/2006",
+ "case_type": "FA",
+ "decision_date": "2023-06-14",
+ "cnr": "UKHC010038782006",
+ "doc_kind": "order",
+ "order_type": "FA/28/2006",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FqDBsDHvzMM9z57RVihxzPRW89dKRBXYPRifgwPtEoDsF%2F6gPeUC5B73j7A8w7s8&caseno=FA/28/2006&cCode=1&cino=UKHC010038782006&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f9dbc196d1c9856503a490ee44327568c2f9521d6b16e9a64349b39e937ff4e2",
+ "fetched_at": "2026-10-12T19:55:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

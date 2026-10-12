@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1408/2026:2026-05-27-001",
+ "title": "VIMLA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "VIMLA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1408/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-27",
+ "cnr": "UKHC010090032026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1408/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh1mohND0oQKEhUy%2FanqWktVNLdwqkpAlJ1aV6V%2BkvPM&caseno=WPSS/1408/2026&cCode=1&cino=UKHC010090032026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ed2d3128eab50f2ee5ea3d50572fc27da45389ad40498f622357f05816f56c3",
+ "fetched_at": "2026-10-12T20:01:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

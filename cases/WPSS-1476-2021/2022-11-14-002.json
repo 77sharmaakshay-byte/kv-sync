@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1476/2021:2022-11-14-002",
+ "title": "BABTESH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "BABTESH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1476/2021",
+ "case_type": "WPSS",
+ "decision_date": "2022-11-14",
+ "cnr": "UKHC010143602021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1476/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkAsDIzI89Hd9xoRGLDvIZJEbdekRPsjIP%2BaCpgOmTHBJ&caseno=WPSS/1476/2021&cCode=1&cino=UKHC010143602021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1309d3a8b5877fd79171e7aa31050854e3654b3dd2a84ba9c518cacee5c2e2dd",
+ "fetched_at": "2026-10-12T19:57:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

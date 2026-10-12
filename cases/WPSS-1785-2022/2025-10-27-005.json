@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1785/2022:2025-10-27-005",
+ "title": "POOJA versus STATE OF UTTARAKHAND",
+ "petitioner": "POOJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1785/2022",
+ "case_type": "WPSS",
+ "decision_date": "2025-10-27",
+ "cnr": "UKHC010134982022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1785/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07UEUGMEwiGt5I3OUG%2Bu2C2Yt5%2FmqAO9%2BnU3WH1MT2tq&caseno=WPSS/1785/2022&cCode=1&cino=UKHC010134982022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d50e00927efb5b1fdfc770518956dca8923c24f8a66a3e623a94ce391a3f51d",
+ "fetched_at": "2026-10-12T19:58:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

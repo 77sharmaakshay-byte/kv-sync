@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1947/2022:2023-05-15-002",
+ "title": "BUDDHIRAM versus STATE OF UTTARAKHAND",
+ "petitioner": "BUDDHIRAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1947/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-05-15",
+ "cnr": "UKHC010148082022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1947/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05CIPN0Ajgns59zKtfeKundjH4tjRiNvVXA8GxwNzvS0&caseno=WPSS/1947/2022&cCode=1&cino=UKHC010148082022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2e159b8c5d5276b7bc441dc9220e6f265fa45740d0e926b4cd33dba462c16367",
+ "fetched_at": "2026-10-12T20:07:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

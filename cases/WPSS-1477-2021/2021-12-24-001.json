@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1477/2021:2021-12-24-001",
+ "title": "HARPAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARPAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1477/2021",
+ "case_type": "WPSS",
+ "decision_date": "2021-12-24",
+ "cnr": "UKHC010143612021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1477/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkHvVbRcvPs26u3BXyJ4haSW%2Fpk%2FQFwWUO8CRphsfuL%2B%2B&caseno=WPSS/1477/2021&cCode=1&cino=UKHC010143612021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e32f20a464c59a28e66e85caeb6fff5e13c088af107bbd42d99778ed9ff887e4",
+ "fetched_at": "2026-10-12T19:57:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

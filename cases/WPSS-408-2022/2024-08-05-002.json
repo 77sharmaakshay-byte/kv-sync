@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/408/2022:2024-08-05-002",
+ "title": "KANHAIYA LAL versus LIFE INSURANCE CORPORATION OF INDIA",
+ "petitioner": "KANHAIYA LAL",
+ "respondent": "LIFE INSURANCE CORPORATION OF INDIA",
+ "case_no": "WPSS/408/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-08-05",
+ "cnr": "UKHC010029682022",
+ "doc_kind": "order",
+ "order_type": "WPSS/408/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT04xDShn6N3%2F9s17tB65wXtIv75Hc1RCjaSKNku8oxi7F&caseno=WPSS/408/2022&cCode=1&cino=UKHC010029682022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c307d46be3f5b8e181b22dae86e9bded23d97eaaf2fd121887f7e5944793c212",
+ "fetched_at": "2026-10-12T20:06:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

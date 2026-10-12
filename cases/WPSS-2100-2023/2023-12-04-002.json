@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2100/2023:2023-12-04-002",
+ "title": "RAJEEV SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJEEV SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2100/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-04",
+ "cnr": "UKHC010183982023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2100/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6Bbxq0jzlvg67D4pcdLYuAgBh3ckTHVpX4QogrrXp7H&caseno=WPSS/2100/2023&cCode=1&cino=UKHC010183982023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d6fdb5f28da3accedee2c8a0d28f0f260499874daae2d496776a59282478aa6b",
+ "fetched_at": "2026-10-12T19:53:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1407/2026:2026-06-02-002",
+ "title": "MAHIPAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHIPAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1407/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-06-02",
+ "cnr": "UKHC010090062026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1407/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQueVQv%2BodkVjyXea%2BdSdXGgKCy981CqETyYuZeFVW2xi&caseno=WPSS/1407/2026&cCode=1&cino=UKHC010090062026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "160996c4d60c5d7823135162bc7387705dbb91b10b813ef00ba6500e66d70a12",
+ "fetched_at": "2026-10-12T20:01:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

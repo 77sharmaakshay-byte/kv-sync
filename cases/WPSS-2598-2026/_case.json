@@ -1,0 +1,69 @@
+{
+ "cnr_number": "UKHC010179342026",
+ "case_type": "WPSS",
+ "filing_number": "WPSS /9321/2026",
+ "filing_date": "2026-10-06",
+ "registration_number": "WPSS /2598/2026",
+ "registration_date": "2026-10-06",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-13",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "DINESH KUMAR THAPLIYAL",
+   "advocate": "NAMAN KAMBOJ"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "DISTRICT MAGISTRATE",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "DIRECTOR TREASURY PENSION AND ENTITLEMENT",
+   "advocate": "C.S.C."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-08",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-13",
+   "business_date": "2026-10-12",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-08",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

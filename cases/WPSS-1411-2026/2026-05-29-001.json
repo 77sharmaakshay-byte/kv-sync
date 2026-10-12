@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1411/2026:2026-05-29-001",
+ "title": "SANDHYA SIRSWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SANDHYA SIRSWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1411/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-29",
+ "cnr": "UKHC010090772026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1411/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkHRGAP0G9IZXkEcsRjskU0rNiya6BRYs8IEGXvHd18e&caseno=WPSS/1411/2026&cCode=1&cino=UKHC010090772026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "07aeb525fa4d0804801be65f00aea2631d63c9d93b9337f8a640dc588323a964",
+ "fetched_at": "2026-10-12T20:02:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

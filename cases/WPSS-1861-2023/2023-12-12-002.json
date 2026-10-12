@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1861/2023:2023-12-12-002",
+ "title": "ABHISHEK KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ABHISHEK KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1861/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-12",
+ "cnr": "UKHC010160182023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1861/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY79NVbKXXNKoIKCby1O%2FxG0HJbfhsbvrC6h30Z12Qpj4&caseno=WPSS/1861/2023&cCode=1&cino=UKHC010160182023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eef728ed90482ebed3882fa1a4d68af3b49002f2971283f5189274918f023495",
+ "fetched_at": "2026-10-12T20:08:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

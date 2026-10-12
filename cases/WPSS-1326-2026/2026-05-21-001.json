@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1326/2026:2026-05-21-001",
+ "title": "VIKRAMJEET SINGH versus UNION OF INDIA",
+ "petitioner": "VIKRAMJEET SINGH",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1326/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-21",
+ "cnr": "UKHC010084432026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1326/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuuQgl0eSgy0lslYblVRBvesloFvM3hwvpt0BUUdxxxb&caseno=WPSS/1326/2026&cCode=1&cino=UKHC010084432026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e97c03bef39a52d66865593b1ae000f82bea37ddc33d0a5f11c5f1960a749dab",
+ "fetched_at": "2026-10-12T19:59:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

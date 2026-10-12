@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1353/2021:2022-02-22-003",
+ "title": "SHUBHAM KUMAR versus INDIAN INSTITUTE TECHNOLOGY ROORKEE",
+ "petitioner": "SHUBHAM KUMAR",
+ "respondent": "INDIAN INSTITUTE TECHNOLOGY ROORKEE",
+ "case_no": "WPSS/1353/2021",
+ "case_type": "WPSS",
+ "decision_date": "2022-02-22",
+ "cnr": "UKHC010130542021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1353/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkGFICd9wLhWcBnffFOtVyTINjVzqmdFOpN8zRzQwvVi5&caseno=WPSS/1353/2021&cCode=1&cino=UKHC010130542021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5518a845a43484653fd37f1a219c2345e8bf8163a90c08459be3b65da5300ab0",
+ "fetched_at": "2026-10-12T19:53:24+00:00",
+ "fetched_by": "fetch_live.py"
+}
