@@ -104,6 +104,11 @@ jobs:
           test -f krishivlaw.db || { echo "database file nahi mili"; ls -la; exit 1; }
           sqlite3 krishivlaw.db "PRAGMA quick_check;" | head -3
           sqlite3 krishivlaw.db "SELECT court, count(*) FROM judgments GROUP BY court;"
+          # Kaggle kabhi naya version tayyar hone tak purana deta hai; us par banaya to naye faisle mit jaate
+          now=$(sqlite3 krishivlaw.db "SELECT count(*) FROM judgments;")
+          want=$(cat "$GITHUB_WORKSPACE/databranch/state/kaggle_judgments" 2>/dev/null || echo 0)
+          echo "faisle: Kaggle par $now, pichhli baar bheje $want"
+          [ "$now" -ge "$want" ] || { echo "Kaggle ne purana version diya — kuch nahi badla, baad mein dobara chalao"; exit 1; }
       - name: Naye orders database mein
         if: steps.new.outputs.count != '0'
         run: |
@@ -113,6 +118,7 @@ jobs:
           sqlite3 "$W/db/krishivlaw.db" "SELECT DISTINCT cnr FROM judgments WHERE court='UKHC' AND cnr IS NOT NULL;" \
             | gzip -9 > databranch/state/known_ukhc_cnrs.txt.gz
           echo "known CNR: $(zcat databranch/state/known_ukhc_cnrs.txt.gz | wc -l)"
+          sqlite3 "$W/db/krishivlaw.db" "SELECT count(*) FROM judgments;" > databranch/state/kaggle_judgments
       - name: Naya version Kaggle par
         if: steps.new.outputs.count != '0'
         run: |
