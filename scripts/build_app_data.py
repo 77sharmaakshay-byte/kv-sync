@@ -158,6 +158,10 @@ def build_cases(src, out):
         c = json.loads(case_json.read_text(encoding="utf-8"))
         if not c.get("registration_number"):  # lookup mein case nahi mila; app cause list se dikhayegi
             continue
+        # hcservices kabhi agli tareekh ko 'decision date' + "Case disposed" dikha deta hai; aage ki tareekh faisla nahi
+        if (c.get("decision_date") or "") > dt.date.today().isoformat():
+            c["next_hearing_date"] = c.get("next_hearing_date") or c["decision_date"]
+            c["decision_date"], c["status"] = None, None
         orders = []
         for side in sorted(folder.glob("*.json")):
             if side.name.startswith("_"):
