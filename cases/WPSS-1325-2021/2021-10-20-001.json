@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1325/2021:2021-10-20-001",
+ "title": "PREM SINGH BRIJWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM SINGH BRIJWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1325/2021",
+ "case_type": "WPSS",
+ "decision_date": "2021-10-20",
+ "cnr": "UKHC010127222021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1325/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkACOjuJtLHHaABeirVY7zxD4Hn0xlfKASitbWLRm7ohZ&caseno=WPSS/1325/2021&cCode=1&cino=UKHC010127222021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9a67a256129bf44d0b2052272e2677ef6ecf5fdfc84dc3233b80c880b876d68f",
+ "fetched_at": "2026-10-12T08:37:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

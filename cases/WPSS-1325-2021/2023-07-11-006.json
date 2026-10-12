@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1325/2021:2023-07-11-006",
+ "title": "PREM SINGH BRIJWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM SINGH BRIJWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1325/2021",
+ "case_type": "WPSS",
+ "decision_date": "2023-07-11",
+ "cnr": "UKHC010127222021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1325/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkACOjuJtLHHaABeirVY7zxDw21I3SyJIlGu9mFY%2B9XmK&caseno=WPSS/1325/2021&cCode=1&cino=UKHC010127222021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ec5a40fdf5b82186ed1329b6ae00539e1775691d50594894e16c0704ef23fbe6",
+ "fetched_at": "2026-10-12T08:37:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

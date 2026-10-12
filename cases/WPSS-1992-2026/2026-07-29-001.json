@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1992/2026:2026-07-29-001",
+ "title": "SMT SATESHWARI versus STATE OF UTTARAKHAND",
+ "petitioner": "SMT SATESHWARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1992/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-29",
+ "cnr": "UKHC010131702026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1992/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtbQQiaoH072rvuZEvOvOX37GfB7Ei4AFNaMCU4NvJtP&caseno=WPSS/1992/2026&cCode=1&cino=UKHC010131702026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "20e474560b82942b9ba1ae451b9a72b354d927d9cdc64c97b669109033a810a9",
+ "fetched_at": "2026-10-12T08:36:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

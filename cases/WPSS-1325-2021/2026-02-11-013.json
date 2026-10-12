@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1325/2021:2026-02-11-013",
+ "title": "PREM SINGH BRIJWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM SINGH BRIJWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1325/2021",
+ "case_type": "WPSS",
+ "decision_date": "2026-02-11",
+ "cnr": "UKHC010127222021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1325/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkACOjuJtLHHaABeirVY7zxCu0%2BJbQpq1O3lx7y5dO%2Bxj&caseno=WPSS/1325/2021&cCode=1&cino=UKHC010127222021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "62a4483f4f19f68fd8f6c2c2c74a37fd755c4cb634d7f17a547d8cee4e11b09c",
+ "fetched_at": "2026-10-12T08:37:17+00:00",
+ "fetched_by": "fetch_live.py"
+}
