@@ -1,0 +1,27 @@
+# Aapke Mac par chal rahe scraper (fetch_live.py uk-gap) ka haal — sirf padhta hai, kuch nahi badalta.
+name: Mac status
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  status:
+    runs-on: [self-hosted, macOS]
+    timeout-minutes: 5
+    steps:
+      - name: Scraper ka haal
+        run: |
+          D="$HOME/krishivlaw-data"
+          echo "== process"; pgrep -fl "fetch_live.py" || echo "fetch_live nahi chal raha"
+          pgrep -fl caffeinate || true
+          echo "== log ki aakhri 25 lines"; tail -n 25 "$D/uk-gap.log" 2>/dev/null || echo "log nahi mila"
+          echo "== log kab badla"; ls -la "$D/uk-gap.log" 2>/dev/null; date
+          echo "== ginti"
+          echo "cases (_done): $(find "$D/live/uk" -name _done 2>/dev/null | wc -l)"
+          echo "PDFs: $(find "$D/live/uk" -name '*.pdf' 2>/dev/null | wc -l)"
+          echo "errors log mein: $(grep -c -i error "$D/uk-gap.log" 2>/dev/null)"
+          echo "== disk"; df -h "$HOME" | tail -1
+          echo "== battery / power"; pmset -g batt | head -3
