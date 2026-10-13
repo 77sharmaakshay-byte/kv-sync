@@ -2,7 +2,7 @@
 (function () {
   'use strict';
   var view = document.getElementById('view');
-  var cache = { index: null, lists: {}, cases: {}, khoj: null };
+  var cache = { index: null, lists: {}, cases: {}, khoj: null, api: undefined };
   var WEEK = ['Ravivaar', 'Somvaar', 'Mangalvaar', 'Budhvaar', 'Guruvaar', 'Shukravaar', 'Shanivaar'];
   var MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -105,7 +105,7 @@
   var ICON_NEXT = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg>';
   var ICON_DOWN = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>';
 
-  function rowHtml(e, ws, linkable) {
+  function rowHtml(e, ws, level) { // level: 2 = record + vishleshan, 1 = sirf record, khaali = kuch nahi
     var party = [e.pet, e.res].filter(Boolean).join(' v. ');
     var body = '<span class="item">' + esc(e.item) + '</span><span class="body">' +
       '<span class="no">' + hl(e.case_no || '', ws) + '</span>' +
@@ -113,7 +113,8 @@
       (e.adv ? '<span class="adv">' + hl(e.adv, ws) + '</span>' : '') +
       '<span class="chips">' + (e.section ? '<span class="chip">' + esc(e.section) + '</span>' : '') +
       (e.apps && e.apps.length ? '<span class="chip warn">' + e.apps.length + ' application</span>' : '') +
-      (linkable ? '<span class="chip good">Poori jaankari</span>' : '') + '</span></span>';
+      (level === 2 ? '<span class="chip good">✓ Vishleshan</span>' : level ? '<span class="chip blue">Record · vishleshan baaki</span>' :
+        '<span class="chip warn">Vishleshan nahi</span>') + '</span></span>';
     return '<a class="row" href="#/case/' + esc(caseId(e.case_no)) + '">' + body + '</a>';
   }
 
@@ -245,6 +246,15 @@
       '<b class="serif" style="font-size:17px">' + esc(j.title) + '</b><span class="muted">' + esc(j.cite) + '</span>' +
       '<p class="p serif quote">' + esc(j.quote) + '</p><span class="go">Poora faisla padho' + ICON_NEXT + '</span></a>';
   }
+  function sides(list) { // support / against / anya — case ke 'Faisle' tab aur saar ke liye
+    var seen = {}, out = { good: [], bad: [], other: [] };
+    list.forEach(function (j) {
+      var k = j.title + j.cite; if (seen[k]) return; seen[k] = 1;
+      var t = (j.tag || '').split(' · ')[0];
+      out[j.side || (GOOD.indexOf(t) >= 0 ? 'good' : /^Khilaf/.test(t) ? 'bad' : 'other')].push(j);
+    });
+    return out;
+  }
   function judgGroups(list, label) {
     var card = function (j) { return judgCard(j, label); };
     var seen = {}, uniq = list.filter(function (j) { var k = j.title + j.cite; if (seen[k]) return false; seen[k] = 1; return true; });
@@ -326,7 +336,9 @@
       var bySeq = {}; d.paras.forEach(function (p) { bySeq[p.seq] = p; });
       var cite = [d.cite, d.report, d.case_no && !d.cite ? d.case_no : null].filter(Boolean).join(' · ');
       var good = GOOD.indexOf(d.nateeja) >= 0, bad = /^Khilaf/.test(d.nateeja || '');
-      var html = '<header class="hero"><a class="back" href="#/khoj">' + ICON_BACK + 'Khoj</a><div class="chips"><span class="chip ' + (d.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(d.court) + '</span>' +
+      var back = params.from ? '<a class="back" href="#/case/' + esc(params.from) + '?t=similar">' + ICON_BACK + esc(params.from.replace(/-/g, '/')) + '</a>' :
+        '<a class="back" href="#/khoj">' + ICON_BACK + 'Khoj</a>';
+      var html = '<header class="hero">' + back + '<div class="chips"><span class="chip ' + (d.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(d.court) + '</span>' +
         (d.nateeja ? '<span class="chip ' + (good ? 'good' : bad ? 'warn' : '') + '">' + esc(d.nateeja) + '</span>' : '') + '</div>' +
         '<h1 style="font-size:24px">' + esc(d.title) + '</h1><div class="sub">' + esc(cite) + ' · ' + esc(dmy(d.date)) + '</div></header><div class="pad">';
       var seen = {};
@@ -360,7 +372,7 @@
       var date = pickDay(idx.dates);
       if (!date) return render('<div class="pad"><div class="empty">Aaj ya aage ki cause list abhi nahi aayi. Court shaam ko agle din ki list daalta hai; aate hi yahan dikhegi.</div></div>');
       return list(date).then(function (data) {
-        var known = {}; idx.cases.forEach(function (c) { known[c.id] = 1; });
+        var known = {}; idx.cases.forEach(function (c) { known[c.id] = c.a || 1; });
         var head = '<header class="hero"><div class="kicker">Nyay Sahayak</div><h1>' +
           (name ? 'Namaste, ' + esc(name.split(' ')[0]) + ' ji' : 'Namaste') + '</h1><div class="sub">' +
           esc(fmtDate(date, true)) + ' · Nainital High Court</div></header>';
@@ -395,7 +407,7 @@
       var q = params.q != null ? params.q : (store('ns-name') || '');
       if (!date) return render('<div class="pad"><div class="empty">Aaj ya aage ki cause list abhi nahi aayi. Court shaam ko agle din ki list daalta hai; aate hi yahan dikhegi.</div></div>');
       return list(date).then(function (data) {
-        var known = {}; idx.cases.forEach(function (c) { known[c.id] = 1; });
+        var known = {}; idx.cases.forEach(function (c) { known[c.id] = c.a || 1; });
         var days = idx.dates.slice().sort().slice(0, 7).map(function (d) {
           return '<button type="button" class="day' + (d === date ? ' on' : '') + '" data-day="' + d + '">' +
             esc(fmtDate(d)) + '<small>' + esc(WEEK[new Date(d + 'T00:00:00').getDay()]) + '</small></button>';
@@ -465,6 +477,40 @@
   }
 
   // ---------- Case ----------
+  // ---------- 'Abhi vishleshan karo': GitHub par record + vishleshan (scripts/maango_api.py ke zariye) ----------
+  function apiUrl() {
+    return cache.api !== undefined ? Promise.resolve(cache.api) :
+      getJSON('config.json').then(function (d) { return (cache.api = d.api || ''); }, function () { return (cache.api = ''); });
+  }
+  function maangoCard(no, what) {
+    var t = +store('ns-maango-' + caseId(no)) || 0, recent = Date.now() - t < 3 * 3600 * 1000;
+    return '<div class="card key" id="maango"><span class="lbl brand">' + esc(what) + '</span>' +
+      (recent ? '<p class="p">Maang ' + new Date(t).toLocaleTimeString('hi-IN', { hour: '2-digit', minute: '2-digit' }) +
+        ' baje bheji. Court se record aur vishleshan ~20-30 minute mein yahin aa jaayega; app dobara kholiye.</p>' :
+        '<p class="p">Dabaiye: court se poora record, saare orders, vishay-mudde aur milte-julte faisle (asli paragraph ke saath) yahin aa jaayenge.</p>' +
+        '<button type="button" class="btn" id="maango-btn" data-no="' + esc(no) + '">Abhi vishleshan karo</button>') + '</div>';
+  }
+  function maangoWire() {
+    var b = document.getElementById('maango-btn');
+    if (!b) return;
+    b.addEventListener('click', function () {
+      var no = b.getAttribute('data-no'), box = document.getElementById('maango');
+      b.disabled = true; b.textContent = 'Bhej rahe hain…';
+      apiUrl().then(function (api) {
+        if (!api) throw new Error('band');
+        return fetch(api.replace(/\/$/, '') + '/maango', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ case: no }) }).then(function (r) { return r.json(); });
+      }).then(function (d) {
+        if (d.ok) store('ns-maango-' + caseId(no), String(Date.now()));
+        box.innerHTML = '<span class="lbl brand">' + (d.ok ? 'Maang bhej di' : 'Abhi nahi hua') + '</span><p class="p">' + esc(d.msg) + '</p>';
+      }).catch(function (err) {
+        box.innerHTML = '<span class="lbl brand">Abhi nahi hua</span><p class="p">' + (err.message === 'band' ?
+          'Yeh button abhi chalu nahi hua. Aaj aur aage ki list ke saare cases apne aap line mein hain; jaldi yahan aa jaayenge.' :
+          'Server se jud nahi paaye (pehli baar ~1 minute lagta hai). Thodi der baad dobara dabaiye.') + '</p>';
+      });
+    });
+  }
+
   function viewCase(id, params) {
     setTab(role() === 'party' ? 'mycase' : 'mine');
     var tab = params.t || 'saar';
@@ -493,7 +539,8 @@
             (f.e.apps.length ? '<p class="p"><b>Applications:</b> ' + esc(f.e.apps.join('; ')) + '</p>' : '') + '</div>';
         }).join('') +
         (found.length ? '' : '<div class="empty">Yeh case aaj ya aage ki cause list mein abhi nahi hai. Jaise hi court ise list karega, yahan tareekh, court aur item number aa jaayega.</div>') +
-        '<div class="empty">Is case ka poora record (parties, purani tareekhein, orders) aur vishleshan abhi app mein nahi hai. Hum ise jod rahe hain; tab tak cause list se jaankari milti rahegi.</div></div>');
+        maangoCard(no, 'Is case ka poora record aur vishleshan abhi nahi hai') + '</div>');
+      maangoWire();
     });
   }
 
@@ -503,7 +550,7 @@
     var n = c.notes || {};
     var tabs = [['saar', 'Saar'], ['dates', 'Tareekhein'], ['orders', 'Orders · ' + c.orders.length]];
     if (n.pros || n.cons || n.issues) tabs.push(['analysis', 'Vishleshan']);
-    if (n.similar) tabs.push(['similar', 'Milte-julte']);
+    if (n.similar && n.similar.length) tabs.push(['similar', 'Support / Against']);
     var latest = (idx.dates || [])[0];
     var html = '<header class="hero"><a class="back" href="' + (role() === 'party' ? '#/' : '#/mine') + '">' + ICON_BACK + (role() === 'party' ? 'Mera case' : 'Mere cases') + '</a><div class="chips">' +
       (c.decision_date ? '<span class="chip good">Disposed · ' + esc(dmy(c.decision_date)) + '</span>' : '<span class="chip warn">Pending</span>') +
@@ -515,6 +562,13 @@
         return '<button type="button" role="tab" data-t="' + t[0] + '" class="' + (t[0] === tab ? 'on' : '') + '" aria-selected="' + (t[0] === tab) + '">' + esc(t[1]) + '</button>';
       }).join('') + '</div><div class="pad">';
     if (tab === 'saar') {
+      if (n.similar && n.similar.some(function (j) { return j.id; })) {
+        var sg = sides(n.similar);
+        html += '<a class="card link key" href="#/case/' + esc(c.id) + '?t=similar"><span class="lbl brand">Database se faisle' + (n.vishay ? ' · ' + esc(n.vishay.upvishay) : '') + '</span>' +
+          '<div class="chips"><span class="chip good">Support · ' + sg.good.length + '</span><span class="chip warn">Against · ' + sg.bad.length + '</span>' +
+          (sg.other.length ? '<span class="chip">Anya · ' + sg.other.length + '</span>' : '') + '</div><span class="go">Faisle dekho' + ICON_NEXT + '</span></a>';
+      }
+      if (!(n.similar && n.similar.length) && !n.pros) html += maangoCard(c.case_no, n.vishay ? 'Vishleshan adhoora hai' : 'Is case ka vishleshan abhi nahi hua');
       if (n.summary) html += '<div class="card key"><span class="lbl brand">Case kya hai</span><p class="p">' + esc(n.summary) + '</p>' + (n.source ? '<span class="muted">Srot: ' + esc(n.source) + '</span>' : '') + '</div>';
       if (n.status) html += '<div class="card"><span class="lbl">Abhi kya sthiti hai</span><p class="p">' + esc(n.status) + '</p></div>';
       html += '<div class="card"><span class="lbl">Paksh</span>' +
@@ -544,20 +598,36 @@
         n.issues.map(function (x) {
           return '<div class="pt"><span class="mark ' + (x.is_case_mein ? 'good' : 'dark') + '">' + (x.is_case_mein ? '✓' : '·') + '</span><span>' + esc(x.mudda) +
             ' <span class="muted">· ' + x.faisle + ' faisle' + (x.is_case_mein ? ' · is case ke orders mein bhi' : '') + '</span></span></div>';
-        }).join('') + (n.similar ? '<a class="go" href="#/case/' + esc(c.id) + '?t=similar">Milte-julte faisle dekho' + ICON_NEXT + '</a>' : '') + '</div>';
+        }).join('') + (n.similar ? '<a class="go" href="#/case/' + esc(c.id) + '?t=similar">Support / against faisle dekho' + ICON_NEXT + '</a>' : '') + '</div>';
       html += pts(n.pros_title || 'Paksh mein', 'good', '+', n.pros) + pts(n.cons_title || 'Saamne wala kya keh sakta hai', 'bad', '–', n.cons) +
         (n.todo ? '<div class="card dark"><span class="lbl light">Court le jaana</span>' + n.todo.map(function (t) { return '<div class="pt"><span class="mark dark">✓</span><span>' + esc(t) + '</span></div>'; }).join('') + '</div>' : '') +
         '<p class="muted">' + esc(n.disclaimer || 'Sirf court ke orders aur database se. Advocate ka review zaroori. Koi jeetne ka % nahi.') + '</p>';
     } else if (tab === 'similar') {
-      html += n.similar.map(function (j, i) {
+      var oldCard = function (j, i) { // haath ke notes (app/notes) ka purana roop
         var open = j.key ? '<a class="card link" href="#/j/' + esc(j.key) + '?from=' + esc(c.id) + '&i=' + i + '">' : '<div class="card">';
         return open + '<div class="chips"><span class="chip ' + (j.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(j.court) + '</span><span class="chip ' + (j.verified ? 'good' : 'warn') + '">' + esc(j.tag) + '</span></div>' +
           '<b class="serif" style="font-size:18px">' + esc(j.title) + '</b><span class="muted">' + esc(j.cite) + '</span><p class="p">' + esc(j.why) + '</p>' +
           (j.quote ? '<p class="p serif quote">' + esc(j.quote) + '</p>' : '') +
           (j.key ? '<span class="go">Poora faisla padho · PDF ' + ICON_NEXT + '</span></a>' : '</div>');
-      }).join('');
+      };
+      if (!n.similar.some(function (j) { return j.id; })) html += n.similar.map(oldCard).join('');
+      else {
+        var g = sides(n.similar), card = function (j) {
+          return judgCard(j, j.mudda).replace('href="#/kj/' + j.id + (j.mudda ? '?m=' + encodeURIComponent(j.mudda) : ''),
+            'href="#/kj/' + j.id + '?' + (j.mudda ? 'm=' + encodeURIComponent(j.mudda) + '&' : '') + 'from=' + encodeURIComponent(c.id));
+        };
+        html += '<p class="muted">Isi vishay' + (n.vishay && n.vishay.mudde && n.vishay.mudde.length ? ' aur mudde (' + esc(n.vishay.mudde.join(', ')) + ')' : '') +
+          ' ke SC aur Nainital HC ke faisle, court ke nateeje ke hisaab se. Faisle par dabaiye: poora text, kaam ka paragraph upar.</p>' +
+          '<span class="lbl good">Support: in mein court ne maang maani · ' + g.good.length + '</span>' +
+          (g.good.map(card).join('') || '<div class="empty">Is vishay mein database se abhi aisa faisla nahi mila.</div>') +
+          '<span class="lbl bad">Against: in mein court ne maang nahi maani · ' + g.bad.length + '</span>' +
+          (g.bad.map(card).join('') || '<div class="empty">Is vishay mein database se abhi aisa faisla nahi mila.</div>') +
+          (g.other.length ? '<span class="lbl">Anya (wapas / nipataara) · ' + g.other.length + '</span>' + g.other.map(card).join('') : '') +
+          '<p class="muted">' + esc(n.disclaimer || '') + '</p>';
+      }
     }
     render(html + '</div>');
+    maangoWire();
     Array.prototype.forEach.call(document.querySelectorAll('.tabs button'), function (b) {
       b.addEventListener('click', function () { go('#/case/' + c.id + '?t=' + b.getAttribute('data-t')); });
     });
