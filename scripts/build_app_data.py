@@ -199,7 +199,9 @@ def build_cases(src, out):
                                                      (doc["respondents"] or [{}])[0].get("name")] if x),
                     "advocates": sorted({p.get("advocate") for p in doc["petitioners"] + doc["respondents"]
                                          if p.get("advocate")}),
-                    "next_date": doc["next_date"]})
+                    "next_date": doc["next_date"],
+                    # app ka nishaan: 2 = record + vishleshan (milte-julte faisle), 1 = sirf record
+                    "a": 2 if (doc.get("notes") or {}).get("similar") or (doc.get("notes") or {}).get("pros") else 1})
     return ids
 
 

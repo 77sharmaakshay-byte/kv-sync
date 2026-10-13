@@ -13,9 +13,8 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: case-records   # Naye cases ke saath ek hi line (dono cases/ likhte hain)
-  cancel-in-progress: false
+# Line (concurrency) nahi: app ke 'Abhi vishleshan karo' (scripts/maango_api.py) ki har maang chale — line mein
+# rukne wali maang agli maang aate hi GitHub hata deta. Har run sirf apne cases/<id>/ likhta hai; push par rebase.
 
 jobs:
   lookup:
@@ -75,7 +74,11 @@ jobs:
           git add -A
           if git diff --cached --quiet; then echo "Kuch naya nahi"; exit 0; fi
           git commit -q -m "case lookup: $CASES"
-          git push -q origin data || { git pull -q --rebase -X theirs origin data && git push -q origin data; }
+          for i in 1 2 3 4; do
+            git push -q origin data && exit 0
+            sleep $((i * 5)); git pull -q --rebase -X theirs origin data
+          done
+          exit 1
 
       - name: App site update
         if: always()

@@ -2,7 +2,7 @@
 (function () {
   'use strict';
   var view = document.getElementById('view');
-  var cache = { index: null, lists: {}, cases: {}, khoj: null };
+  var cache = { index: null, lists: {}, cases: {}, khoj: null, api: undefined };
   var WEEK = ['Ravivaar', 'Somvaar', 'Mangalvaar', 'Budhvaar', 'Guruvaar', 'Shukravaar', 'Shanivaar'];
   var MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -105,7 +105,7 @@
   var ICON_NEXT = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg>';
   var ICON_DOWN = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>';
 
-  function rowHtml(e, ws, linkable) {
+  function rowHtml(e, ws, level) { // level: 2 = record + vishleshan, 1 = sirf record, khaali = kuch nahi
     var party = [e.pet, e.res].filter(Boolean).join(' v. ');
     var body = '<span class="item">' + esc(e.item) + '</span><span class="body">' +
       '<span class="no">' + hl(e.case_no || '', ws) + '</span>' +
@@ -113,7 +113,8 @@
       (e.adv ? '<span class="adv">' + hl(e.adv, ws) + '</span>' : '') +
       '<span class="chips">' + (e.section ? '<span class="chip">' + esc(e.section) + '</span>' : '') +
       (e.apps && e.apps.length ? '<span class="chip warn">' + e.apps.length + ' application</span>' : '') +
-      (linkable ? '<span class="chip good">Poori jaankari</span>' : '') + '</span></span>';
+      (level === 2 ? '<span class="chip good">✓ Vishleshan</span>' : level ? '<span class="chip blue">Record · vishleshan baaki</span>' :
+        '<span class="chip warn">Vishleshan nahi</span>') + '</span></span>';
     return '<a class="row" href="#/case/' + esc(caseId(e.case_no)) + '">' + body + '</a>';
   }
 
@@ -360,7 +361,7 @@
       var date = pickDay(idx.dates);
       if (!date) return render('<div class="pad"><div class="empty">Aaj ya aage ki cause list abhi nahi aayi. Court shaam ko agle din ki list daalta hai; aate hi yahan dikhegi.</div></div>');
       return list(date).then(function (data) {
-        var known = {}; idx.cases.forEach(function (c) { known[c.id] = 1; });
+        var known = {}; idx.cases.forEach(function (c) { known[c.id] = c.a || 1; });
         var head = '<header class="hero"><div class="kicker">Nyay Sahayak</div><h1>' +
           (name ? 'Namaste, ' + esc(name.split(' ')[0]) + ' ji' : 'Namaste') + '</h1><div class="sub">' +
           esc(fmtDate(date, true)) + ' · Nainital High Court</div></header>';
@@ -395,7 +396,7 @@
       var q = params.q != null ? params.q : (store('ns-name') || '');
       if (!date) return render('<div class="pad"><div class="empty">Aaj ya aage ki cause list abhi nahi aayi. Court shaam ko agle din ki list daalta hai; aate hi yahan dikhegi.</div></div>');
       return list(date).then(function (data) {
-        var known = {}; idx.cases.forEach(function (c) { known[c.id] = 1; });
+        var known = {}; idx.cases.forEach(function (c) { known[c.id] = c.a || 1; });
         var days = idx.dates.slice().sort().slice(0, 7).map(function (d) {
           return '<button type="button" class="day' + (d === date ? ' on' : '') + '" data-day="' + d + '">' +
             esc(fmtDate(d)) + '<small>' + esc(WEEK[new Date(d + 'T00:00:00').getDay()]) + '</small></button>';
@@ -465,6 +466,40 @@
   }
 
   // ---------- Case ----------
+  // ---------- 'Abhi vishleshan karo': GitHub par record + vishleshan (scripts/maango_api.py ke zariye) ----------
+  function apiUrl() {
+    return cache.api !== undefined ? Promise.resolve(cache.api) :
+      getJSON('config.json').then(function (d) { return (cache.api = d.api || ''); }, function () { return (cache.api = ''); });
+  }
+  function maangoCard(no, what) {
+    var t = +store('ns-maango-' + caseId(no)) || 0, recent = Date.now() - t < 3 * 3600 * 1000;
+    return '<div class="card key" id="maango"><span class="lbl brand">' + esc(what) + '</span>' +
+      (recent ? '<p class="p">Maang ' + new Date(t).toLocaleTimeString('hi-IN', { hour: '2-digit', minute: '2-digit' }) +
+        ' baje bheji. Court se record aur vishleshan ~20-30 minute mein yahin aa jaayega; app dobara kholiye.</p>' :
+        '<p class="p">Dabaiye: court se poora record, saare orders, vishay-mudde aur milte-julte faisle (asli paragraph ke saath) yahin aa jaayenge.</p>' +
+        '<button type="button" class="btn" id="maango-btn" data-no="' + esc(no) + '">Abhi vishleshan karo</button>') + '</div>';
+  }
+  function maangoWire() {
+    var b = document.getElementById('maango-btn');
+    if (!b) return;
+    b.addEventListener('click', function () {
+      var no = b.getAttribute('data-no'), box = document.getElementById('maango');
+      b.disabled = true; b.textContent = 'Bhej rahe hain…';
+      apiUrl().then(function (api) {
+        if (!api) throw new Error('band');
+        return fetch(api.replace(/\/$/, '') + '/maango', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ case: no }) }).then(function (r) { return r.json(); });
+      }).then(function (d) {
+        if (d.ok) store('ns-maango-' + caseId(no), String(Date.now()));
+        box.innerHTML = '<span class="lbl brand">' + (d.ok ? 'Maang bhej di' : 'Abhi nahi hua') + '</span><p class="p">' + esc(d.msg) + '</p>';
+      }).catch(function (err) {
+        box.innerHTML = '<span class="lbl brand">Abhi nahi hua</span><p class="p">' + (err.message === 'band' ?
+          'Yeh button abhi chalu nahi hua. Aaj aur aage ki list ke saare cases apne aap line mein hain; jaldi yahan aa jaayenge.' :
+          'Server se jud nahi paaye (pehli baar ~1 minute lagta hai). Thodi der baad dobara dabaiye.') + '</p>';
+      });
+    });
+  }
+
   function viewCase(id, params) {
     setTab(role() === 'party' ? 'mycase' : 'mine');
     var tab = params.t || 'saar';
@@ -493,7 +528,8 @@
             (f.e.apps.length ? '<p class="p"><b>Applications:</b> ' + esc(f.e.apps.join('; ')) + '</p>' : '') + '</div>';
         }).join('') +
         (found.length ? '' : '<div class="empty">Yeh case aaj ya aage ki cause list mein abhi nahi hai. Jaise hi court ise list karega, yahan tareekh, court aur item number aa jaayega.</div>') +
-        '<div class="empty">Is case ka poora record (parties, purani tareekhein, orders) aur vishleshan abhi app mein nahi hai. Hum ise jod rahe hain; tab tak cause list se jaankari milti rahegi.</div></div>');
+        maangoCard(no, 'Is case ka poora record aur vishleshan abhi nahi hai') + '</div>');
+      maangoWire();
     });
   }
 
@@ -515,6 +551,7 @@
         return '<button type="button" role="tab" data-t="' + t[0] + '" class="' + (t[0] === tab ? 'on' : '') + '" aria-selected="' + (t[0] === tab) + '">' + esc(t[1]) + '</button>';
       }).join('') + '</div><div class="pad">';
     if (tab === 'saar') {
+      if (!n.similar && !n.pros) html += maangoCard(c.case_no, n.vishay ? 'Vishleshan adhoora hai' : 'Is case ka vishleshan abhi nahi hua');
       if (n.summary) html += '<div class="card key"><span class="lbl brand">Case kya hai</span><p class="p">' + esc(n.summary) + '</p>' + (n.source ? '<span class="muted">Srot: ' + esc(n.source) + '</span>' : '') + '</div>';
       if (n.status) html += '<div class="card"><span class="lbl">Abhi kya sthiti hai</span><p class="p">' + esc(n.status) + '</p></div>';
       html += '<div class="card"><span class="lbl">Paksh</span>' +
@@ -558,6 +595,7 @@
       }).join('');
     }
     render(html + '</div>');
+    maangoWire();
     Array.prototype.forEach.call(document.querySelectorAll('.tabs button'), function (b) {
       b.addEventListener('click', function () { go('#/case/' + c.id + '?t=' + b.getAttribute('data-t')); });
     });
