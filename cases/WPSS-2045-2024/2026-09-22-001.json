@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2045/2024:2026-09-22-001",
+ "title": "CHARU versus UTTARAKHAND PUBLIC SERVICE COMMISSION",
+ "petitioner": "CHARU",
+ "respondent": "UTTARAKHAND PUBLIC SERVICE COMMISSION",
+ "case_no": "WPSS/2045/2024",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010171362024",
+ "doc_kind": "order",
+ "order_type": "WPSS/2045/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "TOP OF THE BOARD CASES -117",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcAWTXyJTfhyjBtyfanfHnJWARqeCskO17cd%2FVNy%2FehRt&caseno=WPSS/2045/2024&cCode=1&cino=UKHC010171362024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "551512a3911eaa531ea38eabf54ca002e4481047626f384630fed71534cece23",
+ "fetched_at": "2026-10-13T12:49:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

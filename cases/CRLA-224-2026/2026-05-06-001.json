@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/224/2026:2026-05-06-001",
+ "title": "SANJAY SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SANJAY SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/224/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-05-06",
+ "cnr": "UKHC010066352026",
+ "doc_kind": "order",
+ "order_type": "CRLA/224/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "PRONOUNCEMENT OF JUDGMENT -2",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuQv24uPWlT1mIMvEAYyCHrUyuDe3QPw3u%2FUO4nqKxTn&caseno=CRLA/224/2026&cCode=1&cino=UKHC010066352026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a9f2bf14de72a2d63f6130306e2cbc872ea7a3c14d9e1fcb60ea7ee0a5d79ea5",
+ "fetched_at": "2026-10-13T12:48:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

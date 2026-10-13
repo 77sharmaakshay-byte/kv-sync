@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2177/2023:2023-12-04-001",
+ "title": "SURESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SURESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2177/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-04",
+ "cnr": "UKHC010192492023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2177/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYwEA4EjG%2Fq0%2BqztoX9eSLK0nFu4r9zsDjVGM3bMaUmyB&caseno=WPSS/2177/2023&cCode=1&cino=UKHC010192492023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ee71a04c38441c14ca628d07a9e193489ad8c48c9ec617089f1e2e56cd4e44ce",
+ "fetched_at": "2026-10-13T12:49:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

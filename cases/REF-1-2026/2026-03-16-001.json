@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:REF/1/2026:2026-03-16-001",
+ "title": "IN THE MATTER OF CAPITAL PUNISHMENT AWARDED TO SANJAY SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "IN THE MATTER OF CAPITAL PUNISHMENT AWARDED TO SANJAY SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "REF/1/2026",
+ "case_type": "REF",
+ "decision_date": "2026-03-16",
+ "cnr": "UKHC010036772026",
+ "doc_kind": "order",
+ "order_type": "REF/1/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "PRONOUNCEMENT OF JUDGMENT -2",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQibt64504jnwVYN5PZnc0R5RvtyKkbCHuz8l2Vxp6PVP&caseno=REF/1/2026&cCode=1&cino=UKHC010036772026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "32279077e07bcffb9caa28fd96ada9ce43199617e8de79ee4298b57f31f6c535",
+ "fetched_at": "2026-10-13T12:48:40+00:00",
+ "fetched_by": "fetch_live.py"
+}
