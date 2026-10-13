@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/156/2022:2026-08-11-012",
+ "title": "RANDHIR SINGH PANWAR versus CONTENTMENT BOARD DEHRADUN",
+ "petitioner": "RANDHIR SINGH PANWAR",
+ "respondent": "CONTENTMENT BOARD DEHRADUN",
+ "case_no": "SPA/156/2022",
+ "case_type": "SPA",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010086342022",
+ "doc_kind": "order",
+ "order_type": "SPA/156/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08tv1c7771Gba5jp%2Bjv7V1irEwKyktMp%2B32gb7PRhHZZ&caseno=SPA/156/2022&cCode=1&cino=UKHC010086342022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "addb1a00d76f4a49328ddb17e6cf8578ac62e795bb3ad6fdc62725fdb90090b4",
+ "fetched_at": "2026-10-13T13:56:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

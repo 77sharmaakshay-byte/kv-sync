@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/201/2019:2021-10-20-010",
+ "title": "AKASH YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "AKASH YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/201/2019",
+ "case_type": "WPPIL",
+ "decision_date": "2021-10-20",
+ "cnr": "UKHC010186252019",
+ "doc_kind": "order",
+ "order_type": "WPPIL/201/2019",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3kIrfZz5eXCahRq9njcEG2OBM5hpaRT%2Bm2ncR88K2wY&caseno=WPPIL/201/2019&cCode=1&cino=UKHC010186252019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "226223234e6d19b3f231fc6b0ae792761da4dc3f5b0b725535880438a32c12e9",
+ "fetched_at": "2026-10-13T14:04:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

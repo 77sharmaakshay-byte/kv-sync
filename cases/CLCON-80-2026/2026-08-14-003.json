@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/80/2026:2026-08-14-003",
+ "title": "RAJ NARAYAN ALIAS RAJ NARAYAN CHAUDHARY versus RAVINATH RAMAN",
+ "petitioner": "RAJ NARAYAN ALIAS RAJ NARAYAN CHAUDHARY",
+ "respondent": "RAVINATH RAMAN",
+ "case_no": "CLCON/80/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010038662026",
+ "doc_kind": "order",
+ "order_type": "CLCON/80/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuqHOUD2KFkNfeXe5vAy%2FBn4%2FPUye6quLfwIDbNgk0Wu&caseno=CLCON/80/2026&cCode=1&cino=UKHC010038662026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6bf6c572e34fbc5a10fc04b6732a865903a5bee2980b07ecb26bf12b075d595e",
+ "fetched_at": "2026-10-13T14:00:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

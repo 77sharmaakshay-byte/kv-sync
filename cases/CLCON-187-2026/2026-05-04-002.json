@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/187/2026:2026-05-04-002",
+ "title": "SATYENDRA PRASAD PANTHRI versus SACHIN KURVE",
+ "petitioner": "SATYENDRA PRASAD PANTHRI",
+ "respondent": "SACHIN KURVE",
+ "case_no": "CLCON/187/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-05-04",
+ "cnr": "UKHC010062932026",
+ "doc_kind": "order",
+ "order_type": "CLCON/187/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnIv7RXPWG%2FpTd%2FIqEDZ5MVPfzmEb9X2OjU9OSQJZQOW&caseno=CLCON/187/2026&cCode=1&cino=UKHC010062932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eb1ebb4dc28fb1bae1d2d0d5537a6e0f63de09368af4457aac6deec115fc4b76",
+ "fetched_at": "2026-10-13T14:00:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

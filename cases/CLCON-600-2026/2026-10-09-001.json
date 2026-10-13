@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/600/2026:2026-10-09-001",
+ "title": "RAJENDRA LAL versus RANVEER SINGH CHAUHAN",
+ "petitioner": "RAJENDRA LAL",
+ "respondent": "RANVEER SINGH CHAUHAN",
+ "case_no": "CLCON/600/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010179862026",
+ "doc_kind": "order",
+ "order_type": "CLCON/600/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlJoOGWfG5keMfcGTfL71ER30FfVyMpceTb96zkzSAou&caseno=CLCON/600/2026&cCode=1&cino=UKHC010179862026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ee8ca1036e4c171b546750a64c5e0b7c713e5173e1f8d66056205e2cfa62bd8d",
+ "fetched_at": "2026-10-13T13:58:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

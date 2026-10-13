@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/201/2019:2022-06-22-012",
+ "title": "AKASH YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "AKASH YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/201/2019",
+ "case_type": "WPPIL",
+ "decision_date": "2022-06-22",
+ "cnr": "UKHC010186252019",
+ "doc_kind": "order",
+ "order_type": "WPPIL/201/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3kIrfZz5eXCahRq9njcEG3bZuhY5RJJDTYV7%2BIkm9o1&caseno=WPPIL/201/2019&cCode=1&cino=UKHC010186252019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "767b383d2e20701b258a0c44f69a4c96b4d26c3d789a6b293f90c7cca2889b32",
+ "fetched_at": "2026-10-13T14:04:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

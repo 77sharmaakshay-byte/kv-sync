@@ -1,0 +1,99 @@
+{
+ "cnr_number": "UKHC010062942026",
+ "case_type": "CLCON",
+ "filing_number": "CLCON /3291/2026",
+ "filing_date": "2026-04-20",
+ "registration_number": "CLCON /186/2026",
+ "registration_date": "2026-04-20",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-06-15",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "SUBHASH CHANDRA SHARMA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "KAMLESH KUMAR CHAUHAN",
+   "advocate": ""
+  },
+  {
+   "name": "BHANU PRATAP RASTOGI",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SACHIN KURVE",
+   "advocate": ""
+  },
+  {
+   "name": "DR SUNITA TAMTA",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Contempt of Courts Act, 1971 (Act No. 70 of 1971)",
+   "sections": "12"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-04-22",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-06-15",
+   "business_date": "2026-05-04",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-05-04",
+   "business_date": "2026-04-28",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-04-22",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-04-28",
+   "order_type": "CLCON/186/2026",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhsF8H35TS2zvMmzhjNOdCL89opVzuo04uWn1ea9VhKU&caseno=CLCON/186/2026&cCode=1&cino=UKHC010062942026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-04",
+   "order_type": "CLCON/186/2026",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhsF8H35TS2zvMmzhjNOdCLeeJgVr9V2NegRqmwgh%2BoB&caseno=CLCON/186/2026&cCode=1&cino=UKHC010062942026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

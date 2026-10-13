@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/708/2019:2019-08-02-001",
+ "title": "RAJENDRA PRASAD JOSHI versus BALRAJ SINGH NEGI",
+ "petitioner": "RAJENDRA PRASAD JOSHI",
+ "respondent": "BALRAJ SINGH NEGI",
+ "case_no": "SPA/708/2019",
+ "case_type": "SPA",
+ "decision_date": "2019-08-02",
+ "cnr": "UKHC010109252019",
+ "doc_kind": "order",
+ "order_type": "SPA/708/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR ORDERS -91",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF33hCR45uKbr3p2WmnjcoC9M4I1%2FPB9pMDnxyqUN3kWi&caseno=SPA/708/2019&cCode=1&cino=UKHC010109252019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9a916031490801578be009c76eaedd6965dc6d533fdea61ceb54fb41ba627022",
+ "fetched_at": "2026-10-13T13:56:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

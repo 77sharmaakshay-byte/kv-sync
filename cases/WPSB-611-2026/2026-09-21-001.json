@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/611/2026:2026-09-21-001",
+ "title": "MAYANK KUMAR JAIMINI versus STATE OF UTTARAKHAND",
+ "petitioner": "MAYANK KUMAR JAIMINI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/611/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010165262026",
+ "doc_kind": "order",
+ "order_type": "WPSB/611/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqDc2kV%2FDxRGyCckar9uK1zNxVh1a6OQf%2BBEaHGUZ6hy&caseno=WPSB/611/2026&cCode=1&cino=UKHC010165262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "94860e1c5a06b0de9436da8b06027919e305d526c895c816d2ce6cea40fb99b2",
+ "fetched_at": "2026-10-13T14:07:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

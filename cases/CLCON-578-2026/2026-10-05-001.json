@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/578/2026:2026-10-05-001",
+ "title": "BHAGWAN CHANDRA PANT versus SANJAY KUMAR",
+ "petitioner": "BHAGWAN CHANDRA PANT",
+ "respondent": "SANJAY KUMAR",
+ "case_no": "CLCON/578/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010175532026",
+ "doc_kind": "order",
+ "order_type": "CLCON/578/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrv2sz%2BZQxSrvbTd4mC3uinfiduDgT1Vps3XDY0NsfDF&caseno=CLCON/578/2026&cCode=1&cino=UKHC010175532026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b5ca180e111bcdc1e6efb74d96c74754a9f01ab48e45de9c50ab20696dbc9869",
+ "fetched_at": "2026-10-13T14:00:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/350/2021:2022-09-26-002",
+ "title": "SURENDRA SINGH RAUTELA versus ASHOK KUMAR VERMA",
+ "petitioner": "SURENDRA SINGH RAUTELA",
+ "respondent": "ASHOK KUMAR VERMA",
+ "case_no": "CLCON/350/2021",
+ "case_type": "CLCON",
+ "decision_date": "2022-09-26",
+ "cnr": "UKHC010096702021",
+ "doc_kind": "order",
+ "order_type": "CLCON/350/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkDF7YyrGaLPiPnaNXDS%2FDDOMDo4oIfVg172%2BnEpsxQld&caseno=CLCON/350/2021&cCode=1&cino=UKHC010096702021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "114a21ec0bba625be0fd4ae994e0cc41d164befda7bf5e913e80691978795936",
+ "fetched_at": "2026-10-13T14:05:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

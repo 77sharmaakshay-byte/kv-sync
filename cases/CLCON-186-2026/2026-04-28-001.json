@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/186/2026:2026-04-28-001",
+ "title": "SUBHASH CHANDRA SHARMA versus SACHIN KURVE",
+ "petitioner": "SUBHASH CHANDRA SHARMA",
+ "respondent": "SACHIN KURVE",
+ "case_no": "CLCON/186/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-04-28",
+ "cnr": "UKHC010062942026",
+ "doc_kind": "order",
+ "order_type": "CLCON/186/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhsF8H35TS2zvMmzhjNOdCL89opVzuo04uWn1ea9VhKU&caseno=CLCON/186/2026&cCode=1&cino=UKHC010062942026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5aa5b08f2d4bc59a3910b3d622befded7c5b9efccc26bda01089740b5e96c362",
+ "fetched_at": "2026-10-13T14:00:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

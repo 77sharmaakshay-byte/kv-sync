@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/201/2019:2020-11-18-009",
+ "title": "AKASH YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "AKASH YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/201/2019",
+ "case_type": "WPPIL",
+ "decision_date": "2020-11-18",
+ "cnr": "UKHC010186252019",
+ "doc_kind": "order",
+ "order_type": "WPPIL/201/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3kIrfZz5eXCahRq9njcEG2GMJULfUpi4%2F0odcl7ovzW&caseno=WPPIL/201/2019&cCode=1&cino=UKHC010186252019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "01eff8c19adbd8c03b0e02dc69b75d746258818a8f0fd71299ee1133146c5686",
+ "fetched_at": "2026-10-13T14:04:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

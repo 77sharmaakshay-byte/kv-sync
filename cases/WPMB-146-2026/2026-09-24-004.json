@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/146/2026:2026-09-24-004",
+ "title": "MS PRINCE CONSTRUCTION COMPANY versus STATE OF UTTARAKHAND",
+ "petitioner": "MS PRINCE CONSTRUCTION COMPANY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/146/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010033932026",
+ "doc_kind": "order",
+ "order_type": "WPMB/146/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi05VKcAN%2BmGWcuXIqHSWs2HiWUw%2B1WO3FtyX8rI4Ku2&caseno=WPMB/146/2026&cCode=1&cino=UKHC010033932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "647e81a3877f8cd1feeb77c2e8e033e36185cee5d0d614400c285d155c76feda",
+ "fetched_at": "2026-10-13T14:07:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

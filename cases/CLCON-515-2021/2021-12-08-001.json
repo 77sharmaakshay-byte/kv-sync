@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/515/2021:2021-12-08-001",
+ "title": "GOVIND SINGH SIJWALI versus LEELADHAR VYAS",
+ "petitioner": "GOVIND SINGH SIJWALI",
+ "respondent": "LEELADHAR VYAS",
+ "case_no": "CLCON/515/2021",
+ "case_type": "CLCON",
+ "decision_date": "2021-12-08",
+ "cnr": "UKHC010152462021",
+ "doc_kind": "order",
+ "order_type": "CLCON/515/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkFyeDY54cRkUx4EYEnNOm6zICgvDWz2CuRtpQ62GSs0W&caseno=CLCON/515/2021&cCode=1&cino=UKHC010152462021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb5ddc26e3e54e06c104f6ba1ca8488c6dedbeade4ff2868751592251c745685",
+ "fetched_at": "2026-10-13T14:02:08+00:00",
+ "fetched_by": "fetch_live.py"
+}
