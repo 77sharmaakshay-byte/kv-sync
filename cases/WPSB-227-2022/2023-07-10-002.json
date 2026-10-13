@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/227/2022:2023-07-10-002",
+ "title": "NALINI KANT JUYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "NALINI KANT JUYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/227/2022",
+ "case_type": "WPSB",
+ "decision_date": "2023-07-10",
+ "cnr": "UKHC010057952022",
+ "doc_kind": "order",
+ "order_type": "WPSB/227/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0yNQbbzGXWlG2RdXUKy2G%2BSlFMmeaIbQOIKeVFcYqPP0&caseno=WPSB/227/2022&cCode=1&cino=UKHC010057952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1bb6b603a5d4060ced5e7de479410c6f9ff20efdd029777f66cc5ab2d9437e37",
+ "fetched_at": "2026-10-13T13:37:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

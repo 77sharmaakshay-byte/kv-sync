@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/348/2022:2023-09-14-007",
+ "title": "RAJEEV KUMAR KHULBEY versus HONBLE HIGH COURT OF UTTARAKHAND",
+ "petitioner": "RAJEEV KUMAR KHULBEY",
+ "respondent": "HONBLE HIGH COURT OF UTTARAKHAND",
+ "case_no": "WPSB/348/2022",
+ "case_type": "WPSB",
+ "decision_date": "2023-09-14",
+ "cnr": "UKHC010091412022",
+ "doc_kind": "order",
+ "order_type": "WPSB/348/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT09kauMXP2KK2YFqyc71wyuBId3am1ulP0N9mpkcVZi6J&caseno=WPSB/348/2022&cCode=1&cino=UKHC010091412022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "afaea25d8a838d80fb1048c449b349b9ce52b5d8f852b0dd46d1b29d1cc7089b",
+ "fetched_at": "2026-10-13T13:36:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

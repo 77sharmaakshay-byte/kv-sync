@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/67/2022:2022-10-12-003",
+ "title": "JAGDISH CHANDRA KAIM versus STATE OF UTTARAKHAND",
+ "petitioner": "JAGDISH CHANDRA KAIM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/67/2022",
+ "case_type": "WPSB",
+ "decision_date": "2022-10-12",
+ "cnr": "UKHC010012202022",
+ "doc_kind": "order",
+ "order_type": "WPSB/67/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05XAMCpDXuL%2F0RT8rkSlRPImk83r%2FwfZnVvHUEC6T%2FA0&caseno=WPSB/67/2022&cCode=1&cino=UKHC010012202022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f8544ee1cf49483ec1d6b30d022ba88519cddbbfba26df7747f5a5a1e5e9bbb4",
+ "fetched_at": "2026-10-13T13:37:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

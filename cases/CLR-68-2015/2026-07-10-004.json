@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/68/2015:2026-07-10-004",
+ "title": "CHANDAN SINGH versus POORAN SINGH",
+ "petitioner": "CHANDAN SINGH",
+ "respondent": "POORAN SINGH",
+ "case_no": "CLR/68/2015",
+ "case_type": "CLR",
+ "decision_date": "2026-07-10",
+ "cnr": "UKHC010018822015",
+ "doc_kind": "order",
+ "order_type": "CLR/68/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWeQ3CnPeOuJkV9nwdRj%2FUVhr%2F1Bha0jRAiwp0dsgaDAF&caseno=CLR/68/2015&cCode=1&cino=UKHC010018822015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "375561e3ba1f6ffed815f504c43eb422ee6ae9bb3a1fb1bc84755175326da766",
+ "fetched_at": "2026-10-13T13:27:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

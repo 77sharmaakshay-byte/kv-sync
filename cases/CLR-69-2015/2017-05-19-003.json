@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/69/2015:2017-05-19-003",
+ "title": "CHANDAN SINGH versus BHUPAL SINGH",
+ "petitioner": "CHANDAN SINGH",
+ "respondent": "BHUPAL SINGH",
+ "case_no": "CLR/69/2015",
+ "case_type": "CLR",
+ "decision_date": "2017-05-19",
+ "cnr": "UKHC010007942015",
+ "doc_kind": "order",
+ "order_type": "CLR/69/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWYMRpSsGRIhJZwe9e0gNF48IcBz%2Fybw0moiE%2FymDhXjZ&caseno=CLR/69/2015&cCode=1&cino=UKHC010007942015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cc0350f6d7f4c5a0e4c5946c1473b044a65e92c0523c4c41194574ed2b25af4c",
+ "fetched_at": "2026-10-13T13:26:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

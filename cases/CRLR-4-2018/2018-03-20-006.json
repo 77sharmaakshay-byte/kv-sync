@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/4/2018:2018-03-20-006",
+ "title": "Taqdeer Singh versus STATE OF UTTARAKHAND   Advocate- G.A. 1123",
+ "petitioner": "Taqdeer Singh",
+ "respondent": "STATE OF UTTARAKHAND   Advocate- G.A. 1123",
+ "case_no": "CRLR/4/2018",
+ "case_type": "CRLR",
+ "decision_date": "2018-03-20",
+ "cnr": "UKHC010039282018",
+ "doc_kind": "order",
+ "order_type": "CRLR/4/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL45xz44Pc4ynvPptwEmag0qssEuG5amc%2FvvX2Wltr2Xr&caseno=CRLR/4/2018&cCode=1&cino=UKHC010039282018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "69f399b6c57e516a6c197d58b5936ec6c6242675953bb8eef2085b5351b402cf",
+ "fetched_at": "2026-10-13T13:28:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

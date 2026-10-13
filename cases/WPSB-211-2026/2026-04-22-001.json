@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/211/2026:2026-04-22-001",
+ "title": "SUBHASH CHANDRA BHATT versus SUNIL KUMAR",
+ "petitioner": "SUBHASH CHANDRA BHATT",
+ "respondent": "SUNIL KUMAR",
+ "case_no": "WPSB/211/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-04-22",
+ "cnr": "UKHC010058462026",
+ "doc_kind": "order",
+ "order_type": "WPSB/211/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQomL%2BS%2FIQn5KUUoTJvnHI4zgRjtAUQLIlpH%2BDYG6QjFu&caseno=WPSB/211/2026&cCode=1&cino=UKHC010058462026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6e159d64884bc4d165b0f59ed47eba0f6e735cca038560e2485fd04e26473114",
+ "fetched_at": "2026-10-13T13:26:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

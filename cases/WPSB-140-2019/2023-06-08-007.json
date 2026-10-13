@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/140/2019:2023-06-08-007",
+ "title": "SURENDRA SINGH GUASIN versus STATE OF UTTARAKHAND",
+ "petitioner": "SURENDRA SINGH GUASIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/140/2019",
+ "case_type": "WPSB",
+ "decision_date": "2023-06-08",
+ "cnr": "UKHC010050152019",
+ "doc_kind": "order",
+ "order_type": "WPSB/140/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFwFPzDAxBMjiEyEKBoSJQN9W9YNyQNA3waYWGIcWik72&caseno=WPSB/140/2019&cCode=1&cino=UKHC010050152019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3292f3bb4c683b19194ce8b71ffe2a72c13a5029245649ec6c7dde439381fd50",
+ "fetched_at": "2026-10-13T13:37:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/348/2022:2023-11-24-008",
+ "title": "RAJEEV KUMAR KHULBEY versus HONBLE HIGH COURT OF UTTARAKHAND",
+ "petitioner": "RAJEEV KUMAR KHULBEY",
+ "respondent": "HONBLE HIGH COURT OF UTTARAKHAND",
+ "case_no": "WPSB/348/2022",
+ "case_type": "WPSB",
+ "decision_date": "2023-11-24",
+ "cnr": "UKHC010091412022",
+ "doc_kind": "order",
+ "order_type": "WPSB/348/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT09kauMXP2KK2YFqyc71wyuAcuP5NM73tFd1FPN8G8FWz&caseno=WPSB/348/2022&cCode=1&cino=UKHC010091412022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "45f51cb7123f4b43dd63e36a75f654e625025471f4e622440eefe7b642353ebb",
+ "fetched_at": "2026-10-13T13:36:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

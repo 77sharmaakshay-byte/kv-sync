@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/109/2018:2019-02-25-001",
+ "title": "M. L. CHAMOLI versus M.D.D.A. REMKI",
+ "petitioner": "M. L. CHAMOLI",
+ "respondent": "M.D.D.A. REMKI",
+ "case_no": "CLR/109/2018",
+ "case_type": "CLR",
+ "decision_date": "2019-02-25",
+ "cnr": "UKHC010168792018",
+ "doc_kind": "order",
+ "order_type": "CLR/109/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL%2BukgbXRkX%2BMGhPykb5VRBqGeX7fHIu%2Bc%2B4%2FJZ0oPQ%2BR&caseno=CLR/109/2018&cCode=1&cino=UKHC010168792018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "73fc4d6e273daccc627ee22e76689cfbc6c9f658aa3d3aba79df33b9acf261ea",
+ "fetched_at": "2026-10-13T13:25:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

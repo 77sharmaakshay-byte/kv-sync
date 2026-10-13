@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/444/2024:2026-07-23-007",
+ "title": "STATE OF UTTARAKHAND versus KAILASH CHANDRA BHATT",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "KAILASH CHANDRA BHATT",
+ "case_no": "WPSB/444/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-07-23",
+ "cnr": "UKHC010113302024",
+ "doc_kind": "order",
+ "order_type": "WPSB/444/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKn567TigTvHgZNIHygbrLKlz7c%2BgdXh2goaa4OMTspA&caseno=WPSB/444/2024&cCode=1&cino=UKHC010113302024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5155cd6269c384737692f727fbe73cd0c3a6d84127bbf27aee184546789f4018",
+ "fetched_at": "2026-10-13T13:35:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

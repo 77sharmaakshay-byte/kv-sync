@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/623/2021:2021-08-25-003",
+ "title": "STATE OF UTTARAKHAND versus UTTARAKHAND SCHEDULE TRIBE COMMISSION",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "UTTARAKHAND SCHEDULE TRIBE COMMISSION",
+ "case_no": "WPMS/623/2021",
+ "case_type": "WPMS",
+ "decision_date": "2021-08-25",
+ "cnr": "UKHC010035192021",
+ "doc_kind": "order",
+ "order_type": "WPMS/623/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJBWBkStsMzrjx1cXb35inY%2BUFSdXlcBQlF0%2FZ5wzoC%2F&caseno=WPMS/623/2021&cCode=1&cino=UKHC010035192021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cc45427f3a93df809fdb8af73199e7d2f330a2baa22964074fc3a9e200db7519",
+ "fetched_at": "2026-10-13T13:31:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

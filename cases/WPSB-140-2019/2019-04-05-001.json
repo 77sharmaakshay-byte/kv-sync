@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/140/2019:2019-04-05-001",
+ "title": "SURENDRA SINGH GUASIN versus STATE OF UTTARAKHAND",
+ "petitioner": "SURENDRA SINGH GUASIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/140/2019",
+ "case_type": "WPSB",
+ "decision_date": "2019-04-05",
+ "cnr": "UKHC010050152019",
+ "doc_kind": "order",
+ "order_type": "WPSB/140/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFwFPzDAxBMjiEyEKBoSJQN8%2FdhPWdUXtECVpmCZWR1Ef&caseno=WPSB/140/2019&cCode=1&cino=UKHC010050152019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1c8e44ec4c4167eb11e48d269687ed8e54deac4c815003d76a3d9e6a23565341",
+ "fetched_at": "2026-10-13T13:37:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

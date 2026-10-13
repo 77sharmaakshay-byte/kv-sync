@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/140/2019:2025-08-20-020",
+ "title": "SURENDRA SINGH GUASIN versus STATE OF UTTARAKHAND",
+ "petitioner": "SURENDRA SINGH GUASIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/140/2019",
+ "case_type": "WPSB",
+ "decision_date": "2025-08-20",
+ "cnr": "UKHC010050152019",
+ "doc_kind": "order",
+ "order_type": "WPSB/140/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFwFPzDAxBMjiEyEKBoSJQN8PPmr%2FCKSS8AOPlV72cD0c&caseno=WPSB/140/2019&cCode=1&cino=UKHC010050152019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4479c330316938621891b7bef54d218123c255a55939f98bcc77f70a9e626b1a",
+ "fetched_at": "2026-10-13T13:37:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

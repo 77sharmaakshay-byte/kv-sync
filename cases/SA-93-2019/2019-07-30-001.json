@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/93/2019:2019-07-30-001",
+ "title": "MOHAN SINGH versus BALJINDRA SINGH",
+ "petitioner": "MOHAN SINGH",
+ "respondent": "BALJINDRA SINGH",
+ "case_no": "SA/93/2019",
+ "case_type": "SA",
+ "decision_date": "2019-07-30",
+ "cnr": "UKHC010103482019",
+ "doc_kind": "order",
+ "order_type": "SA/93/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF97viDiPCyOAVq%2F9fC9mwWEPkxCYeg08HBAXf4SRWTLJ&caseno=SA/93/2019&cCode=1&cino=UKHC010103482019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "02fca9817db949f5c428f46dd72c562900ed86dbd5fd1d8a096937ebee2ddb97",
+ "fetched_at": "2026-10-13T13:33:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/448/2024:2024-08-14-001",
+ "title": "STATE OF UTTARAKHAND versus NAVEEN CHANDRA",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "NAVEEN CHANDRA",
+ "case_no": "WPSB/448/2024",
+ "case_type": "WPSB",
+ "decision_date": "2024-08-14",
+ "cnr": "UKHC010114042024",
+ "doc_kind": "order",
+ "order_type": "WPSB/448/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcDiN5vWsTCnuwiGP6PyL%2BPQ9rQV30AmwP3cq0jqHVTQ4&caseno=WPSB/448/2024&cCode=1&cino=UKHC010114042024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "34e0e93afcc8e519fad3866491ca940a18b0ce3492814fcb5d6071092221aa7d",
+ "fetched_at": "2026-10-13T13:34:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

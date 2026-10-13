@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/109/2018:2026-01-10-016",
+ "title": "M. L. CHAMOLI versus M.D.D.A. REMKI",
+ "petitioner": "M. L. CHAMOLI",
+ "respondent": "M.D.D.A. REMKI",
+ "case_no": "CLR/109/2018",
+ "case_type": "CLR",
+ "decision_date": "2026-01-10",
+ "cnr": "UKHC010168792018",
+ "doc_kind": "order",
+ "order_type": "CLR/109/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL%2BukgbXRkX%2BMGhPykb5VRBrP4vl5YCdJZpHRpXFLQCMx&caseno=CLR/109/2018&cCode=1&cino=UKHC010168792018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ea76d89baf78d7bc5a41fec29f76a0916099041fb74d4f64c06b7780a7283468",
+ "fetched_at": "2026-10-13T13:25:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

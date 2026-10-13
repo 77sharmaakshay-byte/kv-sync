@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1983/2020:2021-08-03-003",
+ "title": "TRILOK SINGH BHANDARI versus STATE OF UTTARAKHAND",
+ "petitioner": "TRILOK SINGH BHANDARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1983/2020",
+ "case_type": "WPMS",
+ "decision_date": "2021-08-03",
+ "cnr": "UKHC010106922020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1983/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjJ%2F8VG41iFXPW%2BLHQp2ZoGjv7N7U8NByHZAgM6IrKnZ6&caseno=WPMS/1983/2020&cCode=1&cino=UKHC010106922020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bf8c59b3bfec0cc15fa206b61051ea0d616486513eb2c5e42ca0428873295327",
+ "fetched_at": "2026-10-13T13:31:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

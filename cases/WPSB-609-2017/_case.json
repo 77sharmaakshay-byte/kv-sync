@@ -1,0 +1,531 @@
+{
+ "cnr_number": "UKHC010025082017",
+ "case_type": "WPSB",
+ "filing_number": "WPSB /1018531/2017",
+ "filing_date": "2017-12-30",
+ "registration_number": "WPSB /609/2017",
+ "registration_date": "2017-12-30",
+ "first_hearing_date": "2018-02-14",
+ "next_hearing_date": null,
+ "decision_date": null,
+ "case_stage": "FOR FINAL HEARING -40",
+ "status": "",
+ "coram": "Hon'ble Shri Justice Manoj Kumar Gupta , Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pauri Garhwal",
+ "petitioners": [
+  {
+   "name": "VINOD KUMAR NIRALA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "GAJPAL",
+   "advocate": ""
+  },
+  {
+   "name": "AMIT LINGWAL",
+   "advocate": "BHUPESH KANDPAL"
+  },
+  {
+   "name": "MAHENDRA SINGH RAWAT",
+   "advocate": ""
+  },
+  {
+   "name": "VIJENDRA SINGH RANA",
+   "advocate": ""
+  },
+  {
+   "name": "BHUPENDRA",
+   "advocate": ""
+  },
+  {
+   "name": "MEERA RAWAT",
+   "advocate": ""
+  },
+  {
+   "name": "MANOJ RAWAT",
+   "advocate": ""
+  },
+  {
+   "name": "AJAY",
+   "advocate": ""
+  },
+  {
+   "name": "MANISH PUROHIT",
+   "advocate": ""
+  },
+  {
+   "name": "MANOJ KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "PRADEEP MANDRAWAL",
+   "advocate": ""
+  },
+  {
+   "name": "PAWAN BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "ANOOP LINGWAL",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTRAKHAND   Advocate- ,C.S.C. 1123",
+   "advocate": ""
+  },
+  {
+   "name": "ADDITIONAL TRANSPORT COMMISSIONER OF THE OFFICE",
+   "advocate": ""
+  },
+  {
+   "name": "SRI NARENDRA MIYA",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI SHAILENDRA BISHT",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI JANVEER SINGH RAWAT",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI VINOD KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "SRI KAMAL PRASAD GAUR",
+   "advocate": ""
+  },
+  {
+   "name": "SRI KHASHTI VALLABH JOSHI",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI LALIT MATHPAL",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "NEETU SAXEANA",
+   "advocate": ""
+  },
+  {
+   "name": "SRI RAMESH CHAND TEWARI",
+   "advocate": ""
+  },
+  {
+   "name": "SRI ASHISH MOHAN PANDEY",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "KM. JYOTI BADOLA",
+   "advocate": ""
+  },
+  {
+   "name": "SRI JAGDISH CHANDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "SRI NAVNEET JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "SMT. PUJA KHULBEY",
+   "advocate": ""
+  },
+  {
+   "name": "SRI BRIJ MOHAN",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI HARINDER SINGH BAFILA",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI PARVEEN KANDARI",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI AMIT KUMAR GUPTA",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI KHEM SINGH NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "SRI GOKUL SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SRI CHANDRA SHEKHAR PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "SRI TYGENDRA SINGH RAWAT",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SMT SARITA BAHUGUNA",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI NAVEEN BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "SRI MOHD. ASHIF",
+   "advocate": ""
+  },
+  {
+   "name": "SRI JAVED AKHTAR",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI ANIL KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "SRI PYAR DAS VERMA",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI AMIT KUMAR KANOJIA",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI RAM SINGH PINGAL",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI MAHMOOD",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI VINAY RAM",
+   "advocate": ""
+  },
+  {
+   "name": "SRI LALIT MOHAN ARYA",
+   "advocate": ""
+  },
+  {
+   "name": "SRI SURAJPAL",
+   "advocate": ""
+  },
+  {
+   "name": "SRI ANIL KUMAR BHARTI",
+   "advocate": ""
+  },
+  {
+   "name": "SRI HARISH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "SRI AMIT RAJ",
+   "advocate": ""
+  },
+  {
+   "name": "SRI PRAKASH NATH",
+   "advocate": ""
+  },
+  {
+   "name": "SRI  NARENDRA SINGH MAHIPAL",
+   "advocate": ""
+  },
+  {
+   "name": "SRI VINEET KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "SRI ASLAM ALI",
+   "advocate": ""
+  },
+  {
+   "name": "SRI BHUPENDRA SINGH RAWAT",
+   "advocate": "ANIL K. BISHT"
+  },
+  {
+   "name": "SRI NAVEEN KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "SRI CHANDAN PRAKASH",
+   "advocate": ""
+  },
+  {
+   "name": "SRI MANOJ KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "SRI DHANVEER DANOSI",
+   "advocate": ""
+  },
+  {
+   "name": "SRI CHARU CHANDRA",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": null,
+   "business_date": "2026-07-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-15",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-11-03",
+   "business_date": "2025-10-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-10-13",
+   "business_date": "2025-08-27",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-08-21",
+   "business_date": "2025-05-15",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-18",
+   "business_date": "2024-08-30",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-30",
+   "business_date": "2024-06-28",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-03-11",
+   "purpose": "SERVICE MATTERS -82",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-11",
+   "business_date": "2023-08-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-08-16",
+   "business_date": "2023-03-24",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-03-22",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-10-14",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-09-14",
+   "business_date": "2020-09-10",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2020-07-03",
+   "business_date": "2020-07-02",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-10-24",
+   "business_date": "2018-02-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-02-28",
+   "business_date": "2018-02-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2018-02-28",
+   "purpose": "Restored",
+   "judge": "Hon'ble Mr. Justice V. K. Bist",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2018-02-16",
+   "purpose": "Disposed",
+   "judge": "Hon'ble Mr. Justice V. K. Bist",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": "2018-02-28",
+   "business_date": "2018-02-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": "2018-02-16",
+   "business_date": "2018-02-14",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": "2018-02-14",
+   "business_date": "2018-01-10",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": ""
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2018-01-10",
+   "order_type": "WPSB/609/2017",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4UtjkEH4pbLLu8nP7LWkPvc&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-02-16",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4WHGagb5SqgeImy1JsY7uYa&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-02-28",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4Vf2Jk%2FXlkjrrkxLbGVRPu4&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-10-14",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4XeBMa2tpIboTa4OF65S5ZD&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-03-24",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4XBuJBfrCJd8Zof11Cv8WFp&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-08-16",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4Utjcsfegr%2BZC6TpjP3t0Nq&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-03-11",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4WxD7HIKYXk0%2FRoz4O2vRKq&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-06-28",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4WBEDbijESgxtXGCX%2BhJ1tg&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-08-30",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4Un3SIU4prL9Jn61MuVUram&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-08-27",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4VJRV80r%2FfHgX9hPcWZkO0S&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-07-13",
+   "order_type": "WPSB/609/2017",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxzylkq19%2BjthenM26oTr4XEyDpWTJZvzc5Y4PIJd%2FVi&caseno=WPSB/609/2017&cCode=1&cino=UKHC010025082017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

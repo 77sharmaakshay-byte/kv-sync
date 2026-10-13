@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/229/2022:2023-07-10-004",
+ "title": "SATYA PRASAD PANT versus STATE OF UTTARAKHAND",
+ "petitioner": "SATYA PRASAD PANT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/229/2022",
+ "case_type": "WPSB",
+ "decision_date": "2023-07-10",
+ "cnr": "UKHC010057972022",
+ "doc_kind": "order",
+ "order_type": "WPSB/229/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT02omDomBNNAj24CQhBgJAoX2sNEhkgd9eAD%2BdnNaDwSm&caseno=WPSB/229/2022&cCode=1&cino=UKHC010057972022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1d4f6d6b821f0fee495dca87a42ddfcc7386e87afb1f1fb2c89d38883a779606",
+ "fetched_at": "2026-10-13T13:36:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

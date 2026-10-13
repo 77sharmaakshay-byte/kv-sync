@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/140/2019:2026-09-17-024",
+ "title": "SURENDRA SINGH GUASIN versus STATE OF UTTARAKHAND",
+ "petitioner": "SURENDRA SINGH GUASIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/140/2019",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010050152019",
+ "doc_kind": "order",
+ "order_type": "WPSB/140/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFwFPzDAxBMjiEyEKBoSJQN%2F%2BB%2FKjAKH5BWFxW3%2BAxBXZ&caseno=WPSB/140/2019&cCode=1&cino=UKHC010050152019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "34e1a4c2e6963746e2b379e1d89e2cdebc239ecae5483a20b9930c4c111f6573",
+ "fetched_at": "2026-10-13T13:37:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

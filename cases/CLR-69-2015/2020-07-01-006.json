@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/69/2015:2020-07-01-006",
+ "title": "CHANDAN SINGH versus BHUPAL SINGH",
+ "petitioner": "CHANDAN SINGH",
+ "respondent": "BHUPAL SINGH",
+ "case_no": "CLR/69/2015",
+ "case_type": "CLR",
+ "decision_date": "2020-07-01",
+ "cnr": "UKHC010007942015",
+ "doc_kind": "order",
+ "order_type": "CLR/69/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWYMRpSsGRIhJZwe9e0gNF48I6xcwg8Rcvj%2F3ViZnKA7u&caseno=CLR/69/2015&cCode=1&cino=UKHC010007942015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "88c734ce3f830fad100ed31c6f9e47db4fde0830fbc8fefcb265eb66114d0d4a",
+ "fetched_at": "2026-10-13T13:26:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

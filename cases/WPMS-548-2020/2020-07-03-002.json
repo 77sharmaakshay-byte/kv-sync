@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/548/2020:2020-07-03-002",
+ "title": "SMT. RASHMI CHAUHAN versus UTTARAKHAND INFORMATION COMMISSION",
+ "petitioner": "SMT. RASHMI CHAUHAN",
+ "respondent": "UTTARAKHAND INFORMATION COMMISSION",
+ "case_no": "WPMS/548/2020",
+ "case_type": "WPMS",
+ "decision_date": "2020-07-03",
+ "cnr": "UKHC010031242020",
+ "doc_kind": "order",
+ "order_type": "WPMS/548/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjPDEAqexKtwu1xj6ghqYBXphNsExw6d3C1yQkQIc2Nly&caseno=WPMS/548/2020&cCode=1&cino=UKHC010031242020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1de7727907bb0a097256ab68ad3ce93d4301657914cc31886f4bb7d1ee8dfc4b",
+ "fetched_at": "2026-10-13T13:32:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

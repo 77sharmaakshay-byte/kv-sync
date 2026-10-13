@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/579/2022:2023-08-02-003",
+ "title": "PRAMOD KUMAR JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAMOD KUMAR JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/579/2022",
+ "case_type": "WPSB",
+ "decision_date": "2023-08-02",
+ "cnr": "UKHC010143982022",
+ "doc_kind": "order",
+ "order_type": "WPSB/579/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05A3ZL6zS6jKirLvGBDzv5r751wjaP2KWNfWb7V5s15f&caseno=WPSB/579/2022&cCode=1&cino=UKHC010143982022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b3defcc487bc3a13e64896b5dab7ce1f978bb2be61ccdaf40cd97c364bfa9d1d",
+ "fetched_at": "2026-10-13T13:36:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

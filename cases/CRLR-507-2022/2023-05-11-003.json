@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/507/2022:2023-05-11-003",
+ "title": "HEMA  JOSHI versus HEM CHANDRA JOSHI",
+ "petitioner": "HEMA  JOSHI",
+ "respondent": "HEM CHANDRA JOSHI",
+ "case_no": "CRLR/507/2022",
+ "case_type": "CRLR",
+ "decision_date": "2023-05-11",
+ "cnr": "UKHC010129452022",
+ "doc_kind": "order",
+ "order_type": "CRLR/507/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR REFERRAL TO THE SPECIAL MEDIATION DRIVE-MEDIATION FOR NATION -256",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2BD1Yup9o7lwLm9GqKMGpTdwI%2FrQaJ0RPlyFG6dMo8yD&caseno=CRLR/507/2022&cCode=1&cino=UKHC010129452022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "11c0c5aa9b943e50820b7ee9f01081a20ff6709f780060cd7041e5d2e97e4869",
+ "fetched_at": "2026-10-13T13:26:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

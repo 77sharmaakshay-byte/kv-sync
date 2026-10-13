@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/446/2024:2026-07-23-006",
+ "title": "STATE OF UTTARAKHAND versus PRAKASH CHANDRA",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "PRAKASH CHANDRA",
+ "case_no": "WPSB/446/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-07-23",
+ "cnr": "UKHC010113282024",
+ "doc_kind": "order",
+ "order_type": "WPSB/446/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcLe%2B8XVFPPAi%2BJbwTpLb0qHS4flMwS4JvO8r8eBo85IN&caseno=WPSB/446/2024&cCode=1&cino=UKHC010113282024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5155cd6269c384737692f727fbe73cd0c3a6d84127bbf27aee184546789f4018",
+ "fetched_at": "2026-10-13T13:35:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

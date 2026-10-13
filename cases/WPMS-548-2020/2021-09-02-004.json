@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/548/2020:2021-09-02-004",
+ "title": "SMT. RASHMI CHAUHAN versus UTTARAKHAND INFORMATION COMMISSION",
+ "petitioner": "SMT. RASHMI CHAUHAN",
+ "respondent": "UTTARAKHAND INFORMATION COMMISSION",
+ "case_no": "WPMS/548/2020",
+ "case_type": "WPMS",
+ "decision_date": "2021-09-02",
+ "cnr": "UKHC010031242020",
+ "doc_kind": "order",
+ "order_type": "WPMS/548/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjPDEAqexKtwu1xj6ghqYBXrtPtrP%2B%2FkbSHyNGXE8rXmm&caseno=WPMS/548/2020&cCode=1&cino=UKHC010031242020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d31360d59539ab7df5fa03c7ae6545e1bf625338dd9031448a676d3b770d54e7",
+ "fetched_at": "2026-10-13T13:32:09+00:00",
+ "fetched_by": "fetch_live.py"
+}
