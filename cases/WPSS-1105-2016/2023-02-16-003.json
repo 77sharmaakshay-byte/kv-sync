@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1105/2016:2023-02-16-003",
+ "title": "VIJAY PAL versus INDIAN INSTITUTE OF TECHNOLOGY, ROORKEE,   Advocate- ,VIPUL SHARMA 1123",
+ "petitioner": "VIJAY PAL",
+ "respondent": "INDIAN INSTITUTE OF TECHNOLOGY, ROORKEE,   Advocate- ,VIPUL SHARMA 1123",
+ "case_no": "WPSS/1105/2016",
+ "case_type": "WPSS",
+ "decision_date": "2023-02-16",
+ "cnr": "UKHC010026082016",
+ "doc_kind": "order",
+ "order_type": "WPSS/1105/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBRPXpek1G1K9MOJ2yuX8TVL2mH3sGiVqWbKHvjq7%2BxT5&caseno=WPSS/1105/2016&cCode=1&cino=UKHC010026082016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "818de8d4346f16dd084222ca37f0fa673dce3480621f3f9546970232614d2fe1",
+ "fetched_at": "2026-10-13T13:51:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

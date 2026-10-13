@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1118/2008:2025-12-22-003",
+ "title": "GOVIND SINGH BORA versus STATE AND OTHERS",
+ "petitioner": "GOVIND SINGH BORA",
+ "respondent": "STATE AND OTHERS",
+ "case_no": "WPSS/1118/2008",
+ "case_type": "WPSS",
+ "decision_date": "2025-12-22",
+ "cnr": "UKHC010090002008",
+ "doc_kind": "order",
+ "order_type": "WPSS/1118/2008",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FwQOg3skvbQQFLqpuCrwFJ9vdoRTHRG9%2Bv3q62K6DAgv5V1eMzL9vKN8X2EugpP7&caseno=WPSS/1118/2008&cCode=1&cino=UKHC010090002008&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a3ba6ba11702e484a3e50a3d950cebe6452a8f0a98b3ebefd75b590464d6c76d",
+ "fetched_at": "2026-10-13T13:54:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

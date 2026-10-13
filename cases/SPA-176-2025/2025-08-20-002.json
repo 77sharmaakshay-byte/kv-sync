@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/176/2025:2025-08-20-002",
+ "title": "STATE OF UTTARAKHAND versus JAGDISH CHANDRA BHATT",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "JAGDISH CHANDRA BHATT",
+ "case_no": "SPA/176/2025",
+ "case_type": "SPA",
+ "decision_date": "2025-08-20",
+ "cnr": "UKHC010101792025",
+ "doc_kind": "order",
+ "order_type": "SPA/176/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5qdl%2FLrjFwWwasczwDDcootcTL%2F1WiXOCFFMPNCbY9w&caseno=SPA/176/2025&cCode=1&cino=UKHC010101792025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1997e262eb59df66b5fa28a0c3d2fdcc33be0da3d3561624129a121c1df4dd85",
+ "fetched_at": "2026-10-13T13:55:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

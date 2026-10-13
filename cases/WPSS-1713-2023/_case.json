@@ -1,0 +1,321 @@
+{
+ "cnr_number": "UKHC010146722023",
+ "case_type": "WPSS",
+ "filing_number": "WPSS /6533/2023",
+ "filing_date": "2023-09-12",
+ "registration_number": "WPSS /1713/2023",
+ "registration_date": "2023-09-12",
+ "first_hearing_date": null,
+ "next_hearing_date": "2024-11-19",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "TEERATH SINGH",
+   "advocate": "M C PANT"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND AND OTHERS",
+   "advocate": ""
+  },
+  {
+   "name": "BOARD OF REVENUE THROUGH ITS SECRETARY",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "CHAIRMAN BOARD OF REVENUE",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "COMMISSIONER GARHWAL MANDAL",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "DISTRICT MAGISTRATE DEHRADUN",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "JATAM SINGH",
+   "advocate": "NIRANJAN BHATT"
+  },
+  {
+   "name": "HIRA SINGH",
+   "advocate": "NIRANJAN BHATT"
+  },
+  {
+   "name": "RANVEER SINGH",
+   "advocate": "NIRANJAN BHATT"
+  },
+  {
+   "name": "KANJUWANAND",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "SUDHIR MISHRA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "PREM LAL KOTHARI",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "SANJAY CHAUHAN",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "AJAY KUMAR PANDEY",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "NADHIRAM",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "DEEPAK KUMAR UPADHYAY",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "PRAMOD SINGH",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "ASHOK KUMAR SINGH",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "SHYAM SINGH",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "KALAM SINGH",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "MUNNADAS",
+   "advocate": ""
+  },
+  {
+   "name": "DINESH CHANDRA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "MANGE RAM",
+   "advocate": ""
+  },
+  {
+   "name": "RAMKARAN",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "SAHAJ RAM",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "GIRISH CHANDRA PANDEY",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "JAIPAL",
+   "advocate": ""
+  },
+  {
+   "name": "PARAMVIR PANWAR",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "AJAY GUPTA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "SANTOSH SAINI",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "KAMAL PRAKASH DANGWAL",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "ADDHESH SHARMA",
+   "advocate": ""
+  },
+  {
+   "name": "MANOJ KUMAR",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "KESHAV DUTT PANDEY",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "NAVEEN SHRIVASTAV",
+   "advocate": ""
+  },
+  {
+   "name": "INDER SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "JAIPAL DOBHAL",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH VERMA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "SANJAY ANAND",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "SACHIDANAND DOBHAL",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "BIR SINGH",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "VIMLESH CHAMOLI",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "PRATOSH KUMAR",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "ASHISH DORA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "PRAHALAD SINGH",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "NARESH DORA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "SANJAY KUMAR",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "DEVENDRA SINGH",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "ASHOK SAHANI",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "BIR SINGH BISHT",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "DEEPAK BHANDARI",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "CHATAR SINGH",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "MANOJ KUMAR",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "DIVAKAR BAHUGUNA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "GIRJA SHANKAR CHATURVEDI",
+   "advocate": ""
+  },
+  {
+   "name": "MAHENDRA PRATAP",
+   "advocate": ""
+  },
+  {
+   "name": "RISAYAT ALI",
+   "advocate": "BHAGWAT MEHRA"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2023-09-13",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-11-19",
+   "business_date": "2024-09-06",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-06",
+   "business_date": "2024-07-10",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-10",
+   "business_date": "2024-04-24",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-24",
+   "business_date": "2023-11-30",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-11-30",
+   "business_date": "2023-09-13",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2023-09-13",
+   "order_type": "WPSS/1713/2023",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY4fVXX6u9fLGWw3L%2BxDQ2RSSpnSK0IFUVA9axJR4C85q&caseno=WPSS/1713/2023&cCode=1&cino=UKHC010146722023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-09-13",
+   "order_type": "IA/1/2023",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY4fVXX6u9fLGWw3L%2BxDQ2RRDunWryILCjtyjenDPOHcB&caseno=WPSS/1713/2023&cCode=1&cino=UKHC010146722023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

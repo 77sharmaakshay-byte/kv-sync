@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1118/2008:2024-09-02-002",
+ "title": "GOVIND SINGH BORA versus STATE AND OTHERS",
+ "petitioner": "GOVIND SINGH BORA",
+ "respondent": "STATE AND OTHERS",
+ "case_no": "WPSS/1118/2008",
+ "case_type": "WPSS",
+ "decision_date": "2024-09-02",
+ "cnr": "UKHC010090002008",
+ "doc_kind": "order",
+ "order_type": "WPSS/1118/2008",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FwQOg3skvbQQFLqpuCrwFJ9vdoRTHRG9%2Bv3q62K6DAjUKTI1ITui0P57oja4FJFg&caseno=WPSS/1118/2008&cCode=1&cino=UKHC010090002008&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ca57ecffe9552ed765f48817273f021ccb003e3babb6a08029fc42483c4f4803",
+ "fetched_at": "2026-10-13T13:54:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

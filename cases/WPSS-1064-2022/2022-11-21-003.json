@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1064/2022:2022-11-21-003",
+ "title": "RIZWAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RIZWAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1064/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-11-21",
+ "cnr": "UKHC010079882022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1064/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT053%2BP4%2Fa9ay8YWAyUmCb%2BDvzrePYBZ6Zkfc4CIj34rHD&caseno=WPSS/1064/2022&cCode=1&cino=UKHC010079882022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ca34f2b8a981e95335aed453708e575fd90a4188be63b454c0c4ee87bdccbaaa",
+ "fetched_at": "2026-10-13T13:43:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

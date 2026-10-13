@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1552/2020:2026-09-01-005",
+ "title": "DEVENDRA KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DEVENDRA KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1552/2020",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010122122020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1552/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjD7GpRJMQHHdDH3wW9FcSzNJA5LSBmoYgvPhoaMO74SR&caseno=WPSS/1552/2020&cCode=1&cino=UKHC010122122020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f9e3a8ea9bf86109c05100159238f25a90a09859aca5c287c33c2b195cf9ecdd",
+ "fetched_at": "2026-10-13T13:45:12+00:00",
+ "fetched_by": "fetch_live.py"
+}
