@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/869/2026:2026-05-06-002",
+ "title": "CHANDRAKANT ARORA versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDRAKANT ARORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/869/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-06",
+ "cnr": "UKHC010053692026",
+ "doc_kind": "order",
+ "order_type": "WPMS/869/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS (AFTER FRESH) -30",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsxgPyY1X9gfTO8liEU10rzrEi4A4LBl3pMenN1gvzQJ&caseno=WPMS/869/2026&cCode=1&cino=UKHC010053692026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "178d755a211a46c249e849c68b0fb343099111eca2b947150e2f7f0d469a18fe",
+ "fetched_at": "2026-10-13T12:05:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

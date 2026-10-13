@@ -1,0 +1,102 @@
+{
+ "cnr_number": "UKHC010133762026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /6950/2026",
+ "filing_date": "2026-07-28",
+ "registration_number": "WPMS /2302/2026",
+ "registration_date": "2026-07-28",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-14",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "DEEN MOHAMMED",
+   "advocate": "MOHD SAFDAR"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "CHIEF CONTROLLING REVENUE AUTHORITY",
+   "advocate": ""
+  },
+  {
+   "name": "ADDITIONAL COLLECTOR",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "DEPUTY REGISTRAR HARIDWAR",
+   "advocate": "C.S.C."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 227 of the Constituion of India",
+   "sections": "227"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-07-29",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-14",
+   "business_date": "2026-10-12",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-12",
+   "business_date": "2026-09-09",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-02",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-07-29",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-09",
+   "order_type": "WPMS/2302/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh1OlEVTReg9DWoWZ6WH5HfGPQcb3WmkNkuvouZeLwMz&caseno=WPMS/2302/2026&cCode=1&cino=UKHC010133762026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-12",
+   "order_type": "WPMS/2302/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh1OlEVTReg9DWoWZ6WH5HevJ9Ya0uHfG3v188jOaEF4&caseno=WPMS/2302/2026&cCode=1&cino=UKHC010133762026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

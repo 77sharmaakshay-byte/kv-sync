@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2628/2026:2026-08-31-003",
+ "title": "ARVIND KUMAR versus SARITA",
+ "petitioner": "ARVIND KUMAR",
+ "respondent": "SARITA",
+ "case_no": "WPMS/2628/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010152672026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2628/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjSTRYSQ6NyzEPib9Crkmw91Yl0P4RHqMSxjwM0%2Bun%2B%2B&caseno=WPMS/2628/2026&cCode=1&cino=UKHC010152672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ba00302234534f2e24e073301028debd61bb76d492e46fa1c017ff0bb9c2cf4",
+ "fetched_at": "2026-10-13T12:08:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

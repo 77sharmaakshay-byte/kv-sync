@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/109/2023:2023-01-13-001",
+ "title": "Prashansa Tiwari versus STATE OF UTTARAKHAND",
+ "petitioner": "Prashansa Tiwari",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/109/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-01-13",
+ "cnr": "UKHC010008862023",
+ "doc_kind": "order",
+ "order_type": "WPSS/109/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY996Z3Xn5nCaOYtNwL2mYE7Iz8L0O3UP20ZncFsnL3Gi&caseno=WPSS/109/2023&cCode=1&cino=UKHC010008862023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d411203f6f0507ff1da1b308742f841899fba29f49221a1b26f577eba494ac65",
+ "fetched_at": "2026-10-13T12:09:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

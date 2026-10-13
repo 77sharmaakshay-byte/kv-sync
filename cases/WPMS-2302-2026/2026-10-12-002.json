@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2302/2026:2026-10-12-002",
+ "title": "DEEN MOHAMMED versus CHIEF CONTROLLING REVENUE AUTHORITY",
+ "petitioner": "DEEN MOHAMMED",
+ "respondent": "CHIEF CONTROLLING REVENUE AUTHORITY",
+ "case_no": "WPMS/2302/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010133762026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2302/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh1OlEVTReg9DWoWZ6WH5HevJ9Ya0uHfG3v188jOaEF4&caseno=WPMS/2302/2026&cCode=1&cino=UKHC010133762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "12a3a41c2d87de6ce66de2c285d59932cbef1ba4146d7837e7807992bc9f9a06",
+ "fetched_at": "2026-10-13T12:07:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

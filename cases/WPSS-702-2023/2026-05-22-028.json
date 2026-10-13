@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/702/2023:2026-05-22-028",
+ "title": "NIDHI JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "NIDHI JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/702/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-22",
+ "cnr": "UKHC010069232023",
+ "doc_kind": "order",
+ "order_type": "WPSS/702/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzMSHThfW3ULBgIUdvy0kZcRyRdVpbNgVQC6AUpgnoDD&caseno=WPSS/702/2023&cCode=1&cino=UKHC010069232023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b18999f8f24a28cc4b642f3dcc579d7581dca21ca43181383d12ec705dfb60d3",
+ "fetched_at": "2026-10-13T12:11:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

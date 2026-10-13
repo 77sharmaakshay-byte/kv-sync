@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1351/2011:2022-07-14-001",
+ "title": "STATE OF UTTARAKHAND and ANOTHER versus DISTRICT DEPUTY DIRECTOR CONSOLIDATION",
+ "petitioner": "STATE OF UTTARAKHAND and ANOTHER",
+ "respondent": "DISTRICT DEPUTY DIRECTOR CONSOLIDATION",
+ "case_no": "WPMS/1351/2011",
+ "case_type": "WPMS",
+ "decision_date": "2022-07-14",
+ "cnr": "UKHC010002822011",
+ "doc_kind": "order",
+ "order_type": "WPMS/1351/2011",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYodrZR7GgrnlvxEf6fQISDIDWFQzN8LTsN%2FG6Bw8ao2LY&caseno=WPMS/1351/2011&cCode=1&cino=UKHC010002822011&state_code=15&court_code=1&&appFlag=",
+ "sha256": "70cc23357f0303e9d9e7d1c9c8c01ff4ce088fb6e3e483fc253bc28d61610454",
+ "fetched_at": "2026-10-13T12:09:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

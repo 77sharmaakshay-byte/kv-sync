@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/869/2026:2026-05-11-003",
+ "title": "CHANDRAKANT ARORA versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDRAKANT ARORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/869/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-11",
+ "cnr": "UKHC010053692026",
+ "doc_kind": "order",
+ "order_type": "WPMS/869/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS (AFTER FRESH) -30",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsxgPyY1X9gfTO8liEU10rxsZ%2B%2FXNm2mKw%2BcWLGo5gHI&caseno=WPMS/869/2026&cCode=1&cino=UKHC010053692026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eeaaf8eeedba2b88003c879c29ce3a19905902f3d94a8500865236837ec69f8c",
+ "fetched_at": "2026-10-13T12:05:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

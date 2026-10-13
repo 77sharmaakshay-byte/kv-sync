@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2379/2026:2026-08-11-002",
+ "title": "ASFAQ DECEASED(Legal Heir) versus GRAM SABHA",
+ "petitioner": "ASFAQ DECEASED(Legal Heir)",
+ "respondent": "GRAM SABHA",
+ "case_no": "WPMS/2379/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010137932026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2379/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhrJqFgUrXxNRhw0gi0vVo7P4lOKnf3CNwEgi3dWe0ne&caseno=WPMS/2379/2026&cCode=1&cino=UKHC010137932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fb176ac1bbd3d1e65775620f44b7936de5c54cd22c418bb1a273ef2b52279d5a",
+ "fetched_at": "2026-10-13T12:08:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

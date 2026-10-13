@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/109/2023:2023-08-02-010",
+ "title": "Prashansa Tiwari versus STATE OF UTTARAKHAND",
+ "petitioner": "Prashansa Tiwari",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/109/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-08-02",
+ "cnr": "UKHC010008862023",
+ "doc_kind": "order",
+ "order_type": "WPSS/109/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY996Z3Xn5nCaOYtNwL2mYE6iJWiuEf6THFxWRDDyHlOx&caseno=WPSS/109/2023&cCode=1&cino=UKHC010008862023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "781fa3b42aea2474465937ef48c8610e60df9f358f89a711ffa320bd9ef1feab",
+ "fetched_at": "2026-10-13T12:09:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

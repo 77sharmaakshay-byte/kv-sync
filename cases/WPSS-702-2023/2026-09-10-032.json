@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/702/2023:2026-09-10-032",
+ "title": "NIDHI JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "NIDHI JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/702/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-10",
+ "cnr": "UKHC010069232023",
+ "doc_kind": "order",
+ "order_type": "WPSS/702/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzMSHThfW3ULBgIUdvy0kZceRgNuqwmJZQIwDM99bnm3&caseno=WPSS/702/2023&cCode=1&cino=UKHC010069232023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "278e50902741f9a6590e8cdf2560dd3d4ff56865d7c7581bcfe4f3fe9726adeb",
+ "fetched_at": "2026-10-13T12:11:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

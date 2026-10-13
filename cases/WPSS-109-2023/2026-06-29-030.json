@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/109/2023:2026-06-29-030",
+ "title": "Prashansa Tiwari versus STATE OF UTTARAKHAND",
+ "petitioner": "Prashansa Tiwari",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/109/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-06-29",
+ "cnr": "UKHC010008862023",
+ "doc_kind": "order",
+ "order_type": "WPSS/109/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY996Z3Xn5nCaOYtNwL2mYE6jeFTV3Klbl01nyIay3dDQ&caseno=WPSS/109/2023&cCode=1&cino=UKHC010008862023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9fc4e18fafa65003e9bd4c3067a51384600c9a4ee55e194b5b787eb549f56918",
+ "fetched_at": "2026-10-13T12:10:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

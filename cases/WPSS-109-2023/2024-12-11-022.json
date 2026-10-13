@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/109/2023:2024-12-11-022",
+ "title": "Prashansa Tiwari versus STATE OF UTTARAKHAND",
+ "petitioner": "Prashansa Tiwari",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/109/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-12-11",
+ "cnr": "UKHC010008862023",
+ "doc_kind": "order",
+ "order_type": "WPSS/109/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY996Z3Xn5nCaOYtNwL2mYE7k2tB4CidltQESa3hj4Imm&caseno=WPSS/109/2023&cCode=1&cino=UKHC010008862023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bcee183bb0ec4d42fb9171620e72fc2cb831c97c4312e2a2c2eda6f195fd268f",
+ "fetched_at": "2026-10-13T12:10:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

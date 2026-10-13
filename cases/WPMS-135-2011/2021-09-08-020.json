@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/135/2011:2021-09-08-020",
+ "title": "CHHOTE(Legal Heir) versus ASSISTANT CONSOLIDATION OFFICE KASHIPUR",
+ "petitioner": "CHHOTE(Legal Heir)",
+ "respondent": "ASSISTANT CONSOLIDATION OFFICE KASHIPUR",
+ "case_no": "WPMS/135/2011",
+ "case_type": "WPMS",
+ "decision_date": "2021-09-08",
+ "cnr": "UKHC010002792011",
+ "doc_kind": "order",
+ "order_type": "WPMS/135/2011",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYob0ci8HPK2Pw9qeUC%2FqeYQU4%2BdIN9krYO539Ic2HQBG6&caseno=WPMS/135/2011&cCode=1&cino=UKHC010002792011&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c65e2b5f5491979e3192347ea65593c6ed756a1e0c4dfe85fefc6ffb4525d731",
+ "fetched_at": "2026-10-13T12:08:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

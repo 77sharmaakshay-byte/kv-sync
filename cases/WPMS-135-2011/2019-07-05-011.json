@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/135/2011:2019-07-05-011",
+ "title": "CHHOTE(Legal Heir) versus ASSISTANT CONSOLIDATION OFFICE KASHIPUR",
+ "petitioner": "CHHOTE(Legal Heir)",
+ "respondent": "ASSISTANT CONSOLIDATION OFFICE KASHIPUR",
+ "case_no": "WPMS/135/2011",
+ "case_type": "WPMS",
+ "decision_date": "2019-07-05",
+ "cnr": "UKHC010002792011",
+ "doc_kind": "order",
+ "order_type": "WPMS/135/2011",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYob0ci8HPK2Pw9qeUC%2FqeYQX4nfsqCcSkaFEn6nGXsiX1&caseno=WPMS/135/2011&cCode=1&cino=UKHC010002792011&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d9271ddaef96ad8429d32a9d4d77aaff1a0b1f156bbe2a501c46d1f5206d2281",
+ "fetched_at": "2026-10-13T12:08:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

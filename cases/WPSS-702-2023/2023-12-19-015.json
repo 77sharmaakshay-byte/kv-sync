@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/702/2023:2023-12-19-015",
+ "title": "NIDHI JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "NIDHI JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/702/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-19",
+ "cnr": "UKHC010069232023",
+ "doc_kind": "order",
+ "order_type": "WPSS/702/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzMSHThfW3ULBgIUdvy0kZcDKozY7YYqsunuCPkcTwHE&caseno=WPSS/702/2023&cCode=1&cino=UKHC010069232023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0af753ca58a90d35dd1e76c0534a066678e2e436e518926889fc6498309ed555",
+ "fetched_at": "2026-10-13T12:11:19+00:00",
+ "fetched_by": "fetch_live.py"
+}
