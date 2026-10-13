@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2904/2026:2026-09-29-002",
+ "title": "DINESH CHANDRA PANT versus FACTORY MANAGER",
+ "petitioner": "DINESH CHANDRA PANT",
+ "respondent": "FACTORY MANAGER",
+ "case_no": "WPMS/2904/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010167862026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2904/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgjiO9bU933fg5W8rWFTBiafgIy2U0ysHGTTpHoC3tDc&caseno=WPMS/2904/2026&cCode=1&cino=UKHC010167862026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c4f86cf946db8da79d6b8271c9da7c45b3668de732196590072a7fde39f17f4d",
+ "fetched_at": "2026-10-13T07:46:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

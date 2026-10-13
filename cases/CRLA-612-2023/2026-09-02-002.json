@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/612/2023:2026-09-02-002",
+ "title": "CHANDRASHEKAR ALIAS CHANDU versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDRASHEKAR ALIAS CHANDU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/612/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-02",
+ "cnr": "UKHC010147302023",
+ "doc_kind": "order",
+ "order_type": "CRLA/612/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FWZpzpekxUpLIT%2FtQtbILEUigYEKrx516n5fi30ZNdg&caseno=CRLA/612/2023&cCode=1&cino=UKHC010147302023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2feb4c82d4a5925ca5d13c73ce55cebb71f37f9017f196123fb3ab1b091ffd5c",
+ "fetched_at": "2026-10-13T07:42:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

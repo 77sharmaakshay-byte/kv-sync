@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2903/2026:2026-09-23-001",
+ "title": "PANKAJ KUMAR versus FACTORY MANAGER",
+ "petitioner": "PANKAJ KUMAR",
+ "respondent": "FACTORY MANAGER",
+ "case_no": "WPMS/2903/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-23",
+ "cnr": "UKHC010167832026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2903/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuhOuIdAx56a58JrqGZkWQR43vzCauczEMvtWbgNYZAP&caseno=WPMS/2903/2026&cCode=1&cino=UKHC010167832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "07fce33c56875a6c6c3d97cd20a4b057b0ed121ae789df17762cf748673ed218",
+ "fetched_at": "2026-10-13T07:46:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

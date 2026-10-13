@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/15/2026:2026-01-09-001",
+ "title": "JASVINDER SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "JASVINDER SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/15/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-01-09",
+ "cnr": "UKHC010004612026",
+ "doc_kind": "order",
+ "order_type": "CRLA/15/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn0IRxLkTY7yKWTDeIc41XSbxnEo862p%2B%2ByQOxh%2BgAI5&caseno=CRLA/15/2026&cCode=1&cino=UKHC010004612026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ab96e1bb1d57796210c292a2c183e0eb786ced392d2249a75ee46fb1ea5b5c6e",
+ "fetched_at": "2026-10-13T07:44:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

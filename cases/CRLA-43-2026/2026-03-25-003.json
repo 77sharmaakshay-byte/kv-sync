@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/43/2026:2026-03-25-003",
+ "title": "ANGREJ SINGH ALIAS RINKU versus STATE OF UTTARAKHAND",
+ "petitioner": "ANGREJ SINGH ALIAS RINKU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/43/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-03-25",
+ "cnr": "UKHC010016792026",
+ "doc_kind": "order",
+ "order_type": "CRLA/43/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvB6jsvhPNKZ0SLtgAIzEBc2%2Fg2psoBpgCxXTzfBlJ5%2F&caseno=CRLA/43/2026&cCode=1&cino=UKHC010016792026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d9e9cfd7f4837f17b81b82f67b19dcf8c5c4341cee8e0bc11d0a5c9b3cdda84",
+ "fetched_at": "2026-10-13T07:45:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

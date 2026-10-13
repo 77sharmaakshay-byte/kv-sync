@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/220/2025:2026-07-13-005",
+ "title": "DINESH CHAURAKOTI versus STATE OF UTTARAKHAND",
+ "petitioner": "DINESH CHAURAKOTI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/220/2025",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-13",
+ "cnr": "UKHC010045062025",
+ "doc_kind": "order",
+ "order_type": "CRLA/220/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2eYeGR2%2BWIX4B5vvOskmAj7kO5uXD3fRjtMMn7m515c&caseno=CRLA/220/2025&cCode=1&cino=UKHC010045062025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bd31390823762002ec4f4e7421dd6487dde3563631c17451289232219dfbb9d7",
+ "fetched_at": "2026-10-13T07:44:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

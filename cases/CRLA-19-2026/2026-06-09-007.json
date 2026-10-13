@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/19/2026:2026-06-09-007",
+ "title": "GURCHARAN SINGH ALIAS BUNTY versus STATE OF UTTARAKHAND",
+ "petitioner": "GURCHARAN SINGH ALIAS BUNTY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/19/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-06-09",
+ "cnr": "UKHC010006912026",
+ "doc_kind": "order",
+ "order_type": "CRLA/19/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgRJfK%2FJNZExm2RLq733OXDG98cQJ%2FU1nsGoGVwAgyhd&caseno=CRLA/19/2026&cCode=1&cino=UKHC010006912026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "209f54af099712ea5af185c059b1570e8ba9317e586f4a3e7bad97e51f9c1af7",
+ "fetched_at": "2026-10-13T07:45:17+00:00",
+ "fetched_by": "fetch_live.py"
+}
