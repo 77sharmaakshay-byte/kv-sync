@@ -1,11 +1,12 @@
 {
  "date": "13-10-2026",
- "fetched": "12-10-2026",
+ "fetched": "13-10-2026",
  "source": "ehcr",
  "uploads": [
   "DAILY CAUSE LIST (ADVANCE)|12.10.2026 01:27 PM",
   "DAILY CAUSELIST|12.10.2026 05:03 PM",
-  "DAILY LIST REGISTRAR JUDICIAL|12.10.2026 06:03 PM"
+  "DAILY LIST REGISTRAR JUDICIAL|12.10.2026 06:03 PM",
+  "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1|13.10.2026 11:13 AM"
  ],
  "benches": [
   {
@@ -70,6 +71,15 @@
    "source_pdf": "20261013_1013_0.pdf",
    "uploaded": "12.10.2026 06:03 PM",
    "chars": 9349
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "Court 04",
+   "type": "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1",
+   "file": "ehcr-20261013_1003_1173-01-court-04.pdf",
+   "source_pdf": "20261013_1003_1173.pdf",
+   "uploaded": "13.10.2026 11:13 AM",
+   "chars": 1391
   }
  ]
 }
