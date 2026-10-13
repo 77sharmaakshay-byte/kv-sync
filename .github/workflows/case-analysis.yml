@@ -76,7 +76,7 @@ jobs:
       - name: Auto notes
         run: python scripts/auto_notes.py --db "$DB" --cases databranch/cases --out databranch/notes_auto ${{ inputs.force && '--force' || '' }}
       - name: Khoj tab ke faisle (export)
-        run: python scripts/export_khoj.py --db "$DB" --out databranch/khoj
+        run: python scripts/export_khoj.py --db "$DB" --out databranch/khoj --notes databranch/notes_auto
       - name: Data branch par save
         id: save
         run: |

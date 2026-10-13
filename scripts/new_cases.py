@@ -6,7 +6,7 @@ naye cases miss na hon. 'Naye cases' workflow inhe uk-case se laata hai.
 
 state/case_fetched.json: {case id: 'YYYY-MM-DD' kab laaya}. --stale-days se purana record dobara (naye orders ke liye).
 Cause list ke baad advocates/*.json (workflow 'Advocate ke cases') ke saare cases: jinka record nahi, ya
---adv-stale-days se purana — chune hue advocate ka poora kaam bhi dheere-dheere (har baar ek-tihaai jagah unki).
+--adv-stale-days se purana — chune hue advocate ka poora kaam bhi dheere-dheere (har baar chhatha hissa unka).
 """
 import argparse
 import datetime as dt
@@ -44,13 +44,18 @@ def main():
         old = not last or (today - dt.date.fromisoformat(last)).days >= stale_days
         return not have or (old and last)
 
-    for folder in sorted(p for p in (src / "causelist").glob("*") if p.is_dir()):
+    days = []
+    for folder in (p for p in (src / "causelist").glob("*") if p.is_dir()):
         try:
             day = dt.datetime.strptime(folder.name, "%d-%m-%Y").date()
         except ValueError:
             continue
-        if day < today:
-            continue
+        if day >= today:
+            days.append((day, folder))
+    # Shaam 3 baje ke baad kal ki list pehle (court ~5:30 daalta hai; 7 baje tak taiyaar), warna aaj ki
+    evening = (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=5, minutes=30)).hour >= 15
+    days.sort(key=lambda x: (evening and x[0] == today, x[0]))
+    for day, folder in days:
         for txt in sorted(folder.glob("*.txt")):
             for e in parse_causelist(txt.read_text(encoding="utf-8"))["entries"]:
                 no = e.get("case_no")
@@ -62,9 +67,9 @@ def main():
             no = c.get("case")
             if no and no not in want and no not in adv and need(no, args.adv_stale_days):
                 adv.append(no)
-    # Har baar kam se kam ek-tihaai jagah advocate walon ko (roz ki lambi list mein woh atke na rahein)
-    n_adv = min(len(adv), max(args.max // 3, args.max - len(want)))
-    pick = adv[:n_adv] + want[:args.max - n_adv]
+    # Har baar kam se kam chhatha hissa advocate walon ko (roz ki lambi list mein woh atke na rahein)
+    n_adv = min(len(adv), max(args.max // 6, args.max - len(want)))
+    pick = want[:args.max - n_adv] + adv[:n_adv]   # list wale pehle laaye jaate hain
     print(f"# aaj/aage ki list mein naye ya purane record wale: {len(want)}, advocates ke: {len(adv)} "
           f"(is baar {len(pick)}: advocate ke {n_adv})", file=sys.stderr)
     print(" ".join(pick))

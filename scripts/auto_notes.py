@@ -18,7 +18,13 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from kl import classify, taxonomy  # noqa: E402
 
-PER_COURT = 3   # har court (SC, Nainital HC) se kitne faisle
+PER_COURT = 3   # har court (SC, Nainital HC) se kitne faisle (balance=True par: itne paksh + itne khilaf)
+GOOD = ("Paksh mein", "Aanshik paksh mein", "Nirdesh: vibhag vichaar kare")
+
+
+def side(nateeja):
+    """Faisla petitioner ke paksh / khilaf / anya (app isi se 'support' aur 'against' alag dikhata hai)."""
+    return "good" if nateeja in GOOD else "bad" if (nateeja or "").startswith("Khilaf") else "other"
 # Paragraph ke shuru/beech mein panne ka header: '[2026] 6 S.C.R. 425', 'Supreme Court Reports', CNR, neutral citation
 NOISE = re.compile(r"\d*\s*\[\d{4}\]\s*\d+\s*S\.C\.R\.(\s*\d+)?(\s*:\s*\d{4} INSC \d+)?|Supreme Court Reports|"
                    r"UKHC\d{10,}|\d{4}:UHC:\d+(-DB)?|Approved For Reporting|HIGH COURT OF UTTARAKHAND AT NAINITAL", re.I)
@@ -68,10 +74,11 @@ def topics_for(case_type, text):
 _SIM = {}
 
 
-def similar(con, up, mudda, query, per_court=PER_COURT):
+def similar(con, up, mudda, query, per_court=PER_COURT, balance=False):
     """Usi upvishay (aur mudda ho to usi) ke mukhya faisle, sabse milta asli paragraph ke saath. SC pehle,
-    phir Nainital HC; naye aur zyada pannon par is vishay wale pehle. Ek upvishay ka nateeja yaad rakhte hain."""
-    key = (up, mudda, per_court)
+    phir Nainital HC; naye aur zyada pannon par is vishay wale pehle. Ek upvishay ka nateeja yaad rakhte hain.
+    balance: har court se per_court paksh wale + per_court khilaf wale (anya sirf jagah bache to)."""
+    key = (up, mudda, per_court, balance)
     if key in _SIM:
         return _SIM[key]
     out = []
@@ -80,7 +87,8 @@ def similar(con, up, mudda, query, per_court=PER_COURT):
             "SELECT k.judgment_id, k.title, k.case_no, k.neutral_citation, k.decision_date, k.nateeja, j.judges "
             "FROM khoj k JOIN judgments j ON j.id = k.judgment_id "
             "WHERE k.upvishay = ? AND k.mudda = ? AND k.strength = 'mukhya' AND k.court = ? "
-            "ORDER BY (k.hits >= 3) DESC, k.decision_date DESC LIMIT ?", (up, mudda or "", court, max(30, per_court * 6))).fetchall()
+            "ORDER BY (k.hits >= 3) DESC, k.decision_date DESC LIMIT ?",
+            (up, mudda or "", court, max(150 if balance else 30, per_court * 6))).fetchall()
         if not rows:
             continue
         meta = {r[0]: r for r in rows}
@@ -91,16 +99,20 @@ def similar(con, up, mudda, query, per_court=PER_COURT):
                 f"AND p.judgment_id IN ({','.join('?' * len(meta))}) ORDER BY 4", (query, *meta)):
             if jid not in best and len(text) > 120:
                 best[jid] = (para_no, text)
-        picked = 0
+        picked, got = 0, {"good": 0, "bad": 0, "other": 0}
         for jid, title, case_no, cite, date, nateeja, judges in rows:
             if jid not in best:
                 continue
+            if balance:
+                g = side(nateeja)
+                if got[g] >= per_court or (g == "other" and got["good"] + got["bad"] + got["other"] >= per_court):
+                    continue
             para_no, text = best[jid]
             text = clean_quote(text)
             if any(text[:200] in o["quote"] for o in out):  # judi hui petitions mein wahi paragraph
                 continue
             out.append({
-                "id": jid,
+                "id": jid, "side": side(nateeja), "mudda": mudda or up,
                 "court": "Supreme Court" if court == "SC" else "Nainital HC",
                 "tag": (nateeja or "Nateeja ?") + " · machine se chuna",
                 "verified": False,
@@ -112,7 +124,11 @@ def similar(con, up, mudda, query, per_court=PER_COURT):
                 "quote": "“" + (text[:420] + ("…" if len(text) > 420 else "")) + "”" + (f" (para {para_no})" if para_no else ""),
             })
             picked += 1
-            if picked >= per_court:
+            if balance:
+                got[side(nateeja)] += 1
+                if got["good"] >= per_court and got["bad"] >= per_court:
+                    break
+            elif picked >= per_court:
                 break
     _SIM[key] = out
     return out
@@ -127,9 +143,9 @@ def note_for(con, folder):
     up = tops[0][0]
     cat, vishay, _, query, _ = next(t for t in taxonomy.TOPICS if t[2] == up)
     mudda = (issues.get(up) or [None])[0]
-    sims = similar(con, up, mudda, query) if mudda else []
+    sims = similar(con, up, mudda, query, balance=True) if mudda else []
     if len(sims) < 2:
-        sims = similar(con, up, None, query)
+        sims = similar(con, up, None, query, balance=True)
     counts = {m: con.execute("SELECT count(*) FROM labels WHERE upvishay = ? AND mudda = ?", (up, m)).fetchone()[0]
               for m, _ in taxonomy.ISSUES.get(up, [])}
     return {

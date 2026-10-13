@@ -1,7 +1,7 @@
 # Roz ke naye cases miss na hon: cause list aate hi (dono raaste: court ki site / eCourts) aaj aur aage ki list ke
 # (aur "Advocate ke cases" wale chune advocate ke saare cases, roz walon ke baad)
 # jin cases ka court record app mein nahi (ya 7 din purana) hai, unka record (parties, tareekhein, orders) laao.
-# Ek baar mein 150; baaki agli baar. Uske baad "Case analysis" apne aap (machine vishleshan + app).
+# Ek baar mein 400 (Mac par 3 hisse ek saath, ~35 min); cause list (sham ~5:30) ke baad 7 baje tak taiyaar. Baaki agli baar. Uske baad "Case analysis" apne aap (machine vishleshan + app).
 # Aapke Mac (self-hosted runner) par: GitHub ke free minute bachte hain. Mac band ho to line mein rukta hai.
 name: Naye cases
 
@@ -13,7 +13,7 @@ on:
     inputs:
       max:
         description: 'Ek baar mein kitne case'
-        default: '150'
+        default: '400'
 
 permissions:
   contents: write
@@ -42,7 +42,7 @@ jobs:
       - name: Kaunse case laane hain
         id: todo
         run: |
-          CASES=$(python3 scripts/new_cases.py --data-branch databranch --max "${{ inputs.max || '150' }}")
+          CASES=$(python3 scripts/new_cases.py --data-branch databranch --max "${{ inputs.max || '400' }}")
           echo "$CASES"
           echo "cases=$CASES" >> "$GITHUB_OUTPUT"
       - name: Python 3.12 + bharat-courts (Mac ka python3 3.9 hai; ek baar banta hai, phir wahi)
@@ -56,8 +56,14 @@ jobs:
       - name: Case laao
         if: steps.todo.outputs.cases != ''
         run: |
+          # 3 hisse ek saath (court ki site har hisse ko alag session deti hai): 400 case ~35 minute
           read -ra LIST <<< "${{ steps.todo.outputs.cases }}"
-          python scripts/fetch_live.py --data "$WORK" uk-case "${LIST[@]}" || true
+          N=3; for k in $(seq 0 $((N - 1))); do
+            PART=(); for i in "${!LIST[@]}"; do [ $((i % N)) -eq $k ] && PART+=("${LIST[$i]}"); done
+            [ ${#PART[@]} -gt 0 ] && python scripts/fetch_live.py --data "$WORK" uk-case "${PART[@]}" > "$RUNNER_TEMP/part-$k.log" 2>&1 &
+          done
+          wait || true
+          tail -n 3 "$RUNNER_TEMP"/part-*.log || true
       - name: Text nikaalo, save karo
         if: steps.todo.outputs.cases != ''
         run: |

@@ -5,6 +5,7 @@ phone par chalne wale milaan-niyam (kl/taxonomy.py ke FTS niyam se bane regex).
     python3 scripts/export_khoj.py --db krishivlaw.db --out databranch/khoj
 
 Nateeja: <out>/index.json (vishay ka ped, niyam, ginti) + <out>/t/<slug>.json (har upvishay ke faisle) + <out>/j/<id>.json (har chune faisle ka poora text).
+--notes <notes_auto>: cases ke auto notes wale (paksh/khilaf) faislon ka poora text bhi, taaki case ke page se click par khule.
 build_app_data.py ise site ke data/khoj/ mein daalta hai; app bina server ke milaan karta hai.
 """
 import argparse
@@ -87,6 +88,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--db", required=True, type=Path)
     ap.add_argument("--out", required=True, type=Path)
+    ap.add_argument("--notes", type=Path, help="notes_auto folder (case ke milte-julte faisle bhi)")
     args = ap.parse_args()
     con = sqlite3.connect(args.db)
     (args.out / "t").mkdir(parents=True, exist_ok=True)
@@ -111,6 +113,12 @@ def main():
         topics.append({"id": slug(up), "shreni": cat, "vishay": vishay, "upvishay": up, "jaancha": checked,
                        "faisle": n, "rules": js_rules(query), "issues": issues})
         print(f"{cat} / {vishay} / {up}: {n} faisle, {len(doc['judgments'])} chune, {len(issues)} mudde")
+    queries = {t[2]: t[3] for t in taxonomy.TOPICS}
+    queries.update({m: q for issues in taxonomy.ISSUES.values() for m, q in issues})
+    for f in sorted(args.notes.glob("*.json")) if args.notes and args.notes.exists() else []:
+        for j in json.loads(f.read_text(encoding="utf-8")).get("similar") or []:
+            if j.get("id") and queries.get(j.get("mudda")):
+                wanted.setdefault(j["id"], {})[j["mudda"]] = queries[j["mudda"]]
     for jid, matches in wanted.items():
         (args.out / "j" / f"{jid}.json").write_text(json.dumps(judgment_doc(con, jid, matches), ensure_ascii=False,
                                                                separators=(",", ":")), encoding="utf-8")
