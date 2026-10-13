@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1809/2022:2022-12-12-002",
+ "title": "LEELA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "LEELA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1809/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-12-12",
+ "cnr": "UKHC010136642022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1809/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07PbVZ2966O4UC1MpOuh1uV5VsTDkFBGLSzzqCls6qHL&caseno=WPSS/1809/2022&cCode=1&cino=UKHC010136642022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "134d9496ae43d0102eb9367b246b3534334f2011ad3144629a05e1282c0912b3",
+ "fetched_at": "2026-10-13T14:59:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

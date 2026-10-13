@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2844/2019:2026-08-18-004",
+ "title": "ASHA BISHT versus KUMAON MANDAL VIKAS NIGAM LTD.",
+ "petitioner": "ASHA BISHT",
+ "respondent": "KUMAON MANDAL VIKAS NIGAM LTD.",
+ "case_no": "WPSS/2844/2019",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010208672019",
+ "doc_kind": "order",
+ "order_type": "WPSS/2844/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFzWO%2F9UcTHXvia2DIA02c0mUKpI4yQZtwhk2pHjUHk4R&caseno=WPSS/2844/2019&cCode=1&cino=UKHC010208672019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "743249d3d7ccb5f9c42d8bb2478d768574d4c0a09c6bee32585eef8d6d17ed0a",
+ "fetched_at": "2026-10-13T14:43:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

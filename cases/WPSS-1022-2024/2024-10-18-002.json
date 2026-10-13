@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1022/2024:2024-10-18-002",
+ "title": "SEEMA versus STATE OF UTTARAKHAND",
+ "petitioner": "SEEMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1022/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-10-18",
+ "cnr": "UKHC010091672024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1022/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcOemh7S9Wim3LmPsmcdJtHQVIAIOswS1x8Od261F97S1&caseno=WPSS/1022/2024&cCode=1&cino=UKHC010091672024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3cec76fa0969d4bfd9e285e45d48a5f9c31859cab8e268c590b90fb77dfeda8e",
+ "fetched_at": "2026-10-13T14:58:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/711/2025:2026-01-03-001",
+ "title": "SHATRUGHAN JHA versus PROFESSOR PRATIBHA MEHTA LUTHRA",
+ "petitioner": "SHATRUGHAN JHA",
+ "respondent": "PROFESSOR PRATIBHA MEHTA LUTHRA",
+ "case_no": "CLCON/711/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-01-03",
+ "cnr": "UKHC010213742025",
+ "doc_kind": "order",
+ "order_type": "CLCON/711/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2FmOiMG6xL%2FbYPeVkXT94w67cuSr%2BccPqlSPL1QnNzJu&caseno=CLCON/711/2025&cCode=1&cino=UKHC010213742025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "edd7fd8dfea3a9cf0918fbe4c35a194212eb31f4c627cfa14aebec219c5ecefe",
+ "fetched_at": "2026-10-13T14:54:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

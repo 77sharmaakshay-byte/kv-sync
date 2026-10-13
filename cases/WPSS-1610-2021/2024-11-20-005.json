@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1610/2021:2024-11-20-005",
+ "title": "DEVENDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "DEVENDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1610/2021",
+ "case_type": "WPSS",
+ "decision_date": "2024-11-20",
+ "cnr": "UKHC010158932021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1610/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJzhGjek%2BtuIkaOF1cxC73t0izNplxSWr9x7BsZX%2BoVM&caseno=WPSS/1610/2021&cCode=1&cino=UKHC010158932021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4463801cd2de7e9e1909dc9012ed811dde23dea3ca7d994e4ce72565f7d67ee5",
+ "fetched_at": "2026-10-13T14:43:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

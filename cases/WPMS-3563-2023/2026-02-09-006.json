@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3563/2023:2026-02-09-006",
+ "title": "RAMESH CHANDRA UPADHYAY versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMESH CHANDRA UPADHYAY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3563/2023",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-09",
+ "cnr": "UKHC010205952023",
+ "doc_kind": "order",
+ "order_type": "IA/5/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2BszrgkmgxAlPkysin%2B9zeRqkyrj65Lx%2F428XIoMAYKz&caseno=WPMS/3563/2023&cCode=1&cino=UKHC010205952023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1a741a59232e9f0080fb6c1e45eba607ee155b7954ce449e78e0a5343db47599",
+ "fetched_at": "2026-10-13T14:52:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

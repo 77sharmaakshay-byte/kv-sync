@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/181/2026:2026-04-02-001",
+ "title": "BALASTAR versus STATE OF UTTARAKHAND",
+ "petitioner": "BALASTAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/181/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-04-02",
+ "cnr": "UKHC010047242026",
+ "doc_kind": "order",
+ "order_type": "WPSB/181/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpwpb7fp1NEe7%2BpYniavNqVmgYbFOmtTiBaWHRD7xW81&caseno=WPSB/181/2026&cCode=1&cino=UKHC010047242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "842ba07d1dcdb125e1278128514b5eff47e705df30b85b47a9c6f76bf2c7d1f7",
+ "fetched_at": "2026-10-13T14:56:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/567/2026:2026-03-19-002",
+ "title": "RAKHI KWANKIN versus THE INDIAN NURSING COUNCIL",
+ "petitioner": "RAKHI KWANKIN",
+ "respondent": "THE INDIAN NURSING COUNCIL",
+ "case_no": "WPMS/567/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-03-19",
+ "cnr": "UKHC010035312026",
+ "doc_kind": "order",
+ "order_type": "WPMS/567/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtqRKg3tOVdbve69Aa%2FXxOvVC87jGqA3J7fR445xZGsj&caseno=WPMS/567/2026&cCode=1&cino=UKHC010035312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "60cca5e7678f16639f22e0acde20340d646618fe9838bd6d0d8e3231dce560b7",
+ "fetched_at": "2026-10-13T14:53:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

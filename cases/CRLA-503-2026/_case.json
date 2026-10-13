@@ -1,0 +1,65 @@
+{
+ "cnr_number": "UKHC010151782026",
+ "case_type": "CRLA",
+ "filing_number": "CRLA /7317/2026",
+ "filing_date": "2026-08-24",
+ "registration_number": "CRLA /503/2026",
+ "registration_date": "2026-08-24",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-14",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "MOHAN LAL AGARWAL",
+   "advocate": "VAIBHAV SINGH CHAUHAN,NAINA MITTAL,NAINA MITTAL, ,NAINA MITTAL"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "ASHISH PARASHAR",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "420,467,468,471,120B"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-02",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-07",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-02",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

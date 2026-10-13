@@ -1,0 +1,127 @@
+{
+ "cnr_number": "UKHC010097702026",
+ "case_type": "WPCRL",
+ "filing_number": "WPCRL /4679/2026",
+ "filing_date": "2026-06-03",
+ "registration_number": "WPCRL /1046/2026",
+ "registration_date": "2026-06-03",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-14",
+ "decision_date": null,
+ "case_stage": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "AASHU RANA ALIAS SUHAIL RANA ALIAS MOHD SUHAIL",
+   "advocate": "HARSH VARDHAN DHANIK,JUNAID ALAM,JUNAID ALAM, ,JUNAID ALAM"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "S.H.O.",
+   "advocate": "G.A."
+  },
+  {
+   "name": "SOMPAL",
+   "advocate": "GAURAV SINGH"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "318(4),351(2),352"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-06-05",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-14",
+   "business_date": "2026-09-23",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-23",
+   "business_date": "2026-08-20",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-20",
+   "business_date": "2026-07-17",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-07-17",
+   "business_date": "2026-06-15",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-05",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-06-05",
+   "order_type": "WPCRL/1046/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhi6PLpCy8XmiexU7KUa5NMK8aMaDefEBxAUkBdMVyhR&caseno=WPCRL/1046/2026&cCode=1&cino=UKHC010097702026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-15",
+   "order_type": "WPCRL/1046/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhi6PLpCy8XmiexU7KUa5NOZlMJ640n64XDfLCS%2FManD&caseno=WPCRL/1046/2026&cCode=1&cino=UKHC010097702026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-20",
+   "order_type": "WPCRL/1046/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhi6PLpCy8XmiexU7KUa5NNyBxMZ8qB8WsJj1BeFoz2w&caseno=WPCRL/1046/2026&cCode=1&cino=UKHC010097702026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-23",
+   "order_type": "WPCRL/1046/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhi6PLpCy8XmiexU7KUa5NN%2F2%2B4CahFeri2tW4Df0a%2BS&caseno=WPCRL/1046/2026&cCode=1&cino=UKHC010097702026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

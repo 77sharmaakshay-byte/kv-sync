@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2059/2026:2026-08-04-001",
+ "title": "ABDUL KAYYUM versus STATE OF UTTARAKHAND",
+ "petitioner": "ABDUL KAYYUM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2059/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-04",
+ "cnr": "UKHC010136292026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2059/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlr9K4BJeCsthtVPab6VAOug5E2%2FlzcRXAcq9bCh8jmW&caseno=WPSS/2059/2026&cCode=1&cino=UKHC010136292026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b0c6e67ad835ebdef765c04ec74f4de7494e96a96d7cab8c616e15268ba0ec27",
+ "fetched_at": "2026-10-13T14:35:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

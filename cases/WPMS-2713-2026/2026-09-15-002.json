@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2713/2026:2026-09-15-002",
+ "title": "DALVEER SINGH versus SATYAWATI",
+ "petitioner": "DALVEER SINGH",
+ "respondent": "SATYAWATI",
+ "case_no": "WPMS/2713/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010157482026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2713/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuhcq%2BJxiCBfzRD4HT68VkFKZD%2BYYDjPBHBhNeFtj6Ze&caseno=WPMS/2713/2026&cCode=1&cino=UKHC010157482026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f30d42e15f3fba549cba823fde6e960fe2e701cd6ee9fc56e358989b309fda90",
+ "fetched_at": "2026-10-13T14:50:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

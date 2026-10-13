@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1881/2024:2025-05-14-004",
+ "title": "PRIYANSHU versus STATE OF UTTARAKHAND",
+ "petitioner": "PRIYANSHU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1881/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-05-14",
+ "cnr": "UKHC010105302024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1881/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcNoIp9K28OsA%2FstBXnUHmircu6I2V%2Bv%2FMWmjR89O9yp6&caseno=WPMS/1881/2024&cCode=1&cino=UKHC010105302024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c596db98a6bb7eac6011b7b9d4987ef423a76c7234e64b8bd48282a55c364d9f",
+ "fetched_at": "2026-10-13T14:55:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

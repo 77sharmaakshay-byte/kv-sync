@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/3/2026:2026-04-15-002",
+ "title": "DR VIJAY BAHUGUNA versus PROFESSOR VISHWANATH KHALI",
+ "petitioner": "DR VIJAY BAHUGUNA",
+ "respondent": "PROFESSOR VISHWANATH KHALI",
+ "case_no": "CLCON/3/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-04-15",
+ "cnr": "UKHC010000792026",
+ "doc_kind": "order",
+ "order_type": "CLCON/3/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsKUB2lu7pIf1LEz17U3znV1eXG0IPyOt8T95bfs5p%2Bu&caseno=CLCON/3/2026&cCode=1&cino=UKHC010000792026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "17ff981c348c34c9aea6edab7abb7ad51ef8a672953adf2d10075ac29337178d",
+ "fetched_at": "2026-10-13T14:54:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

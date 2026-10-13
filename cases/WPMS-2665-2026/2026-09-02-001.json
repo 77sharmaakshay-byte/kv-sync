@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2665/2026:2026-09-02-001",
+ "title": "RAMKISHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMKISHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2665/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-02",
+ "cnr": "UKHC010154332026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2665/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvcoI%2BOacicdLgf6T5dyZWfaXNNnYqzyK0MGluqMkAOO&caseno=WPMS/2665/2026&cCode=1&cino=UKHC010154332026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "928e5764c355dd989a834d8a0603045b60deaa0fb7054dc69234b464f54b3151",
+ "fetched_at": "2026-10-13T14:55:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

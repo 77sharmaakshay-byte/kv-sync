@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3682/2024:2026-09-16-005",
+ "title": "M/S A R CONSTRUCTION versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S A R CONSTRUCTION",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3682/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010208482024",
+ "doc_kind": "order",
+ "order_type": "WPMS/3682/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcDzV6z7K2yhoTrG9nXEx%2BjirnBS5m6Jb3Rqo8IwIDOvZ&caseno=WPMS/3682/2024&cCode=1&cino=UKHC010208482024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d63d3bde7d92c666870725d4124c53a2d845088da0ca47f6d5b074cc2979021",
+ "fetched_at": "2026-10-13T14:53:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

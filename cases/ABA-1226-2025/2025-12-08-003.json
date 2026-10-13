@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1226/2025:2025-12-08-003",
+ "title": "JOGENDRA KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "JOGENDRA KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1226/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-12-08",
+ "cnr": "UKHC010183662025",
+ "doc_kind": "order",
+ "order_type": "ABA/1226/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmytsV4HXPLW40qMG7uFnV69JELXADfDtcb6XiwW0SvKg&caseno=ABA/1226/2025&cCode=1&cino=UKHC010183662025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a98b750388b0a47f452f42979c33e721344ef869f775abf0f4b92167266f335d",
+ "fetched_at": "2026-10-13T14:51:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

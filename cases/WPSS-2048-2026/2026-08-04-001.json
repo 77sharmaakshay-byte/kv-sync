@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2048/2026:2026-08-04-001",
+ "title": "SURENDRA KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SURENDRA KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2048/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-04",
+ "cnr": "UKHC010136272026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2048/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqQkfLcgicQ52od0ULzGe61RoOQeXvsfQC6wy9YQ3qBu&caseno=WPSS/2048/2026&cCode=1&cino=UKHC010136272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7746fa627b9a296cc439a9fc6bd8fd36beba46593be5eb291169c5a7b82c6b11",
+ "fetched_at": "2026-10-13T14:36:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

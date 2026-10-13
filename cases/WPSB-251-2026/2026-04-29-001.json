@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/251/2026:2026-04-29-001",
+ "title": "DR SWATI SHAH versus STATE OF UTTARAKHAND",
+ "petitioner": "DR SWATI SHAH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/251/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-04-29",
+ "cnr": "UKHC010069202026",
+ "doc_kind": "order",
+ "order_type": "WPSB/251/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjNL9qkl8%2BYk0rUhnigKiW9bxlGZ3EcIpCDh%2BbqTpWms&caseno=WPSB/251/2026&cCode=1&cino=UKHC010069202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "191752fe41747fcc2b2c507ff4c5bb9874c688ddf0597ed8d8b08c279d131b0a",
+ "fetched_at": "2026-10-13T14:57:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

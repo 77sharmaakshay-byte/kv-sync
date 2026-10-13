@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1610/2021:2026-08-10-008",
+ "title": "DEVENDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "DEVENDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1610/2021",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-10",
+ "cnr": "UKHC010158932021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1610/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJzhGjek%2BtuIkaOF1cxC73vaLpIpycrvafI7uqyfy279&caseno=WPSS/1610/2021&cCode=1&cino=UKHC010158932021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0814a5b070308abef61937cfc23f023528f9a1c8d015050949e21b992d8c52b7",
+ "fetched_at": "2026-10-13T14:43:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

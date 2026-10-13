@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/828/2023:2026-10-05-003",
+ "title": "SHAKEEL versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAKEEL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/828/2023",
+ "case_type": "ABA",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010150642023",
+ "doc_kind": "order",
+ "order_type": "ABA/828/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9MJTDBW3ntpWObK9qXSQyWdEmmLmsazlAakwNHbRN1D&caseno=ABA/828/2023&cCode=1&cino=UKHC010150642023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "85145b6d627dad3b6a62aab0a4b5dd0c440ab61b08c4b5131b81e54c6633ff08",
+ "fetched_at": "2026-10-13T14:51:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

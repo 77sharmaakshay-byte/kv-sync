@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2172/2023:2023-12-01-001",
+ "title": "BHAGWAT SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BHAGWAT SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2172/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-01",
+ "cnr": "UKHC010191782023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2172/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYynT9eiPvGbBcAhkCK3nG9o2aUa2EQo7XGtfnF4hd%2F%2BV&caseno=WPSS/2172/2023&cCode=1&cino=UKHC010191782023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5e0526235080b63a32a6464639e3e9292fe648ce14a4544e87eee1d82b35442f",
+ "fetched_at": "2026-10-13T14:59:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

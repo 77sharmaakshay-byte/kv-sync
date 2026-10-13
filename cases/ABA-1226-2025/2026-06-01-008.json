@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1226/2025:2026-06-01-008",
+ "title": "JOGENDRA KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "JOGENDRA KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1226/2025",
+ "case_type": "ABA",
+ "decision_date": "2026-06-01",
+ "cnr": "UKHC010183662025",
+ "doc_kind": "order",
+ "order_type": "ABA/1226/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmytsV4HXPLW40qMG7uFnV68nWECIa7g%2FjJoq7a6fcXNk&caseno=ABA/1226/2025&cCode=1&cino=UKHC010183662025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c25a0ad636bb600be60fdba85714d9a35be211830809f50e11a2cc51e5fcf5a5",
+ "fetched_at": "2026-10-13T14:51:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

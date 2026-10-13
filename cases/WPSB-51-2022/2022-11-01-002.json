@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/51/2022:2022-11-01-002",
+ "title": "KAILASH CHANDRA DHARKOTI versus STATE OF UTTARAKHAND",
+ "petitioner": "KAILASH CHANDRA DHARKOTI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/51/2022",
+ "case_type": "WPSB",
+ "decision_date": "2022-11-01",
+ "cnr": "UKHC010007892022",
+ "doc_kind": "order",
+ "order_type": "WPSB/51/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0613tp8hBQObx8OHKH6m9LFGt4dA6YOqalFQC7r8Br6u&caseno=WPSB/51/2022&cCode=1&cino=UKHC010007892022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bbd4b35a6108294a180d8d5ed1e2bcb71595f2d3784dca16c919c71eb5b9ff4a",
+ "fetched_at": "2026-10-13T14:56:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

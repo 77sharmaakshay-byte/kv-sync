@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/27/2021:2021-11-24-001",
+ "title": "LAXMI DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "LAXMI DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/27/2021",
+ "case_type": "WPSS",
+ "decision_date": "2021-11-24",
+ "cnr": "UKHC010000852021",
+ "doc_kind": "order",
+ "order_type": "WPSS/27/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkPMQoQ0xBRDoJ81g6MwSaZFZBPjLJTvhp7VcUBdbI%2F68&caseno=WPSS/27/2021&cCode=1&cino=UKHC010000852021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "de88e71eb79fe8a4452e05bd5a726045c1ba3b8cffdd7bdc16d07062f1c9ca83",
+ "fetched_at": "2026-10-13T15:00:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

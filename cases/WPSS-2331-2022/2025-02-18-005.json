@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2331/2022:2025-02-18-005",
+ "title": "MOHD NASEEM versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD NASEEM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2331/2022",
+ "case_type": "WPSS",
+ "decision_date": "2025-02-18",
+ "cnr": "UKHC010181462022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2331/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0w9ju0CTzBWJYXzMzwlU%2FvTv2qcGionZ18880qRKeX9Y&caseno=WPSS/2331/2022&cCode=1&cino=UKHC010181462022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1f70516181c564e3bd609d6f145f5d85132a386afedaf8996a13a40922b14259",
+ "fetched_at": "2026-10-13T14:45:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

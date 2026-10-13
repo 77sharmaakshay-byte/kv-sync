@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1157/2025:2026-04-06-004",
+ "title": "OMBIR versus GURUKUL KANGRI VISHWAVIDYALAYA",
+ "petitioner": "OMBIR",
+ "respondent": "GURUKUL KANGRI VISHWAVIDYALAYA",
+ "case_no": "WPSS/1157/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-04-06",
+ "cnr": "UKHC010103892025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1157/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm05vieUFEf9%2FBqryii6CSzLImr%2B4vZ2ok6pcB0PSWkC%2B&caseno=WPSS/1157/2025&cCode=1&cino=UKHC010103892025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "afa54bd638da7ea70e3dde364538a0456341b785ab956ca2158ac764a0e47bf8",
+ "fetched_at": "2026-10-13T14:35:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

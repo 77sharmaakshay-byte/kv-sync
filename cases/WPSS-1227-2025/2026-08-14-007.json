@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1227/2025:2026-08-14-007",
+ "title": "HEMA JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "HEMA JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1227/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010112292025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1227/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3Lnn8Hh2eLt9mj2ROdKp%2B6AFD%2FaYbZyrFKzhWz4EJEO&caseno=WPSS/1227/2025&cCode=1&cino=UKHC010112292025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "15a74e805a3e5b65fd357aa1a509e99e0cb335a2fe5055ca0d972851cdfa9e57",
+ "fetched_at": "2026-10-13T14:43:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1299/2026:2026-09-29-001",
+ "title": "SURENDRA KUMAR KAMBOJ versus STATE OF UTTARAKHAND",
+ "petitioner": "SURENDRA KUMAR KAMBOJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1299/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010076222026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1299/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FRESH CASES AS DEFECTIVE -236",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt2YAtqcqahVmbRoFPE7blK44q09LOa8%2FqWmnEyLBDO5&caseno=WPMS/1299/2026&cCode=1&cino=UKHC010076222026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "771287cd606f30fe0bb85a285928c767798b5d67e3649d5cab95a3b0e7dda29c",
+ "fetched_at": "2026-10-13T14:52:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

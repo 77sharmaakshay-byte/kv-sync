@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2665/2026:2026-09-07-002",
+ "title": "RAMKISHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMKISHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2665/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010154332026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2665/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvcoI%2BOacicdLgf6T5dyZWcwwVrCdmahVKR6JWp306pe&caseno=WPMS/2665/2026&cCode=1&cino=UKHC010154332026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f98c129a08557d2b1f5b8798a60cc1bcea6cdb107a0f1e756ff375572f2bb21c",
+ "fetched_at": "2026-10-13T14:55:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

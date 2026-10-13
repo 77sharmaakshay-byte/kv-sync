@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/214/2022:2024-06-24-007",
+ "title": "DAYARAM versus DURGA SHANKAR MISHRA",
+ "petitioner": "DAYARAM",
+ "respondent": "DURGA SHANKAR MISHRA",
+ "case_no": "CLCON/214/2022",
+ "case_type": "CLCON",
+ "decision_date": "2024-06-24",
+ "cnr": "UKHC010096552022",
+ "doc_kind": "order",
+ "order_type": "CLCON/214/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00ckDtwyXpMyiCGL57QSdB8et%2Fd9cQC6KJbIC%2F7nTJoi&caseno=CLCON/214/2022&cCode=1&cino=UKHC010096552022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "068196518de908e7eba687e8120e2772884c55ba95b798f9fa3f7b39df35c78b",
+ "fetched_at": "2026-10-13T14:51:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

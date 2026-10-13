@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1022/2024:2025-03-18-005",
+ "title": "SEEMA versus STATE OF UTTARAKHAND",
+ "petitioner": "SEEMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1022/2024",
+ "case_type": "WPSS",
+ "decision_date": "2025-03-18",
+ "cnr": "UKHC010091672024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1022/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcOemh7S9Wim3LmPsmcdJtHQPF6NjizJsB114vp9nY%2Bwf&caseno=WPSS/1022/2024&cCode=1&cino=UKHC010091672024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9440a0beeae89954573381226572692911c486fbb1bd1cd99e23362a04292542",
+ "fetched_at": "2026-10-13T14:58:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

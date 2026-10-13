@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/356/2025:2026-09-11-012",
+ "title": "KAVITA versus STATE OF UTTARAKHAND",
+ "petitioner": "KAVITA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/356/2025",
+ "case_type": "ABA",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010047652025",
+ "doc_kind": "order",
+ "order_type": "ABA/356/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0HczP2QV2UQASdZ8uSBXxPT7F%2FOxxs6Sv3HbcrvRc8F&caseno=ABA/356/2025&cCode=1&cino=UKHC010047652025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d81ee0d7b04233eccac1a6736eab0f3509f0e5a1f182412dc90da02ed67635d9",
+ "fetched_at": "2026-10-13T14:51:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

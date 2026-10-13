@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1827/2026:2026-07-15-001",
+ "title": "KIRTAN PAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KIRTAN PAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1827/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-15",
+ "cnr": "UKHC010121422026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1827/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQorIv3tBzbLAyogzzMhealJZkGnGaSgveMtCjhWiOIem&caseno=WPSS/1827/2026&cCode=1&cino=UKHC010121422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "989df6ca4bb6ef26a63e4be1c3dbc5fc456ead48d4fae52a7c6a4ef926902788",
+ "fetched_at": "2026-10-13T14:35:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

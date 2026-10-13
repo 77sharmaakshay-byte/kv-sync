@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/752/2025:2026-08-12-003",
+ "title": "DEEPIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "DEEPIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/752/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-12",
+ "cnr": "UKHC010063902025",
+ "doc_kind": "order",
+ "order_type": "IA/5/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwCwRr652ZfwW1CzpQtVujdCRWxYWsH27P0QReOZX8x8&caseno=WPSS/752/2025&cCode=1&cino=UKHC010063902025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7900343a9a2ee7c64afd791e2140c46ff2bfb3741882306dabbcd05fdc88356f",
+ "fetched_at": "2026-10-13T14:38:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

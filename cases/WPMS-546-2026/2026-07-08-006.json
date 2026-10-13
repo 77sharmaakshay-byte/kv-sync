@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/546/2026:2026-07-08-006",
+ "title": "ADISH ABONMAI versus THE INDIAN NURSING COUNCIL",
+ "petitioner": "ADISH ABONMAI",
+ "respondent": "THE INDIAN NURSING COUNCIL",
+ "case_no": "WPMS/546/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010034082026",
+ "doc_kind": "order",
+ "order_type": "WPMS/546/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkMdgp9RtOeCdavrkmXdGXnWW0VYu0z20CIOjzVWyJVG&caseno=WPMS/546/2026&cCode=1&cino=UKHC010034082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1b45cc5e6af08293f29b862124e317ee8d0282abfd551bd6e06adf54cc1a7747",
+ "fetched_at": "2026-10-13T14:54:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

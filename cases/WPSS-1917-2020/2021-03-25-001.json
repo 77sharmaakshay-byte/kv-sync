@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1917/2020:2021-03-25-001",
+ "title": "CHANDRA MEHRA versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDRA MEHRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1917/2020",
+ "case_type": "WPSS",
+ "decision_date": "2021-03-25",
+ "cnr": "UKHC010140592020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1917/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjKhbtotkBj%2BKMeyKtzdEE3FmgKdAfhBPPioPhF5s6kdW&caseno=WPSS/1917/2020&cCode=1&cino=UKHC010140592020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "73c044b110ad343f5bf4c0a64c0333b8270e50410e1a0c6bb9d61ae11effbd9e",
+ "fetched_at": "2026-10-13T14:59:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

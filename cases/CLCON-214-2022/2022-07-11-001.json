@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/214/2022:2022-07-11-001",
+ "title": "DAYARAM versus DURGA SHANKAR MISHRA",
+ "petitioner": "DAYARAM",
+ "respondent": "DURGA SHANKAR MISHRA",
+ "case_no": "CLCON/214/2022",
+ "case_type": "CLCON",
+ "decision_date": "2022-07-11",
+ "cnr": "UKHC010096552022",
+ "doc_kind": "order",
+ "order_type": "CLCON/214/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00ckDtwyXpMyiCGL57QSdB%2BtyugqjHaqFYhbho8MS4Yz&caseno=CLCON/214/2022&cCode=1&cino=UKHC010096552022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b6a558f14f99ebfcb8f6da91402dadb51e6560011892cc091a7cddb7ed4ee045",
+ "fetched_at": "2026-10-13T14:51:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/510/2026:2026-09-01-001",
+ "title": "RAJEEV GUPTA versus ASHOK KUMAR JUYAL",
+ "petitioner": "RAJEEV GUPTA",
+ "respondent": "ASHOK KUMAR JUYAL",
+ "case_no": "CLCON/510/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010153112026",
+ "doc_kind": "order",
+ "order_type": "CLCON/510/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQofri84MvMPa5%2B2kCsNP33GxOjSxtiUyJJ4PVBMeSJRy&caseno=CLCON/510/2026&cCode=1&cino=UKHC010153112026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2c9d3851f95b8be3e7e34537ef29b08e906a03c800ce7b22a5aa02018ff39aec",
+ "fetched_at": "2026-10-13T14:53:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

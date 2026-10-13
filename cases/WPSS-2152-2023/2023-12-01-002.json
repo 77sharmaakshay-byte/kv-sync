@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2152/2023:2023-12-01-002",
+ "title": "DINESH CHANDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "DINESH CHANDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2152/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-01",
+ "cnr": "UKHC010190082023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2152/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY2yZRtMqkiD5pfgUuG27C8gE6CQXtcshtuQtEi3UpFYo&caseno=WPSS/2152/2023&cCode=1&cino=UKHC010190082023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "885f23541263906d761bd1b26a7a8eab098c5f143f088bc8dab2ec6c53d02c2d",
+ "fetched_at": "2026-10-13T14:58:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

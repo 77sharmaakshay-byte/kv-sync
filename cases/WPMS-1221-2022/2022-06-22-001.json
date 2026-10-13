@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1221/2022:2022-06-22-001",
+ "title": "MADAN SINGH POKHRIYAL versus PRESCRIBED AUTHORITY SPECIAL LAND ACQUISITION OFFICER COLLECTRATE COMPOUND DEHRADUN",
+ "petitioner": "MADAN SINGH POKHRIYAL",
+ "respondent": "PRESCRIBED AUTHORITY SPECIAL LAND ACQUISITION OFFICER COLLECTRATE COMPOUND DEHRADUN",
+ "case_no": "WPMS/1221/2022",
+ "case_type": "WPMS",
+ "decision_date": "2022-06-22",
+ "cnr": "UKHC010073332022",
+ "doc_kind": "order",
+ "order_type": "WPMS/1221/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07p%2BT9pDbxQrAE3c%2FugDKiUUfLcVnsz3E6o1WNDKwOLn&caseno=WPMS/1221/2022&cCode=1&cino=UKHC010073332022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c1b5b7e7892d0cb799d6a40d7220ae7afcf2238a7bcccdb38b512126695e1198",
+ "fetched_at": "2026-10-13T14:53:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

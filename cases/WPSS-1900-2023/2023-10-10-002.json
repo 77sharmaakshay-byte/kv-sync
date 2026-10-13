@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1900/2023:2023-10-10-002",
+ "title": "PRAKASH CHANDRA JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAKASH CHANDRA JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1900/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-10-10",
+ "cnr": "UKHC010163662023",
+ "doc_kind": "order",
+ "order_type": "IA/1/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FFUuA6wMoAcwPWxvZr8bY9dKeL533OysCkWxFOjAb9b&caseno=WPSS/1900/2023&cCode=1&cino=UKHC010163662023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d3331f1a9f6659b9ee9e8273b671aa363d5c342d9c5f36bc8272e933b4b9d861",
+ "fetched_at": "2026-10-13T14:58:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

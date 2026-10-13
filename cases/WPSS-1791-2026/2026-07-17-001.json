@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1791/2026:2026-07-17-001",
+ "title": "KULDEEP SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "KULDEEP SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1791/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-17",
+ "cnr": "UKHC010120002026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1791/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhY0EHokAbpKHzq5N8TSYK05J2SOMu%2FG5QVOhPDFZI3T&caseno=WPSS/1791/2026&cCode=1&cino=UKHC010120002026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "68576d404a317bad3b6c925ff11c4c366f45be02bd038fbb742fb3dd9694e7a6",
+ "fetched_at": "2026-10-13T14:35:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

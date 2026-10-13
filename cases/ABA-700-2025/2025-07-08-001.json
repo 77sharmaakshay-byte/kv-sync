@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/700/2025:2025-07-08-001",
+ "title": "POGULA NARASIMHA REDDY versus STATE OF UTTARAKHAND",
+ "petitioner": "POGULA NARASIMHA REDDY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/700/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-07-08",
+ "cnr": "UKHC010094342025",
+ "doc_kind": "order",
+ "order_type": "ABA/700/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3oTRpD4VSy9d8UWr5uGSNIQTbmFHLTlAKkG0afh3QWi&caseno=ABA/700/2025&cCode=1&cino=UKHC010094342025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3861158a1e1b7aca3f7cd2522230950ff716668d5229cdfbca5c014cadd8cbac",
+ "fetched_at": "2026-10-13T14:53:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

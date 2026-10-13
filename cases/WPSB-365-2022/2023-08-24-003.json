@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/365/2022:2023-08-24-003",
+ "title": "SUBHASH RATURI versus STATE OF UTTARAKHAND",
+ "petitioner": "SUBHASH RATURI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/365/2022",
+ "case_type": "WPSB",
+ "decision_date": "2023-08-24",
+ "cnr": "UKHC010093592022",
+ "doc_kind": "order",
+ "order_type": "WPSB/365/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT04g42d8hCqEjTJzSIWAyhfPv68Iq5LB7L54b6elTFcG8&caseno=WPSB/365/2022&cCode=1&cino=UKHC010093592022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "65ed4f20658facc7043f1a7270674022387504ad88fd4ac930c71db1feb46e2c",
+ "fetched_at": "2026-10-13T14:58:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

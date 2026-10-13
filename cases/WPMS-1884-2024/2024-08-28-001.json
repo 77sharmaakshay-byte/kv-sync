@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1884/2024:2024-08-28-001",
+ "title": "SUSHIL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SUSHIL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1884/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-08-28",
+ "cnr": "UKHC010105512024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1884/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcFCr7y4ILmwiC1RvWrXzeeixdIdNbOqjHxDaAyDfH5jk&caseno=WPMS/1884/2024&cCode=1&cino=UKHC010105512024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "206be52e9ff1a47a3b4ed2568162dbeb2b5e780034c482a6aaa628bab368d714",
+ "fetched_at": "2026-10-13T14:53:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

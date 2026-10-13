@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1838/2025:2026-07-22-003",
+ "title": "KHEEM SINGH versus HONBLE HIGH COURT OF UTTARAKHAND",
+ "petitioner": "KHEEM SINGH",
+ "respondent": "HONBLE HIGH COURT OF UTTARAKHAND",
+ "case_no": "WPSS/1838/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-22",
+ "cnr": "UKHC010174822025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1838/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwHxX%2FX968MhitYAlRyKpJE9K3v467TDAP2PA%2FE9Tvun&caseno=WPSS/1838/2025&cCode=1&cino=UKHC010174822025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7d2e6d4be5f1b11928fbbd10fb86f995b8544671814d28ef1776b6133e4b1ec2",
+ "fetched_at": "2026-10-13T14:35:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

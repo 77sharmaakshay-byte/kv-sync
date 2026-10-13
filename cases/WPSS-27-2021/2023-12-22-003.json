@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/27/2021:2023-12-22-003",
+ "title": "LAXMI DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "LAXMI DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/27/2021",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-22",
+ "cnr": "UKHC010000852021",
+ "doc_kind": "order",
+ "order_type": "WPSS/27/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkPMQoQ0xBRDoJ81g6MwSaZGqUe4clOisxNpqqVhNGfab&caseno=WPSS/27/2021&cCode=1&cino=UKHC010000852021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "64fe94e44190c0deab437bddf348511cd075151e424caf920ca92ed5a7ab8e23",
+ "fetched_at": "2026-10-13T15:00:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

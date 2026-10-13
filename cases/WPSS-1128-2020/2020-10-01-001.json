@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1128/2020:2020-10-01-001",
+ "title": "DINESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DINESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1128/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-10-01",
+ "cnr": "UKHC010095562020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1128/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjAnmy1diw8FEASO7jMbW8tD7o7c6P3oSJ2FKf7AECIcd&caseno=WPSS/1128/2020&cCode=1&cino=UKHC010095562020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bb0c1d7bddc995545fb66c13b602cc79739f9b5a80b12bfb9fa4a2328ffdee69",
+ "fetched_at": "2026-10-13T14:44:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

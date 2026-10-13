@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/828/2023:2023-11-28-001",
+ "title": "SHAKEEL versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAKEEL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/828/2023",
+ "case_type": "ABA",
+ "decision_date": "2023-11-28",
+ "cnr": "UKHC010150642023",
+ "doc_kind": "order",
+ "order_type": "ABA/828/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9MJTDBW3ntpWObK9qXSQyVS3LUIE5GieAykxBdiCaa%2F&caseno=ABA/828/2023&cCode=1&cino=UKHC010150642023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "701467d4954ae9e88e236dd889e2cc264d9e230ce4b39642663a44195f1a9a35",
+ "fetched_at": "2026-10-13T14:51:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

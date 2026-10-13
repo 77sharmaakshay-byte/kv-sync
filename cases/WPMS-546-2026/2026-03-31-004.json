@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/546/2026:2026-03-31-004",
+ "title": "ADISH ABONMAI versus THE INDIAN NURSING COUNCIL",
+ "petitioner": "ADISH ABONMAI",
+ "respondent": "THE INDIAN NURSING COUNCIL",
+ "case_no": "WPMS/546/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-03-31",
+ "cnr": "UKHC010034082026",
+ "doc_kind": "order",
+ "order_type": "WPMS/546/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkMdgp9RtOeCdavrkmXdGXkJ4yZwEZZXnjzX6W%2Fj2LA6&caseno=WPMS/546/2026&cCode=1&cino=UKHC010034082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0ad87bf48f3affa7c615818d974eddba15dfc8268aeb9bf770bf979afb95630b",
+ "fetched_at": "2026-10-13T14:54:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

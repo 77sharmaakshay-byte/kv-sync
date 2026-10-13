@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/147/2025:2025-02-18-002",
+ "title": "MAHESH KUMAR PANDEY versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHESH KUMAR PANDEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/147/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-02-18",
+ "cnr": "UKHC010015102025",
+ "doc_kind": "order",
+ "order_type": "WPSS/147/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1pTpm6l8pmV7eZRvWZ6V38IqcAofrGzjyNmoeipMU35&caseno=WPSS/147/2025&cCode=1&cino=UKHC010015102025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc4cdea19636c20f53eb486a6bc0ebb8c364bd37b9bd655bdd0efa2db4e8a377",
+ "fetched_at": "2026-10-13T14:59:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

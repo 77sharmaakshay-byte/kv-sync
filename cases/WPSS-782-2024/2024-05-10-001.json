@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/782/2024:2024-05-10-001",
+ "title": "CHANDI versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/782/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-05-10",
+ "cnr": "UKHC010069132024",
+ "doc_kind": "order",
+ "order_type": "WPSS/782/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcFNgb17vQyqDVzIFWl4GAhhB6cBZ%2Bdi7xmJZpRnzX3GQ&caseno=WPSS/782/2024&cCode=1&cino=UKHC010069132024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "388d8e16f849899c09846c8472199419a90df3402518957823131c1b05ad6373",
+ "fetched_at": "2026-10-13T14:45:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

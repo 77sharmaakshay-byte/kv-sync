@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1128/2020:2022-03-29-005",
+ "title": "DINESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DINESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1128/2020",
+ "case_type": "WPSS",
+ "decision_date": "2022-03-29",
+ "cnr": "UKHC010095562020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1128/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjAnmy1diw8FEASO7jMbW8tDhV%2BMqwqmc37GIgxDj1lvh&caseno=WPSS/1128/2020&cCode=1&cino=UKHC010095562020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b3ceebaa0b44c5c3700a8ce30b30e079912ce42b22fe07d01d389f49259a1e0f",
+ "fetched_at": "2026-10-13T14:44:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

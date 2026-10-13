@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1608/2025:2026-04-15-015",
+ "title": "RAKESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAKESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1608/2025",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-15",
+ "cnr": "UKHC010081762025",
+ "doc_kind": "order",
+ "order_type": "WPMS/1608/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm79KO682CNIievhE2mSf0F37coAVz%2BlWKSgsfMiNamIu&caseno=WPMS/1608/2025&cCode=1&cino=UKHC010081762025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6f3b197ad1265e4bf3872acd8b7eafcb034011d2535db5c5266079f5ec1b3540",
+ "fetched_at": "2026-10-13T14:52:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

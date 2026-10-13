@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1635/2026:2026-09-11-001",
+ "title": "PRABHA versus STATE OF UTTARAKHAND",
+ "petitioner": "PRABHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1635/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010108962026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1635/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo4KpSZQmCN%2BzH0DqX%2F5jL%2Fox%2FFT2aOFSdKs7RVVt%2Ft8&caseno=WPSS/1635/2026&cCode=1&cino=UKHC010108962026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4bf42903e6da67367b8b71ddc97c7504ae4ab68aa0bbb940f863137cc07853ed",
+ "fetched_at": "2026-10-13T14:58:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1884/2024:2025-02-19-004",
+ "title": "SUSHIL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SUSHIL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1884/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-02-19",
+ "cnr": "UKHC010105512024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1884/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcFCr7y4ILmwiC1RvWrXzeehD6N2j08oYfC0YXWxK56Fh&caseno=WPMS/1884/2024&cCode=1&cino=UKHC010105512024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "904fcbd56098c6ad6e08b14e5fa46f329cfad8736072f75dd718ae94180e5a85",
+ "fetched_at": "2026-10-13T14:53:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

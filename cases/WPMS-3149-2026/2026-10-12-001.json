@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3149/2026:2026-10-12-001",
+ "title": "SHAHJADI versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAHJADI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3149/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010181082026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3149/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvmB%2B59U8aOfM9mFE%2FZBiwLO06dB89f7kh12oYvLGexO&caseno=WPMS/3149/2026&cCode=1&cino=UKHC010181082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "156002709e6a422a32cfc93062108f15264bb863b68da17eb0c28ec12d601db9",
+ "fetched_at": "2026-10-13T14:49:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1022/2024:2024-06-20-001",
+ "title": "SEEMA versus STATE OF UTTARAKHAND",
+ "petitioner": "SEEMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1022/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-06-20",
+ "cnr": "UKHC010091672024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1022/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcOemh7S9Wim3LmPsmcdJtHQyPWmrY%2FYE0nBqiHNS1Zej&caseno=WPSS/1022/2024&cCode=1&cino=UKHC010091672024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4cfecc777d5158231e87cd1a5a97fcf97d060c216cfd78a43f483c940c5044c0",
+ "fetched_at": "2026-10-13T14:57:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

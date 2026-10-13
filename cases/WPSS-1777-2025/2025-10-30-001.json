@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1777/2025:2025-10-30-001",
+ "title": "NARAYANI SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARAYANI SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1777/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-10-30",
+ "cnr": "UKHC010170142025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1777/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2XuezY0PFAJ3Z52NO39ceHnisWtZ1TDteccMiWoUbZ6&caseno=WPSS/1777/2025&cCode=1&cino=UKHC010170142025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c2552ed065ef2c5ec3a75f51220b8040a962ce7e8cc2e36d6f414c1458c99545",
+ "fetched_at": "2026-10-13T14:45:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

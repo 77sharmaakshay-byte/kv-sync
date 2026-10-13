@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/497/2025:2026-10-05-003",
+ "title": "OM PRAKASH versus STATE OF UTTARAKHAND",
+ "petitioner": "OM PRAKASH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/497/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010182972025",
+ "doc_kind": "order",
+ "order_type": "WPSB/497/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwJt1dbMoIbIzBT6LM82%2FzL%2B91QxSQ4n9JfiRT7Gnxnx&caseno=WPSB/497/2025&cCode=1&cino=UKHC010182972025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b6df4db65f933481b061a56661c9ea34274f37880b1d7824fbaced92d05f5163",
+ "fetched_at": "2026-10-13T14:57:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

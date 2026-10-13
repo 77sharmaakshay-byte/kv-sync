@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/344/2023:2023-03-29-002",
+ "title": "DHARAM PAL SINGH versus TEHRI HYDRO DEVELOPMENT CORPORATION LTD.",
+ "petitioner": "DHARAM PAL SINGH",
+ "respondent": "TEHRI HYDRO DEVELOPMENT CORPORATION LTD.",
+ "case_no": "WPSS/344/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-03-29",
+ "cnr": "UKHC010031632023",
+ "doc_kind": "order",
+ "order_type": "WPSS/344/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYxW46TvtyWCQFcxCDwGGibip88xIiIUPAIScEEQmcb5T&caseno=WPSS/344/2023&cCode=1&cino=UKHC010031632023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4e3033ed042e5353c6e40d34d0226320b7df569502c973995b511e4543f61cc1",
+ "fetched_at": "2026-10-13T14:44:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

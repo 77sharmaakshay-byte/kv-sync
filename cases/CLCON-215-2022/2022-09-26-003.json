@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/215/2022:2022-09-26-003",
+ "title": "VIJAYPAL SINGH versus DURGA SHANKAR MISHRA",
+ "petitioner": "VIJAYPAL SINGH",
+ "respondent": "DURGA SHANKAR MISHRA",
+ "case_no": "CLCON/215/2022",
+ "case_type": "CLCON",
+ "decision_date": "2022-09-26",
+ "cnr": "UKHC010096542022",
+ "doc_kind": "order",
+ "order_type": "CLCON/215/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07WzgCY%2F0u%2FZO8JQxCYtp9M7VxJK8Es3K3hkYUqJHEZp&caseno=CLCON/215/2022&cCode=1&cino=UKHC010096542022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3a5df032849736d655c34372612676ae400d96b69aef547e6e765168506209be",
+ "fetched_at": "2026-10-13T14:53:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

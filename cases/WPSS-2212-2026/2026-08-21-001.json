@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2212/2026:2026-08-21-001",
+ "title": "RAJESH CHANDOLA versus HIGH COURT OF UTTARAKHAND",
+ "petitioner": "RAJESH CHANDOLA",
+ "respondent": "HIGH COURT OF UTTARAKHAND",
+ "case_no": "WPSS/2212/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-21",
+ "cnr": "UKHC010145832026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2212/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrAa2m6yzrxNCNox%2FZRQmrSKM7oIavglQVUQAVBlg5%2FZ&caseno=WPSS/2212/2026&cCode=1&cino=UKHC010145832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "02e4fc027dc64194cdb3eee91618455cdec97513fd0bd9f07d9da0ce5b836323",
+ "fetched_at": "2026-10-13T14:36:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

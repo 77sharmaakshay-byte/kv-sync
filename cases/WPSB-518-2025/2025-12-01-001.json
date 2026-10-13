@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/518/2025:2025-12-01-001",
+ "title": "GITA RAM NAUTIYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "GITA RAM NAUTIYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/518/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-12-01",
+ "cnr": "UKHC010188412025",
+ "doc_kind": "order",
+ "order_type": "WPSB/518/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6NNC4i5WUrpi7NJOYNtAfMfuBonE61aPBjePXHE5%2F9f&caseno=WPSB/518/2025&cCode=1&cino=UKHC010188412025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1e4fa306dc45da1a2645172f18cef8ecfb40a5f3113db5b67790508854d62675",
+ "fetched_at": "2026-10-13T14:57:36+00:00",
+ "fetched_by": "fetch_live.py"
+}
