@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/22/2021:2026-08-18-004",
+ "title": "SUNITA CHAUDHARY versus STATE OF UTTARAKHAND",
+ "petitioner": "SUNITA CHAUDHARY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/22/2021",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010000662021",
+ "doc_kind": "order",
+ "order_type": "WPSS/22/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkA%2BYT%2Br9ZpyAGtxmqYDd3b28U0bEtUUfCmqmOnHI%2BJLl&caseno=WPSS/22/2021&cCode=1&cino=UKHC010000662021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ca6c4d83b32a686d79117f59047a7f4053b6be05ef30e408bd17ad429ddfaa22",
+ "fetched_at": "2026-10-13T13:18:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

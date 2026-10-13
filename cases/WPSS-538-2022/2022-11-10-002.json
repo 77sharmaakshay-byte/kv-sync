@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/538/2022:2022-11-10-002",
+ "title": "RAJEEV LOCHAN versus UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "petitioner": "RAJEEV LOCHAN",
+ "respondent": "UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "case_no": "WPSS/538/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-11-10",
+ "cnr": "UKHC010038662022",
+ "doc_kind": "order",
+ "order_type": "WPSS/538/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00IOLvVfIeSfTaGVd917rlwUpRS09yOtUpFGQoYe9Tfu&caseno=WPSS/538/2022&cCode=1&cino=UKHC010038662022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "989bbcafc37c78b8a3aaa3a5a954bd8457b22e22ab98954b83b91fa4dee4e11a",
+ "fetched_at": "2026-10-13T13:19:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

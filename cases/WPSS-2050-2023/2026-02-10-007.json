@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2050/2023:2026-02-10-007",
+ "title": "VICKY NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "VICKY NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2050/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-02-10",
+ "cnr": "UKHC010179762023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2050/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2BGJKgD9qpJxkfsxYoDMaNIot3b2t3ozS9ubM0mGRgtO&caseno=WPSS/2050/2023&cCode=1&cino=UKHC010179762023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "487db9ca7d1c8eb2986a4d5220b54e982409a3f46b57154d3743a9f2fc0d4ec3",
+ "fetched_at": "2026-10-13T13:17:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

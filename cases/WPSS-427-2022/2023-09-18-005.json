@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/427/2022:2023-09-18-005",
+ "title": "KALIYAN SINGH versus UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "petitioner": "KALIYAN SINGH",
+ "respondent": "UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "case_no": "WPSS/427/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-09-18",
+ "cnr": "UKHC010030722022",
+ "doc_kind": "order",
+ "order_type": "WPSS/427/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT04aQD7OCUnBzyKOdJgk6f6hiLMfJj35bE3DAuK%2FEbdtN&caseno=WPSS/427/2022&cCode=1&cino=UKHC010030722022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "57428a434d7a2823e34d2df100db5f11436508342699c16c534edeae2dd87f9a",
+ "fetched_at": "2026-10-13T13:19:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

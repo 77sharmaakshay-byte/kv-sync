@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/562/2025:2026-09-22-003",
+ "title": "MANOJ KUMAR(Legal Heir) versus REGISTRAR GENERAL HIGH COURT OF UTTARAKHAND",
+ "petitioner": "MANOJ KUMAR(Legal Heir)",
+ "respondent": "REGISTRAR GENERAL HIGH COURT OF UTTARAKHAND",
+ "case_no": "WPSS/562/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010050542025",
+ "doc_kind": "order",
+ "order_type": "WPSS/562/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9HKFm%2FhOhNAL1795LkSij3ibuRNDKea9C5wbDErtIgp&caseno=WPSS/562/2025&cCode=1&cino=UKHC010050542025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6234f9af8ff49042edf56c85fe2432338a4377b3de28baa347c54cd23e34baef",
+ "fetched_at": "2026-10-13T13:24:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

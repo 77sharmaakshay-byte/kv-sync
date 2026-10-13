@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/95/2023:2023-01-12-001",
+ "title": "NEETA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "NEETA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/95/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-01-12",
+ "cnr": "UKHC010007342023",
+ "doc_kind": "order",
+ "order_type": "WPSS/95/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYwF9%2BVztp3hzf8BQ6nYCPqcjMBnqXXxyaZ33oiTMtJ7%2F&caseno=WPSS/95/2023&cCode=1&cino=UKHC010007342023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "93bdc3bf428f83db4ea37f28e82e1db1a38f1be8bfe805465b5d537768f29fb0",
+ "fetched_at": "2026-10-13T13:21:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

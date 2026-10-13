@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/22/2021:2022-05-13-001",
+ "title": "SUNITA CHAUDHARY versus STATE OF UTTARAKHAND",
+ "petitioner": "SUNITA CHAUDHARY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/22/2021",
+ "case_type": "WPSS",
+ "decision_date": "2022-05-13",
+ "cnr": "UKHC010000662021",
+ "doc_kind": "order",
+ "order_type": "WPSS/22/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkA%2BYT%2Br9ZpyAGtxmqYDd3b1VoIDhhxAf0asHFaMN9cmm&caseno=WPSS/22/2021&cCode=1&cino=UKHC010000662021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a5ed3390fbec959946a808b83821b081f00bb3df8b6f3a60dffbda6a209cd4ac",
+ "fetched_at": "2026-10-13T13:18:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

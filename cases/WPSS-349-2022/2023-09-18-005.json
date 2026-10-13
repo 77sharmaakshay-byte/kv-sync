@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/349/2022:2023-09-18-005",
+ "title": "PREM BAHADUR versus UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "petitioner": "PREM BAHADUR",
+ "respondent": "UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "case_no": "WPSS/349/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-09-18",
+ "cnr": "UKHC010024642022",
+ "doc_kind": "order",
+ "order_type": "WPSS/349/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0w3qN%2F24ugxTmxKsUaqo5Rwn%2FoJYJXZLY9HzOwNujpf9&caseno=WPSS/349/2022&cCode=1&cino=UKHC010024642022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "57428a434d7a2823e34d2df100db5f11436508342699c16c534edeae2dd87f9a",
+ "fetched_at": "2026-10-13T13:19:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

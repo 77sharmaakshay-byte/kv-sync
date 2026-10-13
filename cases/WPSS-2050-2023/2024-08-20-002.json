@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2050/2023:2024-08-20-002",
+ "title": "VICKY NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "VICKY NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2050/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-08-20",
+ "cnr": "UKHC010179762023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2050/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2BGJKgD9qpJxkfsxYoDMaNKsRw6tBhP4Z9ObVo1IqGNs&caseno=WPSS/2050/2023&cCode=1&cino=UKHC010179762023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "31a1e2cfe563a5543b507a214a1facddd633b4298d973eaf77f6fc0a4dc846c2",
+ "fetched_at": "2026-10-13T13:17:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

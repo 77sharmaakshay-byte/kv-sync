@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1131/2025:2025-07-08-001",
+ "title": "DINESH KUMAR MAMGAIN versus HEMWATI NANDAN GARHWAL UNIVERSITY",
+ "petitioner": "DINESH KUMAR MAMGAIN",
+ "respondent": "HEMWATI NANDAN GARHWAL UNIVERSITY",
+ "case_no": "WPSS/1131/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-07-08",
+ "cnr": "UKHC010101012025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1131/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1I8tW5SsL5GYjiAjlsmO3PdqVHhqqJIq6OZcZC2g24o&caseno=WPSS/1131/2025&cCode=1&cino=UKHC010101012025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb4dc1ed380a2152eabe309a2f1bfb3dc56d769654565ec9dfe5216a6c0b348f",
+ "fetched_at": "2026-10-13T13:18:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

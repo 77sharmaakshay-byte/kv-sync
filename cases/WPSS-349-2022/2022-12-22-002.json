@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/349/2022:2022-12-22-002",
+ "title": "PREM BAHADUR versus UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "petitioner": "PREM BAHADUR",
+ "respondent": "UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "case_no": "WPSS/349/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-12-22",
+ "cnr": "UKHC010024642022",
+ "doc_kind": "order",
+ "order_type": "WPSS/349/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0w3qN%2F24ugxTmxKsUaqo5Rw%2F%2FIQqPxp3LY3twvpatR8P&caseno=WPSS/349/2022&cCode=1&cino=UKHC010024642022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c6c9880403ac41e418364d5f6e7fc2809c9132da30805dab623b45a99c439283",
+ "fetched_at": "2026-10-13T13:18:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

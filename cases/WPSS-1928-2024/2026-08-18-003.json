@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1928/2024:2026-08-18-003",
+ "title": "DINESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DINESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1928/2024",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010159472024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1928/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcIwUBMKwmoyrZST4MirpEDFeTf8tK5q4g7Q6HhcQssJ0&caseno=WPSS/1928/2024&cCode=1&cino=UKHC010159472024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "24f25ad1fe4776ade6574a8547c2702aa5146cb6524fdeb1b5a56f74975d1fae",
+ "fetched_at": "2026-10-13T13:23:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

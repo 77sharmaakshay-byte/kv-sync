@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2203/2023:2023-12-08-002",
+ "title": "KAMLA NAND versus UNION OF INDIA",
+ "petitioner": "KAMLA NAND",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/2203/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-08",
+ "cnr": "UKHC010195722023",
+ "doc_kind": "order",
+ "order_type": "IA/1/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYxev4aPACv4H2U4tyE6XwMs2o%2BPJmMGZ%2Bo9KpjmgjlXJ&caseno=WPSS/2203/2023&cCode=1&cino=UKHC010195722023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7242a5034a62186544ea5b63296bd8ab935a59845b288756b63830691ada9d2c",
+ "fetched_at": "2026-10-13T13:17:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1993/2022:2023-12-28-004",
+ "title": "MOHD HANEEF versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD HANEEF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1993/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-28",
+ "cnr": "UKHC010152802022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1993/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00j5h33p%2BGMYZThUZneAmDONABOw7EPkJIHiePTBHP%2Fd&caseno=WPSS/1993/2022&cCode=1&cino=UKHC010152802022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "984b029e1faabc9a3fce7b6c90004078cf42603e71dd1b65856f40721f124df1",
+ "fetched_at": "2026-10-13T13:21:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

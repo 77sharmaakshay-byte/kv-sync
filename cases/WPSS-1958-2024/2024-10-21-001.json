@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1958/2024:2024-10-21-001",
+ "title": "VAIBHAV KUMAR versus SECRETARY CIVIL JUDGE SD",
+ "petitioner": "VAIBHAV KUMAR",
+ "respondent": "SECRETARY CIVIL JUDGE SD",
+ "case_no": "WPSS/1958/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-10-21",
+ "cnr": "UKHC010164512024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1958/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcELhDOhaQ9NAZbx%2BaLTrOuF7P8cAsxELKknOUYMxLXcO&caseno=WPSS/1958/2024&cCode=1&cino=UKHC010164512024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "802b20eaab8196e335be1df1de8a072dfe1ec8068412d734b20dee7a972396bc",
+ "fetched_at": "2026-10-13T13:23:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

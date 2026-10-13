@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/800/2022:2023-09-18-005",
+ "title": "BHUWAN CHANDRA SHARMA versus UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "petitioner": "BHUWAN CHANDRA SHARMA",
+ "respondent": "UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "case_no": "WPSS/800/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-09-18",
+ "cnr": "UKHC010059152022",
+ "doc_kind": "order",
+ "order_type": "WPSS/800/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2B0UIZwQlLnYT4nc561tVzD6qB1X3S1cBd8wSRuexv9q&caseno=WPSS/800/2022&cCode=1&cino=UKHC010059152022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "57428a434d7a2823e34d2df100db5f11436508342699c16c534edeae2dd87f9a",
+ "fetched_at": "2026-10-13T13:20:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

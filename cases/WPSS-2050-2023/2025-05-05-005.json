@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2050/2023:2025-05-05-005",
+ "title": "VICKY NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "VICKY NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2050/2023",
+ "case_type": "WPSS",
+ "decision_date": "2025-05-05",
+ "cnr": "UKHC010179762023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2050/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2BGJKgD9qpJxkfsxYoDMaNKU0MVsQ8VQwox5MUTVykzR&caseno=WPSS/2050/2023&cCode=1&cino=UKHC010179762023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "807b1f85ce8eb86869dcff9284d92cdd24a0135e9f8f8d05da8dbd1375017d7e",
+ "fetched_at": "2026-10-13T13:17:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

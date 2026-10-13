@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/276/2022:2022-03-08-002",
+ "title": "RAJESH KUMAR versus UNION OF INDIA",
+ "petitioner": "RAJESH KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/276/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-03-08",
+ "cnr": "UKHC010018692022",
+ "doc_kind": "order",
+ "order_type": "WPSS/276/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01438%2BeHRKiwna9EwBRH40%2B7BwHGZ9jLMMpcqAjbUNoB&caseno=WPSS/276/2022&cCode=1&cino=UKHC010018692022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3b328b30e71a8fa14704c261c1b2d115d5196a86305d006ee5da04ad4973e2ad",
+ "fetched_at": "2026-10-13T13:17:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BCA/22/2025:2026-08-21-005",
+ "title": "SHEETAL CHAMOLI versus STATE OF UTTARAKHAND",
+ "petitioner": "SHEETAL CHAMOLI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BCA/22/2025",
+ "case_type": "BCA",
+ "decision_date": "2026-08-21",
+ "cnr": "UKHC010174492025",
+ "doc_kind": "order",
+ "order_type": "BCA/22/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4YENCjUw8Kpor%2F0hrmHlGDjOP7tqCtu0Pvku%2BV3LEd%2B&caseno=BCA/22/2025&cCode=1&cino=UKHC010174492025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b70108050948303164f0aaad8eb27850fe52a6c644a02b6352d2c9d49ecb1262",
+ "fetched_at": "2026-10-13T13:18:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/390/2022:2026-08-18-008",
+ "title": "KISHAN SINGH BORA versus UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "petitioner": "KISHAN SINGH BORA",
+ "respondent": "UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "case_no": "WPSS/390/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010027812022",
+ "doc_kind": "order",
+ "order_type": "WPSS/390/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT03yKaTVkxNNVee1bA3CRtleDhB31Kp8KtzWHpBhmAQM1&caseno=WPSS/390/2022&cCode=1&cino=UKHC010027812022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f096e5a04ef62aea361bb099e7a08ce9768bff77010beeb7c8232d92147db336",
+ "fetched_at": "2026-10-13T13:19:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

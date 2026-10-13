@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/800/2022:2025-07-01-007",
+ "title": "BHUWAN CHANDRA SHARMA versus UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "petitioner": "BHUWAN CHANDRA SHARMA",
+ "respondent": "UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "case_no": "WPSS/800/2022",
+ "case_type": "WPSS",
+ "decision_date": "2025-07-01",
+ "cnr": "UKHC010059152022",
+ "doc_kind": "order",
+ "order_type": "WPSS/800/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2B0UIZwQlLnYT4nc561tVzDnYsA3eVMZoag4J6NbQ0wB&caseno=WPSS/800/2022&cCode=1&cino=UKHC010059152022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b2db4bb523722c526090994ed6211b2616740cd1817c96d37a84075589d3e7db",
+ "fetched_at": "2026-10-13T13:20:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

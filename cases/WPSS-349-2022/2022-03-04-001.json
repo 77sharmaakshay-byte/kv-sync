@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/349/2022:2022-03-04-001",
+ "title": "PREM BAHADUR versus UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "petitioner": "PREM BAHADUR",
+ "respondent": "UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "case_no": "WPSS/349/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-03-04",
+ "cnr": "UKHC010024642022",
+ "doc_kind": "order",
+ "order_type": "WPSS/349/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0w3qN%2F24ugxTmxKsUaqo5RwYyv7%2BSF1sFCS8lyg3Lj3D&caseno=WPSS/349/2022&cCode=1&cino=UKHC010024642022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eb6bd67589672f84b13a5157e630ef5d9f7227dd6256195bbf2739f1e665f95a",
+ "fetched_at": "2026-10-13T13:18:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

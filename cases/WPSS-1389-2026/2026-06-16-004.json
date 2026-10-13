@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1389/2026:2026-06-16-004",
+ "title": "MITHUN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MITHUN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1389/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-06-16",
+ "cnr": "UKHC010088872026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1389/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQudhhB84oRfdH3V%2BwFRfEBRrcCtnDDAsvhrGDx%2Fu41hP&caseno=WPSS/1389/2026&cCode=1&cino=UKHC010088872026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fd66e6e81878ca8f5fd9ddb95590061cc6272e1948ac1bc1e12dbac1ae696398",
+ "fetched_at": "2026-10-13T13:16:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/390/2022:2023-06-05-004",
+ "title": "KISHAN SINGH BORA versus UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "petitioner": "KISHAN SINGH BORA",
+ "respondent": "UTTAR PRADESH STATE CO-OPERATIVE FEDERATION LTD.",
+ "case_no": "WPSS/390/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-06-05",
+ "cnr": "UKHC010027812022",
+ "doc_kind": "order",
+ "order_type": "WPSS/390/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT03yKaTVkxNNVee1bA3CRtlfDeHb4y%2Bu9wtZPdiWPs%2FzQ&caseno=WPSS/390/2022&cCode=1&cino=UKHC010027812022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8b355ff481358f49bc827ecb240ecf18e814bc38ec838f3d3cbda3b36e3fe82e",
+ "fetched_at": "2026-10-13T13:19:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

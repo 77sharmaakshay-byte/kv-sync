@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1021/2025:2026-09-09-006",
+ "title": "UMA SHANKAR versus GURUKUL KANGRI VISHWAVIDYALAYA HARIDWAR",
+ "petitioner": "UMA SHANKAR",
+ "respondent": "GURUKUL KANGRI VISHWAVIDYALAYA HARIDWAR",
+ "case_no": "WPSS/1021/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010089542025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1021/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7waptISemXMOjq8E2QQp8FIzCcLxOwhUTWPU0hD6buL&caseno=WPSS/1021/2025&cCode=1&cino=UKHC010089542025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "14495195fce01ff1d41d20ae518b0ee74f9b345858efd6623142657b1200ea72",
+ "fetched_at": "2026-10-13T13:24:20+00:00",
+ "fetched_by": "fetch_live.py"
+}
