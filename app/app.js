@@ -550,7 +550,7 @@
     var n = c.notes || {};
     var tabs = [['saar', 'Saar'], ['dates', 'Tareekhein'], ['orders', 'Orders · ' + c.orders.length]];
     if (n.pros || n.cons || n.issues) tabs.push(['analysis', 'Vishleshan']);
-    if (n.similar && n.similar.length) tabs.push(['similar', 'Faisle: support / against']);
+    if (n.similar && n.similar.length) tabs.push(['similar', 'Support / Against']);
     var latest = (idx.dates || [])[0];
     var html = '<header class="hero"><a class="back" href="' + (role() === 'party' ? '#/' : '#/mine') + '">' + ICON_BACK + (role() === 'party' ? 'Mera case' : 'Mere cases') + '</a><div class="chips">' +
       (c.decision_date ? '<span class="chip good">Disposed · ' + esc(dmy(c.decision_date)) + '</span>' : '<span class="chip warn">Pending</span>') +
