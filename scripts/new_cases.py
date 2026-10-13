@@ -5,6 +5,8 @@ naye cases miss na hon. 'Naye cases' workflow inhe uk-case se laata hai.
     python3 scripts/new_cases.py --data-branch databranch --max 150
 
 state/case_fetched.json: {case id: 'YYYY-MM-DD' kab laaya}. --stale-days se purana record dobara (naye orders ke liye).
+Cause list ke baad advocates/*.json (workflow 'Advocate ke cases') ke saare cases: jinka record nahi, ya
+--adv-stale-days se purana — chune hue advocate ka poora kaam bhi dheere-dheere (har baar ek-tihaai jagah unki).
 """
 import argparse
 import datetime as dt
@@ -25,6 +27,7 @@ def main():
     ap.add_argument("--data-branch", required=True, type=Path)
     ap.add_argument("--max", type=int, default=150)
     ap.add_argument("--stale-days", type=int, default=7)
+    ap.add_argument("--adv-stale-days", type=int, default=14)
     args = ap.parse_args()
     src = args.data_branch
     fetched = {}
@@ -33,6 +36,14 @@ def main():
         fetched = json.loads(state.read_text(encoding="utf-8"))
     today = today_ist()
     want = []
+
+    def need(no, stale_days):
+        cid = no.replace("/", "-")
+        have = (src / "cases" / cid / "_case.json").exists()
+        last = fetched.get(cid)
+        old = not last or (today - dt.date.fromisoformat(last)).days >= stale_days
+        return not have or (old and last)
+
     for folder in sorted(p for p in (src / "causelist").glob("*") if p.is_dir()):
         try:
             day = dt.datetime.strptime(folder.name, "%d-%m-%Y").date()
@@ -43,17 +54,20 @@ def main():
         for txt in sorted(folder.glob("*.txt")):
             for e in parse_causelist(txt.read_text(encoding="utf-8"))["entries"]:
                 no = e.get("case_no")
-                if not no or no in want:
-                    continue
-                cid = no.replace("/", "-")
-                have = (src / "cases" / cid / "_case.json").exists()
-                last = fetched.get(cid)
-                old = not last or (today - dt.date.fromisoformat(last)).days >= args.stale_days
-                if not have or (old and last):
+                if no and no not in want and need(no, args.stale_days):
                     want.append(no)
-    print(f"# aaj/aage ki list mein naye ya purane record wale: {len(want)} (is baar {min(len(want), args.max)})",
-          file=sys.stderr)
-    print(" ".join(want[:args.max]))
+    adv = []
+    for f in sorted((src / "advocates").glob("*.json")):
+        for c in json.loads(f.read_text(encoding="utf-8")).get("cases", []):
+            no = c.get("case")
+            if no and no not in want and no not in adv and need(no, args.adv_stale_days):
+                adv.append(no)
+    # Har baar kam se kam ek-tihaai jagah advocate walon ko (roz ki lambi list mein woh atke na rahein)
+    n_adv = min(len(adv), max(args.max // 3, args.max - len(want)))
+    pick = adv[:n_adv] + want[:args.max - n_adv]
+    print(f"# aaj/aage ki list mein naye ya purane record wale: {len(want)}, advocates ke: {len(adv)} "
+          f"(is baar {len(pick)}: advocate ke {n_adv})", file=sys.stderr)
+    print(" ".join(pick))
     return 0
 
 

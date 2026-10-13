@@ -1,4 +1,5 @@
 # Roz ke naye cases miss na hon: cause list aate hi (dono raaste: court ki site / eCourts) aaj aur aage ki list ke
+# (aur "Advocate ke cases" wale chune advocate ke saare cases, roz walon ke baad)
 # jin cases ka court record app mein nahi (ya 7 din purana) hai, unka record (parties, tareekhein, orders) laao.
 # Ek baar mein 150; baaki agli baar. Uske baad "Case analysis" apne aap (machine vishleshan + app).
 # Aapke Mac (self-hosted runner) par: GitHub ke free minute bachte hain. Mac band ho to line mein rukta hai.
@@ -6,7 +7,7 @@ name: Naye cases
 
 on:
   workflow_run:
-    workflows: ['Mac cause list (ehcr)', 'Roz ka court data']
+    workflows: ['Mac cause list (ehcr)', 'Roz ka court data', 'Advocate ke cases']
     types: [completed]
   workflow_dispatch:
     inputs:

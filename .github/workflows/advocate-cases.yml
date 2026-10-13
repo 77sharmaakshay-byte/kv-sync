@@ -1,0 +1,111 @@
+# Chune hue advocate ke SAARE cases (court ki site par advocate ke naam se search): list data branch ke
+# advocates/<naam>.json mein. Phir "Naye cases" (apne aap, isi ke baad) unke record + orders laata hai —
+# roz ki cause list wale pehle, phir advocate ke, ek baar mein 150 — aur "Case analysis" har case ka
+# vishleshan (vishay, mudde, milte-julte faisle). Har hafte list dobara (naye case judein).
+# Naya advocate: Actions > Advocate ke cases > Run workflow > naam (jaisa court mein: BHAGWAT MEHRA).
+name: Advocate ke cases
+
+on:
+  schedule:
+    - cron: '41 2 * * 1'   # somvar 8:11 IST: sabki list dobara
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Advocate ka naam (khaali = jo pehle se jude hain, sabki list dobara)'
+        default: 'BHAGWAT MEHRA'
+      status:
+        description: 'Kaunse cases'
+        type: choice
+        options: [Pending, Both, Disposed]
+        default: Pending
+
+permissions:
+  contents: write
+
+concurrency:
+  group: case-records   # Naye cases / Case lookup ke saath ek hi line
+  cancel-in-progress: false
+
+jobs:
+  list:
+    runs-on: [self-hosted, macOS]   # court ki site India se; Mac par
+    timeout-minutes: 60
+    env:
+      PYTHONUNBUFFERED: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Data branch
+        run: |
+          echo "WORK=$RUNNER_TEMP/kl-adv" >> "$GITHUB_ENV"
+          rm -rf databranch "$RUNNER_TEMP/kl-adv"; git worktree prune
+          git config user.name "krishivlaw-bot"
+          git config user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin +data:data
+          git worktree add databranch data
+      - name: Python 3.12 + bharat-courts (naye cases wala hi venv)
+        run: |
+          V="$HOME/actions-runner/kl-venv"
+          [ -x "$V/tools/bin/uv" ] || { python3 -m venv "$V/tools" && "$V/tools/bin/python" -m pip install -q --upgrade pip uv; }
+          "$V/tools/bin/uv" venv -q --allow-existing --python 3.12 "$V/live"
+          "$V/tools/bin/uv" pip install -q --python "$V/live/bin/python" "./vendor/product/bharat-courts[ocr]" pypdfium2
+          echo "$V/live/bin" >> "$GITHUB_PATH"
+      - name: Court se advocate ke cases
+        env:
+          NAME: ${{ inputs.name }}
+          STATUS: ${{ inputs.status || 'Pending' }}
+        run: |
+          if [ -n "$NAME" ]; then
+            printf '%s\t%s\n' "$NAME" "$STATUS" > names.tsv
+          else
+            python - > names.tsv <<'PY'
+          import json, pathlib
+          for f in sorted(pathlib.Path("databranch/advocates").glob("*.json")):
+              d = json.loads(f.read_text(encoding="utf-8"))
+              print(f"{d['query']}\t{d.get('status', 'Pending')}")
+          PY
+          fi
+          cat names.tsv
+          while IFS="$(printf '\t')" read -r N S; do
+            [ -n "$N" ] || continue
+            for i in 1 2 3; do   # court ka ERROR_VAL kabhi-kabhi aata hai; dobara
+              python scripts/fetch_live.py --data "$WORK" uk-advocate --name "$N" --status "$S" --show 10 && break
+              sleep 20
+            done
+          done < names.tsv
+      - name: List data branch mein
+        run: |
+          python - <<'PY'
+          import datetime as dt, json, os, pathlib, re
+          src = pathlib.Path(os.environ["WORK"]) / "live" / "uk" / "_diary"
+          out = pathlib.Path("databranch/advocates")
+          out.mkdir(parents=True, exist_ok=True)
+          today = (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=5, minutes=30)).date().isoformat()
+          for f in sorted(src.glob("advocate-*.json")) if src.exists() else []:
+              d = json.loads(f.read_text(encoding="utf-8"))
+              cases, seen = [], set()
+              for c in d["cases"]:
+                  label = re.sub(r"[^A-Z]", "", re.split(r"[(\-]", c.get("case_type") or "")[0].upper())
+                  if not label or not re.fullmatch(r"\d+/\d{4}", c.get("case_number") or ""):
+                      continue
+                  no = f"{label}/{c['case_number']}"
+                  if no in seen:
+                      continue
+                  seen.add(no)
+                  cases.append({"case": no, "cnr": c.get("cnr_number"), "petitioner": c.get("petitioner"),
+                                "respondent": c.get("respondent")})
+              slug = re.sub(r"[^a-z0-9]+", "-", d["query"].lower()).strip("-")
+              doc = {"query": d["query"], "echo": d.get("echo"), "status": d.get("status"), "fetched": today,
+                     "cases": cases}
+              (out / f"{slug}.json").write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
+              print(f"{d['query']} ({d.get('echo')}): {len(cases)} {d.get('status')} cases")
+          PY
+      - name: Data branch par save
+        run: |
+          cd databranch
+          git add -A advocates
+          if git diff --cached --quiet; then echo "Kuch naya nahi"; exit 0; fi
+          git commit -q -m "advocate ke cases: $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
+          git push -q origin data || { git pull -q --rebase -X theirs origin data && git push -q origin data; }
+      - name: Saaf karo
+        if: always()
+        run: git worktree remove --force databranch || true
