@@ -23,7 +23,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: case-records   # Naye cases / Case lookup ke saath ek hi line
+  group: advocate-list   # sirf advocates/ likhta hai; case-records mein hota to agla "Naye cases" ise line se hata deta
   cancel-in-progress: false
 
 jobs:
