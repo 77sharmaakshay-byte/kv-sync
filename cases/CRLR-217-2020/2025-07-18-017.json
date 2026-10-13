@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/217/2020:2025-07-18-017",
+ "title": "AKBAR ALI versus AFSANA",
+ "petitioner": "AKBAR ALI",
+ "respondent": "AFSANA",
+ "case_no": "CRLR/217/2020",
+ "case_type": "CRLR",
+ "decision_date": "2025-07-18",
+ "cnr": "UKHC010051162020",
+ "doc_kind": "order",
+ "order_type": "CRLR/217/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHZbL8RJE8YVDstQACGN9Q%2BQQA1UJsIDoOyrEnIbYCtq&caseno=CRLR/217/2020&cCode=1&cino=UKHC010051162020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c3a5fc4701dab7b46b8ee8209b6346a77f3db2d5b99e5d4daa4e16ea157783d3",
+ "fetched_at": "2026-10-13T01:26:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

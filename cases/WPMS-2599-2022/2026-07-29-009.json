@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2599/2022:2026-07-29-009",
+ "title": "SANJAY GUPTA versus APPELLATE AUTHORITY EDUCATION TRIBUNAL AND DISTRICT JUDGE HARIDWAR",
+ "petitioner": "SANJAY GUPTA",
+ "respondent": "APPELLATE AUTHORITY EDUCATION TRIBUNAL AND DISTRICT JUDGE HARIDWAR",
+ "case_no": "WPMS/2599/2022",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-29",
+ "cnr": "UKHC010153162022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2599/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07dFYHCtMY31Jf%2FXEZfDBI4UDnU6vE58ajR9P%2BNO%2FWRB&caseno=WPMS/2599/2022&cCode=1&cino=UKHC010153162022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a7a599420bb1b34b55475557807965293c3ab32a70a29dbf999e1b31770e3a3f",
+ "fetched_at": "2026-10-13T02:23:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

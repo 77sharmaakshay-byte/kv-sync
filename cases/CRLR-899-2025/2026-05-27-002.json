@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/899/2025:2026-05-27-002",
+ "title": "OMVEER versus SHWETA",
+ "petitioner": "OMVEER",
+ "respondent": "SHWETA",
+ "case_no": "CRLR/899/2025",
+ "case_type": "CRLR",
+ "decision_date": "2026-05-27",
+ "cnr": "UKHC010204812025",
+ "doc_kind": "order",
+ "order_type": "CRLR/899/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3eFIHiJu4GL7vEyPc7DkZ2mTB81IU%2F%2BceWedgodtZJn&caseno=CRLR/899/2025&cCode=1&cino=UKHC010204812025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c6f8d2b80508e3c4abb05aed1212568bdfe018aa9f4a3e5c11a560050ad82941",
+ "fetched_at": "2026-10-13T01:28:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

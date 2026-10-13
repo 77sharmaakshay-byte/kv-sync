@@ -1,0 +1,65 @@
+{
+ "cnr_number": "UKHC010138182026",
+ "case_type": "AO",
+ "filing_number": "AO /7176/2026",
+ "filing_date": "2026-08-03",
+ "registration_number": "AO /290/2026",
+ "registration_date": "2026-08-03",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-13",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "",
+ "district": "",
+ "petitioners": [
+  {
+   "name": "M/S SAFE ENSURE ADMINISTRATIVE FACILITIES PRIVATE LTD",
+   "advocate": "Mamta Bisht"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "GOVIND BALLABH PANT AGRICULTURE AND TECHNICAL UNIVERSITY",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Commercial Courts Act, 2016 (Act No. 4 of 2016)",
+   "sections": "13"
+  },
+  {
+   "act": "02-AN APPEAL U/S 37,50 OR 59 OF THE ARBITRATION AND CONCILIATION ACT,1996.",
+   "sections": "37(1)(c)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-04",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-09",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-04",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

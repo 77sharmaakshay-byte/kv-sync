@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/239/2016:2016-07-11-002",
+ "title": "NATIONAL INSURANCE COMPANY LIMITED versus BHAGWAN DAS",
+ "petitioner": "NATIONAL INSURANCE COMPANY LIMITED",
+ "respondent": "BHAGWAN DAS",
+ "case_no": "AO/239/2016",
+ "case_type": "AO",
+ "decision_date": "2016-07-11",
+ "cnr": "UKHC010016262016",
+ "doc_kind": "order",
+ "order_type": "AO/239/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBTfZvsBks0fH8awXHCn%2BBlZwn8W1DTHZZUB6hqjHg4Q1&caseno=AO/239/2016&cCode=1&cino=UKHC010016262016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2da531cb704284f99f3a865871f364ea2d84595abd64b1cd7ea903f70333ea1a",
+ "fetched_at": "2026-10-13T02:00:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/113/2015:2020-11-28-034",
+ "title": "RAJENDRA PRASAD versus NEW INDIA CHEMICAL AND PHARMACEUTICAL WORKS PVT. LTD.",
+ "petitioner": "RAJENDRA PRASAD",
+ "respondent": "NEW INDIA CHEMICAL AND PHARMACEUTICAL WORKS PVT. LTD.",
+ "case_no": "SA/113/2015",
+ "case_type": "SA",
+ "decision_date": "2020-11-28",
+ "cnr": "UKHC010016112015",
+ "doc_kind": "order",
+ "order_type": "SA/113/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWRBJP5w%2FROvCCucUb6ksyJPUsDAUh4iW70z7fNL5rLBa&caseno=SA/113/2015&cCode=1&cino=UKHC010016112015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3b54774651910e1d9324322abbee11b957b5b1d78f2352704ac650f1f21ef006",
+ "fetched_at": "2026-10-13T01:29:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

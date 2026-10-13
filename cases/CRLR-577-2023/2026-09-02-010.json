@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/577/2023:2026-09-02-010",
+ "title": "MOHD. AMIR versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD. AMIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/577/2023",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-02",
+ "cnr": "UKHC010134342023",
+ "doc_kind": "order",
+ "order_type": "CRLR/577/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY313rdK4MjYKPI1dvE5iHwZsdLu7zCGdGtlpOl98D8Xx&caseno=CRLR/577/2023&cCode=1&cino=UKHC010134342023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c4005d1f2ab8f9691271ed7706eda7545b61944ab50fcaf13f426fb819ae6a29",
+ "fetched_at": "2026-10-13T01:20:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

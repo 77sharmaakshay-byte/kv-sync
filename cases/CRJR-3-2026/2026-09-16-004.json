@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJR/3/2026:2026-09-16-004",
+ "title": "RAGHURAJ SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "RAGHURAJ SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJR/3/2026",
+ "case_type": "CRJR",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010045232026",
+ "doc_kind": "order",
+ "order_type": "CRJR/3/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrlJ8%2BOIFm4X6FPLdlTFsYHNp67BQdEdRLBVdaFAZS7L&caseno=CRJR/3/2026&cCode=1&cino=UKHC010045232026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eb56ae0926f6590acbade8b165664880a993b0989e2ecb2d60c3597f5a11d8f5",
+ "fetched_at": "2026-10-13T01:23:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

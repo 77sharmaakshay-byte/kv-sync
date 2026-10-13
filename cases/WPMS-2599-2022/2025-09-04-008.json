@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2599/2022:2025-09-04-008",
+ "title": "SANJAY GUPTA versus APPELLATE AUTHORITY EDUCATION TRIBUNAL AND DISTRICT JUDGE HARIDWAR",
+ "petitioner": "SANJAY GUPTA",
+ "respondent": "APPELLATE AUTHORITY EDUCATION TRIBUNAL AND DISTRICT JUDGE HARIDWAR",
+ "case_no": "WPMS/2599/2022",
+ "case_type": "WPMS",
+ "decision_date": "2025-09-04",
+ "cnr": "UKHC010153162022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2599/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07dFYHCtMY31Jf%2FXEZfDBI605OrFQC%2BLF%2FEwEOcqsJH9&caseno=WPMS/2599/2022&cCode=1&cino=UKHC010153162022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5126996ed7324756fee1f4ba71d27e75e08f77eace9e736e5a7ad0795189dbb1",
+ "fetched_at": "2026-10-13T02:23:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

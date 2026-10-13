@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/577/2023:2024-10-21-004",
+ "title": "MOHD. AMIR versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD. AMIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/577/2023",
+ "case_type": "CRLR",
+ "decision_date": "2024-10-21",
+ "cnr": "UKHC010134342023",
+ "doc_kind": "order",
+ "order_type": "CRLR/577/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY313rdK4MjYKPI1dvE5iHwb8KcmFM8W02TuvpCkPw5EK&caseno=CRLR/577/2023&cCode=1&cino=UKHC010134342023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d183d1082d3cea92ee28ae066c41fe8bdb56b5da7bbc8e0aa5def29185fd8cf5",
+ "fetched_at": "2026-10-13T01:20:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

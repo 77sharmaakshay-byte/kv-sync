@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/217/2020:2025-09-26-019",
+ "title": "AKBAR ALI versus AFSANA",
+ "petitioner": "AKBAR ALI",
+ "respondent": "AFSANA",
+ "case_no": "CRLR/217/2020",
+ "case_type": "CRLR",
+ "decision_date": "2025-09-26",
+ "cnr": "UKHC010051162020",
+ "doc_kind": "order",
+ "order_type": "CRLR/217/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHZbL8RJE8YVDstQACGN9Q%2FhAaRHSy%2F2Wxo%2FqfxwZJb8&caseno=CRLR/217/2020&cCode=1&cino=UKHC010051162020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "209046650d995d21c1554a5f54c418c4e0d45d0c48f6571c9b10322ac95d2577",
+ "fetched_at": "2026-10-13T01:26:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

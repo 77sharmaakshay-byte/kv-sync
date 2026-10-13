@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/113/2015:2015-08-04-002",
+ "title": "RAJENDRA PRASAD versus NEW INDIA CHEMICAL AND PHARMACEUTICAL WORKS PVT. LTD.",
+ "petitioner": "RAJENDRA PRASAD",
+ "respondent": "NEW INDIA CHEMICAL AND PHARMACEUTICAL WORKS PVT. LTD.",
+ "case_no": "SA/113/2015",
+ "case_type": "SA",
+ "decision_date": "2015-08-04",
+ "cnr": "UKHC010016112015",
+ "doc_kind": "order",
+ "order_type": "SA/113/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWRBJP5w%2FROvCCucUb6ksyJNDCPyiWXrbQ0f7pxh%2B6Ol0&caseno=SA/113/2015&cCode=1&cino=UKHC010016112015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c4d96d171e2bf0656f6017fe7a7f998e63a1f32c5c43bf6af6d1e4b064ad49ee",
+ "fetched_at": "2026-10-13T01:29:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

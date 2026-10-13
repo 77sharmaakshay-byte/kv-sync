@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/217/2020:2020-09-29-005",
+ "title": "AKBAR ALI versus AFSANA",
+ "petitioner": "AKBAR ALI",
+ "respondent": "AFSANA",
+ "case_no": "CRLR/217/2020",
+ "case_type": "CRLR",
+ "decision_date": "2020-09-29",
+ "cnr": "UKHC010051162020",
+ "doc_kind": "order",
+ "order_type": "CRLR/217/2020",
+ "judges": [
+  "Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHZbL8RJE8YVDstQACGN9Q%2FCMl6xjCUaLTZfcf%2Bd9OoK&caseno=CRLR/217/2020&cCode=1&cino=UKHC010051162020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "366eb6be56ab16f8efc1e9031784af306093ac635e585cdf8d673d9b3420629a",
+ "fetched_at": "2026-10-13T01:26:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

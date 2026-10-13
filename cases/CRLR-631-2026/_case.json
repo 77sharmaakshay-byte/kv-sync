@@ -1,0 +1,126 @@
+{
+ "cnr_number": "UKHC010144682026",
+ "case_type": "CRLR",
+ "filing_number": "CRLR /6969/2026",
+ "filing_date": "2026-08-12",
+ "registration_number": "CRLR /631/2026",
+ "registration_date": "2026-08-12",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-13",
+ "decision_date": null,
+ "case_stage": "JUST AFTER FRESH MATTERS -252",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pithoragarh",
+ "petitioners": [
+  {
+   "name": "X (JUVENILE IN CONFLICT WITH LAW)",
+   "advocate": "IMRAJ SINGH RAUTELA,PRATEEK TRIPATHI,PRATEEK TRIPATHI, ,PRATEEK TRIPATHI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "302"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-14",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-13",
+   "business_date": "2026-10-07",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-07",
+   "business_date": "2026-10-01",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-24",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST III"
+  },
+  {
+   "hearing_date": "2026-09-24",
+   "business_date": "2026-09-11",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-11",
+   "business_date": "2026-09-08",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-08",
+   "business_date": "2026-08-14",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-08-14",
+   "order_type": "CRLR/631/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkVFMU9edsg6QAaLhQ0WMSUawt1G6I3fyGmSDqyLgDFD&caseno=CRLR/631/2026&cCode=1&cino=UKHC010144682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-08",
+   "order_type": "CRLR/631/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkVFMU9edsg6QAaLhQ0WMSVAQrpMDlgzCH9jKvfTsPOV&caseno=CRLR/631/2026&cCode=1&cino=UKHC010144682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-11",
+   "order_type": "CRLR/631/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkVFMU9edsg6QAaLhQ0WMSVB88SxMHNFu8d%2BG4LW0ZC3&caseno=CRLR/631/2026&cCode=1&cino=UKHC010144682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-07",
+   "order_type": "CRLR/631/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkVFMU9edsg6QAaLhQ0WMSVbpE%2B2mxfPRNB4FO%2B1VyJC&caseno=CRLR/631/2026&cCode=1&cino=UKHC010144682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

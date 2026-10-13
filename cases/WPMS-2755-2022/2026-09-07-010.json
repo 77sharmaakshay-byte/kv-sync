@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2755/2022:2026-09-07-010",
+ "title": "BHAGWAN SINGH BHANDARI versus JITENDRA KUMAR BHATIA",
+ "petitioner": "BHAGWAN SINGH BHANDARI",
+ "respondent": "JITENDRA KUMAR BHATIA",
+ "case_no": "WPMS/2755/2022",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010161632022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2755/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y73DiOKoYXPckM7OexBQwREHuvnqCltxhV02rf0X9Z5&caseno=WPMS/2755/2022&cCode=1&cino=UKHC010161632022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d74e67de8d822ac49000e073b0c24cea7e15b39948631b3cb26d5d78e4c448a3",
+ "fetched_at": "2026-10-13T02:23:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/114/2017:2017-08-25-004",
+ "title": "Smt. Sarita versus Rakesh Alias Sonu",
+ "petitioner": "Smt. Sarita",
+ "respondent": "Rakesh Alias Sonu",
+ "case_no": "CRLR/114/2017",
+ "case_type": "CRLR",
+ "decision_date": "2017-08-25",
+ "cnr": "UKHC010057482017",
+ "doc_kind": "order",
+ "order_type": "CRLR/114/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh171Xb5NO7VzISTTo8lHcfg4BWoknGrfDO2G3XodFYj9&caseno=CRLR/114/2017&cCode=1&cino=UKHC010057482017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "db89325e4c7c73556548bc06b69c4d02458525e56f3f805578432114dc415121",
+ "fetched_at": "2026-10-13T02:23:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

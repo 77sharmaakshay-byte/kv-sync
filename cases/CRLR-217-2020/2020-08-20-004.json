@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/217/2020:2020-08-20-004",
+ "title": "AKBAR ALI versus AFSANA",
+ "petitioner": "AKBAR ALI",
+ "respondent": "AFSANA",
+ "case_no": "CRLR/217/2020",
+ "case_type": "CRLR",
+ "decision_date": "2020-08-20",
+ "cnr": "UKHC010051162020",
+ "doc_kind": "order",
+ "order_type": "CRLR/217/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHZbL8RJE8YVDstQACGN9Q9IZq9BHeteoQc1%2B%2FS1BMiM&caseno=CRLR/217/2020&cCode=1&cino=UKHC010051162020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "da696775fc563932e6878f032bc69e10656e27314c976809fec8c9a3b6e46685",
+ "fetched_at": "2026-10-13T01:26:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

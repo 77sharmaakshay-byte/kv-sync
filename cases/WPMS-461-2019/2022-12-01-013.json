@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/461/2019:2022-12-01-013",
+ "title": "M/S ADITYA CONSTRUCTION versus UNION OF INDIA",
+ "petitioner": "M/S ADITYA CONSTRUCTION",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMS/461/2019",
+ "case_type": "WPMS",
+ "decision_date": "2022-12-01",
+ "cnr": "UKHC010024832019",
+ "doc_kind": "order",
+ "order_type": "WPMS/461/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF76NYwRSiSt4vfn1hXCpyzbHjtqQ6I8Sw2vQw6WF4Xzq&caseno=WPMS/461/2019&cCode=1&cino=UKHC010024832019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4a3a1487cef58a26833081e009b990e01c8dac7f3dae759287521ad72d4dd539",
+ "fetched_at": "2026-10-13T02:01:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

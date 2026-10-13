@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/474/2012:2025-04-24-004",
+ "title": "THE ORIENTAL INSURANCE COMPANY LIMITED versus CHANDI PRASAD BAHUGUNA",
+ "petitioner": "THE ORIENTAL INSURANCE COMPANY LIMITED",
+ "respondent": "CHANDI PRASAD BAHUGUNA",
+ "case_no": "AO/474/2012",
+ "case_type": "AO",
+ "decision_date": "2025-04-24",
+ "cnr": "UKHC010010302012",
+ "doc_kind": "order",
+ "order_type": "AO/474/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Rajesh Tandon"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrPVMFnjPh1FdfD77uPV5P6saQLg0VtJpleQekkVR4CaR&caseno=AO/474/2012&cCode=1&cino=UKHC010010302012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a4305dad719118d84b336985f96600321067ae120101cf1e7b3d7eb841dc3ec7",
+ "fetched_at": "2026-10-13T01:19:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

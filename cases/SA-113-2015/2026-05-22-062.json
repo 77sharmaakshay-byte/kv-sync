@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/113/2015:2026-05-22-062",
+ "title": "RAJENDRA PRASAD versus NEW INDIA CHEMICAL AND PHARMACEUTICAL WORKS PVT. LTD.",
+ "petitioner": "RAJENDRA PRASAD",
+ "respondent": "NEW INDIA CHEMICAL AND PHARMACEUTICAL WORKS PVT. LTD.",
+ "case_no": "SA/113/2015",
+ "case_type": "SA",
+ "decision_date": "2026-05-22",
+ "cnr": "UKHC010016112015",
+ "doc_kind": "order",
+ "order_type": "SA/113/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWRBJP5w%2FROvCCucUb6ksyJMROLssx4rUuUJvEuv%2B26IF&caseno=SA/113/2015&cCode=1&cino=UKHC010016112015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0f9c8703784fe9e808a8ca7a5bca5c6f5eb31744d2ea6ac6c9e572a5c59ae8e5",
+ "fetched_at": "2026-10-13T01:30:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

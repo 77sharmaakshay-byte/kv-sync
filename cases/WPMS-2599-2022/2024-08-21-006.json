@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2599/2022:2024-08-21-006",
+ "title": "SANJAY GUPTA versus APPELLATE AUTHORITY EDUCATION TRIBUNAL AND DISTRICT JUDGE HARIDWAR",
+ "petitioner": "SANJAY GUPTA",
+ "respondent": "APPELLATE AUTHORITY EDUCATION TRIBUNAL AND DISTRICT JUDGE HARIDWAR",
+ "case_no": "WPMS/2599/2022",
+ "case_type": "WPMS",
+ "decision_date": "2024-08-21",
+ "cnr": "UKHC010153162022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2599/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07dFYHCtMY31Jf%2FXEZfDBI4UEWZoAEaOuovf%2BNJMC6%2B0&caseno=WPMS/2599/2022&cCode=1&cino=UKHC010153162022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "833938195336f295e32daa21807e7664b842d02fb9fbc5cacbe5455bdf862db7",
+ "fetched_at": "2026-10-13T02:23:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

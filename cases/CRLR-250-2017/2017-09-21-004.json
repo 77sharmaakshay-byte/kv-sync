@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/250/2017:2017-09-21-004",
+ "title": "Richard Charan versus Smt. Renu   Advocate- ,LALIT SHARMA 1123",
+ "petitioner": "Richard Charan",
+ "respondent": "Smt. Renu   Advocate- ,LALIT SHARMA 1123",
+ "case_no": "CRLR/250/2017",
+ "case_type": "CRLR",
+ "decision_date": "2017-09-21",
+ "cnr": "UKHC010017132017",
+ "doc_kind": "order",
+ "order_type": "CRLR/250/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh8RGsocRy4wvsQpC7%2BgiOVvkZQnLsoK5pU9f0gu3de%2B4&caseno=CRLR/250/2017&cCode=1&cino=UKHC010017132017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ca3bc53ed93c7cebebb6709e42b0c69d29d277e53add4351491e3f348fb8a4c3",
+ "fetched_at": "2026-10-13T02:24:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2755/2022:2024-08-05-005",
+ "title": "BHAGWAN SINGH BHANDARI versus JITENDRA KUMAR BHATIA",
+ "petitioner": "BHAGWAN SINGH BHANDARI",
+ "respondent": "JITENDRA KUMAR BHATIA",
+ "case_no": "WPMS/2755/2022",
+ "case_type": "WPMS",
+ "decision_date": "2024-08-05",
+ "cnr": "UKHC010161632022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2755/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y73DiOKoYXPckM7OexBQwTC%2F1Fg4ZtEmWcD0AK8ButX&caseno=WPMS/2755/2022&cCode=1&cino=UKHC010161632022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6c858fecae0d36fb3d272f4b70fa6f55a7b753e77b83afa4aaf2269d14c2c1a3",
+ "fetched_at": "2026-10-13T02:23:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

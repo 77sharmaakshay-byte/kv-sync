@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2935/2026:2026-09-25-001",
+ "title": "HIMANI RANA versus HARIDWAR ROORKEE DEVELOPMENT AUTHORITY",
+ "petitioner": "HIMANI RANA",
+ "respondent": "HARIDWAR ROORKEE DEVELOPMENT AUTHORITY",
+ "case_no": "WPMS/2935/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-25",
+ "cnr": "UKHC010168992026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2935/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkgDR3kJcRZC8ic3Rmf%2BNC6O5AJQV5Z1Y4F%2FIRB8fq9D&caseno=WPMS/2935/2026&cCode=1&cino=UKHC010168992026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "da4b5b9cb4b9b4d70dba642b01953b0c6268bd493189248301f4aac808b5dfc2",
+ "fetched_at": "2026-10-13T01:20:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

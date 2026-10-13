@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1421/2026:2026-06-01-004",
+ "title": "SUNHILL HOSPITALS PVT LTD versus DIRECTORATE EMPLOYEE STATE INSURANCE SCHEME",
+ "petitioner": "SUNHILL HOSPITALS PVT LTD",
+ "respondent": "DIRECTORATE EMPLOYEE STATE INSURANCE SCHEME",
+ "case_no": "WPMS/1421/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-06-01",
+ "cnr": "UKHC010083072026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1421/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsdx%2F3zw2x%2BBIx5HNaz1VVxRgkOsdxJh8ZbKhlmX7AMj&caseno=WPMS/1421/2026&cCode=1&cino=UKHC010083072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3dd91ca0b861fd72f2493aa8e9b5594ba2d2aed27b0b527d9bfd89001f90d474",
+ "fetched_at": "2026-10-13T02:02:53+00:00",
+ "fetched_by": "fetch_live.py"
+}
