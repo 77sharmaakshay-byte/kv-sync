@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/188/2026:2026-10-15-001",
+ "title": "RACHNA versus VINEET",
+ "petitioner": "RACHNA",
+ "respondent": "VINEET",
+ "case_no": "FA/188/2026",
+ "case_type": "FA",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010165372026",
+ "doc_kind": "order",
+ "order_type": "FA/188/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjNk7YmAKLI0Jb1Fc39JP27Eeg0YlQrvvXU5hPUMkCAC&caseno=FA/188/2026&cCode=1&cino=UKHC010165372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5ea62a8dede46ac41489b95d644e61cb1079f590b31a3dd50f42e1f16310c393",
+ "fetched_at": "2026-10-15T14:55:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

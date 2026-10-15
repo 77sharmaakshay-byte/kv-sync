@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1929/2022:2026-07-16-031",
+ "title": "BHUPENDRA SINGH BISHT versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "BHUPENDRA SINGH BISHT",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/1929/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-16",
+ "cnr": "UKHC010146952022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1929/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT043mUyaJlvysPBCXK%2B65yrU4NX3R7BvT3Q59LXpynwq%2F&caseno=WPSS/1929/2022&cCode=1&cino=UKHC010146952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9adebab0270cc137fb896dd5f34fff78bcead71ea9c1fb9e4b8fe484451aba1c",
+ "fetched_at": "2026-10-15T14:59:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

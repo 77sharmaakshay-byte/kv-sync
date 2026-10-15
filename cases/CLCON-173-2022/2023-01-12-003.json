@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/173/2022:2023-01-12-003",
+ "title": "VIVEK NAINWAL versus RAVINATH RAMAN",
+ "petitioner": "VIVEK NAINWAL",
+ "respondent": "RAVINATH RAMAN",
+ "case_no": "CLCON/173/2022",
+ "case_type": "CLCON",
+ "decision_date": "2023-01-12",
+ "cnr": "UKHC010076562022",
+ "doc_kind": "order",
+ "order_type": "CLCON/173/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06cRLyQPgQhC%2FP24PXGGVCrfgG9gocYlWjyn%2FbAMKtTa&caseno=CLCON/173/2022&cCode=1&cino=UKHC010076562022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8fde2324208565816818f23231c606e7b73c675ec76e013129ce6f12b879e315",
+ "fetched_at": "2026-10-15T15:12:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

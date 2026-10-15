@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/576/2019:2024-09-17-018",
+ "title": "HARI PRASAD DOBHAL versus STATE OF UTTARAKHAND",
+ "petitioner": "HARI PRASAD DOBHAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/576/2019",
+ "case_type": "WPSB",
+ "decision_date": "2024-09-17",
+ "cnr": "UKHC010208082019",
+ "doc_kind": "order",
+ "order_type": "WPSB/576/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BqiOSC3zU2cY2xzihps1nnDM%2BMqCm%2FeAawg5hp64KC1&caseno=WPSB/576/2019&cCode=1&cino=UKHC010208082019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "48f25f484535b8cad17c7b413dd2d4d850cabbe9a92b21a29a3def858175e345",
+ "fetched_at": "2026-10-15T14:56:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

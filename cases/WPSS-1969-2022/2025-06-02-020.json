@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1969/2022:2025-06-02-020",
+ "title": "HEMANTI versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "HEMANTI",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/1969/2022",
+ "case_type": "WPSS",
+ "decision_date": "2025-06-02",
+ "cnr": "UKHC010151032022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1969/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0z0AycTG5V1jw8dbwqzqPEPLErUq%2B0EYOnD7YyuZqSCd&caseno=WPSS/1969/2022&cCode=1&cino=UKHC010151032022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fbaec87c791a42a1fa1c8df4ceb4f858a432ddd4f497ea807dca5690f961b485",
+ "fetched_at": "2026-10-15T15:01:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

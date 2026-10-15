@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1997/2022:2024-01-04-011",
+ "title": "ROHAN CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "ROHAN CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1997/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-04",
+ "cnr": "UKHC010152752022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1997/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00XB4%2BKbzViCM34iJXHSHaci9YfuMlQEMyp9VZ%2BJB%2FlQ&caseno=WPSS/1997/2022&cCode=1&cino=UKHC010152752022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6268a7d96c74a3637f3a994b7d1dccc501b9e8a88d1cc628d26dc63f28934fd4",
+ "fetched_at": "2026-10-15T15:04:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

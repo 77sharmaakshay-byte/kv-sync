@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/715/2019:2019-08-02-001",
+ "title": "RAJENDRA PRASAD JOSHI versus MANORAMA SEMWAL",
+ "petitioner": "RAJENDRA PRASAD JOSHI",
+ "respondent": "MANORAMA SEMWAL",
+ "case_no": "SPA/715/2019",
+ "case_type": "SPA",
+ "decision_date": "2019-08-02",
+ "cnr": "UKHC010110732019",
+ "doc_kind": "order",
+ "order_type": "SPA/715/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR ORDERS -91",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF64r4tnuB%2FpPKcxnytTy4DJvP9Ihs3yjAyj1rcbIkadB&caseno=SPA/715/2019&cCode=1&cino=UKHC010110732019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "52323652cd9692b9abcfa49d6a64a732677ae2e62267bf1693fd8cdbb2b92296",
+ "fetched_at": "2026-10-15T15:10:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

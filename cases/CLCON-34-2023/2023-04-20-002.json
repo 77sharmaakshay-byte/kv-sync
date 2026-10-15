@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/34/2023:2023-04-20-002",
+ "title": "DINESH KUMAR versus PRAVEEN KUMAR",
+ "petitioner": "DINESH KUMAR",
+ "respondent": "PRAVEEN KUMAR",
+ "case_no": "CLCON/34/2023",
+ "case_type": "CLCON",
+ "decision_date": "2023-04-20",
+ "cnr": "UKHC010019532023",
+ "doc_kind": "order",
+ "order_type": "CLCON/34/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7ikjG9KH1O5renjq%2B1ro6XCI0wp6Nqimrurg0QFcjpD&caseno=CLCON/34/2023&cCode=1&cino=UKHC010019532023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5197c8d9b86bd3734e3767824bffc107783ebdc320f28d7d7f06e9afdd6b3e11",
+ "fetched_at": "2026-10-15T15:09:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

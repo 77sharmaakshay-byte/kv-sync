@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:GA/116/2022:2026-09-22-004",
+ "title": "STATE OF UTTARAKHAND versus LIYAKAT",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "LIYAKAT",
+ "case_no": "GA/116/2022",
+ "case_type": "GA",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010193632022",
+ "doc_kind": "order",
+ "order_type": "GA/116/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07rNlj8NgBYCivb2O1o5nU0Hsqhx4jHEi03dYRmj3eAd&caseno=GA/116/2022&cCode=1&cino=UKHC010193632022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1daff7e0bee21dfedc62861eb56df867fb72e1f4f73b6989f695418ffb68b696",
+ "fetched_at": "2026-10-15T14:56:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

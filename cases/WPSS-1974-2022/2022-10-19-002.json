@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1974/2022:2022-10-19-002",
+ "title": "NIKHIL SAJWAN versus STATE OF UTTARAKHAND THROUGH ITS SECRETARY FINANCE",
+ "petitioner": "NIKHIL SAJWAN",
+ "respondent": "STATE OF UTTARAKHAND THROUGH ITS SECRETARY FINANCE",
+ "case_no": "WPSS/1974/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-10-19",
+ "cnr": "UKHC010151532022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1974/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05z8D0hJyO%2BpkwIwIj1zUdho9pJtDifpLGLjeQez3gui&caseno=WPSS/1974/2022&cCode=1&cino=UKHC010151532022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ecfcc1365d1a31b6e4b6a746a47cbabef74c89e24c550cadecdc01f20a21b7f7",
+ "fetched_at": "2026-10-15T15:02:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

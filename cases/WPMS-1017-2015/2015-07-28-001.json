@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1017/2015:2015-07-28-001",
+ "title": "BALRAM(Legal Heir) versus CHAIRAM UTTARAKHAND POWER CO-OPERATION",
+ "petitioner": "BALRAM(Legal Heir)",
+ "respondent": "CHAIRAM UTTARAKHAND POWER CO-OPERATION",
+ "case_no": "WPMS/1017/2015",
+ "case_type": "WPMS",
+ "decision_date": "2015-07-28",
+ "cnr": "UKHC010029102015",
+ "doc_kind": "order",
+ "order_type": "WPMS/1017/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWTCkTI%2BxYpADBK14HUE%2F3v1P3KSsPXQmTdFQNFpXiXq0&caseno=WPMS/1017/2015&cCode=1&cino=UKHC010029102015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f35302635b7eb5396aa8c212ef5f88a312cb3ffc7b4c19757a43c196e415c55c",
+ "fetched_at": "2026-10-15T15:12:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

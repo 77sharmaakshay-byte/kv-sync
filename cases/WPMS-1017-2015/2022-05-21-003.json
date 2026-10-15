@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1017/2015:2022-05-21-003",
+ "title": "BALRAM(Legal Heir) versus CHAIRAM UTTARAKHAND POWER CO-OPERATION",
+ "petitioner": "BALRAM(Legal Heir)",
+ "respondent": "CHAIRAM UTTARAKHAND POWER CO-OPERATION",
+ "case_no": "WPMS/1017/2015",
+ "case_type": "WPMS",
+ "decision_date": "2022-05-21",
+ "cnr": "UKHC010029102015",
+ "doc_kind": "order",
+ "order_type": "WPMS/1017/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWTCkTI%2BxYpADBK14HUE%2F3v03P1c%2BgS4sxW90JwSnUzq%2B&caseno=WPMS/1017/2015&cCode=1&cino=UKHC010029102015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c6287c4c32dd6606ec167a0bc22a7d782340d6efdb76d5d53ab71016f11489bb",
+ "fetched_at": "2026-10-15T15:12:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

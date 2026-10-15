@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/77/2025:2026-04-22-003",
+ "title": "MOHD. JAMIL versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD. JAMIL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/77/2025",
+ "case_type": "WPPIL",
+ "decision_date": "2026-04-22",
+ "cnr": "UKHC010065582025",
+ "doc_kind": "order",
+ "order_type": "WPPIL/77/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwaZQ%2BeGiXT0ROYYQPzS27ehkRXgvZOxjtlAt8%2B0iglm&caseno=WPPIL/77/2025&cCode=1&cino=UKHC010065582025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd94b20ffdf70d9360ff10c45d1b96beee3d1ee2ccdede451a8dcbae46b903eb",
+ "fetched_at": "2026-10-15T15:09:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

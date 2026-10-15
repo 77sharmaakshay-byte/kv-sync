@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/292/2022:2023-03-31-004",
+ "title": "ABDUL GANI versus STATE OF UTTARAKHAND",
+ "petitioner": "ABDUL GANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/292/2022",
+ "case_type": "CRLA",
+ "decision_date": "2023-03-31",
+ "cnr": "UKHC010111242022",
+ "doc_kind": "order",
+ "order_type": "CRLA/292/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wQ8iHCh5T5Au2lZMFjTF47uetqe15KyIMJkMBrUvUFM&caseno=CRLA/292/2022&cCode=1&cino=UKHC010111242022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b968a91f25cfaacd7c5b473096f02405bc8befbcc2c863e1d866eae3d0ab4873",
+ "fetched_at": "2026-10-15T14:56:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

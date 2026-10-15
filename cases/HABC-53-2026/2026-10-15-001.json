@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:HABC/53/2026:2026-10-15-001",
+ "title": "SABINA versus STATE OF UTTARAKHAND",
+ "petitioner": "SABINA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "HABC/53/2026",
+ "case_type": "HABC",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010185632026",
+ "doc_kind": "order",
+ "order_type": "HABC/53/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrD4vXA3nfcJQzR%2BvzRQfLwEF6WgmwCksfoodhdkUTSg&caseno=HABC/53/2026&cCode=1&cino=UKHC010185632026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "edf71b021f8f182454e4ad6602a8d68b06f8cf587fe46ff8eb627403dd25b29e",
+ "fetched_at": "2026-10-15T14:55:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

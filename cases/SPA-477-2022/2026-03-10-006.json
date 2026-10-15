@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/477/2022:2026-03-10-006",
+ "title": "VINOD KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "VINOD KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/477/2022",
+ "case_type": "SPA",
+ "decision_date": "2026-03-10",
+ "cnr": "UKHC010193492022",
+ "doc_kind": "order",
+ "order_type": "SPA/477/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT04fQMJIFJR72PQYzia73iQWfIua2E%2FJSmzgGqw3MXZb1&caseno=SPA/477/2022&cCode=1&cino=UKHC010193492022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9c23bfcb1ec279c09d9964915682d028b2a6c2f8db5ceba016ce9cdd84bd8876",
+ "fetched_at": "2026-10-15T15:12:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

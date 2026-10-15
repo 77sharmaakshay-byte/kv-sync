@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2128/2022:2023-02-25-003",
+ "title": "EKANKEE DHAMI versus STATE OF UTTARAKHAND",
+ "petitioner": "EKANKEE DHAMI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2128/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-02-25",
+ "cnr": "UKHC010162972022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2128/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xcvq%2BwrAgPWkFTIo5WgNJ2j33zVJrsMywlLPnWxtApd&caseno=WPSS/2128/2022&cCode=1&cino=UKHC010162972022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b7e2a9250ad78bc06632ee1d06a9044c3df2291f506f3ae1e14bce5eff6c936a",
+ "fetched_at": "2026-10-15T15:05:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

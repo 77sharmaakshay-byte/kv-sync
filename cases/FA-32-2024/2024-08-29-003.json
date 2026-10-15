@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/32/2024:2024-08-29-003",
+ "title": "SHANTI DEVI versus MOHIT",
+ "petitioner": "SHANTI DEVI",
+ "respondent": "MOHIT",
+ "case_no": "FA/32/2024",
+ "case_type": "FA",
+ "decision_date": "2024-08-29",
+ "cnr": "UKHC010024222024",
+ "doc_kind": "order",
+ "order_type": "FA/32/2024",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBMRbVSQzjjGTgRjreJtt44lZsHQNA5UxhybMnbTR1uR&caseno=FA/32/2024&cCode=1&cino=UKHC010024222024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c08d31dc375559c652ee2db88fdbbfe2d5c1b2bd7b6c89074cec4fe31e34f60e",
+ "fetched_at": "2026-10-15T14:56:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

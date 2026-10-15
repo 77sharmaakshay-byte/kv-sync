@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/295/2012:2019-04-08-005",
+ "title": "STATE OF UTTARAKHAND versus M/S HYDEL CONSTRUCTION PVT. LTD",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "M/S HYDEL CONSTRUCTION PVT. LTD",
+ "case_no": "AO/295/2012",
+ "case_type": "AO",
+ "decision_date": "2019-04-08",
+ "cnr": "UKHC010013452012",
+ "doc_kind": "order",
+ "order_type": "AO/295/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrO3TgzH9Qt3jusrdoBS27XzaO9L8242tAO%2F57Lt4G%2B10&caseno=AO/295/2012&cCode=1&cino=UKHC010013452012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "373a63c1e05c3c8a6ed403a8c06377d0fc44e9ca4d48682b8204e33a2cf2f67b",
+ "fetched_at": "2026-10-15T14:57:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

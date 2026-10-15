@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1972/2022:2023-10-10-006",
+ "title": "ANCHAL POKHRIYAL versus STATE OF UTTARAKHAND THROGH SECRETARY FINANCE",
+ "petitioner": "ANCHAL POKHRIYAL",
+ "respondent": "STATE OF UTTARAKHAND THROGH SECRETARY FINANCE",
+ "case_no": "WPSS/1972/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-10-10",
+ "cnr": "UKHC010151502022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1972/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0zqn2x1AM09XYoNIF834WCpc25Y9CT8z8Sq%2FQ9%2Btrk1D&caseno=WPSS/1972/2022&cCode=1&cino=UKHC010151502022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e86924dff2f0d8d6ec14def013521e273abf08d3fdb1a33cc3feb8dc4c81d027",
+ "fetched_at": "2026-10-15T15:01:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

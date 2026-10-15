@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1969/2022:2023-09-05-004",
+ "title": "HEMANTI versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "HEMANTI",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/1969/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-09-05",
+ "cnr": "UKHC010151032022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1969/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0z0AycTG5V1jw8dbwqzqPEOllOgnL%2BTiXtchhrEGroCz&caseno=WPSS/1969/2022&cCode=1&cino=UKHC010151032022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9965986a6cddfbfc6823ef603b278475b6dadecfb21bdc28310c5724e8e616b5",
+ "fetched_at": "2026-10-15T15:01:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1998/2022:2023-09-05-004",
+ "title": "MANMOHAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MANMOHAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1998/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-09-05",
+ "cnr": "UKHC010153252022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1998/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT09%2B3f2r57yKX55umHcSOq0xNbdHmwQzr1kUnsB4LI6kV&caseno=WPSS/1998/2022&cCode=1&cino=UKHC010153252022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9965986a6cddfbfc6823ef603b278475b6dadecfb21bdc28310c5724e8e616b5",
+ "fetched_at": "2026-10-15T15:05:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

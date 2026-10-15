@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/455/2023:2025-10-16-005",
+ "title": "STATE OF UTTARAKHAND versus SMT PUSHPALATA",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "SMT PUSHPALATA",
+ "case_no": "WPSB/455/2023",
+ "case_type": "WPSB",
+ "decision_date": "2025-10-16",
+ "cnr": "UKHC010165612023",
+ "doc_kind": "order",
+ "order_type": "WPSB/455/2023",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS (AFTER FRESH) -30",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYxNzvG0txh3PzwLEdFvqKDxJZrivXIdeWOMji5cjCHYi&caseno=WPSB/455/2023&cCode=1&cino=UKHC010165612023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ad30c7541193957728e94921a5d7d77f318e1dcf12bee587c92e77e6870883db",
+ "fetched_at": "2026-10-15T15:12:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

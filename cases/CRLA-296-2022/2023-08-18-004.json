@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/296/2022:2023-08-18-004",
+ "title": "YUSUF versus STATE OF UTTARAKHAND AND OTHERS",
+ "petitioner": "YUSUF",
+ "respondent": "STATE OF UTTARAKHAND AND OTHERS",
+ "case_no": "CRLA/296/2022",
+ "case_type": "CRLA",
+ "decision_date": "2023-08-18",
+ "cnr": "UKHC010112552022",
+ "doc_kind": "order",
+ "order_type": "CRLA/296/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wKdpdXFoX5fXfqgMKMBI%2BAdF%2FkI2cWonV4FeI2BwPsC&caseno=CRLA/296/2022&cCode=1&cino=UKHC010112552022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ceb713081e7165bf341d67b94a2a247f3ac2af9269b40c0b2a2a316923212828",
+ "fetched_at": "2026-10-15T14:56:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

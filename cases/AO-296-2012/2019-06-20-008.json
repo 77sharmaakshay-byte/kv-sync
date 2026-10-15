@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/296/2012:2019-06-20-008",
+ "title": "STATE OF UTTARAKHAND versus M/S HYDEL CONSTRUCTION PVT. LTD. DEHRADUN",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "M/S HYDEL CONSTRUCTION PVT. LTD. DEHRADUN",
+ "case_no": "AO/296/2012",
+ "case_type": "AO",
+ "decision_date": "2019-06-20",
+ "cnr": "UKHC010005212012",
+ "doc_kind": "order",
+ "order_type": "AO/296/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcMFHNdTJeubpoXY2iQcvWls&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "71d29b617c2d83d8c4f7cf6e7ff612147af25a9e54e1687f823bba7815119440",
+ "fetched_at": "2026-10-15T14:57:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

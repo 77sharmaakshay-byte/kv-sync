@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:GA/116/2022:2023-08-18-001",
+ "title": "STATE OF UTTARAKHAND versus LIYAKAT",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "LIYAKAT",
+ "case_no": "GA/116/2022",
+ "case_type": "GA",
+ "decision_date": "2023-08-18",
+ "cnr": "UKHC010193632022",
+ "doc_kind": "order",
+ "order_type": "GA/116/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07rNlj8NgBYCivb2O1o5nU1tmb706nr6LLWhmw6TTs6Q&caseno=GA/116/2022&cCode=1&cino=UKHC010193632022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ceb713081e7165bf341d67b94a2a247f3ac2af9269b40c0b2a2a316923212828",
+ "fetched_at": "2026-10-15T14:56:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

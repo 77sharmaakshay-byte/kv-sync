@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/137/2020:2020-06-29-001",
+ "title": "SHEKHAR PRAKASH PATWA versus STATE OF UTTARAKHAND",
+ "petitioner": "SHEKHAR PRAKASH PATWA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/137/2020",
+ "case_type": "WPSB",
+ "decision_date": "2020-06-29",
+ "cnr": "UKHC010056192020",
+ "doc_kind": "order",
+ "order_type": "WPSB/137/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjPdmQwnp%2B4hcNJWi72987mO3Qt9MB10WTN8HCTarImZR&caseno=WPSB/137/2020&cCode=1&cino=UKHC010056192020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "78537c1a1d8c13a588a7f8a8662c7455f911afd4db671fb0e5800764e8ff2980",
+ "fetched_at": "2026-10-15T15:15:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

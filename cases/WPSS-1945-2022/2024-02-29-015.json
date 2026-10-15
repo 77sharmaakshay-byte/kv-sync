@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1945/2022:2024-02-29-015",
+ "title": "BABITA BHANDARI versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "BABITA BHANDARI",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/1945/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-02-29",
+ "cnr": "UKHC010147702022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1945/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0991cXE6p2%2Bep9n0nqerMpH0fJ3RcA2M9aIgsaXv%2FThv&caseno=WPSS/1945/2022&cCode=1&cino=UKHC010147702022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "20b4299263d4bca0bd78beeb1f097b3719fa5509c6331c9f2028d70f480e1107",
+ "fetched_at": "2026-10-15T15:00:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/296/2012:2017-10-09-006",
+ "title": "STATE OF UTTARAKHAND versus M/S HYDEL CONSTRUCTION PVT. LTD. DEHRADUN",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "M/S HYDEL CONSTRUCTION PVT. LTD. DEHRADUN",
+ "case_no": "AO/296/2012",
+ "case_type": "AO",
+ "decision_date": "2017-10-09",
+ "cnr": "UKHC010005212012",
+ "doc_kind": "order",
+ "order_type": "AO/296/2012",
+ "judges": [
+  "Hon'ble Mr. Justice V. K. Bist"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNxuKsITCYiFBGdjQV46vD%2B&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "224c21f60fa7734176b63eb3d754a26d6fb28b014f322a8fe4444557152e93d3",
+ "fetched_at": "2026-10-15T14:57:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

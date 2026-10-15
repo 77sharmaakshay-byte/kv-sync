@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1937/2022:2023-11-01-007",
+ "title": "KULDEEP SINGH RAUTHAN versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "KULDEEP SINGH RAUTHAN",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/1937/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-11-01",
+ "cnr": "UKHC010147492022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1937/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0whpV0qSivpTUOxE1Rn%2B3u2PeTw3YxBclppRF05tBrbY&caseno=WPSS/1937/2022&cCode=1&cino=UKHC010147492022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d6915839168399af395b0310b3b2498af00414488b3d8b336629b3fd0cc4bf42",
+ "fetched_at": "2026-10-15T14:59:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

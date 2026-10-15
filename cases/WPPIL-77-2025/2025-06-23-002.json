@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/77/2025:2025-06-23-002",
+ "title": "MOHD. JAMIL versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD. JAMIL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/77/2025",
+ "case_type": "WPPIL",
+ "decision_date": "2025-06-23",
+ "cnr": "UKHC010065582025",
+ "doc_kind": "order",
+ "order_type": "WPPIL/77/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwaZQ%2BeGiXT0ROYYQPzS27dwqcBniIVGxTfHVDDd9e3l&caseno=WPPIL/77/2025&cCode=1&cino=UKHC010065582025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b3982706a92f67df5d112a2e13febebfd7f8b98a985b1f80b69878a7250191fe",
+ "fetched_at": "2026-10-15T15:09:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

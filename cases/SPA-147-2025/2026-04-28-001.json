@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/147/2025:2026-04-28-001",
+ "title": "UTTARAKHAND FOREST DEVELOPMENT CORPORATION versus PRAKASH CHANDRA PANDEY",
+ "petitioner": "UTTARAKHAND FOREST DEVELOPMENT CORPORATION",
+ "respondent": "PRAKASH CHANDRA PANDEY",
+ "case_no": "SPA/147/2025",
+ "case_type": "SPA",
+ "decision_date": "2026-04-28",
+ "cnr": "UKHC010086842025",
+ "doc_kind": "order",
+ "order_type": "SPA/147/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm10JotArkQ%2B64EZBvD2lU3r3llC6glWm5mWjhwTbapWT&caseno=SPA/147/2025&cCode=1&cino=UKHC010086842025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a0b538769b7b4272d20824d62b21e0c1086c8c771381939906885d2c557425aa",
+ "fetched_at": "2026-10-15T15:17:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

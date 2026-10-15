@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/208/2026:2026-10-15-001",
+ "title": "JYOTI BISHT versus DHEERAJ SINGH",
+ "petitioner": "JYOTI BISHT",
+ "respondent": "DHEERAJ SINGH",
+ "case_no": "FA/208/2026",
+ "case_type": "FA",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010185512026",
+ "doc_kind": "judgment",
+ "order_type": "FA/208/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiN3wjAjtguAWdFxDHS7qdmghADAWLyra3auCSP1H%2Fhi&caseno=FA/208/2026&cCode=1&cino=UKHC010185512026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b83398940bc7ab7c67b7abe901c557b44538ab675bca97b0c0161c9c4a7f739b",
+ "fetched_at": "2026-10-15T14:55:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

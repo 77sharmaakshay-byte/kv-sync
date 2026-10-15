@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/477/2022:2024-08-21-004",
+ "title": "VINOD KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "VINOD KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/477/2022",
+ "case_type": "SPA",
+ "decision_date": "2024-08-21",
+ "cnr": "UKHC010193492022",
+ "doc_kind": "order",
+ "order_type": "SPA/477/2022",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT04fQMJIFJR72PQYzia73iQV7ArfSOE3qh40nrgc34SVT&caseno=SPA/477/2022&cCode=1&cino=UKHC010193492022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ad09a287c6715ccb1c6daf1a24cf3d62515c7f1760c9431ab4e43ed1d7a3fdc2",
+ "fetched_at": "2026-10-15T15:12:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

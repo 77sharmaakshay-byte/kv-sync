@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/51/2026:2026-09-30-001",
+ "title": "NIKHILESH GHARAMI versus STATE OF UTTARAKHAND",
+ "petitioner": "NIKHILESH GHARAMI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/51/2026",
+ "case_type": "WPPIL",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010055692026",
+ "doc_kind": "order",
+ "order_type": "WPPIL/51/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES AS DEFECTIVE -236",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmQh%2FrgVrp%2FRIq7gcWUFXG0O8Ehjj2Il%2FFGw2xj9HSi8&caseno=WPPIL/51/2026&cCode=1&cino=UKHC010055692026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "176c47e61b5d3e90f12c8c8b4c9729d3996777259a94f6446849ed717f7ef5c2",
+ "fetched_at": "2026-10-15T15:07:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

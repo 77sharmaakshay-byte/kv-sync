@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/151/2025:2026-05-19-002",
+ "title": "UTTARAKHAND FOREST DEVELOPMENT CORPORATION versus VIMLA DEVI",
+ "petitioner": "UTTARAKHAND FOREST DEVELOPMENT CORPORATION",
+ "respondent": "VIMLA DEVI",
+ "case_no": "SPA/151/2025",
+ "case_type": "SPA",
+ "decision_date": "2026-05-19",
+ "cnr": "UKHC010087372025",
+ "doc_kind": "order",
+ "order_type": "SPA/151/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2TDStHuTz3P8CEHiLjA3Q1SThvWmgWJC%2F4CL%2F%2FvpmXv&caseno=SPA/151/2025&cCode=1&cino=UKHC010087372025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3bdc851b1e14e92da887c45cb8adbb5626ed4d2f19e36d4e5f7e9fbacaa7bf91",
+ "fetched_at": "2026-10-15T15:11:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

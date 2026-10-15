@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1971/2022:2026-07-16-024",
+ "title": "MINAKSHI SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "MINAKSHI SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1971/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-16",
+ "cnr": "UKHC010151482022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1971/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2FRM%2FZzQKrlpz61pmFndzCz87WvHAD8DTO4XsQDTa4tV&caseno=WPSS/1971/2022&cCode=1&cino=UKHC010151482022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9adebab0270cc137fb896dd5f34fff78bcead71ea9c1fb9e4b8fe484451aba1c",
+ "fetched_at": "2026-10-15T15:02:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

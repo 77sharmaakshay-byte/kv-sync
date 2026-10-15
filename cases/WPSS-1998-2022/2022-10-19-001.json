@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1998/2022:2022-10-19-001",
+ "title": "MANMOHAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MANMOHAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1998/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-10-19",
+ "cnr": "UKHC010153252022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1998/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT09%2B3f2r57yKX55umHcSOq0w6dfrm3rc7DhU2X%2Fx1CgVx&caseno=WPSS/1998/2022&cCode=1&cino=UKHC010153252022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ecfcc1365d1a31b6e4b6a746a47cbabef74c89e24c550cadecdc01f20a21b7f7",
+ "fetched_at": "2026-10-15T15:05:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

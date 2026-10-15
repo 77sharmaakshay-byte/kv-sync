@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/304/2019:2026-09-23-001",
+ "title": "BALA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "BALA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/304/2019",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-23",
+ "cnr": "UKHC010082242019",
+ "doc_kind": "order",
+ "order_type": "CRLR/304/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR REFERRAL TO THE SPECIAL MEDIATION DRIVE-MEDIATION FOR NATION -256",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF8oHm%2FcypiOBX4SQtM%2BDClG8P9OnYIn3hiLiuZ0aHKME&caseno=CRLR/304/2019&cCode=1&cino=UKHC010082242019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f52123410f2c47a588ce4e82b5b0de103e541c8e4396880512dfb4a9b45a0a41",
+ "fetched_at": "2026-10-15T15:13:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

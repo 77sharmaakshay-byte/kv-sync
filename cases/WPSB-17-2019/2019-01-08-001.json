@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/17/2019:2019-01-08-001",
+ "title": "ATISH versus UNION OF INDIA",
+ "petitioner": "ATISH",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSB/17/2019",
+ "case_type": "WPSB",
+ "decision_date": "2019-01-08",
+ "cnr": "UKHC010003702019",
+ "doc_kind": "order",
+ "order_type": "WPSB/17/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFwilBRx7GqmBhlkMTHST6OL14gTHV8IeUdgLsxWEyqo9&caseno=WPSB/17/2019&cCode=1&cino=UKHC010003702019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "38b149e533050c0cd20a41e5d405a43238ff4c22e81d558a765ebc960387020a",
+ "fetched_at": "2026-10-15T15:13:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/69/2021:2024-05-02-002",
+ "title": "NEERAJ KUMAR versus NEETU VERMA",
+ "petitioner": "NEERAJ KUMAR",
+ "respondent": "NEETU VERMA",
+ "case_no": "FA/69/2021",
+ "case_type": "FA",
+ "decision_date": "2024-05-02",
+ "cnr": "UKHC010118662021",
+ "doc_kind": "order",
+ "order_type": "FA/69/2021",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkE6vmHDlvHCPZRv8o3WioZMP8JiPJMjnqe42rdXhpG%2FH&caseno=FA/69/2021&cCode=1&cino=UKHC010118662021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a771696166cdf491a9301eb99f6e7da1b17a49c3c29b10c40b76b42b248459dc",
+ "fetched_at": "2026-10-15T14:56:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

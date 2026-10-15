@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2400/2019:2022-08-24-003",
+ "title": "RITA SAINI versus CANTONMENT BOARD DEHRADUN",
+ "petitioner": "RITA SAINI",
+ "respondent": "CANTONMENT BOARD DEHRADUN",
+ "case_no": "WPMS/2400/2019",
+ "case_type": "WPMS",
+ "decision_date": "2022-08-24",
+ "cnr": "UKHC010127332019",
+ "doc_kind": "order",
+ "order_type": "WPMS/2400/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3ISzVQFA6ZUEDbKLyvt4bufWC2ehezJvU0KeaaSQuan&caseno=WPMS/2400/2019&cCode=1&cino=UKHC010127332019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "66aba70a51e13b589d61ee3a738b7226c76be7cef1ec6a4aa8939ee1c238563e",
+ "fetched_at": "2026-10-15T15:13:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

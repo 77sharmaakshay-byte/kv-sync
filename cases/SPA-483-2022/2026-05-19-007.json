@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/483/2022:2026-05-19-007",
+ "title": "SUBHASH NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "SUBHASH NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/483/2022",
+ "case_type": "SPA",
+ "decision_date": "2026-05-19",
+ "cnr": "UKHC010193442022",
+ "doc_kind": "order",
+ "order_type": "SPA/483/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y4Sxyj9590u8iU8pIOCndGcQle%2Fhmjos5lRTcglDY48&caseno=SPA/483/2022&cCode=1&cino=UKHC010193442022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9012cd442d95247f36f80d5ff3eb889ee68ca007c51cad0e95231dc50b3feb8b",
+ "fetched_at": "2026-10-15T15:08:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

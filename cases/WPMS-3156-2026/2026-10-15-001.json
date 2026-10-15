@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3156/2026:2026-10-15-001",
+ "title": "STATE OF UTTARAKHAND versus BHAGAT SINGH",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "BHAGAT SINGH",
+ "case_no": "WPMS/3156/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010181582026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3156/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpa7CAcKEHVHSO%2BxHjy086SBQ90iAJ1QHTG%2FRm03UGD7&caseno=WPMS/3156/2026&cCode=1&cino=UKHC010181582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "22adc4ea0a2ff6ad83de5f20f2ee0dcfcb563c3ca275163d3266c5e2abc02106",
+ "fetched_at": "2026-10-15T14:57:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

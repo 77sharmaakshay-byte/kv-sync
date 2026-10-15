@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1994/2022:2023-11-01-006",
+ "title": "MANJU DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "MANJU DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1994/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-11-01",
+ "cnr": "UKHC010152722022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1994/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wTA0%2FiOw470dFGeKlhuFwCIU%2B6aqI4%2BGz1ZEttGvR5c&caseno=WPSS/1994/2022&cCode=1&cino=UKHC010152722022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d6915839168399af395b0310b3b2498af00414488b3d8b336629b3fd0cc4bf42",
+ "fetched_at": "2026-10-15T15:03:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

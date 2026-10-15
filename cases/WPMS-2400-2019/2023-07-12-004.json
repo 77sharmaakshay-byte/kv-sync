@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2400/2019:2023-07-12-004",
+ "title": "RITA SAINI versus CANTONMENT BOARD DEHRADUN",
+ "petitioner": "RITA SAINI",
+ "respondent": "CANTONMENT BOARD DEHRADUN",
+ "case_no": "WPMS/2400/2019",
+ "case_type": "WPMS",
+ "decision_date": "2023-07-12",
+ "cnr": "UKHC010127332019",
+ "doc_kind": "order",
+ "order_type": "WPMS/2400/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3ISzVQFA6ZUEDbKLyvt4bvSKvwUVLPYgnpIu05nxHe0&caseno=WPMS/2400/2019&cCode=1&cino=UKHC010127332019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2b982ddc0b84df15d439587b27d774a13e05296c41d2deebcd5c95b6b2907581",
+ "fetched_at": "2026-10-15T15:13:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

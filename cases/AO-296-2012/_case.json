@@ -1,0 +1,922 @@
+{
+ "cnr_number": "UKHC010005212012",
+ "case_type": "AO",
+ "filing_number": "AO /1000220/2012",
+ "filing_date": "2012-06-27",
+ "registration_number": "AO /296/2012",
+ "registration_date": "2012-06-27",
+ "first_hearing_date": "2013-10-31",
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "FOR ORDERS -103",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Uttarkashi",
+ "petitioners": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "Advocate- C S C"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "M/S HYDEL CONSTRUCTION PVT. LTD. DEHRADUN",
+   "advocate": "HARI MOHAN BHATIA,"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Arbitration and Conciliation Act, 1996 (Act No. 26 of 1996)",
+   "sections": "37"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-15",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-15",
+   "business_date": "2026-09-18",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-18",
+   "business_date": "2026-08-13",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-13",
+   "business_date": "2026-07-23",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-07-23",
+   "business_date": "2026-07-03",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-07-03",
+   "business_date": "2026-07-02",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-07-02",
+   "business_date": "2026-06-12",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-06-12",
+   "business_date": "2026-06-11",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-06-11",
+   "business_date": "2026-06-05",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-06-05",
+   "business_date": "2026-06-04",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-06-04",
+   "business_date": "2026-05-21",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-05-21",
+   "business_date": "2026-03-27",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-03-27",
+   "business_date": "2026-02-12",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-01-10",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-01-10",
+   "business_date": "2026-01-08",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-01-08",
+   "business_date": "2025-12-19",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2025-12-19",
+   "business_date": "2025-12-18",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-18",
+   "business_date": "2025-12-04",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-04",
+   "business_date": "2025-11-14",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2025-11-14",
+   "business_date": "2025-11-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-11-13",
+   "business_date": "2025-10-31",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2025-10-31",
+   "business_date": "2025-10-30",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-10-30",
+   "business_date": "2025-09-19",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-09-17",
+   "business_date": "2025-07-09",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2025-07-09",
+   "business_date": "2025-07-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-08",
+   "business_date": "2025-05-20",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-10-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2024-10-03",
+   "business_date": "2024-07-29",
+   "purpose": "OLD MATTERS -55",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-07-15",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-15",
+   "business_date": "2024-03-19",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-15",
+   "business_date": "2024-03-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-18",
+   "business_date": "2024-01-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-01-10",
+   "business_date": "2023-09-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-09-18",
+   "business_date": "2023-08-01",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-08-16",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-08-16",
+   "business_date": "2022-06-10",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-05-21",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-04-26",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-03-23",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-03-07",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-01-12",
+   "business_date": "2021-12-22",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-05-05",
+   "business_date": "2020-03-19",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-03-17",
+   "business_date": "2020-02-13",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-02-13",
+   "business_date": "2020-01-08",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-01-08",
+   "business_date": "2019-12-11",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-12-11",
+   "business_date": "2019-11-20",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-11-20",
+   "business_date": "2019-10-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-10-16",
+   "business_date": "2019-08-21",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-08-21",
+   "business_date": "2019-07-31",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-07-31",
+   "business_date": "2019-06-20",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-05-15",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-05-15",
+   "business_date": "2019-05-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-04-08",
+   "business_date": "2019-03-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-10-22",
+   "business_date": "2018-04-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-04-18",
+   "business_date": "2017-11-30",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-11-30",
+   "business_date": "2017-11-07",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-11-07",
+   "business_date": "2017-11-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-11-06",
+   "business_date": "2017-10-09",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-10-09",
+   "business_date": "2017-09-20",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-09-20",
+   "business_date": "2017-09-07",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-09-07",
+   "business_date": "2017-09-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-09-06",
+   "business_date": "2017-09-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-09-05",
+   "business_date": "2017-07-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-07-13",
+   "business_date": "2017-07-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-07-06",
+   "business_date": "2017-06-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2013-12-30",
+   "business_date": "2013-11-20",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2013-11-20",
+   "business_date": "2013-10-31",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2013-10-31",
+   "business_date": "2012-08-21",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-08-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-08-13",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-08-06",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-08-04",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-07-27",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-07-20",
+   "purpose": "FOR ORDER (DEFECTIVE MATTERS) -70",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-07-17",
+   "purpose": "FOR ORDER (DEFECTIVE MATTERS) -70",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-07-16",
+   "purpose": "FOR ORDER (DEFECTIVE MATTERS) -70",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-07-11",
+   "purpose": "FOR ORDER (DEFECTIVE MATTERS) -70",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2012-07-27",
+   "order_type": "AO/296/2012",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcPRaCqkOITHqkwEaMHBSGLi&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2013-10-31",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice U. C. Dhyani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOAnLA8zN9Nf%2Fe9aUr7SP8q&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2013-12-31",
+   "order_type": "AO/296/2012",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcPwFVrrQmUk2M9rxv5MwOzr&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-08-31",
+   "order_type": "AO/296/2012",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNKXRQoAkgNLIr0OA078WJP&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-09-07",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice V. K. Bist",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcMihTq7ncGyAUnIupNbrPwM&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-10-09",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice V. K. Bist",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNxuKsITCYiFBGdjQV46vD%2B&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-05-08",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcMpbbVhHDjqhR5LyrMQNf%2FO&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-06-20",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcMFHNdTJeubpoXY2iQcvWls&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-07-31",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOZ3ejwgpG3%2BLHmM%2FY83Gd%2B&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-08-21",
+   "order_type": "AO/295/2012",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrO3TgzH9Qt3jusrdoBS27XzzSN%2F9gECDDs1U%2F9mVFqaq&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-10-16",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOPO%2BdlqcoNqrFiPVSb7yzd&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-11-20",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOSU%2BBt5xcQDWCXxJsFqUCC&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-12-11",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcP%2F7sHJoIWfnZQcfeLCxeTc&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-06-10",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcMy4p6EkI25r255Ib3AZX9y&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-08-16",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcO9dCZIsisMfZ1AdEYT8xJO&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-08-01",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNILRAyZ95rHg%2BunXmareCd&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-01-10",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcN%2FgHExfxvzKGJ6wGfzV9g3&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-07-15",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcPE8QjA01r%2BqvkbSQWnGVMX&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-07-29",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcPbqRWGW%2F92RQKZVL3ijjTb&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-05-20",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOySr7gjWsMreEKMnk%2FsbbT&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-07-08",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcM0Viveip%2FKQWNyfRYEcxQS&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-10-30",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNaAZHDeXzJYojJts%2Bta0KY&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-10-31",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcM5attubHt5Td5FCBAgnllS&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-11-13",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcPtJqve9yuor3g15uHkbdEj&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-11-14",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNmDaaUbVg3Oq1Bhg6Huk0Z&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-12-04",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcPttgebJXDbhY5ZnKHOpbCo&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-07-09",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcMCzgt7L4lzX6jLF2cQ6eN7&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-12-18",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOb%2FX9dugyAyW5Ps4HGhfR0&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-01-08",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNIopkE7oFnjMpXtcvyNWrq&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-01-10",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOxJGKKPdcsSs4sTubf9tMJ&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-21",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOb8Lf6%2F8p9FpOUg9SZWLFM&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-04",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNKS%2BLLTpeekg0mQF4WyMxg&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-05",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcO%2BuBYPW5GNVnKSIOOczCk0&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-11",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOe1y1%2F3oS%2BlKbddSLsXkWI&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-12",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNyB8Az4h7KdjGgxSszkQvF&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-07-03",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOQKql0rLeQwjndp1v6AFYc&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-07-23",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcOvQLKIfNHNiFkF56Kv2fvW&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-15",
+   "order_type": "AO/296/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcNtG0zYK%2BQUszmwTBhlzZug&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/296/2022:2026-10-15-008",
+ "title": "YUSUF versus STATE OF UTTARAKHAND AND OTHERS",
+ "petitioner": "YUSUF",
+ "respondent": "STATE OF UTTARAKHAND AND OTHERS",
+ "case_no": "CRLA/296/2022",
+ "case_type": "CRLA",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010112552022",
+ "doc_kind": "order",
+ "order_type": "CRLA/296/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wKdpdXFoX5fXfqgMKMBI%2BC2Z7aRs56685x7sKscua5y&caseno=CRLA/296/2022&cCode=1&cino=UKHC010112552022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "57037dad2197089e3b97db470955e56ccdda4acc219d85d6087b58cfbfed8513",
+ "fetched_at": "2026-10-15T14:56:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

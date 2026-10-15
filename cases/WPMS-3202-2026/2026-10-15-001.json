@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3202/2026:2026-10-15-001",
+ "title": "HARDEV SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARDEV SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3202/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010184282026",
+ "doc_kind": "judgment",
+ "order_type": "WPMS/3202/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgv%2FnPjm2U%2BX3pc116gx8leyFEKgpU6SBJKhZE7GNT9X&caseno=WPMS/3202/2026&cCode=1&cino=UKHC010184282026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d8e854b8d3c883a1538641da8a59492d39c3618860091cb5cc8631101ca4580a",
+ "fetched_at": "2026-10-15T14:57:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

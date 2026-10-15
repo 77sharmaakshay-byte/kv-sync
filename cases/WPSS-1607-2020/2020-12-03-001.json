@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1607/2020:2020-12-03-001",
+ "title": "DEVKI PANDEY versus STATE OF UTTARAKHAND",
+ "petitioner": "DEVKI PANDEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1607/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-12-03",
+ "cnr": "UKHC010123982020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1607/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "FRESH CASES AS DEFECTIVE -236",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjERQ42X1VqcNQ%2FdHJ30fSZrNMbK%2BqgHMEYrjwmHvB4Md&caseno=WPSS/1607/2020&cCode=1&cino=UKHC010123982020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c6535998be1bf65e08587f610f14a70fe2f8077d1b87dd8211e7c9e853522a63",
+ "fetched_at": "2026-10-15T15:10:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/502/2025:2025-12-11-002",
+ "title": "HANSI SUYAL versus AJAY NAUDIYAL",
+ "petitioner": "HANSI SUYAL",
+ "respondent": "AJAY NAUDIYAL",
+ "case_no": "CLCON/502/2025",
+ "case_type": "CLCON",
+ "decision_date": "2025-12-11",
+ "cnr": "UKHC010153862025",
+ "doc_kind": "order",
+ "order_type": "CLCON/502/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwQbI5lWNCayfRCflcKd4GK8S6BE2Rh3XoahFVo4dyFL&caseno=CLCON/502/2025&cCode=1&cino=UKHC010153862025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "83fed7a9b2660c2413ae475a2142e00d20bab5da12528fd3a6b2e023712222ac",
+ "fetched_at": "2026-10-15T15:08:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

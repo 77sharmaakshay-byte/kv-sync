@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/69/2021:2026-02-13-006",
+ "title": "NEERAJ KUMAR versus NEETU VERMA",
+ "petitioner": "NEERAJ KUMAR",
+ "respondent": "NEETU VERMA",
+ "case_no": "FA/69/2021",
+ "case_type": "FA",
+ "decision_date": "2026-02-13",
+ "cnr": "UKHC010118662021",
+ "doc_kind": "order",
+ "order_type": "FA/69/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkE6vmHDlvHCPZRv8o3WioZOaXgUal2dshvtUrG7f429y&caseno=FA/69/2021&cCode=1&cino=UKHC010118662021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1e9ce7ee4bcf16848885c77e8ee7578545db1275b28803923ab46dac6381abbc",
+ "fetched_at": "2026-10-15T14:56:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

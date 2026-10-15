@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/296/2012:2019-05-08-007",
+ "title": "STATE OF UTTARAKHAND versus M/S HYDEL CONSTRUCTION PVT. LTD. DEHRADUN",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "M/S HYDEL CONSTRUCTION PVT. LTD. DEHRADUN",
+ "case_no": "AO/296/2012",
+ "case_type": "AO",
+ "decision_date": "2019-05-08",
+ "cnr": "UKHC010005212012",
+ "doc_kind": "order",
+ "order_type": "AO/296/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrAYrq04hMyWZGtSzWNAxfcMpbbVhHDjqhR5LyrMQNf%2FO&caseno=AO/296/2012&cCode=1&cino=UKHC010005212012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "79c767a126b3f20f2c14fe9f5c3f5581ad49d3da091d98e21c97e7c4df52b178",
+ "fetched_at": "2026-10-15T14:57:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

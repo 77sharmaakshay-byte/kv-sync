@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/508/2023:2024-01-05-005",
+ "title": "SAMSHER ALI versus STATE OF UTTARAKHAND THROUGH SECRETARY PERSONAL DEHRADUN",
+ "petitioner": "SAMSHER ALI",
+ "respondent": "STATE OF UTTARAKHAND THROUGH SECRETARY PERSONAL DEHRADUN",
+ "case_no": "WPSB/508/2023",
+ "case_type": "WPSB",
+ "decision_date": "2024-01-05",
+ "cnr": "UKHC010183572023",
+ "doc_kind": "order",
+ "order_type": "WPSB/508/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY4Pa6N8dZ2FPsI5sztyohZUqqT1qKnKlLGG6YPVEikS3&caseno=WPSB/508/2023&cCode=1&cino=UKHC010183572023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "401ac584faed803c26c5139089e29bc63cdc9d3ffef6b2671f1470c298f5fe18",
+ "fetched_at": "2026-10-15T15:11:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1945/2022:2023-02-25-003",
+ "title": "BABITA BHANDARI versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "BABITA BHANDARI",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/1945/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-02-25",
+ "cnr": "UKHC010147702022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1945/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0991cXE6p2%2Bep9n0nqerMpFXljkRNW4vbYHouc4u1yY7&caseno=WPSS/1945/2022&cCode=1&cino=UKHC010147702022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b7e2a9250ad78bc06632ee1d06a9044c3df2291f506f3ae1e14bce5eff6c936a",
+ "fetched_at": "2026-10-15T15:00:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

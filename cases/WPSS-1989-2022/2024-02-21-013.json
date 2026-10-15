@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1989/2022:2024-02-21-013",
+ "title": "ISHANT KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ISHANT KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1989/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-02-21",
+ "cnr": "UKHC010152742022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1989/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT02reXMF%2B%2FjjkPteXYmXKY%2BVHMC2Sv9h%2FEXupzsJiwhgC&caseno=WPSS/1989/2022&cCode=1&cino=UKHC010152742022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d60e2d61813ffe7d5e93ae38e88afaeaa924455a6329a6baa6bfc36044378a76",
+ "fetched_at": "2026-10-15T15:05:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

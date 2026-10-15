@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/483/2022:2023-09-20-001",
+ "title": "SUBHASH NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "SUBHASH NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/483/2022",
+ "case_type": "SPA",
+ "decision_date": "2023-09-20",
+ "cnr": "UKHC010193442022",
+ "doc_kind": "order",
+ "order_type": "SPA/483/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y4Sxyj9590u8iU8pIOCndGj1s2lpHK%2FLNDFZqROamUf&caseno=SPA/483/2022&cCode=1&cino=UKHC010193442022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3a07c9270442483c783879d6d4b3b63997250584282d034462584d8ddc1e7487",
+ "fetched_at": "2026-10-15T15:08:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

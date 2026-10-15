@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1961/2022:2024-01-04-011",
+ "title": "JEEVAN SINGH CHAUSALI versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "JEEVAN SINGH CHAUSALI",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/1961/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-04",
+ "cnr": "UKHC010150162022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1961/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0z8hmhLnc7bpMD%2BaDnmJXNkj2g%2B4Xue6sa3c9AHigX6W&caseno=WPSS/1961/2022&cCode=1&cino=UKHC010150162022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6268a7d96c74a3637f3a994b7d1dccc501b9e8a88d1cc628d26dc63f28934fd4",
+ "fetched_at": "2026-10-15T15:01:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

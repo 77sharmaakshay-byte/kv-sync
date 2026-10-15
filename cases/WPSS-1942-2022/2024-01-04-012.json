@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1942/2022:2024-01-04-012",
+ "title": "MAHAVEER SINGH BUTOLA versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHR",
+ "petitioner": "MAHAVEER SINGH BUTOLA",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHR",
+ "case_no": "WPSS/1942/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-04",
+ "cnr": "UKHC010147502022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1942/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wuWl1R1Or3Fr%2FFopgnh696UAL4HNlzbrcsw2nt4%2Bca%2F&caseno=WPSS/1942/2022&cCode=1&cino=UKHC010147502022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6268a7d96c74a3637f3a994b7d1dccc501b9e8a88d1cc628d26dc63f28934fd4",
+ "fetched_at": "2026-10-15T15:00:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

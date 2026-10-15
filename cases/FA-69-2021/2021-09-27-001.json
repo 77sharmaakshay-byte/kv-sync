@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/69/2021:2021-09-27-001",
+ "title": "NEERAJ KUMAR versus NEETU VERMA",
+ "petitioner": "NEERAJ KUMAR",
+ "respondent": "NEETU VERMA",
+ "case_no": "FA/69/2021",
+ "case_type": "FA",
+ "decision_date": "2021-09-27",
+ "cnr": "UKHC010118662021",
+ "doc_kind": "order",
+ "order_type": "FA/69/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkE6vmHDlvHCPZRv8o3WioZPLvy%2FoEl2cCDWQnFi4vG6g&caseno=FA/69/2021&cCode=1&cino=UKHC010118662021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2a1525365385684ffa27d0f9742b85607139a7484eab720b6a97bf8b27d88cc4",
+ "fetched_at": "2026-10-15T14:56:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/432/2024:2025-10-09-003",
+ "title": "STATE OF UTTARAKHAND versus CHANDRA SHEKHAR PANDEY",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "CHANDRA SHEKHAR PANDEY",
+ "case_no": "WPSB/432/2024",
+ "case_type": "WPSB",
+ "decision_date": "2025-10-09",
+ "cnr": "UKHC010110652024",
+ "doc_kind": "order",
+ "order_type": "WPSB/432/2024",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcIQ2LA9FZoUqne4dd3fFoOIrQJ16GNDKVQhYISi6cK8U&caseno=WPSB/432/2024&cCode=1&cino=UKHC010110652024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "238274101f6e821a5ad83bb182da14c331248249085cb779c3c3fa6e7a5aa90f",
+ "fetched_at": "2026-10-15T15:15:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

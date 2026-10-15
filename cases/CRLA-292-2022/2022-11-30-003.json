@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/292/2022:2022-11-30-003",
+ "title": "ABDUL GANI versus STATE OF UTTARAKHAND",
+ "petitioner": "ABDUL GANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/292/2022",
+ "case_type": "CRLA",
+ "decision_date": "2022-11-30",
+ "cnr": "UKHC010111242022",
+ "doc_kind": "order",
+ "order_type": "CRLA/292/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wQ8iHCh5T5Au2lZMFjTF46ZtmI9fE7sLKH0eRa36Ny1&caseno=CRLA/292/2022&cCode=1&cino=UKHC010111242022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8a41938ce58bd30766493cb5f39f29e2c9180b8b3fe5ac395528b6a40e91068f",
+ "fetched_at": "2026-10-15T14:56:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

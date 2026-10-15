@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/294/2012:2025-11-14-023",
+ "title": "STATE OF UTTARAKHAND versus M/S HYDEL CONSTRUCTION PVT LTD",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "M/S HYDEL CONSTRUCTION PVT LTD",
+ "case_no": "AO/294/2012",
+ "case_type": "AO",
+ "decision_date": "2025-11-14",
+ "cnr": "UKHC010010692012",
+ "doc_kind": "order",
+ "order_type": "AO/294/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrCF5eUaI3REhltZsS8YR0T7LHgdSDFkIkdC7Dnj7gthT&caseno=AO/294/2012&cCode=1&cino=UKHC010010692012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "630b78d84c5b2fb01afdfa15f0e55b8aa5661f68e831e9489c3715b9c5238811",
+ "fetched_at": "2026-10-15T14:57:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

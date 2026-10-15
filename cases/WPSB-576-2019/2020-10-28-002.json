@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/576/2019:2020-10-28-002",
+ "title": "HARI PRASAD DOBHAL versus STATE OF UTTARAKHAND",
+ "petitioner": "HARI PRASAD DOBHAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/576/2019",
+ "case_type": "WPSB",
+ "decision_date": "2020-10-28",
+ "cnr": "UKHC010208082019",
+ "doc_kind": "order",
+ "order_type": "WPSB/576/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BqiOSC3zU2cY2xzihps1nnSOCc7qvAUyLWWiffV6etD&caseno=WPSB/576/2019&cCode=1&cino=UKHC010208082019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b0381f1658db8009fdd0e380834520db075beb261d0baa944b3b03b43724634c",
+ "fetched_at": "2026-10-15T14:56:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

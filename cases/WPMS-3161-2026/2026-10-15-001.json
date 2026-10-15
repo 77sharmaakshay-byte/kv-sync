@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3161/2026:2026-10-15-001",
+ "title": "STATE OF UTTARAKHAND versus CHANDRA LAL",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "CHANDRA LAL",
+ "case_no": "WPMS/3161/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010181642026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3161/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoAJSVgykPc46wHiusAgMrR13ug4XaJ2jolbatnKsMU9&caseno=WPMS/3161/2026&cCode=1&cino=UKHC010181642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2fe0d928d25da2fdf2068396472cdfafae15e6f7ef67f17a2e6145d069ee72af",
+ "fetched_at": "2026-10-15T14:57:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

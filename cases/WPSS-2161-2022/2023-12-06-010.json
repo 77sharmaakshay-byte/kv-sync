@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2161/2022:2023-12-06-010",
+ "title": "NITISH SINGH JAGWAN versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "NITISH SINGH JAGWAN",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/2161/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-06",
+ "cnr": "UKHC010166302022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2161/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y5Vt9faglpovFdsUW5gyz7xJzFLZ4W%2B4jIBydHQVyrx&caseno=WPSS/2161/2022&cCode=1&cino=UKHC010166302022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9f3997f80a6d636ed502d417dbd07c11e885c44e349e1a957b1c68c1aa4ffd1e",
+ "fetched_at": "2026-10-15T15:06:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

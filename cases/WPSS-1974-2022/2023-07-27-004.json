@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1974/2022:2023-07-27-004",
+ "title": "NIKHIL SAJWAN versus STATE OF UTTARAKHAND THROUGH ITS SECRETARY FINANCE",
+ "petitioner": "NIKHIL SAJWAN",
+ "respondent": "STATE OF UTTARAKHAND THROUGH ITS SECRETARY FINANCE",
+ "case_no": "WPSS/1974/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-07-27",
+ "cnr": "UKHC010151532022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1974/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05z8D0hJyO%2BpkwIwIj1zUdhg7SD3vwxG1P9cwPVCspo4&caseno=WPSS/1974/2022&cCode=1&cino=UKHC010151532022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c253fd3c08bd00bd86af0e7ce7b3e239111d0e65d699e5003d114734e6d3f577",
+ "fetched_at": "2026-10-15T15:02:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

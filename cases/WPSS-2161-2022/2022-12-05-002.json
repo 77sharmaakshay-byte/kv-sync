@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2161/2022:2022-12-05-002",
+ "title": "NITISH SINGH JAGWAN versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "NITISH SINGH JAGWAN",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/2161/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-12-05",
+ "cnr": "UKHC010166302022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2161/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0y5Vt9faglpovFdsUW5gyz4HoeSNqbe%2BQo5Ul7oF9i8i&caseno=WPSS/2161/2022&cCode=1&cino=UKHC010166302022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "968ba512137d478b34e672382006bc0350fc31b14812763dea8248bfee44654a",
+ "fetched_at": "2026-10-15T15:06:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

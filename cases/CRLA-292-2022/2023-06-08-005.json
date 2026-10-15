@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/292/2022:2023-06-08-005",
+ "title": "ABDUL GANI versus STATE OF UTTARAKHAND",
+ "petitioner": "ABDUL GANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/292/2022",
+ "case_type": "CRLA",
+ "decision_date": "2023-06-08",
+ "cnr": "UKHC010111242022",
+ "doc_kind": "order",
+ "order_type": "CRLA/292/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wQ8iHCh5T5Au2lZMFjTF46vgbglJgPe8zFybEiuxhsj&caseno=CRLA/292/2022&cCode=1&cino=UKHC010111242022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "30ceae87850cca290b92cd40fbb01f2269078c71ec1baf1f38ce22ff9eab4c1f",
+ "fetched_at": "2026-10-15T14:56:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

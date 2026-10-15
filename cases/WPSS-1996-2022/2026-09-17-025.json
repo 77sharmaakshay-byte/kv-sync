@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1996/2022:2026-09-17-025",
+ "title": "HARIPRAKASH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARIPRAKASH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1996/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010152762022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1996/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2Fksj7WX4lKMEGT5RPkQFTIjl3QfE0gyqMafSxne5L5l&caseno=WPSS/1996/2022&cCode=1&cino=UKHC010152762022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "939f06f11082208002b8ebd844f56ee71abe81c7105067f346e2e0bcb15fe16b",
+ "fetched_at": "2026-10-15T15:06:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

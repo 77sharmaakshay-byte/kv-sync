@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/432/2024:2024-10-22-002",
+ "title": "STATE OF UTTARAKHAND versus CHANDRA SHEKHAR PANDEY",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "CHANDRA SHEKHAR PANDEY",
+ "case_no": "WPSB/432/2024",
+ "case_type": "WPSB",
+ "decision_date": "2024-10-22",
+ "cnr": "UKHC010110652024",
+ "doc_kind": "order",
+ "order_type": "WPSB/432/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "SERVICE MATTERS -82",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcIQ2LA9FZoUqne4dd3fFoOJMOo9W9IuNW8VqO7jIV9aU&caseno=WPSB/432/2024&cCode=1&cino=UKHC010110652024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d4c6c0b19168edfc544600cbf110334112d8aedd12f03f1789f71d48c9ebcbd",
+ "fetched_at": "2026-10-15T15:15:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

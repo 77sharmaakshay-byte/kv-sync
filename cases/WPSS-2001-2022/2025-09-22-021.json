@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2001/2022:2025-09-22-021",
+ "title": "BABITA BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "BABITA BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2001/2022",
+ "case_type": "WPSS",
+ "decision_date": "2025-09-22",
+ "cnr": "UKHC010153212022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2001/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT09z03Bti7ZgN4Bon0RUiJOjrZN15BEa2XOKslxofuJ9a&caseno=WPSS/2001/2022&cCode=1&cino=UKHC010153212022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "75bff739cc1eeb3e8efc8b73c019676a50e83f391ba1d0e7754eee972a779062",
+ "fetched_at": "2026-10-15T15:06:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1996/2022:2024-01-04-011",
+ "title": "HARIPRAKASH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARIPRAKASH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1996/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-04",
+ "cnr": "UKHC010152762022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1996/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2Fksj7WX4lKMEGT5RPkQFTLX%2FgAI7uXd0ukl6ZGPV0l2&caseno=WPSS/1996/2022&cCode=1&cino=UKHC010152762022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6268a7d96c74a3637f3a994b7d1dccc501b9e8a88d1cc628d26dc63f28934fd4",
+ "fetched_at": "2026-10-15T15:06:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

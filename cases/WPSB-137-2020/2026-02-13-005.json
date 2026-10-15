@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/137/2020:2026-02-13-005",
+ "title": "SHEKHAR PRAKASH PATWA versus STATE OF UTTARAKHAND",
+ "petitioner": "SHEKHAR PRAKASH PATWA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/137/2020",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-13",
+ "cnr": "UKHC010056192020",
+ "doc_kind": "order",
+ "order_type": "WPSB/137/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjPdmQwnp%2B4hcNJWi72987mPF7R3TNVeMpovfpIMcF5Qa&caseno=WPSB/137/2020&cCode=1&cino=UKHC010056192020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ac582393a560537183e1aab81a9e31ccbd76602a7fef9643f75a7f0416ee5c1b",
+ "fetched_at": "2026-10-15T15:15:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

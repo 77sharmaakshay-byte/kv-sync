@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/358/2014:2025-05-20-020",
+ "title": "UJVN LIMITED versus HYDEL CONSTRUCTION PRIVATE LIMITED",
+ "petitioner": "UJVN LIMITED",
+ "respondent": "HYDEL CONSTRUCTION PRIVATE LIMITED",
+ "case_no": "AO/358/2014",
+ "case_type": "AO",
+ "decision_date": "2025-05-20",
+ "cnr": "UKHC010020812014",
+ "doc_kind": "order",
+ "order_type": "AO/358/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobG7DIqmMTSTTJxujm4iU%2FIilAV1a6y7ott%2FZpWyB9Aa5&caseno=AO/358/2014&cCode=1&cino=UKHC010020812014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8f4448f11649e61eaadc8374ae522ef62512088b3fc96e281abd93465a7ac8d1",
+ "fetched_at": "2026-10-15T14:58:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2845/2019:2026-09-30-004",
+ "title": "RAMESH CHANDRA JOSHI versus SECRETARY UTTARAKHAND PUBLIC SERVICE COMMISSION",
+ "petitioner": "RAMESH CHANDRA JOSHI",
+ "respondent": "SECRETARY UTTARAKHAND PUBLIC SERVICE COMMISSION",
+ "case_no": "WPSS/2845/2019",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010209052019",
+ "doc_kind": "order",
+ "order_type": "WPSS/2845/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4sLWPhiy5EF%2BSOooxCmIWHpVPXzOJc8Pbljx2U%2BH625&caseno=WPSS/2845/2019&cCode=1&cino=UKHC010209052019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d41960aabd3f7c692f4f0d9e2d9cac1236a1000b9a0d685c3eccee0493a5b04",
+ "fetched_at": "2026-10-15T15:06:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

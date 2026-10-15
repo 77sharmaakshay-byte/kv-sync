@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/32/2024:2026-10-15-006",
+ "title": "SHANTI DEVI versus MOHIT",
+ "petitioner": "SHANTI DEVI",
+ "respondent": "MOHIT",
+ "case_no": "FA/32/2024",
+ "case_type": "FA",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010024222024",
+ "doc_kind": "order",
+ "order_type": "FA/32/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBMRbVSQzjjGTgRjreJtt464E9gA%2BgcO75kiXltrCpIu&caseno=FA/32/2024&cCode=1&cino=UKHC010024222024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7641cad7cb84364929d5214d5e10ac070fc9a86b071887d45a063ae7984b7ce1",
+ "fetched_at": "2026-10-15T14:56:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

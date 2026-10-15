@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3201/2026:2026-10-15-001",
+ "title": "AMIT versus SONURAM ALIAS GOVINDRAM DOBHAL",
+ "petitioner": "AMIT",
+ "respondent": "SONURAM ALIAS GOVINDRAM DOBHAL",
+ "case_no": "WPMS/3201/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010184272026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3201/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvKcWrx5ZjIZukwfkrCsUuY1zSv3G2wWfj8az3Fqacn7&caseno=WPMS/3201/2026&cCode=1&cino=UKHC010184272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0753249543483ecfc09834d7d214298536fd92822e07ab856101e98dc96e2132",
+ "fetched_at": "2026-10-15T14:57:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

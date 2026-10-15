@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3172/2026:2026-10-15-001",
+ "title": "ANKUR KUMAR GAGNEJA versus ADDITIONAL CIVIL JUDGE",
+ "petitioner": "ANKUR KUMAR GAGNEJA",
+ "respondent": "ADDITIONAL CIVIL JUDGE",
+ "case_no": "WPMS/3172/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010182462026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3172/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg7pEvG5TIvPGUS3r7uqNFDh8JyJ6FN9NUUx0rHF2zcs&caseno=WPMS/3172/2026&cCode=1&cino=UKHC010182462026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f871ea8af9c39277ec141aca3e31ad871cbdb9fbf854eb7ba385f2d4304d88d2",
+ "fetched_at": "2026-10-15T14:57:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

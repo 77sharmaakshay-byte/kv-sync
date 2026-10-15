@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/358/2014:2014-11-25-003",
+ "title": "UJVN LIMITED versus HYDEL CONSTRUCTION PRIVATE LIMITED",
+ "petitioner": "UJVN LIMITED",
+ "respondent": "HYDEL CONSTRUCTION PRIVATE LIMITED",
+ "case_no": "AO/358/2014",
+ "case_type": "AO",
+ "decision_date": "2014-11-25",
+ "cnr": "UKHC010020812014",
+ "doc_kind": "order",
+ "order_type": "AO/358/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR ORDERS -103",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobG7DIqmMTSTTJxujm4iU%2FIgFRdLYRkfx5KKNrE34pjeQ&caseno=AO/358/2014&cCode=1&cino=UKHC010020812014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9d1ade4e756f5465fa7b016a6b9007e004751a108a9980808404868136a972d0",
+ "fetched_at": "2026-10-15T14:58:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

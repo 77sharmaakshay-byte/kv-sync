@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1929/2022:2024-04-29-023",
+ "title": "BHUPENDRA SINGH BISHT versus UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "petitioner": "BHUPENDRA SINGH BISHT",
+ "respondent": "UTTARAKHAND VIDHAN SABHA SECRETARIAT DEHRADUN",
+ "case_no": "WPSS/1929/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-04-29",
+ "cnr": "UKHC010146952022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1929/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT043mUyaJlvysPBCXK%2B65yrXAbSf1yPS1tIp%2BC6XYxkxw&caseno=WPSS/1929/2022&cCode=1&cino=UKHC010146952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "607d9ed7c25a3b5ed24dcf8794fc61e729130a8f26e83e42c5d91427ea20d134",
+ "fetched_at": "2026-10-15T14:59:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

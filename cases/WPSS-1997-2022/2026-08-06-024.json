@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1997/2022:2026-08-06-024",
+ "title": "ROHAN CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "ROHAN CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1997/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-06",
+ "cnr": "UKHC010152752022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1997/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00XB4%2BKbzViCM34iJXHSHaeZ3ckyMbYdwjGnD1obSCNZ&caseno=WPSS/1997/2022&cCode=1&cino=UKHC010152752022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "55111d29c1a54341506dc48be205c4c08ace87c2732bac07a5ed668df12e2c77",
+ "fetched_at": "2026-10-15T15:04:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/353/2026:2026-09-25-002",
+ "title": "GAURI SHANKAR PAL versus VINEETA BISHT",
+ "petitioner": "GAURI SHANKAR PAL",
+ "respondent": "VINEETA BISHT",
+ "case_no": "AO/353/2026",
+ "case_type": "AO",
+ "decision_date": "2026-09-25",
+ "cnr": "UKHC010165212026",
+ "doc_kind": "order",
+ "order_type": "AO/353/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQggT2t4E4UTrULGzd6Bb%2ByWP0x7CCf0c%2B5%2B8kilQLE%2Fk&caseno=AO/353/2026&cCode=1&cino=UKHC010165212026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "08477b9c4891ad4bc8da611abca6c235086299ac5e949c9fe3a73f2bfb2af0a5",
+ "fetched_at": "2026-10-15T14:55:33+00:00",
+ "fetched_by": "fetch_live.py"
+}
