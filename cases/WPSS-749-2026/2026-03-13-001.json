@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/749/2026:2026-03-13-001",
+ "title": "GOPAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "GOPAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/749/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-03-13",
+ "cnr": "UKHC010037552026",
+ "doc_kind": "order",
+ "order_type": "WPSS/749/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmSLe9AL9uhzmOwDpJK6hnlmumFVxWlSf5TwszCtT3IQ&caseno=WPSS/749/2026&cCode=1&cino=UKHC010037552026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d1fa61678d1bc9622ce72cc5fbb6f26a63a6846d0355347a0924f800b902887",
+ "fetched_at": "2026-10-15T15:28:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,92 @@
+{
+ "cnr_number": "UKHC010167802026",
+ "case_type": "WPCRL",
+ "filing_number": "WPCRL /8075/2026",
+ "filing_date": "2026-09-21",
+ "registration_number": "WPCRL /1937/2026",
+ "registration_date": "2026-09-21",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-16",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "MONISH",
+   "advocate": "TAJHAR QAYYUM"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "S.H.O.",
+   "advocate": "G.A."
+  },
+  {
+   "name": "S.I. SHARAD SINGH",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Uttarakhand Protection of Cow Progeny Act, 2007 (Act No. 06 of 2007)",
+   "sections": "11,3,5"
+  },
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "130"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-23",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-16",
+   "business_date": "2026-10-07",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-07",
+   "business_date": "2026-09-23",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-23",
+   "order_type": "WPCRL/1937/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi8Ik9nKwEwGpMCU%2BPM2V%2BDvENDE7LVrD%2BJsr0c2lmqv&caseno=WPCRL/1937/2026&cCode=1&cino=UKHC010167802026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-07",
+   "order_type": "WPCRL/1937/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi8Ik9nKwEwGpMCU%2BPM2V%2BBcyjCit0rmWs2VEmY7kDUq&caseno=WPCRL/1937/2026&cCode=1&cino=UKHC010167802026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

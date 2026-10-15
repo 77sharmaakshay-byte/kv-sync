@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1696/2026:2026-07-06-001",
+ "title": "SANGEETA versus STATE OF UTTARAKHAND",
+ "petitioner": "SANGEETA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1696/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-06",
+ "cnr": "UKHC010114512026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1696/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQq0qxbZydUMf4AJSZrE7mvlVZ79XmSSVXQC9FfFGwnFb&caseno=WPSS/1696/2026&cCode=1&cino=UKHC010114512026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "74a215b9a6c6c4928ee29acf946302521c4f81aee40e60574f14ba332a9d1179",
+ "fetched_at": "2026-10-15T15:28:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

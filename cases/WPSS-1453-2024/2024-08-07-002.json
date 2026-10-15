@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1453/2024:2024-08-07-002",
+ "title": "NAFESS KHAN versus GOVIND BALLABH PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+ "petitioner": "NAFESS KHAN",
+ "respondent": "GOVIND BALLABH PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+ "case_no": "WPSS/1453/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-08-07",
+ "cnr": "UKHC010120822024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1453/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcCNiyOoS8lkWjff7bNpllTv5FL8AYEBe0C0m%2FnFM7VNd&caseno=WPSS/1453/2024&cCode=1&cino=UKHC010120822024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3513c4b92af727bd309b5f1d278dd11fdca9a1ce379898bc7bea7237e4118dc0",
+ "fetched_at": "2026-10-15T15:28:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

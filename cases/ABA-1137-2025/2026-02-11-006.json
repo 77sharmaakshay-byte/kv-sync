@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1137/2025:2026-02-11-006",
+ "title": "VIRENDER SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "VIRENDER SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1137/2025",
+ "case_type": "ABA",
+ "decision_date": "2026-02-11",
+ "cnr": "UKHC010157992025",
+ "doc_kind": "order",
+ "order_type": "ABA/1137/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmy0VpcCRIEZe37Vhi7AXiJLq2Yi7CGLnyM9dtirqU0tz&caseno=ABA/1137/2025&cCode=1&cino=UKHC010157992025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4242aa75943870b45a3960c4378d6e793a4a622f0a236a0516a4685281da2249",
+ "fetched_at": "2026-10-15T15:46:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

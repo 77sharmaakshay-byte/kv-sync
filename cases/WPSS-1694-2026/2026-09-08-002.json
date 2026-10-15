@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1694/2026:2026-09-08-002",
+ "title": "PARUL versus STATE OF UTTARAKHAND",
+ "petitioner": "PARUL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1694/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010114452026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1694/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvSHwgPjhFGF93KzAmurpsa1d3THKXW5gsAksORw1DG2&caseno=WPSS/1694/2026&cCode=1&cino=UKHC010114452026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "31e01533ffb501c36084846a9952e23b3be6004ddce87d8366355b87d0c85be7",
+ "fetched_at": "2026-10-15T15:30:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

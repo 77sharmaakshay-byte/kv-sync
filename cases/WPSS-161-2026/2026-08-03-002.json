@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/161/2026:2026-08-03-002",
+ "title": "VARSHA SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "VARSHA SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/161/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-03",
+ "cnr": "UKHC010012242026",
+ "doc_kind": "order",
+ "order_type": "WPSS/161/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtAiSwSMtfVUgYW9Eb7tKr1rER7etasRw6j5pgLqbAyr&caseno=WPSS/161/2026&cCode=1&cino=UKHC010012242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "defe4bfea36ba179cd094076ac5231e9c2c6e6a8952273197af4f6052322a63b",
+ "fetched_at": "2026-10-15T15:28:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

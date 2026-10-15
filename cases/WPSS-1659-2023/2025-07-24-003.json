@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1659/2023:2025-07-24-003",
+ "title": "MOHD ANEES versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD ANEES",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1659/2023",
+ "case_type": "WPSS",
+ "decision_date": "2025-07-24",
+ "cnr": "UKHC010143462023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1659/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY4fZy7t17uysQYCsmFCbTMP5TCf08bw6SUoijbu0TpAo&caseno=WPSS/1659/2023&cCode=1&cino=UKHC010143462023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "320faf2ac26c3165f50c9ace61097c29f7dfcc1b140b7edde6e9cb59cd7dbcf2",
+ "fetched_at": "2026-10-15T15:29:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

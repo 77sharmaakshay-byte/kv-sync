@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/434/2025:2026-05-08-003",
+ "title": "ORIENTAL INSURANCE COMPANY versus ARNAB NEGI",
+ "petitioner": "ORIENTAL INSURANCE COMPANY",
+ "respondent": "ARNAB NEGI",
+ "case_no": "AO/434/2025",
+ "case_type": "AO",
+ "decision_date": "2026-05-08",
+ "cnr": "UKHC010190682025",
+ "doc_kind": "order",
+ "order_type": "AO/434/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9Tm6Hm2de8zzhlX9OmvfSk6KGx2NtaooLrJb6kcRKpH&caseno=AO/434/2025&cCode=1&cino=UKHC010190682025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3ce3204dac5cd348414a3f63761ca7c7e551e8f3c8ff54952b8b8089b07b3ab3",
+ "fetched_at": "2026-10-15T15:33:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

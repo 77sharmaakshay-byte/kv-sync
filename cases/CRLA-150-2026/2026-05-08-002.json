@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/150/2026:2026-05-08-002",
+ "title": "GHALIB versus STATE OF UTTARAKHAND",
+ "petitioner": "GHALIB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/150/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-05-08",
+ "cnr": "UKHC010048372026",
+ "doc_kind": "order",
+ "order_type": "CRLA/150/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgY7vl3j1Hy2I51ztIzYSjjYaF8fis3fhSghk3KKY5fb&caseno=CRLA/150/2026&cCode=1&cino=UKHC010048372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "00dc03fe521e1d8f3758a06938d0b1e28ca89ab0656a0fcad6cca200519deccd",
+ "fetched_at": "2026-10-15T15:47:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

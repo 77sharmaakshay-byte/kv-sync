@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1137/2025:2026-10-12-008",
+ "title": "VIRENDER SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "VIRENDER SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1137/2025",
+ "case_type": "ABA",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010157992025",
+ "doc_kind": "order",
+ "order_type": "ABA/1137/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmy0VpcCRIEZe37Vhi7AXiJKmXtBtpK71oU%2FztZcRz%2FdN&caseno=ABA/1137/2025&cCode=1&cino=UKHC010157992025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "372d0612167a5d16f152a6259f0cb3d6f30eb726f86dd5b1f8ba97cc013b440f",
+ "fetched_at": "2026-10-15T15:46:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

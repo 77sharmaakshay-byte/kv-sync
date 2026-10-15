@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/10/2014:2026-08-12-005",
+ "title": "SHAMSHER versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAMSHER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/10/2014",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-12",
+ "cnr": "UKHC010027162014",
+ "doc_kind": "order",
+ "order_type": "CRLA/10/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobHvByGK%2F63Zw%2BB%2B865E8tA7e4lz4d9I4xZNgNd9Nfewk&caseno=CRLA/10/2014&cCode=1&cino=UKHC010027162014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1f7e36cab77139652c7222f1f82307dd9e19914b64c03674ab277a720f4fd5e6",
+ "fetched_at": "2026-10-15T15:47:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

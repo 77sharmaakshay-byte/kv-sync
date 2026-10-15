@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/61/2019:2019-05-28-003",
+ "title": "GHANSHYAM KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "GHANSHYAM KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/61/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-05-28",
+ "cnr": "UKHC010003262019",
+ "doc_kind": "order",
+ "order_type": "WPMS/61/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BafyKpF9KBO8qspVv5mjErhT3KrUXE1QGEDiSY4si0R&caseno=WPMS/61/2019&cCode=1&cino=UKHC010003262019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "91e10352229d0cb9b0ae5a92651459ef3e00a7e1264c28ea5740e572dd88705a",
+ "fetched_at": "2026-10-15T15:47:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

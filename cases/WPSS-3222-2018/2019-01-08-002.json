@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/3222/2018:2019-01-08-002",
+ "title": "LALIT SINGH NEGI versus WILD LIFE INSTITUTE OF INDIA THROUGH ITS DIRECTOR",
+ "petitioner": "LALIT SINGH NEGI",
+ "respondent": "WILD LIFE INSTITUTE OF INDIA THROUGH ITS DIRECTOR",
+ "case_no": "WPSS/3222/2018",
+ "case_type": "WPSS",
+ "decision_date": "2019-01-08",
+ "cnr": "UKHC010148262018",
+ "doc_kind": "order",
+ "order_type": "WPSS/3222/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGLx1J8fH%2FMpM4ILsqp27JEbFE7gTEPVsi2BLN3t%2B9%2FvQ8&caseno=WPSS/3222/2018&cCode=1&cino=UKHC010148262018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b40c30e1052d28c64fd1e2a73dab2ee773551f2d4a3375a82640a6e90feaa9de",
+ "fetched_at": "2026-10-15T15:27:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1659/2023:2026-07-14-004",
+ "title": "MOHD ANEES versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD ANEES",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1659/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-14",
+ "cnr": "UKHC010143462023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1659/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY4fZy7t17uysQYCsmFCbTMMJThbl0RRbbB%2FIVGWjvIVe&caseno=WPSS/1659/2023&cCode=1&cino=UKHC010143462023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "acc322606897f87fafa230030f19e0e89faf71e6f03006351ce2041c57506849",
+ "fetched_at": "2026-10-15T15:29:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

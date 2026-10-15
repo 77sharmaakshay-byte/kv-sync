@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/10/2014:2014-01-23-002",
+ "title": "SHAMSHER versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAMSHER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/10/2014",
+ "case_type": "CRLA",
+ "decision_date": "2014-01-23",
+ "cnr": "UKHC010027162014",
+ "doc_kind": "order",
+ "order_type": "CRLA/10/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobHvByGK%2F63Zw%2BB%2B865E8tA4dAySdqP9yu%2FaCOaVlZ2lq&caseno=CRLA/10/2014&cCode=1&cino=UKHC010027162014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "74a75212e82ee7fce3ea04ccabe4cc791bd888b7a13c0eb199f9859d916bba5c",
+ "fetched_at": "2026-10-15T15:47:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

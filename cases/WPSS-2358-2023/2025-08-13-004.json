@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2358/2023:2025-08-13-004",
+ "title": "SASHI KUMAR versus TEHRI HYDRO DEVELOPMENT CORPORATION INDIA",
+ "petitioner": "SASHI KUMAR",
+ "respondent": "TEHRI HYDRO DEVELOPMENT CORPORATION INDIA",
+ "case_no": "WPSS/2358/2023",
+ "case_type": "WPSS",
+ "decision_date": "2025-08-13",
+ "cnr": "UKHC010209052023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2358/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7AToFq%2FanfMtoMIc493jx9aPNgOZFrmgt9FZr%2FL6U%2Ff&caseno=WPSS/2358/2023&cCode=1&cino=UKHC010209052023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4792f0c03c10bae321c21303f4cc54447170f4880b833a313eeb598fc36c1e21",
+ "fetched_at": "2026-10-15T15:35:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

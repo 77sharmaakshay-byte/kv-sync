@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2351/2026:2026-09-15-002",
+ "title": "SANDEEP SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SANDEEP SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2351/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010158132026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2351/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkYF3goNCgUnX8pq4bMbbC5lLKZvo6kyY4n%2BoIsz2UJ7&caseno=WPSS/2351/2026&cCode=1&cino=UKHC010158132026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8d5042f519a40581189d21bbf966814f1e4572a0d51f00437901a290b807ea77",
+ "fetched_at": "2026-10-15T15:29:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

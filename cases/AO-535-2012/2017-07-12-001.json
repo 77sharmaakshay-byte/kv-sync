@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/535/2012:2017-07-12-001",
+ "title": "PAWAN SINGH versus NATIONAL INSURANCE CO. LTD",
+ "petitioner": "PAWAN SINGH",
+ "respondent": "NATIONAL INSURANCE CO. LTD",
+ "case_no": "AO/535/2012",
+ "case_type": "AO",
+ "decision_date": "2017-07-12",
+ "cnr": "UKHC010014022012",
+ "doc_kind": "order",
+ "order_type": "AO/535/2012",
+ "judges": [
+  "Hon'ble Mr. Justice V. K. Bist"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrLwKU1k9VPG76gkkSrnV9QY%2BD96EowlOt8Ob6gYggXhD&caseno=AO/535/2012&cCode=1&cino=UKHC010014022012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b4544e351dafa37cb69acc10581553a1aa048d15e198a4b021a07711dd60da09",
+ "fetched_at": "2026-10-15T15:27:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

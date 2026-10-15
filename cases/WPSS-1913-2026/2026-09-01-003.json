@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1913/2026:2026-09-01-003",
+ "title": "REKHA TYAGI versus STATE OF UTTARAKHAND",
+ "petitioner": "REKHA TYAGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1913/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010125362026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1913/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjR0Naks9fLOi5B2A1eYEdCEqzQJPemc7a2cy4%2FC0bpH&caseno=WPSS/1913/2026&cCode=1&cino=UKHC010125362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d701857caa5c4a6f14f566fd02f3e074a1c1ea990e43e35f435cf901fd58908c",
+ "fetched_at": "2026-10-15T15:29:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

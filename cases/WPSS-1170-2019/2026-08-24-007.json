@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1170/2019:2026-08-24-007",
+ "title": "VASUDEV versus WILD LIFE INSTITUTE OF INDIA THROUGH ITS DIRECTOR",
+ "petitioner": "VASUDEV",
+ "respondent": "WILD LIFE INSTITUTE OF INDIA THROUGH ITS DIRECTOR",
+ "case_no": "WPSS/1170/2019",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-24",
+ "cnr": "UKHC010075072019",
+ "doc_kind": "order",
+ "order_type": "WPSS/1170/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF7gA2UVhJnBOkLNvmpNHV9PAqHE%2Bsrn0lUMQKHvMnuIw&caseno=WPSS/1170/2019&cCode=1&cino=UKHC010075072019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bb1761ee9a8d2a1d10c6b68d7555dc5da20c9e5bfb29577d241700facb6c322f",
+ "fetched_at": "2026-10-15T15:28:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

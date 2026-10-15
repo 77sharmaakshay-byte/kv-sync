@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/361/2026:2026-09-01-001",
+ "title": "BILAL versus STATE OF UTTARAKHAND",
+ "petitioner": "BILAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/361/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010152602026",
+ "doc_kind": "order",
+ "order_type": "ABA/361/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQid1fyMh7jQAIrL4QRVVQ%2FIB9twGv1N9Li6yBCquDWCp&caseno=ABA/361/2026&cCode=1&cino=UKHC010152602026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9bfc06accf0f73af5b6a8e253a184b3080997e819c0b75f09bd73b935590fe2e",
+ "fetched_at": "2026-10-15T15:47:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

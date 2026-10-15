@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1465/2026:2026-08-19-003",
+ "title": "ANITA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANITA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1465/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010096372026",
+ "doc_kind": "order",
+ "order_type": "IA/3/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQj8uRsYBINpN%2BbikWsIvHk0dyHWW7NfU7WsAq3I7jngB&caseno=WPSS/1465/2026&cCode=1&cino=UKHC010096372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "96269004af0e330b1ca7853b240dc259cce782246272b34396f50c19acd7c9c5",
+ "fetched_at": "2026-10-15T15:32:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

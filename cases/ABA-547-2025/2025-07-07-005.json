@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/547/2025:2025-07-07-005",
+ "title": "BRAJRANI versus STATE OF UTTARAKHAND",
+ "petitioner": "BRAJRANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/547/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-07-07",
+ "cnr": "UKHC010073292025",
+ "doc_kind": "order",
+ "order_type": "ABA/547/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxGN5OVvPvFkwJhmpaZoQVjL%2B4VcpRNEIowi6HD7Nxgj&caseno=ABA/547/2025&cCode=1&cino=UKHC010073292025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c7620b8d4409c83982c716e6f1b8036d6bb9c70ddc811453917a13a5ae63c370",
+ "fetched_at": "2026-10-15T15:46:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/819/2026:2026-07-07-004",
+ "title": "JANKI SAH versus STATE OF UTTARAKHAND",
+ "petitioner": "JANKI SAH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/819/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-07",
+ "cnr": "UKHC010041122026",
+ "doc_kind": "order",
+ "order_type": "WPSS/819/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlDGPx1aULdI%2Fduujt5mrDaN%2B%2BXkt9zXZQTo58vpgPMn&caseno=WPSS/819/2026&cCode=1&cino=UKHC010041122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "37e03ef58e787118ef189652950f4f3546f1ccdd7869e9ae9bb8dc58f5b10b12",
+ "fetched_at": "2026-10-15T15:30:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

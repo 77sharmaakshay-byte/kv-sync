@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1331/2022:2023-03-20-003",
+ "title": "ARCHANA BHARTI versus STATE OF UTTARAKHAND",
+ "petitioner": "ARCHANA BHARTI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1331/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-03-20",
+ "cnr": "UKHC010099992022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1331/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06w2bbByN8PWK%2FIJSBECLA1hmL%2BNDUc7R90K47WnQxA0&caseno=WPSS/1331/2022&cCode=1&cino=UKHC010099992022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d3e5174e47f685621db179ac877fc75841c683856e207dc324a4aca702371c97",
+ "fetched_at": "2026-10-15T15:28:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

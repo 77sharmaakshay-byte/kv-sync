@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2307/2017:2024-11-04-003",
+ "title": "NAWAB AHMAD versus DISTRICT MAGISTRATE HARIDWAR   Advocate- ,C.S.C. 1123",
+ "petitioner": "NAWAB AHMAD",
+ "respondent": "DISTRICT MAGISTRATE HARIDWAR   Advocate- ,C.S.C. 1123",
+ "case_no": "WPMS/2307/2017",
+ "case_type": "WPMS",
+ "decision_date": "2024-11-04",
+ "cnr": "UKHC010008232017",
+ "doc_kind": "order",
+ "order_type": "WPMS/2307/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh5ecqs5D1oxoe6gAWtPDLxwtQcj7hYn8gq4QEZJ2IdlK&caseno=WPMS/2307/2017&cCode=1&cino=UKHC010008232017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2c4947cef10f7a63e5d37a3f1d969d515366475e6f83b3339f053235a787e805",
+ "fetched_at": "2026-10-15T15:47:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

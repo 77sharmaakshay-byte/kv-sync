@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2090/2026:2026-08-10-001",
+ "title": "JAWA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "JAWA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2090/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-10",
+ "cnr": "UKHC010138412026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2090/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoMBqeoJgV8TzLaaA8kdp9d31r8yh%2FiWkRnIc3b5xoxc&caseno=WPSS/2090/2026&cCode=1&cino=UKHC010138412026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b4e5d5629be4fb80d2faa3e148b31b4a7b692a2bb6879528e17c6fd9c8167112",
+ "fetched_at": "2026-10-15T15:29:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SABA/25/2026:2026-08-19-001",
+ "title": "MOHD ADNAN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD ADNAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SABA/25/2026",
+ "case_type": "SABA",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010133702026",
+ "doc_kind": "order",
+ "order_type": "SABA/25/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlPZ5n72kbWk79tEZP8zVLJM57a4XJ2Ab8Ijr9JV6MWh&caseno=SABA/25/2026&cCode=1&cino=UKHC010133702026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "912be8d80322993ab461952123c12adf4afdca242bf2b8823fd7a0c475c72752",
+ "fetched_at": "2026-10-15T15:27:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

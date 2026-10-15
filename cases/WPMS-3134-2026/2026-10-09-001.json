@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3134/2026:2026-10-09-001",
+ "title": "SACHIN TYAGI versus DISTRICT MAGISTRATE DEHRADUN",
+ "petitioner": "SACHIN TYAGI",
+ "respondent": "DISTRICT MAGISTRATE DEHRADUN",
+ "case_no": "WPMS/3134/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010180122026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3134/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQj1ZmkY%2Blh%2BhqYKH52gsrA1AuICXjxJqVUr1MFzdJd6V&caseno=WPMS/3134/2026&cCode=1&cino=UKHC010180122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "458fe2264b0ce92ae98e2e37d640c4203c848dd6960a08da460a0288a645d5cd",
+ "fetched_at": "2026-10-15T15:42:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

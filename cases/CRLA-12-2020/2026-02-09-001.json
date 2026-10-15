@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/12/2020:2026-02-09-001",
+ "title": "MUKESH KUMAR VATS versus STATE OF UTTARAKHAND",
+ "petitioner": "MUKESH KUMAR VATS",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/12/2020",
+ "case_type": "CRLA",
+ "decision_date": "2026-02-09",
+ "cnr": "UKHC010001572020",
+ "doc_kind": "order",
+ "order_type": "CRLA/12/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHmANLNuqQcnOM7XWYCkP7yyDkrKnT8R0btgHSNLgejQ&caseno=CRLA/12/2020&cCode=1&cino=UKHC010001572020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bad42d6e1731d9908ef4bf1b8d8222ee0596c8d4e8c8401d988a19b634204600",
+ "fetched_at": "2026-10-15T15:47:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/819/2026:2026-03-23-001",
+ "title": "JANKI SAH versus STATE OF UTTARAKHAND",
+ "petitioner": "JANKI SAH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/819/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-03-23",
+ "cnr": "UKHC010041122026",
+ "doc_kind": "order",
+ "order_type": "WPSS/819/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlDGPx1aULdI%2Fduujt5mrDb5hf8NWvarkmly0BCGk1BD&caseno=WPSS/819/2026&cCode=1&cino=UKHC010041122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6cf6650841a7887ad1c14177f412e3f8d9cb4609e86a46680efb31b3d2bb4536",
+ "fetched_at": "2026-10-15T15:30:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

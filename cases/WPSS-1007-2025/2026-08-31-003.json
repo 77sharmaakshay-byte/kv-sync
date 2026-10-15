@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1007/2025:2026-08-31-003",
+ "title": "RAJENDRA KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJENDRA KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1007/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010088472025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1007/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2BdeAkpFWUTxkAsO9DP0tn2S8HnqujDh9oObIqcC3eLg&caseno=WPSS/1007/2025&cCode=1&cino=UKHC010088472025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "09bc208b990f1f0d4884c3394e47fd033389ddedfcd9c1b578fe66323da89c68",
+ "fetched_at": "2026-10-15T15:32:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

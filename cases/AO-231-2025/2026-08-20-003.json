@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/231/2025:2026-08-20-003",
+ "title": "AFZAL versus REETA DEVI",
+ "petitioner": "AFZAL",
+ "respondent": "REETA DEVI",
+ "case_no": "AO/231/2025",
+ "case_type": "AO",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010102262025",
+ "doc_kind": "order",
+ "order_type": "AO/231/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm8eJMBRs4CNWAPjOXBV37ts6agYHHYdlV15%2BRiNM8F%2Bs&caseno=AO/231/2025&cCode=1&cino=UKHC010102262025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5f1ff431f20373f1c43e4214bc44654052e385b98f515286ca44eb27286e33a0",
+ "fetched_at": "2026-10-15T15:34:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

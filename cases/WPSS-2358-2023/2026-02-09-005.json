@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2358/2023:2026-02-09-005",
+ "title": "SASHI KUMAR versus TEHRI HYDRO DEVELOPMENT CORPORATION INDIA",
+ "petitioner": "SASHI KUMAR",
+ "respondent": "TEHRI HYDRO DEVELOPMENT CORPORATION INDIA",
+ "case_no": "WPSS/2358/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-02-09",
+ "cnr": "UKHC010209052023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2358/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7AToFq%2FanfMtoMIc493jx%2BvmyZKGjs4qgCQN5imNXs%2B&caseno=WPSS/2358/2023&cCode=1&cino=UKHC010209052023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "83dbf7ea5c92802ae51855ad1b4a725fb89bebc64fbc2c6e85f16d624f821a86",
+ "fetched_at": "2026-10-15T15:35:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

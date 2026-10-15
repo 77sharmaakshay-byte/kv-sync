@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/288/2025:2025-08-05-003",
+ "title": "MANISHA versus UTTARAKHAND SUB ORDIANTE SERVICE SELECTION",
+ "petitioner": "MANISHA",
+ "respondent": "UTTARAKHAND SUB ORDIANTE SERVICE SELECTION",
+ "case_no": "WPSS/288/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-08-05",
+ "cnr": "UKHC010028912025",
+ "doc_kind": "order",
+ "order_type": "WPSS/288/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmzTcPxbfABS7UsKWgC6x2piamcq0T3Lm4shegn0ag6U5&caseno=WPSS/288/2025&cCode=1&cino=UKHC010028912025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7e62d0943e3548ec37051563d7e3007adab58778bd4620886e037d952b286f39",
+ "fetched_at": "2026-10-15T15:36:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

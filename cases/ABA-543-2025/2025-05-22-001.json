@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/543/2025:2025-05-22-001",
+ "title": "KAMLENDRA KUMAR SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "KAMLENDRA KUMAR SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/543/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-05-22",
+ "cnr": "UKHC010073172025",
+ "doc_kind": "order",
+ "order_type": "ABA/543/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0gU2%2FUOQwFUo%2FDl3n9f8OVFj69b8eeFONzgyCEM3IzN&caseno=ABA/543/2025&cCode=1&cino=UKHC010073172025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "beb8a42400d43bb6440d61773aadc93cbf3eb5859de511ee5a6460520db922c1",
+ "fetched_at": "2026-10-15T15:46:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

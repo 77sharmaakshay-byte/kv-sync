@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/3222/2018:2018-09-28-001",
+ "title": "LALIT SINGH NEGI versus WILD LIFE INSTITUTE OF INDIA THROUGH ITS DIRECTOR",
+ "petitioner": "LALIT SINGH NEGI",
+ "respondent": "WILD LIFE INSTITUTE OF INDIA THROUGH ITS DIRECTOR",
+ "case_no": "WPSS/3222/2018",
+ "case_type": "WPSS",
+ "decision_date": "2018-09-28",
+ "cnr": "UKHC010148262018",
+ "doc_kind": "order",
+ "order_type": "WPSS/3222/2018",
+ "judges": [
+  "Hon'ble Mr. Justice V. K. Bist"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGLx1J8fH%2FMpM4ILsqp27JEbHzNHtcxiz9n1xtW7GyPNvc&caseno=WPSS/3222/2018&cCode=1&cino=UKHC010148262018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e9c5f33e984b87f231b864d4f305fc85940de8d22acb63e4966c3bedb70c2f13",
+ "fetched_at": "2026-10-15T15:27:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

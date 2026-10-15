@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1453/2024:2025-08-06-003",
+ "title": "NAFESS KHAN versus GOVIND BALLABH PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+ "petitioner": "NAFESS KHAN",
+ "respondent": "GOVIND BALLABH PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+ "case_no": "WPSS/1453/2024",
+ "case_type": "WPSS",
+ "decision_date": "2025-08-06",
+ "cnr": "UKHC010120822024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1453/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcCNiyOoS8lkWjff7bNpllTtZUeSlpsK1bqWhk14L73Hb&caseno=WPSS/1453/2024&cCode=1&cino=UKHC010120822024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c9701d26d527c87a436384f5ba1961f963b2e54cc5e3fe4578c01592aa9aff5a",
+ "fetched_at": "2026-10-15T15:28:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

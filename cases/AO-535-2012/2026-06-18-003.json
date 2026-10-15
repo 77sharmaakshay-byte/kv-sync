@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/535/2012:2026-06-18-003",
+ "title": "PAWAN SINGH versus NATIONAL INSURANCE CO. LTD",
+ "petitioner": "PAWAN SINGH",
+ "respondent": "NATIONAL INSURANCE CO. LTD",
+ "case_no": "AO/535/2012",
+ "case_type": "AO",
+ "decision_date": "2026-06-18",
+ "cnr": "UKHC010014022012",
+ "doc_kind": "order",
+ "order_type": "AO/535/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrLwKU1k9VPG76gkkSrnV9QbNsDzGdc3WDeZTFIbZc16m&caseno=AO/535/2012&cCode=1&cino=UKHC010014022012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3ac087d533e81d4f7617477bd0b22cb0b6614b5abc7da346c43e60eee2196e6c",
+ "fetched_at": "2026-10-15T15:27:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

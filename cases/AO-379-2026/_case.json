@@ -1,0 +1,83 @@
+{
+ "cnr_number": "UKHC010176682026",
+ "case_type": "AO",
+ "filing_number": "AO /9190/2026",
+ "filing_date": "2026-10-01",
+ "registration_number": "AO /379/2026",
+ "registration_date": "2026-10-01",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-16",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -35",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pauri Garhwal",
+ "petitioners": [
+  {
+   "name": "NAVEEN SINGH RANA",
+   "advocate": "KUNDAN RAI,Zakir Ali,Zakir Ali, ,MOHD UMAR,Zakir Ali"
+  },
+  {
+   "name": "ASHISH RAYAL",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SWARGASHRAM TRUST",
+   "advocate": ""
+  },
+  {
+   "name": "SWARGASHRAM",
+   "advocate": ""
+  },
+  {
+   "name": "SRI KUNAL DALMIA",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Code of Civil Procedure, 1908 (Act No. 5 of 1908)",
+   "sections": "104"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-05",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-16",
+   "business_date": "2026-10-08",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-05",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-10-08",
+   "order_type": "AO/379/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnMqs93%2FLWblbO7DCLdlekov80%2FMcuvRUmIGV7otec7m&caseno=AO/379/2026&cCode=1&cino=UKHC010176682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

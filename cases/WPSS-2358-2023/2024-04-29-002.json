@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2358/2023:2024-04-29-002",
+ "title": "SASHI KUMAR versus TEHRI HYDRO DEVELOPMENT CORPORATION INDIA",
+ "petitioner": "SASHI KUMAR",
+ "respondent": "TEHRI HYDRO DEVELOPMENT CORPORATION INDIA",
+ "case_no": "WPSS/2358/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-04-29",
+ "cnr": "UKHC010209052023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2358/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7AToFq%2FanfMtoMIc493jx8CdtVoT5Hdjyd1yZwt%2Fiyh&caseno=WPSS/2358/2023&cCode=1&cino=UKHC010209052023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6df1dedd85bb3249cd32ac02fff459569390f762c93acb495a852dab995e64ff",
+ "fetched_at": "2026-10-15T15:35:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

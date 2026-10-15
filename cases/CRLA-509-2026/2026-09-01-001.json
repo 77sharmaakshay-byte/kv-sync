@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/509/2026:2026-09-01-001",
+ "title": "ABHISHEK OLI versus STATE OF UTTARAKHAND",
+ "petitioner": "ABHISHEK OLI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/509/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010152572026",
+ "doc_kind": "order",
+ "order_type": "CRLA/509/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqKIY3eV3xVG0%2BR2btk%2BN00SpAgHUbHqyDj6lqYPNNJb&caseno=CRLA/509/2026&cCode=1&cino=UKHC010152572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ef667b296b443bfe599e0385295041a73e813cd0fe49227ba6e5e30688587e47",
+ "fetched_at": "2026-10-15T15:50:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

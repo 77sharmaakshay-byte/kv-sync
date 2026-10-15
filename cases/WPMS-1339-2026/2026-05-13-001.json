@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1339/2026:2026-05-13-001",
+ "title": "V K AGARWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "V K AGARWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1339/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-13",
+ "cnr": "UKHC010078472026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1339/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiTEa53fprTzwaLwiy2v%2FmD8B1AhxWizIk4vym8qBt8Y&caseno=WPMS/1339/2026&cCode=1&cino=UKHC010078472026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc2b41e1a4ba343e65049413948bd271b532ab4057aeffcea57f948989926d89",
+ "fetched_at": "2026-10-15T15:50:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

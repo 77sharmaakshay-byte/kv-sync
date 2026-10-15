@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1157/2026:2026-04-29-001",
+ "title": "ROOPINDER JEET KAUR versus NATIONAL HIGHWAY AUTHORITY OF INDIA",
+ "petitioner": "ROOPINDER JEET KAUR",
+ "respondent": "NATIONAL HIGHWAY AUTHORITY OF INDIA",
+ "case_no": "WPMS/1157/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-29",
+ "cnr": "UKHC010068752026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1157/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQts%2FlBI9HbS1xtqFy8vs29yjoR4l1IziwmL6JbK3bes2&caseno=WPMS/1157/2026&cCode=1&cino=UKHC010068752026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "41247d12a27b8de0f6f28512d6c682bda600067dd6b23029f5bc43b5fd181460",
+ "fetched_at": "2026-10-15T15:47:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

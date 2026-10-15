@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/150/2026:2026-09-15-003",
+ "title": "GHALIB versus STATE OF UTTARAKHAND",
+ "petitioner": "GHALIB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/150/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010048372026",
+ "doc_kind": "order",
+ "order_type": "CRLA/150/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgY7vl3j1Hy2I51ztIzYSjg0GqyjvBCtTgSm41MyOwpD&caseno=CRLA/150/2026&cCode=1&cino=UKHC010048372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a0c93a22d6a731cd7bab34850ed277dae3a1f9bde9f03c9fe1c878f3b9c0527a",
+ "fetched_at": "2026-10-15T15:47:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/726/2025:2025-08-07-002",
+ "title": "DEEPAK KUMAR BAWEJA versus STATE OF UTTARAKHAND",
+ "petitioner": "DEEPAK KUMAR BAWEJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/726/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-08-07",
+ "cnr": "UKHC010097422025",
+ "doc_kind": "order",
+ "order_type": "ABA/726/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7Cg%2FV9NovsR1YUZ384MUsuTAi0iZ0Itf2t5wsYcz4To&caseno=ABA/726/2025&cCode=1&cino=UKHC010097422025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "510918000f65cbdf7a17378e9fd3e95110f5f23a797724fa2de04fea3df24831",
+ "fetched_at": "2026-10-15T15:47:08+00:00",
+ "fetched_by": "fetch_live.py"
+}
