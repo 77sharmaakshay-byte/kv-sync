@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T05:58+00:00",
+ "generated_at": "2026-10-16T06:01+00:00",
  "dates": [
   "2026-10-16",
   "2026-10-15",
@@ -184,7 +184,7 @@
     "PRASHANT SINGH"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "ABA-430-2026",
@@ -217,7 +217,7 @@
     "SEEMA DHINGRA"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "ABA-434-2026",
@@ -228,7 +228,7 @@
     "SHAILENDRA NAURIYAL,Tilak Ram Sharma,Tilak Ram Sharma, ,Tilak Ram Sharma"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "ABA-435-2026",
@@ -239,7 +239,7 @@
     "MUKESH KUMAR KAPARUWAN,KRISHAN MOHAN JOSHI,KRISHAN MOHAN JOSHI, ,ANSHUMAAN SINGH CHAUHAN,KRISHAN MOHAN JOSHI"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "ABA-541-2025",
@@ -509,7 +509,7 @@
     "M K GOYAL,"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "AO-251-2026",
@@ -552,7 +552,7 @@
     "SARVESH AGARWAL, ,PULAK AGARWAL,BHARAT TEWARI"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "AO-290-2026",
@@ -616,7 +616,7 @@
     "DEVESH UPRETI"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "AO-346-2026",
@@ -943,7 +943,7 @@
     "VINODA NAND BARTHWAL,"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "AO-68-2014",
@@ -966,7 +966,7 @@
     "SUBHASH CHANDRA JOSHI"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "AO-86-2017",
@@ -999,7 +999,7 @@
     "SHOBHIT SAHARIA"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "BCA-12-2026",
@@ -1934,7 +1934,7 @@
     "PRADEEP KUMAR CHAUHAN,NAVEEN SINGH MER,NAVEEN SINGH MER, ,NAVEEN SINGH MER"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "CLR-126-2025",
@@ -2095,7 +2095,7 @@
     "SIDDHARTHA SINGH,DEVANSHI JOSHI,DEVANSHI JOSHI, D S NEGI,VIVEK PATHAK,DEVANSHI JOSHI"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "CLR-17-2026",
@@ -2343,7 +2343,7 @@
     "S P Singh,Sanjay K. Dwivedi"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "CLR-50-2019",
@@ -2831,6 +2831,16 @@
     "P S DHAMI"
    ],
    "next_date": "2026-10-16",
+   "a": 2
+  },
+  {
+   "id": "CRLA-340-2016",
+   "case_no": "CRLA/340/2016",
+   "title": "BHARAT SINGH v. STATE OF UTTARAKHAND AND ANOTHER   Advocate- ,G.A. 1123",
+   "advocates": [
+    "ADITYA KUMAR ARYA"
+   ],
+   "next_date": "2026-10-16",
    "a": 1
   },
   {
@@ -3188,7 +3198,7 @@
     "SANGEETA ADHIKARI PATNI"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "CRLA-612-2023",
@@ -3533,6 +3543,17 @@
    "a": 2
   },
   {
+   "id": "CRLR-298-2026",
+   "case_no": "CRLR/298/2026",
+   "title": "PRADEEP KUMAR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "DEEPAK SHARMA,SUMAN SHARMA,SUMAN SHARMA, ,SUMAN SHARMA",
+    "G.A."
+   ],
+   "next_date": "2026-10-16",
+   "a": 1
+  },
+  {
    "id": "CRLR-304-2019",
    "case_no": "CRLR/304/2019",
    "title": "BALA DEVI v. STATE OF UTTARAKHAND",
@@ -3573,7 +3594,7 @@
     "GAURAV SINGH"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "CRLR-37-2026",
@@ -3684,7 +3705,7 @@
     "G.A."
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "CRLR-462-2026",
@@ -3754,7 +3775,7 @@
     "SAURAV ADHIKARI,MAHAVEER BISHT"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "CRLR-577-2023",
@@ -3870,7 +3891,7 @@
     "SANDEEP KOTHARI,"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "CRLR-787-2026",
@@ -4032,6 +4053,16 @@
    "a": 2
   },
   {
+   "id": "FA-105-2025",
+   "case_no": "FA/105/2025",
+   "title": "PRAMOD RAWAT v. DURGA RAWAT",
+   "advocates": [
+    "PRABHA NAITHANI,AVIDIT NOLIYAL,AVIDIT NOLIYAL, ,AVIDIT NOLIYAL"
+   ],
+   "next_date": "2026-10-16",
+   "a": 1
+  },
+  {
    "id": "FA-108-2026",
    "case_no": "FA/108/2026",
    "title": "VRISHTI RATURI v. ANANG RAWAT",
@@ -4052,7 +4083,7 @@
     "SHUBHANG DOBHAL,"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "FA-145-2022",
@@ -4415,7 +4446,7 @@
     "AMISH TEWARI"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "SA-41-2009",
@@ -4427,7 +4458,7 @@
     "SUHAIL KHAN1."
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "SA-56-2026",
@@ -4742,6 +4773,16 @@
     "SHUBHANG DOBHAL"
    ],
    "next_date": null,
+   "a": 1
+  },
+  {
+   "id": "SPA-400-2026",
+   "case_no": "SPA/400/2026",
+   "title": "ANJU TYAGI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C."
+   ],
+   "next_date": "2026-10-16",
    "a": 1
   },
   {
@@ -5121,7 +5162,7 @@
     "G.A."
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "WPCRL-1387-2026",
@@ -5181,6 +5222,18 @@
    "a": 2
   },
   {
+   "id": "WPCRL-1602-2026",
+   "case_no": "WPCRL/1602/2026",
+   "title": "HEM SHIKHA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "AKSHAY PRADHAN",
+    "G.A.",
+    "NARAYAN HAR GUPTA"
+   ],
+   "next_date": "2026-10-16",
+   "a": 1
+  },
+  {
    "id": "WPCRL-1612-2026",
    "case_no": "WPCRL/1612/2026",
    "title": "AMIT KUMAR v. STATE OF UTTARAKHAND",
@@ -5213,6 +5266,18 @@
    ],
    "next_date": "2026-10-13",
    "a": 2
+  },
+  {
+   "id": "WPCRL-1912-2026",
+   "case_no": "WPCRL/1912/2026",
+   "title": "PUNEET AGRAWAL v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "AKSHAY PRADHAN",
+    "G.A.",
+    "NARAYAN HAR GUPTA"
+   ],
+   "next_date": "2026-10-16",
+   "a": 1
   },
   {
    "id": "WPCRL-1929-2026",
@@ -5678,7 +5743,7 @@
     "RAJ KUMAR SINGH,RADHA ARYA,RADHA ARYA, ,RADHA ARYA"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "WPCRL-2134-2026",
@@ -5722,7 +5787,7 @@
     "G.A."
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "WPCRL-2138-2026",
@@ -5905,6 +5970,18 @@
    ],
    "next_date": "2026-10-13",
    "a": 2
+  },
+  {
+   "id": "WPMB-1000-2025",
+   "case_no": "WPMB/1000/2025",
+   "title": "SOBAN SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "DHARMENDRA BARTHWAL",
+    "PANKAJ TANGWAN"
+   ],
+   "next_date": "2026-10-16",
+   "a": 1
   },
   {
    "id": "WPMB-118-2026",
@@ -6408,6 +6485,19 @@
    "a": 1
   },
   {
+   "id": "WPMS-1819-2026",
+   "case_no": "WPMS/1819/2026",
+   "title": "RICE MILLER WELFARE AND DEVELOPMENT SOCIETY v. UNION OF INDIA",
+   "advocates": [
+    "C.S.C.",
+    "DEPUTY  S.G.",
+    "N S PUNDIR,VIPUL SHARMA",
+    "PANKAJ TANGWAN,BHAWANA KANWAL,BHAWANA KANWAL, ,BHAWANA KANWAL"
+   ],
+   "next_date": "2026-10-16",
+   "a": 1
+  },
+  {
    "id": "WPMS-1827-2026",
    "case_no": "WPMS/1827/2026",
    "title": "ATUL KUMAR v. STATE OF UTTARAKHAND",
@@ -6493,7 +6583,7 @@
     "SIDDHARTH SINGH,D S NEGI"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "WPMS-2047-2024",
@@ -6690,6 +6780,17 @@
     "TARUN PRAKASH SINGH TAKULI, ,CHETAN JOSHI (TEZA)"
    ],
    "next_date": "2026-10-13",
+   "a": 1
+  },
+  {
+   "id": "WPMS-2448-2017",
+   "case_no": "WPMS/2448/2017",
+   "title": "MURTAZA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "V D BISEN",
+    "V K KAPARUWAN,"
+   ],
+   "next_date": "2026-10-16",
    "a": 1
   },
   {
@@ -8712,6 +8813,19 @@
     "Rajendra Singh Azad 2."
    ],
    "next_date": "2026-10-13",
+   "a": 1
+  },
+  {
+   "id": "WPMS-975-2025",
+   "case_no": "WPMS/975/2025",
+   "title": "KAPIL DEO RAWAT v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "PRABHAT BOHRA (FOR CAVEATOR)",
+    "SANJAY BHATT",
+    "SUNAYNA KOHLI KOTHARI"
+   ],
+   "next_date": "2026-10-16",
    "a": 1
   },
   {
@@ -11268,7 +11382,7 @@
     "S S YADAV"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "WPSS-1847-2026",
@@ -12315,7 +12429,7 @@
     "ADITYA KUMAR ARYA, ,VINAY BHATT"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "WPSS-2102-2017",
@@ -12660,7 +12774,7 @@
     "SIDDHARTHA BISHT,SUNIL UPADHYAYA,SUNIL UPADHYAYA, ,HEM CHANDRA JOSHI,,SUNIL UPADHYAYA"
    ],
    "next_date": "2026-10-16",
-   "a": 1
+   "a": 2
   },
   {
    "id": "WPSS-2187-2026",
