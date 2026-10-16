@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/1000/2025:2025-11-25-001",
+ "title": "SOBAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SOBAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/1000/2025",
+ "case_type": "WPMB",
+ "decision_date": "2025-11-25",
+ "cnr": "UKHC010186162025",
+ "doc_kind": "order",
+ "order_type": "WPMB/1000/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmypgRHfTu6JPAApQwRzrqAeo40z7DyaQAbZBLXtIg91B&caseno=WPMB/1000/2025&cCode=1&cino=UKHC010186162025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bca24339cabfd5a244d655ddd0f035c26ecbc5d6daf39670e529a1619d461ce4",
+ "fetched_at": "2026-10-16T05:59:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

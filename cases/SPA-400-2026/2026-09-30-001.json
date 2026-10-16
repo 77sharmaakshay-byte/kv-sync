@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/400/2026:2026-09-30-001",
+ "title": "ANJU TYAGI versus STATE OF UTTARAKHAND",
+ "petitioner": "ANJU TYAGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/400/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010163472026",
+ "doc_kind": "order",
+ "order_type": "SPA/400/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn%2B50HObNnRHCLJpq4MnYQmxJZPYAdLgoPAaBjTd5f6%2B&caseno=SPA/400/2026&cCode=1&cino=UKHC010163472026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8076fd529ce7648d3560fe6257c60da60c313d395dc1d8ce93c4019f041bfd2e",
+ "fetched_at": "2026-10-16T05:59:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

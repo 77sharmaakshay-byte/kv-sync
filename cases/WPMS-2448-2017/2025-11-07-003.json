@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2448/2017:2025-11-07-003",
+ "title": "MURTAZA versus STATE OF UTTARAKHAND",
+ "petitioner": "MURTAZA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2448/2017",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-07",
+ "cnr": "UKHC010056322017",
+ "doc_kind": "order",
+ "order_type": "WPMS/2448/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh3Oxim502bveD%2FddH%2Bw03u7jAkPVz4RMpS2GGjOa%2BYUZ&caseno=WPMS/2448/2017&cCode=1&cino=UKHC010056322017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "897818433822e74aae79fd1da5ce12cc5c102015655b256eb2cfb3059ea7f648",
+ "fetched_at": "2026-10-16T05:58:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

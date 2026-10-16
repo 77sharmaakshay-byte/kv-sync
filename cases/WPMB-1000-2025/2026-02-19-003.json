@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/1000/2025:2026-02-19-003",
+ "title": "SOBAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SOBAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/1000/2025",
+ "case_type": "WPMB",
+ "decision_date": "2026-02-19",
+ "cnr": "UKHC010186162025",
+ "doc_kind": "order",
+ "order_type": "WPMB/1000/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmypgRHfTu6JPAApQwRzrqAdkX5lP3NDfvL%2BDvjd9%2BBfg&caseno=WPMB/1000/2025&cCode=1&cino=UKHC010186162025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7e2b6fb7f37c9e70bbcb1ae7b45f17f2393e222bc559446630fda5a7e69e7ba5",
+ "fetched_at": "2026-10-16T05:59:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

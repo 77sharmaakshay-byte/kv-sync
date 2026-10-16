@@ -1,0 +1,20 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2448/2017:2017-10-04-001",
+ "title": "MURTAZA versus STATE OF UTTARAKHAND",
+ "petitioner": "MURTAZA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2448/2017",
+ "case_type": "WPMS",
+ "decision_date": "2017-10-04",
+ "cnr": "UKHC010056322017",
+ "doc_kind": "order",
+ "order_type": "WPMS/2448/2017",
+ "judges": null,
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh3Oxim502bveD%2FddH%2Bw03u77ct8uK%2BzoM%2FT%2FzmFvhyBY&caseno=WPMS/2448/2017&cCode=1&cino=UKHC010056322017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3f0cf7e795c84749910401ef12628612e3f105ada1504b0877a8860270d0b3ef",
+ "fetched_at": "2026-10-16T05:58:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

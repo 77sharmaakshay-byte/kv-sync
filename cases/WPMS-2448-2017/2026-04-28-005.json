@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2448/2017:2026-04-28-005",
+ "title": "MURTAZA versus STATE OF UTTARAKHAND",
+ "petitioner": "MURTAZA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2448/2017",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-28",
+ "cnr": "UKHC010056322017",
+ "doc_kind": "order",
+ "order_type": "WPMS/2448/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh3Oxim502bveD%2FddH%2Bw03u60TfpRKHeKFnCGodAkYoIO&caseno=WPMS/2448/2017&cCode=1&cino=UKHC010056322017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1eb74fd9ba7295ae10fa4ae991220e9638862a07b8e54233a78bc338353f3ae8",
+ "fetched_at": "2026-10-16T05:58:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

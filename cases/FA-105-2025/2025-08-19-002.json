@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/105/2025:2025-08-19-002",
+ "title": "PRAMOD RAWAT versus DURGA RAWAT",
+ "petitioner": "PRAMOD RAWAT",
+ "respondent": "DURGA RAWAT",
+ "case_no": "FA/105/2025",
+ "case_type": "FA",
+ "decision_date": "2025-08-19",
+ "cnr": "UKHC010078032025",
+ "doc_kind": "order",
+ "order_type": "FA/105/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwCMxh%2Fg51dxgfR3fZFhNQUTj3IbdqFVu1Nq3DBQu%2B0h&caseno=FA/105/2025&cCode=1&cino=UKHC010078032025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "155bded58e8861ea4d6d9a8246ed87b83374793bd57f3e6617c5bab7f349ebe8",
+ "fetched_at": "2026-10-16T05:59:12+00:00",
+ "fetched_by": "fetch_live.py"
+}
