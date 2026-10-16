@@ -1,10 +1,12 @@
 {
  "date": "16-10-2026",
- "fetched": "15-10-2026",
+ "fetched": "16-10-2026",
  "source": "ehcr",
  "uploads": [
   "DAILY CAUSELIST|15.10.2026 05:11 PM",
   "DAILY LIST REGISTRAR JUDICIAL|15.10.2026 05:38 PM",
+  "HON'BLE MR. JUSTICE ALOK MAHRA   SUPPLEMENTARY 1|16.10.2026 10:56 AM",
+  "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1|16.10.2026 11:00 AM",
   "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1|15.10.2026 05:14 PM"
  ],
  "benches": [
@@ -64,12 +66,30 @@
   },
   {
    "kind": "Supplementary",
+   "bench": "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1",
+   "type": "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1",
+   "file": "ehcr-20261016_1003_1170-01.pdf",
+   "source_pdf": "20261016_1003_1170.pdf",
+   "uploaded": "16.10.2026 11:00 AM",
+   "chars": 619
+  },
+  {
+   "kind": "Supplementary",
    "bench": "Court 04",
    "type": "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1",
    "file": "ehcr-20261016_1003_1173-01-court-04.pdf",
    "source_pdf": "20261016_1003_1173.pdf",
    "uploaded": "15.10.2026 05:14 PM",
    "chars": 1065
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "Court 05",
+   "type": "HON'BLE MR. JUSTICE ALOK MAHRA   SUPPLEMENTARY 1",
+   "file": "ehcr-20261016_1003_1227-01-court-05.pdf",
+   "source_pdf": "20261016_1003_1227.pdf",
+   "uploaded": "16.10.2026 10:56 AM",
+   "chars": 1063
   }
  ]
 }
