@@ -1,0 +1,20 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/49/2015:2015-05-29-001",
+ "title": "Sushil versus Om Prakash",
+ "petitioner": "Sushil",
+ "respondent": "Om Prakash",
+ "case_no": "FA/49/2015",
+ "case_type": "FA",
+ "decision_date": "2015-05-29",
+ "cnr": "UKHC010003392015",
+ "doc_kind": "order",
+ "order_type": "FA/49/2015",
+ "judges": null,
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWZIGLtTUoA4YcjwDYy1q8z%2Bu5cjYWE8qZ67ljjs4mwk4&caseno=FA/49/2015&cCode=1&cino=UKHC010003392015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a85c089def11e4d84b64ca7865f5bb53c232a3f9d38d4af0ac23045f01aa52cb",
+ "fetched_at": "2026-10-16T05:38:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

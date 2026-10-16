@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/4/2026:2026-07-10-001",
+ "title": "HEMANT KUMAR versus RAJAN KAUSHAN",
+ "petitioner": "HEMANT KUMAR",
+ "respondent": "RAJAN KAUSHAN",
+ "case_no": "CLR/4/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-07-10",
+ "cnr": "UKHC010008242026",
+ "doc_kind": "order",
+ "order_type": "CLR/4/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQimPzNbxXUE1hdk7DO1vvwMiNv7XtrfmdKusn8dzEx%2FC&caseno=CLR/4/2026&cCode=1&cino=UKHC010008242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5b13665b53749c4a37fa4f0e5c489de6d3289df02425cd87b9630738f4a4a586",
+ "fetched_at": "2026-10-16T05:33:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

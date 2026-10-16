@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/145/2026:2026-09-30-007",
+ "title": "VIJAY SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CLR/145/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010143662026",
+ "doc_kind": "order",
+ "order_type": "CLR/145/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQj0Lo4g36cQjF5i6GZgln6puNx1LeD6IkMhCQzT7vIan&caseno=CLR/145/2026&cCode=1&cino=UKHC010143662026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "73164e8e5bb04acd8f03fb01690676cb5406f941f7548491e49caeddf225984e",
+ "fetched_at": "2026-10-16T05:28:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

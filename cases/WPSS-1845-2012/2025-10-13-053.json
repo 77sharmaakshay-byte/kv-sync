@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1845/2012:2025-10-13-053",
+ "title": "MUKESH BAHUGUNA versus STATE OF UTTARAKHAND THROUGH SECRETARY SCHOOL EDUCATION DEPT.",
+ "petitioner": "MUKESH BAHUGUNA",
+ "respondent": "STATE OF UTTARAKHAND THROUGH SECRETARY SCHOOL EDUCATION DEPT.",
+ "case_no": "WPSS/1845/2012",
+ "case_type": "WPSS",
+ "decision_date": "2025-10-13",
+ "cnr": "UKHC010127752012",
+ "doc_kind": "order",
+ "order_type": "WPSS/1845/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FURTHER HEARING -113",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jXtVcCHjDZu2H4picJz77g&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e31cd3661b3064c488b186eb70a3cb9a01b8e17e5641a9eb9b14b5b91abfaa31",
+ "fetched_at": "2026-10-16T05:36:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

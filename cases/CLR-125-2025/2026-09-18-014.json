@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/125/2025:2026-09-18-014",
+ "title": "ASHOK SHARMA versus MANISH GUPTA",
+ "petitioner": "ASHOK SHARMA",
+ "respondent": "MANISH GUPTA",
+ "case_no": "CLR/125/2025",
+ "case_type": "CLR",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010177972025",
+ "doc_kind": "order",
+ "order_type": "CLR/125/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm31YaQXaJEAEh5YvrE2AKf%2F06gMCdL5sVE1hvA86W7Xs&caseno=CLR/125/2025&cCode=1&cino=UKHC010177972025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d73966c7ac3f63a06e08b098db87c0261fa79b4258cd7f9088cfa39daf9082fb",
+ "fetched_at": "2026-10-16T05:29:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

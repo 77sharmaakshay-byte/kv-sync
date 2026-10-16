@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/107/2024:2026-07-24-008",
+ "title": "JAGDISH versus YASHPAL",
+ "petitioner": "JAGDISH",
+ "respondent": "YASHPAL",
+ "case_no": "CLR/107/2024",
+ "case_type": "CLR",
+ "decision_date": "2026-07-24",
+ "cnr": "UKHC010164212024",
+ "doc_kind": "order",
+ "order_type": "CLR/107/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcLUYFg0p0X%2BaTHIHXZ8%2BVS1%2BfEPk11cIdnOsmUJ4HmKi&caseno=CLR/107/2024&cCode=1&cino=UKHC010164212024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3265fdee8a7da245e550462c866374745dffaf6c24be01c6c0503a3f589372d5",
+ "fetched_at": "2026-10-16T05:27:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

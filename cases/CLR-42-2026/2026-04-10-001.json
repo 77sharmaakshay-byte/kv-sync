@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/42/2026:2026-04-10-001",
+ "title": "SAROJ DEVRADI versus SUNITA SINGH",
+ "petitioner": "SAROJ DEVRADI",
+ "respondent": "SUNITA SINGH",
+ "case_no": "CLR/42/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-04-10",
+ "cnr": "UKHC010057012026",
+ "doc_kind": "order",
+ "order_type": "CLR/42/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmd4PQul%2BVnHteISw0RVTlNtVo5bEcD4Jkgr1Vn%2F0JAQ&caseno=CLR/42/2026&cCode=1&cino=UKHC010057012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e6766836e1813a48467609d6661b0745f33997aa91d1beb5ed0175ebe52d021",
+ "fetched_at": "2026-10-16T05:29:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

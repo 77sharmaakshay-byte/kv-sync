@@ -1,0 +1,47 @@
+{
+ "cnr_number": "UKHC010186962026",
+ "case_type": "ABA",
+ "filing_number": "ABA /8996/2026",
+ "filing_date": "2026-10-14",
+ "registration_number": "ABA /434/2026",
+ "registration_date": "2026-10-14",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-16",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "AJAY PRATAP SINGH",
+   "advocate": "SHAILENDRA NAURIYAL,Tilak Ram Sharma,Tilak Ram Sharma, ,Tilak Ram Sharma"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "409,420,120B"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-16",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

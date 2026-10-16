@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ARBAP/76/2023:2024-03-01-003",
+ "title": "NAVEEN CHANDRA ARYA versus M/S AV TRADERS",
+ "petitioner": "NAVEEN CHANDRA ARYA",
+ "respondent": "M/S AV TRADERS",
+ "case_no": "ARBAP/76/2023",
+ "case_type": "ARBAP",
+ "decision_date": "2024-03-01",
+ "cnr": "UKHC010184202023",
+ "doc_kind": "order",
+ "order_type": "ARBAP/76/2023",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYyn1364vQUycCBf%2FlESqrt0ubSmehF%2FF1A6JvdAtI%2BIa&caseno=ARBAP/76/2023&cCode=1&cino=UKHC010184202023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "80e072340ff865b6acf1f9f6474a026678feb57442f05dcf846d2a224875f6c2",
+ "fetched_at": "2026-10-16T05:42:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

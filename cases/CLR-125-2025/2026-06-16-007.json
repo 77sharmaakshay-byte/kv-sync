@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/125/2025:2026-06-16-007",
+ "title": "ASHOK SHARMA versus MANISH GUPTA",
+ "petitioner": "ASHOK SHARMA",
+ "respondent": "MANISH GUPTA",
+ "case_no": "CLR/125/2025",
+ "case_type": "CLR",
+ "decision_date": "2026-06-16",
+ "cnr": "UKHC010177972025",
+ "doc_kind": "order",
+ "order_type": "CLR/125/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm31YaQXaJEAEh5YvrE2AKf9GXLZKe50Z0aYcXnfEZkJM&caseno=CLR/125/2025&cCode=1&cino=UKHC010177972025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "890056c55c64e4639d2ef2f3bd5ef3e0ae88c14370c137c14f451a54f0c36d55",
+ "fetched_at": "2026-10-16T05:29:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

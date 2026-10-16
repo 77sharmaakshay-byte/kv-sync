@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/600/2024:2026-03-23-006",
+ "title": "DIVYARAJ THAKURAL ALIAS RAJ THUKRAL versus STATE OF UTTARAKHAND",
+ "petitioner": "DIVYARAJ THAKURAL ALIAS RAJ THUKRAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/600/2024",
+ "case_type": "CRLR",
+ "decision_date": "2026-03-23",
+ "cnr": "UKHC010135562024",
+ "doc_kind": "order",
+ "order_type": "CRLR/600/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJ7ozqrmr9pKJnx8uExfuMUvCndAZn3qlLaXDjDeH3m2&caseno=CRLR/600/2024&cCode=1&cino=UKHC010135562024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7ded39b21da754590a4ef2a7a69ec0f76f8c8c9e3b2c3182b229f0b93e7d3dcc",
+ "fetched_at": "2026-10-16T05:37:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

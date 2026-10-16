@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/90/2012:2025-02-13-026",
+ "title": "ANIL KUMAR CHAUHAN versus SMT. VINOD DEVI (DECEASED)",
+ "petitioner": "ANIL KUMAR CHAUHAN",
+ "respondent": "SMT. VINOD DEVI (DECEASED)",
+ "case_no": "FA/90/2012",
+ "case_type": "FA",
+ "decision_date": "2025-02-13",
+ "cnr": "UKHC010001932012",
+ "doc_kind": "order",
+ "order_type": "FA/90/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrDIfnvXZ4i%2FeE1g7KlJCoaSi191zzl3ahkUUd2Qk0soZ&caseno=FA/90/2012&cCode=1&cino=UKHC010001932012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "572cdc6b004db3cb3d9fd53ecb30f73a2d039d21773a3a6a3920199a6ccb3201",
+ "fetched_at": "2026-10-16T05:38:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

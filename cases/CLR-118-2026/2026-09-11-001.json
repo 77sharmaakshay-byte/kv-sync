@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/118/2026:2026-09-11-001",
+ "title": "J P SAH DECEASED(Legal Heir) versus KAILASH NEGI ALIAS ANMOL",
+ "petitioner": "J P SAH DECEASED(Legal Heir)",
+ "respondent": "KAILASH NEGI ALIAS ANMOL",
+ "case_no": "CLR/118/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010159262026",
+ "doc_kind": "order",
+ "order_type": "CLR/118/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnlW7CZl4lgEonLA1P%2BTUk24A9Ya6dB5N0%2FbA3HTBg3q&caseno=CLR/118/2026&cCode=1&cino=UKHC010159262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "656b894d75d948e40df587d5cef1972be5753a565cd9eec6ee9c424e845bb7d7",
+ "fetched_at": "2026-10-16T05:32:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

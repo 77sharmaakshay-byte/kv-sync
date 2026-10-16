@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/591/2017:2021-10-20-004",
+ "title": "ORIENTAL INSURANCE CO. versus SMT. ANITA JOSHI",
+ "petitioner": "ORIENTAL INSURANCE CO.",
+ "respondent": "SMT. ANITA JOSHI",
+ "case_no": "AO/591/2017",
+ "case_type": "AO",
+ "decision_date": "2021-10-20",
+ "cnr": "UKHC010041372017",
+ "doc_kind": "order",
+ "order_type": "AO/591/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShz9BmZt%2BG%2F9ztXOnB%2BPRMTVK5Lxfj5QMvXEQjhQoEUIm&caseno=AO/591/2017&cCode=1&cino=UKHC010041372017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6f4711431fb2d9a0926b50d06257f05f72b5ef2588b0a28729d64a58026b3130",
+ "fetched_at": "2026-10-16T05:32:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

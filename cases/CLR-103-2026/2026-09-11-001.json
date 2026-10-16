@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/103/2026:2026-09-11-001",
+ "title": "SITA RAM versus COMMANDANT 40TH BATTALION PAC",
+ "petitioner": "SITA RAM",
+ "respondent": "COMMANDANT 40TH BATTALION PAC",
+ "case_no": "CLR/103/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010146212026",
+ "doc_kind": "order",
+ "order_type": "CLR/103/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoI7u2wUW0vmNqj2jRszRisXYz1k19QhuBzJs0r584fe&caseno=CLR/103/2026&cCode=1&cino=UKHC010146212026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d7ac6c8ae7497813dc536840890e541f28a56a5ea954be0ade706fa976acbefa",
+ "fetched_at": "2026-10-16T05:27:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

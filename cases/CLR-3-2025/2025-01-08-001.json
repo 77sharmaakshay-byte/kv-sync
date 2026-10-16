@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/3/2025:2025-01-08-001",
+ "title": "BRAHAMKALI versus SHRI KARNWAL ASHRAM SAMITI BHIMGOWDA",
+ "petitioner": "BRAHAMKALI",
+ "respondent": "SHRI KARNWAL ASHRAM SAMITI BHIMGOWDA",
+ "case_no": "CLR/3/2025",
+ "case_type": "CLR",
+ "decision_date": "2025-01-08",
+ "cnr": "UKHC010003042025",
+ "doc_kind": "order",
+ "order_type": "CLR/3/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6l0AilnCWh6B3cbWgGhTWnQCh1hEV2bkfaDGWaTq1yv&caseno=CLR/3/2025&cCode=1&cino=UKHC010003042025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "59554d9189ee6003bb884a9524cb363d0d1e40f964b792fee3368f1b76850dbc",
+ "fetched_at": "2026-10-16T05:28:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

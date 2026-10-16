@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/9/2026:2026-02-02-001",
+ "title": "AMRIK SINGH (SINCE DECEASED)(Legal Heir) versus HARIPRIYA BAGADWAL (SINCE DECEASED)",
+ "petitioner": "AMRIK SINGH (SINCE DECEASED)(Legal Heir)",
+ "respondent": "HARIPRIYA BAGADWAL (SINCE DECEASED)",
+ "case_no": "CLR/9/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-02-02",
+ "cnr": "UKHC010014592026",
+ "doc_kind": "order",
+ "order_type": "CLR/9/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlwtnxceEMykWLXjxoW8irbGMbUODcmH0PUHMH9WJNE%2F&caseno=CLR/9/2026&cCode=1&cino=UKHC010014592026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a90f7d34a86a007807e1d10fec4885bfe2725e819ba794de47ff698f30fcef8c",
+ "fetched_at": "2026-10-16T05:33:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

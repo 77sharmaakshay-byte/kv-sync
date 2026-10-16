@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/9/2026:2026-06-05-002",
+ "title": "AMRIK SINGH (SINCE DECEASED)(Legal Heir) versus HARIPRIYA BAGADWAL (SINCE DECEASED)",
+ "petitioner": "AMRIK SINGH (SINCE DECEASED)(Legal Heir)",
+ "respondent": "HARIPRIYA BAGADWAL (SINCE DECEASED)",
+ "case_no": "CLR/9/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-06-05",
+ "cnr": "UKHC010014592026",
+ "doc_kind": "order",
+ "order_type": "CLR/9/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlwtnxceEMykWLXjxoW8ira%2B3bcgern%2BpMxdd4qshvpj&caseno=CLR/9/2026&cCode=1&cino=UKHC010014592026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d972f84581a3b2013fc728a72ca582d7cfad18497ab7563a28c66a967142a7bc",
+ "fetched_at": "2026-10-16T05:33:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

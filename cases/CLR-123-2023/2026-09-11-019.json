@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/123/2023:2026-09-11-019",
+ "title": "CHANDRAPRABHA versus KIRAN DUTTA",
+ "petitioner": "CHANDRAPRABHA",
+ "respondent": "KIRAN DUTTA",
+ "case_no": "CLR/123/2023",
+ "case_type": "CLR",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010137202023",
+ "doc_kind": "order",
+ "order_type": "CLR/123/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYy1RtAnUWbNySl8LE2vGa%2F%2BIQGRwf4xEyc0uWCVFpPqK&caseno=CLR/123/2023&cCode=1&cino=UKHC010137202023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f45abde5b0609ba2c448418afba524a36e12cc57d32664a61acc10c88bf1b0f4",
+ "fetched_at": "2026-10-16T05:31:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

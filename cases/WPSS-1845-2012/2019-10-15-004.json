@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1845/2012:2019-10-15-004",
+ "title": "MUKESH BAHUGUNA versus STATE OF UTTARAKHAND THROUGH SECRETARY SCHOOL EDUCATION DEPT.",
+ "petitioner": "MUKESH BAHUGUNA",
+ "respondent": "STATE OF UTTARAKHAND THROUGH SECRETARY SCHOOL EDUCATION DEPT.",
+ "case_no": "WPSS/1845/2012",
+ "case_type": "WPSS",
+ "decision_date": "2019-10-15",
+ "cnr": "UKHC010127752012",
+ "doc_kind": "order",
+ "order_type": "WPSS/1845/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia"
+ ],
+ "case_status": "FOR FURTHER HEARING -113",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0g9V%2F0L3UxHmgIxaSFJEqQ4&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d63621cea16b8f7fbd7a819b83142ac988345bfb072a57df6c26276e7a8bf747",
+ "fetched_at": "2026-10-16T05:36:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

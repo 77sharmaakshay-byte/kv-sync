@@ -1,0 +1,62 @@
+{
+ "cnr_number": "UKHC010178462026",
+ "case_type": "CLR",
+ "filing_number": "CLR /9281/2026",
+ "filing_date": "2026-10-05",
+ "registration_number": "CLR /144/2026",
+ "registration_date": "2026-10-05",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-16",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "UNION OF INDIA",
+   "advocate": "V K KAPARUWAN"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SHAILENDRA SINGH NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "SHRI RAJENDRA SINGH NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "COLLECTOR",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Code of Civil Procedure, 1908 (Act No. 5 of 1908)",
+   "sections": "115"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-09",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-09",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

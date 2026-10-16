@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/50/2019:2024-02-21-005",
+ "title": "ARVIND BANSAL versus PUNITA NAGLIYA",
+ "petitioner": "ARVIND BANSAL",
+ "respondent": "PUNITA NAGLIYA",
+ "case_no": "CLR/50/2019",
+ "case_type": "CLR",
+ "decision_date": "2024-02-21",
+ "cnr": "UKHC010061572019",
+ "doc_kind": "order",
+ "order_type": "CLR/50/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFxGMeIWcl4bE%2BCBUI1n3DKDyOCygG6VEtlBxxahUG2Di&caseno=CLR/50/2019&cCode=1&cino=UKHC010061572019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "500c79a477fca7444747f596a77d80839faa7a746940879076f91e66d657fa41",
+ "fetched_at": "2026-10-16T05:30:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

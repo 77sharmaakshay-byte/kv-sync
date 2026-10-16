@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/185/2015:2025-09-03-007",
+ "title": "NATIONAL INSURANCE COMPANY LIMITED versus SMT. PARWATI",
+ "petitioner": "NATIONAL INSURANCE COMPANY LIMITED",
+ "respondent": "SMT. PARWATI",
+ "case_no": "AO/185/2015",
+ "case_type": "AO",
+ "decision_date": "2025-09-03",
+ "cnr": "UKHC010023072015",
+ "doc_kind": "order",
+ "order_type": "AO/185/2015",
+ "judges": [
+  "Daily Lok Adalat"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWU83oZZ22kI4HtCUJgeKmuhWcf2PBldtzXMKDMxd5u9q&caseno=AO/185/2015&cCode=1&cino=UKHC010023072015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cbc95336890514ef95c4f527e0d0f78377d8aa8ab04dded171e3ee91829a54ec",
+ "fetched_at": "2026-10-16T05:37:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

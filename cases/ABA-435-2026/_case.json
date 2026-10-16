@@ -1,0 +1,54 @@
+{
+ "cnr_number": "UKHC010187122026",
+ "case_type": "ABA",
+ "filing_number": "ABA /9006/2026",
+ "filing_date": "2026-10-14",
+ "registration_number": "ABA /435/2026",
+ "registration_date": "2026-10-14",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-16",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "SAUMYA SINGH",
+   "advocate": "MUKESH KUMAR KAPARUWAN,KRISHAN MOHAN JOSHI,KRISHAN MOHAN JOSHI, ,ANSHUMAAN SINGH CHAUHAN,KRISHAN MOHAN JOSHI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "318(4),336(3),338,340(2),61(2)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-15",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST 2"
+  },
+  {
+   "hearing_date": "2026-10-16",
+   "business_date": "2026-10-15",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST 2"
+  }
+ ],
+ "orders": []
+}

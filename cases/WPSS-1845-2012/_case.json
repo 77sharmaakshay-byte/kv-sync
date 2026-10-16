@@ -1,0 +1,2970 @@
+{
+ "cnr_number": "UKHC010127752012",
+ "case_type": "WPSS",
+ "filing_number": "WPSS /1011720/2012",
+ "filing_date": "2012-12-31",
+ "registration_number": "WPSS /1845/2012",
+ "registration_date": "2012-12-31",
+ "first_hearing_date": "2013-07-25",
+ "next_hearing_date": "2026-10-16",
+ "decision_date": null,
+ "case_stage": "FOR FURTHER HEARING -113",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Tehri Garhwal",
+ "petitioners": [
+  {
+   "name": "MUKESH BAHUGUNA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT,HEMANT PANT, ,SANDEEP ADHIKARI,HEMANT PANT"
+  },
+  {
+   "name": "KHUSHPAL SINGH BHANDARI,",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "KUNDAN SINGH,",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "HEMANT KUMAR DUNGARKOTI,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "VINOD KUMAR JEENA,",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "ARVIND BISHT,",
+   "advocate": "HEMANT PANT"
+  },
+  {
+   "name": "NARENDRA SINGH BISHT",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SANJAY SINGH RAWAT,",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "ASHUTOSH JOSHI",
+   "advocate": "HEMANT PANT"
+  },
+  {
+   "name": "SOBENDRA JOSHI,",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "DEEPAK SATI,",
+   "advocate": ""
+  },
+  {
+   "name": "DIVYA RANJAN BAHUGUNA,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "HARI BALLABH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "NARAYAN SINGH MEHARA,",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "ALOK PANDEY",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "RAMESH CHANDRA ,",
+   "advocate": ""
+  },
+  {
+   "name": "PUSHKAR SINGH,",
+   "advocate": "HEMANT PANT"
+  },
+  {
+   "name": "DEEPAK CHAUHAN,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "MADAN SINGH NEGI,",
+   "advocate": "HEMANT PANT,LALIT SAMANT"
+  },
+  {
+   "name": "LAKHAN SINGH BUTOLA,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "AVNISH BHARTI,",
+   "advocate": ""
+  },
+  {
+   "name": "VIJAY PAL SINGH,",
+   "advocate": ""
+  },
+  {
+   "name": "RAKESH PRASAD,",
+   "advocate": ""
+  },
+  {
+   "name": "ANAND MOHAN RAJ,",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "SAMPURANAND",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "NANDISWAR",
+   "advocate": ""
+  },
+  {
+   "name": "BASANT KUMAR,",
+   "advocate": ""
+  },
+  {
+   "name": "PANKAJ KISHOR BIJALWAN,",
+   "advocate": ""
+  },
+  {
+   "name": "MANMOHAN SINGH KATHAIT,",
+   "advocate": ""
+  },
+  {
+   "name": "ANIL KUMAR,",
+   "advocate": ""
+  },
+  {
+   "name": "SANDEEP KUMAR JAKHWAL.",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "MANOJ TIWARI,",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "ANIL BISHT,",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "BADRI PRASAD BHATT,",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA PRASAD JOSHI.",
+   "advocate": "HEMANT PANT"
+  },
+  {
+   "name": "ATUL KUKRETI,",
+   "advocate": ""
+  },
+  {
+   "name": "PRADEEP BAHUGUNA,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "PRADEEP KUMAR SINGH BISHT,",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "SHAILENDRA JOSHI",
+   "advocate": "HEMANT PANT"
+  },
+  {
+   "name": "BHAGWATI PRASAD DABRAL",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "YASH PAL SINGH BHANDARI,",
+   "advocate": ""
+  },
+  {
+   "name": "ANUP SINGH ASWAL,",
+   "advocate": ""
+  },
+  {
+   "name": "AJAY RAWAT,",
+   "advocate": ""
+  },
+  {
+   "name": "SANDEEP KUMAR,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "ABHDESH NAUTIYAL,",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "KHARAK SINGH,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "CHANDRA MOHAN",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "DEEPAK DEVSHALI,",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "ANUP KUMAR KHANDURI,",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "RAVINDRA SINGH KAINTURA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SUBANDHU KUMAR,",
+   "advocate": ""
+  },
+  {
+   "name": "VIRENDRA SINGH,",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "SRIKANT KALA,",
+   "advocate": ""
+  },
+  {
+   "name": "TANUJ KUKRETI,",
+   "advocate": ""
+  },
+  {
+   "name": "NARENDRA MOHAN,",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "CHANDRA SHEKHAR JOSHI,",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "NARENDRA SINGH,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DEEPAK GAUR,",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "VISHESH KUMAR CHAURASIYA,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SANJAY KUMAR",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "MOHMMAD YASIN",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "PRADEEP KUMAR KANYAL,",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "KUNWAR LAL BHETWAL,",
+   "advocate": ""
+  },
+  {
+   "name": "VINOD PAINULY",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "DEENDAYAL SINGH,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "ASHISH BHATNAGAR,",
+   "advocate": ""
+  },
+  {
+   "name": "KULDEEP KUMAR,",
+   "advocate": ""
+  },
+  {
+   "name": "JAIDEEP KUMAR UNIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "SUSHIL CHANDRA  TIWARI,",
+   "advocate": ""
+  },
+  {
+   "name": "SOBAN SINGH",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "SANJEEV KUMAR PANDEY,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SATYENDRA NAUTIYAL",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "MANOJ SAKLANI",
+   "advocate": ""
+  },
+  {
+   "name": "SANJAY KUMAR PATNI",
+   "advocate": ""
+  },
+  {
+   "name": "UMESH CHANDRA PANT",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "SUBODH SEMWAL",
+   "advocate": ""
+  },
+  {
+   "name": "RANJAN KUMAR BHATT",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "LOKENDRA PAL SINGH PARMAR",
+   "advocate": ""
+  },
+  {
+   "name": "ANNRAJ SINGH BHANDARI",
+   "advocate": ""
+  },
+  {
+   "name": "SANJAY KUMAR PUNETHA",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "SANJAY SHARAN AHUWALILYA",
+   "advocate": ""
+  },
+  {
+   "name": "DARSHAN KUMAR,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "JAGDISH CHANDRA VIDYARTHI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "MANOJ KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "YADVESH CHANDRA,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DR. RAJKISHOR",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "MANJUL JOSHI,",
+   "advocate": ""
+  },
+  {
+   "name": "JASPAL SINGH KHATRI,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "VISHNU SINGH,",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "ABHISHEK KUKRETI",
+   "advocate": ""
+  },
+  {
+   "name": "SANJAY SINGH,",
+   "advocate": ""
+  },
+  {
+   "name": "JAI KISHAN",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SACHIDANAND SINGH,",
+   "advocate": ""
+  },
+  {
+   "name": "JAGAT RAM",
+   "advocate": ""
+  },
+  {
+   "name": "SUSHIL KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "VIPUL MISHRA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "KHARAK SINGH KHATI",
+   "advocate": ""
+  },
+  {
+   "name": "BHUPENDRA SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "HARISH KUMAR SATI,",
+   "advocate": ""
+  },
+  {
+   "name": "SUDHIR SINGH NEGI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DR. RAKESH CHANDRA GAIROLA,",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "BHAGWAN SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "ANIL KUMAR SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "PURAN SINGH RANA",
+   "advocate": ""
+  },
+  {
+   "name": "SUNIL SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SANJAY KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "DESH KUMAR KALYAN",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "VIJAYA CHANDRA THAPLIYAL",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DHEERENDRA SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DHOOM SINGH NEGI",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "DR. ANIL SHARMA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DINESH CHANRDA",
+   "advocate": ""
+  },
+  {
+   "name": "BALBIR SINGH PANWAR",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "VIKRAM PANT",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "UPANT RAWAT",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "RAJENDRA SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "MANOJ KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "MADAN MOHAN DIMARI",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "AMAR SINGH BUTOLA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SANJAY RAWAT",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "TAJBAR SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "MAHIPAT SIGH",
+   "advocate": ""
+  },
+  {
+   "name": "BHUPENDRA NATH",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA GIRI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SUNIL KUMAR",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DINESH SINGH",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "DR. DEEPENDRA SIGH NAYAL",
+   "advocate": ""
+  },
+  {
+   "name": "DR. SURENDRA SINGH NEGI,",
+   "advocate": ""
+  },
+  {
+   "name": "YASHWANT PRAKASH NAUTIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "PARTAP SINGH",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "YASHWANT PRAKASH NAUTIYAL",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "NIRMAL KUMAR NEOLIYA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DEEPAK KUMAR BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "BRIJ RAJ SINGH RANA",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "HARISH SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DINESH CHANDRA THAPLIYAL",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "HARENDRA SINGH BISHT",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "RUP CHANDRA LAL SAILANI",
+   "advocate": ""
+  },
+  {
+   "name": "GOKUL SINGH MARTOLIA",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "SHIV PRASAD DYUNDI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SUDHA KANT GAIROLA",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "KISHOR CHANDRA PATNI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SURESH CHANDRA BHATT",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "DR. BRIJMOHAN SINGH RAWAT",
+   "advocate": ""
+  },
+  {
+   "name": "BALAM SINGH RAIKWAL",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "VISHWESHWAR BHATIYANI",
+   "advocate": ""
+  },
+  {
+   "name": "ANUP THAPLIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "ANIL RANA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DHIRENDRA MISHRA",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "SARVADAMAN TRIPATHI",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "NARENDRA KUMAR PANT",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "MAHIPAL SINGH PANWAR",
+   "advocate": ""
+  },
+  {
+   "name": "MANOJ KUMAR CHAMOLA",
+   "advocate": ""
+  },
+  {
+   "name": "NRIPENDRA PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "DHAN SINGH GHARIYA",
+   "advocate": ""
+  },
+  {
+   "name": "MANMOHAN SINGH",
+   "advocate": "ATUL BAHUGUNA,MAHAVIR KOHLI"
+  },
+  {
+   "name": "MANOJ SINGH ASWAL",
+   "advocate": ""
+  },
+  {
+   "name": "MANOJ KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "BRIJESH SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "GIRISH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "SURESH RAM",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "ATOL SINGH MAHAR",
+   "advocate": "LALIT SAMANT"
+  },
+  {
+   "name": "RAMESH CHANDRA PANULY",
+   "advocate": "HEMANT PANT"
+  },
+  {
+   "name": "MANTRIP PRASAD SEMWAL",
+   "advocate": ""
+  },
+  {
+   "name": "RAGHUVEER SINGH RANA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "MAHA MAYA PRASAD BHATT",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "AMAR DEV UNIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "DEVANDER SINGH RAWAT",
+   "advocate": ""
+  },
+  {
+   "name": "LAXMI PRASAD MALGURI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "VINOD PRAKASH",
+   "advocate": ""
+  },
+  {
+   "name": "KAILASH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "KAUSHAL KISHOR PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "RAVINDRA SINGH NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "GOPAL RAM BHATT",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SHOBI PRASAD",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "ANSUYA PRASAD GOSWAMI",
+   "advocate": ""
+  },
+  {
+   "name": "MAHESH LAL VERMA",
+   "advocate": ""
+  },
+  {
+   "name": "VISHWAS KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "NARENDRA SINGH NEGI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "JAIPRAKASH KHANDURI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "PRAKASH CHANDRA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "BALAM SINGH RANA",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDR ALAL ARYA",
+   "advocate": ""
+  },
+  {
+   "name": "VINOD KUMAR YADAV",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "VINOD PRASAD",
+   "advocate": ""
+  },
+  {
+   "name": "GAJENDER SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "ANIL KUMAR",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "ASHWANI JUGRAN",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "RAKESH CHANDRA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "BHARAT SINGH",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "YOGJEET SEMWAL",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "KULDEEP SINGH SAINI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "MOHAN KAUSHIK",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "ANIL KUMAR BISHT",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "AKHILESH CHANDRA",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "RAVINDRA PRASAD MAITHANI",
+   "advocate": ""
+  },
+  {
+   "name": "JANARDHAN SILPKAR",
+   "advocate": ""
+  },
+  {
+   "name": "NARENDRA SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DHEERAJ KUMAR BARCHWAN",
+   "advocate": ""
+  },
+  {
+   "name": "HEERA SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DAVINDRA PRASAD THAPLIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "VIPIN NAITHANI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "DR. HARINAND BHATT",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "PURSHOTAM GAUR",
+   "advocate": ""
+  },
+  {
+   "name": "JAI SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "RAJANDER SINGH BHANDARI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "NAVEEN BARTHWAL",
+   "advocate": "HEMANT PANT,HIMANI UPADHYAY"
+  },
+  {
+   "name": "MOHAN CHANDRA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "PUSHPESH SANGA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "SURENDRA KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "PANKAJ KUMAR TAMTA",
+   "advocate": ""
+  },
+  {
+   "name": "JAGJEEVAN RAM",
+   "advocate": ""
+  },
+  {
+   "name": "SANJAY SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "LALIT MOHAN MURARI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "MUKESH SHARMA",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "BHARMA NAND KIMOTHI",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "BERENDRA DUTT NAUTIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDRA SHEKHAR BHATT",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "HEM CHANDRA BHANDARI",
+   "advocate": ""
+  },
+  {
+   "name": "SANJEEV KUMAR AHLAWAT",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "MOHAN SINGH",
+   "advocate": "HIMANI UPADHYAY,HEMANT PANT"
+  },
+  {
+   "name": "ANKUR VISNOI",
+   "advocate": ""
+  },
+  {
+   "name": "MOHAN SINGH RAWAT",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND THROUGH SECRETARY SCHOOL EDUCATION DEPT.",
+   "advocate": "C.S.C.,"
+  },
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  },
+  {
+   "name": "DIRECTOR",
+   "advocate": ""
+  },
+  {
+   "name": "HERPAL SINGH NEGI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "SOHAN SINGH NEGI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "AWATAR SINGH BHANDHARI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "JOT SINGH BISHT",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "LALIT MOHAN KALA",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "NATHI SINGH PAWAR",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "DALIP SINGH BISHT",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "KAILASH CHANDRA PANT",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "RADHEY SHYAM MALKANI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "RAM RATAN SINGH KANDARI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "GIRISH CHANDRA DHAYNI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "BINOD KUMAR MISHRA",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "RAMESH NARAYAN CHATURVEDI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "SHER SINGH MEHTA",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "BHAGAWATI PRASAD",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "GIRISHM CHANDRA",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "MAHESWAR DAYAL",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "DHARMRAJ",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "SHESH NARAYAN SHUKLA",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "PREM SINGH RAWAT",
+   "advocate": ""
+  },
+  {
+   "name": "LALA RAM KATHIYAR",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "AADERSH KUMAR DWIVEDI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "RUDRA PARSAD MISHRA",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "HARISH CHANDR YADAV",
+   "advocate": ""
+  },
+  {
+   "name": "MAHMOOD ALI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "GOVIND RAM BIJALWAN",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "ROSHAN LAL PANWAR",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "KAILASH CHANDRA BAHUKHADI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "PURANANAND BHAGAT",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "KISHAN SINGH DANGWAL",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "SHER SINGH KANYAL",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "GOKUL SINGH NEGI",
+   "advocate": "S S YADAV"
+  },
+  {
+   "name": "Nathi Singh Panwar",
+   "advocate": ""
+  },
+  {
+   "name": "Pradeep Kumar Naithani, Lecturer, Government Intermediate College,",
+   "advocate": ""
+  },
+  {
+   "name": "PRAKASH CHANDRA BADONI, LECTURER ,GOVERNMENT INTERMEDIATE COLLEGE ,",
+   "advocate": ""
+  },
+  {
+   "name": "DEEPAK BANSAL, LECTURER ,GOVERNMENT INTERMEDIATE COLLEGE ,",
+   "advocate": ""
+  },
+  {
+   "name": "SHAILENDRA KUMAR SINGH , LECTURER ,GOVERNMENT INTERMEDIATE COLLEGE ,",
+   "advocate": ""
+  },
+  {
+   "name": "DR. KRISHNA NAND BIJALWAN  , LECTURER",
+   "advocate": ""
+  },
+  {
+   "name": "MRS. RANJNA GOSAIN, LECTURER, GOVERNMENT GIRLS INTERMEDIATE COLLEGE,",
+   "advocate": ""
+  },
+  {
+   "name": "MRS. NANDA BISHT , LECTURER, GOVERNMENT GIRLS INTERMEDIATE COLLEGE,",
+   "advocate": ""
+  },
+  {
+   "name": "DINESH SINGH RAWAT , LECTURER, GOVERNMENT  INTERMEDIATE COLLEGE,",
+   "advocate": ""
+  },
+  {
+   "name": "SURENDRA KUMAR NIRANJAN  , LECTURER, GOVERNMENT  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "PREMNARAYAN SAKLANI, , LECTURER, GOVERNMENT  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "NETRAPAL SINGH PAWAR, LECTURER, GOVERNMENT  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDRA RAJ SINGH NEGI, LECTURER, GOVERNMENT  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "PRAJAPATI NAUTIYAL, LECTURER, GOVERNMENT  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "LAXMIKANT MISHRA, LECTURER, GOVERNMENT  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "MANMOHAN SINGH CHAUHAN, LECTURER, GOVERNMENT  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "HARSH MANI RATURI, LECTURER, GOVERNMENT  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "AABHA BAHUGUNA, LECTURER,GOVERNMENT GIRLS  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "MAMTA NIRANJAN ,LECTURER,GOVERNMENT GIRLS  INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "GANESH PRASAD THAPLIYAL ,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "DR. SUDHIR KUMAR UNIYAL,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "MRS.SUBODHINI JOSHI ,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "KAILASH CHANDRA DIMARI ,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "REKHA NAUTIYAL ,LECTURER,GOVERNMENT GIRLS INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "PRABHAKAR DUBEY ,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "UMA NATH MISHRA ,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "OM PRAKASH SHRIVASTAV ,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "ARUN KUMAR MEHTA ,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "MANVENDRA SINGH RAWAT,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "SURENDRA DUT UNIYAL ,LECTURER,GOVERNMENT INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "KAILASH DANGWAL, LECTURER, DIET",
+   "advocate": ""
+  },
+  {
+   "name": "KARANVEER SINGH CHAUDHARI , LECTURER, GOVT. INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "SANJAY JAIN  LECTURER, GOVT. INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "SABBAL SINGH NEGI  LECTURER, GOVT. INTERMEDIATE COLLEGE",
+   "advocate": ""
+  },
+  {
+   "name": "RAM SINGH CHAUCHAN, LECTURER DIET",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDRA LAL SAH, LECTURER . GIC DHAMDEWAL",
+   "advocate": ""
+  },
+  {
+   "name": "UTTARAKHAND PUBLIC SERVICE COMMISSION, THROUGH ITS SECRETARY.",
+   "advocate": "PANKAJ MIGLANI"
+  },
+  {
+   "name": "Bhagwati Prasad Bijalwan, Astt. Teacher (L.T.)",
+   "advocate": ""
+  },
+  {
+   "name": "Sunil Dutt Gairola,Astt. Teacher (L.T.)G.I.C.",
+   "advocate": ""
+  },
+  {
+   "name": "Kedar Singh Bisht",
+   "advocate": ""
+  },
+  {
+   "name": "Virendra Singh Kuwar",
+   "advocate": ""
+  },
+  {
+   "name": "Om prakash Kotnala, Lecturer",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-11",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-16",
+   "business_date": "2026-08-14",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-07",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-05",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-05",
+   "business_date": "2026-07-29",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-15",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-05-11",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-04-06",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-06",
+   "business_date": "2026-03-23",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-03-23",
+   "business_date": "2026-03-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-01-07",
+   "purpose": "ADMISSION MATTERS (TOP) -97",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-01-07",
+   "business_date": "2025-12-31",
+   "purpose": "ADMISSION MATTERS (TOP) -97",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-31",
+   "business_date": "2025-12-18",
+   "purpose": "ADMISSION MATTERS (TOP) -97",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2025-12-18",
+   "business_date": "2025-12-17",
+   "purpose": "ADMISSION MATTERS (TOP) -97",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-17",
+   "business_date": "2025-12-11",
+   "purpose": "ADMISSION MATTERS (TOP) -97",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-11",
+   "business_date": "2025-12-09",
+   "purpose": "ADMISSION MATTERS (TOP) -97",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-01-09",
+   "business_date": "2025-12-01",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-01",
+   "business_date": "2025-11-17",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-11-17",
+   "business_date": "2025-10-17",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-10-17",
+   "business_date": "2025-10-13",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-10-13",
+   "business_date": "2025-09-26",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-09-26",
+   "business_date": "2025-09-23",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-09-23",
+   "business_date": "2025-09-11",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-09-11",
+   "business_date": "2025-08-22",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-08-22",
+   "business_date": "2025-08-08",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-08-08",
+   "business_date": "2025-07-30",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-30",
+   "business_date": "2025-06-30",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-30",
+   "business_date": "2025-06-04",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-04",
+   "business_date": "2025-05-14",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-05-14",
+   "business_date": "2025-04-15",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-15",
+   "business_date": "2025-04-07",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-07",
+   "business_date": "2025-03-25",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-25",
+   "business_date": "2025-03-20",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-20",
+   "business_date": "2025-03-05",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-05",
+   "business_date": "2025-03-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-04",
+   "business_date": "2025-02-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-02-28",
+   "business_date": "2025-02-19",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-02-19",
+   "business_date": "2025-01-06",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-01-06",
+   "business_date": "2024-12-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-03",
+   "business_date": "2024-11-04",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-11-04",
+   "business_date": "2024-10-16",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-16",
+   "business_date": "2024-10-15",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-15",
+   "business_date": "2024-09-26",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-26",
+   "business_date": "2024-09-25",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-25",
+   "business_date": "2024-09-24",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-24",
+   "business_date": "2024-09-05",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-05",
+   "business_date": "2024-09-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-04",
+   "business_date": "2024-08-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-13",
+   "business_date": "2024-07-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-22",
+   "business_date": "2024-07-08",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-08",
+   "business_date": "2024-06-21",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-06-21",
+   "business_date": "2024-05-24",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-05-24",
+   "business_date": "2024-04-02",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-02",
+   "business_date": "2024-03-15",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-15",
+   "business_date": "2024-03-14",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-14",
+   "business_date": "2024-03-13",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-13",
+   "business_date": "2024-03-07",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-07",
+   "business_date": "2024-02-29",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-02-29",
+   "business_date": "2024-02-22",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-02-22",
+   "business_date": "2024-02-20",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-02-20",
+   "business_date": "2024-01-10",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-01-10",
+   "business_date": "2023-12-21",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-12-21",
+   "business_date": "2023-12-02",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-12-02",
+   "business_date": "2023-10-09",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-09",
+   "business_date": "2023-10-05",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-05",
+   "business_date": "2023-09-12",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-09-22",
+   "business_date": "2023-08-17",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-08-17",
+   "business_date": "2023-07-28",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-28",
+   "business_date": "2023-07-07",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-07",
+   "business_date": "2023-06-26",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-26",
+   "business_date": "2023-06-07",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-07",
+   "business_date": "2023-05-18",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-05-18",
+   "business_date": "2023-05-09",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-05-09",
+   "business_date": "2023-04-27",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-04-27",
+   "business_date": "2023-04-01",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-04-01",
+   "business_date": "2023-03-15",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-03-15",
+   "business_date": "2023-02-25",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-02-25",
+   "business_date": "2023-02-20",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-02-20",
+   "business_date": "2023-01-05",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-01-05",
+   "business_date": "2022-11-10",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-11-10",
+   "business_date": "2022-10-13",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-10-13",
+   "business_date": "2022-09-26",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-09-26",
+   "business_date": "2022-09-09",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-09-09",
+   "business_date": "2022-08-26",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-08-26",
+   "business_date": "2022-07-08",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-07-08",
+   "business_date": "2022-06-24",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-06-20",
+   "business_date": "2022-05-23",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-06-20",
+   "business_date": null,
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-05-23",
+   "business_date": "2022-05-21",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-05-17",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-05-17",
+   "business_date": "2022-05-13",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-05-13",
+   "business_date": "2022-05-12",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-05-12",
+   "business_date": "2022-05-11",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-05-11",
+   "business_date": "2022-05-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-04-25",
+   "business_date": "2022-03-25",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-03-21",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-03-16",
+   "business_date": "2022-03-11",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-03-14",
+   "business_date": "2022-03-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-03-05",
+   "business_date": "2022-02-25",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-03-11",
+   "business_date": "2022-02-18",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-02-21",
+   "business_date": "2021-12-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-12-27",
+   "business_date": "2021-12-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2021-12-06",
+   "business_date": "2021-11-17",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-10-08",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-10-08",
+   "business_date": "2021-10-05",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-09-20",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-09-01",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-08-18",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-08-18",
+   "business_date": "2021-08-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-01-11",
+   "business_date": "2020-12-21",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-12-21",
+   "business_date": "2020-11-23",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-11-23",
+   "business_date": "2020-10-27",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-03-23",
+   "business_date": "2020-03-06",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-11-13",
+   "business_date": "2019-10-15",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-10-15",
+   "business_date": "2019-10-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-07-05",
+   "business_date": "2019-06-14",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-06-14",
+   "business_date": "2019-05-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-05-27",
+   "business_date": "2019-05-24",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-04-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-11-19",
+   "business_date": "2018-10-29",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-10-29",
+   "business_date": "2018-10-24",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-10-24",
+   "business_date": "2018-10-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-10-10",
+   "business_date": "2018-09-12",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-09-12",
+   "business_date": "2018-09-06",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-09-06",
+   "business_date": "2018-08-01",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-08-01",
+   "business_date": "2017-09-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-09-12",
+   "business_date": "2017-08-31",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-08-31",
+   "business_date": "2017-08-21",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-08-21",
+   "business_date": "2017-07-25",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-07-25",
+   "business_date": "2017-07-17",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-07-17",
+   "business_date": "2017-06-20",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-06-08",
+   "business_date": "2017-06-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-06-20",
+   "business_date": "2017-06-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-06-08",
+   "business_date": "2017-04-18",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-04-18",
+   "business_date": "2017-03-16",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-03-16",
+   "business_date": "2017-01-07",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-01-07",
+   "business_date": "2016-12-06",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-12-06",
+   "business_date": "2016-11-30",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-11-30",
+   "business_date": "2016-10-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-10-22",
+   "business_date": "2016-10-01",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-10-01",
+   "business_date": "2016-09-30",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-09-30",
+   "business_date": "2016-09-20",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-09-20",
+   "business_date": "2016-07-29",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-07-29",
+   "business_date": "2016-06-22",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-06-22",
+   "business_date": "2016-05-09",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-05-09",
+   "business_date": "2016-04-29",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-04-29",
+   "business_date": "2016-02-27",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-02-27",
+   "business_date": "2015-11-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2015-11-16",
+   "business_date": "2015-10-15",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2015-10-15",
+   "business_date": "2015-09-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2015-12-16",
+   "business_date": "2015-03-26",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2015-03-26",
+   "business_date": "2014-11-13",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-11-13",
+   "business_date": "2014-11-05",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-11-05",
+   "business_date": "2014-09-10",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-09-10",
+   "business_date": "2014-09-06",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-09-06",
+   "business_date": "2014-08-25",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-08-25",
+   "business_date": "2014-06-30",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-06-30",
+   "business_date": "2014-04-29",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-04-29",
+   "business_date": "2014-04-15",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-04-15",
+   "business_date": "2013-12-11",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-01-01",
+   "business_date": "2013-08-29",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2013-08-29",
+   "business_date": "2013-07-25",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2013-07-25",
+   "business_date": "2013-04-08",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2013-01-01",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2014-06-30",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hR53N%2BLvYDUnPog9Ps6cBU&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2016-02-27",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0iVnuSDIuVBTYgiQWq5M5xI&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-06-08",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hmUbY1BtbBM25nGizAmO6U&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-10-15",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0g9V%2F0L3UxHmgIxaSFJEqQ4&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-12-21",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jzu7yFJAy%2Bnk1iAhUCmZAo&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-09-01",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0iptfoMHvAVjDVSSVYwVSVs&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-09-20",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0h6GLR%2Br%2FbOJaO9JSSC7aEA&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-12-27",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gq%2BY5SabiyzhhrwK4agqmX&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-10-08",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hXTzTd3qaetrlXaQ0KAmOA&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-05-11",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gNQI0TnnX0EtkGFVaCcPvk&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-05-11",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jBQ9lXHdl5c1wraLeOqHDI&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-05-23",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hRbRBOjkqOPag5rfgKwrb6&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-05-17",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gM%2B%2B6gNbInodFmCmr9MidH&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-06-24",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hipTSiTrGyNhAwlIyLphuO&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-07-08",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jjY45MIgDBw531yAi8pl8d&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-08-26",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hRH86S1KzATJ94k2FqUduE&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-09-09",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0igQ22N3CgwSIAmvWn9MDNo&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-09-26",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0i%2FaBbrRNrtGzYsMzy%2FfQvx&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-11-10",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gMJ5Cuw%2BLBRLmieb2KdHvP&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-05-21",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hK5dBtMHWpf09hVEyvClSW&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-01-05",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gWZcO6JKD6b4kYEeJnopHe&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-02-25",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hTSblMCrxzO0k%2FM0G9EW4M&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-03-15",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gWHn5BQDUy2jDe9pt0pqOX&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-04-01",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0h3e6CxEtD2ct%2FG2AXEEetd&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-04-27",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gUvsuYylv7z9Eb8NsQq7RA&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-05-09",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jG6GoXSExtFMtJjIeGi%2Fh%2F&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-05-18",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0iPlSrhdsaIdY%2F22rSmKp%2B2&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-07-28",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0h%2FrgRxl9%2FLQnmrXi0c%2BZVt&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-12-02",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jVCRaB7BE1IUmvkr9mywO2&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-01-10",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0iY%2FRETPhzBssJiS%2BPUlWj6&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-02-20",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0iw%2BSj0%2B9yXgt3qZpTFNZcB&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-02-22",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gOLYenbShPOaUEPwZHy1%2FJ&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-02-29",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jcEa%2B7eA90xOPZcwaJerN6&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-03-15",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0iN%2BNH%2B%2BkSLKy5Y6f7Lh7s4&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-06-21",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0j2Lrc8F%2B%2BulnLepxL3Qr40&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-07-08",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0i4Rk54YNwryeHgBjn0UpFs&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-08-13",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gieNLN8eQiuFFeODBDBmuI&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-04",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hJGGYLKfcibQAUSfxEojso&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-05",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0j7HIHavZqRBYdwfWVD8F3L&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-24",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hrvsrHDFtgnx179spE6P16&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-25",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0g7imo6XsZ%2BcJ3CX6F8G7vT&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-26",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gdG80kmfphr5IywZf5CWz2&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-10-16",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jhlgrkplVbV0MFHU%2FLHbPG&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-11-04",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hF8ScB5zVdpp428lWB%2FgOr&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-12-03",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gZQGSnXwqkMYfr53QcBPZj&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-02-19",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jg%2BzcMouqgzOb%2BRivYTCa4&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-02-28",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jp681bX9L7bHhIFDcnUliw&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-03-20",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jFosO85KrpNSFUc0HGxBQE&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-03-25",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0iVGuuxxw41kk2hfS7rL9ES&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-08-08",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jrcHBTwgxRLhPdntWGD97Z&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-09-11",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hVlNhSshA8KsQv8H6ynD41&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-09-26",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gR%2BvXSVquwEyXoL2zaaKgv&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-10-13",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jXtVcCHjDZu2H4picJz77g&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-12-04",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0iTvYA93Am9T9h4jAwitTOI&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-12-11",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jNzetu9UpQ2ArVjcccM1th&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-12-31",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gPkpWNoGk0BfNbbYmkkquc&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-03-16",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0i4ypLnLp%2BRdnefSHrwPY9a&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-03-23",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jq4SPwVNo9royAcgRdGDNO&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-04-06",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jH81wYDNYLDE83tXlYq2Mg&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-15",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0he0AOH%2F8%2FMURtuifVOVc1f&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-07-29",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0h0b6ei8Uwj9WcWSuGqm7k%2F&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-05",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gAJQ5UYS2fGCbZw0S0JMDg&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-07",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0gn8ArzdWquliEpMTpreE0J&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-14",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hftE6EALazvKMKfVQ4PEjU&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-11",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0ii9t0Z8KrKKxpvpb2GFexN&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

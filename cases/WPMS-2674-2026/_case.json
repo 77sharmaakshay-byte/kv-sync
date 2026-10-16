@@ -1,0 +1,73 @@
+{
+ "cnr_number": "UKHC010155282026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /8024/2026",
+ "filing_date": "2026-09-01",
+ "registration_number": "WPMS /2674/2026",
+ "registration_date": "2026-09-01",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-16",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "NIKITA CHAUHAN",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE ELECTION COMMISSION",
+   "advocate": "SANJAY BHATT"
+  },
+  {
+   "name": "DISTRICT ELECTION OFFICER",
+   "advocate": "SANJAY BHATT"
+  },
+  {
+   "name": "RETURNING OFFICER",
+   "advocate": ""
+  },
+  {
+   "name": "SMT PAYAL",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 227 of the Constituion of India",
+   "sections": "227"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-02",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-07",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-02",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

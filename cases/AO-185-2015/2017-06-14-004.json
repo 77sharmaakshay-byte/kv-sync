@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/185/2015:2017-06-14-004",
+ "title": "NATIONAL INSURANCE COMPANY LIMITED versus SMT. PARWATI",
+ "petitioner": "NATIONAL INSURANCE COMPANY LIMITED",
+ "respondent": "SMT. PARWATI",
+ "case_no": "AO/185/2015",
+ "case_type": "AO",
+ "decision_date": "2017-06-14",
+ "cnr": "UKHC010023072015",
+ "doc_kind": "order",
+ "order_type": "AO/185/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWU83oZZ22kI4HtCUJgeKmujf6iNE2aB2fRL8fZTCHxEy&caseno=AO/185/2015&cCode=1&cino=UKHC010023072015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3b29c63c2f20f3ca8ad0890d065c7d4e55cbf92a919be89fe0e8303af20c8efb",
+ "fetched_at": "2026-10-16T05:37:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/28/2022:2023-11-09-002",
+ "title": "BRAHAMKALI versus SHRI KARNWAL ASHRAM SAMITI BHIMGOWDA HARIDWAR",
+ "petitioner": "BRAHAMKALI",
+ "respondent": "SHRI KARNWAL ASHRAM SAMITI BHIMGOWDA HARIDWAR",
+ "case_no": "CLR/28/2022",
+ "case_type": "CLR",
+ "decision_date": "2023-11-09",
+ "cnr": "UKHC010046152022",
+ "doc_kind": "order",
+ "order_type": "CLR/28/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xvrm0syRxFv%2BPHpQrsGveDhDCqB5hely6TGiK0lrjfd&caseno=CLR/28/2022&cCode=1&cino=UKHC010046152022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "94bc9911b9d0194ae5a1a328f65b0cfa7a85b57d114c982b5cd130a7456728ef",
+ "fetched_at": "2026-10-16T05:29:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

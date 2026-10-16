@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/591/2017:2023-07-28-009",
+ "title": "ORIENTAL INSURANCE CO. versus SMT. ANITA JOSHI",
+ "petitioner": "ORIENTAL INSURANCE CO.",
+ "respondent": "SMT. ANITA JOSHI",
+ "case_no": "AO/591/2017",
+ "case_type": "AO",
+ "decision_date": "2023-07-28",
+ "cnr": "UKHC010041372017",
+ "doc_kind": "order",
+ "order_type": "AO/591/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShz9BmZt%2BG%2F9ztXOnB%2BPRMTWd2D6VJCh2OkUNm0Jc2HAa&caseno=AO/591/2017&cCode=1&cino=UKHC010041372017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce155ab72d218c228605865d95b1d03d24215c380f4d885a04541f2c5301c67f",
+ "fetched_at": "2026-10-16T05:32:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1845/2012:2022-05-23-012",
+ "title": "MUKESH BAHUGUNA versus STATE OF UTTARAKHAND THROUGH SECRETARY SCHOOL EDUCATION DEPT.",
+ "petitioner": "MUKESH BAHUGUNA",
+ "respondent": "STATE OF UTTARAKHAND THROUGH SECRETARY SCHOOL EDUCATION DEPT.",
+ "case_no": "WPSS/1845/2012",
+ "case_type": "WPSS",
+ "decision_date": "2022-05-23",
+ "cnr": "UKHC010127752012",
+ "doc_kind": "order",
+ "order_type": "WPSS/1845/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "FOR FURTHER HEARING -113",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0hRbRBOjkqOPag5rfgKwrb6&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "27c1f4356bda151af0049b217c44fa391d19f999d3c9f0277b2c25c8412fd4e4",
+ "fetched_at": "2026-10-16T05:36:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

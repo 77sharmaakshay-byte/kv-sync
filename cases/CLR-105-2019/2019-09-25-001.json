@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/105/2019:2019-09-25-001",
+ "title": "SRIRAM versus RAHUL CHAURASIA",
+ "petitioner": "SRIRAM",
+ "respondent": "RAHUL CHAURASIA",
+ "case_no": "CLR/105/2019",
+ "case_type": "CLR",
+ "decision_date": "2019-09-25",
+ "cnr": "UKHC010141402019",
+ "doc_kind": "order",
+ "order_type": "CLR/105/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9jrJoWa0X%2B%2FzYpBQ%2BrMOXblErsCNic6lu%2FPhUxlNmxA&caseno=CLR/105/2019&cCode=1&cino=UKHC010141402019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7f4f6bbcb4e06416ea3088a67885e7b3a5f071390f5130a0f23a0903533f5b20",
+ "fetched_at": "2026-10-16T05:32:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

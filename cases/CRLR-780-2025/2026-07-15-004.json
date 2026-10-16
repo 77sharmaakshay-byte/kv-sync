@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/780/2025:2026-07-15-004",
+ "title": "AZAM versus ASMA",
+ "petitioner": "AZAM",
+ "respondent": "ASMA",
+ "case_no": "CRLR/780/2025",
+ "case_type": "CRLR",
+ "decision_date": "2026-07-15",
+ "cnr": "UKHC010181482025",
+ "doc_kind": "order",
+ "order_type": "CRLR/780/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm495T%2FOD7DkawxcCO3xNHUUx9NjTlXOEFDvKI5piXtk6&caseno=CRLR/780/2025&cCode=1&cino=UKHC010181482025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "55c66b8983cb7c5e89a95bcd7a12ec0707123031d8751d27068daa22801bc0ea",
+ "fetched_at": "2026-10-16T05:36:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/107/2024:2026-08-14-010",
+ "title": "JAGDISH versus YASHPAL",
+ "petitioner": "JAGDISH",
+ "respondent": "YASHPAL",
+ "case_no": "CLR/107/2024",
+ "case_type": "CLR",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010164212024",
+ "doc_kind": "order",
+ "order_type": "CLR/107/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcLUYFg0p0X%2BaTHIHXZ8%2BVS0QEAhrOMS%2FuCIsgqMOLqmn&caseno=CLR/107/2024&cCode=1&cino=UKHC010164212024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3cfbf3fe29e501ff619efeeb86a3e630298632077f0be8ac000434cef69adaee",
+ "fetched_at": "2026-10-16T05:27:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

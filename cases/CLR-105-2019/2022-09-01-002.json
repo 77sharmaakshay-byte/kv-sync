@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/105/2019:2022-09-01-002",
+ "title": "SRIRAM versus RAHUL CHAURASIA",
+ "petitioner": "SRIRAM",
+ "respondent": "RAHUL CHAURASIA",
+ "case_no": "CLR/105/2019",
+ "case_type": "CLR",
+ "decision_date": "2022-09-01",
+ "cnr": "UKHC010141402019",
+ "doc_kind": "order",
+ "order_type": "CLR/105/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9jrJoWa0X%2B%2FzYpBQ%2BrMOXbMCQ8yeNgYWIrLmhriIUtx&caseno=CLR/105/2019&cCode=1&cino=UKHC010141402019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5e0da4ed02b16813b8f33cd8d94a0d66ce3b1bb30ca76c34227e6daddcfa564d",
+ "fetched_at": "2026-10-16T05:32:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

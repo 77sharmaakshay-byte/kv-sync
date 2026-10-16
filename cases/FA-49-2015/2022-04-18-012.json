@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/49/2015:2022-04-18-012",
+ "title": "Sushil versus Om Prakash",
+ "petitioner": "Sushil",
+ "respondent": "Om Prakash",
+ "case_no": "FA/49/2015",
+ "case_type": "FA",
+ "decision_date": "2022-04-18",
+ "cnr": "UKHC010003392015",
+ "doc_kind": "order",
+ "order_type": "FA/49/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWZIGLtTUoA4YcjwDYy1q8z%2BzOswYaBviInnYmDoyz%2BTS&caseno=FA/49/2015&cCode=1&cino=UKHC010003392015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6eb8d8b0b2b1af3ee943dcaa0c5eaa71bf8b07a5a8759ac543c190fa2f291d5b",
+ "fetched_at": "2026-10-16T05:38:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

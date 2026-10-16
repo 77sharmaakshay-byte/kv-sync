@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/17/2026:2026-03-20-001",
+ "title": "NASEEM AHMAD versus RACHNA GUPTA",
+ "petitioner": "NASEEM AHMAD",
+ "respondent": "RACHNA GUPTA",
+ "case_no": "CLR/17/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-03-20",
+ "cnr": "UKHC010032102026",
+ "doc_kind": "order",
+ "order_type": "CLR/17/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqHImJ5m89GuBP6KhhdKDWeWXziIG3hkiYDqfwQrdHMR&caseno=CLR/17/2026&cCode=1&cino=UKHC010032102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "335da1eb30c7044c8200bae44c4293703dd3357d98a6630460f1e933735718e1",
+ "fetched_at": "2026-10-16T05:32:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

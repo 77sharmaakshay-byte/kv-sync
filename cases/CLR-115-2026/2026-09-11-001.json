@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/115/2026:2026-09-11-001",
+ "title": "INDRAPAL SINGH versus SAROJ DEVI",
+ "petitioner": "INDRAPAL SINGH",
+ "respondent": "SAROJ DEVI",
+ "case_no": "CLR/115/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010158202026",
+ "doc_kind": "order",
+ "order_type": "CLR/115/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn17%2F1u%2Bgz%2FoDkxmMREg6I16eCcnUXGDFw90SlK4tTHi&caseno=CLR/115/2026&cCode=1&cino=UKHC010158202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4520453b0d918b721fabbf7253af41f7e7c92c243161e8e6971b46227bab98ed",
+ "fetched_at": "2026-10-16T05:30:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

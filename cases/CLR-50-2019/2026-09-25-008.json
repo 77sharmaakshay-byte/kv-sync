@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/50/2019:2026-09-25-008",
+ "title": "ARVIND BANSAL versus PUNITA NAGLIYA",
+ "petitioner": "ARVIND BANSAL",
+ "respondent": "PUNITA NAGLIYA",
+ "case_no": "CLR/50/2019",
+ "case_type": "CLR",
+ "decision_date": "2026-09-25",
+ "cnr": "UKHC010061572019",
+ "doc_kind": "order",
+ "order_type": "CLR/50/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFxGMeIWcl4bE%2BCBUI1n3DKCQ8QY32hOB8XyclyihAMmw&caseno=CLR/50/2019&cCode=1&cino=UKHC010061572019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bf268a6154255c653446549e9cea148d84de19a3aa4f7e10ffd4b685e9435152",
+ "fetched_at": "2026-10-16T05:30:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

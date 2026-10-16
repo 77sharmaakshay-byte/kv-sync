@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/50/2019:2023-07-14-003",
+ "title": "ARVIND BANSAL versus PUNITA NAGLIYA",
+ "petitioner": "ARVIND BANSAL",
+ "respondent": "PUNITA NAGLIYA",
+ "case_no": "CLR/50/2019",
+ "case_type": "CLR",
+ "decision_date": "2023-07-14",
+ "cnr": "UKHC010061572019",
+ "doc_kind": "order",
+ "order_type": "IA/5666/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFxGMeIWcl4bE%2BCBUI1n3DKCeA5C43CnPfN1B0yJRAzYl&caseno=CLR/50/2019&cCode=1&cino=UKHC010061572019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c330394fc25aa004945a23139f7b20f38d01c0dffd6e2a64f7d5eb6d4c26258d",
+ "fetched_at": "2026-10-16T05:30:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/25/2026:2026-07-03-005",
+ "title": "MOHAN LAL versus KARUNA DEVI",
+ "petitioner": "MOHAN LAL",
+ "respondent": "KARUNA DEVI",
+ "case_no": "CLR/25/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-07-03",
+ "cnr": "UKHC010037022026",
+ "doc_kind": "order",
+ "order_type": "CLR/25/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlSsmta2T7hOzeufvIe9s8P8u8F%2FTQ0RFJC9I%2BomS3Aj&caseno=CLR/25/2026&cCode=1&cino=UKHC010037022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6f565b3c109018839718212ecb513cfb5b3fd49251a970577a1d4b7ddb88efc5",
+ "fetched_at": "2026-10-16T05:29:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

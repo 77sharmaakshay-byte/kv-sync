@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/92/2025:2025-09-09-001",
+ "title": "AJAY KUMAR AGARWAL versus RAJESH KUMAR",
+ "petitioner": "AJAY KUMAR AGARWAL",
+ "respondent": "RAJESH KUMAR",
+ "case_no": "CLR/92/2025",
+ "case_type": "CLR",
+ "decision_date": "2025-09-09",
+ "cnr": "UKHC010139902025",
+ "doc_kind": "order",
+ "order_type": "CLR/92/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1hqIZV7AfClOvtt5xQbMnmpUsNP%2BV7BO3%2FSB1kB0Y6e&caseno=CLR/92/2025&cCode=1&cino=UKHC010139902025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e4542e60607866f5adb1f2294b9024f44716310ae0410b4ecfb3fecf7670ab9c",
+ "fetched_at": "2026-10-16T05:28:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

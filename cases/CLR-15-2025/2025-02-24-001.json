@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/15/2025:2025-02-24-001",
+ "title": "BRAHAMKALI versus SHRI KARNWAL ASHRAM SAMITI BHIMGOWDA HARIDWAR",
+ "petitioner": "BRAHAMKALI",
+ "respondent": "SHRI KARNWAL ASHRAM SAMITI BHIMGOWDA HARIDWAR",
+ "case_no": "CLR/15/2025",
+ "case_type": "CLR",
+ "decision_date": "2025-02-24",
+ "cnr": "UKHC010017732025",
+ "doc_kind": "order",
+ "order_type": "CLR/15/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxFktEA1VEimvD4pm34q51c85N644iVFijd50uuzlOjh&caseno=CLR/15/2025&cCode=1&cino=UKHC010017732025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "107349300f1aac18b8798f397fe1da768c90a7af268cd5e5af0326090e2dd880",
+ "fetched_at": "2026-10-16T05:28:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/780/2025:2025-12-10-002",
+ "title": "AZAM versus ASMA",
+ "petitioner": "AZAM",
+ "respondent": "ASMA",
+ "case_no": "CRLR/780/2025",
+ "case_type": "CRLR",
+ "decision_date": "2025-12-10",
+ "cnr": "UKHC010181482025",
+ "doc_kind": "order",
+ "order_type": "IA/1/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm495T%2FOD7DkawxcCO3xNHUVCOjnvFbhtXLCB3Fkf62Rl&caseno=CRLR/780/2025&cCode=1&cino=UKHC010181482025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8d24c7c8c100ad5f43d55cd4eb7c19a497cf1b53808fe305c311f4bf190a7d0d",
+ "fetched_at": "2026-10-16T05:36:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

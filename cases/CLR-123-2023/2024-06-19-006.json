@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/123/2023:2024-06-19-006",
+ "title": "CHANDRAPRABHA versus KIRAN DUTTA",
+ "petitioner": "CHANDRAPRABHA",
+ "respondent": "KIRAN DUTTA",
+ "case_no": "CLR/123/2023",
+ "case_type": "CLR",
+ "decision_date": "2024-06-19",
+ "cnr": "UKHC010137202023",
+ "doc_kind": "order",
+ "order_type": "CLR/123/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYy1RtAnUWbNySl8LE2vGa%2F%2B5gZOK2ddNNBofHTnywMFh&caseno=CLR/123/2023&cCode=1&cino=UKHC010137202023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0ebe3fcaafc6387f9a2424f2ef10a90aeec6c54e64ba813e612844bc8e6f877f",
+ "fetched_at": "2026-10-16T05:31:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

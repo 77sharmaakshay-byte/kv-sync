@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/20/2026:2026-07-01-004",
+ "title": "MOHAN CHANDRA JOSHI versus NATHU SINGH",
+ "petitioner": "MOHAN CHANDRA JOSHI",
+ "respondent": "NATHU SINGH",
+ "case_no": "CLR/20/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-07-01",
+ "cnr": "UKHC010033302026",
+ "doc_kind": "order",
+ "order_type": "CLR/20/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgQog0qldUxLR%2Ff2Ijw5SnoNYzF4vUtauVNDHN%2Be%2FVty&caseno=CLR/20/2026&cCode=1&cino=UKHC010033302026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "69e45727653fc7f5d54e1cf737c064df45db87873a1964808b10766d043bd978",
+ "fetched_at": "2026-10-16T05:29:35+00:00",
+ "fetched_by": "fetch_live.py"
+}
