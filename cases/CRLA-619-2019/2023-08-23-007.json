@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/619/2019:2023-08-23-007",
+ "title": "MANSAD versus STATE OF UTTARAKHAND",
+ "petitioner": "MANSAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/619/2019",
+ "case_type": "CRLA",
+ "decision_date": "2023-08-23",
+ "cnr": "UKHC010188912019",
+ "doc_kind": "order",
+ "order_type": "CRLA/619/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9CXekw2wEkDHVnQF8gUMYSZn6%2B6NwjhGCPn5ZYMjX3H&caseno=CRLA/619/2019&cCode=1&cino=UKHC010188912019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a49f880e4d7d01f844df2fa3488b0e3a75179975baa2706cd1c2abe9d5f9547b",
+ "fetched_at": "2026-10-16T19:25:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

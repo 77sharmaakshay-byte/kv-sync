@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/110/2013:2019-05-17-016",
+ "title": "Lakhi Ram Joshi versus Smt Malti Devi",
+ "petitioner": "Lakhi Ram Joshi",
+ "respondent": "Smt Malti Devi",
+ "case_no": "SA/110/2013",
+ "case_type": "SA",
+ "decision_date": "2019-05-17",
+ "cnr": "UKHC010003642013",
+ "doc_kind": "order",
+ "order_type": "SA/110/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaISi9XpNIsH2dVW%2F6hLqnHDRN0Hc0%2FSRwEHLucaE4GoMZ&caseno=SA/110/2013&cCode=1&cino=UKHC010003642013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "be3882a73491701368cf22b304cfe227e215b57d5160f27908ad5fbc7238e6b8",
+ "fetched_at": "2026-10-16T19:02:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

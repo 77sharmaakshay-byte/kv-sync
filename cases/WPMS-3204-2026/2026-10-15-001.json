@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3204/2026:2026-10-15-001",
+ "title": "M/S AEKANSH ENTERPRISES versus STATE INFRASTRUCTURE AND INDUSTRIAL DEVELOPMENT CORPORATION",
+ "petitioner": "M/S AEKANSH ENTERPRISES",
+ "respondent": "STATE INFRASTRUCTURE AND INDUSTRIAL DEVELOPMENT CORPORATION",
+ "case_no": "WPMS/3204/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010184732026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3204/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvqtfPuTDjKUp8wcc1gwN7i5%2Bz4WTV4tw3iZKMU6weTq&caseno=WPMS/3204/2026&cCode=1&cino=UKHC010184732026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "84229d8ce11a1bec72ef6da3b66bee6a8e8ac7fee3d6d856126d67239bbf1cc8",
+ "fetched_at": "2026-10-16T19:06:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

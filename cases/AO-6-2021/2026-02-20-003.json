@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/6/2021:2026-02-20-003",
+ "title": "BHAJAN SINGH versus UNITED INDIA INSURANCE COMPANY LTD.",
+ "petitioner": "BHAJAN SINGH",
+ "respondent": "UNITED INDIA INSURANCE COMPANY LTD.",
+ "case_no": "AO/6/2021",
+ "case_type": "AO",
+ "decision_date": "2026-02-20",
+ "cnr": "UKHC010005742021",
+ "doc_kind": "order",
+ "order_type": "AO/6/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkAJBGDCOjeKTldHVro1AkGvMdxME5zMd6aXuchYlUvw5&caseno=AO/6/2021&cCode=1&cino=UKHC010005742021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c88682c95a4d7ec5bc2e14b698062fa01fd07c878e9618f30a635e84f635d3fd",
+ "fetched_at": "2026-10-16T19:09:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

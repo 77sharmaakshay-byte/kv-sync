@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/6/2021:2021-01-14-002",
+ "title": "BHAJAN SINGH versus UNITED INDIA INSURANCE COMPANY LTD.",
+ "petitioner": "BHAJAN SINGH",
+ "respondent": "UNITED INDIA INSURANCE COMPANY LTD.",
+ "case_no": "AO/6/2021",
+ "case_type": "AO",
+ "decision_date": "2021-01-14",
+ "cnr": "UKHC010005742021",
+ "doc_kind": "order",
+ "order_type": "AO/6/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkAJBGDCOjeKTldHVro1AkGt1WePCnCHyn3v4eD4WOfm1&caseno=AO/6/2021&cCode=1&cino=UKHC010005742021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9125d47ea703ab215587df8b6b253b98693d6b766ee191b129124ed78e5ba29a",
+ "fetched_at": "2026-10-16T19:09:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

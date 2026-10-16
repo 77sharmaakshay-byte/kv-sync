@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/133/2025:2025-03-28-001",
+ "title": "ANITA versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "ANITA",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "CRLR/133/2025",
+ "case_type": "CRLR",
+ "decision_date": "2025-03-28",
+ "cnr": "UKHC010033082025",
+ "doc_kind": "order",
+ "order_type": "CRLR/133/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0hrOMyYBU7d4Dg5BF%2FO4FyJv%2FCSO9GRUVNIr03TRaBU&caseno=CRLR/133/2025&cCode=1&cino=UKHC010033082025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "977ecdb0a17b928c62aebd8d347f940be175d3460c0c7e282b54bd2b29d28d52",
+ "fetched_at": "2026-10-16T19:12:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

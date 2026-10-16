@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1072/2025:2025-09-19-001",
+ "title": "KAUSHAL KUMAR SAHAY ALIA SUNNY versus STATE OF UTTARAKHAND",
+ "petitioner": "KAUSHAL KUMAR SAHAY ALIA SUNNY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1072/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-09-19",
+ "cnr": "UKHC010147612025",
+ "doc_kind": "order",
+ "order_type": "ABA/1072/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmy9d9irIuwrOMU9SGCJQddzrMIEDkgS%2BqZSjS2yOWOEf&caseno=ABA/1072/2025&cCode=1&cino=UKHC010147612025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "93cb3923e31cf6ff7e0beefd61c48eeb709215c774c5158cc8b36ebde1214454",
+ "fetched_at": "2026-10-16T19:07:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

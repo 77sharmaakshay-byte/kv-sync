@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2400/2026:2026-09-15-001",
+ "title": "MOHD IMRAN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD IMRAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2400/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010161552026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2400/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr3TmhJux7bLGW%2BMl60gVoerh2OEfS7IEoPk%2BJ9OaK6A&caseno=WPSS/2400/2026&cCode=1&cino=UKHC010161552026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c62d415e80009079c107977802b5355b0a0031e7fa2c730175005f0b68dbff29",
+ "fetched_at": "2026-10-16T18:59:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

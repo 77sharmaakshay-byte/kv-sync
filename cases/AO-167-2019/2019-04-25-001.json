@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/167/2019:2019-04-25-001",
+ "title": "ORIENTAL INSURANCE COMPANY LTD. versus RAJVIMAL DAGAR",
+ "petitioner": "ORIENTAL INSURANCE COMPANY LTD.",
+ "respondent": "RAJVIMAL DAGAR",
+ "case_no": "AO/167/2019",
+ "case_type": "AO",
+ "decision_date": "2019-04-25",
+ "cnr": "UKHC010058692019",
+ "doc_kind": "order",
+ "order_type": "AO/167/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2F7QeYFHmud4kAHRN9vguF25kkiSgISDNiJHmp%2FaIVV6&caseno=AO/167/2019&cCode=1&cino=UKHC010058692019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8ee2a99a3fc2b988c5c44389f17be84f3fdb728ddb49c646c5b64c019cb2eebc",
+ "fetched_at": "2026-10-16T19:09:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

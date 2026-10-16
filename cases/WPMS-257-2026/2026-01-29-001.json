@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/257/2026:2026-01-29-001",
+ "title": "KRIPAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "KRIPAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/257/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-29",
+ "cnr": "UKHC010013932026",
+ "doc_kind": "order",
+ "order_type": "WPMS/257/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtmBW4J0LM5n2GA%2BgfHqEdArubohhh1%2BOaF%2FqrdUiQgk&caseno=WPMS/257/2026&cCode=1&cino=UKHC010013932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "578c3a71a76710895b8fa037f396b2b1a1def4521307769a738d5bdaa77ba515",
+ "fetched_at": "2026-10-16T19:09:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

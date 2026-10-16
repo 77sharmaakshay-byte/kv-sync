@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1339/2023:2023-08-01-001",
+ "title": "SRI JASHOD SINGH versus UNION OF INDIA",
+ "petitioner": "SRI JASHOD SINGH",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1339/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-08-01",
+ "cnr": "UKHC010121492023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1339/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7aFugBV6I%2F3j9JUSULb3SfY8NfzjWhsjD15JKuFgrAk&caseno=WPSS/1339/2023&cCode=1&cino=UKHC010121492023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5130d96a266451773f94c0a066e157de307ecc8111779cbc46b572c5ea9c3ab0",
+ "fetched_at": "2026-10-16T19:01:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

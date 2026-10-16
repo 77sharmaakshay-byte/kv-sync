@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2282/2026:2026-08-19-002",
+ "title": "MOHD SARTAJ versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD SARTAJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2282/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010132302026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2282/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQryfUKgCkhoP7KY0f87k6kR34RYpW4p8DG5wdmbvXLYH&caseno=WPMS/2282/2026&cCode=1&cino=UKHC010132302026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dda22da329ddb73b3d3d858352dd08c1d5db889939e80048b88807045dddcdd3",
+ "fetched_at": "2026-10-16T19:08:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

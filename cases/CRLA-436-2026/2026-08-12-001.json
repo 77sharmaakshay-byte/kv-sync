@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/436/2026:2026-08-12-001",
+ "title": "RAJAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/436/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-12",
+ "cnr": "UKHC010131562026",
+ "doc_kind": "order",
+ "order_type": "CRLA/436/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu3A15Mxg7kdWOmG7ykYCtpFnNM0EA1oIg3zsydvm7ds&caseno=CRLA/436/2026&cCode=1&cino=UKHC010131562026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "aed45b7ebc027893c53b78071065497aacfe3999060d58eff287fe20a5ff9f50",
+ "fetched_at": "2026-10-16T19:09:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

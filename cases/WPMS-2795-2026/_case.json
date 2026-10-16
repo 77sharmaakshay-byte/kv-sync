@@ -1,0 +1,62 @@
+{
+ "cnr_number": "UKHC010163162026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /8456/2026",
+ "filing_date": "2026-09-15",
+ "registration_number": "WPMS /2795/2026",
+ "registration_date": "2026-09-15",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-26",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Uttarkashi",
+ "petitioners": [
+  {
+   "name": "SUNDER SINGH",
+   "advocate": "NIRANJAN BHATT"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "DISTRICT MAGISTRATE UTTARKASHI",
+   "advocate": ""
+  },
+  {
+   "name": "SUB DIVISIONAL MAGISTRATE",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "ZILA PANCHAYAT UTTARKASHI",
+   "advocate": "B S NEGI"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-16",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-16",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

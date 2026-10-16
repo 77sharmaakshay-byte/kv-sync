@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1503/2020:2020-12-08-002",
+ "title": "TARUN SAHANI(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "TARUN SAHANI(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1503/2020",
+ "case_type": "WPMS",
+ "decision_date": "2020-12-08",
+ "cnr": "UKHC010085562020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1503/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjD3MW7dP5KWsKZNH9%2F9AjhvlOLXAFoLFfu4M8CZXQdGS&caseno=WPMS/1503/2020&cCode=1&cino=UKHC010085562020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6a9de1a6bc29649d6caf144e4cd40b349ed62842b23b614b28c157a3e6086277",
+ "fetched_at": "2026-10-16T19:07:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

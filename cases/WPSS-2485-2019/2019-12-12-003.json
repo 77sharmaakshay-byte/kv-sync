@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2485/2019:2019-12-12-003",
+ "title": "CHANDAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2485/2019",
+ "case_type": "WPSS",
+ "decision_date": "2019-12-12",
+ "cnr": "UKHC010179372019",
+ "doc_kind": "order",
+ "order_type": "WPSS/2485/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF1DlVZZ06YYnoiyFaXbImIi1d1Z7o6LOfQrbOCGE8DFV&caseno=WPSS/2485/2019&cCode=1&cino=UKHC010179372019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "32760866ea941bdd5bf9452bb736779508f51af0d2bd9f690d0f972e9503d01c",
+ "fetched_at": "2026-10-16T19:00:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

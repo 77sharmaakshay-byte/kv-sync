@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1493/2026:2026-06-01-002",
+ "title": "EKTA AGARWAL versus BRANCH MANAGER",
+ "petitioner": "EKTA AGARWAL",
+ "respondent": "BRANCH MANAGER",
+ "case_no": "WPMS/1493/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-06-01",
+ "cnr": "UKHC010086422026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1493/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp6XBUk%2FVijGhdeEELk4N0e%2Bks71IX3oNO4u%2BWrGk9C7&caseno=WPMS/1493/2026&cCode=1&cino=UKHC010086422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0d34542ae84fd9c2afd2f79015b1b30c03880242f85ea451021fe2e021fb83ac",
+ "fetched_at": "2026-10-16T19:09:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

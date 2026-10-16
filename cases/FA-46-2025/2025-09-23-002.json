@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/46/2025:2025-09-23-002",
+ "title": "PRIYANKA versus RAIL VIKAS NIGAM LIMITED",
+ "petitioner": "PRIYANKA",
+ "respondent": "RAIL VIKAS NIGAM LIMITED",
+ "case_no": "FA/46/2025",
+ "case_type": "FA",
+ "decision_date": "2025-09-23",
+ "cnr": "UKHC010046132025",
+ "doc_kind": "order",
+ "order_type": "FA/46/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmx9ol3jGLk5Qsponc8siR%2BGAnvZ2U11VkyR7RtqLa5BV&caseno=FA/46/2025&cCode=1&cino=UKHC010046132025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2b8c7d8fff73852627448aa1db900a3a11aa608c892b1d40c26d9e7bcb1950b6",
+ "fetched_at": "2026-10-16T19:12:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

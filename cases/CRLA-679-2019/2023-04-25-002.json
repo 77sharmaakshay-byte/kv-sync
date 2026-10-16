@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/679/2019:2023-04-25-002",
+ "title": "SONU versus STATE OF UTTARAKHAND",
+ "petitioner": "SONU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/679/2019",
+ "case_type": "CRLA",
+ "decision_date": "2023-04-25",
+ "cnr": "UKHC010202412019",
+ "doc_kind": "order",
+ "order_type": "CRLA/679/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9y1VVq5v3YmOptJ5DObqUgvxSuxbp7n8Y1KAoqCQUGF&caseno=CRLA/679/2019&cCode=1&cino=UKHC010202412019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "110969d9216c36b0ac064c975d130521745e8345a296f9c9de4fa2f93605421a",
+ "fetched_at": "2026-10-16T19:23:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

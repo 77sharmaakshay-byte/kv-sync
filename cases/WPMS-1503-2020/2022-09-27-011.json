@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1503/2020:2022-09-27-011",
+ "title": "TARUN SAHANI(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "TARUN SAHANI(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1503/2020",
+ "case_type": "WPMS",
+ "decision_date": "2022-09-27",
+ "cnr": "UKHC010085562020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1503/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjD3MW7dP5KWsKZNH9%2F9Ajhs4tIFMBIpFOHnoNQzAsZWt&caseno=WPMS/1503/2020&cCode=1&cino=UKHC010085562020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a5a6df72d27d747f55ed33436286ebc22e589b5ba78448c002ee14219b657183",
+ "fetched_at": "2026-10-16T19:08:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

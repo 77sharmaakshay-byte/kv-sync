@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2269/2026:2026-08-31-001",
+ "title": "SATISH CHANDRA MAMGAIN versus STATE OF UTTARAKHAND",
+ "petitioner": "SATISH CHANDRA MAMGAIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2269/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010151592026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2269/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjc%2BIvkgx6OjFBf9kdf0siKTG9pwZdaSBNwNZdLBHrRj&caseno=WPSS/2269/2026&cCode=1&cino=UKHC010151592026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c2685ba25d6508a79a259ef6dd1eb61c709b785e1ceaeebf596319845e309678",
+ "fetched_at": "2026-10-16T18:59:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

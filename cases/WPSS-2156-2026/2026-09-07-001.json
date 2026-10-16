@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2156/2026:2026-09-07-001",
+ "title": "ANAND SINGH versus UNION OF INDIA",
+ "petitioner": "ANAND SINGH",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/2156/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010142172026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2156/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoWFnz4qqemxyr6htv%2FLsuxNRgyRkGgaw4Uyr4pkoPhP&caseno=WPSS/2156/2026&cCode=1&cino=UKHC010142172026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "29d36b8df5454ad35c8f82df52a94b0939c0a4968a9617a059b80cba29c34838",
+ "fetched_at": "2026-10-16T19:00:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/23/2015:2015-06-25-002",
+ "title": "Dayanand Shiksha Sansthan,U.P. kanpur versus Gulab Singh",
+ "petitioner": "Dayanand Shiksha Sansthan,U.P. kanpur",
+ "respondent": "Gulab Singh",
+ "case_no": "FA/23/2015",
+ "case_type": "FA",
+ "decision_date": "2015-06-25",
+ "cnr": "UKHC010025162015",
+ "doc_kind": "order",
+ "order_type": "FA/23/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWXxQmQwqcsMlASwmQjMPcGLCNDtD1S0g2NWju%2FuKrzOd&caseno=FA/23/2015&cCode=1&cino=UKHC010025162015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc219936cd5d7b5f1ba255c5a2b2f2d008bb54172d4d8fe23a194e52479a97f8",
+ "fetched_at": "2026-10-16T19:10:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

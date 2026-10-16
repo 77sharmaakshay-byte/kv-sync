@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/256/2026:2026-09-02-002",
+ "title": "SOMDATT versus STATE OF UTTARAKHAND",
+ "petitioner": "SOMDATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/256/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-02",
+ "cnr": "UKHC010074812026",
+ "doc_kind": "order",
+ "order_type": "CRLA/256/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoLsEnJaaT4ueRC0L4l3Vep3yZlTm1GXK21ZWQI6XYiT&caseno=CRLA/256/2026&cCode=1&cino=UKHC010074812026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1ac871b74b62d315e769b78f38cb7e2723898db11b8ec706e1bfd3f4fd01e02e",
+ "fetched_at": "2026-10-16T19:10:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

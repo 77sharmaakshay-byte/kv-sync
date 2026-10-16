@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPLA/475/2024:2026-03-25-003",
+ "title": "AMBA TRADING COMPANY versus KUSHWAHA ELECTRICALS",
+ "petitioner": "AMBA TRADING COMPANY",
+ "respondent": "KUSHWAHA ELECTRICALS",
+ "case_no": "SPLA/475/2024",
+ "case_type": "SPLA",
+ "decision_date": "2026-03-25",
+ "cnr": "UKHC010179232024",
+ "doc_kind": "order",
+ "order_type": "SPLA/475/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJD%2Bl%2FD6FdAqdeWa0ZmLgQrqQz9K3YG1HB5EgzzJecmc&caseno=SPLA/475/2024&cCode=1&cino=UKHC010179232024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc49c0d71c7e9a8e2cc12e463c30d39674dc7d182e6b53814811c87a4443e264",
+ "fetched_at": "2026-10-16T19:10:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/536/2021:2021-11-16-002",
+ "title": "HIMMAT SINGH versus UNION OF INDIA THROUGH SECRETARY MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+ "petitioner": "HIMMAT SINGH",
+ "respondent": "UNION OF INDIA THROUGH SECRETARY MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+ "case_no": "WPSS/536/2021",
+ "case_type": "WPSS",
+ "decision_date": "2021-11-16",
+ "cnr": "UKHC010050832021",
+ "doc_kind": "order",
+ "order_type": "WPSS/536/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkOz1A0sG7BlnWI7gmhS2esjhjglJn%2FaXtgdi%2BZ2MOVUm&caseno=WPSS/536/2021&cCode=1&cino=UKHC010050832021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "41a6e52092be6333eb25a25ab4c1b6e22a3a3e7003f14127fa613e40457986f1",
+ "fetched_at": "2026-10-16T19:02:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

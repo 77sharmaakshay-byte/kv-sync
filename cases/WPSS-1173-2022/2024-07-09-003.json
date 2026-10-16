@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1173/2022:2024-07-09-003",
+ "title": "PHOOLMATI versus GOVIND BALLABH PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY PANT NAGAR",
+ "petitioner": "PHOOLMATI",
+ "respondent": "GOVIND BALLABH PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY PANT NAGAR",
+ "case_no": "WPSS/1173/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-07-09",
+ "cnr": "UKHC010089462022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1173/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2BDyu31TgGwVmXJaq0AMO0Xx%2FrHN58tI4XClPmOCItoK&caseno=WPSS/1173/2022&cCode=1&cino=UKHC010089462022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8e73d551f7faabc5716878d6faa8ad9ce288d35d1e51034c58de8a40ab1240b5",
+ "fetched_at": "2026-10-16T18:59:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

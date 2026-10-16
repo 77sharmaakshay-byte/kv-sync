@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/248/2025:2026-10-12-003",
+ "title": "DEVENDRA SINGH versus GOVIND MOHAN",
+ "petitioner": "DEVENDRA SINGH",
+ "respondent": "GOVIND MOHAN",
+ "case_no": "CLCON/248/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010079442025",
+ "doc_kind": "order",
+ "order_type": "CLCON/248/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2By8AOKn1bloWuQAKluDvZJNbaiZx5r95%2BYpGPb0ykIE&caseno=CLCON/248/2025&cCode=1&cino=UKHC010079442025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5fbcc6248440fd0e1340aa02cad53c8db89af96191075e47330014e2dd526757",
+ "fetched_at": "2026-10-16T19:07:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

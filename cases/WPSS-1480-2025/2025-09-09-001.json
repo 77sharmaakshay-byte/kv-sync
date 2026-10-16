@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1480/2025:2025-09-09-001",
+ "title": "SUBBA RAM versus STATE OF UTTARAKHAND",
+ "petitioner": "SUBBA RAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1480/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-09-09",
+ "cnr": "UKHC010139942025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1480/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwcMm9uWmrcFQ%2BRhWUnrrY3JBjG5rtYz7ecZ%2BM%2F6d2Ma&caseno=WPSS/1480/2025&cCode=1&cino=UKHC010139942025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d3b265c88904fd909b8c91d7deef64534e8f321374aa3f5bfdd6d6deae7dae6f",
+ "fetched_at": "2026-10-16T19:00:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

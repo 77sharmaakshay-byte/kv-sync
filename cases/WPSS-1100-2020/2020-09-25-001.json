@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1100/2020:2020-09-25-001",
+ "title": "RAJENDRA SINGH BOHRA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJENDRA SINGH BOHRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1100/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-09-25",
+ "cnr": "UKHC010093172020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1100/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNrqmQFi%2FbNABi2NLFKnWDG%2Fy6768YD2omyu5ftJSCvQ&caseno=WPSS/1100/2020&cCode=1&cino=UKHC010093172020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "db91802009eec46da44e5e8637d9c82190613c9fc5fc7951dc3f24d23e1de631",
+ "fetched_at": "2026-10-16T19:00:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

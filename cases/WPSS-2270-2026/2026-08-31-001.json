@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2270/2026:2026-08-31-001",
+ "title": "MOHAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2270/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010151582026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2270/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjTYTgj%2BTrF4VH%2BTh3iI4rTgthu9c%2F24xePMMJBhI0kb&caseno=WPSS/2270/2026&cCode=1&cino=UKHC010151582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fdf11fbf494cedfd3bb7a647ba8d4b9f1f76240e6e51040cd6a4feec3c156fb0",
+ "fetched_at": "2026-10-16T19:00:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/265/2025:2026-09-29-003",
+ "title": "SUSHIL SINGH RANA versus GOVIND MOHAN",
+ "petitioner": "SUSHIL SINGH RANA",
+ "respondent": "GOVIND MOHAN",
+ "case_no": "CLCON/265/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010085172025",
+ "doc_kind": "order",
+ "order_type": "CLCON/265/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0npaAyIPJVGhP%2BXdLwv2QGzouaJYyzDxXNqvTXjzLcH&caseno=CLCON/265/2025&cCode=1&cino=UKHC010085172025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5b65a3ce24aca8d67c900edf87343758294ccbc820ec3c4ad1da85162f9a9f05",
+ "fetched_at": "2026-10-16T19:07:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

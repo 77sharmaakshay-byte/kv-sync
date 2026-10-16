@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/121/2018:2025-02-11-015",
+ "title": "GOPAL SINGH versus HEERA LAL SAH ALIAS HARISH LAL SAH",
+ "petitioner": "GOPAL SINGH",
+ "respondent": "HEERA LAL SAH ALIAS HARISH LAL SAH",
+ "case_no": "SA/121/2018",
+ "case_type": "SA",
+ "decision_date": "2025-02-11",
+ "cnr": "UKHC010181462018",
+ "doc_kind": "order",
+ "order_type": "SA/121/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL0ghwuIr4ZjRGU03CEH3sDDyTt3INEAOnGxl93ufXEfV&caseno=SA/121/2018&cCode=1&cino=UKHC010181462018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "67d9d5d0c30bba7fb1cb9ea42b8571244a08055568c0468128f8235d586586bd",
+ "fetched_at": "2026-10-16T19:13:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/251/2025:2026-09-30-004",
+ "title": "ARVIND KUMAR versus GOVIND MOHAN",
+ "petitioner": "ARVIND KUMAR",
+ "respondent": "GOVIND MOHAN",
+ "case_no": "CLCON/251/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010079402025",
+ "doc_kind": "order",
+ "order_type": "IA/2/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1%2BIxljGjk9xrqUNUtLWZLplj6mhea0wbcGZIrZpzS1R&caseno=CLCON/251/2025&cCode=1&cino=UKHC010079402025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "df1367d750ef20d68af438e601738d6c56e160a1157858de8e22ccb6548137d0",
+ "fetched_at": "2026-10-16T19:07:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

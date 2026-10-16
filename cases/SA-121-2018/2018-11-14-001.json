@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/121/2018:2018-11-14-001",
+ "title": "GOPAL SINGH versus HEERA LAL SAH ALIAS HARISH LAL SAH",
+ "petitioner": "GOPAL SINGH",
+ "respondent": "HEERA LAL SAH ALIAS HARISH LAL SAH",
+ "case_no": "SA/121/2018",
+ "case_type": "SA",
+ "decision_date": "2018-11-14",
+ "cnr": "UKHC010181462018",
+ "doc_kind": "order",
+ "order_type": "SA/121/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL0ghwuIr4ZjRGU03CEH3sDAh0HVWNeYUcTtC4%2BTQllUE&caseno=SA/121/2018&cCode=1&cino=UKHC010181462018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9fae6d92bacc88384139ff8c1311acfa80d9cf42b95e6b03e067edf124cd33ce",
+ "fetched_at": "2026-10-16T19:12:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

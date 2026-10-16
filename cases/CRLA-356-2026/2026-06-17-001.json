@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/356/2026:2026-06-17-001",
+ "title": "NARESH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/356/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-06-17",
+ "cnr": "UKHC010105442026",
+ "doc_kind": "order",
+ "order_type": "CRLA/356/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoToxLfwobtwMLnJHkXX%2FHios%2BiKHCTCtwNWCd1l03f6&caseno=CRLA/356/2026&cCode=1&cino=UKHC010105442026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5f2cc787db40cb11adf33c5ddbf38e020a2ad5420ac0579f3f710ca24e732d81",
+ "fetched_at": "2026-10-16T19:10:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

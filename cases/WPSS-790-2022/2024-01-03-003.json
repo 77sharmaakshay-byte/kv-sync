@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/790/2022:2024-01-03-003",
+ "title": "AMIT KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "AMIT KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/790/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-03",
+ "cnr": "UKHC010057302022",
+ "doc_kind": "order",
+ "order_type": "WPSS/790/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05LutGYm8aNVD2eB7AxA8qN6O7PV0%2BWHM5iZG8Ix1d1J&caseno=WPSS/790/2022&cCode=1&cino=UKHC010057302022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6002b95fd2e7047dbe6e3ce68923eb0904cc7733b62566253fb40191ee5cc191",
+ "fetched_at": "2026-10-16T18:58:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/133/2025:2026-09-17-005",
+ "title": "ANITA versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "ANITA",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "CRLR/133/2025",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010033082025",
+ "doc_kind": "order",
+ "order_type": "CRLR/133/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0hrOMyYBU7d4Dg5BF%2FO4FzyUtbfGGC3kzAtA4VDJbb2&caseno=CRLR/133/2025&cCode=1&cino=UKHC010033082025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "da29f0f3373a50b28266d0e9fd02273775c87bf8f3c156c8ed1fbda46249bc52",
+ "fetched_at": "2026-10-16T19:12:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

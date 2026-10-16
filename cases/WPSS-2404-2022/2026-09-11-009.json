@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2404/2022:2026-09-11-009",
+ "title": "VIRENDRA BALMIKI versus STATE OF UTTARAKHAND",
+ "petitioner": "VIRENDRA BALMIKI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2404/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010187302022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2404/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05CE6VPlVpExHXhNydNsdgkam97cpig0TXWiCv9MbTub&caseno=WPSS/2404/2022&cCode=1&cino=UKHC010187302022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5db7de7921233e5b06a7248e7ebedb1af9d03e4230c03a2422882a732d39603f",
+ "fetched_at": "2026-10-16T19:03:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

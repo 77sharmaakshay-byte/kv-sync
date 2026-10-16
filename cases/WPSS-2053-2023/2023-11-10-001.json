@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2053/2023:2023-11-10-001",
+ "title": "MUKESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MUKESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2053/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-11-10",
+ "cnr": "UKHC010179852023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2053/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY0An0ML7%2BbeeQuqCjX840E598v7XGy4JBdTTuIjJRlwq&caseno=WPSS/2053/2023&cCode=1&cino=UKHC010179852023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6712731fa4ee39c8aa89b4956f4b80bd9a0a0c592da5afd9463d61e69dfad92b",
+ "fetched_at": "2026-10-16T19:02:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

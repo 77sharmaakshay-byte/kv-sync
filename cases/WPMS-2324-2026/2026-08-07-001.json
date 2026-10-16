@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2324/2026:2026-08-07-001",
+ "title": "KISHAN SINGH BHANDARI versus STATE OF UTTARAKHAND",
+ "petitioner": "KISHAN SINGH BHANDARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2324/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-07",
+ "cnr": "UKHC010135372026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2324/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQveuZOg0QIaVl9eXwlKY%2FclPETUnUB4FtswEYohjwl0I&caseno=WPMS/2324/2026&cCode=1&cino=UKHC010135372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2951d1f56ffd7012ffc8c692820b497c1c8e40aac491f869094afa3d28c690c6",
+ "fetched_at": "2026-10-16T19:09:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

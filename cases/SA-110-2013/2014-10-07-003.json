@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/110/2013:2014-10-07-003",
+ "title": "Lakhi Ram Joshi versus Smt Malti Devi",
+ "petitioner": "Lakhi Ram Joshi",
+ "respondent": "Smt Malti Devi",
+ "case_no": "SA/110/2013",
+ "case_type": "SA",
+ "decision_date": "2014-10-07",
+ "cnr": "UKHC010003642013",
+ "doc_kind": "order",
+ "order_type": "SA/110/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaISi9XpNIsH2dVW%2F6hLqnHDRxXqZ%2BLLJ%2F%2Ftp6nSVuma%2Bd&caseno=SA/110/2013&cCode=1&cino=UKHC010003642013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "746900a937cae3ee9c9a57d851bec1211ce379ccdf7ba24706d5e4b400afe8fe",
+ "fetched_at": "2026-10-16T19:02:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/141/2025:2026-08-20-003",
+ "title": "IRFAN versus YESH PAL",
+ "petitioner": "IRFAN",
+ "respondent": "YESH PAL",
+ "case_no": "SA/141/2025",
+ "case_type": "SA",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010185152025",
+ "doc_kind": "order",
+ "order_type": "SA/141/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6AXqIBFSIK8Tzw%2BSI%2FtReoXIUFA8iG2%2BeEp4YMCwfqj&caseno=SA/141/2025&cCode=1&cino=UKHC010185152025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4221cd550d876aeb09f0f0754c00098b2344f730658d666326058a7aa2446897",
+ "fetched_at": "2026-10-16T19:25:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

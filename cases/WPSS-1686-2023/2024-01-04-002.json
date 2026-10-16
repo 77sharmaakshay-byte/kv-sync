@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1686/2023:2024-01-04-002",
+ "title": "SARDAR SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SARDAR SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1686/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-04",
+ "cnr": "UKHC010146822023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1686/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8IvVHliOUvCcSVEONM82gQsHso9S5iKNgUil82jPd7a&caseno=WPSS/1686/2023&cCode=1&cino=UKHC010146822023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5673edb3a13036114b4a869cc0d7e7b0b43b67c43f01c9395250c9bf4311416a",
+ "fetched_at": "2026-10-16T19:00:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

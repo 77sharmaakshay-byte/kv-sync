@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1112/2025:2025-10-07-001",
+ "title": "RAJKUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJKUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1112/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-10-07",
+ "cnr": "UKHC010155012025",
+ "doc_kind": "order",
+ "order_type": "ABA/1112/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm18NBJKIkbbTW4RvZQbA2v7woSdTj8EOKgkss8jZdkDh&caseno=ABA/1112/2025&cCode=1&cino=UKHC010155012025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "206c111260c33af702e7574cc13e23b0d7f3124ff3392842e851bf17a205cb72",
+ "fetched_at": "2026-10-16T19:07:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

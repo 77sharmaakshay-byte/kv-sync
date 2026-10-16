@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/3845/2018:2020-07-17-012",
+ "title": "SURESH CHANDRA versus DIRECTOR SCHOOL EDUCATION DIRECTORATE OF SCHOOL EDUCATION DEHRADUN",
+ "petitioner": "SURESH CHANDRA",
+ "respondent": "DIRECTOR SCHOOL EDUCATION DIRECTORATE OF SCHOOL EDUCATION DEHRADUN",
+ "case_no": "WPSS/3845/2018",
+ "case_type": "WPSS",
+ "decision_date": "2020-07-17",
+ "cnr": "UKHC010183292018",
+ "doc_kind": "order",
+ "order_type": "WPSS/3845/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL9DFm00lWy4oewSomQrdjn%2BN2M3dbTEvSrrXZp1thFLM&caseno=WPSS/3845/2018&cCode=1&cino=UKHC010183292018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4a729a8b6832383cbd43522bc86bc80a988afa0dc769ff5c4aed2ed91cd058d5",
+ "fetched_at": "2026-10-16T19:01:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,61 @@
+{
+ "cnr_number": "UKHC010141652026",
+ "case_type": "AO",
+ "filing_number": "AO /7358/2026",
+ "filing_date": "2026-08-07",
+ "registration_number": "AO /301/2026",
+ "registration_date": "2026-08-07",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-26",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "MOHD SHARIK",
+   "advocate": "DHARMENDRA BARTHWAL"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SAYEMA",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Family Courts Act, 1984 (Act No. 66 of 1984)",
+   "sections": "19"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-10",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-16",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-10",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

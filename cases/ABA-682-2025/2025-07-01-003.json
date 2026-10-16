@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/682/2025:2025-07-01-003",
+ "title": "VIDIT PANWAR versus STATE OF UTTARAKHAND",
+ "petitioner": "VIDIT PANWAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/682/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-07-01",
+ "cnr": "UKHC010089712025",
+ "doc_kind": "order",
+ "order_type": "ABA/682/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2BUtc7JXPUcqwUtP3UxtZEX6EHUFvWRu5XA4Y7uo9SCQ&caseno=ABA/682/2025&cCode=1&cino=UKHC010089712025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a7e22cecc08319b845f451df57b1627b29f081f094a4ff167a69e51151ff8659",
+ "fetched_at": "2026-10-16T19:07:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

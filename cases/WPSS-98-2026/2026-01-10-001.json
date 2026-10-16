@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/98/2026:2026-01-10-001",
+ "title": "SHIWA KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SHIWA KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/98/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-01-10",
+ "cnr": "UKHC010006682026",
+ "doc_kind": "order",
+ "order_type": "WPSS/98/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr7Q6Ph51Y81UuiBgyrC3iMgxHoJwlTiSjpc0vaq3unt&caseno=WPSS/98/2026&cCode=1&cino=UKHC010006682026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7ef00443d6f3ef205f37e8aab71aa8fba669e8bde745fe6187fc7eec1c905dfa",
+ "fetched_at": "2026-10-16T18:59:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

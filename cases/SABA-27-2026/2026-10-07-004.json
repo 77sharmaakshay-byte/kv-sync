@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SABA/27/2026:2026-10-07-004",
+ "title": "SALMAN ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "SALMAN ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SABA/27/2026",
+ "case_type": "SABA",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010147612026",
+ "doc_kind": "order",
+ "order_type": "SABA/27/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmFZNJpuK4ml%2FRgCglDEwG4fvMfUPOOd45H%2BeLXDyv%2Bq&caseno=SABA/27/2026&cCode=1&cino=UKHC010147612026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3988f9c6c4d6574576990418a222e32aacd75b789b94678e00c5f3dc2bff382f",
+ "fetched_at": "2026-10-16T19:24:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

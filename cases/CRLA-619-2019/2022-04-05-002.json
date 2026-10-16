@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/619/2019:2022-04-05-002",
+ "title": "MANSAD versus STATE OF UTTARAKHAND",
+ "petitioner": "MANSAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/619/2019",
+ "case_type": "CRLA",
+ "decision_date": "2022-04-05",
+ "cnr": "UKHC010188912019",
+ "doc_kind": "order",
+ "order_type": "CRLA/619/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9CXekw2wEkDHVnQF8gUMYR2Uh2yEb%2BHRbUWuayyH2WQ&caseno=CRLA/619/2019&cCode=1&cino=UKHC010188912019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f632a2aa6af2deef2f29e57a436952bf13c7b2dd1ee125724dd8f5fbee0aadaa",
+ "fetched_at": "2026-10-16T19:25:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

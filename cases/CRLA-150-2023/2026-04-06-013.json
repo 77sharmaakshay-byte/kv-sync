@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/150/2023:2026-04-06-013",
+ "title": "SHAMSHER ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAMSHER ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/150/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-04-06",
+ "cnr": "UKHC010044442023",
+ "doc_kind": "order",
+ "order_type": "CRLA/150/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9RMnITerLp3wJ3iC8MkKLlZhQ5Y%2B2dQa6Z9mHbYkSBb&caseno=CRLA/150/2023&cCode=1&cino=UKHC010044442023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6178a709a5ae634bc9c1033b21d8b485704345df00c0e0dee8a45f9558c58d87",
+ "fetched_at": "2026-10-16T19:25:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

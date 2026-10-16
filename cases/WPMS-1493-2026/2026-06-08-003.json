@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1493/2026:2026-06-08-003",
+ "title": "EKTA AGARWAL versus BRANCH MANAGER",
+ "petitioner": "EKTA AGARWAL",
+ "respondent": "BRANCH MANAGER",
+ "case_no": "WPMS/1493/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-06-08",
+ "cnr": "UKHC010086422026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1493/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp6XBUk%2FVijGhdeEELk4N0cq4KhXuPY0acYMDBUZH1M7&caseno=WPMS/1493/2026&cCode=1&cino=UKHC010086422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ee50cbc06209b07aa24e414a89125f0af7f4c8e7065c7103aedf6192f9c878bf",
+ "fetched_at": "2026-10-16T19:09:04+00:00",
+ "fetched_by": "fetch_live.py"
+}
