@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1717/2026:2026-07-24-001",
+ "title": "MATHURA SINGH MAURYA versus NAVEEN CHANDRA BHATT",
+ "petitioner": "MATHURA SINGH MAURYA",
+ "respondent": "NAVEEN CHANDRA BHATT",
+ "case_no": "WPMS/1717/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-24",
+ "cnr": "UKHC010096072026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1717/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpSd%2FVdCvVo1YtA653oZA99c%2FqR%2BvEy1qL5ek9fZL2T6&caseno=WPMS/1717/2026&cCode=1&cino=UKHC010096072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "aaef639db2ac217b6dba50107455318bc3ccbf4e7c47362f33da63de6e3aa522",
+ "fetched_at": "2026-10-17T05:36:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

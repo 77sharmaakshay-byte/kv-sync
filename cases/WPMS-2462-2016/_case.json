@@ -1,0 +1,695 @@
+{
+ "cnr_number": "UKHC010024072016",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /1010766/2016",
+ "filing_date": "2016-09-03",
+ "registration_number": "WPMS /2462/2016",
+ "registration_date": "2016-09-03",
+ "first_hearing_date": "2016-12-02",
+ "next_hearing_date": "2026-10-27",
+ "decision_date": null,
+ "case_stage": "FOR FINAL HEARING -40",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pauri Garhwal",
+ "petitioners": [
+  {
+   "name": "DAULAT RAM",
+   "advocate": "SIDDHARTHA SINGH,D S NEGI,D S NEGI, ,P. S. BISHT,KSHITIJ SAH,D S NEGI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "GOVIND SINGH",
+   "advocate": "SUDHIR KUMAR,"
+  },
+  {
+   "name": "RAKESH KUMAR",
+   "advocate": "SUDHIR KUMAR"
+  },
+  {
+   "name": "STATE OFUTTARAKHAND THROUGH COLLECTOR PAURI GARHWAL",
+   "advocate": ""
+  },
+  {
+   "name": "NAGAR PALIKA KOTDWAR DISTRICT PAURI THROUGH ITS CHAIRMAN",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 227 of the Constituion of India",
+   "sections": "227"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-27",
+   "business_date": "2026-10-06",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-13",
+   "business_date": "2024-08-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-13",
+   "business_date": "2024-04-15",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-15",
+   "business_date": "2023-12-07",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-12-07",
+   "business_date": "2023-09-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-09-05",
+   "business_date": "2023-06-30",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-30",
+   "business_date": "2023-06-20",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-20",
+   "business_date": "2023-03-03",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2023-03-03",
+   "business_date": "2023-01-02",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-01-02",
+   "business_date": "2022-12-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-12-16",
+   "business_date": "2022-09-14",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-09-14",
+   "business_date": "2022-07-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-07-27",
+   "business_date": "2022-07-12",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-07-12",
+   "business_date": "2022-05-21",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-01-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-01-06",
+   "business_date": "2021-12-16",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-12-16",
+   "business_date": "2021-11-25",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-11-25",
+   "business_date": "2021-10-21",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-09-15",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-09-11",
+   "business_date": "2020-08-28",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-08-27",
+   "business_date": "2020-08-20",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-08-21",
+   "business_date": "2020-08-07",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-03-23",
+   "business_date": "2020-03-02",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": null,
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-03-02",
+   "business_date": "2020-02-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-02-27",
+   "business_date": "2020-02-26",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-02-26",
+   "business_date": "2020-02-19",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-02-17",
+   "business_date": "2020-02-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-02-10",
+   "business_date": "2020-01-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-01-06",
+   "business_date": "2019-12-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-12-16",
+   "business_date": "2019-12-09",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-12-09",
+   "business_date": "2019-12-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-12-05",
+   "business_date": "2019-12-04",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-12-04",
+   "business_date": "2019-11-29",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-11-29",
+   "business_date": "2019-11-20",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-11-20",
+   "business_date": "2019-11-19",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-11-19",
+   "business_date": "2019-11-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-11-18",
+   "business_date": "2019-10-01",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-09-30",
+   "business_date": "2019-09-23",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-09-23",
+   "business_date": "2019-08-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-10-25",
+   "business_date": "2018-08-31",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-08-31",
+   "business_date": "2018-07-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-07-16",
+   "business_date": "2018-06-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-06-18",
+   "business_date": "2018-05-03",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-05-03",
+   "business_date": "2018-04-11",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-04-11",
+   "business_date": "2018-04-02",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-04-02",
+   "business_date": "2018-03-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-03-27",
+   "business_date": "2018-03-20",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-03-20",
+   "business_date": "2018-03-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-03-06",
+   "business_date": "2018-01-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-01-03",
+   "business_date": "2017-07-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-07-27",
+   "business_date": "2017-06-14",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-06-14",
+   "business_date": "2017-05-11",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-05-11",
+   "business_date": "2017-03-27",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-03-27",
+   "business_date": "2017-02-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-02-22",
+   "business_date": "2016-12-02",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-12-02",
+   "business_date": "2016-09-05",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2016-09-05",
+   "order_type": "WPMS/2462/2016",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjUPcFzjnANFKpHaVvyU5FgH&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-03-27",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice U. C. Dhyani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjWpS6cyAoi6vXqVsXWCSjxE&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-01-03",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice U. C. Dhyani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjXKdo9Q29WqyQqWOZJJiGlT&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-03-06",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjX78MPP4Wa3WK4iqPyDa2DK&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-03-20",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjUeDmAm8dm%2F28ue39QqF74Y&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-04-02",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjWe83Z9ikwk%2BcvzRLifw9as&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-04-11",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjWyO3qlt2eM7LAn6JrN8rWD&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-06-18",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVNNJNncLzgQWqNjaviuGPR&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-08-22",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjWdhg6BptXcwZB3lQKqLdr9&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-11-20",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjXmAMiBJHFdFCL%2BQAp80PfU&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-11-29",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjW3AGzW3MIndXOBQPe3YUeS&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-12-05",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjWzGM28Id%2F7ydWO3%2BmD%2BAYt&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-12-09",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVHEpccPdxq1b4dquitsurU&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-02-27",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVnTiUHHM9xXeqLo2JcExZX&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-01-08",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjUypllyT5%2FThymj1FU3EK7m&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-02-10",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjX%2FnvlHLLYOHnbtsiR8KqIs&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-12-04",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVVmWBI3wXCBTmxBykJz%2FfP&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-08-07",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjXh379Wk2d6%2BNwaA5Onaqae&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-08-20",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVixahCR6g3VDGymBA2XxpJ&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-09-15",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjWrBOSOrGShRrhuIBwg1zg2&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-08-28",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjUJIRXfwvyprMLwWordx6zI&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-10-21",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjXpCbBSIF6m85VyOB9EBlfx&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-05-21",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjUQxUp68WYDTQi1WD3YevbH&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-07-12",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjXzY0JmXdhJYEAuuL%2Bnk7sV&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-01-02",
+   "order_type": "WPMS/2462/2016",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVpjRTFwrALLofv4rplnnCm&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-08-13",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjXorIU%2FtpS8%2Bsn%2F%2Bj%2FW0EtO&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-06",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVgOm0xKky6RK5gIMaUiWhW&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

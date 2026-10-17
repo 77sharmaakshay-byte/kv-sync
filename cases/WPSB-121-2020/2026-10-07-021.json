@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/121/2020:2026-10-07-021",
+ "title": "MOHD MURSLEEN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD MURSLEEN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/121/2020",
+ "case_type": "WPSB",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010052602020",
+ "doc_kind": "order",
+ "order_type": "WPSB/121/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvHUh0MqTSbzg4Gnev%2Fh2Zbq&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d05fadf78481c48b6222a3ae09efe3ced1c6856f87d9151aeebffd2c62f68f27",
+ "fetched_at": "2026-10-17T05:27:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

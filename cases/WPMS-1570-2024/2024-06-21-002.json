@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1570/2024:2024-06-21-002",
+ "title": "MAINPAL DECEASED(Legal Heir) versus HARI SINGH ALIAS BUTA SINGH",
+ "petitioner": "MAINPAL DECEASED(Legal Heir)",
+ "respondent": "HARI SINGH ALIAS BUTA SINGH",
+ "case_no": "WPMS/1570/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-06-21",
+ "cnr": "UKHC010089562024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1570/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcOQwEIewVEKpldY28c9tH12TwoVMTAAEzFhBKlqj6qfR&caseno=WPMS/1570/2024&cCode=1&cino=UKHC010089562024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bbc536c370f7bd0f57d795f20ad4b4844f11e5b9af3436879e443d24dcbad578",
+ "fetched_at": "2026-10-17T05:36:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/621/2021:2026-03-19-012",
+ "title": "SALIM KHAN versus SMT. BEENA AGARWAL",
+ "petitioner": "SALIM KHAN",
+ "respondent": "SMT. BEENA AGARWAL",
+ "case_no": "WPMS/621/2021",
+ "case_type": "WPMS",
+ "decision_date": "2026-03-19",
+ "cnr": "UKHC010035212021",
+ "doc_kind": "order",
+ "order_type": "WPMS/621/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLUcgaFznc%2FTiyUxXoq8ZJOckH5jr25y0Py2bpdpKV3M&caseno=WPMS/621/2021&cCode=1&cino=UKHC010035212021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b24bf55ff2a90f01e86c46febc22e590bc76d803dbff13a98c638d711db1dc3c",
+ "fetched_at": "2026-10-17T05:36:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

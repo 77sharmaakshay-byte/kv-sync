@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2835/2024:2026-07-20-002",
+ "title": "MS VARROC ENGINEERING LIMITED versus SECRETARY SRI PRESIDENT MAHA MANTRI VARROC WORKERS UNION",
+ "petitioner": "MS VARROC ENGINEERING LIMITED",
+ "respondent": "SECRETARY SRI PRESIDENT MAHA MANTRI VARROC WORKERS UNION",
+ "case_no": "WPMS/2835/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-20",
+ "cnr": "UKHC010164082024",
+ "doc_kind": "order",
+ "order_type": "WPMS/2835/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcK3ti94s2xhGZzd4XOeK74PcZ%2BCXg49nJvnOdq86U33z&caseno=WPMS/2835/2024&cCode=1&cino=UKHC010164082024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a91748c99d75a68d162abae1b77c91d9297ef836102a5b99d6ec0f5457fb22d4",
+ "fetched_at": "2026-10-17T05:31:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

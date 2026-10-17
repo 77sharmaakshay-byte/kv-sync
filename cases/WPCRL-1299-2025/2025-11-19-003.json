@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1299/2025:2025-11-19-003",
+ "title": "ADHARSH SHUKLA versus STATE OF UTTARAKHAND",
+ "petitioner": "ADHARSH SHUKLA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1299/2025",
+ "case_type": "WPCRL",
+ "decision_date": "2025-11-19",
+ "cnr": "UKHC010162912025",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1299/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9sNT9S2jhCZ39H1KfeO4qYkBIoEWCYd%2FhdsbgY4cKU%2F&caseno=WPCRL/1299/2025&cCode=1&cino=UKHC010162912025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9eebd143d0a76113db127441914828862dd5b448c32110fdd91adfa96b1e15ba",
+ "fetched_at": "2026-10-17T05:27:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

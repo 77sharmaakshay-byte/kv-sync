@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1745/2026:2026-07-15-003",
+ "title": "SARDAR AMARJEET SINGH WADHWA versus MANENDRA SINGH",
+ "petitioner": "SARDAR AMARJEET SINGH WADHWA",
+ "respondent": "MANENDRA SINGH",
+ "case_no": "WPMS/1745/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-15",
+ "cnr": "UKHC010097642026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1745/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpW%2F4Z5DLxohvlS1%2FCzARwRPM1OPfaK18zS6sEgNJnyS&caseno=WPMS/1745/2026&cCode=1&cino=UKHC010097642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0b03f338a36c464b06b73f67d7ab8bb3b0b3c1fcd57d6e196ecfddbaf1937885",
+ "fetched_at": "2026-10-17T05:38:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

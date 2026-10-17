@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2714/2026:2026-09-15-001",
+ "title": "ABHISHEK versus STATE OF UTTARAKHAND",
+ "petitioner": "ABHISHEK",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2714/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010157512026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2714/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoey%2FStFSoNhgVRe7ekq%2FQwY0Kwl8OR3qsPMdh%2FJU7Qv&caseno=WPMS/2714/2026&cCode=1&cino=UKHC010157512026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8f8a27bda3130482be5d863e63aa4e32522bf5132cf6abd1e7983ea875777035",
+ "fetched_at": "2026-10-17T05:30:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

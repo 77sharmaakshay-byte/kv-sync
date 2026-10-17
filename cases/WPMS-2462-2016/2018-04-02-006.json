@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2462/2016:2018-04-02-006",
+ "title": "DAULAT RAM versus GOVIND SINGH",
+ "petitioner": "DAULAT RAM",
+ "respondent": "GOVIND SINGH",
+ "case_no": "WPMS/2462/2016",
+ "case_type": "WPMS",
+ "decision_date": "2018-04-02",
+ "cnr": "UKHC010024072016",
+ "doc_kind": "order",
+ "order_type": "WPMS/2462/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjWe83Z9ikwk%2BcvzRLifw9as&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "da27d86dccbff60707f0630eed2eb1248d3a01a8836197017d1714310390c712",
+ "fetched_at": "2026-10-17T05:37:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

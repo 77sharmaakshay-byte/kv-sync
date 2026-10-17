@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/588/2023:2025-06-20-007",
+ "title": "MONIKA RASTOGI versus AAM JANTA",
+ "petitioner": "MONIKA RASTOGI",
+ "respondent": "AAM JANTA",
+ "case_no": "AO/588/2023",
+ "case_type": "AO",
+ "decision_date": "2025-06-20",
+ "cnr": "UKHC010209382023",
+ "doc_kind": "order",
+ "order_type": "AO/588/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzpRU4uDSEMz6LTP5ZDEqHmbP2WgqrU6uhCRaiKXybp8&caseno=AO/588/2023&cCode=1&cino=UKHC010209382023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cfdaafd4b20eb3af88802171484026185c3df28ec9a5175a1b83bf159b9e49c2",
+ "fetched_at": "2026-10-17T05:30:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

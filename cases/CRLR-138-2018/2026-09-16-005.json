@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/138/2018:2026-09-16-005",
+ "title": "Ravi Saini versus Smt. Reena",
+ "petitioner": "Ravi Saini",
+ "respondent": "Smt. Reena",
+ "case_no": "CRLR/138/2018",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010029432018",
+ "doc_kind": "order",
+ "order_type": "CRLR/138/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL3Dj2hefUDDR72TrFv5hDYrynoU9s1zKxphJfOwRX8n0&caseno=CRLR/138/2018&cCode=1&cino=UKHC010029432018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "42f430adf221254d0da4086e30c22d82b0644e60b4647053c000c8a120db0888",
+ "fetched_at": "2026-10-17T05:32:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

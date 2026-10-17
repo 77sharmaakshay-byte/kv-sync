@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/989/2019:2025-09-26-010",
+ "title": "SHARDA DEVI versus KAMLA BOBAL",
+ "petitioner": "SHARDA DEVI",
+ "respondent": "KAMLA BOBAL",
+ "case_no": "WPMS/989/2019",
+ "case_type": "WPMS",
+ "decision_date": "2025-09-26",
+ "cnr": "UKHC010051732019",
+ "doc_kind": "order",
+ "order_type": "WPMS/989/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF7CU%2BGvPKQxQxz10%2FRS8M41bAx8hsuP53en2T4mj02yG&caseno=WPMS/989/2019&cCode=1&cino=UKHC010051732019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "763729b8a53c3e83a5de7284efc2851ea376764abd6c5cbc9976525e78f5e003",
+ "fetched_at": "2026-10-17T05:31:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/611/2021:2021-03-18-001",
+ "title": "KANWAR ALI versus SMT. BEENA AGARWAL",
+ "petitioner": "KANWAR ALI",
+ "respondent": "SMT. BEENA AGARWAL",
+ "case_no": "WPMS/611/2021",
+ "case_type": "WPMS",
+ "decision_date": "2021-03-18",
+ "cnr": "UKHC010034712021",
+ "doc_kind": "order",
+ "order_type": "WPMS/611/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkIqwUNEcy7HXXcPZ43xHLkW5d%2BAiQn5LWA%2BcJFaGlYAm&caseno=WPMS/611/2021&cCode=1&cino=UKHC010034712021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "24f98ca8805b41f3797d12d414127e230412f53288a9a717d703cd80e21d6494",
+ "fetched_at": "2026-10-17T05:37:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

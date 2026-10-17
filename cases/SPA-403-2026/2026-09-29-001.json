@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/403/2026:2026-09-29-001",
+ "title": "STATE OF UTTARAKHAND versus POONAM BAHUGUNA",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "POONAM BAHUGUNA",
+ "case_no": "SPA/403/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010164192026",
+ "doc_kind": "order",
+ "order_type": "SPA/403/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpvW1fZZhD5Mctco%2Bpzb9Xb6l8g0O58ii2wBqRa9FSn0&caseno=SPA/403/2026&cCode=1&cino=UKHC010164192026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eea4ac497fd346da48cdb011011d82ba6a84e467be8ec630d495ff046e80ea0a",
+ "fetched_at": "2026-10-17T05:34:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

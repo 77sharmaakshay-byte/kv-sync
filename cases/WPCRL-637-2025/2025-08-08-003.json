@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/637/2025:2025-08-08-003",
+ "title": "NIHAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "NIHAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/637/2025",
+ "case_type": "WPCRL",
+ "decision_date": "2025-08-08",
+ "cnr": "UKHC010091142025",
+ "doc_kind": "order",
+ "order_type": "WPCRL/637/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5JO7QBOXPp1HNahBumGcCIv3QcHIkgqocBqxelwj2nZ&caseno=WPCRL/637/2025&cCode=1&cino=UKHC010091142025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "83968bb01fce43b0252ac083ec14fc0c2d49c7edeb912f2d13b93d4ffd23bbb2",
+ "fetched_at": "2026-10-17T05:27:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

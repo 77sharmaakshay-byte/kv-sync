@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2462/2016:2017-03-27-002",
+ "title": "DAULAT RAM versus GOVIND SINGH",
+ "petitioner": "DAULAT RAM",
+ "respondent": "GOVIND SINGH",
+ "case_no": "WPMS/2462/2016",
+ "case_type": "WPMS",
+ "decision_date": "2017-03-27",
+ "cnr": "UKHC010024072016",
+ "doc_kind": "order",
+ "order_type": "WPMS/2462/2016",
+ "judges": [
+  "Hon'ble Mr. Justice U. C. Dhyani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjWpS6cyAoi6vXqVsXWCSjxE&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cad9dabefc6f69d4f91bc1cafdb5aa2c0c4724986a0f0cc042dc11e1a58a36d9",
+ "fetched_at": "2026-10-17T05:37:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1079/2026:2026-07-13-004",
+ "title": "ARJUN SINGH AND ORS versus STATE OF UTTARAKHAND",
+ "petitioner": "ARJUN SINGH AND ORS",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1079/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-07-13",
+ "cnr": "UKHC010100552026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1079/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQptzUCYf50XjM%2BVE97f1S9fMcD2%2FAdUmp2Wg1JGgJF2h&caseno=WPCRL/1079/2026&cCode=1&cino=UKHC010100552026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "818047030ace1be779d5b13d04e4e104397ca8e2dd2fa4afd4fe95638e35430f",
+ "fetched_at": "2026-10-17T05:28:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

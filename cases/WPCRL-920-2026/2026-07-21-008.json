@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/920/2026:2026-07-21-008",
+ "title": "SANTOSH KUMAR RAI versus STATE OF UTTARAKHAND",
+ "petitioner": "SANTOSH KUMAR RAI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/920/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-07-21",
+ "cnr": "UKHC010084392026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/920/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQls4l%2B%2BY%2FyY7UxSlGI2%2FgBA4xKWYVB%2FLw5dlorjQo9L3&caseno=WPCRL/920/2026&cCode=1&cino=UKHC010084392026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "09f9d62355464300dc569c2239e03d57a2535f8cdb95366b15d9d366208ae62e",
+ "fetched_at": "2026-10-17T05:28:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

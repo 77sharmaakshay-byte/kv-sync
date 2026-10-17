@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2602/2024:2026-02-09-002",
+ "title": "INDER SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "INDER SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2602/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-09",
+ "cnr": "UKHC010152832024",
+ "doc_kind": "order",
+ "order_type": "WPMS/2602/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKKvotZKoqBNdzHqUcrxUaEhwGfRrzsGEdA6M3olDEsb&caseno=WPMS/2602/2024&cCode=1&cino=UKHC010152832024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd85a1cc866a6dbc0181c28265a1d37d18fc7a2e9f15373c0eee20280ebe7560",
+ "fetched_at": "2026-10-17T05:31:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/826/2019:2019-09-19-002",
+ "title": "SANJAY KASHYAP versus SMT BINA",
+ "petitioner": "SANJAY KASHYAP",
+ "respondent": "SMT BINA",
+ "case_no": "WPMS/826/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-09-19",
+ "cnr": "UKHC010043272019",
+ "doc_kind": "order",
+ "order_type": "WPMS/826/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFwlRrnZ4GgYp%2FbyQ9tZd%2FctrmLErdGLJ23dzHjFrfnp2&caseno=WPMS/826/2019&cCode=1&cino=UKHC010043272019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ae0c1c168c7d0f75057ef27087aebd4802ad1b390d9525b1614824ddf69a973e",
+ "fetched_at": "2026-10-17T05:31:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

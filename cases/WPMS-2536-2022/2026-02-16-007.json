@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2536/2022:2026-02-16-007",
+ "title": "M/S CAVENDISH INDUSTRIES LIMITED versus NITU PANWAR",
+ "petitioner": "M/S CAVENDISH INDUSTRIES LIMITED",
+ "respondent": "NITU PANWAR",
+ "case_no": "WPMS/2536/2022",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010149082022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2536/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT04FUu3UBr4W5eI0JmpgONaPkx0KSOLVy6gu2gQSgRVBI&caseno=WPMS/2536/2022&cCode=1&cino=UKHC010149082022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e1f91ac7aaec3c002612bbd2e3b5b0dc3da15676c4e32a9dc28d6827160eb59b",
+ "fetched_at": "2026-10-17T05:37:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1299/2025:2026-09-28-020",
+ "title": "ADHARSH SHUKLA versus STATE OF UTTARAKHAND",
+ "petitioner": "ADHARSH SHUKLA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1299/2025",
+ "case_type": "WPCRL",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010162912025",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1299/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9sNT9S2jhCZ39H1KfeO4qb6KK10mzNaOHr07GAKKHiy&caseno=WPCRL/1299/2025&cCode=1&cino=UKHC010162912025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3b6d54a92d25ab9f3694b1459e4c95ab0d40797f1550da9ed199662829881bac",
+ "fetched_at": "2026-10-17T05:27:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

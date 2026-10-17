@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/588/2023:2026-06-19-011",
+ "title": "MONIKA RASTOGI versus AAM JANTA",
+ "petitioner": "MONIKA RASTOGI",
+ "respondent": "AAM JANTA",
+ "case_no": "AO/588/2023",
+ "case_type": "AO",
+ "decision_date": "2026-06-19",
+ "cnr": "UKHC010209382023",
+ "doc_kind": "order",
+ "order_type": "AO/588/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzpRU4uDSEMz6LTP5ZDEqHlDFdCNSrzpPXJrGTYQAAJX&caseno=AO/588/2023&cCode=1&cino=UKHC010209382023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2c083b71b8c62b287d6c3cf438e4f76bbb4162ac6f952a185517f14660c20b36",
+ "fetched_at": "2026-10-17T05:30:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/121/2020:2023-05-25-007",
+ "title": "MOHD MURSLEEN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD MURSLEEN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/121/2020",
+ "case_type": "WPSB",
+ "decision_date": "2023-05-25",
+ "cnr": "UKHC010052602020",
+ "doc_kind": "order",
+ "order_type": "WPSB/121/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvEfcO0KYt2jnP0xnFZdiumO&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5b78dc49ba8ba54ca9bb6f875852ba56893432cfc1eaff0d5befb89ba8cfd94f",
+ "fetched_at": "2026-10-17T05:27:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

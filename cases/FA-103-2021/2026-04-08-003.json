@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/103/2021:2026-04-08-003",
+ "title": "PREETISHA PATWAL versus RANJEET SINGH MALIK",
+ "petitioner": "PREETISHA PATWAL",
+ "respondent": "RANJEET SINGH MALIK",
+ "case_no": "FA/103/2021",
+ "case_type": "FA",
+ "decision_date": "2026-04-08",
+ "cnr": "UKHC010138552021",
+ "doc_kind": "order",
+ "order_type": "FA/103/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkMh9KjDhsGsK6FC4SKs9d6N8LOx2B%2FT%2BBLAXb2X5PHyr&caseno=FA/103/2021&cCode=1&cino=UKHC010138552021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ac1128c78a7183cd0cb7a9b2fad2e001916f71ecd4ac39c0ccc01d7f3d2dddc1",
+ "fetched_at": "2026-10-17T05:28:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

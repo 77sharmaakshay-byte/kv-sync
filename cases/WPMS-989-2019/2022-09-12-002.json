@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/989/2019:2022-09-12-002",
+ "title": "SHARDA DEVI versus KAMLA BOBAL",
+ "petitioner": "SHARDA DEVI",
+ "respondent": "KAMLA BOBAL",
+ "case_no": "WPMS/989/2019",
+ "case_type": "WPMS",
+ "decision_date": "2022-09-12",
+ "cnr": "UKHC010051732019",
+ "doc_kind": "order",
+ "order_type": "WPMS/989/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF7CU%2BGvPKQxQxz10%2FRS8M40inobCar%2BFuRRI8gTDqj0U&caseno=WPMS/989/2019&cCode=1&cino=UKHC010051732019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5ff2b91922bee4c0e313ca83da177d59a9e624559c553a31cb122d3307319f40",
+ "fetched_at": "2026-10-17T05:31:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

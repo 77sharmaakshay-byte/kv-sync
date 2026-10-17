@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2462/2016:2020-02-27-014",
+ "title": "DAULAT RAM versus GOVIND SINGH",
+ "petitioner": "DAULAT RAM",
+ "respondent": "GOVIND SINGH",
+ "case_no": "WPMS/2462/2016",
+ "case_type": "WPMS",
+ "decision_date": "2020-02-27",
+ "cnr": "UKHC010024072016",
+ "doc_kind": "order",
+ "order_type": "WPMS/2462/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVnTiUHHM9xXeqLo2JcExZX&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6457a6bbcb9c17d9a149d02e2e9cbaf3438ec99323393f077747c909c25a217d",
+ "fetched_at": "2026-10-17T05:38:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

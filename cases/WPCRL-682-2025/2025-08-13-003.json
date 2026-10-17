@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/682/2025:2025-08-13-003",
+ "title": "DILIP SINGH ALIAS DALLU versus STATE OF UTTARAKHAND",
+ "petitioner": "DILIP SINGH ALIAS DALLU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/682/2025",
+ "case_type": "WPCRL",
+ "decision_date": "2025-08-13",
+ "cnr": "UKHC010096142025",
+ "doc_kind": "order",
+ "order_type": "WPCRL/682/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2BVnU94CqkEqZE%2BgbDeuKgguwiBL1O7X0U36CBFb2viR&caseno=WPCRL/682/2025&cCode=1&cino=UKHC010096142025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "75bfd21e17bfa8cda79252a483acc6d8e4d3aaa3c7ad7e4ddd9f3b57ce3df6e0",
+ "fetched_at": "2026-10-17T05:27:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

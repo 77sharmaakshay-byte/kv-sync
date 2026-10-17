@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/22/2026:2026-01-06-001",
+ "title": "SATISH CHANDRA ANTHWAL versus RAMESH CHANDRA ANTHWAL",
+ "petitioner": "SATISH CHANDRA ANTHWAL",
+ "respondent": "RAMESH CHANDRA ANTHWAL",
+ "case_no": "WPMS/22/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-06",
+ "cnr": "UKHC010000672026",
+ "doc_kind": "order",
+ "order_type": "WPMS/22/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlOWz9lZwq%2Byq%2BbO2Qajx7AqB6vO%2F0XkSik2LklwwztG&caseno=WPMS/22/2026&cCode=1&cino=UKHC010000672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "12d871055cc1e2faab5fd8d06b5bc98563c4c4753b9b0077bc67c37942131796",
+ "fetched_at": "2026-10-17T05:37:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

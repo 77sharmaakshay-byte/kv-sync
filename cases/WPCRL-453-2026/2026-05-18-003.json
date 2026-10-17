@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/453/2026:2026-05-18-003",
+ "title": "SHAHNAWAZ versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAHNAWAZ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/453/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-05-18",
+ "cnr": "UKHC010038082026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/453/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlrk%2BHIchc5h7rfTv4WiCI%2Fk%2Bvstanelj2125U71v1Uv&caseno=WPCRL/453/2026&cCode=1&cino=UKHC010038082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ed6b95c19c8376a0d30a3559cf18618717aacc8b76d21cfcde1e2f3622a66860",
+ "fetched_at": "2026-10-17T05:28:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

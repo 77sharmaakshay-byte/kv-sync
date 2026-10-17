@@ -1,0 +1,84 @@
+{
+ "cnr_number": "UKHC010130372026",
+ "case_type": "CRLA",
+ "filing_number": "CRLA /6257/2026",
+ "filing_date": "2026-07-23",
+ "registration_number": "CRLA /434/2026",
+ "registration_date": "2026-07-23",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-26",
+ "decision_date": null,
+ "case_stage": "ORDERS ON APPLICATIONS -22",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "HIMANSHU KAMLE",
+   "advocate": "MANISHA BHANDARI,SHASHWAT SIDHANT,SHASHWAT SIDHANT, ,PRITISH ARYA,SHASHWAT SIDHANT"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "376(3),506"
+  },
+  {
+   "act": "Protection of Children from Sexual Offences Act, 2012 (Act No. 32 of 2012)",
+   "sections": "6"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-07-27",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-26",
+   "business_date": "2026-09-07",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-09-07",
+   "business_date": "2026-07-27",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-07-27",
+   "order_type": "CRLA/434/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm6HprPkFpsIDynyVcrTIUV%2FY%2BZzEkFFrwMUxKCr4ht9&caseno=CRLA/434/2026&cCode=1&cino=UKHC010130372026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-07",
+   "order_type": "CRLA/434/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm6HprPkFpsIDynyVcrTIUX%2BUmRXclMjC%2BzGITuS0EQO&caseno=CRLA/434/2026&cCode=1&cino=UKHC010130372026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

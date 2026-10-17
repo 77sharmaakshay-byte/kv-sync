@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/375/2026:2026-06-15-007",
+ "title": "PAWAN versus STATE OF UTTARAKHAND",
+ "petitioner": "PAWAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/375/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-06-15",
+ "cnr": "UKHC010028502026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/375/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtaRt%2F%2F%2B32PxOZiD6cYGjiVz%2BY5hA%2FJWg2k3gUG6HiFU&caseno=WPCRL/375/2026&cCode=1&cino=UKHC010028502026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fd901edaf2a271341db5c7b3ab8a7662b4779a8c3332710738e7b7591de05ced",
+ "fetched_at": "2026-10-17T05:27:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

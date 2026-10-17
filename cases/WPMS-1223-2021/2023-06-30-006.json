@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1223/2021:2023-06-30-006",
+ "title": "MOHD NASIR versus SMT.BEENA AGARWAL",
+ "petitioner": "MOHD NASIR",
+ "respondent": "SMT.BEENA AGARWAL",
+ "case_no": "WPMS/1223/2021",
+ "case_type": "WPMS",
+ "decision_date": "2023-06-30",
+ "cnr": "UKHC010071912021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1223/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkGqAo7DV10%2FNFUcIrrWX4xttFimdFcNvzrW1tsFCr4s5&caseno=WPMS/1223/2021&cCode=1&cino=UKHC010071912021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "673feb4b11032b39a8cba83c1e20e1ec9786b8bee01f7f45cb51c7e6dbeea68c",
+ "fetched_at": "2026-10-17T05:37:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,527 @@
+{
+ "cnr_number": "UKHC010052602020",
+ "case_type": "WPSB",
+ "filing_number": "WPSB /2265/2020",
+ "filing_date": "2020-06-17",
+ "registration_number": "WPSB /121/2020",
+ "registration_date": "2020-06-17",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-26",
+ "decision_date": null,
+ "case_stage": "FOR FINAL HEARING -40",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pauri Garhwal",
+ "petitioners": [
+  {
+   "name": "MOHD MURSLEEN",
+   "advocate": "HIMANSHU PAL,ABHIJAY NEGI,ABHIJAY NEGI, ,ABHIJAY NEGI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "GOVIND BALLABH PANT INSTITUTE OF ENGINEERING AND TECHNOLOGY GHURDAURI",
+   "advocate": "BHUPESH KANDPAL"
+  },
+  {
+   "name": "RUCHI TALIWAL",
+   "advocate": "B M PINGAL"
+  },
+  {
+   "name": "JITENDRA SINGH RUATHAN",
+   "advocate": "ANIL BISHT,BHUPESH KANDPAL"
+  },
+  {
+   "name": "SURBHI LINGWAL",
+   "advocate": "GURU PRASAD AWASTHI,GURU PRASAD AWASTHI"
+  },
+  {
+   "name": "ASHWANI KUAMR SAINI",
+   "advocate": "ANIL BISHT,GURU PRASAD AWASTHI"
+  },
+  {
+   "name": "BANIT NEGI",
+   "advocate": "GURU PRASAD AWASTHI,ANIL BISHT"
+  }
+ ],
+ "acts": [
+  {
+   "act": "OTHER",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2020-06-18",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-26",
+   "business_date": "2026-10-07",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-07",
+   "business_date": "2026-09-30",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-30",
+   "business_date": "2026-09-21",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-21",
+   "business_date": "2026-07-07",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-10-15",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-09-02",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2025-10-15",
+   "business_date": "2025-07-02",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-02",
+   "business_date": "2025-06-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-03",
+   "business_date": "2025-03-28",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-28",
+   "business_date": "2025-03-24",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2025-03-24",
+   "business_date": "2025-03-21",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-21",
+   "business_date": "2025-03-19",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-19",
+   "business_date": "2025-03-12",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-12",
+   "business_date": "2025-03-10",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-10",
+   "business_date": "2025-03-04",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-09-18",
+   "purpose": "JUST AFTER FRESH MATTERS -252",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-18",
+   "business_date": "2024-09-10",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-10",
+   "business_date": "2024-09-09",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-09",
+   "business_date": "2024-07-08",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-09",
+   "business_date": "2024-05-22",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-05-22",
+   "business_date": "2024-05-16",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-05-16",
+   "business_date": "2024-05-15",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-05-15",
+   "business_date": "2024-04-29",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-29",
+   "business_date": "2024-03-22",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-22",
+   "business_date": "2024-03-06",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-06",
+   "business_date": "2023-11-08",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-11-08",
+   "business_date": "2023-08-16",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-08-16",
+   "business_date": "2023-05-25",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-05-25",
+   "business_date": "2022-12-20",
+   "purpose": "FOR FINAL HEARING -100",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-12-20",
+   "business_date": "2022-10-31",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-02-22",
+   "business_date": "2022-01-11",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-11-08",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-11-11",
+   "business_date": "2021-10-07",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-05-19",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-05-19",
+   "business_date": "2021-05-13",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-07-21",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-07-16",
+   "business_date": "2020-07-09",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-07-09",
+   "business_date": "2020-06-18",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2020-06-18",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvHRA5ReRxaZu27ctUdhlmft&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-07-09",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvFTOGfDKTQMAxZpuq9yoIrX&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-07-21",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Ravi Malimath,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvEV7ahT5SQmc0Rhzo2B1i8b&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-05-19",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvFMoFpVTtwkPtu13hmMQv4f&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-01-11",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvECmZKZY0uptZNBw0c8VnFj&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-12-20",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvEq8K7OQhjUFc5fkiIoOgRG&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-05-25",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvEfcO0KYt2jnP0xnFZdiumO&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-08-16",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvEVdSr17f9CAiVaIdJt1CYx&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-03-06",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvHdOYSD7vLUsoRtCQAT93XK&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-03-22",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvEiXvo%2F94FNratfAa6dB%2Fhq&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-05-16",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvEywAO1M8KB%2Bdpfy%2BLzxr7B&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-05-15",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvEqaiEA1%2FTXr66qjanDuzLx&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-07-08",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvE%2Bm44VFv5vFOc%2FgzRQwuFr&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-09",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvFQIzmBplX5tuV42DLkjrx3&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-10",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvEmka5rDlPPf0%2FL3PtUw2NB&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-18",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvHI7nHRiREaQPkdfZQ75%2Fye&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-03-10",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvH9s0q%2FDuq1s3nh45FzDhCw&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-03-19",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvGHWuBkdHDn1Sny3yZkTD0o&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-07-07",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvHw7kmmePGA6BnXFcpMWvY1&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-21",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvGQwMFEEcRLsSZiH8I0iZnR&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-07",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvHUh0MqTSbzg4Gnev%2Fh2Zbq&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

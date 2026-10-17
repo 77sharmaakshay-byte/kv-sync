@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/105/2026:2026-01-09-001",
+ "title": "JEEVANTI DEVI versus BOARD AND REVENUE UTTARAKHAND",
+ "petitioner": "JEEVANTI DEVI",
+ "respondent": "BOARD AND REVENUE UTTARAKHAND",
+ "case_no": "WPMS/105/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-09",
+ "cnr": "UKHC010005742026",
+ "doc_kind": "order",
+ "order_type": "WPMS/105/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlBjldQp29hVZMhvJqpGaj6CJaJ6e1YWBo8rEfEQXBzw&caseno=WPMS/105/2026&cCode=1&cino=UKHC010005742026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d373e25e8ea37514352e522078853328f329946dcb3a3f9e1430f4ff188704f0",
+ "fetched_at": "2026-10-17T05:31:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

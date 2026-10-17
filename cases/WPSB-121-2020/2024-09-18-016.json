@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/121/2020:2024-09-18-016",
+ "title": "MOHD MURSLEEN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD MURSLEEN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/121/2020",
+ "case_type": "WPSB",
+ "decision_date": "2024-09-18",
+ "cnr": "UKHC010052602020",
+ "doc_kind": "order",
+ "order_type": "WPSB/121/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvHI7nHRiREaQPkdfZQ75%2Fye&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c14bb768ac61e24d1d0c60c2822f41f28bade7ecf50468bb3897a34735d274a6",
+ "fetched_at": "2026-10-17T05:27:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/525/2017:2025-12-04-013",
+ "title": "VINAY GUPTA versus DR. RAKASH DUTT SHARMA",
+ "petitioner": "VINAY GUPTA",
+ "respondent": "DR. RAKASH DUTT SHARMA",
+ "case_no": "WPMS/525/2017",
+ "case_type": "WPMS",
+ "decision_date": "2025-12-04",
+ "cnr": "UKHC010001252017",
+ "doc_kind": "order",
+ "order_type": "WPMS/525/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh5XusG%2FUgXBouOVhTjby4g8J%2FPxZWP7eVaA4Vxcl3JJ7&caseno=WPMS/525/2017&cCode=1&cino=UKHC010001252017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b35e76f77facb1cf4b439e55fa585cde4c03dcb94f392d14a927566d30b9e1dc",
+ "fetched_at": "2026-10-17T05:36:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

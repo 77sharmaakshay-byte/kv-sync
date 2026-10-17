@@ -1,0 +1,68 @@
+{
+ "cnr_number": "UKHC010131212024",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /6074/2024",
+ "filing_date": "2024-08-22",
+ "registration_number": "WPMS /2263/2024",
+ "registration_date": "2024-08-22",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-27",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "MANAGING DIRECTOR GARHWAL MANDAL VIKAS NIGAM",
+   "advocate": "SANDEEP KOTHARI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "BHIM SINGH BISHT",
+   "advocate": "RAM NIVAS SINGH RANA,NIVESH BAHUGUNA"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 227 of the Constituion of India",
+   "sections": "227"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2024-08-23",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-23",
+   "business_date": "2024-08-23",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2024-08-23",
+   "order_type": "WPMS/2263/2024",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcMy%2BRPPXJRhmVC2K52s5wfitnCl%2BmSuhuTsuOM%2B3jGex&caseno=WPMS/2263/2024&cCode=1&cino=UKHC010131212024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

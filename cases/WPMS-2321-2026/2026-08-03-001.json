@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2321/2026:2026-08-03-001",
+ "title": "M/S NEEL METAL PRODUCTS LIMITED versus NEEL METAL KAMGAR SANGATHAN",
+ "petitioner": "M/S NEEL METAL PRODUCTS LIMITED",
+ "respondent": "NEEL METAL KAMGAR SANGATHAN",
+ "case_no": "WPMS/2321/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-03",
+ "cnr": "UKHC010135112026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2321/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn%2FFi1hRc3HWyAHeMZRle6CJxqkqvFmjnQEiN%2FGjPoLG&caseno=WPMS/2321/2026&cCode=1&cino=UKHC010135112026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "136e4f4470dd5abadbb76a1e48c7b2bb5e0a06efacfcc84d4045b2c5f562dd34",
+ "fetched_at": "2026-10-17T05:30:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

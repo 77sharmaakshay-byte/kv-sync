@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1223/2021:2025-09-12-011",
+ "title": "MOHD NASIR versus SMT.BEENA AGARWAL",
+ "petitioner": "MOHD NASIR",
+ "respondent": "SMT.BEENA AGARWAL",
+ "case_no": "WPMS/1223/2021",
+ "case_type": "WPMS",
+ "decision_date": "2025-09-12",
+ "cnr": "UKHC010071912021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1223/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkGqAo7DV10%2FNFUcIrrWX4xtQe%2BZSJc1hUr3ZAXbxTvUw&caseno=WPMS/1223/2021&cCode=1&cino=UKHC010071912021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fde21911d409924b3882d15cba5506a1d67a6aaef044089b25dd32d182c7283c",
+ "fetched_at": "2026-10-17T05:37:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

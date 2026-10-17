@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1223/2021:2026-04-29-016",
+ "title": "MOHD NASIR versus SMT.BEENA AGARWAL",
+ "petitioner": "MOHD NASIR",
+ "respondent": "SMT.BEENA AGARWAL",
+ "case_no": "WPMS/1223/2021",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-29",
+ "cnr": "UKHC010071912021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1223/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkGqAo7DV10%2FNFUcIrrWX4xumpi6pCDmY4Sgwts9HA1CX&caseno=WPMS/1223/2021&cCode=1&cino=UKHC010071912021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ed9643bccb9aef76824c4b8881fffa59f54d032c7eba903b82d7c9bd16ae921",
+ "fetched_at": "2026-10-17T05:37:15+00:00",
+ "fetched_by": "fetch_live.py"
+}
