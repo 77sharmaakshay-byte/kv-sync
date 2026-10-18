@@ -89,6 +89,8 @@ jobs:
             tail -c 6000 out/*.log 2>/dev/null | tr ',' '\n' | grep '"data"' | tail -40 || true
             if grep -qs "GPU nahi mila" out/*.log; then
               echo "Round $pushed: GPU nahi mila (hafte ka free GPU khatam?) — phir koshish"; next=$pushed
+            elif grep -qs "ka adapter chahiye" out/*.log; then   # Kaggle ne model dataset ka naya version abhi nahi diya
+              echo "Round $pushed: Kaggle ne pichhle round ka model purana diya — 3 ghante baad phir koshish"; next=$pushed
             else
               mv "$M/pushed" "$M/failed"; echo "round $pushed fail" > "$M/failed"
               echo "fail=1" >> "$GITHUB_OUTPUT"
