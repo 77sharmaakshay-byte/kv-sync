@@ -77,11 +77,34 @@ jobs:
         run: python scripts/auto_notes.py --db "$DB" --cases databranch/cases --out databranch/notes_auto ${{ inputs.force && '--force' || '' }}
       - name: Khoj tab ke faisle (export)
         run: python scripts/export_khoj.py --db "$DB" --out databranch/khoj --notes databranch/notes_auto
+      - name: Database ki ginti (state/db_stats.json)
+        run: |
+          python - <<'PY'
+          import json, sqlite3, os, datetime as dt
+          con = sqlite3.connect(os.environ["DB"])
+          q = lambda sql, *a: con.execute(sql, a).fetchall()
+          out = {"kab": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"), "courts": {}}
+          for court, n in q("SELECT court, count(*) FROM judgments GROUP BY court"):
+              lab = q("SELECT count(DISTINCT judgment_id) FROM labels l JOIN judgments j ON j.id = l.judgment_id "
+                      "WHERE j.court = ? AND l.strength = 'mukhya' AND l.mudda = ''", court)[0][0]
+              cat = q("SELECT c.category, count(*) FROM categories c JOIN judgments j ON j.id = c.judgment_id "
+                      "WHERE j.court = ? GROUP BY 1 ORDER BY 2 DESC", court)
+              outc = q("SELECT c.outcome, count(*) FROM categories c JOIN judgments j ON j.id = c.judgment_id "
+                       "WHERE j.court = ? GROUP BY 1 ORDER BY 2 DESC", court)
+              ups = q("SELECT l.category, l.upvishay, count(DISTINCT l.judgment_id) FROM labels l JOIN judgments j "
+                      "ON j.id = l.judgment_id WHERE j.court = ? AND l.strength = 'mukhya' AND l.mudda = '' "
+                      "GROUP BY 1, 2 ORDER BY 3 DESC", court)
+              out["courts"][court] = {"faisle": n, "vishay_mila": lab, "shreni": dict(cat), "nateeja": dict(outc),
+                                      "upvishay": [[a, b, c] for a, b, c in ups]}
+          os.makedirs("databranch/state", exist_ok=True)
+          json.dump(out, open("databranch/state/db_stats.json", "w"), ensure_ascii=False, indent=1)
+          print(json.dumps({k: {x: v[x] for x in ("faisle", "vishay_mila")} for k, v in out["courts"].items()}))
+          PY
       - name: Data branch par save
         id: save
         run: |
           cd databranch
-          git add notes_auto khoj
+          git add notes_auto khoj state/db_stats.json
           if git diff --cached --quiet; then echo "Kuch naya nahi"; echo "changed=0" >> "$GITHUB_OUTPUT"; exit 0; fi
           git commit -qm "auto notes $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
           git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }
