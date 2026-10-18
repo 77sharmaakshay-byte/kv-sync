@@ -16,12 +16,16 @@ on:
         type: choice
         options: [fetch, probe]
         default: fetch
+      inbox:
+        description: 'Mac ke timer (scripts/mac_ehcr_timer.sh) ki file, Release ehcr-inbox mein (khaali = Mac runner se laao)'
+        default: ''
 
 permissions:
   contents: write
 
 jobs:
   ehcr:
+    if: inputs.inbox == '' || inputs.inbox == null
     runs-on: [self-hosted, macOS]
     timeout-minutes: 20
     steps:
@@ -44,7 +48,8 @@ jobs:
 
   publish:
     needs: ehcr
-    if: inputs.mode != 'probe'
+    # Mac timer wali file ho to Mac runner ki zaroorat nahi (ehcr job skip hota hai)
+    if: ${{ !cancelled() && inputs.mode != 'probe' && (needs.ehcr.result == 'success' || inputs.inbox != '') }}
     runs-on: ubuntu-latest
     timeout-minutes: 20
     concurrency:
@@ -55,10 +60,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
+        if: inputs.inbox == '' || inputs.inbox == null
         continue-on-error: true   # Mac ko kuch nahi mila to artifact nahi hota
         with:
           name: ehcr
           path: ehcr
+      - name: Mac timer ki file (Release ehcr-inbox)
+        if: inputs.inbox != '' && inputs.inbox != null
+        env:
+          INBOX: ${{ inputs.inbox }}
+        run: |
+          case "$INBOX" in ehcr-[0-9]*-[0-9]*.tar.gz) ;; *) echo "galat naam: $INBOX"; exit 1;; esac
+          gh release download ehcr-inbox -p "$INBOX" -D .
+          mkdir -p ehcr && tar -xzf "$INBOX" -C ehcr && rm "$INBOX"
+          gh release delete-asset ehcr-inbox "$INBOX" -y || true
+          ls ehcr
       - name: Kuch mila?
         id: got
         run: echo "n=$(find ehcr -name ehcr.json 2>/dev/null | wc -l)" >> "$GITHUB_OUTPUT"

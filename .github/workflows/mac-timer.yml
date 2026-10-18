@@ -1,0 +1,58 @@
+# Mac par apna timer (launchd) lagao: shaam 6, 7, 8 baje aur subah 6:30 cause list (scripts/mac_ehcr_timer.sh).
+# GitHub ka schedule ghanton der se chalta hai aur Mac runner lambe kaam (naye cases) mein busy rehta hai; yeh
+# timer dono se alag hai — Mac jaagte hi (soya ho to uthte hi) chalta hai. Ek baar chalao; script badle to dobara.
+# Zaroori: GitHub secret DISPATCH_TOKEN (fine-grained token, sirf is repo: Contents + Actions 'Read and write').
+name: Mac timer lagao
+
+on:
+  workflow_dispatch:
+    inputs:
+      test:
+        description: 'Lagane ke baad ek baar abhi chala ke dekho'
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  install:
+    runs-on: [self-hosted, macOS]
+    timeout-minutes: 15
+    env:
+      TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Timer lagao
+        run: |
+          [ -n "$TOKEN" ] || { echo "GitHub secret DISPATCH_TOKEN nahi hai"; exit 1; }
+          D="$HOME/nyay-search/timer"; mkdir -p "$D"
+          cp scripts/ukhc_ehcr.py scripts/mac_ehcr_timer.sh "$D/" && chmod +x "$D/mac_ehcr_timer.sh"
+          ( umask 077; printf '%s' "$TOKEN" > "$D/gh_token" )
+          P="$HOME/Library/LaunchAgents/in.krishivlaw.ehcr.plist"; mkdir -p "$(dirname "$P")"
+          cat > "$P" <<PLIST
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0"><dict>
+            <key>Label</key><string>in.krishivlaw.ehcr</string>
+            <key>ProgramArguments</key><array><string>/bin/bash</string><string>$D/mac_ehcr_timer.sh</string></array>
+            <key>StartCalendarInterval</key><array>
+              <dict><key>Hour</key><integer>18</integer><key>Minute</key><integer>0</integer></dict>
+              <dict><key>Hour</key><integer>19</integer><key>Minute</key><integer>0</integer></dict>
+              <dict><key>Hour</key><integer>20</integer><key>Minute</key><integer>0</integer></dict>
+              <dict><key>Hour</key><integer>6</integer><key>Minute</key><integer>30</integer></dict>
+            </array>
+            <key>StandardOutPath</key><string>$D/launchd.log</string>
+            <key>StandardErrorPath</key><string>$D/launchd.log</string>
+          </dict></plist>
+          PLIST
+          plutil -lint "$P"
+          launchctl bootout "gui/$(id -u)" "$P" 2>/dev/null || launchctl unload "$P" 2>/dev/null || true
+          launchctl bootstrap "gui/$(id -u)" "$P" 2>/dev/null || launchctl load -w "$P"
+          launchctl list | grep in.krishivlaw.ehcr && echo "Timer laga: roz 18:00, 19:00, 20:00, 06:30 ($(date +%Z))"
+      - name: Ek baar abhi chalao
+        if: inputs.test
+        run: |
+          D="$HOME/nyay-search/timer"
+          RUNNER_TRACKING_ID="" /bin/bash "$D/mac_ehcr_timer.sh"
+          tail -n 15 "$D/timer.log"
