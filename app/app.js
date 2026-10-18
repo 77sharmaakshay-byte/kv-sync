@@ -2,7 +2,7 @@
 (function () {
   'use strict';
   var view = document.getElementById('view');
-  var cache = { index: null, lists: {}, cases: {}, khoj: null, api: undefined };
+  var cache = { index: null, lists: {}, cases: {}, khoj: null, api: undefined, search: undefined };
   var WEEK = ['Ravivaar', 'Somvaar', 'Mangalvaar', 'Budhvaar', 'Guruvaar', 'Shukravaar', 'Shanivaar'];
   var MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -300,6 +300,92 @@
       return html;
     });
   }
+  // ---------- Keyword search (poora database, space/app.py server par) ----------
+  function searchUrl() {
+    return cache.search !== undefined ? Promise.resolve(cache.search) :
+      getJSON('data/search.json').then(function (d) { return (cache.search = d.url || ''); }, function () { return (cache.search = ''); });
+  }
+  function searchApi(path) {
+    return searchUrl().then(function (u) {
+      if (!u) throw new Error('band');
+      return fetch(u.replace(/\/$/, '') + path).then(function (r) { return r.json().then(function (d) { d._status = r.status; return d; }); });
+    });
+  }
+  function opt(name, val, list) {
+    return '<select name="' + name + '">' + list.map(function (o) { return '<option value="' + o[0] + '"' + (o[0] === (val || '') ? ' selected' : '') + '>' + esc(o[1]) + '</option>'; }).join('') + '</select>';
+  }
+  function searchForm(p) {
+    return '<form id="sf" class="card key"><span class="lbl brand">Poore database mein shabd se dhoondo · 2.9 lakh faisle</span>' +
+      '<label class="field"><span>Shabd (jaise Indian Kanoon): "do shabd" = saath mein, -shabd = ye na ho</span>' +
+      '<input id="sq" name="q" value="' + esc(p.q || '') + '" placeholder=\'"compassionate appointment" delay\' autocomplete="off"></label>' +
+      '<div class="trio">' + opt('court', p.court, [['', 'Dono court'], ['SC', 'Supreme Court'], ['UKHC', 'Nainital HC']]) +
+      opt('n', p.n, [['', 'Nateeja'], ['good', 'Court ne maana'], ['bad', 'Nahi maana']]) +
+      '<input name="from" inputmode="numeric" maxlength="4" placeholder="Saal se" value="' + esc(p.from || '') + '"></div>' +
+      '<button class="btn" type="submit">' + ICON_SEARCH + 'Dhoondo</button></form>';
+  }
+  function searchFormWire() {
+    var f = document.getElementById('sf');
+    if (!f) return;
+    f.addEventListener('submit', function (ev) {
+      ev.preventDefault();
+      var q = ['q', 'court', 'n', 'from'].map(function (k) { var v = (f.elements[k].value || '').trim(); return v ? k + '=' + encodeURIComponent(v) : ''; }).filter(Boolean).join('&');
+      if (f.elements.q.value.trim()) go('#/s?' + q);
+    });
+  }
+  function snip(t) { return esc(t).replace(/\[\[/g, '<mark>').replace(/\]\]/g, '</mark>'); }
+  function viewSearch(params) {
+    setTab('khoj');
+    var page = +params.page || 0;
+    var qs = 'q=' + encodeURIComponent(params.q || '') + (params.court ? '&court=' + params.court : '') + (params.n ? '&nateeja=' + params.n : '') +
+      (params.from ? '&from=' + encodeURIComponent(params.from) : '');
+    var head = '<header class="hero"><a class="back" href="#/khoj">' + ICON_BACK + 'Khoj</a><h1>Shabd se khoj</h1></header><div class="pad">' + searchForm(params);
+    render(head + '<div class="empty">Dhoondh rahe hain…</div></div>'); searchFormWire();
+    searchApi('/search?' + qs + '&page=' + page).then(function (d) {
+      if (d.jaag) { render(head + '<div class="empty">Search server so raha tha, ab jaag raha hai (2-5 minute). Thodi der mein dobara dabaiye.</div></div>'); searchFormWire(); return; }
+      if (d.error) { render(head + '<div class="empty">' + esc(d.error) + '</div></div>'); searchFormWire(); return; }
+      var html = head + '<p class="muted">' + (d.total ? d.total + (d.more ? '+' : '') + ' faisle mile' : 'Koi faisla nahi mila — shabd kam karke dekhiye') + (d.ms ? ' · ' + (d.ms / 1000).toFixed(1) + ' sec' : '') + '</p>' +
+        d.results.map(function (j) {
+          var good = GOOD.indexOf(j.nateeja) >= 0, bad = /^Khilaf/.test(j.nateeja || '');
+          return '<a class="card link" href="#/sj/' + j.id + '?' + qs + '"><div class="chips"><span class="chip ' + (j.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(j.court) + '</span>' +
+            (j.nateeja ? '<span class="chip ' + (good ? 'good' : bad ? 'warn' : '') + '">' + esc(j.nateeja) + '</span>' : '') + '</div>' +
+            '<b class="serif" style="font-size:17px">' + esc(j.title) + '</b><span class="muted">' + esc([j.cite || j.case_no, dmy(j.date), j.judges].filter(Boolean).join(' · ')) + '</span>' +
+            '<p class="p serif quote">' + snip(j.snippet) + (j.para ? ' <span class="muted">(para ' + esc(j.para) + ')</span>' : '') + '</p>' +
+            (j.paras > 1 ? '<span class="muted">Is faisle ke ' + j.paras + ' paragraph mein ye shabd</span>' : '') + '</a>';
+        }).join('') +
+        ((page + 1) * 20 < d.total ? '<a class="btn ghost" href="#/s?' + qs + '&page=' + (page + 1) + '">Aage ke faisle</a>' : '') + '</div>';
+      render(html); searchFormWire();
+    }).catch(function (err) {
+      render(head + '<div class="empty">' + (err.message === 'band' ? 'Keyword search abhi chalu nahi hua. Jaldi aa raha hai.' :
+        'Search server se jud nahi paaye (so raha ho to 2-5 minute mein jaagta hai). Dobara dabaiye.') + '</div></div>'); searchFormWire();
+    });
+  }
+  function viewSearchJudgment(id, params) {
+    setTab('khoj');
+    var qs = 'q=' + encodeURIComponent(params.q || '') + (params.court ? '&court=' + params.court : '') + (params.n ? '&n=' + params.n : '') + (params.from ? '&from=' + encodeURIComponent(params.from) : '');
+    render('<div class="pad"><div class="empty">Faisla khul raha hai…</div></div>');
+    searchApi('/j/' + encodeURIComponent(id) + '?q=' + encodeURIComponent(params.q || '')).then(function (d) {
+      if (d.error) throw new Error(d.error);
+      var bySeq = {}, seen = {}; d.paras.forEach(function (p) { bySeq[p.seq] = p; });
+      d.hits.forEach(function (q) { seen[q] = 1; });
+      var words = (params.q || '').replace(/"/g, ' ').split(/\s+/).filter(function (w) { return w.length > 2 && w[0] !== '-'; });
+      var hl = function (t) { var h = esc(t); words.forEach(function (w) { h = h.replace(new RegExp('\\b(' + w.replace(/[^A-Za-z0-9]/g, '') + '\\w*)', 'gi'), '<mark>$1</mark>'); }); return h; };
+      var good = GOOD.indexOf(d.nateeja) >= 0, bad = /^Khilaf/.test(d.nateeja || '');
+      var cite = [d.cite, d.report, d.case_no].filter(Boolean).join(' · ');
+      var html = '<header class="hero"><a class="back" href="#/s?' + qs + '">' + ICON_BACK + 'Khoj ke nateeje</a><div class="chips"><span class="chip ' + (d.court === 'Supreme Court' ? 'dark' : 'blue') + '">' + esc(d.court) + '</span>' +
+        (d.nateeja ? '<span class="chip ' + (good ? 'good' : bad ? 'warn' : '') + '">' + esc(d.nateeja) + '</span>' : '') + '</div>' +
+        '<h1 style="font-size:24px">' + esc(d.title) + '</h1><div class="sub">' + esc(cite) + ' · ' + esc(dmy(d.date)) + '</div></header><div class="pad">' +
+        (d.hits.length ? '<span class="lbl brand">"' + esc(params.q) + '" — faisle mein kahan</span>' + d.hits.filter(function (q) { return bySeq[q]; }).map(function (q) {
+          var p = bySeq[q]; return '<div class="card key"><span class="lbl">' + (p.no ? 'Para ' + esc(p.no) : 'Paragraph') + '</span><p class="p serif">' + hl(p.text) + '</p></div>';
+        }).join('') : '') +
+        '<div class="card"><span class="lbl">Record</span><p class="p">' + [['Court', d.court], ['Tareekh', dmy(d.date)], ['Bench', (d.judges || '').replace(/[\[\]"]/g, '')], ['Citation', cite],
+          ['Court ka nateeja', d.disposal], ['Pages', d.pages]].filter(function (x) { return x[1]; }).map(function (x) { return '<b>' + x[0] + ':</b> ' + esc(x[1]); }).join('<br>') + '</p></div>' +
+        '<details class="order" open><summary><b>Poora faisla</b><span class="muted">' + d.paras.length + ' hisse</span></summary><div class="ft">' +
+        d.paras.map(function (p) { return '<p class="p serif' + (seen[p.seq] ? ' hit' : '') + '">' + (p.no ? '<b>' + esc(p.no) + '.</b> ' : '') + esc(p.text) + '</p>'; }).join('') + '</div></details>' +
+        '<p class="muted">Text court ki PDF se nikala gaya hai; court mein asli copy hi padhein.</p></div>';
+      render(html);
+    }).catch(function (err) { render('<div class="pad"><a class="back" href="#/s?' + qs + '">' + ICON_BACK + 'Khoj ke nateeje</a><div class="empty">Faisla nahi khula (' + esc(err.message) + '). Dobara koshish karein.</div></div>'); });
+  }
+
   // Likhi hui baat -> vishay (phone par niyam) -> us vishay ke support / against faisle, 'out' element mein
   function khojInto(idx, raw, out) {
     var text = expand(raw);
@@ -339,6 +425,7 @@
       idx.topics.forEach(function (t) { (byShreni[t.shreni] = byShreni[t.shreni] || []).push(t); });
       render('<header class="hero"><div class="kicker">Khoj</div><h1>Apne case ki baat likho</h1>' +
         '<div class="sub">Vishay, case review aur supporting faisle — Supreme Court aur Nainital HC ke database se</div></header><div class="pad">' +
+        searchForm({}) +
         '<form id="kf" class="card"><label class="field"><span>Case mein kya hua (Hindi-English mein, jaise bolte ho)</span>' +
         '<textarea id="kt" rows="5" placeholder="Jaise: Pita PAC mein Nayak the, 2016 mein naukri mein rehte mrityu hui. Maine anukampa naukri ka aavedan diya, Commandant ne der ka kaaran bata kar reject kar diya.">' + esc(draft) + '</textarea></label>' +
         '<button class="btn" type="submit">' + ICON_SEARCH + 'Khojo</button></form><div id="kr"></div>' +
@@ -346,6 +433,7 @@
           return '<details class="order"><summary><b>' + esc(sh) + '</b><span class="muted">' + byShreni[sh].length + ' vishay</span></summary><div class="pad">' +
             byShreni[sh].map(function (t) { return '<a class="row" href="#/khoj/t/' + t.id + '"><span class="body"><span class="no">' + esc(t.upvishay) + '</span><span class="adv">' + esc(t.vishay) + ' · ' + t.faisle + ' faisle</span></span></a>'; }).join('') + '</div></details>';
         }).join('') + '</div>');
+      searchFormWire();
       var kf = document.getElementById('kf');
       kf.addEventListener('submit', function (ev) {
         ev.preventDefault();
@@ -761,6 +849,8 @@
     if (path === '/khoj') return viewKhoj();
     if (path.indexOf('/khoj/t/') === 0) return viewKhojTopic(path.slice(8));
     if (path.indexOf('/kj/') === 0) return viewKhojJudgment(path.slice(4), params);
+    if (path === '/s') return viewSearch(params);
+    if (path.indexOf('/sj/') === 0) return viewSearchJudgment(path.slice(4), params);
     if (path === '/mine') return viewMine();
     if (path === '/settings') return viewSettings();
     if (path.indexOf('/case/') === 0) return viewCase(path.slice(6), params);
