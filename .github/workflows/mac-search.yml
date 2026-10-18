@@ -99,7 +99,8 @@ jobs:
             tar -xzf "$S/cf.tgz" -C "$S/bin" && rm "$S/cf.tgz" && chmod +x "$S/bin/cloudflared"
           fi
           url=$(cat "$S/tunnel_url" 2>/dev/null || true)
-          ok() { [ -n "$1" ] && curl -s --max-time 15 "$1/health" | grep -q '"ready"'; }
+          # naya trycloudflare naam Mac ke DNS cache mein pehle 'nahi mila' ho jaata hai; isliye DNS seedha 1.1.1.1 se
+          ok() { [ -n "$1" ] && curl -s --max-time 15 --doh-url https://1.1.1.1/dns-query "$1/health" | grep -q '"ready"'; }
           if ! ok "$url"; then
             pkill -f "cloudflared tunnel --no-autoupdate" 2>/dev/null || true; sleep 1
             : > "$S/tunnel.log"
@@ -111,8 +112,10 @@ jobs:
               url=$(grep -o 'https://[a-z0-9-]*\.trycloudflare\.com' "$S/tunnel.log" | head -1 || true)
               [ -n "$url" ] && break; sleep 2
             done
-            for i in $(seq 1 20); do ok "$url" && break; sleep 3; done
-            ok "$url" || { tail -n 30 "$S/tunnel.log"; exit 1; }
+            [ -n "$url" ] || { tail -n 30 "$S/tunnel.log"; exit 1; }
+            for i in $(seq 1 30); do grep -q "Registered tunnel connection" "$S/tunnel.log" && break; sleep 2; done
+            for i in $(seq 1 30); do ok "$url" && break; sleep 5; done
+            ok "$url" && echo "Mac se link chal raha hai" || echo "Mac se abhi jaanch nahi hui (DNS); GitHub se jaanchenge"
             echo "$url" > "$S/tunnel_url"
           fi
           echo "Search server: $url"
@@ -129,6 +132,13 @@ jobs:
       URL: ${{ needs.serve.outputs.url }}
     steps:
       - uses: actions/checkout@v4
+      - name: Link bahar se chalta hai?
+        run: |
+          for i in $(seq 1 36); do
+            r=$(curl -s --max-time 20 "$URL/health" || true); echo "$r"
+            echo "$r" | grep -q '"ready": true' && exit 0; sleep 10
+          done
+          echo "Search server bahar se nahi khula: $URL"; exit 1
       - name: Link badla?
         id: chk
         run: |
