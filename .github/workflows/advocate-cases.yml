@@ -84,7 +84,7 @@ jobs:
               d = json.loads(f.read_text(encoding="utf-8"))
               cases, seen = [], set()
               for c in d["cases"]:
-                  label = re.sub(r"[^A-Z]", "", re.split(r"[(\-]", c.get("case_type") or "")[0].upper())
+                  label = re.sub(r"[^A-Z0-9]", "", re.split(r"[(\-]", c.get("case_type") or "")[0].upper())   # C482, BA1
                   if not label or not re.fullmatch(r"\d+/\d{4}", c.get("case_number") or ""):
                       continue
                   no = f"{label}/{c['case_number']}"

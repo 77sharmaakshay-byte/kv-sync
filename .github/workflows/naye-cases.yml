@@ -63,7 +63,7 @@ jobs:
             [ ${#PART[@]} -gt 0 ] && python scripts/fetch_live.py --data "$WORK" uk-case "${PART[@]}" > "$RUNNER_TEMP/part-$k.log" 2>&1 &
           done
           wait || true
-          tail -n 3 "$RUNNER_TEMP"/part-*.log || true
+          for f in "$RUNNER_TEMP"/part-*.log; do echo "== $f: $(grep -c . "$f") lines, $(grep -ci error "$f") error"; head -n 12 "$f"; tail -n 6 "$f"; done
       - name: Text nikaalo, save karo
         if: steps.todo.outputs.cases != ''
         run: |
