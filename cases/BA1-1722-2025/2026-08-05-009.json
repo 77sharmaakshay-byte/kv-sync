@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1722/2025:2026-08-05-009",
+ "title": "RAVI KUMAR ALIAS GAUTAM KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVI KUMAR ALIAS GAUTAM KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1722/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-08-05",
+ "cnr": "UKHC010144272025",
+ "doc_kind": "order",
+ "order_type": "BA1/1722/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm89j9XriDbtHpPC6o88XPDMpFd4NFewk6waqShLnNHwN&caseno=BA1/1722/2025&cCode=1&cino=UKHC010144272025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "49272fad1abfed9d6b3059336b40ef9c1e7fcbfe335a69ede283ab80a75f0061",
+ "fetched_at": "2026-10-18T07:43:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

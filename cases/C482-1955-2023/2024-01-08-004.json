@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/1955/2023:2024-01-08-004",
+ "title": "VIJAY SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/1955/2023",
+ "case_type": "C482",
+ "decision_date": "2024-01-08",
+ "cnr": "UKHC010159002023",
+ "doc_kind": "order",
+ "order_type": "C482/1955/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3Ahx4mgGfYQvsNl42ZwYje6tGZac8fgOfy1ytjEkZwW&caseno=C482/1955/2023&cCode=1&cino=UKHC010159002023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7336710d82aae70f09afb8cabc6202f430e67e176fc77f5b7b6b6fac0a3bec1c",
+ "fetched_at": "2026-10-18T07:44:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1631/2025:2025-09-02-001",
+ "title": "SHAMSHAD versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAMSHAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1631/2025",
+ "case_type": "BA1",
+ "decision_date": "2025-09-02",
+ "cnr": "UKHC010136682025",
+ "doc_kind": "order",
+ "order_type": "BA1/1631/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm67d0pj000BiiOcJTluKV%2FyM7QLJbj8wf%2BnisB6HfrdK&caseno=BA1/1631/2025&cCode=1&cino=UKHC010136682025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "843e83e6978c3c23c55de48fdf4b809508fd154f30ed99abf06bebc14f0dabef",
+ "fetched_at": "2026-10-18T07:43:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

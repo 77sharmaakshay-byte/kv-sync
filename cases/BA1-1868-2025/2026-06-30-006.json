@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1868/2025:2026-06-30-006",
+ "title": "RAMNATH GUPTA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMNATH GUPTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1868/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-06-30",
+ "cnr": "UKHC010157952025",
+ "doc_kind": "order",
+ "order_type": "BA1/1868/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwza%2Fcdx2iRmYwKJFX8fGzsE3E%2FHWe4qRbNXaw494qpT&caseno=BA1/1868/2025&cCode=1&cino=UKHC010157952025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "884388a65c845e95176ead3f7509b8b20a75e9250835498bfb758f81481385e0",
+ "fetched_at": "2026-10-18T07:43:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

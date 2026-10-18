@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/2075/2025:2026-04-08-002",
+ "title": "RAMNATH GUPTA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMNATH GUPTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/2075/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-04-08",
+ "cnr": "UKHC010171672025",
+ "doc_kind": "order",
+ "order_type": "BA1/2075/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7nfkOuCFn9F97B2o2oGiZSKNxIjujudvJr6M01V9%2B8s&caseno=BA1/2075/2025&cCode=1&cino=UKHC010171672025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "aee81a4aee235f37988f6be0f22496b0388c3ec7c85da9063ed6c92d59d809c8",
+ "fetched_at": "2026-10-18T07:44:02+00:00",
+ "fetched_by": "fetch_live.py"
+}
