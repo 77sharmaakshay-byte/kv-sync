@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/870/2026:2026-05-26-001",
+ "title": "SHEELA versus STATE OF UTTARAKHAND",
+ "petitioner": "SHEELA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/870/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-26",
+ "cnr": "UKHC010086392026",
+ "doc_kind": "order",
+ "order_type": "BA1/870/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu2DajznOOqm8TMX7BPh%2Bo8Q8GYT6%2BK5nbt%2BY7hY98WN&caseno=BA1/870/2026&cCode=1&cino=UKHC010086392026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2e0ba8cef9f31dcf2a45c7669a0b911517f2c45a88795be2a4ff419e1e144107",
+ "fetched_at": "2026-10-18T07:51:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

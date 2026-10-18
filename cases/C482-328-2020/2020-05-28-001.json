@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/328/2020:2020-05-28-001",
+ "title": "RAJANI RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJANI RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/328/2020",
+ "case_type": "C482",
+ "decision_date": "2020-05-28",
+ "cnr": "UKHC010027812020",
+ "doc_kind": "order",
+ "order_type": "C482/328/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjBfqhzs3hXRssd4tsDYNjHkF91mUULZzQTEPmQ3Ndsu%2B&caseno=C482/328/2020&cCode=1&cino=UKHC010027812020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5c20e5d30236748b3cf978d0ff5e6c611ef9a28b68245f18d1881f589c5ee8d2",
+ "fetched_at": "2026-10-18T07:51:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

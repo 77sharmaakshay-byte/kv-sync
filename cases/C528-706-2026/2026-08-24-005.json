@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/706/2026:2026-08-24-005",
+ "title": "ADITYA MALIK versus SHIVANGI TOMAR",
+ "petitioner": "ADITYA MALIK",
+ "respondent": "SHIVANGI TOMAR",
+ "case_no": "C528/706/2026",
+ "case_type": "C528",
+ "decision_date": "2026-08-24",
+ "cnr": "UKHC010059712026",
+ "doc_kind": "order",
+ "order_type": "C528/706/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt9RPs0MvFn7oKX2HUfjvTT99AyNDotEIC8ZbA86Z10J&caseno=C528/706/2026&cCode=1&cino=UKHC010059712026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "838dc92a6603dda0110e40c8aef946e3eeaddce9de3132163a52a805f52cf916",
+ "fetched_at": "2026-10-18T07:45:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

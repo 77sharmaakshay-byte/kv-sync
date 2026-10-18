@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/320/2025:2026-04-20-002",
+ "title": "RAJA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/320/2025",
+ "case_type": "BA2",
+ "decision_date": "2026-04-20",
+ "cnr": "UKHC010200082025",
+ "doc_kind": "order",
+ "order_type": "BA2/320/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4gEPc7jf%2F33%2Fh7GtuuyPUJC%2BQfpX9e%2BXvcsy4guMgHr&caseno=BA2/320/2025&cCode=1&cino=UKHC010200082025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "57636940f9965d6ed0af96b48d3e542fc15f0ef1415623540da750ac06e72ebf",
+ "fetched_at": "2026-10-18T07:48:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

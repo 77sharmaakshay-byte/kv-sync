@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/674/2026:2026-05-18-002",
+ "title": "DEV SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "DEV SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/674/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-18",
+ "cnr": "UKHC010067692026",
+ "doc_kind": "order",
+ "order_type": "BA1/674/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnnr4ztMvz0WefR02wXcnfSrb0MQ3jNovLPQHYCcfN24&caseno=BA1/674/2026&cCode=1&cino=UKHC010067692026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fca21f7e8f6f78f09d97a8d79a64e4d3d4f257315cef9917cae87ef2d7f82bdf",
+ "fetched_at": "2026-10-18T07:50:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

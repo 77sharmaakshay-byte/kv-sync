@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/926/2026:2026-09-18-010",
+ "title": "DUSHYANT KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DUSHYANT KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/926/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010090972026",
+ "doc_kind": "order",
+ "order_type": "BA1/926/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhrFhSvoYWPqE%2Bf4XN1wYln0d4D5lO%2Fp6up8JQIqrcTr&caseno=BA1/926/2026&cCode=1&cino=UKHC010090972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2bc8dfdb6fa64d4afe3d7e3f1cf1da212be2b9917d41d597ebd4cebe3b43eff8",
+ "fetched_at": "2026-10-18T07:51:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

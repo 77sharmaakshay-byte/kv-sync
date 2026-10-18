@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/697/2026:2026-04-30-001",
+ "title": "SABIHA versus STATE OF UTTARAKHAND",
+ "petitioner": "SABIHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/697/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-04-30",
+ "cnr": "UKHC010069652026",
+ "doc_kind": "order",
+ "order_type": "BA1/697/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn8PcfPRLHKfAKD7VlI%2BaO8VKEdilNwmejQpCGBvujLd&caseno=BA1/697/2026&cCode=1&cino=UKHC010069652026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a8542479b4b01fdc99a11a21cb8aa15bd7137833a2b1650aa27c7067d70e4414",
+ "fetched_at": "2026-10-18T07:49:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

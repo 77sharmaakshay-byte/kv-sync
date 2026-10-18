@@ -1,0 +1,80 @@
+{
+ "cnr_number": "UKHC010050622026",
+ "case_type": "",
+ "filing_number": "C528 /2366/2026",
+ "filing_date": "2026-04-01",
+ "registration_number": "C528 /582/2026",
+ "registration_date": "2026-04-01",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-26",
+ "decision_date": null,
+ "case_stage": "ORDER MATTERS -17",
+ "status": "",
+ "coram": "Registrar",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "MAMTA",
+   "advocate": "RAJENDRA SINGH AZAD,DEVESH SAINI,DEVESH SAINI, ,DEVESH SAINI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "HAROON",
+   "advocate": "ADITYA PRATAP SINGH"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Negotiable Instruments Act, 1881 (Act No. 26 of 1881)",
+   "sections": "138"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-04-06",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-30",
+   "purpose": "FOR REFERRAL TO THE SPECIAL MEDIATION DRIVE-MEDIATION FOR NATION -256",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-04-06",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-04-06",
+   "order_type": "C528/582/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjIGT5VF1ilSzxI1V6iY%2FsYO8mp4zp0yauiKNFGjHQbq&caseno=C528/582/2026&cCode=1&cino=UKHC010050622026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-30",
+   "order_type": "C528/582/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjIGT5VF1ilSzxI1V6iY%2FsaRdhsrU2qWXfyOiNnr%2BKJ6&caseno=C528/582/2026&cCode=1&cino=UKHC010050622026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

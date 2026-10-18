@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1288/2026:2026-08-31-002",
+ "title": "JUNAID versus STATE OF UTTARAKHAND",
+ "petitioner": "JUNAID",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1288/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010128872026",
+ "doc_kind": "order",
+ "order_type": "BA1/1288/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjGOANjaVk57nxQbv3asEDD4WVGKuoP27Ml9nxN6jn%2BY&caseno=BA1/1288/2026&cCode=1&cino=UKHC010128872026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "996eb2b04ded83d0bb2170de9c3c101fe3bdce44372a0cbba53b505f92a1f0a7",
+ "fetched_at": "2026-10-18T07:50:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

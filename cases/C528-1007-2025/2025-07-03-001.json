@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1007/2025:2025-07-03-001",
+ "title": "RAJESH SINGH versus JUNAID",
+ "petitioner": "RAJESH SINGH",
+ "respondent": "JUNAID",
+ "case_no": "C528/1007/2025",
+ "case_type": "C528",
+ "decision_date": "2025-07-03",
+ "cnr": "UKHC010098892025",
+ "doc_kind": "order",
+ "order_type": "C528/1007/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5N7aeRtYiggFDWSGehVSkiLVrp7FzhqAru22PwuLPly&caseno=C528/1007/2025&cCode=1&cino=UKHC010098892025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce40a211d7e143b88d75385302503ccec5c0fbbaebbd5745bd822e8f5f288891",
+ "fetched_at": "2026-10-18T07:58:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/770/2026:2026-05-12-001",
+ "title": "MINAKSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "MINAKSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/770/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-12",
+ "cnr": "UKHC010077322026",
+ "doc_kind": "order",
+ "order_type": "BA1/770/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQll%2F4Sn3cEfOqH1dHL3AQWYOQL3ky1q86Oj2Gt7k4%2F75&caseno=BA1/770/2026&cCode=1&cino=UKHC010077322026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "43423decdb2ed954f163bb876574739c2b8519f48c23e2078d124dad35ddfbd1",
+ "fetched_at": "2026-10-18T07:49:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

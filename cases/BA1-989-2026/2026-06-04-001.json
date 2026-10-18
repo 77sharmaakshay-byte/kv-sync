@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/989/2026:2026-06-04-001",
+ "title": "FARZAN versus STATE OF UTTARAKHAND",
+ "petitioner": "FARZAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/989/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-04",
+ "cnr": "UKHC010096312026",
+ "doc_kind": "order",
+ "order_type": "BA1/989/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuizpKncQUsSBmk2I6qdEfrPNEVduhYR1%2BMYLZOMTF5r&caseno=BA1/989/2026&cCode=1&cino=UKHC010096312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7a25105e72684b9e3867deef77cdaa6dcf646c6b168dd9ee0157e410da499654",
+ "fetched_at": "2026-10-18T07:50:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/1328/2018:2018-12-13-004",
+ "title": "Dinesh Chandra Alias Sonu versus Ranjeet Singh",
+ "petitioner": "Dinesh Chandra Alias Sonu",
+ "respondent": "Ranjeet Singh",
+ "case_no": "C482/1328/2018",
+ "case_type": "C482",
+ "decision_date": "2018-12-13",
+ "cnr": "UKHC010043012018",
+ "doc_kind": "order",
+ "order_type": "C482/1328/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL2V%2BMsXoVaU8ctrMw8ZSLRbzXaYH6ORqnT5QCiblQ1qv&caseno=C482/1328/2018&cCode=1&cino=UKHC010043012018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d17c6d5659e1e9b2f927f5b4894f95b1541383450baff746eb1c395b7966ad58",
+ "fetched_at": "2026-10-18T07:59:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

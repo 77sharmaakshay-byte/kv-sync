@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/136/2026:2026-09-30-001",
+ "title": "NOSHAD versus STATE OF UTTARAKHAND",
+ "petitioner": "NOSHAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/136/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010148872026",
+ "doc_kind": "order",
+ "order_type": "BA2/136/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoy11GFcCHhn1G1xQkKPZ0qLn7q%2FBUB61PDRP6gbpX3D&caseno=BA2/136/2026&cCode=1&cino=UKHC010148872026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bebfbc1f66cff33042384bf0db706ab3c1c95bd464f8e55f0473fe9f6f9691e9",
+ "fetched_at": "2026-10-18T07:49:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

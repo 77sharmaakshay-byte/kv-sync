@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/1328/2018:2018-10-03-002",
+ "title": "Dinesh Chandra Alias Sonu versus Ranjeet Singh",
+ "petitioner": "Dinesh Chandra Alias Sonu",
+ "respondent": "Ranjeet Singh",
+ "case_no": "C482/1328/2018",
+ "case_type": "C482",
+ "decision_date": "2018-10-03",
+ "cnr": "UKHC010043012018",
+ "doc_kind": "order",
+ "order_type": "C482/1328/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL2V%2BMsXoVaU8ctrMw8ZSLRYExqgJmE%2FhXpZKEMeQR8Te&caseno=C482/1328/2018&cCode=1&cino=UKHC010043012018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "047161eb27e7dbc8bfa809278fb1d30034bf8ec175c7201866baaa49cf673c27",
+ "fetched_at": "2026-10-18T07:59:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

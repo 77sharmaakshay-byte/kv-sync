@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA3/30/2026:2026-07-09-001",
+ "title": "BANMEET SINGH versus DIRECTORATE OF ENFORCEMENT (ED)",
+ "petitioner": "BANMEET SINGH",
+ "respondent": "DIRECTORATE OF ENFORCEMENT (ED)",
+ "case_no": "BA3/30/2026",
+ "case_type": "BA3",
+ "decision_date": "2026-07-09",
+ "cnr": "UKHC010114412026",
+ "doc_kind": "order",
+ "order_type": "BA3/30/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlqoGLXFYX9gVjlmEqeaXZnb0pB%2BoCu3I5mdlHLb%2FymS&caseno=BA3/30/2026&cCode=1&cino=UKHC010114412026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eb7fb374b0907ceaad96c5911572ead8efd3e70069e910086c5015f4d689692d",
+ "fetched_at": "2026-10-18T07:58:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

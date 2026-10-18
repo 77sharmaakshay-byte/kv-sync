@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1241/2026:2026-07-17-001",
+ "title": "GURDAYAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "GURDAYAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1241/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-17",
+ "cnr": "UKHC010124142026",
+ "doc_kind": "order",
+ "order_type": "BA1/1241/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmS6lwE1uAIu21UGA7RTDN1XCC0JVpexLktfCD2WvQlB&caseno=BA1/1241/2026&cCode=1&cino=UKHC010124142026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d4aaf421fcb919e15044ba6592b563e43ec4b3fe071e5d338b017ef3bc5ab708",
+ "fetched_at": "2026-10-18T07:50:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

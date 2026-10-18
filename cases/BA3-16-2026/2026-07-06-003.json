@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA3/16/2026:2026-07-06-003",
+ "title": "MURSLEEN ALIAS KALA versus STATE OF UTTARAKHAND",
+ "petitioner": "MURSLEEN ALIAS KALA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA3/16/2026",
+ "case_type": "BA3",
+ "decision_date": "2026-07-06",
+ "cnr": "UKHC010055192026",
+ "doc_kind": "order",
+ "order_type": "BA3/16/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpHigbdiFGc6HEkzLN8nkkdmYRCXqMMEbWEl0KiYHD4y&caseno=BA3/16/2026&cCode=1&cino=UKHC010055192026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9641ddb76329ef109c5ee251634e09904fb77f113a15c775cf6e4aae880c438a",
+ "fetched_at": "2026-10-18T07:50:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

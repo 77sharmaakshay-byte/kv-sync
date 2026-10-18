@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/756/2026:2026-05-11-001",
+ "title": "MOHD ATHAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD ATHAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/756/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-11",
+ "cnr": "UKHC010076512026",
+ "doc_kind": "order",
+ "order_type": "BA1/756/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQs533hr4arMu6JHMtSGLtV%2FizcuXVU8fTogKjGoKS8pz&caseno=BA1/756/2026&cCode=1&cino=UKHC010076512026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5806577477ad9a57e789b33a4d5facbd5be2a3f8a6c6ea60474fce2a45226542",
+ "fetched_at": "2026-10-18T07:50:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

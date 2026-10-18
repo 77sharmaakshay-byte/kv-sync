@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/913/2026:2026-06-01-001",
+ "title": "VINAYAK TYAGI versus STATE OF UTTARAKHAND",
+ "petitioner": "VINAYAK TYAGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/913/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-01",
+ "cnr": "UKHC010090342026",
+ "doc_kind": "order",
+ "order_type": "BA1/913/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgSdjGjq2flX1j7jHzj29R0Yf18tHNCkulsOXWW%2F37b5&caseno=BA1/913/2026&cCode=1&cino=UKHC010090342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fe5908eced209428180b10b13a64c19750a9bffa42f2c8ab0b5050f25fdc454e",
+ "fetched_at": "2026-10-18T07:49:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

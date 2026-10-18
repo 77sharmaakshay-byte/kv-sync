@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/385/2026:2026-05-21-002",
+ "title": "SAHRANA versus STATE OF UTTARAKHAND",
+ "petitioner": "SAHRANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/385/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-21",
+ "cnr": "UKHC010037842026",
+ "doc_kind": "order",
+ "order_type": "BA1/385/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuGVHoxiLuhK2MfBiuEPWzfNuaUWLn0TgvlWzIvhVpFa&caseno=BA1/385/2026&cCode=1&cino=UKHC010037842026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "90766d8058f6f02bce6de17c32164e1b2a0ee185bf4da8e2dc296ab93545b9fd",
+ "fetched_at": "2026-10-18T07:50:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1141/2026:2026-09-15-003",
+ "title": "NAVEEN SHAH versus STATE OF UTTARAKHAND",
+ "petitioner": "NAVEEN SHAH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1141/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010112992026",
+ "doc_kind": "order",
+ "order_type": "BA1/1141/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqw5q5s33NqnetBewfYgqpqmXIRoIg06wZ4m9K7LAGJA&caseno=BA1/1141/2026&cCode=1&cino=UKHC010112992026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c72e2f36166ad4f10fd9cb19c7dfec0807431a900130ffd41919e5903d3c328c",
+ "fetched_at": "2026-10-18T07:52:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

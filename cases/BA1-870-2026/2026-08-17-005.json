@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/870/2026:2026-08-17-005",
+ "title": "SHEELA versus STATE OF UTTARAKHAND",
+ "petitioner": "SHEELA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/870/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-17",
+ "cnr": "UKHC010086392026",
+ "doc_kind": "order",
+ "order_type": "BA1/870/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu2DajznOOqm8TMX7BPh%2Bo92gfHQixVhAakp8J8PeNAI&caseno=BA1/870/2026&cCode=1&cino=UKHC010086392026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d3b4de13481d8afb4d2943b500096d82f18f929ff67c072d439fa33b6499de07",
+ "fetched_at": "2026-10-18T07:51:11+00:00",
+ "fetched_by": "fetch_live.py"
+}
