@@ -30,14 +30,15 @@ GAP_FORM = {"caseStatusSearchType": "CScaseType", "case_type": "{code}", "search
 
 
 def _label(name):
-    return re.sub(r"[^A-Z]", "", re.split(r"[(\-]", name)[0].upper())
+    # ank bhi rakho: BA1 / BA3 / C482 / C528 alag case types hain (pehle sab 'BA' / 'C' ban jaate the)
+    return re.sub(r"[^A-Z0-9]", "", re.split(r"[(\-]", name)[0].upper())
 
 
 def _match_type(types, label):
     """'WPSS' (ya seedha code '12') -> [codes]. Portal ke naam 'WPSS(...)' / 'WPSS - ...' jaise hote hain."""
     if label in types:
         return [label]
-    want = re.sub(r"[^A-Z]", "", label.upper())
+    want = re.sub(r"[^A-Z0-9]", "", label.upper())
     return [code for code, name in types.items() if _label(name) == want]
 
 
