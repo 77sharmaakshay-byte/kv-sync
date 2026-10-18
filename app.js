@@ -300,6 +300,37 @@
       return html;
     });
   }
+  // Likhi hui baat -> vishay (phone par niyam) -> us vishay ke support / against faisle, 'out' element mein
+  function khojInto(idx, raw, out) {
+    var text = expand(raw);
+    var scored = idx.topics.map(function (t) { return { t: t, s: ruleHit(t.rules, text) + 0.5 * t.issues.filter(function (x) { return ruleHit(x.rules, text); }).length }; })
+      .filter(function (x) { return x.s > 0; }).sort(function (a, b) { return b.s - a.s; });
+    if (!scored.length) { out.innerHTML = '<div class="empty">Vishay pakad mein nahi aaya. Thoda aur likho: kis vibhag / kaam ka case hai, kya maanga, kis wajah se mana hua. Ya Khoj tab mein vishay chuno.</div>'; return; }
+    out.innerHTML = '<div class="empty">Dhoondh rahe hain…</div>';
+    topicResult(scored[0].t, text, scored.slice(1, 4).map(function (x) { return x.t; })).then(function (h) { out.innerHTML = '<div class="pad" style="padding:0">' + h + '</div>'; }).catch(fail);
+  }
+  // Case ke page par: orders mein vishay na mile to advocate ek-do line likhe; phone par yaad rehta hai
+  function caseKhojCard(id, why) {
+    var saved = store('ns-cv-' + id) || '';
+    return '<form class="card key" id="ckf"><span class="lbl brand">Is case ki baat likho · support / against faisle</span>' +
+      '<p class="p">' + esc(why) + '</p><label class="field"><span>Case mein kya maanga, kis baat par vivaad (Hindi-English mein)</span>' +
+      '<textarea id="ckt" rows="3" placeholder="Jaise: 12 saal se daily wage par kaam, vibhag regularise nahi kar raha">' + esc(saved) + '</textarea></label>' +
+      '<button class="btn" type="submit">' + ICON_SEARCH + 'Faisle dikhao</button></form><div id="ckr"></div>';
+  }
+  function caseKhojWire(id) {
+    var f = document.getElementById('ckf');
+    if (!f) return;
+    var run = function () {
+      var raw = document.getElementById('ckt').value.trim();
+      if (!raw) return;
+      store('ns-cv-' + id, raw);
+      khojIndex().then(function (idx) { khojInto(idx, raw, document.getElementById('ckr')); })
+        .catch(function () { document.getElementById('ckr').innerHTML = '<div class="empty">Khoj ka data abhi nahi khula. Thodi der mein dobara.</div>'; });
+    };
+    f.addEventListener('submit', function (ev) { ev.preventDefault(); run(); });
+    if (store('ns-cv-' + id)) run();
+  }
+
   function viewKhoj() {
     setTab('khoj');
     var draft = store('ns-khoj') || '';
@@ -320,12 +351,7 @@
         ev.preventDefault();
         var raw = document.getElementById('kt').value.trim();
         store('ns-khoj', raw);
-        var text = expand(raw), out = document.getElementById('kr');
-        var scored = idx.topics.map(function (t) { return { t: t, s: ruleHit(t.rules, text) + 0.5 * t.issues.filter(function (x) { return ruleHit(x.rules, text); }).length }; })
-          .filter(function (x) { return x.s > 0; }).sort(function (a, b) { return b.s - a.s; });
-        if (!scored.length) { out.innerHTML = '<div class="empty">Vishay pakad mein nahi aaya. Thoda aur likho: kis vibhag / kaam ka case hai, kya maanga, kis wajah se mana hua. Ya neeche se vishay chuno.</div>'; return; }
-        out.innerHTML = '<div class="empty">Dhoondh rahe hain…</div>';
-        topicResult(scored[0].t, text, scored.slice(1, 4).map(function (x) { return x.t; })).then(function (h) { out.innerHTML = '<div class="pad" style="padding:0">' + h + '</div>'; }).catch(fail);
+        khojInto(idx, raw, document.getElementById('kr'));
       });
     }).catch(function () { render('<div class="pad"><div class="empty">Khoj ka data abhi site par nahi hai. Thodi der mein dobara kholo.</div></div>'); });
   }
@@ -539,8 +565,10 @@
             (f.e.apps.length ? '<p class="p"><b>Applications:</b> ' + esc(f.e.apps.join('; ')) + '</p>' : '') + '</div>';
         }).join('') +
         (found.length ? '' : '<div class="empty">Yeh case aaj ya aage ki cause list mein abhi nahi hai. Jaise hi court ise list karega, yahan tareekh, court aur item number aa jaayega.</div>') +
+        caseKhojCard(id, 'Is case ka court record abhi app mein nahi. Case ki baat likhiye, isi vishay ke faisle turant dikh jaayenge.') +
         maangoCard(no, 'Is case ka poora record aur vishleshan abhi nahi hai') + '</div>');
       maangoWire();
+      caseKhojWire(id);
     });
   }
 
@@ -568,7 +596,9 @@
           '<div class="chips"><span class="chip good">Support · ' + sg.good.length + '</span><span class="chip warn">Against · ' + sg.bad.length + '</span>' +
           (sg.other.length ? '<span class="chip">Anya · ' + sg.other.length + '</span>' : '') + '</div><span class="go">Faisle dekho' + ICON_NEXT + '</span></a>';
       }
-      if (!(n.similar && n.similar.length) && !n.pros) html += maangoCard(c.case_no, n.vishay ? 'Vishleshan adhoora hai' : 'Is case ka vishleshan abhi nahi hua');
+      if (!(n.similar && n.similar.length) && !n.pros) html += caseKhojCard(c.id, 'Court ke orders mein abhi sirf tareekhein / kaam-kaaj hai, case ka vishay nahi likha — isliye machine faisle nahi chun paayi. Ek-do line likhiye, turant isi vishay ke SC aur Nainital HC ke faisle (court ne maana / nahi maana) yahin aa jaayenge.');
+      else if (n.free) html += caseKhojCard(c.id, 'Neeche ke faisle orders ke shabdon se mile hain (kamzor milaan). Case ki baat likhenge to vishay ke hisaab se pakke faisle aayenge.');
+      if (!(n.similar && n.similar.length) && !n.pros && !c.orders.length) html += maangoCard(c.case_no, 'Is case ka order abhi app mein nahi');
       if (n.summary) html += '<div class="card key"><span class="lbl brand">Case kya hai</span><p class="p">' + esc(n.summary) + '</p>' + (n.source ? '<span class="muted">Srot: ' + esc(n.source) + '</span>' : '') + '</div>';
       if (n.status) html += '<div class="card"><span class="lbl">Abhi kya sthiti hai</span><p class="p">' + esc(n.status) + '</p></div>';
       html += '<div class="card"><span class="lbl">Paksh</span>' +
@@ -628,6 +658,7 @@
     }
     render(html + '</div>');
     maangoWire();
+    caseKhojWire(c.id);
     Array.prototype.forEach.call(document.querySelectorAll('.tabs button'), function (b) {
       b.addEventListener('click', function () { go('#/case/' + c.id + '?t=' + b.getAttribute('data-t')); });
     });
