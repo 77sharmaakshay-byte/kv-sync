@@ -1,0 +1,148 @@
+# Keyword search (Indian Kanoon jaisa) ka server aapke Mac par: Kaggle wala database (~9 GB) Mac par, search
+# server (space/app.py) aur Cloudflare ka free tunnel (cloudflared, koi account/card nahi) — app bahar se pahunche.
+# Tunnel ka link Mac restart par badal jaata hai: yeh workflow har baar jaanchta hai, link badla to data branch
+# (state/search_url) aur app (data/search.json) mein naya link.
+# Kab: "Kaggle database update" ke baad (naya database), Mac cause list ke baad (server/tunnel zinda? link sahi?),
+# aur haath se (db = database bhi dobara laao).
+name: Mac search server
+
+on:
+  workflow_run:
+    workflows: ['Kaggle database update', 'Mac cause list (ehcr)']
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      db:
+        description: 'Kaggle se database dobara laao'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mac-search
+  cancel-in-progress: false
+
+jobs:
+  serve:
+    runs-on: [self-hosted, macOS]
+    timeout-minutes: 90
+    outputs:
+      url: ${{ steps.up.outputs.url }}
+    env:
+      PORT: '8790'
+      DATASET: krishivlaw/sc-data-set
+      NEW_DB: ${{ inputs.db || (github.event_name == 'workflow_run' && github.event.workflow_run.name == 'Kaggle database update') }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Folder + Python (naye cases wala venv)
+        run: |
+          S="$HOME/nyay-search"; echo "S=$S" >> "$GITHUB_ENV"; mkdir -p "$S/bin"
+          V="$HOME/actions-runner/kl-venv"
+          [ -x "$V/tools/bin/uv" ] || { python3 -m venv "$V/tools" && "$V/tools/bin/python" -m pip install -q --upgrade pip uv; }
+          "$V/tools/bin/uv" venv -q --allow-existing --python 3.12 "$V/live"
+          "$V/tools/bin/uv" pip install -q --python "$V/live/bin/python" kaggle
+          echo "PY=$V/live/bin/python" >> "$GITHUB_ENV"; echo "$V/live/bin" >> "$GITHUB_PATH"
+          "$V/live/bin/python" -c "import sqlite3; c=sqlite3.connect(':memory:'); c.execute('create virtual table t using fts5(x)'); print('fts5 ok', sqlite3.sqlite_version)"
+      - name: Kaggle token
+        env:
+          SECRET: ${{ secrets.KRISHIVLAW }}
+        run: |
+          "$PY" - <<'PY'
+          import json, os, re
+          s = (os.environ.get("SECRET") or "").strip().strip('"').strip("'")
+          try:
+              d = json.loads(s); env = {"KAGGLE_USERNAME": d["username"], "KAGGLE_KEY": d["key"]}
+          except (ValueError, KeyError, TypeError):
+              if not s:
+                  raise SystemExit("KRISHIVLAW secret khaali hai")
+              env = {"KAGGLE_KEY": s} if re.fullmatch(r"[0-9a-f]{32}", s) else {"KAGGLE_API_TOKEN": s}
+              env["KAGGLE_USERNAME"] = "krishivlaw"
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              for k, v in env.items():
+                  if k != "KAGGLE_USERNAME":
+                      print(f"::add-mask::{v}")
+                  f.write(f"{k}={v}\n")
+          PY
+      - name: Database (Kaggle se, sirf naya ho to)
+        run: |
+          if [ "$NEW_DB" != "true" ] && [ -s "$S/krishivlaw.db" ]; then echo "Database pehle se: $(ls -la "$S/krishivlaw.db")"; exit 0; fi
+          rm -rf "$S/dl" && mkdir -p "$S/dl" && cd "$S/dl"
+          kaggle datasets download "$DATASET" -f krishivlaw.db.gz -p . || kaggle datasets download "$DATASET" -p .
+          for z in *.zip; do [ -f "$z" ] && unzip -q "$z" && rm "$z"; done
+          g=$(ls -S *.gz 2>/dev/null | head -1 || true); d=$(ls -S *.db 2>/dev/null | head -1 || true)
+          if [ -n "$g" ]; then gunzip -c "$g" > ../krishivlaw.db.new; elif [ -n "$d" ]; then mv "$d" ../krishivlaw.db.new; fi
+          cd .. && rm -rf dl && test -s krishivlaw.db.new
+          mv -f krishivlaw.db.new krishivlaw.db && touch restart && ls -la krishivlaw.db
+      - name: Server (space/app.py) chalu / naya
+        run: |
+          if ! cmp -s space/app.py "$S/app.py"; then cp space/app.py "$S/app.py"; touch "$S/restart"; fi
+          alive() { curl -s --max-time 5 "http://127.0.0.1:$PORT/health" | grep -q '"ready": true'; }
+          if [ -f "$S/restart" ] || ! alive; then
+            [ -f "$S/server.pid" ] && kill "$(cat "$S/server.pid")" 2>/dev/null || true
+            lsof -ti "tcp:$PORT" | xargs kill 2>/dev/null || true   # purana server port pakde na rahe
+            sleep 2
+            cd "$S" && DATA_DIR="$S" PORT="$PORT" ORIGINS="https://nyay-sahayak-jn1t.onrender.com" \
+              RUNNER_TRACKING_ID="" nohup "$PY" app.py >> server.log 2>&1 < /dev/null &
+            pid=$!; echo $pid > "$S/server.pid"; rm -f "$S/restart"
+            RUNNER_TRACKING_ID="" nohup caffeinate -i -w "$pid" > /dev/null 2>&1 < /dev/null &   # Mac na soye
+            for i in $(seq 1 30); do alive && break; sleep 2; done
+          fi
+          curl -s --max-time 5 "http://127.0.0.1:$PORT/health"; echo
+          alive || { tail -n 30 "$S/server.log"; exit 1; }
+      - name: Tunnel (Cloudflare, free)
+        id: up
+        run: |
+          if [ ! -x "$S/bin/cloudflared" ]; then
+            curl -sfL -o "$S/cf.tgz" https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-darwin-arm64.tgz
+            tar -xzf "$S/cf.tgz" -C "$S/bin" && rm "$S/cf.tgz" && chmod +x "$S/bin/cloudflared"
+          fi
+          url=$(cat "$S/tunnel_url" 2>/dev/null || true)
+          ok() { [ -n "$1" ] && curl -s --max-time 15 "$1/health" | grep -q '"ready"'; }
+          if ! ok "$url"; then
+            pkill -f "cloudflared tunnel --no-autoupdate" 2>/dev/null || true; sleep 1
+            : > "$S/tunnel.log"
+            RUNNER_TRACKING_ID="" nohup "$S/bin/cloudflared" tunnel --no-autoupdate --url "http://127.0.0.1:$PORT" \
+              >> "$S/tunnel.log" 2>&1 < /dev/null &
+            RUNNER_TRACKING_ID="" nohup caffeinate -i -w $! > /dev/null 2>&1 < /dev/null &
+            url=""
+            for i in $(seq 1 30); do
+              url=$(grep -o 'https://[a-z0-9-]*\.trycloudflare\.com' "$S/tunnel.log" | head -1 || true)
+              [ -n "$url" ] && break; sleep 2
+            done
+            for i in $(seq 1 20); do ok "$url" && break; sleep 3; done
+            ok "$url" || { tail -n 30 "$S/tunnel.log"; exit 1; }
+            echo "$url" > "$S/tunnel_url"
+          fi
+          echo "Search server: $url"
+          echo "url=$url" >> "$GITHUB_OUTPUT"
+
+  publish:
+    needs: serve
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency:
+      group: daily-court   # data branch / site par doosre workflow ke saath ek waqt mein nahi
+      cancel-in-progress: false
+    env:
+      URL: ${{ needs.serve.outputs.url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link badla?
+        id: chk
+        run: |
+          git fetch --depth 1 origin data:data
+          old=$(git show data:state/search_url 2>/dev/null | tr -d '[:space:]' || true)
+          echo "purana: $old  naya: $URL"
+          [ "$old" = "$URL" ] && echo "changed=0" >> "$GITHUB_OUTPUT" || echo "changed=1" >> "$GITHUB_OUTPUT"
+      - name: Data branch + app
+        if: steps.chk.outputs.changed == '1'
+        run: |
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          git worktree add databranch data
+          mkdir -p databranch/state && echo "$URL" > databranch/state/search_url
+          cd databranch && git add state/search_url && git commit -qm "search server ka link"
+          for i in 1 2 3; do git push -q origin data && break; sleep 5; git pull -q --rebase -X theirs origin data; done
+          cd .. && sh scripts/publish_site.sh databranch

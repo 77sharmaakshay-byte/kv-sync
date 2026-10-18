@@ -218,7 +218,7 @@ def main():
     if (khoj / "index.json").exists():
         shutil.rmtree(out / "khoj", ignore_errors=True)
         shutil.copytree(khoj, out / "khoj")
-    url = args.data_branch / "state" / "search_url"   # .github/workflows/hf-search.yml: keyword search server
+    url = args.data_branch / "state" / "search_url"   # .github/workflows/mac-search.yml: keyword search server (Mac)
     if url.exists():
         (out / "search.json").write_text(json.dumps({"url": url.read_text().strip()}), encoding="utf-8")
     now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes")

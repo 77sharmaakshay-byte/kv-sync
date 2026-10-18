@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Nyay Sahayak ka keyword search (Indian Kanoon jaisa): SC + Nainital HC ke saare faisle, paragraph tak.
 
-Hugging Face Space (Docker) par chalta hai. Shuru hote hi private HF dataset (DB_REPO) se krishivlaw.db.gz
-laata hai, khol ke SQLite FTS5 (porter) se dhoondhta hai. Sirf standard library + huggingface_hub.
+Aapke Mac par chalta hai (.github/workflows/mac-search.yml: database Kaggle se, Cloudflare tunnel). DATA_DIR mein
+krishivlaw.db na ho to HF dataset (DB_REPO) se laata hai. SQLite FTS5 (porter); sirf standard library.
 
     GET /health                       -> {"ready": bool, "faisle": n}
     GET /search?q=&court=&nateeja=&from=&to=&page=
