@@ -1,0 +1,191 @@
+{
+ "auto": true,
+ "free": true,
+ "badge": "Machine vishleshan · shabdon se",
+ "vishay": {
+  "shreni": "Constitutional",
+  "vishay": "Orders ke shabdon se",
+  "upvishay": "deleg, societi, vote, nomine",
+  "mudde": [],
+  "aur": []
+ },
+ "shabd": [
+  "deleg",
+  "societi",
+  "vote",
+  "nomine",
+  "cast",
+  "nomin"
+ ],
+ "similar": [
+  {
+   "id": 18848,
+   "side": "good",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "N. BALAJI versus VIRENDRA SINGH AND ORS.",
+   "cite": "2004 INSC 575 · 05.10.2004",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“100 [2004] SUPP. 5 S.C.R. A voters list. It is the case of the appellant that in spite of the representation having been made for delisting the names of the non-eligible persons from the voters list, the election was held on the basis of the electoral roll published on 17.8.2002 and respondents 1, 2 and 3 were declared elected as Directors., of the Society. On 21st AugJst, 2002 the appellant again sent a representati…”"
+  },
+  {
+   "id": 4844,
+   "side": "bad",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "ZILEY SINGH, ETC. versus REGISTRAR, CANE COOPERATIVE SOCIETIES,  LUCKNOW AND ORS.",
+   "cite": "1972 INSC 19 · 20.01.1972",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“152 (1972] 3 S.C.R Society would\" exercise their right of vote in filling all the seats A of elected Directors.\" The ques1fon in the present appeals is whether the Registrar had power to issue the circular interpreting rule 409 and secondly whether that in~~rpretation is correct in terms of the Act and jhe Rules. The Act deals with Co-operative Societies and inter alia their B· members and their Committee of Manageme…”"
+  },
+  {
+   "id": 17065,
+   "side": "bad",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "SHRI SANT SADGURU JANARDAN SWAMI (MOINGIRI MAHARAJ) SAHAKARI DUGDHA UTPADAK SANSTHA AND ANR.  versus STATE OF MAHARASHTRA AND ORS .",
+   "cite": "2001 INSC 461 · 25.09.2001",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“SANT SADGURU JANARDAN SWAMI v. STATE [KHARE, J.] 339 (vii) of sub-section ( 1) of Section 73G, and in consultation with A the District Deputy Registrar in respect of the societies of the other categories mentioned in sub-section (1) of Section 73G, by order, change the date of the 30th June and subsequent dates and .. fix revised dates for the purposes of these rules . 5. Particulars to be included in provisional lis…”"
+  },
+  {
+   "id": 14540,
+   "side": "bad",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "RAJENDRA PRASAD YADAV AND ORS. versus STATE OF MADHYA PRADESH AND ORS.",
+   "cite": "1997 INSC 559 · 09.07.1997",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“734 (1997] SUPP. 1 S.C.R. A through the representatives elected by them for the general assembly of the Bank (Central Bank), Apex Co-operative Society. Each member shall have only one vote, but the nominated person shall be precluded from casting vote for election of \"office bearer\" of the Committee. (emphasis supplied) Clause (2) of bye-law 37 is material for the purpose of this case which B says \"A representative o…”"
+  },
+  {
+   "id": 20185,
+   "side": "good",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "PUNDLIK versus STATE OF MAHARASHTRA AND ORS.",
+   "cite": "2005 INSC 385 · 25.08.2005",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“• - PUNDLIK v. STATE [C.K. THAKKER, J.] 985 is true that according to this Court, normally the High Court would not A interfere in exercise of powers under Article 226 of the Constitution at the stage of preparation of list of voters but. such action must be in accordance with law. We have been taken through the relevant provisions of the Rules by the learned counsel for the parties. Rule 4 of the Rules provides for …”"
+  },
+  {
+   "id": 290091,
+   "side": "other",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Supreme Court",
+   "tag": "Nateeja ? · shabdon se mila",
+   "verified": false,
+   "title": "SANT S.J.SWAMI (M.)M.S.D.U.SANSTHA versus STATE OF MAHARASHTRA",
+   "cite": "C.A. No.-000596-000596 - 2000 · 25.09.2001 · [\"V.N. KHARE,B.N. AGRAWAL\"]",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: record mein nahi.",
+   "quote": "“http://JUDIS.NIC.IN SUPREME COURT OF INDIA Page 3 of 7 clauses (xi) and (xlv) of sub-section (2) of Section 165 of the Act framed Rules known as Maharashtra Specified Co-operative Societies Elections to Commitees Rules, 1971 ( hereinafter referred to as the Rules). The relevant portion of the Rules runs as under: 4. Provisional List of Voters. (1) A provisional list of voters shall be prepared by every society for th…”"
+  },
+  {
+   "id": 7847,
+   "side": "good",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "CHHEDI RAM versus JHILMIT RAM & OTHERS",
+   "cite": "1983 INSC 189 · 05.12.1983",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“.'A ·D E G H ., '.966 CHHEDI RAM v. JHII:.MiT RAM & OTHERS • December 5, 1983 [S. MURTAZA.FAZAL ALI, 0. CHINNAPPA REDDY AND .. • E.S. VENKATARAMIAH, JJ.) • Repmentation of the People Act, 195/-S, 100(/)(d)-lmpr~per acceptance of nomin~tion--;-When could it be. said to materially affect the result of election?. ' The appellant; the respondent and four· other candidates contested the election to a legislative assembly …”"
+  },
+  {
+   "id": 295694,
+   "side": "other",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Nainital HC",
+   "tag": "Nateeja ? · shabdon se mila",
+   "verified": false,
+   "title": "RAKESH KUMAR versus STATE OF UTTARAKHAND",
+   "cite": "WPMS/1608/2025 · 27.06.2025 · [\"Hon'ble Mr. Justice Ravindra Maithani\"]",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: record mein nahi.",
+   "quote": "“3 many cooperative societies have been inducted as its member, who have nothing to do with the cane development. It may influence the election of the society, which in turn may not be in the interest of cane growers for whose benefit, the society has been formed. Secondly, it is argued that even if it is accepted that any cooperative society can be its member, the right to vote cannot be given to any nominated member…”"
+  },
+  {
+   "id": 75357,
+   "side": "bad",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/1322/2008 of SATYENDRA KUMAR Vs REGISTRAR CO-OPERATIVE SOCIETIES AND OTHERS",
+   "cite": "WPMS/1322/2008 · 01.08.2008",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“filing objections against the nomination for electing the delegates/representatives and for their consideration and disposal. The grievance of the petitioner is that he is aggrieved by non-consideration of his objection dated 11-7- 2008 and 17-7-2008 by the Election Officer and District Election Officer respectively. It has been contended by the petitioner that the mandatory provision of Rule 452(4) of the Rules was …”"
+  },
+  {
+   "id": 113907,
+   "side": "bad",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/1336/2013 of Ajit Singh Vs State Of Uttarakhand AND OTHERS",
+   "cite": "WPMS/1336/2013 · 02.07.2013",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“5 9. In rejoinder, the learned counsel for the petitioner submits that Rule 457 of the Rules will not apply in the present case, as the delegates of the respondent nos. 8 to 12 have been elected to caste their votes in violation of the Rules. 10. I have considered the submissions of learned counsel for the parties. 11. As far as locus-standi of the petitioner to file writ petition is concerned, I find that petitioner…”"
+  },
+  {
+   "id": 260173,
+   "side": "good",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Nainital HC",
+   "tag": "Nirdesh: vibhag vichaar kare · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/2297/2025 of LAKHPAT SINGH NEGI Vs THE SUB REGISTRAR",
+   "cite": "WPMS/2297/2025 · 06.08.2025",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Nirdesh: vibhag vichaar kare.",
+   "quote": "“SL. No Date Office Notes, reports, orders or proceedings or directions and Registrar's order with Signatures COURT'S OR JUDGES'S ORDERS D1- 16 WPMS No.2297 of 2025 Hon'ble Ravindra Maithani, J. Mr. Pavan Kumar Nath, Advocate for the petitioner. Mr. Suyash Pant, Standing Counsel for the State. Heard. It is the case of the petitioner that in the District Rudraprayag, election for Primary Teachers Association, Rudrapray…”"
+  },
+  {
+   "id": 89961,
+   "side": "bad",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/2094/2010 of KUNDAN SINGH Vs STATE OF UTTARAKHAND and OTHERS",
+   "cite": "WPMS/2094/2010 · 24.12.2010",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“3 \"two-third majority\" should be read strictly, the fraction should be rounded off to one and the intention of Legislature is that no confidence motion should be passed by atleast 2/3rd majority. This judgment has been rendered by Allahabad High Court on the basis of Full Bench decision of Allahabad High Court rendered in the case of Wahid Ullah Khan v. District Magistrate, Nainital and others. In the instant case th…”"
+  },
+  {
+   "id": 116498,
+   "side": "good",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/1823/2012 of DR. NARENDRA SWARUP BHATNAGAR Vs PRESCRIBED AUTHORITY AND ORS",
+   "cite": "WPMS/1823/2012 · 20.02.2013",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“2 [Provided that the election of an office-bearer shall be set aside where the prescribed authority is satisfied- (a) that any corrupt practice has been committed by such office-bearer; or (b) that the nomination of any candidate has been improperly rejected ; or (c) that the result of the election in so far it concerns such office- bearer has been materially affected by the improper acceptance of any nomination or b…”"
+  },
+  {
+   "id": 140855,
+   "side": "good",
+   "q": "(\"deleg\" AND \"societi\") OR (\"deleg\" AND \"vote\") OR (\"deleg\" AND \"nomine\") OR (\"deleg\" AND \"cast\") OR (\"societi\" AND \"vote\") OR (\"societi\" AND \"nomine\") OR (\"societi\" AND \"cast\") OR (\"vote\" AND \"nomine\") OR (\"vote\" AND \"cast\") OR (\"nomine\" AND \"cast\")",
+   "court": "Nainital HC",
+   "tag": "Aanshik paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "SPA/292/2016 of Kehar Singh Vs Ranveer Singh AND OTHERS",
+   "cite": "SPA/292/2016 · 26.10.2016",
+   "why": "Is case ke orders ke khaas shabd (deleg, societi, vote, nomine, cast) isi faisle ke paragraph mein. Court ka nateeja: Aanshik paksh mein.",
+   "quote": "“5 123) and contend that there is no quorum. He would further draw our attention to Article 243 ZJ, which reads as under: \"Article 243 ZJ. Number and term of members of board and its office bearers.- (1) The board shall consist of such number of directors as may be provided by the Legislature of a State, by law: Provided that the maximum number of directors of a co-operative society shall not exceed twenty-one: Provid…”"
+  }
+ ],
+ "disclaimer": "Is case ke orders mein vishay saaf nahi likha (zyaadatar tareekh / kaam-kaaj). Ye faisle orders ke khaas shabdon se mile hain, isliye milaan kamzor ho sakta hai — advocate jaanch lein. Quote faisle ka asli paragraph hai. Behtar nateeje ke liye Khoj mein case ki baat likhein."
+}

@@ -1,0 +1,191 @@
+{
+ "auto": true,
+ "free": true,
+ "badge": "Machine vishleshan · shabdon se",
+ "vishay": {
+  "shreni": "Criminal",
+  "vishay": "Orders ke shabdon se",
+  "upvishay": "convict, lodger, gaol, marri",
+  "mudde": [],
+  "aur": []
+ },
+ "shabd": [
+  "convict",
+  "lodger",
+  "gaol",
+  "marri",
+  "compound",
+  "outcom"
+ ],
+ "similar": [
+  {
+   "id": 22430,
+   "side": "good",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Supreme Court",
+   "tag": "Aanshik paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "HASI MOHAN BARMAN AND ANR. versus STATE OF ASSAM AND ANR.",
+   "cite": "2007 INSC 1149 · 13.11.2007",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Aanshik paksh mein.",
+   "quote": "“HASI MOHAN BARMAN Ai\"\"JD ANR. A v. STATE OF ASSAM AND ANR. NOVEMBER 13, 2007 t [G.P. MATHUR AND AL TAMAS KABIR, JJ.] B Penal Code, 1860-s. 313 rlw. s. 34-Non-compoundable offence of causing miscarriage of woman without her consent-Principal accused was paramour of the victim-Courts below convicted him and c a co-accused-Meanwhile, victim married principal accitsed-She filed affidavit before Supreme Court stating that…”"
+  },
+  {
+   "id": 276708,
+   "side": "other",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Supreme Court",
+   "tag": "Nateeja ? · shabdon se mila",
+   "verified": false,
+   "title": "SHIMBHU versus STATE OF HARYANA",
+   "cite": "Crl.A. No.-001278-001279 - 2013 · 27.08.2013 · [\"P SATHASIVAM,RANJANA PRAKASH DESAI\"]",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: record mein nahi.",
+   "quote": "“Page 18 accused or victim or the long pendency of the criminal trial or offer of the rapist to marry the victim or the victim is married and settled in life cannot be construed as special factors for reducing the sentence prescribed by the statute. The power under the proviso should not be used indiscriminately in a routine, casual and cavalier manner for the reason that an exception clause requires strict interpreta…”"
+  },
+  {
+   "id": 28537,
+   "side": "good",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "KAINI RAJAN versus STATE OF KERALA",
+   "cite": "2013 INSC 639 · 19.09.2013",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“KAINI RAJAN v. STATE OF KERALA 197 Penal Code, 1860 - s. 375 - Rape - Consent - Meaning A of According to the prosecution, in the morning when PW2 was proceeding to the Khadi Centre from her house, the accused-appellant, a friend of her brother, caught 8 hold of her by hand and forcibly took her to a nearby compound and committed rape on her, without her consent. She tried to make a hue and cry, but was silenced by t…”"
+  },
+  {
+   "id": 276282,
+   "side": "good",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "MAHILA ROOMA BAI  JATAV versus THE STATE OF MADHYA PRADESH HOME DEPARTMENT",
+   "cite": "Crl.A. No.-001989-001989 - 2010 · 26.09.2019 · [\"HON'BLE MR. JUSTICE DEEPAK GUPTA, HON'BLE MR. JUSTICE ANIRUDDHA BOSE\"]",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“IN THE SUPREME COURT OF INDIA CRIMINAL APPELLATE JURISDICTION Criminal Appeal No(s). 1989/2010 MAHILA ROOMABAI JATAV Appellant(s) VERSUS THE STATE OF MADHYA PRADESH Respondent(s) J U D G M E N T This appeal by the convicted accused is directed against the judgment dated 11.10.2006 of the High Court of Madhya Pradesh whereby it upheld the judgment of the Trial Court convicting the appellant under Sections 302 read wit…”"
+  },
+  {
+   "id": 25267,
+   "side": "bad",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "PARSHOTAM LAL & ANOTHER versus STATE OF PUNJAB",
+   "cite": "2009 INSC 1164 · 06.10.2009",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“PARSHOTAM LAL & ANR. v. STATE OF PUNJAB 1049 [V.S. SIRPURKAR, J.] \"f consummated. Since, there was no real challenge to the A conviction, the High Court proceeded to dismiss the appeal. However, under the circumstances, the High Court reduced the sentence from four years to rigorous imprisonment of one year and six months. That is how, the appellants are before us. 7. We have heard learned counsel appearing for the B…”"
+  },
+  {
+   "id": 27838,
+   "side": "bad",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "SHIMBHU AND ANR. versus STATE OF HARYANA",
+   "cite": "2013 INSC 568 · 27.08.2013",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“SHIMBHU AND ANR. v. STATE OF HARYANA 139 or the long pendency of the criminal trial or offer of the A rapist to marry the victim or the victim is married and settled in life cannot be construed as special factors for reducing the sentence prescribed by the statute. The power under the proviso should not be used indiscriminately in a routine, casual and cavalier manner B for the reason that an exception clause require…”"
+  },
+  {
+   "id": 10659,
+   "side": "bad",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "CHANDRA MOHAN TIWARI AND ANR. versus STATE OF MADHYA PRADESH",
+   "cite": "1992 INSC 24 · 22.01.1992",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“C.M. TIWARI v. STATE IPAND!AN, J.] 317 ., '· . CRIMINAL APPELLATE JURIS.DICTION: Criminal Appeal No. A 36 of 1979. From the Judgment and Order dated 17.11.1978 of the Madhya Pradesh High Court in Criminal Appeal No. 477 of 1973 .. A.N. Mulla, Dhruv Mehta, Aman Vachher and S.K. Mehta for the B Appellants. B.Y. Kulkarni and Uma Nath Singh for the Respondents. The Judgment of the Court was delivered by S. RA TNA VEL P A…”"
+  },
+  {
+   "id": 104090,
+   "side": "bad",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "CRLA/390/2003 of GOVIND SINGH and ORS Vs STATE",
+   "cite": "CRLA/390/2003 · 24.07.2012",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“4 304-B and 498-A of IPC. Convict Govind Singh was sentenced to imprisonment for life in respect of offence punishable under Section 304-B of IPC. He was sentenced to rigorous imprisonment for a period of two years in respect of offence punishable under Section 498-A and a fine of Rs. 5,000/-. It was directed that in default of payment of fine, the convict shall further undergo one year's imprisonment. Convicts Sushi…”"
+  },
+  {
+   "id": 92365,
+   "side": "other",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Nainital HC",
+   "tag": "Nipataara · shabdon se mila",
+   "verified": false,
+   "title": "CRJA/519/2007 of SMT. SAUNI DEVI Vs STATE",
+   "cite": "CRJA/519/2007 · 26.12.2011",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Nipataara.",
+   "quote": "“2 2. The learned Amicus Curiae has apprised this Court that the other two accused convicts, namely, Jagdish Singh and Dilbar Singh, who were sentenced to undergo two yearsí imprisonment, have completed their sentences and they have now been released from the gaol, while Smt. Sauni Devi, who is 62 years old lady, is still under incarceration and she is serving the sentence ever since her arrest on 31.8.2006. It has be…”"
+  },
+  {
+   "id": 240953,
+   "side": "good",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "C482/715/2024 of SAMSHUDDIN ALIAS CHOTU Vs STATE OF UTTARAKHAND",
+   "cite": "C482/715/2024 · 05.09.2024",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“support of which marriage certificate is also enclosed. It is also submitted that on the date, when the marriage was solemnized, victim was major, since her date of birth was 19.10.2005, as per Adhar Card and there is no dispute about her age. It is also submitted that respondent no. 3 - victim is now 7 months' pregnant from the present applicant and if the proceeding is permitted to be continued, it will spoil the m…”"
+  },
+  {
+   "id": 247430,
+   "side": "good",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "C482/1172/2024 of MANISH BHANDARI Vs STATE OF UTTARAKHAND",
+   "cite": "C482/1172/2024 · 11.07.2024",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“the dispute with the applicant and further as per allegation, is her old friend, and both of them have entered into compromise and settled their dispute amicably, therefore, compounding application can be allowed. He further submits that now since the respondent no.2-complainant herself does not want to pursue the proceedings, therefore, there is no useful purpose to continue with the proceedings, as there are very r…”"
+  },
+  {
+   "id": 272399,
+   "side": "good",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "C482/1399/2023 of SAURABH KUMAR Vs STATE OF UTTARAKHAND",
+   "cite": "C482/1399/2023 · 03.07.2026",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“9 stands allowed, in the light of the principles laid down in the matters of Sarfaraz (Supra), as a result thereto the judgment of the conviction dated 19.02.2021, would hereby stands quashed in terms of the compounding application, while exercising my powers under sub-section (5) of section 320 of Cr.P.C., as a result thereto, the appellant who is presently languishing in jail is directed to be released forthwith, w…”"
+  },
+  {
+   "id": 91847,
+   "side": "bad",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "CRLA/306/1997 of DEV SINGH Vs STATE",
+   "cite": "CRLA/306/1997 · 14.07.2010",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“5 11- Now, this Court has to see as to whether the court below was justified in convicting the appellant on the basis of dying declaration (Ex. Ka.4) made by Smt. Deepa (deceased). The dying declaration (Ex. Ka.4) of Smt. Deepa, recorded by B. Prasad, Naib Tehsildar (PW-6) is reproduced below:- \"Today in the morning I asked my husband why did he consume liquor, then my husband Dev Singh told that she had ruined his h…”"
+  },
+  {
+   "id": 150842,
+   "side": "bad",
+   "q": "(\"convict\" AND \"lodger\") OR (\"convict\" AND \"gaol\") OR (\"convict\" AND \"marri\") OR (\"convict\" AND \"compound\") OR (\"lodger\" AND \"gaol\") OR (\"lodger\" AND \"marri\") OR (\"lodger\" AND \"compound\") OR (\"gaol\" AND \"marri\") OR (\"gaol\" AND \"compound\") OR (\"marri\" AND \"compound\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "C482/592/2017 of Yunis Alias Yunus Vs State Of Uttarakhand AND ANOTHER",
+   "cite": "C482/592/2017 · 04.05.2017",
+   "why": "Is case ke orders ke khaas shabd (convict, lodger, gaol, marri, compound) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“impact on society. Similarly, any compromise between the victim and offender in relation to the offences under special statutes like Prevention of Corruption Act or the offences committed by public servants while working in that capacity etc; cannot provide for any basis for quashing criminal proceedings involving such offences. But the criminal cases having overwhelmingly and pre-dominatingly civil flavour stand on …”"
+  }
+ ],
+ "disclaimer": "Is case ke orders mein vishay saaf nahi likha (zyaadatar tareekh / kaam-kaaj). Ye faisle orders ke khaas shabdon se mile hain, isliye milaan kamzor ho sakta hai — advocate jaanch lein. Quote faisle ka asli paragraph hai. Behtar nateeje ke liye Khoj mein case ki baat likhein."
+}

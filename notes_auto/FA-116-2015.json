@@ -1,0 +1,189 @@
+{
+ "auto": true,
+ "free": true,
+ "badge": "Machine vishleshan · shabdon se",
+ "vishay": {
+  "shreni": "Civil",
+  "vishay": "Orders ke shabdon se",
+  "upvishay": "translat, book, paper, deposit",
+  "mudde": [],
+  "aur": []
+ },
+ "shabd": [
+  "translat",
+  "book",
+  "paper",
+  "deposit"
+ ],
+ "similar": [
+  {
+   "id": 277678,
+   "side": "other",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Supreme Court",
+   "tag": "Nateeja ? · shabdon se mila",
+   "verified": false,
+   "title": "MAHESH versus STATE OF MADHYA PRADESH",
+   "cite": "Crl.A. No.-000503-000503 - 2008 · 13.09.2011 · [\"MUKUNDAKAM SHARMA,ANIL R. DAVE\"]",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: record mein nahi.",
+   "quote": "“the prosecution case. There is no requirement in the law of evidence that any particular number of witnesses is to be examined to prove something. The evidence has to be weighed and not to be counted. The witnesses who were examined were relatives of the deceased and, therefore, there is no ground and reason why they should be disbelieved. There is also no reason why they would not speak the truth so as to see that t…”"
+  },
+  {
+   "id": 26468,
+   "side": "bad",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "MAHESH & ANR. versus STATE OF MADHYA PRADESH",
+   "cite": "2011 INSC 679 · 13.09.2011",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“382 A 12. We have considered the aforesaid submissions which were refuted by the learned counsel appearing for the respondent. She has drawn our attention to the evidence on record to submit that some of the translation of the deposition included in the paper book prepared by the appellants is not a truly reflecting the accurate statement made by the persons in the Court. 13. In order to appreciate the aforesaid cont…”"
+  },
+  {
+   "id": 6797,
+   "side": "good",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "S. L. GOSWAMI  versus HIGH COURT OF MADHYA PRADESH AT JABALPUR",
+   "cite": "1978 INSC 241 · 23.11.1978",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“s. L. GOSWAMI v. M. P. HIGH COURT (Kailasam, J.) 3 87 before the High Court for quashing the order of the Magistrate, 1st Class, Jabalpur committing the appellant to Sessions for trial under section 466 read with section 120-B of the Indian Penal Code. The appellant was prosecuted before the Special Judge, Jabalpur, in Criminal Case No. 5 of 1967 for an offence under section. 5(1)(d) of the Prevention of Corruption A…”"
+  },
+  {
+   "id": 33441,
+   "side": "good",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Supreme Court",
+   "tag": "Aanshik paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "M/S. ULTRATECH CEMENT LTD. & ANR. versus STATE OF RAJASTHAN & ORS.",
+   "cite": "2020 INSC 456 · 17.07.2020",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Aanshik paksh mein.",
+   "quote": "“A B C D E F G H 431 part of the Minutes of SLSC meeting dated 17.03.2011, in their translated version23 read as under:- \"13....Committee after observing & examining the submitted documents by the unit & available provision in the plan & earlier decision taken by the finance department, this decision has been taken that unit has appended signatures on MoU in Rajasthan Resurgent Summit. Therefore, as per the orders of …”"
+  },
+  {
+   "id": 37074,
+   "side": "bad",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "DHARMENDRA KUMAR @ DHAMMA versus STATE OF MADHYA PRADESH",
+   "cite": "2024 INSC 480 · 08.07.2024",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“Digital 36. In order to appreciate the contention, we have gone through the translated version of the statement of Usha Bai (P.W.10), which the Appellant has appended along with the original paper book as well as a part of \"Compilation of Depositions of Witnesses\". Since the translated version was seemingly incorrect, making it difficult to discern as to what the witness had deposed, we have also gone through the ori…”"
+  },
+  {
+   "id": 29371,
+   "side": "good",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "ADAMBHAI SULEMANBHAI AJMERI & ORS. versus STATE OF GUJARAT",
+   "cite": "2014 INSC 399 · 16.05.2014",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“ADAMBHAI SULEMANBHAI AJMERI v. STATE OF 215 GUJARAT [V. GOPALA GOWDA, J.] 1 apart from me, two other experts of Hyderabad were taken, and A they knew Urdu language better than me.\" (translation extracted from the Additional documents submitted on behalf of the appellants) The hand writing expert had stated that he cannot read or B /write the Urdu language. He can read Urdu language only with ithe aid of a book: ' 106…”"
+  },
+  {
+   "id": 2118,
+   "side": "bad",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "RAMACHANDRA SHENOY AND ANOTHER.  versus MRS. HILDA BRITE AND OTHERS",
+   "cite": "1963 INSC 81 · 01.04.1963",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“1953 Ram12&htmdra ~lwna_p v. Hilda Britt Ayyanzar J. 732 [1962] VOL. between these translations, but that compared with the translation from the Paper-book which we have set out earlier, it is found that the verb \"enjoy\" occurs only once-not twice-as in the paper book where it occurs first in relation to the daughter and again with respect to the bequest to the daughter's male issue. Based on these translations learn…”"
+  },
+  {
+   "id": 150155,
+   "side": "good",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPSS/1408/2016 of Anuj Vij Vs Food Corporation Of India Ltd AND OTHERS",
+   "cite": "WPSS/1408/2016 · 07.04.2017",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“WPSS No.1408/16 Honíble Rajiv Sharma, J. Mr. Shobhit Saharia, Advocate for the petitioner. Mr. Yogesh Pande, Advocate, for the respondents. Petitioner participated in the selection process for the post of Assistant Grade-II (Hindi). He was required to file one-year Experience Certificate of Translation from Hindi to English and vice versa. In the experience certificate dated 20.2.2015 submitted by the petitioner, it …”"
+  },
+  {
+   "id": 206916,
+   "side": "good",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "SPLA/92/2016 of Dr. Atya Nand Vs State Of Uttarakhand AND ANOTHER",
+   "cite": "SPLA/92/2016 · 30.06.2022",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“the paper-book and supply the same to the learned counsel for both the parties, as per rule. The matter be listed after 25 days. In the meantime, learned counsel for the appellant will provide translated copy of the FIR, statement of witness and judgment.”"
+  },
+  {
+   "id": 245314,
+   "side": "other",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Nainital HC",
+   "tag": "Nipataara · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/574/2023 of MEDIA 24X7 ADVERTISING PVT LTD. Vs NAGAR NIGAM RUDRAPUR THROUGH ITS CHAIRMAN",
+   "cite": "WPMS/574/2023 · 23.04.2024",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Nipataara.",
+   "quote": "“IN THE HIGH COURT OF UTTARAKHAND AT NAINITAL MS. JUSTICE RITU BAHRI, C.J. AND MR. RAKESH THAPLIYAL, J. 23RD APRIL, 2024 WRIT PETITION (MS) NO. 574 OF 2023 Media 24X7 Advertising Pvt. Ltd. .......Petitioner Versus Nagar Nigam, Rudrapur & others. ..............Respondents Counsel for the petitioner : Mr. Ramji Srivastava, learned counsel. Counsel for the respondents : Mr. Lalit Sharma, learned counsel for respondent No…”"
+  },
+  {
+   "id": 111509,
+   "side": "good",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "CRLA/44/2012 of AMARJEET SINGH Vs STATE OF UTTARAKHAND",
+   "cite": "CRLA/44/2012 · 16.04.2013",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“6 Inspector Neeraj Kumar (PW1) deposited the currency notes, so recovered from the appellants, in the police station but he does not remember with whom he had deposited the currency notes, so recovered from the appellants. 15. PW4 Investigating Officer, during his cross-examination, (at page no. 70 of the paper book) stated that he never saw, the currency notes, so recovered from the appellants and charge-sheet was s…”"
+  },
+  {
+   "id": 67147,
+   "side": "bad",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "CRLA/1197/1986 of JAI DATT Vs STATE",
+   "cite": "CRLA/1197/1986 · 26.10.2006",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“The Office is directed to prepare the paper book within a period of three days from today and the same shall be supplied to the parties within a period of four days on payment of usual charges. Learned counsel for the appellant will deposit the charges for the paper book within one day. If the learned counsel for the appellant makes any default, the warrant recall order shall stand vacated.\" Dated: 15.06.2006 Sd/- 3)…”"
+  },
+  {
+   "id": 109456,
+   "side": "bad",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/2266/2013 of Pragati Varnish  Udyog Vs State Of Uttarakhand AND OTHERS",
+   "cite": "WPMS/2266/2013 · 30.10.2013",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“4 5. The main argument of the petitioners before this Court is that order of the Conservator of Forest is absolutely without jurisdiction, as the competent authority who can grant sanction to the auction sale is the Divisional Forest Officer who has already sanctioned the auction sale. Neither the conditions of the auction sale under which the sale was done nor any Rule provide for the Conservator of Forest to bypass…”"
+  },
+  {
+   "id": 118099,
+   "side": "bad",
+   "q": "(\"translat\" AND \"book\") OR (\"translat\" AND \"paper\") OR (\"translat\" AND \"deposit\") OR (\"book\" AND \"paper\") OR (\"book\" AND \"deposit\") OR (\"paper\" AND \"deposit\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/1548/2013 of Bahadur Singh Patani Vs State Of Uttarakhand AND OTHERS",
+   "cite": "WPMS/1548/2013 · 25.02.2014",
+   "why": "Is case ke orders ke khaas shabd (translat, book, paper, deposit) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“IN THE HIGH COURT OF UTTARAKHAND AT NAINITAL Writ Petition No. 1548 of 2013 (M/S) Bahadur Singh Patni Ö..Petitioner. Versus State of Uttarakhand and others ......Ö.Respondents. Present: Mr. S.S. Chauhan, Advocate for the petitioner. Mr. Subhash Upadhyay, Standing Counsel for the State of Uttarakhand. Mr. Sharad Sharma, Senior Advocate assisted by Ms. Vandana Singh, Advocate for respondent no. 4. Honíble Alok Singh, J…”"
+  }
+ ],
+ "disclaimer": "Is case ke orders mein vishay saaf nahi likha (zyaadatar tareekh / kaam-kaaj). Ye faisle orders ke khaas shabdon se mile hain, isliye milaan kamzor ho sakta hai — advocate jaanch lein. Quote faisle ka asli paragraph hai. Behtar nateeje ke liye Khoj mein case ki baat likhein."
+}
