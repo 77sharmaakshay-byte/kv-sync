@@ -116,6 +116,24 @@ TOPICS = [
 ]
 
 # Nainital HC ke case type se seedha upvishay (text mein shabd na bhi hon): (prefixes, upvishay)
+# Case ke record ka Act (eCourts 'acts') -> upvishay; orders mein tathya na hon tab bhi vishay mile
+ACT_TOPICS = [
+    (r"motor vehicles|173 of motor", "Motor accident claim (MACT)"),
+    (r"small cause", "Eviction / rent"),
+    (r"family courts|hindu marriage|special marriage", "Divorce"),
+    (r"negotiable instruments", "Cheque bounce (138 NI)"),
+    (r"arbitration", "Arbitration"),
+    (r"land acquisition|right to fair compensation", "Land acquisition compensation"),
+    (r"ndps|narcotic", "NDPS"),
+    (r"pocso|protection of children", "POCSO"),
+    (r"scheduled castes and the scheduled tribes|atrocities", "SC/ST Atrocities Act"),
+    (r"goods and services tax|gst", "GST / VAT"),
+    (r"income.?tax", "Income tax"),
+    (r"industrial disputes", "Industrial dispute / retrenchment"),
+    (r"consumer protection", "Consumer dispute"),
+    (r"securitisation|sarfaesi|recovery of debts", "Bank recovery / SARFAESI"),
+]
+
 CASE_TOPICS = [
     (("BA1", "BA2", "BA3", "BA4", "BA5"), "Regular bail"),
     (("ABA", "SABA"), "Anticipatory bail"),

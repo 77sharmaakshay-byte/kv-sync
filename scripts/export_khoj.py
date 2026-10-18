@@ -117,8 +117,9 @@ def main():
     queries.update({m: q for issues in taxonomy.ISSUES.values() for m, q in issues})
     for f in sorted(args.notes.glob("*.json")) if args.notes and args.notes.exists() else []:
         for j in json.loads(f.read_text(encoding="utf-8")).get("similar") or []:
-            if j.get("id") and queries.get(j.get("mudda")):
-                wanted.setdefault(j["id"], {})[j["mudda"]] = queries[j["mudda"]]
+            q = queries.get(j.get("mudda")) or j.get("q")   # q: shabdon se mile faisle (auto_notes.related_free)
+            if j.get("id") and q:
+                wanted.setdefault(j["id"], {})[j.get("mudda") or "Is case ke shabd"] = q
     for jid, matches in wanted.items():
         (args.out / "j" / f"{jid}.json").write_text(json.dumps(judgment_doc(con, jid, matches), ensure_ascii=False,
                                                                separators=(",", ":")), encoding="utf-8")
