@@ -1,0 +1,676 @@
+{
+ "kab": "2026-10-18T02:33+00:00",
+ "courts": {
+  "SC": {
+   "faisle": 57228,
+   "vishay_mila": 31838,
+   "shreni": {
+    "Civil": 12155,
+    "null": 11233,
+    "Criminal": 10848,
+    "Service": 6620,
+    "Constitutional": 5351,
+    "Tax": 3838,
+    "Commercial": 2472,
+    "Land": 2316,
+    "Labour": 1631,
+    "Family": 549,
+    "Contempt": 215
+   },
+   "nateeja": {
+    "Paksh mein": 21292,
+    "Khilaf": 16137,
+    "null": 12844,
+    "Nipataara": 4451,
+    "Aanshik paksh mein": 1895,
+    "Bade bench ko": 302,
+    "Nirdesh: vibhag vichaar kare": 301,
+    "Wapas / bekaar": 6
+   },
+   "upvishay": [
+    [
+     "Criminal",
+     "Murder (302 IPC / 103 BNS)",
+     4015
+    ],
+    [
+     "Service",
+     "Termination / dismissal",
+     3122
+    ],
+    [
+     "Tax",
+     "Income tax",
+     2745
+    ],
+    [
+     "Civil",
+     "Eviction / rent",
+     2070
+    ],
+    [
+     "Labour",
+     "Industrial dispute / retrenchment",
+     2016
+    ],
+    [
+     "Commercial",
+     "Arbitration",
+     1769
+    ],
+    [
+     "Commercial",
+     "Company / insolvency",
+     1325
+    ],
+    [
+     "Service",
+     "Promotion",
+     1230
+    ],
+    [
+     "Civil",
+     "Will / succession",
+     1180
+    ],
+    [
+     "Criminal",
+     "Circumstantial evidence",
+     1155
+    ],
+    [
+     "Criminal",
+     "Quashing (482 CrPC / 528 BNSS)",
+     1129
+    ],
+    [
+     "Land",
+     "Land acquisition compensation",
+     1100
+    ],
+    [
+     "Service",
+     "Regularisation",
+     1061
+    ],
+    [
+     "Service",
+     "Seniority",
+     1039
+    ],
+    [
+     "Service",
+     "Selection / merit list",
+     1015
+    ],
+    [
+     "Constitutional",
+     "Elections (panchayat / municipal / assembly)",
+     984
+    ],
+    [
+     "Civil",
+     "Specific performance",
+     947
+    ],
+    [
+     "Service",
+     "Pension",
+     908
+    ],
+    [
+     "Civil",
+     "Injunction",
+     868
+    ],
+    [
+     "Criminal",
+     "Dowry / 498A",
+     826
+    ],
+    [
+     "Constitutional",
+     "Article 14 / 21",
+     710
+    ],
+    [
+     "Constitutional",
+     "Admission / education",
+     704
+    ],
+    [
+     "Service",
+     "Gratuity / leave encashment",
+     697
+    ],
+    [
+     "Criminal",
+     "Dying declaration",
+     692
+    ],
+    [
+     "Land",
+     "Mutation / revenue entries",
+     669
+    ],
+    [
+     "Service",
+     "Compulsory / voluntary retirement",
+     667
+    ],
+    [
+     "Civil",
+     "Motor accident claim (MACT)",
+     656
+    ],
+    [
+     "Civil",
+     "Partition",
+     653
+    ],
+    [
+     "Service",
+     "Daily wage / contractual",
+     643
+    ],
+    [
+     "Constitutional",
+     "Mining / licence",
+     606
+    ],
+    [
+     "Civil",
+     "Consumer dispute",
+     567
+    ],
+    [
+     "Service",
+     "Pay scale / equal pay",
+     553
+    ],
+    [
+     "Criminal",
+     "Dowry death (304B)",
+     494
+    ],
+    [
+     "Criminal",
+     "FIR quashing / arrest stay (writ)",
+     481
+    ],
+    [
+     "Criminal",
+     "Cheating / fraud (420)",
+     465
+    ],
+    [
+     "Criminal",
+     "NDPS",
+     462
+    ],
+    [
+     "Civil",
+     "Adverse possession",
+     446
+    ],
+    [
+     "Criminal",
+     "Habeas corpus",
+     413
+    ],
+    [
+     "Service",
+     "Reservation in recruitment",
+     390
+    ],
+    [
+     "Commercial",
+     "Bank recovery / SARFAESI",
+     350
+    ],
+    [
+     "Criminal",
+     "Cheque bounce (138 NI)",
+     344
+    ],
+    [
+     "Criminal",
+     "Anticipatory bail",
+     333
+    ],
+    [
+     "Constitutional",
+     "Environment / forest",
+     297
+    ],
+    [
+     "Service",
+     "Suspension",
+     278
+    ],
+    [
+     "Family",
+     "Divorce",
+     272
+    ],
+    [
+     "Land",
+     "Zamindari / bhumidhari",
+     262
+    ],
+    [
+     "Constitutional",
+     "Tender / government contract",
+     256
+    ],
+    [
+     "Criminal",
+     "Rape / sexual offence",
+     230
+    ],
+    [
+     "Service",
+     "Compassionate appointment",
+     215
+    ],
+    [
+     "Family",
+     "Child custody",
+     197
+    ],
+    [
+     "Criminal",
+     "Default bail",
+     188
+    ],
+    [
+     "Tax",
+     "GST / VAT",
+     188
+    ],
+    [
+     "Criminal",
+     "SC/ST Atrocities Act",
+     180
+    ],
+    [
+     "Criminal",
+     "Regular bail",
+     128
+    ],
+    [
+     "Family",
+     "Maintenance (125 CrPC / 144 BNSS)",
+     126
+    ],
+    [
+     "Criminal",
+     "POCSO",
+     125
+    ],
+    [
+     "Service",
+     "Transfer",
+     110
+    ],
+    [
+     "Criminal",
+     "Suspension of sentence",
+     92
+    ],
+    [
+     "Criminal",
+     "Cancellation of bail",
+     83
+    ],
+    [
+     "Service",
+     "Eligibility / qualification",
+     65
+    ],
+    [
+     "Service",
+     "Recovery of excess payment",
+     41
+    ]
+   ]
+  },
+  "UKHC": {
+   "faisle": 239548,
+   "vishay_mila": 136418,
+   "shreni": {
+    "Criminal": 108645,
+    "Service": 51538,
+    "Writ": 39163,
+    "Civil": 15599,
+    "Contempt": 7425,
+    "Special Appeal": 4787,
+    "Tax": 3307,
+    "PIL": 2252,
+    "Constitutional": 1934,
+    "Land": 1688,
+    "Commercial": 1343,
+    "Labour": 911,
+    "null": 758,
+    "Family": 198
+   },
+   "nateeja": {
+    "Khilaf": 69332,
+    "Nipataara": 64122,
+    "Paksh mein": 59116,
+    "Wapas / bekaar": 27591,
+    "Nirdesh: vibhag vichaar kare": 12167,
+    "Default mein khaarij": 4199,
+    "null": 2396,
+    "Aanshik paksh mein": 625
+   },
+   "upvishay": [
+    [
+     "Criminal",
+     "Regular bail",
+     40957
+    ],
+    [
+     "Criminal",
+     "FIR quashing / arrest stay (writ)",
+     26324
+    ],
+    [
+     "Criminal",
+     "Quashing (482 CrPC / 528 BNSS)",
+     24634
+    ],
+    [
+     "Criminal",
+     "Cheating / fraud (420)",
+     7344
+    ],
+    [
+     "Criminal",
+     "Dowry / 498A",
+     5185
+    ],
+    [
+     "Criminal",
+     "Murder (302 IPC / 103 BNS)",
+     4913
+    ],
+    [
+     "Criminal",
+     "NDPS",
+     4623
+    ],
+    [
+     "Criminal",
+     "Anticipatory bail",
+     4463
+    ],
+    [
+     "Service",
+     "Regularisation",
+     4063
+    ],
+    [
+     "Service",
+     "Daily wage / contractual",
+     3697
+    ],
+    [
+     "Criminal",
+     "POCSO",
+     3695
+    ],
+    [
+     "Service",
+     "Transfer",
+     3283
+    ],
+    [
+     "Service",
+     "Termination / dismissal",
+     3280
+    ],
+    [
+     "Service",
+     "Gratuity / leave encashment",
+     2592
+    ],
+    [
+     "Criminal",
+     "Dowry death (304B)",
+     2049
+    ],
+    [
+     "Criminal",
+     "Cheque bounce (138 NI)",
+     2048
+    ],
+    [
+     "Service",
+     "Pay scale / equal pay",
+     1875
+    ],
+    [
+     "Tax",
+     "Income tax",
+     1776
+    ],
+    [
+     "Civil",
+     "Injunction",
+     1748
+    ],
+    [
+     "Labour",
+     "Industrial dispute / retrenchment",
+     1674
+    ],
+    [
+     "Service",
+     "Compassionate appointment",
+     1570
+    ],
+    [
+     "Service",
+     "Pension",
+     1538
+    ],
+    [
+     "Land",
+     "Mutation / revenue entries",
+     1368
+    ],
+    [
+     "Commercial",
+     "Arbitration",
+     1335
+    ],
+    [
+     "Criminal",
+     "Circumstantial evidence",
+     1259
+    ],
+    [
+     "Land",
+     "Zamindari / bhumidhari",
+     1187
+    ],
+    [
+     "Criminal",
+     "SC/ST Atrocities Act",
+     1148
+    ],
+    [
+     "Civil",
+     "Motor accident claim (MACT)",
+     1124
+    ],
+    [
+     "Service",
+     "Selection / merit list",
+     1077
+    ],
+    [
+     "Tax",
+     "GST / VAT",
+     1067
+    ],
+    [
+     "Family",
+     "Maintenance (125 CrPC / 144 BNSS)",
+     1056
+    ],
+    [
+     "Civil",
+     "Eviction / rent",
+     1028
+    ],
+    [
+     "Service",
+     "Suspension",
+     1018
+    ],
+    [
+     "Commercial",
+     "Bank recovery / SARFAESI",
+     1014
+    ],
+    [
+     "Service",
+     "Promotion",
+     1014
+    ],
+    [
+     "Service",
+     "Seniority",
+     963
+    ],
+    [
+     "Constitutional",
+     "Elections (panchayat / municipal / assembly)",
+     801
+    ],
+    [
+     "Civil",
+     "Will / succession",
+     718
+    ],
+    [
+     "Service",
+     "Recovery of excess payment",
+     643
+    ],
+    [
+     "Criminal",
+     "Cancellation of bail",
+     625
+    ],
+    [
+     "Family",
+     "Divorce",
+     617
+    ],
+    [
+     "Criminal",
+     "Habeas corpus",
+     567
+    ],
+    [
+     "Constitutional",
+     "Admission / education",
+     526
+    ],
+    [
+     "Constitutional",
+     "Tender / government contract",
+     480
+    ],
+    [
+     "Constitutional",
+     "Mining / licence",
+     458
+    ],
+    [
+     "Criminal",
+     "Rape / sexual offence",
+     368
+    ],
+    [
+     "Service",
+     "Compulsory / voluntary retirement",
+     348
+    ],
+    [
+     "Service",
+     "Reservation in recruitment",
+     339
+    ],
+    [
+     "Criminal",
+     "Suspension of sentence",
+     336
+    ],
+    [
+     "Civil",
+     "Partition",
+     324
+    ],
+    [
+     "Criminal",
+     "Dying declaration",
+     311
+    ],
+    [
+     "Civil",
+     "Specific performance",
+     247
+    ],
+    [
+     "Constitutional",
+     "Environment / forest",
+     239
+    ],
+    [
+     "Land",
+     "Land acquisition compensation",
+     221
+    ],
+    [
+     "Commercial",
+     "Company / insolvency",
+     204
+    ],
+    [
+     "Family",
+     "Child custody",
+     175
+    ],
+    [
+     "Constitutional",
+     "Article 14 / 21",
+     169
+    ],
+    [
+     "Civil",
+     "Adverse possession",
+     162
+    ],
+    [
+     "Criminal",
+     "Default bail",
+     125
+    ],
+    [
+     "Service",
+     "Eligibility / qualification",
+     91
+    ],
+    [
+     "Civil",
+     "Consumer dispute",
+     44
+    ]
+   ]
+  }
+ }
+}
