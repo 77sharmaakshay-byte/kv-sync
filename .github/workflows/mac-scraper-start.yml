@@ -1,0 +1,28 @@
+# Mac par purane cases wala scraper (fetch_live.py uk-gap --only-missing) dobara chalu karo — jaise Terminal mein
+# chalate the. Terminal band ho jaaye / Mac restart ho to yahan se: Actions > Mac scraper chalu > Run workflow.
+# Pehle se chal raha ho to kuch nahi karta. Job khatam hone par bhi scraper chalta rehta hai (RUNNER_TRACKING_ID khaali).
+name: Mac scraper chalu
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  start:
+    runs-on: [self-hosted, macOS]
+    timeout-minutes: 5
+    steps:
+      - name: Scraper chalu karo
+        run: |
+          R="$HOME/krishivlaw"; D="$HOME/krishivlaw-data"
+          if pgrep -f "fetch_live.py.*uk-gap" >/dev/null; then echo "Pehle se chal raha hai:"; pgrep -fl "fetch_live.py"; exit 0; fi
+          [ -x "$R/.venv-live/bin/python" ] || { echo "$R/.venv-live nahi mila"; exit 1; }
+          cd "$R"
+          echo "== $(date) : dobara chalu (GitHub se)" >> "$D/uk-gap.log"
+          RUNNER_TRACKING_ID="" nohup caffeinate -dimsu .venv-live/bin/python -u scripts/fetch_live.py \
+            --data "$D" uk-gap --only-missing >> "$D/uk-gap.log" 2>&1 < /dev/null &
+          sleep 40
+          pgrep -fl "fetch_live.py" || { echo "Chalu nahi hua"; tail -n 30 "$D/uk-gap.log"; exit 1; }
+          echo "== log"; tail -n 8 "$D/uk-gap.log"
