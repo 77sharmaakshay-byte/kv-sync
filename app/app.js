@@ -731,6 +731,7 @@
       if (!n.similar.some(function (j) { return j.id; })) html += n.similar.map(oldCard).join('');
       else {
         var g = sides(n.similar), card = function (j) {
+          if (j.sj) return judgCard(j, '').replace('href="#/kj/' + j.id + '"', 'href="#/sj/' + j.id + '?q=' + encodeURIComponent(j.q || '') + '"'); // poore database wala faisla (search server)
           return judgCard(j, j.mudda).replace('href="#/kj/' + j.id + (j.mudda ? '?m=' + encodeURIComponent(j.mudda) : ''),
             'href="#/kj/' + j.id + '?' + (j.mudda ? 'm=' + encodeURIComponent(j.mudda) + '&' : '') + 'from=' + encodeURIComponent(c.id));
         };
