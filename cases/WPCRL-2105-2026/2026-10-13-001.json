@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/2105/2026:2026-10-13-001",
+ "title": "MANISHA versus STATE OF UTTARAKHAND",
+ "petitioner": "MANISHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/2105/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010182422026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/2105/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtFNjIRm1MhTAdEuPj9xSK9vbR8OppjCx8ePGQYSTx8z&caseno=WPCRL/2105/2026&cCode=1&cino=UKHC010182422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3ca4b4ef301ab2ac25ab9afdfe9996a6b368f75c0096219d57fb1d15b4631cdc",
+ "fetched_at": "2026-10-20T05:12:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

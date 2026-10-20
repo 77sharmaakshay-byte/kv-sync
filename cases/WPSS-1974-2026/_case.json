@@ -6,11 +6,11 @@
  "registration_number": "WPSS /1974/2026",
  "registration_date": "2026-07-23",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-10-26",
  "decision_date": null,
  "case_stage": "AFTER FRESH MATTERS -128",
  "status": "",
- "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -51,6 +51,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": null,
+   "business_date": "2026-10-13",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-13",
    "business_date": "2026-09-08",
    "purpose": "ADMISSION MATTERS -25",
@@ -80,6 +87,15 @@
    "order_type": "WPSS/1974/2026",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkl9n4sDS%2Fzg2uojtUwAoIH6KO13nOqt8K83iUNQiZ4P&caseno=WPSS/1974/2026&cCode=1&cino=UKHC010130182026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPSS/1974/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkl9n4sDS%2Fzg2uojtUwAoIGlUVVFWOKPFhb9cK1mOBpF&caseno=WPSS/1974/2026&cCode=1&cino=UKHC010130182026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

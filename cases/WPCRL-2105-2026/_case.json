@@ -1,24 +1,72 @@
 {
  "cnr_number": "UKHC010182422026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "WPCRL",
+ "filing_number": "WPCRL /8757/2026",
+ "filing_date": "2026-10-09",
+ "registration_number": "WPCRL /2105/2026",
+ "registration_date": "2026-10-09",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-10-26",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "MANISHA",
+   "advocate": "MEHBOOB RAHI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "S.H.O.",
+   "advocate": "G.A."
+  },
+  {
+   "name": "LAKHWINDER SINGH",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "115(2),351(3),69"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-13",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-26",
+   "business_date": "2026-10-13",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPCRL/2105/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtFNjIRm1MhTAdEuPj9xSK9vbR8OppjCx8ePGQYSTx8z&caseno=WPCRL/2105/2026&cCode=1&cino=UKHC010182422026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

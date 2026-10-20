@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2248/2024:2026-10-13-007",
+ "title": "STATE OF UTTARAKHAND versus SANTRAM",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "SANTRAM",
+ "case_no": "WPMS/2248/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010130362024",
+ "doc_kind": "order",
+ "order_type": "WPMS/2248/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBkdwttco%2FmRv%2F9SLh0Rtx6JTE9eIFmmRfwFSZKsUiGJ&caseno=WPMS/2248/2024&cCode=1&cino=UKHC010130362024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd4fc93bbbf2ddfcbd62db457f5ce79883576d74ace4c98139d9f8bd53aef34d",
+ "fetched_at": "2026-10-20T05:13:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

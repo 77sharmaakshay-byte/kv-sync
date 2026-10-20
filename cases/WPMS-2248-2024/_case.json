@@ -6,9 +6,9 @@
  "registration_number": "WPMS /2248/2024",
  "registration_date": "2024-08-21",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-10-26",
  "decision_date": null,
- "case_stage": "ADMISSION MATTERS (AFTER FRESH) -30",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
  "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
@@ -44,6 +44,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-26",
+   "business_date": "2026-10-13",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -210,6 +217,15 @@
    "order_type": "WPMS/2248/2024",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBkdwttco%2FmRv%2F9SLh0Rtx6fkD2DKXA29N5OGVD%2BZXka&caseno=WPMS/2248/2024&cCode=1&cino=UKHC010130362024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPMS/2248/2024",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBkdwttco%2FmRv%2F9SLh0Rtx6JTE9eIFmmRfwFSZKsUiGJ&caseno=WPMS/2248/2024&cCode=1&cino=UKHC010130362024&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

@@ -6,7 +6,7 @@
  "registration_number": "CLCON /625/2025",
  "registration_date": "2025-12-02",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-10-26",
  "decision_date": null,
  "case_stage": "ADMISSION MATTERS -25",
  "status": "",
@@ -47,6 +47,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-10-26",
+   "business_date": "2026-10-13",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-13",
    "business_date": "2026-09-23",
    "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
@@ -83,14 +90,14 @@
   },
   {
    "hearing_date": "2026-05-13",
-   "business_date": "2026-05-05",
+   "business_date": null,
    "purpose": "ADMISSION MATTERS -25",
    "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2026-05-13",
-   "business_date": null,
+   "business_date": "2026-05-05",
    "purpose": "ADMISSION MATTERS -25",
    "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "cause_list_type": "DAILY CAUSE LIST"
