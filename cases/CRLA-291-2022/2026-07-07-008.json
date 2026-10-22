@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/291/2022:2026-07-07-008",
+ "title": "VAZIR versus STATE OF UTTARAKHAND",
+ "petitioner": "VAZIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/291/2022",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-07",
+ "cnr": "UKHC010111262022",
+ "doc_kind": "order",
+ "order_type": "CRLA/291/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING (AFTER FRESH) -45",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01p1w%2FQ9CzB56w8veLgpWDSjLOH2CDQ9k5gMGgBlLLUu&caseno=CRLA/291/2022&cCode=1&cino=UKHC010111262022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "400bb69a3fa539d243038f15aef83c1a3561e5426346578a8cb408844c84d97c",
+ "fetched_at": "2026-10-22T07:45:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

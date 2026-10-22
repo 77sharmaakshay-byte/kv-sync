@@ -1,84 +1,24 @@
 {
  "cnr_number": "UKHC010185632026",
- "case_type": "HABC",
- "filing_number": "HABC /8924/2026",
- "filing_date": "2026-10-13",
- "registration_number": "HABC /53/2026",
- "registration_date": "2026-10-13",
+ "case_type": "",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "",
  "status": "",
- "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
- "bench_type": "Division Bench",
+ "coram": "",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "UTTARAKHAND",
- "district": "Udham Singh Nagar",
- "petitioners": [
-  {
-   "name": "SABINA",
-   "advocate": "MEHBOOB RAHI,KAUSHAL PANDEY,KAUSHAL PANDEY, ,KAUSHAL PANDEY"
-  }
- ],
- "respondents": [
-  {
-   "name": "STATE OF UTTARAKHAND",
-   "advocate": "G.A."
-  },
-  {
-   "name": "SENIOR SUPERNTENDENT OF POLICE",
-   "advocate": "G.A."
-  },
-  {
-   "name": "STATION HOUSE OFFICER",
-   "advocate": "G.A."
-  },
-  {
-   "name": "SAGAR",
-   "advocate": ""
-  },
-  {
-   "name": "RAM SINGH ALIAS JEEVAN",
-   "advocate": ""
-  },
-  {
-   "name": "SMT. MOHINI DEVI",
-   "advocate": ""
-  }
- ],
- "acts": [
-  {
-   "act": "Under Article 226 of the Constituion of India",
-   "sections": "226"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2026-10-15",
-   "business_date": null,
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-10-26",
-   "business_date": "2026-10-15",
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "",
-   "cause_list_type": "DAILY CAUSE LIST"
-  }
- ],
- "orders": [
-  {
-   "order_date": "2026-10-15",
-   "order_type": "HABC/53/2026",
-   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrD4vXA3nfcJQzR%2BvzRQfLwEF6WgmwCksfoodhdkUTSg&caseno=HABC/53/2026&cCode=1&cino=UKHC010185632026&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  }
- ]
+ "state": "",
+ "district": "",
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
+ "orders": []
 }

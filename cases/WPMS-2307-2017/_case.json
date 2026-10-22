@@ -6,11 +6,11 @@
  "registration_number": "WPMS /2307/2017",
  "registration_date": "2017-09-12",
  "first_hearing_date": "2017-10-05",
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-10-26",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "case_stage": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
  "status": "",
- "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "coram": "Registrar (Judicial)",
  "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -47,6 +47,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-12-07",
+   "business_date": "2026-10-16",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": null,
    "business_date": "2026-06-09",
@@ -212,6 +219,15 @@
    "order_type": "WPMS/2307/2017",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh5ecqs5D1oxoe6gAWtPDLxwtQcj7hYn8gq4QEZJ2IdlK&caseno=WPMS/2307/2017&cCode=1&cino=UKHC010008232017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-16",
+   "order_type": "WPMS/2307/2017",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh5ecqs5D1oxoe6gAWtPDLxyYHNHu3eeCdSZIojYEx1WH&caseno=WPMS/2307/2017&cCode=1&cino=UKHC010008232017&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

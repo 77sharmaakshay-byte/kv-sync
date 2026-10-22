@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/291/2022:2022-08-02-004",
+ "title": "VAZIR versus STATE OF UTTARAKHAND",
+ "petitioner": "VAZIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/291/2022",
+ "case_type": "CRLA",
+ "decision_date": "2022-08-02",
+ "cnr": "UKHC010111262022",
+ "doc_kind": "order",
+ "order_type": "CRLA/291/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING (AFTER FRESH) -45",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01p1w%2FQ9CzB56w8veLgpWDQucW7YQw%2Bh1EasXAAQI6c7&caseno=CRLA/291/2022&cCode=1&cino=UKHC010111262022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1646585f4fab7dfdd5f3af1097a846e49b3a36a01d7b2becd1988bf60c742f96",
+ "fetched_at": "2026-10-22T07:45:20+00:00",
+ "fetched_by": "fetch_live.py"
+}
