@@ -1,7 +1,7 @@
 # Training ke daur ka data banao aur private Kaggle dataset mein bhejo (plan: kaggle/train/plan.json).
-#   padhai-sc : SC ke saare faisle, poore, bade bench se chhote (scripts/build_padhai.py) -> krishivlaw/nyay-padhai-sc
+#   padhai-sc : SC ke saare faisle, poore, bade bench se chhote (scripts/build_padhai.py) -> krishivlaw/nyay-padhai-sc-v2
 #   kaam      : shreni/vishay/mudda/nateeja (Nainital HC + SC) + headnote dohrana (build_train_hc.py) -> nyay-kaam-v2
-#   padhai-hc : Nainital HC ke saare faisle, Division Bench pehle -> krishivlaw/nyay-padhai-hc
+#   padhai-hc : Nainital HC ke saare faisle, Division Bench pehle -> krishivlaw/nyay-padhai-hc-v2
 # "Kaggle training" data taiyaar hote hi apne aap us daur par chalta hai. Database: Kaggle ka krishivlaw/sc-data-set.
 name: Training data banao
 
@@ -84,11 +84,11 @@ jobs:
           }
           O=$RUNNER_TEMP/out
           if [ "$WHICH" = sab ] || [ "$WHICH" = padhai-sc ]; then
-            python scripts/build_padhai.py --db "$DB" --court SC --out $O/psc --v1 "$V1" && up $O/psc nyay-padhai-sc
+            python scripts/build_padhai.py --db "$DB" --court SC --out $O/psc --v1 "$V1" && up $O/psc nyay-padhai-sc-v2
           fi
           if [ "$WHICH" = sab ] || [ "$WHICH" = kaam ]; then
             python scripts/build_train_hc.py --db "$DB" --out $O/kaam --v1 "$V1" && cat $O/kaam/stats.json && up $O/kaam nyay-kaam-v2
           fi
           if [ "$WHICH" = sab ] || [ "$WHICH" = padhai-hc ]; then
-            python scripts/build_padhai.py --db "$DB" --court UKHC --out $O/phc --v1 "$V1" && up $O/phc nyay-padhai-hc
+            python scripts/build_padhai.py --db "$DB" --court UKHC --out $O/phc --v1 "$V1" && up $O/phc nyay-padhai-hc-v2
           fi

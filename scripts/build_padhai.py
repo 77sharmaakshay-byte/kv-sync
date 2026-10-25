@@ -13,6 +13,7 @@ Nikalta hai: padhai-00001.jsonl.gz ... (har ek mein SHARD tukde), eval.jsonl.gz 
 test.jsonl.gz, index.json (kaunsa bench kis tukde se shuru, ginti).
 """
 import argparse
+import collections
 import gzip
 import json
 import random
@@ -29,13 +30,49 @@ SHARD = 20000
 COURT = {"SC": "Supreme Court", "UKHC": "Nainital High Court"}
 
 
-def bench(n_bench, judges):
-    if n_bench:
-        return int(n_bench)
-    try:
-        return max(1, len(json.loads(judges or "[]")))
-    except ValueError:
-        return 1
+# Bench (kitne judge): database ka bench_size zyadatar khaali, isliye faisle ke text se.
+CJ = re.compile(r",?\s*\(?\b(?:ACTING\s+)?C\.?\s?J\.?\s?I?\.?\)?(?=[\s,]|$)", re.I)
+SEP = re.compile(r",|\bAND(?=\s|[A-Z]\.)|&")
+INIT = re.compile(r"(?:^|[\s,])(?:(?:DR|MRS|MS)\.?\s+)?(?:[A-Z][a-z]?\s?[.:]\s?){1,3}\s?[A-Z][A-Za-z~!'’]{2,}")
+SIGN = re.compile(r"(?:\.|…){3,}\s*,?\s*(?:CJI|C\.?\s?J\.?|J)\s*\.?\s*[\[(]\s*([A-Z][A-Za-z. ]{3,40}?)\s*[\])]")
+HON = re.compile(r"(?:Hon[’'`]?\s?ble\s+(?:(?:Mr|Mrs|Ms|Dr|Shri|Sri|Smt)\.?\s+)?(?:Justice\s+)?|\b(?:SRI|SHRI|SMT\.?)\s+JUSTICE\s+)"
+                 r"([A-Z][A-Za-z.]*(?:\s+[A-Z][A-Za-z.]*){0,3})")
+HC_SIGN = re.compile(r"\(\s*([A-Z][A-Za-z. ]{3,40}?),\s*(?:A\.?\s?C\.?\s?J|C\.?\s?J|J)\s*\.\s*\)")
+HC_DB = ("SPA", "WPPIL", "SPLA", "REF", "CRLA", "CAPL", "FAFO", "WPCRL", "HABC", "ITA", "CEXA", "STR", "TTR")
+
+
+def sc_bench(head, tail):
+    """SC: headnote ka '[A, B AND C, JJ.]' (OCR galtiyon ke saath ±1), warna aakhir ke dastkhat '....J. (NAAM)'."""
+    m = re.search(r"\bJJ\b|\bJ\s*\.\s*[\])}]", head)
+    if m:
+        start = max([head.rfind(b, 0, m.start()) for b in "[({|"] + [m.start() - 700])
+        block = head[start + 1:m.start()]
+        yr = list(re.finditer(r"(1[89]|20)\d\d\b|\b(1[89]|20)\d?\s?\d\s?\d\b", block))   # bracket kho gaya: tareekh ke baad
+        block = block[yr[-1].end():] if yr else block
+        block = CJ.sub(",", re.sub(r"^\W*(?:[A-Za-z]{1,2}\.?\s)?(?=[A-Z]{1,2}\s?\.)", "", block))
+        n = max(len([x for x in SEP.split(block) if len(re.sub(r"[^A-Za-z]", "", x)) >= 3]), len(INIT.findall(block)))
+        if head[m.start():m.start() + 2] == "JJ":
+            n = max(n, 2)
+        if n:
+            return n
+    return len({re.sub(r"[^a-z]", "", x.lower()) for x in SIGN.findall(tail)}) or None
+
+
+def hc_bench(head, tail):
+    """Nainital HC: 'Hon'ble X, J.' / 'SRI JUSTICE X' shuru mein, ya '(X, J.)' dastkhat — kitne alag judge."""
+    keys = set()
+    for x in HON.findall(head) + HC_SIGN.findall(head + tail):
+        k = re.sub(r"[^a-z]", "", " ".join(x.split()[:2]).lower())
+        if len(k) >= 4 and k not in ("chiefjustice", "justice", "court", "highcourt", "thechief"):
+            keys.add(k)
+    return len(keys) or None
+
+
+def bench(court, n_bench, case_type, head, tail):
+    if court == "SC":
+        return sc_bench(head, tail) or n_bench or 2
+    ct = re.sub(r"[^A-Z]", "", (case_type or "").upper())
+    return hc_bench(head, tail) or n_bench or (2 if ct.startswith(HC_DB) else 1)
 
 
 def stage(court, n):
@@ -87,16 +124,20 @@ def main():
     skip = {p["key"] for p in test_hn}
 
     meta = []
-    for jid, key, title, case_no, year, date, nb, judges, rep in con.execute(
-            "SELECT j.id, j.source_key, j.title, j.case_no, j.year, j.decision_date, j.bench_size, j.judges, "
-            "j.reportable FROM judgments j JOIN texts t ON t.judgment_id = j.id WHERE j.court = ? "
-            "AND length(t.clean) >= 1500", (args.court,)):
+    benches = collections.Counter()
+    for jid, key, title, case_no, year, date, nb, ct, rep, head, tail in con.execute(
+            "SELECT j.id, j.source_key, j.title, j.case_no, j.year, j.decision_date, j.bench_size, j.case_type, "
+            "j.reportable, substr(t.clean, 1, 3000), substr(t.clean, -4000) FROM judgments j JOIN texts t "
+            "ON t.judgment_id = j.id WHERE j.court = ? AND length(t.clean) >= 1500", (args.court,)):
         if key in skip:
             continue
-        st = stage(args.court, bench(nb, judges))
+        nj = bench(args.court, nb, ct, head, tail)
+        benches[min(nj, 15)] += 1
+        st = stage(args.court, nj)
         meta.append((ORDER[args.court].index(st), -(year or 0), date or "", rep != "reportable", jid, key,
                      title or case_no, year, st))
     meta.sort()
+    print("judges ki ginti -> faisle:", dict(sorted(benches.items())), flush=True)
     held = set(rng.sample(range(len(meta)), min(len(meta) // 50, args.eval)))  # jaanch ke faisle: padhaye nahi
 
     args.out.mkdir(parents=True, exist_ok=True)
