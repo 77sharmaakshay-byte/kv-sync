@@ -28,7 +28,8 @@ T0 = float(os.environ.get("NYAY_T0") or time.time())
 ROUND = int(os.environ.get("NYAY_ROUND", "1"))
 V1 = "krishivlaw/nyay-train-v1"
 DATA = os.environ.get("NYAY_DATA") or V1
-N_TRAIN = int(os.environ.get("NYAY_N_TRAIN", "12000"))    # round mein zyada se zyada; samay ki seema pehle aa sakti hai
+N_TRAIN = int(os.environ.get("NYAY_N_TRAIN", "18000"))    # round mein zyada se zyada; samay ki seema pehle aa sakti hai
+HN_MIX = 0.05   # padhai mein itne headnote jode bhi (sirf padhne se model headnote likhna bhoolta hai: round 7 mein 0.25 -> 0.11)
 N_EVAL = int(os.environ.get("NYAY_N_EVAL", "20"))         # headnote (har round wahi 20)
 N_EVAL_V = int(os.environ.get("NYAY_N_EVAL_V", "150"))    # vargikaran
 TRAIN_SEC = float(os.environ.get("NYAY_TRAIN_HOURS", "9")) * 3600  # Kaggle session 12 ghante; jaanch ke liye jagah
@@ -145,6 +146,17 @@ if MODE == "padhai":
             if j % 10 == 9 and replay:
                 mixed.append(replay.pop())
         raw = mixed + replay
+    if any(k.startswith("headnote.jsonl") for k in FILES):   # headnote ke jode bhi beech-beech mein (bhoole nahi)
+        hn = lines("headnote.jsonl.gz", shuffle=False)
+        hn = random.Random(1000 + ROUND).sample(hn, min(len(hn), int(len(raw) * HN_MIX)))
+        n_replay += len(hn)
+        step = max(1, len(raw) // max(1, len(hn)))
+        mixed = []
+        for j, x in enumerate(raw):
+            mixed.append(x)
+            if j % step == step - 1 and hn:
+                mixed.append(hn.pop())
+        raw = mixed + hn
     train = [encode(json.loads(x)) for x in raw]
     del raw
     stages = [s["stage"] for s in INDEX["stages"] if s["from"] <= OFF]

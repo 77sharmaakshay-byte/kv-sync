@@ -120,7 +120,7 @@ def main():
     args = ap.parse_args()
     con = sqlite3.connect(f"file:{args.db}?mode=ro", uri=True)
     rng = random.Random(args.seed)
-    _, test_hn = v1(con, args.v1, args.v1_test)
+    train_hn, test_hn = v1(con, args.v1, args.v1_test)
     skip = {p["key"] for p in test_hn}
 
     meta = []
@@ -187,6 +187,8 @@ def main():
         f.writelines(json.dumps(r, ensure_ascii=False) + "\n" for r in evals)
     with gzip.open(args.out / "test.jsonl.gz", "wt", encoding="utf-8") as f:
         f.writelines(json.dumps(dict(p, task="headnote"), ensure_ascii=False) + "\n" for p in test_hn)
+    with gzip.open(args.out / "headnote.jsonl.gz", "wt", encoding="utf-8") as f:   # padhai ke beech dohrane ke liye
+        f.writelines(json.dumps(dict(p, task="headnote"), ensure_ascii=False) + "\n" for p in train_hn)
     (args.out / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
     print(json.dumps(index, ensure_ascii=False, indent=1))
 
