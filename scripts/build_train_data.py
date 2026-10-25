@@ -65,14 +65,8 @@ def pair(row):
             "input": inp, "target": head, "treatments": _treatments(head)}
 
 
-def main():
-    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    ap.add_argument("--db", required=True, type=Path)
-    ap.add_argument("--out", required=True, type=Path)
-    ap.add_argument("--test", type=int, default=1000)
-    ap.add_argument("--seed", type=int, default=13)
-    args = ap.parse_args()
-    con = sqlite3.connect(f"file:{args.db}?mode=ro", uri=True)
+def split(con, n_test=1000, seed=13):
+    """SC headnote jode -> (train, test, skipped). Seed fixed: test ke faisle har baar wahi (build_train_hc bhi yahi)."""
     con.row_factory = sqlite3.Row
     rows = con.execute("select j.source_key, j.year, j.title, j.neutral_citation, j.report_citation, j.disposal, t.clean "
                        "from judgments j join texts t on t.judgment_id = j.id "
@@ -84,8 +78,21 @@ def main():
             pairs.append(p)
         else:
             skipped += 1
-    random.Random(args.seed).shuffle(pairs)
-    test, train = pairs[:args.test], pairs[args.test:]
+    con.row_factory = None
+    random.Random(seed).shuffle(pairs)
+    return pairs[n_test:], pairs[:n_test], skipped
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--db", required=True, type=Path)
+    ap.add_argument("--out", required=True, type=Path)
+    ap.add_argument("--test", type=int, default=1000)
+    ap.add_argument("--seed", type=int, default=13)
+    args = ap.parse_args()
+    con = sqlite3.connect(f"file:{args.db}?mode=ro", uri=True)
+    train, test, skipped = split(con, args.test, args.seed)
+    pairs = test + train
     args.out.mkdir(parents=True, exist_ok=True)
     for name, items in (("train", train), ("test", test)):
         with gzip.open(args.out / f"{name}.jsonl.gz", "wt", encoding="utf-8") as f:
