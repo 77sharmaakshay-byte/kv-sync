@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1686/2020:2023-02-22-009",
+ "title": "ANMOL ANEJA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANMOL ANEJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1686/2020",
+ "case_type": "WPMS",
+ "decision_date": "2023-02-22",
+ "cnr": "UKHC010094812020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1686/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjEfcq0DfS1CvhUTjYj%2Bah%2BbRO1nR9HqECCI%2FW7RKnu3S&caseno=WPMS/1686/2020&cCode=1&cino=UKHC010094812020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "133171a598c61822fa349fba6f9f6aaea7959de7a2298ce33077efbacff62d2e",
+ "fetched_at": "2026-10-25T05:24:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

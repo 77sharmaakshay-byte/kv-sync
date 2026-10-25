@@ -1,142 +1,24 @@
 {
  "cnr_number": "UKHC010138622026",
- "case_type": "ABA",
- "filing_number": "ABA /6667/2026",
- "filing_date": "2026-08-04",
- "registration_number": "ABA /330/2026",
- "registration_date": "2026-08-04",
+ "case_type": "",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "case_stage": "",
  "status": "",
- "coram": "Registrar (Judicial)",
- "bench_type": "Single Bench",
+ "coram": "",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "UTTARAKHAND",
- "district": "Dehradun",
- "petitioners": [
-  {
-   "name": "DEVENDRA SINGH CHAUDHARY",
-   "advocate": "SAURABH KUMAR PANDEY"
-  }
- ],
- "respondents": [
-  {
-   "name": "STATE OF UTTARAKHAND",
-   "advocate": "G.A.,"
-  }
- ],
- "acts": [
-  {
-   "act": "Bharatiya Nyaya Sanhita",
-   "sections": "318(4),351(2),336(3),340(2),338"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2026-08-06",
-   "business_date": null,
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": null,
-   "business_date": "2026-10-08",
-   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-10-08",
-   "business_date": "2026-09-11",
-   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-11-05",
-   "business_date": "2026-08-31",
-   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": null,
-   "business_date": "2026-08-11",
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-09-07",
-   "business_date": null,
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-08-11",
-   "business_date": "2026-08-07",
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-08-07",
-   "business_date": "2026-08-06",
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "cause_list_type": "DAILY CAUSE LIST"
-  }
- ],
- "orders": [
-  {
-   "order_date": "2026-08-06",
-   "order_type": "ABA/330/2026",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoDnk0e9Pus%2F%2BKbq7fPPAMhjS7LNEtH3eneMqDEQDJJj&caseno=ABA/330/2026&cCode=1&cino=UKHC010138622026&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2026-08-07",
-   "order_type": "ABA/330/2026",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoDnk0e9Pus%2F%2BKbq7fPPAMhhUQ23uKxii3sqXp2esrNq&caseno=ABA/330/2026&cCode=1&cino=UKHC010138622026&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2026-08-11",
-   "order_type": "ABA/330/2026",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoDnk0e9Pus%2F%2BKbq7fPPAMgZmmM2dsB9D7WHpWq%2FNosB&caseno=ABA/330/2026&cCode=1&cino=UKHC010138622026&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2026-08-31",
-   "order_type": "ABA/330/2026",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoDnk0e9Pus%2F%2BKbq7fPPAMiFSPS8aEo4xLJSetB6ARn1&caseno=ABA/330/2026&cCode=1&cino=UKHC010138622026&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2026-09-11",
-   "order_type": "ABA/330/2026",
-   "judge": "Hon'ble Mr. Justice Alok Mahra",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoDnk0e9Pus%2F%2BKbq7fPPAMieAeEWT5ZUuLrcJfaBx61A&caseno=ABA/330/2026&cCode=1&cino=UKHC010138622026&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  }
- ]
+ "state": "",
+ "district": "",
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
+ "orders": []
 }

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1664/2020:2022-04-01-009",
+ "title": "KHURSHEED AHMED versus UNION OF INDIA",
+ "petitioner": "KHURSHEED AHMED",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMS/1664/2020",
+ "case_type": "WPMS",
+ "decision_date": "2022-04-01",
+ "cnr": "UKHC010093322020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1664/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjH3qhZZu%2FPHyLWw2coKabG8jO61z4qTAvURpLf0ApkLP&caseno=WPMS/1664/2020&cCode=1&cino=UKHC010093322020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a536c837e8784ac6487281becd676e2cd878c7cc94b64419155c09f8a0bb9a0d",
+ "fetched_at": "2026-10-25T05:22:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

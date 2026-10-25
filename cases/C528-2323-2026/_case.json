@@ -1,55 +1,24 @@
 {
  "cnr_number": "UKHC010187812026",
  "case_type": "",
- "filing_number": "C528 /9054/2026",
- "filing_date": "2026-10-15",
- "registration_number": "C528 /2323/2026",
- "registration_date": "2026-10-15",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "",
  "status": "",
- "coram": "Registrar (Judicial)",
- "bench_type": "Single Bench",
+ "coram": "",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "UTTARAKHAND",
- "district": "Haridwar",
- "petitioners": [
-  {
-   "name": "SALEEM AHMED AND ORS",
-   "advocate": "SACHIN KUMAR SHARMA,PRAMOD KUMAR SHARMA,PRAMOD KUMAR SHARMA, ,PRAMOD KUMAR SHARMA"
-  }
- ],
- "respondents": [
-  {
-   "name": "STATE OF UTTARAKHAND",
-   "advocate": "G.A."
-  },
-  {
-   "name": "STATION HOUSE OFFICER",
-   "advocate": "G.A."
-  },
-  {
-   "name": "SMT. NAZRANA",
-   "advocate": ""
-  }
- ],
- "acts": [
-  {
-   "act": "Bharatiya Nagarik Suraksha Sanhita",
-   "sections": "528"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2026-10-26",
-   "business_date": null,
-   "purpose": "FRESH CASES AS DEFECTIVE -236",
-   "judge": "Registrar (Judicial)",
-   "cause_list_type": "DAILY CAUSE LIST"
-  }
- ],
+ "state": "",
+ "district": "",
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
  "orders": []
 }

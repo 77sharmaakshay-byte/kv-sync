@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1686/2020:2025-11-27-011",
+ "title": "ANMOL ANEJA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANMOL ANEJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1686/2020",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-27",
+ "cnr": "UKHC010094812020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1686/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjEfcq0DfS1CvhUTjYj%2Bah%2BaEtuROnTVXT5Ip3D5Wlg4G&caseno=WPMS/1686/2020&cCode=1&cino=UKHC010094812020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "de9de756a4dbca58aba82d978759d4e5fc64c31f379bdd822949910f24f94ab5",
+ "fetched_at": "2026-10-25T05:24:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

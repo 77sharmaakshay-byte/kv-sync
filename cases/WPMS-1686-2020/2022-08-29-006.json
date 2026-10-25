@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1686/2020:2022-08-29-006",
+ "title": "ANMOL ANEJA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANMOL ANEJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1686/2020",
+ "case_type": "WPMS",
+ "decision_date": "2022-08-29",
+ "cnr": "UKHC010094812020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1686/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjEfcq0DfS1CvhUTjYj%2Bah%2BbxYukSBgdCp28sVYGp5Kug&caseno=WPMS/1686/2020&cCode=1&cino=UKHC010094812020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ccc9682d0be92005c5f5601ff91cb1d5af2281fd5ab43d5cefd2a4e622190f5e",
+ "fetched_at": "2026-10-25T05:24:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

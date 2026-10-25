@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/266/2025:2025-06-19-001",
+ "title": "PRAHLAD SINGH versus GOVIND MOHAN",
+ "petitioner": "PRAHLAD SINGH",
+ "respondent": "GOVIND MOHAN",
+ "case_no": "CLCON/266/2025",
+ "case_type": "CLCON",
+ "decision_date": "2025-06-19",
+ "cnr": "UKHC010085182025",
+ "doc_kind": "order",
+ "order_type": "CLCON/266/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyeUneqfQbX6fxoe2TqWWl09sOET2DFLEOKAE%2BJvMeXD&caseno=CLCON/266/2025&cCode=1&cino=UKHC010085182025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "10ca7a33184b332e3c262bbdc83d1345d56303a109b52cbe49edfbe6fc770712",
+ "fetched_at": "2026-10-25T05:22:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

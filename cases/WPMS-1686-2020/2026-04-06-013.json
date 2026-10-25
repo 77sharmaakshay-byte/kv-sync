@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1686/2020:2026-04-06-013",
+ "title": "ANMOL ANEJA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANMOL ANEJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1686/2020",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-06",
+ "cnr": "UKHC010094812020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1686/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjEfcq0DfS1CvhUTjYj%2Bah%2BbkLBV2T9H4Bgtj3Q44LlIg&caseno=WPMS/1686/2020&cCode=1&cino=UKHC010094812020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6b7c7cc3d77e9b988f838280495751cdc04a3d81266a200ea1aecf4b4ca52b69",
+ "fetched_at": "2026-10-25T05:24:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

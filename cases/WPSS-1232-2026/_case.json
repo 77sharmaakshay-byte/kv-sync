@@ -1,95 +1,24 @@
 {
  "cnr_number": "UKHC010075182026",
- "case_type": "WPSS",
- "filing_number": "WPSS /3942/2026",
- "filing_date": "2026-05-05",
- "registration_number": "WPSS /1232/2026",
- "registration_date": "2026-05-05",
+ "case_type": "",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "ORDERS ON APPLICATIONS -22",
+ "case_stage": "",
  "status": "",
- "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
- "bench_type": "Single Bench",
+ "coram": "",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "UTTARAKHAND",
- "district": "Udham Singh Nagar",
- "petitioners": [
-  {
-   "name": "MRS RAJNI NAWANI",
-   "advocate": "SHRUTI JOSHI,YASH PANDEY,YASH PANDEY, YASH PANDEY"
-  }
- ],
- "respondents": [
-  {
-   "name": "STATE OF UTTARAKHAND",
-   "advocate": ""
-  },
-  {
-   "name": "DIRECTOR",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "CHIEF TREASURY OFFICER",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "SUB TREASURY OFFICER",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "DISTRICT ELEMENTARY EDUCATION OFFICER",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "DEPUTY EDUCATION OFFICER KASHIPUR",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "DRAWING AND DISBURSING OFFICER ELEMENTARY EDUCATION",
-   "advocate": "C.S.C."
-  }
- ],
- "acts": [
-  {
-   "act": "Under Article 226 of the Constituion of India",
-   "sections": "226"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2026-05-06",
-   "business_date": null,
-   "purpose": "FRESH CASES AS DEFECTIVE -236",
-   "judge": "Registrar (Judicial)",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-06-08",
-   "business_date": "2026-05-11",
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "cause_list_type": "DAILY CAUSE LIST II"
-  },
-  {
-   "hearing_date": null,
-   "business_date": "2026-05-06",
-   "purpose": "FRESH CASES AS DEFECTIVE -236",
-   "judge": "Registrar (Judicial)",
-   "cause_list_type": "DAILY CAUSE LIST"
-  }
- ],
- "orders": [
-  {
-   "order_date": "2026-05-11",
-   "order_type": "WPSS/1232/2026",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQswqn5NJHXK%2FjmnoAXjAhDCgjX9wlU%2F1TzYj2I5jPTd%2B&caseno=WPSS/1232/2026&cCode=1&cino=UKHC010075182026&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  }
- ]
+ "state": "",
+ "district": "",
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
+ "orders": []
 }

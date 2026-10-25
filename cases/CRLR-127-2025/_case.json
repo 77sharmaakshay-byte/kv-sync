@@ -1,172 +1,24 @@
 {
  "cnr_number": "UKHC010032142025",
- "case_type": "CRLR",
- "filing_number": "CRLR /1637/2025",
- "filing_date": "2025-03-10",
- "registration_number": "CRLR /127/2025",
- "registration_date": "2025-03-10",
+ "case_type": "",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "case_stage": "",
  "status": "",
- "coram": "Hon'ble Mr. Justice Siddhartha Sah",
- "bench_type": "Single Bench",
+ "coram": "",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "UTTARAKHAND",
- "district": "Haridwar",
- "petitioners": [
-  {
-   "name": "KRISHANAVEER",
-   "advocate": "NARENDRA BALI,RAJEEV BHATT,RAJEEV BHATT, ,RAJEEV BHATT"
-  }
- ],
- "respondents": [
-  {
-   "name": "SUDESH KUMAR SAINI   Advocate- PARIKSHIT SAINI 1123",
-   "advocate": ""
-  }
- ],
- "acts": [
-  {
-   "act": "Negotiable Instruments Act, 1881 (Act No. 26 of 1881)",
-   "sections": "138"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2025-03-11",
-   "business_date": null,
-   "purpose": "FRESH CASES AS DEFECTIVE -236",
-   "judge": "Registrar (Judicial)",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": null,
-   "business_date": "2026-02-27",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-02-27",
-   "business_date": "2026-01-08",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "Hon'ble Mr. Justice Ashish Naithani",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-01-08",
-   "business_date": "2026-01-03",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "Hon'ble Mr. Justice Ashish Naithani",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2025-10-16",
-   "business_date": "2025-09-16",
-   "purpose": "ORDER MATTERS -17",
-   "judge": "Hon'ble Mr. Justice Ashish Naithani",
-   "cause_list_type": "STAND OUT CAUSE LIST"
-  },
-  {
-   "hearing_date": "2025-09-16",
-   "business_date": "2025-07-31",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2025-07-31",
-   "business_date": "2025-07-15",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2025-07-15",
-   "business_date": "2025-07-09",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2025-08-08",
-   "business_date": "2025-05-16",
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": null,
-   "business_date": "2025-04-25",
-   "purpose": "FRESH CASES AS DEFECTIVE -236",
-   "judge": "Registrar (Judicial)",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": null,
-   "business_date": "2025-03-11",
-   "purpose": "FRESH CASES AS DEFECTIVE -236",
-   "judge": "Registrar (Judicial)",
-   "cause_list_type": "DAILY CAUSE LIST"
-  }
- ],
- "orders": [
-  {
-   "order_date": "2025-05-16",
-   "order_type": "CRLR/127/2025",
-   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4Npsbi2i04QshZ1y8FEWDWelFQZZhjgv7QOjOql%2BW0Z&caseno=CRLR/127/2025&cCode=1&cino=UKHC010032142025&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2025-07-09",
-   "order_type": "CRLR/127/2025",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4Npsbi2i04QshZ1y8FEWDWo8c9fUUq2bt%2FmU4eK7cSu&caseno=CRLR/127/2025&cCode=1&cino=UKHC010032142025&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2025-07-15",
-   "order_type": "CRLR/127/2025",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4Npsbi2i04QshZ1y8FEWDWHuc6Fhf1CdsTha3xY06%2Bu&caseno=CRLR/127/2025&cCode=1&cino=UKHC010032142025&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2025-07-31",
-   "order_type": "CRLR/127/2025",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4Npsbi2i04QshZ1y8FEWDUnYPQKbxwLQkBfKmkJ32wn&caseno=CRLR/127/2025&cCode=1&cino=UKHC010032142025&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2026-01-03",
-   "order_type": "CRLR/127/2025",
-   "judge": "Hon'ble Mr. Justice Ashish Naithani",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4Npsbi2i04QshZ1y8FEWDU7Ay%2FGgmfYKZ7Z3Od3t%2F9J&caseno=CRLR/127/2025&cCode=1&cino=UKHC010032142025&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2026-01-08",
-   "order_type": "CRLR/127/2025",
-   "judge": "Hon'ble Mr. Justice Ashish Naithani",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4Npsbi2i04QshZ1y8FEWDVuyqCplVUo8AkCFxzh1AhN&caseno=CRLR/127/2025&cCode=1&cino=UKHC010032142025&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  }
- ]
+ "state": "",
+ "district": "",
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
+ "orders": []
 }

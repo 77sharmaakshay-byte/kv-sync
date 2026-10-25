@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1664/2020:2020-10-06-003",
+ "title": "KHURSHEED AHMED versus UNION OF INDIA",
+ "petitioner": "KHURSHEED AHMED",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMS/1664/2020",
+ "case_type": "WPMS",
+ "decision_date": "2020-10-06",
+ "cnr": "UKHC010093322020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1664/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjH3qhZZu%2FPHyLWw2coKabG%2B7NQByVcBb4YLLJD6UrbFx&caseno=WPMS/1664/2020&cCode=1&cino=UKHC010093322020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8b947d650c4e8cffada419c1ed61dea329a5b2c120c705a5e4126e398949df8c",
+ "fetched_at": "2026-10-25T05:22:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

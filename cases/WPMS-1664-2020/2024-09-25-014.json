@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1664/2020:2024-09-25-014",
+ "title": "KHURSHEED AHMED versus UNION OF INDIA",
+ "petitioner": "KHURSHEED AHMED",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMS/1664/2020",
+ "case_type": "WPMS",
+ "decision_date": "2024-09-25",
+ "cnr": "UKHC010093322020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1664/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjH3qhZZu%2FPHyLWw2coKabG8LIY72HtD6nchGZpU9wtPo&caseno=WPMS/1664/2020&cCode=1&cino=UKHC010093322020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "289448ba02c9c234570740429d847fc4a841a05a693160f614a2bdfa46e26d19",
+ "fetched_at": "2026-10-25T05:22:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

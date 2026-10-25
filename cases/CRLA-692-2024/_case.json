@@ -1,85 +1,24 @@
 {
  "cnr_number": "UKHC010179222024",
- "case_type": "CRLA",
- "filing_number": "CRLA /9529/2024",
- "filing_date": "2024-11-13",
- "registration_number": "CRLA /692/2024",
- "registration_date": "2024-11-13",
+ "case_type": "",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "case_stage": "",
  "status": "",
- "coram": "Hon'ble Mr. Justice Alok Mahra",
- "bench_type": "Single Bench",
+ "coram": "",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "UTTARAKHAND",
- "district": "Udham Singh Nagar",
- "petitioners": [
-  {
-   "name": "AMBA TRADING COMPANY",
-   "advocate": ""
-  }
- ],
- "respondents": [
-  {
-   "name": "KUSHWAHA ELECTRICALS",
-   "advocate": "D N SHARMA,"
-  }
- ],
- "acts": [
-  {
-   "act": "Negotiable Instruments Act, 1881 (Act No. 26 of 1881)",
-   "sections": "138"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2026-04-29",
-   "business_date": "2026-03-25",
-   "purpose": "ADMISSION MATTERS -25",
-   "judge": "Hon'ble Mr. Justice Ashish Naithani",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-03-25",
-   "business_date": "2026-02-16",
-   "purpose": "Order on Applications (Time Barred Cases) -250",
-   "judge": "Hon'ble Mr. Justice Ashish Naithani",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": null,
-   "business_date": "2025-08-14",
-   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
-   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": null,
-   "business_date": "2024-12-26",
-   "purpose": "Order on Applications (Time Barred Cases) -250",
-   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2024-12-26",
-   "business_date": "2024-11-14",
-   "purpose": "Time Barred (Fresh Cases) -247",
-   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
-   "cause_list_type": "DAILY CAUSE LIST"
-  }
- ],
- "orders": [
-  {
-   "order_date": "2026-02-16",
-   "order_type": "CRLA/692/2024",
-   "judge": "Hon'ble Mr. Justice Ashish Naithani",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcDBsxuKV%2BLPNGVYRZzmoXklZLZ4HXfuq6lN%2Fnh4UwhdJ&caseno=CRLA/692/2024&cCode=1&cino=UKHC010179222024&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  }
- ]
+ "state": "",
+ "district": "",
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
+ "orders": []
 }
