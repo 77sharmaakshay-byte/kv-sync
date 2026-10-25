@@ -1,24 +1,184 @@
 {
  "cnr_number": "UKHC010140152026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "WPMS",
+ "filing_number": "WPMS /7271/2026",
+ "filing_date": "2026-08-06",
+ "registration_number": "WPMS /2416/2026",
+ "registration_date": "2026-08-06",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-10-27",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani",
  "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
  "state": "",
  "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "petitioners": [
+  {
+   "name": "CHAMAN LAL THROUGH HIS POWER OF ATTORNEY HOLDER HISHANT AHI",
+   "advocate": "VIPUL SHARMA,HISHANT AHI (IN PERSON),HISHANT AHI (IN PERSON), ,NIVESH BAHUGUNA,MANEESH BISHT,KHUSHBOO TIWARI SHARMA,HISHANT AHI (IN PERSON)"
+  },
+  {
+   "name": "BHUSHAN LAL",
+   "advocate": "VIPUL SHARMA,HISHANT AHI (IN PERSON)"
+  },
+  {
+   "name": "Devendra Kumar",
+   "advocate": "VIPUL SHARMA,HISHANT AHI (IN PERSON)"
+  },
+  {
+   "name": "Manan Ahi",
+   "advocate": "VIPUL SHARMA,HISHANT AHI (IN PERSON)"
+  },
+  {
+   "name": "Nivedita Ahi",
+   "advocate": "VIPUL SHARMA,HISHANT AHI (IN PERSON)"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "Harish Belwal",
+   "advocate": ""
+  },
+  {
+   "name": "Sanjay Belwal",
+   "advocate": ""
+  },
+  {
+   "name": "District Magistrate/Collector,Nainital",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "Sher Singh Raikwal",
+   "advocate": ""
+  },
+  {
+   "name": "Sarbjeet Singh",
+   "advocate": ""
+  },
+  {
+   "name": "Jagwinder Singh",
+   "advocate": ""
+  },
+  {
+   "name": "Anurag Singh",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 227 of the Constituion of India",
+   "sections": "227"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-12",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-27",
+   "business_date": "2026-10-06",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-06",
+   "business_date": "2026-09-29",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-29",
+   "business_date": "2026-09-23",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-23",
+   "business_date": "2026-09-15",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-15",
+   "business_date": "2026-09-01",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-01",
+   "business_date": "2026-08-12",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-08-12",
+   "order_type": "WPMS/2416/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuQSxQ9sgoE%2FmiYy9siv1ZxBgYz%2BQzCILgsFJqKh%2BnQK&caseno=WPMS/2416/2026&cCode=1&cino=UKHC010140152026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-01",
+   "order_type": "WPMS/2416/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuQSxQ9sgoE%2FmiYy9siv1ZxgCmOK0LF5T7MLHuWk4uio&caseno=WPMS/2416/2026&cCode=1&cino=UKHC010140152026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-15",
+   "order_type": "WPMS/2416/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuQSxQ9sgoE%2FmiYy9siv1ZwP2n3kZ2rtn%2F38KF3c3ugc&caseno=WPMS/2416/2026&cCode=1&cino=UKHC010140152026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-23",
+   "order_type": "WPMS/2416/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuQSxQ9sgoE%2FmiYy9siv1ZzPnbrQwft0AHPDlyzVSfQG&caseno=WPMS/2416/2026&cCode=1&cino=UKHC010140152026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-29",
+   "order_type": "WPMS/2416/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuQSxQ9sgoE%2FmiYy9siv1ZyAJ5OhOST%2FnflzL9VeeT9r&caseno=WPMS/2416/2026&cCode=1&cino=UKHC010140152026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-06",
+   "order_type": "WPMS/2416/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuQSxQ9sgoE%2FmiYy9siv1Zyi5y9BwqIIWaR2uEThh3is&caseno=WPMS/2416/2026&cCode=1&cino=UKHC010140152026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/200/2026:2026-09-15-003",
+ "title": "LUCKY versus STATE OF UTTARAKHAND",
+ "petitioner": "LUCKY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/200/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010061262026",
+ "doc_kind": "order",
+ "order_type": "CRLA/200/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjt1QB2GUlXY2pCcR%2BSmW47lwcj%2FM5RspuLvs4oAwQUv&caseno=CRLA/200/2026&cCode=1&cino=UKHC010061262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8529cb9dc3a8ee523a0a85c03c4a5adccbc581ad80211b7c435da598aac34982",
+ "fetched_at": "2026-10-25T06:08:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

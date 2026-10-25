@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1825/2025:2026-04-30-002",
+ "title": "PARVINDER SINGH versus ENFORCEMENT OF DIRECTORATE",
+ "petitioner": "PARVINDER SINGH",
+ "respondent": "ENFORCEMENT OF DIRECTORATE",
+ "case_no": "BA1/1825/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-04-30",
+ "cnr": "UKHC010153642025",
+ "doc_kind": "order",
+ "order_type": "BA1/1825/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1buQOPlYqSSP%2FXp0yxn47B%2Be%2BiMdXRvwSOkMuRCsSqw&caseno=BA1/1825/2025&cCode=1&cino=UKHC010153642025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f00f0a7e1e1e71171ed5fd9dee5bd6c42e2ddf34b277e7d77e3f42d5d4c41ec0",
+ "fetched_at": "2026-10-25T06:11:07+00:00",
+ "fetched_by": "fetch_live.py"
+}
