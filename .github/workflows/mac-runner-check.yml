@@ -1,0 +1,27 @@
+# Mac runner ki jaanch (sirf padhna): runner kis repo naam se juda hai (.runner, bina token), kaise chal raha hai,
+# Mac sone ki settings. Repo ka naam badalne ke baad lambe jobs 10 minute par fail hone lage the.
+name: Mac runner jaanch
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: [self-hosted, macOS]
+    timeout-minutes: 5
+    steps:
+      - name: Runner ki settings
+        run: |
+          R="$HOME/actions-runner"
+          echo "== .runner (token nahi hota)"; python3 -c "import json;d=json.load(open('$R/.runner', encoding='utf-8-sig'));print({k: d.get(k) for k in ('agentName', 'gitHubUrl', 'serverUrl', 'serverUrlV2', 'useV2Flow', 'workFolder')})" || true
+          echo "== runner version"; cat "$R/bin/Runner.Listener.deps.json" 2>/dev/null | grep -o '"Runner.Listener/[0-9.]*' | head -1 || true
+          echo "== kaise chal raha (service ya Terminal)"; ls "$R"/.service 2>/dev/null && cat "$R/.service"; pgrep -fl "Runner.Listener|run.sh|runsvc" || true
+          ls ~/Library/LaunchAgents | grep -i actions || true
+          echo "== pichhle job ke runner log (aakhri 40 line, 'renew'/'lock'/'401' dhoondo)"
+          f=$(ls -t "$R"/_diag/Runner_*.log 2>/dev/null | head -1); echo "$f"
+          [ -n "$f" ] && grep -iE "renew|lock|401|403|unauthor|refresh|expired|lost|redirect|krishivlaw|kv-sync" "$f" | tail -n 40 || true
+          echo "== sone ki settings"; pmset -g | grep -iE "sleep|standby|powernap|hibernate" || true
+          pmset -g assertions | grep -iE "PreventSystemSleep|PreventUserIdleSystemSleep|caffeinate" | head -10 || true
