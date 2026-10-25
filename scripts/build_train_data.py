@@ -83,6 +83,15 @@ def split(con, n_test=1000, seed=13):
     return pairs[n_test:], pairs[:n_test], skipped
 
 
+def v1(con, folder=None, n_test=1000):
+    """v1 ke (train, test) headnote jode: 'train-data' branch ki asli files (folder) se, warna dobara bana kar."""
+    if folder:
+        read = lambda n: [json.loads(x) for x in gzip.open(Path(folder) / f"{n}.jsonl.gz", "rt", encoding="utf-8")]  # noqa: E731
+        return read("train"), read("test")
+    train, test, _ = split(con, n_test)
+    return train, test
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--db", required=True, type=Path)

@@ -1,5 +1,5 @@
 # Kaggle par chalne wala launcher (kernel ki code file). Workflow kaggle-train.yml isme
-# train_nyay.py (base64) aur round number bharta hai. Dono T4 GPU par ek saath training (torchrun);
+# train_nyay.py (base64), round number, data (Kaggle dataset) aur learning rate bharta hai. Dono T4 GPU par ek saath training (torchrun);
 # woh shuru mein hi fail ho to ek GPU par.
 import base64
 import os
@@ -9,6 +9,8 @@ import time
 
 os.environ["NYAY_T0"] = str(time.time())
 os.environ["NYAY_ROUND"] = "__ROUND__"
+os.environ["NYAY_DATA"] = "__DATA__"
+os.environ["NYAY_LR"] = "__LR__"
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 WORKER = "/tmp/train_nyay.py"
 with open(WORKER, "wb") as f:

@@ -1,9 +1,12 @@
-# Apna model, round dar round (back to back). Har 3 ghante: Kaggle par training ka kya haal hai?
+# Apna model, round dar round (back to back), mahino tak bina haath lagaye. Har 3 ghante: Kaggle par kya haal hai?
 #   round khatam -> adapter + state.json Kaggle dataset <user>/nyay-model mein (naya version), nateeja 'data' branch
-#                   models/nyay/round-N.json mein, aur turant agla round (training data ka agla hissa).
+#                   models/nyay/round-N.json mein, aur turant agla round (data ka agla hissa).
+#   data khatam  -> plan (kaggle/train/plan.json) ka agla data (models/nyay/phase); plan khatam to ruko.
+#   data abhi Kaggle par nahi bana -> har check par phir dekho.
 #   chal raha    -> kuch nahi.
-#   GPU nahi mila (hafte ka free GPU khatam) -> agle check par phir koshish.
-#   koi aur galti -> ek baar laal (log ke saath), phir ruka rehta hai; dobara: Run workflow -> start.
+#   GPU nahi mila (hafte ka free GPU khatam) / Kaggle ne purana model diya -> agle check par phir koshish.
+#   koi aur galti -> 3 baar turant dobara; phir har 24 ghante dobara, har baar laal (GitHub email karta hai).
+# Har run workflow ko 'enable' karta hai: GitHub 60 din bina activity ke schedule band kar deta hai, yeh na ho.
 # Kaggle ka free GPU hafte mein ~30 ghante; ek round ~10 ghante, to hafte mein ~3 round.
 # Rokna ho to: Actions -> "Kaggle training" -> ... -> Disable workflow.
 name: Kaggle training
@@ -21,6 +24,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # workflow ko chalu rakhna (keepalive)
 
 concurrency:
   group: kaggle-train
@@ -33,7 +37,6 @@ jobs:
     env:
       KERNEL: krishivlaw/nyay-train
       MODEL: krishivlaw/nyay-model
-      DATA: krishivlaw/nyay-train-v1
       M: databranch/models/nyay
     steps:
       - uses: actions/checkout@v4
@@ -62,6 +65,10 @@ jobs:
                       print(f"::add-mask::{v}")
                   f.write(f"{k}={v}\n")
           PY
+      - name: Schedule chalu rakho (60 din wali band-shudgi na ho)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/kaggle-train.yml/enable" || true
       - name: Data branch
         run: |
           git config --global user.name "krishivlaw-bot"
@@ -76,10 +83,13 @@ jobs:
           case "$s" in *running*|*queued*) st=running;; *complete*) st=complete;; *error*|*cancel*) st=error;; *) st=none;; esac
           pushed=$(cat "$M/pushed" 2>/dev/null || true)       # jo round Kaggle par bheja, uska number
           done_r=$(cat "$M/done_round" 2>/dev/null || echo 0)  # jis round ka nateeja aa chuka
+          phase=$(cat "$M/phase" 2>/dev/null || echo 0)        # plan ka kaunsa data
+          plan() { python3 -c "import json,sys;p=json.load(open('kaggle/train/plan.json'))['phases'];i=int(sys.argv[1]);print(p[i][sys.argv[2]] if i<len(p) else '')" "$@"; }
+          echo "plan: $phase — $(plan "$phase" naam)"
           next=""
           if [ "${{ inputs.action }}" = "start" ]; then
             [ "$st" = running ] && { echo "Ek round abhi chal raha hai; naya nahi"; exit 0; }
-            next=$((done_r + 1))
+            next=$((done_r + 1)); rm -f "$M/fails"
           elif [ -z "$pushed" ]; then
             echo "Koi round nahi chal raha (shuru karne ke liye: Run workflow -> start)"; exit 0
           elif [ "$st" = running ] || [ "$st" = none ]; then
@@ -87,13 +97,19 @@ jobs:
           elif [ "$st" = error ]; then
             mkdir -p out && kaggle kernels output "$KERNEL" -p out --file-pattern '.*\.log' >/dev/null 2>&1 || true
             tail -c 6000 out/*.log 2>/dev/null | tr ',' '\n' | grep '"data"' | tail -40 || true
+            read -r n last < "$M/fails" 2>/dev/null || { n=0; last=0; }
+            now=$(date +%s)
             if grep -qs "GPU nahi mila" out/*.log; then
               echo "Round $pushed: GPU nahi mila (hafte ka free GPU khatam?) — phir koshish"; next=$pushed
             elif grep -qs "ka adapter chahiye" out/*.log; then   # Kaggle ne model dataset ka naya version abhi nahi diya
               echo "Round $pushed: Kaggle ne pichhle round ka model purana diya — 3 ghante baad phir koshish"; next=$pushed
+            elif [ "$n" -lt 3 ]; then
+              echo "Round $pushed fail ($((n + 1))/3) — turant dobara"; next=$pushed; echo "$((n + 1)) $now" > "$M/fails"
+            elif [ $((now - last)) -ge 86400 ]; then
+              echo "Round $pushed baar-baar fail ($n) — roz ek baar dobara; log upar"; next=$pushed
+              echo "$((n + 1)) $now" > "$M/fails"; echo "fail=1" >> "$GITHUB_OUTPUT"
             else
-              mv "$M/pushed" "$M/failed"; echo "round $pushed fail" > "$M/failed"
-              echo "fail=1" >> "$GITHUB_OUTPUT"
+              echo "Round $pushed fail ($n baar); agli koshish $(date -d @$((last + 86400)) '+%d-%m %H:%M') UTC ke baad"; exit 0
             fi
           else  # complete
             mkdir -p out && kaggle kernels output "$KERNEL" -p out
@@ -111,22 +127,36 @@ jobs:
               for i in $(seq 1 40); do kaggle datasets status "$MODEL" 2>&1 | grep -qi ready && break; sleep 30; done
               cp "$(find out -name eval.json | head -1)" "$M/round-$r.json"
               python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print({k:d[k] for k in d if k!='samples'})" "$M/round-$r.json"
-              echo "$r" > "$M/done_round"; done_r=$r
+              echo "$r" > "$M/done_round"; done_r=$r; rm -f "$M/fails"
             fi
             if [ "$done_r" -ge "$pushed" ]; then
               left=$(python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print(d['total']-d['offset'])" "$st_file" 2>/dev/null || echo 1)
-              if [ "$left" -le 0 ]; then echo "Saara training data sikhaya ja chuka"; rm -f "$M/pushed"; else next=$((done_r + 1)); fi
+              same=$(python3 -c "import json,sys;print(int(json.load(open(sys.argv[1])).get('data','krishivlaw/nyay-train-v1')==sys.argv[2]))" "$st_file" "$(plan "$phase" data)" 2>/dev/null || echo 0)
+              if [ "$same" = 1 ] && [ "$left" -le 0 ]; then
+                phase=$((phase + 1)); echo "$phase" > "$M/phase"
+                if [ -n "$(plan "$phase" data)" ]; then echo "Data khatam — plan ka agla: $(plan "$phase" naam)"; next=$((done_r + 1))
+                else echo "Poora plan sikhaya ja chuka"; rm -f "$M/pushed"; fi
+              else
+                next=$((done_r + 1))
+              fi
             else
               echo "Kaggle par round $pushed ka nateeja nahi mila (mila round $r) — dobara bhejo"; next=$pushed
             fi
           fi
+          DATA=$(plan "$phase" data); LR=$(plan "$phase" lr)
+          if [ -n "$next" ] && ! kaggle datasets status "$DATA" 2>&1 | grep -qi ready; then
+            echo "Round $next ka data $DATA abhi Kaggle par taiyaar nahi — agle check par phir dekhenge"
+            echo "$next" > "$M/pushed"; next=""
+          fi
           if [ -n "$next" ]; then
             mkdir -p kt
-            python3 - "$next" <<'PY'
+            python3 - "$next" "$DATA" "$LR" <<'PY'
           import base64, sys
           src = open("kaggle/train/launch.py").read()
           w = base64.b64encode(open("kaggle/train/train_nyay.py", "rb").read()).decode()
-          open("kt/launch.py", "w").write(src.replace("__WORKER_B64__", w).replace("__ROUND__", sys.argv[1]))
+          for k, v in (("__WORKER_B64__", w), ("__ROUND__", sys.argv[1]), ("__DATA__", sys.argv[2]), ("__LR__", sys.argv[3])):
+              src = src.replace(k, v)
+          open("kt/launch.py", "w").write(src)
           PY
             src="\"$DATA\""; [ "$next" -gt 1 ] && src="$src, \"$MODEL\""
             cat > kt/kernel-metadata.json <<META
@@ -136,7 +166,7 @@ jobs:
           META
             kaggle kernels push -p kt
             echo "$next" > "$M/pushed"; rm -f "$M/failed"
-            echo "Round $next Kaggle par shuru"
+            echo "Round $next Kaggle par shuru ($DATA, lr $LR)"
           fi
       - name: Data branch par save
         if: always()
@@ -148,4 +178,4 @@ jobs:
       - name: Round fail
         if: steps.step.outputs.fail == '1'
         run: |
-          echo "Training round fail hua (log upar). Theek karke: Run workflow -> start"; exit 1
+          echo "Training round baar-baar fail (log upar). Roz apne aap dobara koshish hogi; theek karke: Run workflow -> start"; exit 1

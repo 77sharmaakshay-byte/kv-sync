@@ -20,7 +20,7 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from build_train_data import split  # noqa: E402
+from build_train_data import v1  # noqa: E402
 
 HEAD_CHARS, TAIL_CHARS = 6000, 3000   # shuru (paksh, tathya, mudda) + ant (aadesh / nateeja)
 IN_TOK = 1536
@@ -118,11 +118,13 @@ def main():
     ap.add_argument("--hc-test", type=int, default=300)
     ap.add_argument("--sc-test", type=int, default=100)
     ap.add_argument("--seed", type=int, default=21)
+    ap.add_argument("--v1", type=Path, help="v1 data ka folder (train-data branch: train/test.jsonl.gz)")
+    ap.add_argument("--v1-test", type=int, default=1000, help="v1 ke jaanch wale headnote faisle (badlo mat)")
     args = ap.parse_args()
     con = sqlite3.connect(f"file:{args.db}?mode=ro", uri=True)
     rng = random.Random(args.seed)
 
-    sc_train_hn, sc_test_hn, _ = split(con)             # v1 wala hi bantwara
+    sc_train_hn, sc_test_hn = v1(con, args.v1, args.v1_test)   # v1 wala hi bantwara
     for p in sc_train_hn + sc_test_hn:
         p["task"] = "headnote"
     skip = {p["key"] for p in sc_test_hn}                # v1 ke test faisle vargikaran mein bhi nahi
