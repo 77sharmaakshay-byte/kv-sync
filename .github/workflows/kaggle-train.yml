@@ -97,7 +97,7 @@ jobs:
           elif [ "$st" = error ]; then
             mkdir -p out && kaggle kernels output "$KERNEL" -p out --file-pattern '.*\.log' >/dev/null 2>&1 || true
             tail -c 6000 out/*.log 2>/dev/null | tr ',' '\n' | grep '"data"' | tail -40 || true
-            read -r n last < "$M/fails" 2>/dev/null || { n=0; last=0; }
+            n=0; last=0; [ -f "$M/fails" ] && read -r n last < "$M/fails"
             now=$(date +%s)
             if grep -qs "GPU nahi mila" out/*.log; then
               echo "Round $pushed: GPU nahi mila (hafte ka free GPU khatam?) — phir koshish"; next=$pushed
@@ -125,6 +125,14 @@ jobs:
                 kaggle datasets create -p up
               fi
               for i in $(seq 1 40); do kaggle datasets status "$MODEL" 2>&1 | grep -qi ready && break; sleep 30; done
+              # 'ready' ke baad bhi Kaggle kuch der purana version deta hai (round 8 isi se ruka): naya state.json dikhe tab aage
+              for i in $(seq 1 30); do
+                rm -rf chk && mkdir chk && kaggle datasets download "$MODEL" -f state.json -p chk >/dev/null 2>&1 || true
+                for z in chk/*.zip; do [ -f "$z" ] && unzip -o -q "$z" -d chk; done
+                python3 -c "import json,sys;sys.exit(json.load(open('chk/state.json'))['round']!=int(sys.argv[1]))" "$r" 2>/dev/null && { echo "naya model Kaggle par dikh raha (round $r)"; break; }
+                sleep 60
+              done
+              sleep 120
               cp "$(find out -name eval.json | head -1)" "$M/round-$r.json"
               python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print({k:d[k] for k in d if k!='samples'})" "$M/round-$r.json"
               echo "$r" > "$M/done_round"; done_r=$r; rm -f "$M/fails"; echo "app=1" >> "$GITHUB_OUTPUT"
