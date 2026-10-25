@@ -792,6 +792,49 @@
   }
 
   // ---------- Main (settings) ----------
+  // Apna model (Kaggle par training): har round ke baad data/model.json naya (scripts/build_app_data.py)
+  function viewModel() {
+    setTab('settings');
+    var head = '<header class="hero"><a class="back" href="#/settings">' + ICON_BACK + 'Main</a><h1>Apna model</h1>' +
+      '<div class="sub">Kaggle par roz padh raha hai; har round ke baad yahan apne aap naya haal.</div></header>';
+    getJSON('data/model.json').then(function (d) {
+      var rs = d.rounds, last = rs[rs.length - 1];
+      var name = function (data) {
+        var ph = d.phases.filter(function (p) { return p.data === data; })[0];
+        return ph ? ph.naam : 'Supreme Court headnote (pehla daur)';
+      };
+      var cur = d.phases[d.phase], inCur = rs.filter(function (r) { return cur && r.data === cur.data; });
+      var at = inCur.length ? inCur[inCur.length - 1] : null;
+      var pct = at && at.total ? Math.min(100, Math.round(100 * at.to / at.total)) : 0;
+      var pc = function (x) { return x == null ? '–' : Math.round(x * 100) + '%'; };
+      var h = '<div class="card key"><span class="lbl brand">Abhi</span><p class="p"><b>' + esc(cur ? cur.naam : 'Poora plan ho gaya') + '</b></p>' +
+        (at && at.stage ? '<span class="muted">Padh raha hai: ' + esc(at.stage) + ' wale faisle</span>' : '') +
+        '<div class="meter"><i style="width:' + pct + '%"></i></div><span class="muted">' + (at ? at.to.toLocaleString('en-IN') + ' / ' + at.total.toLocaleString('en-IN') + (at.mode === 'padhai' ? ' tukde' : ' faisle') + ' · ' : '') +
+        pct + '%' + (d.running ? ' · round ' + esc(d.running) + ' Kaggle par chal raha' : '') + '</span></div>';
+      h += '<div class="card"><span class="lbl">Plan</span>' + d.phases.map(function (p, i) {
+        var st = i < d.phase ? 'good">✓ ho gaya' : i === d.phase ? 'blue">chal raha' : '">baaki';
+        return '<div class="pt"><span class="chip ' + st + '</span><span>' + esc(p.naam) + '</span></div>';
+      }).join('') + '</div>';
+      h += '<div class="card"><span class="lbl">Headnote likhna (court ke headnote se milan, 20 faisle)</span>' +
+        '<p class="p">Bina training: <b>' + pc(last.rougeL_base) + '</b> · Apna model: <b>' + pc(last.rougeL_ours) + '</b></p>' +
+        (last.sahi_shreni_ours != null ? '<p class="p">Chhantai sahi — shreni ' + pc(last.sahi_shreni_ours) + ', vishay ' + pc(last.sahi_vishay_ours) + ', nateeja ' + pc(last.sahi_nateeja_ours) +
+          ' <span class="muted">(bina training: ' + pc(last.sahi_shreni_base) + ', ' + pc(last.sahi_vishay_base) + ', ' + pc(last.sahi_nateeja_base) + ')</span></p>' : '') +
+        (last.loss_ours != null ? '<p class="muted">Na padhe faislon par andaaze ki galti: ' + last.loss_base.toFixed(2) + ' → ' + last.loss_ours.toFixed(2) + ' (kam = behtar)</p>' : '') +
+        '<details><summary class="muted">Har round</summary>' + rs.slice().reverse().map(function (r) {
+          return '<div class="pt"><b>' + r.round + '</b><span>' + esc(name(r.data)) + (r.stage ? ' · ' + esc(r.stage) : '') + ' · headnote ' + pc(r.rougeL_ours) + '</span></div>';
+        }).join('') + '</details></div>';
+      if (d.sample) h += '<div class="card"><span class="lbl">Namoona: ' + esc(d.sample.title) + '</span>' +
+        '<span class="lbl good">Court ka headnote</span><p class="p">' + esc(d.sample.court) + '</p>' +
+        '<span class="lbl brand">Apne model ne likha</span><p class="p">' + esc(d.sample.ours) + '</p></div>';
+      (d.v_samples || []).forEach(function (v) {
+        h += '<div class="card"><span class="lbl">' + esc(v.court === 'UKHC' ? 'Nainital HC' : 'Supreme Court') + ' · chhantai</span>' +
+          '<p class="p"><b>Database:</b> ' + esc(v.gold).replace(/\n/g, '<br>') + '</p><p class="p"><b>Model:</b> ' + esc(v.ours).replace(/\n/g, '<br>') + '</p></div>';
+      });
+      h += '<p class="muted">Model ka likha abhi jaancha nahi jaata; case mein hamesha asli faisla aur court ka order dekhein.</p>';
+      render(head + '<div class="pad">' + h + '</div>');
+    }).catch(function () { render(head + '<div class="pad"><div class="empty">Model ka haal abhi nahi mila.</div></div>'); });
+  }
+
   function viewSettings() {
     setTab('settings');
     var name = store('ns-name') || '';
@@ -805,6 +848,7 @@
       '<button class="btn" type="submit">Save karo</button></form>') +
       '<div class="card"><span class="lbl">Main kaun hoon</span><p class="p">' + (party ? 'Party / aam vyakti' : 'Advocate') + '</p>' +
       '<button type="button" id="sw" class="btn ghost">' + (party ? 'Advocate wala app dikhao' : 'Party (apna case) wala app dikhao') + '</button></div>' +
+      '<a class="card link" href="#/model"><span class="lbl brand">Apna model</span><span class="p">Kitna padh liya, kaisa likh raha hai' + ICON_NEXT + '</span></a>' +
       '<div class="card"><span class="lbl">Phone par app ki tarah</span><p class="p"><b>iPhone:</b> Safari → Share → "Add to Home Screen".<br><b>Android:</b> Chrome → ⋮ menu → "Add to Home screen" / "Install app".</p></div>' +
       '<p class="muted">Cause list apne aap aati hai: court ki site se shaam 5 se 9 baje tak har ghante (agle din ki) aur subah; eCourts se subah 6, 8, 10 aur shaam 6, 7 baje.</p></div>');
     var f = document.getElementById('f');
@@ -854,6 +898,7 @@
     if (path.indexOf('/sj/') === 0) return viewSearchJudgment(path.slice(4), params);
     if (path === '/mine') return viewMine();
     if (path === '/settings') return viewSettings();
+    if (path === '/model') return viewModel();
     if (path.indexOf('/case/') === 0) return viewCase(path.slice(6), params);
     if (path.indexOf('/j/') === 0) return viewJudgment(decodeURIComponent(path.slice(3)), params);
     viewHome();

@@ -127,7 +127,7 @@ jobs:
               for i in $(seq 1 40); do kaggle datasets status "$MODEL" 2>&1 | grep -qi ready && break; sleep 30; done
               cp "$(find out -name eval.json | head -1)" "$M/round-$r.json"
               python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print({k:d[k] for k in d if k!='samples'})" "$M/round-$r.json"
-              echo "$r" > "$M/done_round"; done_r=$r; rm -f "$M/fails"
+              echo "$r" > "$M/done_round"; done_r=$r; rm -f "$M/fails"; echo "app=1" >> "$GITHUB_OUTPUT"
             fi
             if [ "$done_r" -ge "$pushed" ]; then
               left=$(python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print(d['total']-d['offset'])" "$st_file" 2>/dev/null || echo 1)
@@ -166,7 +166,7 @@ jobs:
           META
             kaggle kernels push -p kt
             echo "$next" > "$M/pushed"; rm -f "$M/failed"
-            echo "Round $next Kaggle par shuru ($DATA, lr $LR)"
+            echo "Round $next Kaggle par shuru ($DATA, lr $LR)"; echo "app=1" >> "$GITHUB_OUTPUT"
           fi
       - name: Data branch par save
         if: always()
@@ -175,6 +175,9 @@ jobs:
           git add models
           git diff --cached --quiet || git commit -qm "nyay model: $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
           git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }  # doosre workflow ne beech mein push kiya ho
+      - name: App mein naya haal (Main > Apna model)
+        if: steps.step.outputs.app == '1'
+        run: sh scripts/publish_site.sh databranch || echo "Site abhi update nahi hui; agle court data ke saath ho jayegi"
       - name: Round fail
         if: steps.step.outputs.fail == '1'
         run: |

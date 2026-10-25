@@ -160,3 +160,6 @@ button.chip { border: 0; cursor: pointer; font: inherit; font-size: 12px; font-w
 .nav[hidden] { display: none; }
 
 a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid var(--brand); outline-offset: 2px; }
+.meter { height: 8px; border-radius: 4px; background: var(--line-2); overflow: hidden; }
+.meter > i { display: block; height: 100%; background: var(--brand-fill); }
+.pt > .chip { flex: none; white-space: nowrap; }

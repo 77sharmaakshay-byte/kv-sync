@@ -205,6 +205,34 @@ def build_cases(src, out):
     return ids
 
 
+def build_model(src, out):
+    """Apne model ki padhai (Kaggle training): har round ka score, abhi kya padh raha hai, ek-do namoone.
+    data branch models/nyay/round-N.json (kaggle-train.yml) + repo ka kaggle/train/plan.json -> model.json."""
+    m = src / "models" / "nyay"
+    plan_file = Path(__file__).resolve().parent.parent / "kaggle" / "train" / "plan.json"
+    phases = json.loads(plan_file.read_text(encoding="utf-8"))["phases"] if plan_file.exists() else []
+    rounds = []
+    for f in sorted(m.glob("round-*.json"), key=lambda x: int(re.sub(r"\D", "", x.stem) or 0)):
+        d = json.loads(f.read_text(encoding="utf-8"))
+        r = {k: d.get(k) for k in ("round", "data", "mode", "stage", "trained", "from", "to", "total", "rougeL_base",
+                                   "rougeL_ours", "loss_base", "loss_ours", "sahi_shreni_ours", "sahi_vishay_ours",
+                                   "sahi_nateeja_ours", "sahi_shreni_base", "sahi_vishay_base", "sahi_nateeja_base")
+             if d.get(k) is not None}
+        r.setdefault("data", "krishivlaw/nyay-train-v1")
+        rounds.append(r)
+        last = d
+    if not rounds:
+        return
+    best = max(last.get("samples") or [{}], key=lambda x: x.get("rougeL_ours", 0))
+    sample = {k: (best.get(k) or "")[:900] for k in ("title", "court", "ours")} if best.get("ours") else None
+    read = lambda n: (m / n).read_text().strip() if (m / n).exists() else ""  # noqa: E731
+    doc = {"rounds": rounds, "phases": [{"data": p["data"], "naam": p["naam"]} for p in phases],
+           "phase": int(read("phase") or 0), "running": read("pushed"), "sample": sample,
+           "v_samples": [{k: x.get(k) for k in ("court", "gold", "ours", "marks")}
+                         for x in (last.get("v_samples") or [])[:4]]}
+    (out / "model.json").write_text(json.dumps(doc, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--data-branch", required=True, type=Path)
@@ -221,6 +249,7 @@ def main():
     url = args.data_branch / "state" / "search_url"   # .github/workflows/mac-search.yml: keyword search server (Mac)
     if url.exists():
         (out / "search.json").write_text(json.dumps({"url": url.read_text().strip()}), encoding="utf-8")
+    build_model(args.data_branch, out)
     now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes")
     (out / "index.json").write_text(json.dumps({"generated_at": now, "dates": dates, "cases": cases},
                                                ensure_ascii=False, indent=1), encoding="utf-8")
