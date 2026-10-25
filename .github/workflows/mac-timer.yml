@@ -29,6 +29,7 @@ jobs:
           D="$HOME/nyay-search/timer"; mkdir -p "$D"
           cp scripts/ukhc_ehcr.py scripts/mac_ehcr_timer.sh "$D/" && chmod +x "$D/mac_ehcr_timer.sh"
           ( umask 077; printf '%s' "$TOKEN" > "$D/gh_token" )
+          printf '%s' "${{ github.repository }}" > "$D/repo"   # repo ka naam badle to bas ise dobara chalao
           P="$HOME/Library/LaunchAgents/in.krishivlaw.ehcr.plist"; mkdir -p "$(dirname "$P")"
           cat > "$P" <<PLIST
           <?xml version="1.0" encoding="UTF-8"?>

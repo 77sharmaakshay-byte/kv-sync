@@ -5,11 +5,11 @@
 # Token: ~/nyay-search/timer/gh_token (GitHub secret DISPATCH_TOKEN; is repo ka Contents + Actions likhna).
 set -u
 D="$HOME/nyay-search/timer"
-REPO="77sharmaakshay-byte/krishivlaw"
+REPO=$(cat "$D/repo" 2>/dev/null || echo "77sharmaakshay-byte/krishivlaw")   # mac-timer.yml likhta hai
 cd "$D" || exit 1
 log() { echo "$(date '+%F %T') $*" >> "$D/timer.log"; }
 TOKEN=$(cat "$D/gh_token" 2>/dev/null) || { log "gh_token nahi"; exit 1; }
-api() { curl -sS --max-time 120 -H "Authorization: Bearer $TOKEN" -H "Accept: application/vnd.github+json" "$@"; }
+api() { curl -sSL --max-time 120 -H "Authorization: Bearer $TOKEN" -H "Accept: application/vnd.github+json" "$@"; }
 jid() { /usr/bin/python3 -c 'import json,sys; print(json.load(sys.stdin).get("id", ""))' 2>/dev/null; }
 
 for try in 1 2 3; do   # site kabhi der se jawab deti hai
