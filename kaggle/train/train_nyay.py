@@ -126,15 +126,26 @@ def collate(batch):
             "attention_mask": torch.ones_like(ids), "logits_to_keep": keep}
 
 
-OFF = prev["offset"] if prev.get("data", V1) == DATA else 0   # naya data: shuru se
+# Har data kahan tak padha (plan mein ek data do hisson mein: SC Constitution Bench, phir HC, phir SC baaki)
+OFFSETS = dict(prev.get("offsets") or {})
+OFFSETS.setdefault(prev.get("data", V1), prev["offset"])
+FROM = os.environ.get("NYAY_FROM", "")   # plan ka "from": is daur mein data shuru se/yahan se (jaise kaam dobara)
+if prev.get("data", V1) == DATA:
+    OFF = prev["offset"]
+elif FROM.isdigit():
+    OFF = int(FROM)
+else:
+    OFF = OFFSETS.get(DATA, 0)
+UPTO = int(os.environ.get("NYAY_UPTO") or 0)   # plan ka "upto": daur yahan tak (jaise SC sirf 5+ judge)
+END = min(OFF + N_TRAIN, UPTO) if UPTO else OFF + N_TRAIN
 n_replay = 0
 if MODE == "padhai":
     # kram se (bade bench pehle): jin shard mein [OFF, OFF+N) aata hai wahi kholo; 10% pichhle padhe hisse se
     TOTAL, SH = INDEX["chunks"], INDEX["shard"]
     raw = []
-    for k in range(OFF // SH, min(INDEX["shards"], -(-(OFF + N_TRAIN) // SH))):
+    for k in range(OFF // SH, min(INDEX["shards"], -(-END // SH))):
         part = lines(f"padhai-{k + 1:05d}.jsonl.gz", shuffle=False)
-        raw += part[max(0, OFF - k * SH):OFF + N_TRAIN - k * SH]
+        raw += part[max(0, OFF - k * SH):END - k * SH]
     rng = random.Random(ROUND)
     if OFF >= SH:
         old = lines(f"padhai-{rng.randrange(OFF // SH) + 1:05d}.jsonl.gz", shuffle=False)
@@ -165,7 +176,7 @@ if MODE == "padhai":
 else:
     all_train = lines("train.jsonl.gz")
     TOTAL = len(all_train)
-    train = [encode(json.loads(x)) for x in all_train[OFF:OFF + N_TRAIN]]
+    train = [encode(json.loads(x)) for x in all_train[OFF:END]]
     del all_train
     log(f"round {ROUND}: train {len(train)} ({OFF}-{OFF + len(train)} / {TOTAL})")
 # jaanch: headnote ke wahi 1000 (v1 wale kram mein) -> Random(7) se wahi 20 har daur mein; vargikaran alag
@@ -329,7 +340,8 @@ if ppl:
     summary["loss_ours"] = round(sum(o for _, o in ppl) / len(ppl), 4)
 json.dump(dict(summary, samples=samples, v_samples=v_samples[:40]), open(f"{OUT}/eval.json", "w"),
           ensure_ascii=False, indent=1)
-json.dump({"round": ROUND, "data": DATA, "offset": OFF + trained, "total": TOTAL, "base": base_cache,
+OFFSETS[DATA] = OFF + trained
+json.dump({"round": ROUND, "data": DATA, "offset": OFF + trained, "total": TOTAL, "offsets": OFFSETS, "base": base_cache,
            "history": prev.get("history", []) + [summary]},
           open(f"{OUT}/adapter/state.json", "w"), ensure_ascii=False, indent=1)
 log({k: v for k, v in summary.items() if k not in ("base_model",)})

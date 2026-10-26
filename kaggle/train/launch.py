@@ -11,6 +11,8 @@ os.environ["NYAY_T0"] = str(time.time())
 os.environ["NYAY_ROUND"] = "__ROUND__"
 os.environ["NYAY_DATA"] = "__DATA__"
 os.environ["NYAY_LR"] = "__LR__"
+os.environ["NYAY_UPTO"] = "__UPTO__"
+os.environ["NYAY_FROM"] = "__FROM__"
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 WORKER = "/tmp/train_nyay.py"
 with open(WORKER, "wb") as f:

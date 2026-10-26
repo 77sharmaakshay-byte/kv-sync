@@ -805,11 +805,12 @@
       };
       var cur = d.phases[d.phase], inCur = rs.filter(function (r) { return cur && r.data === cur.data; });
       var at = inCur.length ? inCur[inCur.length - 1] : null;
-      var pct = at && at.total ? Math.min(100, Math.round(100 * at.to / at.total)) : 0;
+      var upto = (cur && cur.upto) || (at && at.total);   // daur sirf data ke ek hisse tak ho sakta hai
+      var pct = at && upto ? Math.min(100, Math.round(100 * at.to / upto)) : 0;
       var pc = function (x) { return x == null ? '–' : Math.round(x * 100) + '%'; };
       var h = '<div class="card key"><span class="lbl brand">Abhi</span><p class="p"><b>' + esc(cur ? cur.naam : 'Poora plan ho gaya') + '</b></p>' +
         (at && at.stage ? '<span class="muted">Padh raha hai: ' + esc(at.stage) + ' wale faisle</span>' : '') +
-        '<div class="meter"><i style="width:' + pct + '%"></i></div><span class="muted">' + (at ? at.to.toLocaleString('en-IN') + ' / ' + at.total.toLocaleString('en-IN') + (at.mode === 'padhai' ? ' tukde' : ' faisle') + ' · ' : '') +
+        '<div class="meter"><i style="width:' + pct + '%"></i></div><span class="muted">' + (at ? Math.min(at.to, upto).toLocaleString('en-IN') + ' / ' + upto.toLocaleString('en-IN') + (at.mode === 'padhai' ? ' tukde' : ' faisle') + ' · ' : '') +
         pct + '%' + (d.running ? ' · round ' + esc(d.running) + ' Kaggle par chal raha' : '') + '</span></div>';
       h += '<div class="card"><span class="lbl">Plan</span>' + d.phases.map(function (p, i) {
         var st = i < d.phase ? 'good">✓ ho gaya' : i === d.phase ? 'blue">chal raha' : '">baaki';

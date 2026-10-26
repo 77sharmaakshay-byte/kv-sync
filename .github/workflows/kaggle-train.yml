@@ -84,7 +84,7 @@ jobs:
           pushed=$(cat "$M/pushed" 2>/dev/null || true)       # jo round Kaggle par bheja, uska number
           done_r=$(cat "$M/done_round" 2>/dev/null || echo 0)  # jis round ka nateeja aa chuka
           phase=$(cat "$M/phase" 2>/dev/null || echo 0)        # plan ka kaunsa data
-          plan() { python3 -c "import json,sys;p=json.load(open('kaggle/train/plan.json'))['phases'];i=int(sys.argv[1]);print(p[i][sys.argv[2]] if i<len(p) else '')" "$@"; }
+          plan() { python3 -c "import json,sys;p=json.load(open('kaggle/train/plan.json'))['phases'];i=int(sys.argv[1]);print(p[i].get(sys.argv[2], '') if i<len(p) else '')" "$@"; }
           echo "plan: $phase — $(plan "$phase" naam)"
           next=""
           if [ "${{ inputs.action }}" = "start" ]; then
@@ -139,7 +139,7 @@ jobs:
               cp "$M/round-$r.json" up/eval.json; echo "saved=$r" >> "$GITHUB_OUTPUT"
             fi
             if [ "$done_r" -ge "$pushed" ]; then
-              left=$(python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print(d['total']-d['offset'])" "$st_file" 2>/dev/null || echo 1)
+              left=$(python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print(int(sys.argv[2] or d['total'])-d['offset'])" "$st_file" "$(plan "$phase" upto)" 2>/dev/null || echo 1)
               same=$(python3 -c "import json,sys;print(int(json.load(open(sys.argv[1])).get('data','krishivlaw/nyay-train-v1')==sys.argv[2]))" "$st_file" "$(plan "$phase" data)" 2>/dev/null || echo 0)
               if [ "$same" = 1 ] && [ "$left" -le 0 ]; then
                 phase=$((phase + 1)); echo "$phase" > "$M/phase"
@@ -152,18 +152,19 @@ jobs:
               echo "Kaggle par round $pushed ka nateeja nahi mila (mila round $r) — dobara bhejo"; next=$pushed
             fi
           fi
-          DATA=$(plan "$phase" data); LR=$(plan "$phase" lr)
+          DATA=$(plan "$phase" data); LR=$(plan "$phase" lr); UPTO=$(plan "$phase" upto); FROM=$(plan "$phase" from)
           if [ -n "$next" ] && ! kaggle datasets status "$DATA" 2>&1 | grep -qi ready; then
             echo "Round $next ka data $DATA abhi Kaggle par taiyaar nahi — agle check par phir dekhenge"
             echo "$next" > "$M/pushed"; next=""
           fi
           if [ -n "$next" ]; then
             mkdir -p kt
-            python3 - "$next" "$DATA" "$LR" <<'PY'
+            python3 - "$next" "$DATA" "$LR" "$UPTO" "$FROM" <<'PY'
           import base64, sys
           src = open("kaggle/train/launch.py").read()
           w = base64.b64encode(open("kaggle/train/train_nyay.py", "rb").read()).decode()
-          for k, v in (("__WORKER_B64__", w), ("__ROUND__", sys.argv[1]), ("__DATA__", sys.argv[2]), ("__LR__", sys.argv[3])):
+          for k, v in (("__WORKER_B64__", w), ("__ROUND__", sys.argv[1]), ("__DATA__", sys.argv[2]), ("__LR__", sys.argv[3]),
+                       ("__UPTO__", sys.argv[4]), ("__FROM__", sys.argv[5])):
               src = src.replace(k, v)
           open("kt/launch.py", "w").write(src)
           PY

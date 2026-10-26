@@ -226,7 +226,7 @@ def build_model(src, out):
     best = max(last.get("samples") or [{}], key=lambda x: x.get("rougeL_ours", 0))
     sample = {k: (best.get(k) or "")[:900] for k in ("title", "court", "ours")} if best.get("ours") else None
     read = lambda n: (m / n).read_text().strip() if (m / n).exists() else ""  # noqa: E731
-    doc = {"rounds": rounds, "phases": [{"data": p["data"], "naam": p["naam"]} for p in phases],
+    doc = {"rounds": rounds, "phases": [{k: p[k] for k in ("data", "naam", "upto") if k in p} for p in phases],
            "phase": int(read("phase") or 0), "running": read("pushed"), "sample": sample,
            "v_samples": [{k: x.get(k) for k in ("court", "gold", "ours", "marks")}
                          for x in (last.get("v_samples") or [])[:4]]}

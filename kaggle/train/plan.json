@@ -1,9 +1,32 @@
 {
- "_": "Training ka poora plan, kram se. Ek data khatam → agla apne aap (.github/workflows/kaggle-train.yml). Data: .github/workflows/kaggle-data.yml banata hai.",
+ "_": "Training ka poora plan, kram se. Ek daur khatam (data ya 'upto' tak) -> agla apne aap (.github/workflows/kaggle-train.yml). 'upto' = data mein yahan tak; 'from' = daur shuru mein yahan se (warna jahan pichhli baar ruka). Data: .github/workflows/kaggle-data.yml.",
  "phases": [
-  {"data": "krishivlaw/nyay-padhai-sc-v2", "lr": "5e-5", "naam": "Supreme Court padhai: 7+ judge → 5 → 3 → 2 → 1"},
-  {"data": "krishivlaw/nyay-kaam-v2", "lr": "5e-5", "naam": "Kaam: shreni/vishay/nateeja (Nainital HC + SC) + headnote dohrana"},
-  {"data": "krishivlaw/nyay-padhai-hc-v2", "lr": "5e-5", "naam": "Nainital HC padhai: Division Bench → Single Bench"},
-  {"data": "krishivlaw/nyay-kaam-v2", "lr": "3e-5", "naam": "Kaam dobara (padhai ke baad pakka karna)"}
+  {
+   "data": "krishivlaw/nyay-padhai-sc-v2",
+   "lr": "5e-5",
+   "upto": 55704,
+   "naam": "Supreme Court Constitution Bench: 7+ → 5-6 judge"
+  },
+  {
+   "data": "krishivlaw/nyay-padhai-hc-v2",
+   "lr": "5e-5",
+   "naam": "Nainital HC padhai: Division Bench → Single Bench"
+  },
+  {
+   "data": "krishivlaw/nyay-kaam-v2",
+   "lr": "5e-5",
+   "naam": "Kaam: shreni/vishay/nateeja (Nainital HC + SC) + headnote dohrana"
+  },
+  {
+   "data": "krishivlaw/nyay-padhai-sc-v2",
+   "lr": "5e-5",
+   "naam": "Supreme Court padhai baaki: 3-4 → 2 → 1 judge"
+  },
+  {
+   "data": "krishivlaw/nyay-kaam-v2",
+   "lr": "3e-5",
+   "from": 0,
+   "naam": "Kaam dobara (padhai ke baad pakka karna)"
+  }
  ]
 }
