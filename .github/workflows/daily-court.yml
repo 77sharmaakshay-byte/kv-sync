@@ -1,4 +1,5 @@
-# Roz ka court data — GitHub apne aap chalata hai (India time 06:03, 08:03, 10:03 aur shaam 18:03, 19:03).
+# Roz ka court data — GitHub apne aap chalata hai (India time 06:03, 08:03, 10:03 aur shaam 5:33 se 9:33 har aadhe
+# ghante; GitHub ka schedule kabhi-kabhi chhod deta hai, isliye zyada baar). Mac ki zaroorat nahi (eCourts).
 # 1. Nainital HC ki cause list: subah aaj ki, aur har run mein aage ke 3 court din ki (court pehle daal deta hai).
 #    Jis run mein mil gayi, us tareekh ke baaki runs kuch nahi karte; mil te hi app (site) par.
 # 2. Scraper (SC latest + Nainital HC ke naye disposed cases): din mein ek hi baar, subah.
@@ -11,8 +12,8 @@ on:
     - cron: '33 0 * * *'   # 06:03 IST
     - cron: '33 2 * * *'   # 08:03 IST
     - cron: '33 4 * * *'   # 10:03 IST
-    - cron: '33 12 * * *'  # 18:03 IST — agle din ki list
-    - cron: '33 13 * * *'  # 19:03 IST — agle din ki list
+    - cron: '3,33 12-15 * * *'  # 17:33-21:03 IST har aadha ghanta — agle din ki list (aur badli hui)
+    - cron: '3 16 * * *'        # 21:33 IST
   workflow_dispatch:
     inputs:
       date:
@@ -72,11 +73,14 @@ jobs:
               i=$((i + 1))
             done
           fi
-          TODO=""
+          TODO=""; NEXT=""
           for d in $DATES; do
+            [ "$d" != "$TODAY" ] && [ -z "$NEXT" ] && NEXT=$d   # agla court din
             f="databranch/causelist/$d/index.json"
             if [ "$FORCE" = "true" ] || [ ! -f "$f" ]; then
               TODO="$TODO $d"
+            elif [ "$d" = "$NEXT" ] && [ "$H" -ge 16 ]; then   # shaam ko kal ki list har baar dobara (court badalta hai)
+              TODO="$TODO $d:dobara"
             elif [ "$d" = "$TODAY" ] && [ "$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1])).get("fetched",""))' "$f")" != "$TODAY" ]; then
               TODO="$TODO $d:dobara"
             fi
