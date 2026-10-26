@@ -136,6 +136,7 @@ jobs:
               cp "$(find out -name eval.json | head -1)" "$M/round-$r.json"
               python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print({k:d[k] for k in d if k!='samples'})" "$M/round-$r.json"
               echo "$r" > "$M/done_round"; done_r=$r; rm -f "$M/fails"; echo "app=1" >> "$GITHUB_OUTPUT"
+              cp "$M/round-$r.json" up/eval.json; echo "saved=$r" >> "$GITHUB_OUTPUT"
             fi
             if [ "$done_r" -ge "$pushed" ]; then
               left=$(python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print(d['total']-d['offset'])" "$st_file" 2>/dev/null || echo 1)
@@ -183,6 +184,26 @@ jobs:
           git add models
           git diff --cached --quiet || git commit -qm "nyay model: $(TZ=Asia/Kolkata date '+%d-%m-%Y %H:%M')"
           git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }  # doosre workflow ne beech mein push kiya ho
+      - name: Doosra backup (Hugging Face, private) — Kaggle ko kuch ho to bhi har round ka model bacha rahe
+        if: steps.step.outputs.saved != ''
+        continue-on-error: true
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          ROUND: ${{ steps.step.outputs.saved }}
+        run: |
+          [ -n "$HF_TOKEN" ] || { echo "HF_TOKEN secret nahi; backup sirf Kaggle versions mein"; exit 0; }
+          pip install --quiet huggingface_hub
+          python3 - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          api = HfApi(token=os.environ["HF_TOKEN"])
+          repo = f"{api.whoami()['name']}/nyay-model"
+          api.create_repo(repo, repo_type="model", private=True, exist_ok=True)
+          r = int(os.environ["ROUND"])
+          api.upload_folder(folder_path="up", repo_id=repo, path_in_repo=f"round-{r:03d}", commit_message=f"round {r}",
+                            allow_patterns=["adapter_config.json", "adapter_model.safetensors", "state.json", "eval.json"])
+          print(f"backup: {repo} (private) / round-{r:03d}")
+          PY
       - name: App mein naya haal (Main > Apna model)
         if: steps.step.outputs.app == '1'
         run: sh scripts/publish_site.sh databranch || echo "Site abhi update nahi hui; agle court data ke saath ho jayegi"
