@@ -22,6 +22,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # Mac timer ki file na mile to Mac runner wala run
 
 jobs:
   ehcr:
@@ -71,7 +72,11 @@ jobs:
           INBOX: ${{ inputs.inbox }}
         run: |
           case "$INBOX" in ehcr-[0-9]*-[0-9]*.tar.gz) ;; *) echo "galat naam: $INBOX"; exit 1;; esac
-          gh release download ehcr-inbox -p "$INBOX" -D .
+          if ! gh release download ehcr-inbox -p "$INBOX" -D .; then
+            echo "Mac timer ki file nahi pahunchi — Mac runner se seedhe list mangwa rahe hain"
+            gh workflow run mac-causelist.yml --ref main
+            mkdir -p ehcr; exit 0
+          fi
           mkdir -p ehcr && tar -xzf "$INBOX" -C ehcr && rm "$INBOX"
           gh release delete-asset ehcr-inbox "$INBOX" -y || true
           ls ehcr

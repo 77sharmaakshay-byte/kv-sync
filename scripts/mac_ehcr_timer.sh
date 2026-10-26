@@ -11,6 +11,13 @@ log() { echo "$(date '+%F %T') $*" >> "$D/timer.log"; }
 TOKEN=$(cat "$D/gh_token" 2>/dev/null) || { log "gh_token nahi"; exit 1; }
 api() { curl -sSL --max-time 120 -H "Authorization: Bearer $TOKEN" -H "Accept: application/vnd.github+json" "$@"; }
 jid() { /usr/bin/python3 -c 'import json,sys; print(json.load(sys.stdin).get("id", ""))' 2>/dev/null; }
+# Repo ka naam badle (krishivlaw -> kv-sync) to uploads.github.com purane naam par chupchaap kuch nahi karta:
+# har baar GitHub se asli naam poochho (purana naam bhi redirect se sahi repo deta hai) aur yaad rakho.
+name=$(api "https://api.github.com/repos/$REPO" | /usr/bin/python3 -c 'import json,sys; print(json.load(sys.stdin).get("full_name", ""))' 2>/dev/null)
+if [ -n "$name" ] && [ "$name" != "$REPO" ]; then log "repo ka naya naam: $REPO -> $name"; REPO="$name"; printf '%s' "$REPO" > "$D/repo"; fi
+# eCourts wala raasta bhi abhi (GitHub ka apna shaam ka schedule kabhi chalta hi nahi)
+api -X POST "https://api.github.com/repos/$REPO/actions/workflows/daily-court.yml/dispatches" -d '{"ref":"main"}' > /dev/null \
+  || log "daily-court dispatch fail"
 
 for try in 1 2 3; do   # site kabhi der se jawab deti hai
   rm -rf out && /usr/bin/python3 ukhc_ehcr.py fetch --out out >> "$D/timer.log" 2>&1 && break
@@ -26,8 +33,14 @@ if [ -z "$rid" ]; then
     -d '{"tag_name":"ehcr-inbox","target_commitish":"main","name":"Cause list inbox (Mac timer)","body":"Mac ka timer yahan PDF daalta hai; Mac cause list workflow utha kar hata deta hai.","prerelease":true}' | jid)
 fi
 [ -n "$rid" ] || { log "release nahi bani (token?)"; exit 1; }
-api -X POST -H "Content-Type: application/gzip" --data-binary @"$NAME" \
-  "https://uploads.github.com/repos/$REPO/releases/$rid/assets?name=$NAME" > /dev/null || { log "upload fail"; exit 1; }
+up=$(api -X POST -H "Content-Type: application/gzip" --data-binary @"$NAME" \
+  "https://uploads.github.com/repos/$REPO/releases/$rid/assets?name=$NAME" \
+  | /usr/bin/python3 -c 'import json,sys; print(json.load(sys.stdin).get("state", ""))' 2>/dev/null)
+if [ "$up" != "uploaded" ]; then   # file nahi pahunchi: GitHub ko bina file ke batao — Mac runner khud list laayega
+  log "upload fail ($up) — Mac runner wala raasta"
+  api -X POST "https://api.github.com/repos/$REPO/actions/workflows/mac-causelist.yml/dispatches" -d '{"ref":"main"}' > /dev/null
+  exit 1
+fi
 api -X POST "https://api.github.com/repos/$REPO/actions/workflows/mac-causelist.yml/dispatches" \
   -d "{\"ref\":\"main\",\"inputs\":{\"inbox\":\"$NAME\"}}" > /dev/null || { log "dispatch fail"; exit 1; }
 rm -f "$NAME"
