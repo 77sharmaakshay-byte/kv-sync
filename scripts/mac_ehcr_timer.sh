@@ -15,6 +15,20 @@ jid() { /usr/bin/python3 -c 'import json,sys; print(json.load(sys.stdin).get("id
 # har baar GitHub se asli naam poochho (purana naam bhi redirect se sahi repo deta hai) aur yaad rakho.
 name=$(api "https://api.github.com/repos/$REPO" | /usr/bin/python3 -c 'import json,sys; print(json.load(sys.stdin).get("full_name", ""))' 2>/dev/null)
 if [ -n "$name" ] && [ "$name" != "$REPO" ]; then log "repo ka naya naam: $REPO -> $name"; REPO="$name"; printf '%s' "$REPO" > "$D/repo"; fi
+# GitHub (main) par nayi script ho to khud le lo: Mac soya ho to runner nahi chalta, par yeh timer chalta hai —
+# 27-10 ko purani script ki wajah se subah ki list kho gayi thi. Sirf poori, '#!' se shuru file hi rakhte hain.
+if [ -z "${NYAY_TAAZA:-}" ]; then
+  badli=""
+  for f in ukhc_ehcr.py mac_ehcr_timer.sh; do
+    curl -sSfL --max-time 60 -H "Authorization: Bearer $TOKEN" -H "Accept: application/vnd.github.raw" \
+      "https://api.github.com/repos/$REPO/contents/scripts/$f?ref=main" -o "$f.new" 2>> "$D/timer.log"
+    if [ -s "$f.new" ] && head -1 "$f.new" | grep -q '^#!' && ! cmp -s "$f.new" "$f"; then
+      mv "$f.new" "$f" && log "$f naya liya" && badli="$badli $f"
+    fi
+    rm -f "$f.new"
+  done
+  case "$badli" in *mac_ehcr_timer.sh*) NYAY_TAAZA=1 exec /bin/bash "$D/mac_ehcr_timer.sh";; esac
+fi
 # eCourts wala raasta bhi abhi (GitHub ka apna shaam ka schedule kabhi chalta hi nahi)
 api -X POST "https://api.github.com/repos/$REPO/actions/workflows/daily-court.yml/dispatches" -d '{"ref":"main"}' > /dev/null \
   || log "daily-court dispatch fail"

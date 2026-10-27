@@ -31,6 +31,11 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+      - name: Mac timer ki files taaza (laga ho to)
+        run: |
+          D="$HOME/nyay-search/timer"
+          [ -f "$D/gh_token" ] || exit 0
+          cp scripts/ukhc_ehcr.py scripts/mac_ehcr_timer.sh "$D/" && printf '%s' "${{ github.repository }}" > "$D/repo"
       - name: Site ka format
         if: inputs.mode == 'probe'
         run: python3 scripts/ukhc_ehcr.py --probe
