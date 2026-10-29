@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/473/2023:2026-03-18-005",
+ "title": "HIKMAT SINGH NEGI AND OTHERS versus STATE OF UTTARAKHAND",
+ "petitioner": "HIKMAT SINGH NEGI AND OTHERS",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/473/2023",
+ "case_type": "WPSB",
+ "decision_date": "2026-03-18",
+ "cnr": "UKHC010173842023",
+ "doc_kind": "order",
+ "order_type": "WPSB/473/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYyFBPXwOFlAjEI89aj%2BbLCVYQUzamxwyCebDZXpPV1wa&caseno=WPSB/473/2023&cCode=1&cino=UKHC010173842023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e3922510a6916c263929ad09b707b81604a59f312eb906a5e93d03cf0976d135",
+ "fetched_at": "2026-10-29T14:09:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

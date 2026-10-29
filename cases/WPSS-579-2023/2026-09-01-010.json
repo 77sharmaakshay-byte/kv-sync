@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/579/2023:2026-09-01-010",
+ "title": "SOHAN SINGH MEHTA versus STATE OF UTTARAKHAND",
+ "petitioner": "SOHAN SINGH MEHTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/579/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010055512023",
+ "doc_kind": "order",
+ "order_type": "IA/6/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY0N73BfzLP1njQPJSZoRFQPOYsRYo0xI9kfEdkpDvqkI&caseno=WPSS/579/2023&cCode=1&cino=UKHC010055512023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3d4c3810093f4d844d293c95d7267bfd9a012362b2206922da7c59eecb804ea0",
+ "fetched_at": "2026-10-29T14:32:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ARBAP/10/2026:2026-03-27-002",
+ "title": "M/s Fiberfill Engineers versus Union of India",
+ "petitioner": "M/s Fiberfill Engineers",
+ "respondent": "Union of India",
+ "case_no": "ARBAP/10/2026",
+ "case_type": "ARBAP",
+ "decision_date": "2026-03-27",
+ "cnr": "UKHC010030662026",
+ "doc_kind": "order",
+ "order_type": "ARBAP/10/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlvqqDfJd3zdY8ZPHvYW6vXSN177bax4i70tryDReneu&caseno=ARBAP/10/2026&cCode=1&cino=UKHC010030662026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ac5d54a067bb5dece4977a8d052eda9e3b94c2ef742b83e7327c4269dc38b08f",
+ "fetched_at": "2026-10-29T14:13:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

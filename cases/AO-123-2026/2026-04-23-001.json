@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/123/2026:2026-04-23-001",
+ "title": "ORIENTAL INSURANCE COMPANY LTD versus ROSHANI DEVI",
+ "petitioner": "ORIENTAL INSURANCE COMPANY LTD",
+ "respondent": "ROSHANI DEVI",
+ "case_no": "AO/123/2026",
+ "case_type": "AO",
+ "decision_date": "2026-04-23",
+ "cnr": "UKHC010056352026",
+ "doc_kind": "order",
+ "order_type": "AO/123/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrzw34RvUiVL0RhD6eoLie0W4KWzophQ1KO5stUa%2BCYk&caseno=AO/123/2026&cCode=1&cino=UKHC010056352026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "88fd992992b2504567ec4bfbbcbbcba1285305c84c274d9dd47cde0c8f07d8ea",
+ "fetched_at": "2026-10-29T14:23:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

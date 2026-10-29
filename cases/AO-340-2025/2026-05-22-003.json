@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/340/2025:2026-05-22-003",
+ "title": "ORIENTAL INSURANCE COMPANY versus GEETA DEVI PANDEY",
+ "petitioner": "ORIENTAL INSURANCE COMPANY",
+ "respondent": "GEETA DEVI PANDEY",
+ "case_no": "AO/340/2025",
+ "case_type": "AO",
+ "decision_date": "2026-05-22",
+ "cnr": "UKHC010151822025",
+ "doc_kind": "order",
+ "order_type": "AO/340/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9Npp7fg5rPAEG3eokVv%2B84y9jKrGt5l8DWtX1lGQDjM&caseno=AO/340/2025&cCode=1&cino=UKHC010151822025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "05c0ebd0ed56a826bee28a2f72aa33c7231a196ba20e8133739e4ed13fab61ac",
+ "fetched_at": "2026-10-29T14:22:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

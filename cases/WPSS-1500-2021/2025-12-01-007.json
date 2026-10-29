@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1500/2021:2025-12-01-007",
+ "title": "ATUL KUMAR SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ATUL KUMAR SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1500/2021",
+ "case_type": "WPSS",
+ "decision_date": "2025-12-01",
+ "cnr": "UKHC010146602021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1500/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkNnWQ6O98jw4AlSI2qXTuVkLelKVyijywW9X%2FPp%2Fyffr&caseno=WPSS/1500/2021&cCode=1&cino=UKHC010146602021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1c9437938fd592405d4130e8b8b7ded23a5c376ce8e6934af9375f06a1182886",
+ "fetched_at": "2026-10-29T14:24:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

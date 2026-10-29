@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1500/2021:2023-06-13-005",
+ "title": "ATUL KUMAR SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ATUL KUMAR SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1500/2021",
+ "case_type": "WPSS",
+ "decision_date": "2023-06-13",
+ "cnr": "UKHC010146602021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1500/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkNnWQ6O98jw4AlSI2qXTuVkbXeLRNXVP65mRwko1ZLui&caseno=WPSS/1500/2021&cCode=1&cino=UKHC010146602021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f0d70ae77f162728cd2a7dbd2c9224e665da10e5dbca8ee3567c7554124ff672",
+ "fetched_at": "2026-10-29T14:23:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

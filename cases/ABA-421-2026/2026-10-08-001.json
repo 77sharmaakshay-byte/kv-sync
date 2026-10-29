@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/421/2026:2026-10-08-001",
+ "title": "MOINUDDIN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOINUDDIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/421/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-10-08",
+ "cnr": "UKHC010178892026",
+ "doc_kind": "order",
+ "order_type": "ABA/421/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQj4Bry6NlNtdRpvzXfv1erVynUd9L0PkPayrx6GPZNLR&caseno=ABA/421/2026&cCode=1&cino=UKHC010178892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ec6cd57a65fb0f0d59cde3318f40ad3b8186087eb0645ad70f76879fd780e60d",
+ "fetched_at": "2026-10-29T14:31:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

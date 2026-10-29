@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1736/2026:2026-07-08-001",
+ "title": "SWAMI DAYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SWAMI DAYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1736/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010116452026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1736/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvIRXFgSWS3wqshRcOrX%2FvqzNEDpvTm76dvs3g0XbeC%2B&caseno=WPSS/1736/2026&cCode=1&cino=UKHC010116452026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b123d0cba63cfbce956278f0cbdb94f11fbb2c07e3eaa9ec02607a6a6087ea26",
+ "fetched_at": "2026-10-29T14:24:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

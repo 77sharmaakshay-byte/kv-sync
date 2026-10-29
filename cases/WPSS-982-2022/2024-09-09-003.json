@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/982/2022:2024-09-09-003",
+ "title": "PREETI DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "PREETI DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/982/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-09-09",
+ "cnr": "UKHC010071282022",
+ "doc_kind": "order",
+ "order_type": "WPSS/982/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "PERSONAL APPEARANCE (TOP) -123",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01JWwOykCwN%2FPRteubTVd5ToU7k726VTr8k0fMxZzrMZ&caseno=WPSS/982/2022&cCode=1&cino=UKHC010071282022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dbd514c5f45b78734e1de51e1b3c60c45dc0c42751492fadce218d18974a660c",
+ "fetched_at": "2026-10-29T14:16:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

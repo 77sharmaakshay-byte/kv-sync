@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2185/2023:2026-09-01-003",
+ "title": "SEEMA MALHOTRA versus STATE OF UTTARAKHAND",
+ "petitioner": "SEEMA MALHOTRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2185/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010193802023",
+ "doc_kind": "order",
+ "order_type": "IA/6/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6BHyEtzQocJjT462IRoypnWl%2BkEcf%2BuCni1osIgQlak&caseno=WPSS/2185/2023&cCode=1&cino=UKHC010193802023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b7c456bbc1b3848f0578c5b1e6815e7146a601b1b670a0beae9dab961d951146",
+ "fetched_at": "2026-10-29T14:27:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

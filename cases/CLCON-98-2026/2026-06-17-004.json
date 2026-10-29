@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/98/2026:2026-06-17-004",
+ "title": "ASHISH LUTHARA versus REKHA",
+ "petitioner": "ASHISH LUTHARA",
+ "respondent": "REKHA",
+ "case_no": "CLCON/98/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-06-17",
+ "cnr": "UKHC010042832026",
+ "doc_kind": "order",
+ "order_type": "CLCON/98/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnhGD7TMzftb42XWWIZE9gS1LfqveWh2d77CWlEqq1v%2B&caseno=CLCON/98/2026&cCode=1&cino=UKHC010042832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ede25a3ba17af178190e895429cf01a92f488b3c41fd3886f9966274f0122271",
+ "fetched_at": "2026-10-29T14:40:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

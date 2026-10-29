@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/442/2025:2026-02-10-002",
+ "title": "MANOJ NARAIN AGARWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "MANOJ NARAIN AGARWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/442/2025",
+ "case_type": "SPA",
+ "decision_date": "2026-02-10",
+ "cnr": "UKHC010207672025",
+ "doc_kind": "order",
+ "order_type": "SPA/442/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2PRiroNXoXdZuxqQVny6s58OaT7UdycMhCzsPOqCXLg&caseno=SPA/442/2025&cCode=1&cino=UKHC010207672025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6b767a45f6503ff2bd7c13b9bfcac33723215b6339820e8b68e558399a2d728f",
+ "fetched_at": "2026-10-29T14:07:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

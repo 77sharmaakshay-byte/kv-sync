@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1500/2021:2021-11-29-001",
+ "title": "ATUL KUMAR SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ATUL KUMAR SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1500/2021",
+ "case_type": "WPSS",
+ "decision_date": "2021-11-29",
+ "cnr": "UKHC010146602021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1500/2021",
+ "judges": [
+  "Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkNnWQ6O98jw4AlSI2qXTuVkyrCoiskyX%2BkeTtQWTbhVD&caseno=WPSS/1500/2021&cCode=1&cino=UKHC010146602021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8cc6edaf014a4e6ded187b7b2a3445248bb8d7fa60173b9c9f25f01d667e8498",
+ "fetched_at": "2026-10-29T14:23:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

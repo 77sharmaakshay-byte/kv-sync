@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1500/2021:2026-04-07-011",
+ "title": "ATUL KUMAR SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ATUL KUMAR SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1500/2021",
+ "case_type": "WPSS",
+ "decision_date": "2026-04-07",
+ "cnr": "UKHC010146602021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1500/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkNnWQ6O98jw4AlSI2qXTuVn6tKWXlMu7F7j5EPfylHjg&caseno=WPSS/1500/2021&cCode=1&cino=UKHC010146602021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "12087db75bb885ecc97fef7b2caaa0bb0a6705c78deb7da8e864025213ba077d",
+ "fetched_at": "2026-10-29T14:24:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

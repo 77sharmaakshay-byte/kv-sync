@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/180/2026:2026-06-19-001",
+ "title": "AJEET RAWAT versus STATE OF UTTARAKHAND",
+ "petitioner": "AJEET RAWAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/180/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-06-19",
+ "cnr": "UKHC010084932026",
+ "doc_kind": "order",
+ "order_type": "SPA/180/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk7jO7flN1SKs5Yj0VSjsc3ewUz%2F0%2BcsQ8S3zx%2Bo3UZa&caseno=SPA/180/2026&cCode=1&cino=UKHC010084932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2f605ba328aca6bfca211a8ae2fac315e3571d3cdb6f33e6f6d52018a9ca5808",
+ "fetched_at": "2026-10-29T14:10:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

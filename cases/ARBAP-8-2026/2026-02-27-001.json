@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ARBAP/8/2026:2026-02-27-001",
+ "title": "AJAY PAL SINGH LINGWAL versus MS ARIHANT ADVANCE SURGICAL AND FERTILITY CENTRE",
+ "petitioner": "AJAY PAL SINGH LINGWAL",
+ "respondent": "MS ARIHANT ADVANCE SURGICAL AND FERTILITY CENTRE",
+ "case_no": "ARBAP/8/2026",
+ "case_type": "ARBAP",
+ "decision_date": "2026-02-27",
+ "cnr": "UKHC010026072026",
+ "doc_kind": "order",
+ "order_type": "ARBAP/8/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkGgxBZD2pVy%2FIdPweoMjKa8P52rPDQbqA0SGGb2LQcl&caseno=ARBAP/8/2026&cCode=1&cino=UKHC010026072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8e950df254d77b0628d9d383a333705c0b47eaf31f90bad27c2328a69637168f",
+ "fetched_at": "2026-10-29T14:11:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

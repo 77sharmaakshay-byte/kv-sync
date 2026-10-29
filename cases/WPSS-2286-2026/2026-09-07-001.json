@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2286/2026:2026-09-07-001",
+ "title": "PREM CHANDRA PAPNAI versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM CHANDRA PAPNAI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2286/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010152892026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2286/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo5WW4DtN4SGrwVVWaCi%2FP0%2F7HHBGldKl5MWgNJjmnvJ&caseno=WPSS/2286/2026&cCode=1&cino=UKHC010152892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9b7ff9c9b8a7b2f1b7949d6e7dbdfbd1b540599d8791e72974d5e8b9239b2fec",
+ "fetched_at": "2026-10-29T14:23:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

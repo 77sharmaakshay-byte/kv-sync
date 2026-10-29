@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/63/2023:2023-02-21-001",
+ "title": "GIRISH PRASAD PANDAY versus STATE OF UTTARAKHAND",
+ "petitioner": "GIRISH PRASAD PANDAY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/63/2023",
+ "case_type": "WPSB",
+ "decision_date": "2023-02-21",
+ "cnr": "UKHC010022952023",
+ "doc_kind": "order",
+ "order_type": "WPSB/63/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6hfdGFX0E%2Fxy%2B0sb44aCv4pYIvnhXQB0SIAZ5aRpiUr&caseno=WPSB/63/2023&cCode=1&cino=UKHC010022952023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "74b34024975570ee566ff5efebb78c9430369362b1b64d190c10dd7035577a7f",
+ "fetched_at": "2026-10-29T14:09:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

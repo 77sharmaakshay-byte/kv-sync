@@ -1,0 +1,548 @@
+{
+ "cnr_number": "UKHC010169772023",
+ "case_type": "WPSB",
+ "filing_number": "WPSB /7560/2023",
+ "filing_date": "2023-10-17",
+ "registration_number": "WPSB /463/2023",
+ "registration_date": "2023-10-17",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal , Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "DIWAN SINGH",
+   "advocate": "HARENDRA BELWAL"
+  },
+  {
+   "name": "AMEER UDDIN",
+   "advocate": ""
+  },
+  {
+   "name": "VIKRAM SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "VIPIN CHANDRA TIWARI",
+   "advocate": ""
+  },
+  {
+   "name": "HARIVANSH PRASAD",
+   "advocate": ""
+  },
+  {
+   "name": "SUBHASH RAM",
+   "advocate": ""
+  },
+  {
+   "name": "SALHEEN",
+   "advocate": ""
+  },
+  {
+   "name": "RAJVEER SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "PHARAJODDIN",
+   "advocate": ""
+  },
+  {
+   "name": "FAGU",
+   "advocate": ""
+  },
+  {
+   "name": "SUBHASH CHANDAR",
+   "advocate": ""
+  },
+  {
+   "name": "BHURA SHAH",
+   "advocate": ""
+  },
+  {
+   "name": "CHARAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "RAKESH",
+   "advocate": ""
+  },
+  {
+   "name": "PARMANAND ROY",
+   "advocate": ""
+  },
+  {
+   "name": "ASHARPHI LAL",
+   "advocate": ""
+  },
+  {
+   "name": "KALLU SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "JAYPAL SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH",
+   "advocate": ""
+  },
+  {
+   "name": "PREM SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "RISHIPAL",
+   "advocate": ""
+  },
+  {
+   "name": "OMPAL",
+   "advocate": ""
+  },
+  {
+   "name": "MOHD YUNUS",
+   "advocate": ""
+  },
+  {
+   "name": "VIJAYPAL",
+   "advocate": ""
+  },
+  {
+   "name": "DEVI DUTT TEWARI",
+   "advocate": ""
+  },
+  {
+   "name": "KISHAN",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDRIKA",
+   "advocate": ""
+  },
+  {
+   "name": "TEJ RAM",
+   "advocate": ""
+  },
+  {
+   "name": "KHUSHAL SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SMT RADHIKA DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "BALAM SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SMT HEMA DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "BAHADUR SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "JWALA DATT BUDHANI",
+   "advocate": ""
+  },
+  {
+   "name": "GOPAL SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "BALA DATT",
+   "advocate": ""
+  },
+  {
+   "name": "KUBER SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "NARENDRA PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "NAND RAM",
+   "advocate": ""
+  },
+  {
+   "name": "BALAM SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "TRILOK SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "KHEEM SINGH RAWAT",
+   "advocate": ""
+  },
+  {
+   "name": "POORAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "MATHURA DATT",
+   "advocate": ""
+  },
+  {
+   "name": "PURAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SMT GANGA DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "DEVI DATT PAPNAI",
+   "advocate": ""
+  },
+  {
+   "name": "LAL SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "TARA SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "GANESH SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SHER RAM",
+   "advocate": ""
+  },
+  {
+   "name": "KHADAK SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "DIWAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "DHAM SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "PARAMANAND",
+   "advocate": ""
+  },
+  {
+   "name": "NARAYAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "HAYAT SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "KASHI RAM",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "BACHI SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SMT LACHHIMA DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "MANGAL SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SMT REVATI DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "LALIT SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "MADHO SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "MANGAL SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "BIPIN CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "MOHAN SINGH",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SECRETARY FINANCE GOVERNMENT OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SECRETARY LEGAL AND PARLIAMENTARY AFFAIRS SECRETARATE VIDHAN SABHA",
+   "advocate": ""
+  },
+  {
+   "name": "ENGINEER-IN-CHIEF HEAD OF DEPARTMENT PUBLIC WORKS DEPARTMENT GOVERNMENT",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "CHIEF ENGINEER PUBLIC WORKS DEPARTMENT",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "CHIEF ENGINEER PUBLIC WORKS DEPARTMENT HALDWANI",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "DIRECTOR LEKHA EVAM HAQDARI",
+   "advocate": "C.S.C."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2023-10-18",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-05-13",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-05-13",
+   "business_date": "2026-04-17",
+   "purpose": "SERVICE MATTERS -82",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-17",
+   "business_date": "2026-03-18",
+   "purpose": "SERVICE MATTERS -82",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-03-18",
+   "business_date": "2026-02-19",
+   "purpose": "SERVICE MATTERS -82",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-10",
+   "business_date": "2025-12-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-11-10",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-09-17",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-09-17",
+   "business_date": "2025-09-10",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-09-10",
+   "business_date": "2025-07-30",
+   "purpose": "SERVICE MATTERS -82",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-28",
+   "business_date": "2025-06-25",
+   "purpose": "SERVICE MATTERS -82",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-25",
+   "business_date": "2025-05-05",
+   "purpose": "SERVICE MATTERS -82",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-05-05",
+   "business_date": "2025-03-21",
+   "purpose": "SERVICE MATTERS -82",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-21",
+   "business_date": "2024-12-05",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-11-21",
+   "business_date": "2024-09-09",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-09",
+   "business_date": "2024-08-21",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-21",
+   "business_date": "2024-08-02",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-02",
+   "business_date": "2024-05-10",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-03-21",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-01-12",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-01-10",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2023-12-05",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2023-10-18",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2024-05-10",
+   "order_type": "WPSB/463/2023",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3TcNnW2Ge9Jx90HoNnma10djkOqoHyNj2JdryV6QxXR&caseno=WPSB/463/2023&cCode=1&cino=UKHC010169772023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-03-21",
+   "order_type": "WPSB/463/2023",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3TcNnW2Ge9Jx90HoNnma10FqZJ4rzU3bEUde69cye%2B%2B&caseno=WPSB/463/2023&cCode=1&cino=UKHC010169772023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-02-19",
+   "order_type": "WPSB/463/2023",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3TcNnW2Ge9Jx90HoNnma12WabLu6VRKr72%2BPkGvWyE3&caseno=WPSB/463/2023&cCode=1&cino=UKHC010169772023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-03-18",
+   "order_type": "WPSB/463/2023",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3TcNnW2Ge9Jx90HoNnma10mOcxxZwFuqbb0dBXc4IXa&caseno=WPSB/463/2023&cCode=1&cino=UKHC010169772023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-04-17",
+   "order_type": "WPSB/463/2023",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3TcNnW2Ge9Jx90HoNnma13CKISDReBaXug31nfqjMB4&caseno=WPSB/463/2023&cCode=1&cino=UKHC010169772023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-13",
+   "order_type": "WPSB/463/2023",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3TcNnW2Ge9Jx90HoNnma10gmogcaG%2FSrNsj9eUaVqO%2F&caseno=WPSB/463/2023&cCode=1&cino=UKHC010169772023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

@@ -1,0 +1,732 @@
+{
+ "cnr_number": "UKHC010079462023",
+ "case_type": "WPSS",
+ "filing_number": "WPSS /3442/2023",
+ "filing_date": "2023-05-23",
+ "registration_number": "WPSS /771/2023",
+ "registration_date": "2023-05-23",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "ORDERS ON APPLICATIONS -22",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "DHEERAJ NATH GOSWAMI",
+   "advocate": "VINAY BHATT"
+  },
+  {
+   "name": "GOVIND AKOLIA",
+   "advocate": ""
+  },
+  {
+   "name": "PRAVEEN CHANDRA",
+   "advocate": "BHUPENDRA BISHT"
+  },
+  {
+   "name": "MOHAN SINGH",
+   "advocate": "BHUPENDRA BISHT"
+  },
+  {
+   "name": "SANTOSH SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "MANISH CHANDRA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "MANISH KUMAR SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "BASANT GIRI",
+   "advocate": ""
+  },
+  {
+   "name": "PRAMOD PCHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "ISHWARI DUTT NAINWAL",
+   "advocate": ""
+  },
+  {
+   "name": "RAVINDER SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "YOGESH BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "VISHAN RAM",
+   "advocate": ""
+  },
+  {
+   "name": "LACHI RAM",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "DEV RAM",
+   "advocate": ""
+  },
+  {
+   "name": "DIWAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SURENDRA SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "KAILASH CHANDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "SUNEEL DUTT DURGAPAL",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH CAHNDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA SINGH BHANDARI",
+   "advocate": ""
+  },
+  {
+   "name": "RAVINDER SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "KUNDAN SINGH KANWAL",
+   "advocate": ""
+  },
+  {
+   "name": "PURAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "KUNDAN SINGH KANWAL",
+   "advocate": ""
+  },
+  {
+   "name": "GOVIND SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "MAHENDRA PRASAD",
+   "advocate": ""
+  },
+  {
+   "name": "HEM CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "SHYAM SUNDER SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "NAVEEN GIRI",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "PANKAJ GOSWAMI",
+   "advocate": ""
+  },
+  {
+   "name": "BALKRISHN",
+   "advocate": ""
+  },
+  {
+   "name": "PURAN CHANDRA CHAUDHREY",
+   "advocate": ""
+  },
+  {
+   "name": "DEEWAN CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "LALIT MOHAN KATHAYAT",
+   "advocate": ""
+  },
+  {
+   "name": "GOPAL DUTT",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "KARAN KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "HARI RAM",
+   "advocate": ""
+  },
+  {
+   "name": "SHUBHAM BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "GIRJA KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "SHULABH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "KUSHAL SINGH NAYAL",
+   "advocate": ""
+  },
+  {
+   "name": "NARESH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "HEM CHANDRA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH CHANDRA PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "ANAND SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA  SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "PAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "PRADEEP CHAUDHARY",
+   "advocate": ""
+  },
+  {
+   "name": "SUNDAR PARCHA",
+   "advocate": ""
+  },
+  {
+   "name": "BHOLE NATH",
+   "advocate": ""
+  },
+  {
+   "name": "BHUPENDRA VERMA",
+   "advocate": ""
+  },
+  {
+   "name": "NANDA BALLABH TIWARI",
+   "advocate": ""
+  },
+  {
+   "name": "JEEWAN LAL",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA RAM",
+   "advocate": ""
+  },
+  {
+   "name": "BISHAN SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "PRAKASH CHANDRA TEWARI",
+   "advocate": ""
+  },
+  {
+   "name": "NANDAN RAM",
+   "advocate": ""
+  },
+  {
+   "name": "MAHESH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "NARENDRA SINGH MER",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA BHANDARI",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH SINGH ADHIKARI",
+   "advocate": ""
+  },
+  {
+   "name": "DEVENDRA SINGH MER",
+   "advocate": ""
+  },
+  {
+   "name": "KAMAL SINGH KANWAL",
+   "advocate": ""
+  },
+  {
+   "name": "MANOHAR SINGH RAWAT",
+   "advocate": ""
+  },
+  {
+   "name": "VIJAY SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "PRAMOD KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDRA DUTT BAHUGUNA",
+   "advocate": ""
+  },
+  {
+   "name": "POORAN SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "DIWAN SINGH SANGA",
+   "advocate": ""
+  },
+  {
+   "name": "DEVENDRA SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "KUNDAN SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "MADAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "JEEWAN MEHRA",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "JEEWAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "NANDAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "GIRISH LAL",
+   "advocate": ""
+  },
+  {
+   "name": "MANOJ KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH LAL",
+   "advocate": ""
+  },
+  {
+   "name": "KHASTI BALLABH",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH CHANDRA ARYA",
+   "advocate": ""
+  },
+  {
+   "name": "DEEP CHANDRA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "ANAND SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA SINGH NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "GOVIND SINGH CHAUHAN",
+   "advocate": ""
+  },
+  {
+   "name": "ANAND KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "GAJENDRA SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "POORAN CHANDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "NAR SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "ANAND SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "HARGOVIND JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "PREM SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "PREM KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "VIPIN CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "NAVIN KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "VIMAL CHAUHDARY",
+   "advocate": ""
+  },
+  {
+   "name": "RAVINDRA NATH",
+   "advocate": ""
+  },
+  {
+   "name": "JAGDISH GIRI",
+   "advocate": ""
+  },
+  {
+   "name": "GIRISH CHANDRA TIWARI",
+   "advocate": ""
+  },
+  {
+   "name": "JAGDISH PRASAD",
+   "advocate": ""
+  },
+  {
+   "name": "HEM SINGH NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "PUSKER PRASAD",
+   "advocate": ""
+  },
+  {
+   "name": "SURESH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "DEEPAK JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "RAJESH KUMAR AGARI",
+   "advocate": ""
+  },
+  {
+   "name": "BALKRISHNA",
+   "advocate": ""
+  },
+  {
+   "name": "DEVKI NANDAN TIWARI",
+   "advocate": ""
+  },
+  {
+   "name": "DEEP CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH LAL",
+   "advocate": ""
+  },
+  {
+   "name": "MOHAN CHANDRA MATHPAL",
+   "advocate": ""
+  },
+  {
+   "name": "BHARAV DUTT JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "BHEEM SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "ARVIND KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "HEMANT KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "MAHENDRA RAM",
+   "advocate": ""
+  },
+  {
+   "name": "DAYA KRISHAN",
+   "advocate": ""
+  },
+  {
+   "name": "GANESH DUTT JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "NANADAN RAM",
+   "advocate": ""
+  },
+  {
+   "name": "BALWANT RAM",
+   "advocate": ""
+  },
+  {
+   "name": "UMED SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SHIV SHANKAR GOSWAMI",
+   "advocate": ""
+  },
+  {
+   "name": "SURAJ MOHAN UNIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "PADAM SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "BHUWAN RAM",
+   "advocate": ""
+  },
+  {
+   "name": "POORAN SINGH RAWAT",
+   "advocate": ""
+  },
+  {
+   "name": "JAGDISH SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "ZAHID HUSSAIN",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "COMMANDANT GENERAL OF HOME GUARDS DEHRADUN",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "EMPLOYEES PROVIDENT FUND ORGANIZATION REGIONAL OFFICE DEHRADUN",
+   "advocate": "BHUPENDRA SINGH BISHT,RAVI SEHGAL"
+  },
+  {
+   "name": "EMPLOYEES PROVIDENT  FUND ORGANIZATION REGIONAL OFFICE HALDWANI",
+   "advocate": "BHUPENDRA SINGH BISHT,RAVI SEHGAL"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2023-05-24",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-09-01",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-01-03",
+   "business_date": "2025-12-17",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-23",
+   "business_date": "2024-07-26",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-26",
+   "business_date": "2024-06-11",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-06-11",
+   "business_date": "2024-04-09",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-09",
+   "business_date": "2024-01-02",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-01-02",
+   "business_date": "2023-10-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-12",
+   "business_date": "2023-05-24",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2023-05-24",
+   "order_type": "WPSS/771/2023",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6mouBHEl03Vuyei8vThoh8pyh%2FemMQRS4%2B2%2BugKtKRr&caseno=WPSS/771/2023&cCode=1&cino=UKHC010079462023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-04-09",
+   "order_type": "WPSS/771/2023",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6mouBHEl03Vuyei8vThoh%2FcTBkDvW3alwRV1d0zkNC3&caseno=WPSS/771/2023&cCode=1&cino=UKHC010079462023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-04-09",
+   "order_type": "IA/5/2023",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6mouBHEl03Vuyei8vThoh9CUZ9m%2Bb0Kmh9lx2bR9qi%2F&caseno=WPSS/771/2023&cCode=1&cino=UKHC010079462023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-04-09",
+   "order_type": "IA/6/2024",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6mouBHEl03Vuyei8vThoh98pcirwoPI76y7w%2ByH3BiZ&caseno=WPSS/771/2023&cCode=1&cino=UKHC010079462023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-01",
+   "order_type": "WPSS/771/2023",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6mouBHEl03Vuyei8vThoh90whTxbvu8TtC45UdQPlE4&caseno=WPSS/771/2023&cCode=1&cino=UKHC010079462023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-01",
+   "order_type": "IA/11/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6mouBHEl03Vuyei8vThoh9B2%2BKe3IN%2FgRV5lCX8NjnI&caseno=WPSS/771/2023&cCode=1&cino=UKHC010079462023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-01",
+   "order_type": "IA/10/2025",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6mouBHEl03Vuyei8vThoh%2Foa0FSnSMcNKBdo9HEIWBs&caseno=WPSS/771/2023&cCode=1&cino=UKHC010079462023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-01",
+   "order_type": "IA/8/2024",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6mouBHEl03Vuyei8vThoh9STfk8oZjpd4XOPw%2BwuYKM&caseno=WPSS/771/2023&cCode=1&cino=UKHC010079462023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

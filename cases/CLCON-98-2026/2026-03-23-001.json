@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/98/2026:2026-03-23-001",
+ "title": "ASHISH LUTHARA versus REKHA",
+ "petitioner": "ASHISH LUTHARA",
+ "respondent": "REKHA",
+ "case_no": "CLCON/98/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-03-23",
+ "cnr": "UKHC010042832026",
+ "doc_kind": "order",
+ "order_type": "CLCON/98/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnhGD7TMzftb42XWWIZE9gSjRTRJ7ptDy4%2FBr%2BC%2FirsX&caseno=CLCON/98/2026&cCode=1&cino=UKHC010042832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f58c4ea2b0deacc934e9487b03d0f457e290dcdfdc5e3427ffa0e5723ef9257f",
+ "fetched_at": "2026-10-29T14:40:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

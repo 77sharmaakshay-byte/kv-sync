@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/385/2024:2026-04-17-004",
+ "title": "JEET SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "JEET SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/385/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-04-17",
+ "cnr": "UKHC010079442024",
+ "doc_kind": "order",
+ "order_type": "WPSB/385/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcHYRbnMRPaeU3eX1bE97udmYHd1G3tslceROnvBpriRJ&caseno=WPSB/385/2024&cCode=1&cino=UKHC010079442024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "31992bce72354d056f2e7a594f1cb4cf3ee2cfc137d6b1421446c00a0ead9492",
+ "fetched_at": "2026-10-29T14:09:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

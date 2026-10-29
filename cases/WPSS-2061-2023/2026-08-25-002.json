@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2061/2023:2026-08-25-002",
+ "title": "RAMWATI versus STATE OF UTTAR PRADESH",
+ "petitioner": "RAMWATI",
+ "respondent": "STATE OF UTTAR PRADESH",
+ "case_no": "WPSS/2061/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-25",
+ "cnr": "UKHC010180712023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2061/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYye7ENbAHtwQpUJOG5jgdyZTPv5ubC%2BgJJYzj8mCnx9C&caseno=WPSS/2061/2023&cCode=1&cino=UKHC010180712023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2cacd7187dd0dd0c2cbbcd58b288874a07d5c73705a21043ac789e4e205da294",
+ "fetched_at": "2026-10-29T14:29:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,380 @@
+{
+ "cnr_number": "UKHC010004502012",
+ "case_type": "AO",
+ "filing_number": "AO /1000474/2012",
+ "filing_date": "2012-10-29",
+ "registration_number": "AO /524/2012",
+ "registration_date": "2012-10-29",
+ "first_hearing_date": "2013-11-27",
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "DIRECTIONS MATTERS -101",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pauri Garhwal",
+ "petitioners": [
+  {
+   "name": "THE UNITED INDIA INSURANCE COMPANY LTD.",
+   "advocate": "PRABHAT PANDE"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SMT. DAMYANTI DEVI",
+   "advocate": "HARI MOHAN BHATIA,"
+  },
+  {
+   "name": "DHARMENDRA KUMAR",
+   "advocate": "RAMAN KUMAR SHAH"
+  },
+  {
+   "name": "SHUBHAM",
+   "advocate": "RAMAN KUMAR SHAH"
+  },
+  {
+   "name": "SMT. SUMITRA DEVI",
+   "advocate": "HARI MOHAN BHATIA,RAMAN KUMAR SHAH"
+  },
+  {
+   "name": "CANTONMENT BOARD LANSDOWNE",
+   "advocate": "LOKENDRA DOBHAL"
+  },
+  {
+   "name": "DIRECTORATE OF DEFENCE PROPERTIES, MINISTRY OF DEFENCE, UNION OF INDIA",
+   "advocate": "V K KAPARUWAN"
+  }
+ ],
+ "acts": [
+  {
+   "act": "06-AN APPEAL U/S 173 OF MOTOR VEHICLES ACT, 1988.",
+   "sections": "OTHER"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-07",
+   "business_date": "2026-09-23",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-23",
+   "business_date": "2026-09-16",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-16",
+   "business_date": "2026-08-25",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-25",
+   "business_date": "2026-08-18",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-13",
+   "business_date": "2026-07-10",
+   "purpose": "FOR ORDERS -91",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST 2"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-11",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-06-11",
+   "business_date": "2026-06-04",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-06-04",
+   "business_date": "2026-05-30",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-05-30",
+   "business_date": "2026-05-29",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-05-28",
+   "business_date": "2026-05-15",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-05-15",
+   "business_date": "2026-05-14",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-05-14",
+   "business_date": "2026-04-23",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-23",
+   "business_date": "2026-03-20",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-03-20",
+   "business_date": "2026-03-13",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-03-05",
+   "purpose": "FOR REFERRAL TO THE SPECIAL MEDIATION DRIVE-MEDIATION FOR NATION -256",
+   "judge": "Daily Lok Adalat",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-05",
+   "business_date": "2024-12-18",
+   "purpose": "FOR REFERRAL TO THE SPECIAL MEDIATION DRIVE-MEDIATION FOR NATION -256",
+   "judge": "Daily Lok Adalat",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-18",
+   "business_date": "2024-11-06",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Daily Lok Adalat",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-05-11",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Daily Lok Adalat",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-12-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-12-11",
+   "business_date": "2019-11-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-11-16",
+   "business_date": "2019-11-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-11-06",
+   "business_date": "2019-10-17",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-09-16",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2013-11-27",
+   "business_date": "2013-04-11",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2012-10-30",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2012-10-30",
+   "order_type": "AO/524/2012",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTVD9j9z30XFEx3o2pVInn1b&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-09-16",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTWxqVygULWN7RoDv5gcpl1w&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-11-06",
+   "order_type": "AO/524/2012",
+   "judge": "Daily Lok Adalat",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTWpPFJgbcF4EpSXaDTiCeB5&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-03-13",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTVtX04id8oBZ9krx3n6e86k&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-03-20",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTWLGJW4%2BWJolIoNN5oV%2FnAq&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-04-23",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTVRWsT2GQgzyfia8u5WwXK1&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-14",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTWr7Q%2FKPG4H4OEwWyrDdcqa&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-15",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTXNXwRmJC%2Bo9g1a3hLsy8cv&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-29",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTWi7ycPPW7eI%2BOiWHt1tjA4&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-04",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTW9d1W1NAlK88%2FsefHSk9EG&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-30",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTXlYrSleu7uvHgVuGJf1Sbj&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-11",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTXfby8r2UTmEhgYVn09Uwd%2B&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-07-10",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTU%2FWg0IbnKhSUmND1tBrGKf&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-18",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTW0D16jCrymGP%2FfbJXVXHpV&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-25",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTXoCrfXrMikf1XGPxLx33xp&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-16",
+   "order_type": "AO/524/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrE08Qw%2Be2xbFLnbD3GK4XTWA1doCajOOr87w7ESs0fn3&caseno=AO/524/2012&cCode=1&cino=UKHC010004502012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

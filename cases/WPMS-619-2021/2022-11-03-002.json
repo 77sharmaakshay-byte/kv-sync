@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/619/2021:2022-11-03-002",
+ "title": "SHIVAM (MINOR) versus STATE OF UTTARAKHAND",
+ "petitioner": "SHIVAM (MINOR)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/619/2021",
+ "case_type": "WPMS",
+ "decision_date": "2022-11-03",
+ "cnr": "UKHC010035232021",
+ "doc_kind": "order",
+ "order_type": "WPMS/619/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkM8oy9GkJtMFGtMidO4ukC3aJ4K1Ts5KQCzXkfmeP0Wn&caseno=WPMS/619/2021&cCode=1&cino=UKHC010035232021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "960eb708a743e1d1b0ae61a681bc0209a67039466f457a113e0d410586ac562c",
+ "fetched_at": "2026-10-29T14:11:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2564/2026:2026-09-01-005",
+ "title": "NEHA SAMAIRA versus STATE OF UTTARAKHAND",
+ "petitioner": "NEHA SAMAIRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2564/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010149242026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2564/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvWOnTCGaWdJ8o%2BVG%2F%2FC1%2F2qeiLrgkXABwYFBFLKtBOS&caseno=WPMS/2564/2026&cCode=1&cino=UKHC010149242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3ac1f0a37083b44f28fa9e9eea9e74c0bf40205c2d0658e95c2a3378a95a9db7",
+ "fetched_at": "2026-10-29T14:41:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

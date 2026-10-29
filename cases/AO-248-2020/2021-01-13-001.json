@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/248/2020:2021-01-13-001",
+ "title": "RANI SUMITRA RAJE versus KEWAL SANON (DECEASED)",
+ "petitioner": "RANI SUMITRA RAJE",
+ "respondent": "KEWAL SANON (DECEASED)",
+ "case_no": "AO/248/2020",
+ "case_type": "AO",
+ "decision_date": "2021-01-13",
+ "cnr": "UKHC010128672020",
+ "doc_kind": "order",
+ "order_type": "AO/248/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHLC6W3MB6CyYgjxXxPCj83yuul2dmkBAFAprAZ6x64X&caseno=AO/248/2020&cCode=1&cino=UKHC010128672020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ca4d57995dce581a5d54de7b38e64e6c4f3b98e549e46a2e72bb95fb9b4b55a1",
+ "fetched_at": "2026-10-29T14:13:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

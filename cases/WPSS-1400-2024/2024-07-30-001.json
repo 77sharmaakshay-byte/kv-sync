@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1400/2024:2024-07-30-001",
+ "title": "DEEPAK KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DEEPAK KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1400/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-07-30",
+ "cnr": "UKHC010117332024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1400/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBGCZl2QtbT6pYQ4y63LWpMwrmPOxsdu6EkYMIGWsig%2B&caseno=WPSS/1400/2024&cCode=1&cino=UKHC010117332024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "14695ae265a8ddd59d6bf8a379e80ba3747fdff9b5e708f1cfce2a9481dfc619",
+ "fetched_at": "2026-10-29T14:27:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

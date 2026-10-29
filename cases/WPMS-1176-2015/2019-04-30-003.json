@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1176/2015:2019-04-30-003",
+ "title": "Ramesh Chand Sharma versus Thakur Das Sindhi",
+ "petitioner": "Ramesh Chand Sharma",
+ "respondent": "Thakur Das Sindhi",
+ "case_no": "WPMS/1176/2015",
+ "case_type": "WPMS",
+ "decision_date": "2019-04-30",
+ "cnr": "UKHC010019442015",
+ "doc_kind": "order",
+ "order_type": "WPMS/1176/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWVCiXgcoSF3VWphHcEgrNV3tqLvB0eHiFsFkkmALvf4l&caseno=WPMS/1176/2015&cCode=1&cino=UKHC010019442015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "99c5b645e7490d2ab4141fc0f21ffa3fc96d0a17ac53d8cfc38261b3a1fc8c9b",
+ "fetched_at": "2026-10-29T14:16:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1443/2020:2020-09-02-005",
+ "title": "NAVEEN CHANDRA JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "NAVEEN CHANDRA JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1443/2020",
+ "case_type": "WPMS",
+ "decision_date": "2020-09-02",
+ "cnr": "UKHC010082572020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1443/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO7SSZD2Grj2nSwprp02O4zN38MBsUj0jLCbflh%2B7kWw&caseno=WPMS/1443/2020&cCode=1&cino=UKHC010082572020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a926588f60cb1c8b7f3802aef14878512ca9308772cc58ac211d145a0cedf4f2",
+ "fetched_at": "2026-10-29T14:14:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

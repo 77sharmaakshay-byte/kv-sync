@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/679/2021:2021-03-18-001",
+ "title": "MAMTA GEHLOT ALIAS MAMTA versus DISTRICT MAGISTRATE UDHAM SINGH NAGAR",
+ "petitioner": "MAMTA GEHLOT ALIAS MAMTA",
+ "respondent": "DISTRICT MAGISTRATE UDHAM SINGH NAGAR",
+ "case_no": "WPMS/679/2021",
+ "case_type": "WPMS",
+ "decision_date": "2021-03-18",
+ "cnr": "UKHC010037592021",
+ "doc_kind": "order",
+ "order_type": "WPMS/679/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkKoqwGykPiJaaZMoxrGPNZB90XJaKbZhp8j6gfP%2BTuvK&caseno=WPMS/679/2021&cCode=1&cino=UKHC010037592021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4792fcb1ef3e290786aa7241b005ab70a872167cd1a3f7f2e13c5b4d58833841",
+ "fetched_at": "2026-10-29T14:11:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

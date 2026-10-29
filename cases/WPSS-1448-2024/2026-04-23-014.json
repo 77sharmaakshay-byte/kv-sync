@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1448/2024:2026-04-23-014",
+ "title": "LALITA versus STATE OF UTTARAKHAND",
+ "petitioner": "LALITA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1448/2024",
+ "case_type": "WPSS",
+ "decision_date": "2026-04-23",
+ "cnr": "UKHC010120682024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1448/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcFMqhcTytyGyQyXP43Xv1u%2Bk4w5UpAXUd0APb5t0XMkB&caseno=WPSS/1448/2024&cCode=1&cino=UKHC010120682024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "baf967e3cafcd41c6f3c5857912b1c2c69993316c5b33e4f18a1d4f9b7832f99",
+ "fetched_at": "2026-10-29T14:28:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

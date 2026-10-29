@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2340/2026:2026-09-09-001",
+ "title": "ANIL KUMAR TYAGI versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL KUMAR TYAGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2340/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010157592026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2340/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvNRFATHvBz7S4llreEAN%2FQoE5D6K5YuSjrcecQDI55l&caseno=WPSS/2340/2026&cCode=1&cino=UKHC010157592026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d6ec21d4de1ce295e5ec8095c9c72f8f7820524e7a69f9f8fad2377560a20380",
+ "fetched_at": "2026-10-29T14:27:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

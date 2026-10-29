@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1443/2020:2026-04-01-014",
+ "title": "NAVEEN CHANDRA JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "NAVEEN CHANDRA JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1443/2020",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-01",
+ "cnr": "UKHC010082572020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1443/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO7SSZD2Grj2nSwprp02O4z3TD0TziUWAp9143amsdHc&caseno=WPMS/1443/2020&cCode=1&cino=UKHC010082572020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f711899e6bba08028f79ab233fcb4e1433a48b41b2cf965e358e65d1df2fa26e",
+ "fetched_at": "2026-10-29T14:14:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

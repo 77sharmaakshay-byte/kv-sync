@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/501/2023:2025-07-08-015",
+ "title": "RAJENDRA JOSHI versus HONBLE HIGH COURT OF UTTARAKHAND",
+ "petitioner": "RAJENDRA JOSHI",
+ "respondent": "HONBLE HIGH COURT OF UTTARAKHAND",
+ "case_no": "WPSB/501/2023",
+ "case_type": "WPSB",
+ "decision_date": "2025-07-08",
+ "cnr": "UKHC010181542023",
+ "doc_kind": "order",
+ "order_type": "WPSB/501/2023",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7dlvVcr9uWEoRp5h9hqcucWr%2F76rFTQeVIKPBUsWtNQ&caseno=WPSB/501/2023&cCode=1&cino=UKHC010181542023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9bcb1a9d188beef2b62fe4ad14802e7f8fd605c4a9ebf1498356fba54aa02282",
+ "fetched_at": "2026-10-29T14:09:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

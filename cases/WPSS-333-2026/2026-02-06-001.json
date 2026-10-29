@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/333/2026:2026-02-06-001",
+ "title": "SONAM PANWAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SONAM PANWAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/333/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-02-06",
+ "cnr": "UKHC010017002026",
+ "doc_kind": "order",
+ "order_type": "WPSS/333/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjW8fmI2%2FkKY5QBdKNlAlRBpSfM0C03OHHI88FWu%2BZ04&caseno=WPSS/333/2026&cCode=1&cino=UKHC010017002026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e46aa843c94b3a48a9daa72777d0e6231bb4576a9a4d9d312c588c531b772c40",
+ "fetched_at": "2026-10-29T14:23:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

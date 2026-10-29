@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ARBAP/24/2026:2026-10-16-001",
+ "title": "MS KUMAR LOGISTICS versus BHARAT PETROEUM CORPORATION LIMITED",
+ "petitioner": "MS KUMAR LOGISTICS",
+ "respondent": "BHARAT PETROEUM CORPORATION LIMITED",
+ "case_no": "ARBAP/24/2026",
+ "case_type": "ARBAP",
+ "decision_date": "2026-10-16",
+ "cnr": "UKHC010082632026",
+ "doc_kind": "order",
+ "order_type": "ARBAP/24/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqf%2Bt1McdPtghQX3cBE8%2Bpon0ryCzEAFPo6qeJtYhWHz&caseno=ARBAP/24/2026&cCode=1&cino=UKHC010082632026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e82a96d4d5c16b4e9eb95fc573b42938c7e78607e789d6d6baeb049daad59c62",
+ "fetched_at": "2026-10-29T14:15:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

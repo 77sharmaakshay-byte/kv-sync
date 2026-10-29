@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/285/2016:2019-01-09-020",
+ "title": "MUKESH DATT versus STATE OF UTTARAKHAND   Advocate- ,C.S.C., 1123",
+ "petitioner": "MUKESH DATT",
+ "respondent": "STATE OF UTTARAKHAND   Advocate- ,C.S.C., 1123",
+ "case_no": "WPSB/285/2016",
+ "case_type": "WPSB",
+ "decision_date": "2019-01-09",
+ "cnr": "UKHC010001162016",
+ "doc_kind": "order",
+ "order_type": "WPSB/285/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfrtzN4ZQoxvo5RnI4X7tJ%2Fl&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3db3b3426cee2334885077141f3c069fa5c7301f1e7d0a871eaecd1f4716cbfa",
+ "fetched_at": "2026-10-29T14:55:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

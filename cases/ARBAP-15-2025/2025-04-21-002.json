@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ARBAP/15/2025:2025-04-21-002",
+ "title": "NAVEEN CHANDRA PANT versus M/S RAI BAHADUR NARIAN SINGH SUGAR MILLS LTD",
+ "petitioner": "NAVEEN CHANDRA PANT",
+ "respondent": "M/S RAI BAHADUR NARIAN SINGH SUGAR MILLS LTD",
+ "case_no": "ARBAP/15/2025",
+ "case_type": "ARBAP",
+ "decision_date": "2025-04-21",
+ "cnr": "UKHC010025112025",
+ "doc_kind": "order",
+ "order_type": "ARBAP/15/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm72F2Ofpoot%2Bq6IL4jWqkWRPovWE7o42D95Z7MeyhbZN&caseno=ARBAP/15/2025&cCode=1&cino=UKHC010025112025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "56c468285f42f285b01ef466fde27a13ca4d4719afcddb7a14312e55340a33f3",
+ "fetched_at": "2026-10-29T14:13:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

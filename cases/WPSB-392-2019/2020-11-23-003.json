@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/392/2019:2020-11-23-003",
+ "title": "MAHENDER VEER VIKRAM SINGH versus CANE AND SUGAR COMMISSIONER",
+ "petitioner": "MAHENDER VEER VIKRAM SINGH",
+ "respondent": "CANE AND SUGAR COMMISSIONER",
+ "case_no": "WPSB/392/2019",
+ "case_type": "WPSB",
+ "decision_date": "2020-11-23",
+ "cnr": "UKHC010132082019",
+ "doc_kind": "order",
+ "order_type": "WPSB/392/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9hDuwmsnsRXXvfAPvSTF6v6LvQgPx3dz5u5fpG6PIw1&caseno=WPSB/392/2019&cCode=1&cino=UKHC010132082019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "64cef16a7f7268b2c3a59a990520796b9a6f247cd300e558cc2024e687895d3b",
+ "fetched_at": "2026-10-29T14:08:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

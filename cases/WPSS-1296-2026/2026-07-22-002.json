@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1296/2026:2026-07-22-002",
+ "title": "HARISH CHANDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARISH CHANDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1296/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-22",
+ "cnr": "UKHC010081252026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1296/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQthPihwQT3vH2v%2BVU12RwS71h1qWDqs%2BD4z2%2FZ%2FCwyoU&caseno=WPSS/1296/2026&cCode=1&cino=UKHC010081252026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce963101dd4cad5f1f82f581ea929161dd7c711d360730abd63216507e297618",
+ "fetched_at": "2026-10-29T14:26:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/505/2025:2026-04-24-010",
+ "title": "HIMANSHU GUPTA versus STATE OF UTTARAKHAND",
+ "petitioner": "HIMANSHU GUPTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/505/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-04-24",
+ "cnr": "UKHC010039282025",
+ "doc_kind": "order",
+ "order_type": "BA1/505/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4Tw0U4TEKKfavsgrvVEype0sKFB%2FzWuaqZ%2BTS80LCCy&caseno=BA1/505/2025&cCode=1&cino=UKHC010039282025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "663b7c482263b8c3eb9a55b8910de5ed18802cd18939495afcf8298308080afb",
+ "fetched_at": "2026-10-29T14:39:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

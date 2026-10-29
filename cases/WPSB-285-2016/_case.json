@@ -1,24 +1,884 @@
 {
  "cnr_number": "UKHC010001162016",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
- "first_hearing_date": null,
+ "case_type": "WPSB",
+ "filing_number": "WPSB /1009080/2016",
+ "filing_date": "2016-07-28",
+ "registration_number": "WPSB /285/2016",
+ "registration_date": "2016-07-28",
+ "first_hearing_date": "2016-08-01",
  "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -238",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Shri Justice Manoj Kumar Gupta , Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "MUKESH DATT",
+   "advocate": "TAPAN SINGH,BHAGWAT MEHRA,BHAGWAT MEHRA, ,AJAY VEER PUNDIR,BHAGWAT MEHRA"
+  },
+  {
+   "name": "BHARAT PRAKASH",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "DHIRAJ KUMAR",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "VIMAL KUMAR SUNTHA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "MADAN MOHAN SHARMA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "SUSHIL KUMAR",
+   "advocate": "BHAGWAT MEHRA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND   Advocate- ,C.S.C., 1123",
+   "advocate": ""
+  },
+  {
+   "name": "CHIEF ENGINEER AND HEAD OF THE DEPARTMENT",
+   "advocate": ""
+  },
+  {
+   "name": "PRASANT KUMAR",
+   "advocate": "DEVIKA TIWARI"
+  },
+  {
+   "name": "ABHISHEK KHOLIA",
+   "advocate": "DEVIKA TIWARI"
+  },
+  {
+   "name": "DIPANKER SINGH BHARTI",
+   "advocate": "DEVIKA TIWARI,HEMANT PANT"
+  },
+  {
+   "name": "L.P. BADONI",
+   "advocate": ""
+  },
+  {
+   "name": "NARESH KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "GOVERDHAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "A.K. BHARDWAJ",
+   "advocate": ""
+  },
+  {
+   "name": "GURDEV",
+   "advocate": ""
+  },
+  {
+   "name": "B.D. BENJWAL",
+   "advocate": ""
+  },
+  {
+   "name": "MATWAR SINGH FARSWAN",
+   "advocate": ""
+  },
+  {
+   "name": "DINESH CHANDRA MISHRA",
+   "advocate": ""
+  },
+  {
+   "name": "MATWAR SINGH FARSWAN",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-19",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-05-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-04-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-08-14",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-08-14",
+   "business_date": "2025-07-31",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-07-24",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-07-17",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-07-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-10",
+   "business_date": "2025-06-19",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-04-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-04",
+   "business_date": "2025-03-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-24",
+   "business_date": "2024-08-07",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-07",
+   "business_date": "2024-07-31",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-31",
+   "business_date": "2024-07-24",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-24",
+   "business_date": "2024-07-10",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-10",
+   "business_date": "2024-07-02",
+   "purpose": "PENSION MATTERS -258",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-02",
+   "business_date": "2024-05-07",
+   "purpose": "PENSION MATTERS -258",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-05-07",
+   "business_date": "2024-04-09",
+   "purpose": "FOR FINAL HEARING -100",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-09",
+   "business_date": "2024-04-02",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-03-22",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-22",
+   "business_date": "2024-03-01",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-01",
+   "business_date": "2024-01-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-01-05",
+   "business_date": "2023-12-15",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-12-15",
+   "business_date": "2023-11-24",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-11-24",
+   "business_date": "2023-11-03",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-11-03",
+   "business_date": "2023-09-18",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-12-07",
+   "business_date": "2023-07-11",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-11-26",
+   "business_date": "2021-11-08",
+   "purpose": "FOR FINAL HEARING -100",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-08-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-09-21",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-09-21",
+   "business_date": "2019-09-20",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-07-03",
+   "business_date": "2019-05-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-04-11",
+   "business_date": "2019-03-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-03-14",
+   "business_date": "2019-03-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-01-09",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-08-09",
+   "business_date": "2018-08-09",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-08-09",
+   "business_date": "2018-08-02",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-08-02",
+   "business_date": "2018-08-01",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-08-01",
+   "business_date": "2018-07-17",
+   "purpose": "ORDER MATTERS (AFTER FRESH) -20",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-07-17",
+   "business_date": "2018-07-10",
+   "purpose": "ORDER MATTERS (AFTER FRESH) -20",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-07-10",
+   "business_date": "2018-06-25",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-06-25",
+   "business_date": "2018-04-20",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-04-20",
+   "business_date": "2018-03-28",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-03-28",
+   "business_date": "2018-03-21",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-03-21",
+   "business_date": "2018-03-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-03-14",
+   "business_date": "2018-03-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-03-12",
+   "business_date": "2018-01-08",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-01-08",
+   "business_date": "2017-11-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-11-22",
+   "business_date": "2017-11-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-11-13",
+   "business_date": "2017-10-31",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-10-31",
+   "business_date": "2017-10-26",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-10-26",
+   "business_date": "2017-10-10",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-10-10",
+   "business_date": "2017-10-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-10-03",
+   "business_date": "2017-09-07",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-09-07",
+   "business_date": "2017-07-18",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-07-18",
+   "business_date": "2017-07-12",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-07-12",
+   "business_date": "2017-06-28",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-06-28",
+   "business_date": "2017-04-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-03-24",
+   "business_date": "2017-03-24",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-04-28",
+   "business_date": "2017-03-24",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-03-24",
+   "business_date": "2017-01-06",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-01-06",
+   "business_date": "2016-12-14",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-12-14",
+   "business_date": "2016-10-20",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-10-20",
+   "business_date": "2016-10-04",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-10-04",
+   "business_date": "2016-09-28",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-09-28",
+   "business_date": "2016-08-12",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-08-12",
+   "business_date": "2016-08-03",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-08-03",
+   "business_date": "2016-08-01",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-08-01",
+   "business_date": "2016-07-29",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2016-08-01",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfpAN6tBm%2FiOQ3BXJi%2BthK3D&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2016-12-14",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfrJREjUlaeiDecufQ%2BTo7UN&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-03-24",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfpdzYrqUWHo9SfagC7GSWle&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-06-28",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfrEiTbsOqK86oWbK1I0aZm%2F&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-07-12",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfq0M%2FpRBzy%2FBY%2F60eDCu4Y8&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-10-03",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfrOfjKUw3QARcqkr8Vj0igV&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-10-03",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfqmFYronvrYpzA%2Fba9Rpibe&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-10-10",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfp5I57QXxKovBeUuaF0QC%2Ba&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-10-26",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfoDksgb4UrWSpVlgkXw43zm&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-10-26",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfo16baKfEaWWoAaOgmX4fUG&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-11-13",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfrnKZ4fm6FXlougj%2BGRkEdT&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-03-12",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfpNHl%2FZCdLaPQoxeESDrlpk&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-03-14",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfohuK2ADb4i4tV%2BM1eIE6D0&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-03-14",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfrgJLUvvs3MFiUOOU5Rb7mc&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-03-21",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfpZDKjf0FYHAf%2FSrRqV0Trm&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-06-25",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfr8%2F6RLsKimMQgYtXGNZnyF&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-07-10",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfo6FA3vDYwKuvI6WPatTVGG&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-07-17",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfqzCEQOSb0MbTjSp5nFBFoe&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-08-01",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfqYwq1DM1fbaCpU4PF9dawg&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-01-09",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfrtzN4ZQoxvo5RnI4X7tJ%2Fl&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-03-14",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Ramesh Ranganathan,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfr4U6SWKa584YcLATO8CW9%2F&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-09-21",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfpiBo93GbpP5XzJm8N7Tipg&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-08-04",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Ravi Malimath,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfoXy3%2FTizUOsxC7ydfwLPZT&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-11-08",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Raghvendra Singh Chauhan,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfqOIqL6us6HaUjY%2FBimDSn%2F&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-07-11",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfqVkIVKm37u8tx%2Fg8NB6tZ%2F&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-05-07",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfp8STUGPeter5WgxHRtBKeA&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-08-07",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfrnuu7wNhm7aApef63UgGWR&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-03-28",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfpjzyWvBP2BYMsYmg2zl%2FOf&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-06-19",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfoZqIO28mfHOJ69B1KS5QOi&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-07-31",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfriw5zOpt5VL%2BweVkXM53G4&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-08-14",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfrgLOSs4w%2FHhGhfQMByn7Gq&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-19",
+   "order_type": "WPSB/285/2016",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBUP%2BYi53pPAe9HKgeRZzkfo%2BzLUsGmLbvV3p%2B2kSwAuG&caseno=WPSB/285/2016&cCode=1&cino=UKHC010001162016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2414/2026:2026-09-16-001",
+ "title": "ANKUSH KUMAR versus STATE BANK OF INDIA",
+ "petitioner": "ANKUSH KUMAR",
+ "respondent": "STATE BANK OF INDIA",
+ "case_no": "WPSS/2414/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010162232026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2414/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh1PuX0W4D%2BNWifL3qZaPwER5r7k9Ky1vAtz2DcUOhU6&caseno=WPSS/2414/2026&cCode=1&cino=UKHC010162232026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8f82deeaf68b53631d5edaa2ecf0d737ec9cdf86b6f2de0125d4ddde5fc2799e",
+ "fetched_at": "2026-10-29T14:25:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

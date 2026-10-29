@@ -6,7 +6,7 @@
  "registration_number": "WPMS /1362/2019",
  "registration_date": "2019-05-16",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-10-30",
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING -40",
  "status": "",
@@ -67,6 +67,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -210,17 +217,17 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2024-02-19",
-   "business_date": "2023-11-22",
-   "purpose": "Restored",
-   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
-   "cause_list_type": ""
-  },
-  {
    "hearing_date": null,
    "business_date": "2023-11-22",
    "purpose": "Disposed",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": "2024-02-19",
+   "business_date": "2023-11-22",
+   "purpose": "Restored",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "cause_list_type": ""
   },
   {

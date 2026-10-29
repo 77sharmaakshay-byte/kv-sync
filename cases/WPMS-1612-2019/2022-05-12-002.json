@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1612/2019:2022-05-12-002",
+ "title": "PRAYAG PATHOLOGY LABORATORY versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAYAG PATHOLOGY LABORATORY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1612/2019",
+ "case_type": "WPMS",
+ "decision_date": "2022-05-12",
+ "cnr": "UKHC010083602019",
+ "doc_kind": "order",
+ "order_type": "WPMS/1612/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF1awZ7pkGyP5uriouP6gekzMaOF7wCCg3km%2F8KJYIvvM&caseno=WPMS/1612/2019&cCode=1&cino=UKHC010083602019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "477214da6991cce5c2e039a3ad3b2a090f696df08e0fe3bd9cab37960fbc65eb",
+ "fetched_at": "2026-10-29T14:53:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/359/2026:2026-09-15-002",
+ "title": "DEEPAK SAINI versus STATE OF UTTARAKHAND",
+ "petitioner": "DEEPAK SAINI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/359/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010149292026",
+ "doc_kind": "order",
+ "order_type": "SPA/359/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhL0T7089g4PJQZJNFlCBZWF%2FbGP5V6lSq7%2FVB9aqOFa&caseno=SPA/359/2026&cCode=1&cino=UKHC010149292026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fc410f6fd983efddcc60c29d4e713a81a41be1bd4db9748e334c6f73b34be365",
+ "fetched_at": "2026-10-29T14:10:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

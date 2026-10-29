@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1231/2023:2026-09-01-010",
+ "title": "HARISH SINGH KORANGA versus STATE OF UTTARAKHAND",
+ "petitioner": "HARISH SINGH KORANGA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1231/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010110402023",
+ "doc_kind": "order",
+ "order_type": "IA/5/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYyOtmUzx8WcCzR%2BVgPjiTYpB7rZ8SMotVheAg5drGUrb&caseno=WPSS/1231/2023&cCode=1&cino=UKHC010110402023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a015b58cb0c7e5a5d4ffddd62c70e91b812c0780ae505d52abf94d4d23516b5e",
+ "fetched_at": "2026-10-29T14:31:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

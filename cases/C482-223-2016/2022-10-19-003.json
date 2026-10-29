@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/223/2016:2022-10-19-003",
+ "title": "Deep Chandra Bhatt versus State Of Uttarakhand   Advocate- G.A. 1123",
+ "petitioner": "Deep Chandra Bhatt",
+ "respondent": "State Of Uttarakhand   Advocate- G.A. 1123",
+ "case_no": "C482/223/2016",
+ "case_type": "C482",
+ "decision_date": "2022-10-19",
+ "cnr": "UKHC010015712016",
+ "doc_kind": "order",
+ "order_type": "C482/223/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBdSSaDXbRIsJZBA2BEKT%2BTeu3bcv0SCJVjiFlUQgVW1Z&caseno=C482/223/2016&cCode=1&cino=UKHC010015712016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6b81867f36ece2a9967dcd1f5c539956281e504033ce36382ea2055f23d68107",
+ "fetched_at": "2026-10-29T14:08:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

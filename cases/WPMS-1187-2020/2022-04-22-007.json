@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1187/2020:2022-04-22-007",
+ "title": "JASPAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "JASPAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1187/2020",
+ "case_type": "WPMS",
+ "decision_date": "2022-04-22",
+ "cnr": "UKHC010069142020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1187/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjEx0nnp2%2BzcYkr8yRKVTQSgkdZEijMHNmccooEOLWP%2BO&caseno=WPMS/1187/2020&cCode=1&cino=UKHC010069142020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1c0968ea57249ffd028a4cab9109dd3a34247b58dfffd0094aade6b1559d6c2a",
+ "fetched_at": "2026-10-29T14:40:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

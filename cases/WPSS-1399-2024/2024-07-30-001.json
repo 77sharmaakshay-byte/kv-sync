@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1399/2024:2024-07-30-001",
+ "title": "ARJUN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ARJUN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1399/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-07-30",
+ "cnr": "UKHC010117872024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1399/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcDlIBYPzuFqLX4PeHgn6gVNqEbxuU84BgWBF68%2B47TW9&caseno=WPSS/1399/2024&cCode=1&cino=UKHC010117872024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "62393561f74c85d239e045848857d7005b7f3b441a267dc2c436045fe91348c0",
+ "fetched_at": "2026-10-29T14:26:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ARBAP/76/2025:2026-02-13-001",
+ "title": "M/S INDIA GLYCOLS LIMITED versus BEN AND GAWS PRIVATE LIMITED",
+ "petitioner": "M/S INDIA GLYCOLS LIMITED",
+ "respondent": "BEN AND GAWS PRIVATE LIMITED",
+ "case_no": "ARBAP/76/2025",
+ "case_type": "ARBAP",
+ "decision_date": "2026-02-13",
+ "cnr": "UKHC010205842025",
+ "doc_kind": "order",
+ "order_type": "ARBAP/76/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmz2AxxFgeKUu5h%2B6jtXtKRBl4i%2Flh%2B6CNnzMLAr5IR2B&caseno=ARBAP/76/2025&cCode=1&cino=UKHC010205842025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc1ccfe897ad855bae603248d5b24eed9ffcfde9c1d2cdcf913605fd7fcc7b6c",
+ "fetched_at": "2026-10-29T14:13:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

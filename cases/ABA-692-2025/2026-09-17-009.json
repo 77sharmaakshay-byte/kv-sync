@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/692/2025:2026-09-17-009",
+ "title": "REENA BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "REENA BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/692/2025",
+ "case_type": "ABA",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010091942025",
+ "doc_kind": "order",
+ "order_type": "ABA/692/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "REMANDED MATTERS -143",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2BR%2BRyYvFQ1BigtIIXLhGzZpt3IrcTI4iKPbCeVo1rXz&caseno=ABA/692/2025&cCode=1&cino=UKHC010091942025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4605484e56f11fb70a512e694832292213265cc41f8edf5c8e034f17e53722d3",
+ "fetched_at": "2026-10-29T14:22:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

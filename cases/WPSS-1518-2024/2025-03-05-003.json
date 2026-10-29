@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1518/2024:2025-03-05-003",
+ "title": "RAJ KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJ KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1518/2024",
+ "case_type": "WPSS",
+ "decision_date": "2025-03-05",
+ "cnr": "UKHC010125362024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1518/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBUwWHANnIiNzuBdleHrFW9zeHnHGBcrN2odxBnCSFWE&caseno=WPSS/1518/2024&cCode=1&cino=UKHC010125362024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cff2a335c18a5707c636d20f9adaa926e21ace34e0b924700995592f758b6902",
+ "fetched_at": "2026-10-29T14:26:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

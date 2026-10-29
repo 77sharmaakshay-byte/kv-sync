@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/44/2019:2023-03-18-011",
+ "title": "MAHAVEER SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHAVEER SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/44/2019",
+ "case_type": "WPMS",
+ "decision_date": "2023-03-18",
+ "cnr": "UKHC010002152019",
+ "doc_kind": "order",
+ "order_type": "WPMS/44/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF0il9A6rcgi9ZHkdOIYmVBg8qN9hzs9YPoXgqq2tyxbM&caseno=WPMS/44/2019&cCode=1&cino=UKHC010002152019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6fd744938e1b614f92c056f4ce74e54f797d850e8ad4ac9ed5c15d1ca47b08d1",
+ "fetched_at": "2026-10-29T14:11:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

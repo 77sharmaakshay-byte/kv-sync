@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3004/2017:2026-04-09-011",
+ "title": "GAURAV SAHI versus SATENDRA SINGH KSHETRI",
+ "petitioner": "GAURAV SAHI",
+ "respondent": "SATENDRA SINGH KSHETRI",
+ "case_no": "WPMS/3004/2017",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-09",
+ "cnr": "UKHC010037732017",
+ "doc_kind": "order",
+ "order_type": "WPMS/3004/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh3X1GiQoqNpPJv2ka%2BgwaJrdbYEKUns5mIhdT%2BIyDebW&caseno=WPMS/3004/2017&cCode=1&cino=UKHC010037732017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d142758e8ceff65025769c8340982e96498610d3c32c6a82ca0e11c1a5fe901d",
+ "fetched_at": "2026-10-29T14:12:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

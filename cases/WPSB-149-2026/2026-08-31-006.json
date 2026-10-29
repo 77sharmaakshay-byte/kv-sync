@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/149/2026:2026-08-31-006",
+ "title": "KUNAL versus UNION OF INDIA",
+ "petitioner": "KUNAL",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSB/149/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010041022026",
+ "doc_kind": "order",
+ "order_type": "IA/4/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnBuB4P1mtpO96%2FwAuA8HwGIYwUIqKSkSHhUV4H4G6Dm&caseno=WPSB/149/2026&cCode=1&cino=UKHC010041022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "59092a608da16b67c6f282bbc1200ec3f2ca9ac9ff83defb9c3f7b1a4d5f4b3e",
+ "fetched_at": "2026-10-29T14:07:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

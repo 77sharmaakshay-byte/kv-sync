@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/385/2024:2024-06-10-001",
+ "title": "JEET SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "JEET SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/385/2024",
+ "case_type": "WPSB",
+ "decision_date": "2024-06-10",
+ "cnr": "UKHC010079442024",
+ "doc_kind": "order",
+ "order_type": "WPSB/385/2024",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcHYRbnMRPaeU3eX1bE97udlFTpghimNsecIMwSdDEz6h&caseno=WPSB/385/2024&cCode=1&cino=UKHC010079442024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0df2e825f86a595f535c679878803ac4b83b7f8e6223176c4b5a7b6c45c13fef",
+ "fetched_at": "2026-10-29T14:09:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

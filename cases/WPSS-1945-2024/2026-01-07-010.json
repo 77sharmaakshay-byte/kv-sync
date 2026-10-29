@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1945/2024:2026-01-07-010",
+ "title": "NEHA versus STATE OF UTTARAKHAND",
+ "petitioner": "NEHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1945/2024",
+ "case_type": "WPSS",
+ "decision_date": "2026-01-07",
+ "cnr": "UKHC010161942024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1945/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PART HEARD MATTERS -132",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcF9EPCI0zLKJ45rm%2BmfhSy5YJheNOIlG%2BPTGA5P6xy8G&caseno=WPSS/1945/2024&cCode=1&cino=UKHC010161942024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a263730391ed3764832c37f3ab359411a44e8e72f5f8cfc0fa0fa8f01d428d2a",
+ "fetched_at": "2026-10-29T14:23:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

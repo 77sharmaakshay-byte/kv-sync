@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/501/2023:2023-11-24-002",
+ "title": "RAJENDRA JOSHI versus HONBLE HIGH COURT OF UTTARAKHAND",
+ "petitioner": "RAJENDRA JOSHI",
+ "respondent": "HONBLE HIGH COURT OF UTTARAKHAND",
+ "case_no": "WPSB/501/2023",
+ "case_type": "WPSB",
+ "decision_date": "2023-11-24",
+ "cnr": "UKHC010181542023",
+ "doc_kind": "order",
+ "order_type": "WPSB/501/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7dlvVcr9uWEoRp5h9hqcufV800tGcnXLxXWrF%2FIgoD6&caseno=WPSB/501/2023&cCode=1&cino=UKHC010181542023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f2628e4c819ab9dda1cbd76dd8b34718d8bbed1029ae2dd6ce5a67bfdb6a6ab7",
+ "fetched_at": "2026-10-29T14:08:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

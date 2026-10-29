@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/222/2016:2023-08-07-009",
+ "title": "Dinesh Kumar Bankoti versus State Of Uttarakhand   Advocate- G.A. 1123",
+ "petitioner": "Dinesh Kumar Bankoti",
+ "respondent": "State Of Uttarakhand   Advocate- G.A. 1123",
+ "case_no": "C482/222/2016",
+ "case_type": "C482",
+ "decision_date": "2023-08-07",
+ "cnr": "UKHC010003162016",
+ "doc_kind": "order",
+ "order_type": "C482/222/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYvnFmfGlqY%2BIksolrX8Vx1lWqs2bedsaO7lIUFAkzPc&caseno=C482/222/2016&cCode=1&cino=UKHC010003162016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "74456c8744ea5baefec0bcb3319348296ba95a3d99ad2c92e768f41200c144cd",
+ "fetched_at": "2026-10-29T14:08:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

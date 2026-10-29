@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/405/2026:2026-02-13-001",
+ "title": "SHIVLAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SHIVLAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/405/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-02-13",
+ "cnr": "UKHC010020672026",
+ "doc_kind": "order",
+ "order_type": "WPSS/405/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrFBD7ZvYZ43B%2BpLuZdRYqgnWtnpP2cJN%2F3sVhDNySBl&caseno=WPSS/405/2026&cCode=1&cino=UKHC010020672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b12615fc7d94c28c399ba3eb8c2ea214357a3e520d81a051d35d198818e0aef9",
+ "fetched_at": "2026-10-29T14:26:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/149/2025:2025-12-11-001",
+ "title": "ASHISH KUMAR versus BALVEER SINGH CHAND",
+ "petitioner": "ASHISH KUMAR",
+ "respondent": "BALVEER SINGH CHAND",
+ "case_no": "SA/149/2025",
+ "case_type": "SA",
+ "decision_date": "2025-12-11",
+ "cnr": "UKHC010194652025",
+ "doc_kind": "order",
+ "order_type": "SA/149/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0N8rSPkVFhZMQ0a1oTPmENjtkB97378KTW5nwbnodax&caseno=SA/149/2025&cCode=1&cino=UKHC010194652025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "69cc76106f5bda3dc9ba316eaa001cdc77ae8d0cf14ec224d8565d6de178b0a0",
+ "fetched_at": "2026-10-29T14:30:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

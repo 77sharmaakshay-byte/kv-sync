@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/527/2023:2024-02-12-001",
+ "title": "KAILASH CHANDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "KAILASH CHANDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/527/2023",
+ "case_type": "WPSB",
+ "decision_date": "2024-02-12",
+ "cnr": "UKHC010191122023",
+ "doc_kind": "order",
+ "order_type": "WPSB/527/2023",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY2JntChMcjHfx6R1ypY0Nfj6Ed6BNu6Omuslv%2Bg751K3&caseno=WPSB/527/2023&cCode=1&cino=UKHC010191122023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "682ea453ce2d8bbb9d0aecf1473a20170572ae3ae1d7a28664127bb560aca4c1",
+ "fetched_at": "2026-10-29T14:09:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

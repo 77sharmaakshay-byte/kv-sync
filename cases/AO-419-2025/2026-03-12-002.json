@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/419/2025:2026-03-12-002",
+ "title": "Kavita Devi Sahi versus United India Insurance Company Ltd",
+ "petitioner": "Kavita Devi Sahi",
+ "respondent": "United India Insurance Company Ltd",
+ "case_no": "AO/419/2025",
+ "case_type": "AO",
+ "decision_date": "2026-03-12",
+ "cnr": "UKHC010185932025",
+ "doc_kind": "order",
+ "order_type": "AO/419/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4Ng4YmeQ3Vs9uQmo2vPLKdxwt%2FZqtmzdU1OTlimQK9O&caseno=AO/419/2025&cCode=1&cino=UKHC010185932025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7d02137e9d379c6aa82bb16b3a475923ac9ac9af5735fbabe4a4aec1ec1be75f",
+ "fetched_at": "2026-10-29T14:31:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1448/2024:2025-04-04-008",
+ "title": "LALITA versus STATE OF UTTARAKHAND",
+ "petitioner": "LALITA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1448/2024",
+ "case_type": "WPSS",
+ "decision_date": "2025-04-04",
+ "cnr": "UKHC010120682024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1448/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcFMqhcTytyGyQyXP43Xv1u%2FEnL%2BWw1Z71VrlN5opfiOd&caseno=WPSS/1448/2024&cCode=1&cino=UKHC010120682024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2b52693a8c787b0a5e0378bd6a5dbc3960aaebc70c303ef65b89ede24ed6ac92",
+ "fetched_at": "2026-10-29T14:28:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

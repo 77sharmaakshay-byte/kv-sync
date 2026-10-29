@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/248/2020:2021-10-06-002",
+ "title": "RANI SUMITRA RAJE versus KEWAL SANON (DECEASED)",
+ "petitioner": "RANI SUMITRA RAJE",
+ "respondent": "KEWAL SANON (DECEASED)",
+ "case_no": "AO/248/2020",
+ "case_type": "AO",
+ "decision_date": "2021-10-06",
+ "cnr": "UKHC010128672020",
+ "doc_kind": "order",
+ "order_type": "AO/248/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHLC6W3MB6CyYgjxXxPCj82iDT1eYrHiIiCqIL1j6nyX&caseno=AO/248/2020&cCode=1&cino=UKHC010128672020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fdd454d082ef3481ccccd80587b5b56d6fd218e5fe5746b2e4e4a0476dcf539a",
+ "fetched_at": "2026-10-29T14:13:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

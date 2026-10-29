@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/865/2025:2025-08-28-004",
+ "title": "SAHIL AHMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "SAHIL AHMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/865/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-08-28",
+ "cnr": "UKHC010119172025",
+ "doc_kind": "order",
+ "order_type": "ABA/865/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2JAu5WszrcXeLkVI29jmIjaxarP8JKQg07lxQ9gHkKw&caseno=ABA/865/2025&cCode=1&cino=UKHC010119172025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c33c622cd65cf4e52a56c8d84e2dbadbd1fe60874331a5fb264fa9cffab44a94",
+ "fetched_at": "2026-10-29T14:40:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

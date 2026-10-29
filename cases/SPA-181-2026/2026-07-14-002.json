@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/181/2026:2026-07-14-002",
+ "title": "VIKRAM JEET SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "VIKRAM JEET SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/181/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-07-14",
+ "cnr": "UKHC010084902026",
+ "doc_kind": "order",
+ "order_type": "SPA/181/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjNFNybG33ppGiS1HK6yBNdxfpDReYzvsWFqc9jBfmIK&caseno=SPA/181/2026&cCode=1&cino=UKHC010084902026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e47ee5454c90bb6720252d0a794a8ddcd8a23856094fbbecbbdee5f73d9a838",
+ "fetched_at": "2026-10-29T14:10:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

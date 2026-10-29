@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/539/2019:2019-11-26-001",
+ "title": "KISHAN CHAND versus STATE OF UTTARAKHAND",
+ "petitioner": "KISHAN CHAND",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/539/2019",
+ "case_type": "WPSB",
+ "decision_date": "2019-11-26",
+ "cnr": "UKHC010191162019",
+ "doc_kind": "order",
+ "order_type": "WPSB/539/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFzhujhdV7GR23ku1wEiEhnbuS6%2FLbXiFuRNJrsoBOA22&caseno=WPSB/539/2019&cCode=1&cino=UKHC010191162019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d27db1d8e279202653e68eac4ef754fff700189d09632a1bf652ddcfaefd51ee",
+ "fetched_at": "2026-10-29T14:08:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/405/2026:2026-08-03-003",
+ "title": "SHIVLAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SHIVLAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/405/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-03",
+ "cnr": "UKHC010020672026",
+ "doc_kind": "order",
+ "order_type": "WPSS/405/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrFBD7ZvYZ43B%2BpLuZdRYqj0ZGMUUPW2j3OIYJUVhauQ&caseno=WPSS/405/2026&cCode=1&cino=UKHC010020672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "332a534f894eb40092f673287495702b4e450102dc2b48442e5922c39fe1e1a3",
+ "fetched_at": "2026-10-29T14:26:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

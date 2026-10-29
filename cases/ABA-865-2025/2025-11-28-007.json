@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/865/2025:2025-11-28-007",
+ "title": "SAHIL AHMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "SAHIL AHMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/865/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-11-28",
+ "cnr": "UKHC010119172025",
+ "doc_kind": "order",
+ "order_type": "ABA/865/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2JAu5WszrcXeLkVI29jmIhlKusjHh1V65s8oPWbrcX0&caseno=ABA/865/2025&cCode=1&cino=UKHC010119172025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e11adaab84d500fb922c51b4c013bd648ee1da62614af4f48acc3fa949db1353",
+ "fetched_at": "2026-10-29T14:40:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

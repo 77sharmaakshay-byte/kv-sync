@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1176/2015:2022-06-20-005",
+ "title": "Ramesh Chand Sharma versus Thakur Das Sindhi",
+ "petitioner": "Ramesh Chand Sharma",
+ "respondent": "Thakur Das Sindhi",
+ "case_no": "WPMS/1176/2015",
+ "case_type": "WPMS",
+ "decision_date": "2022-06-20",
+ "cnr": "UKHC010019442015",
+ "doc_kind": "order",
+ "order_type": "WPMS/1176/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWVCiXgcoSF3VWphHcEgrNV2de%2BJyBencvcdlimFd9w6Q&caseno=WPMS/1176/2015&cCode=1&cino=UKHC010019442015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d8cf248ab1b3b2b4c572aaf5b574a1f8f43c96b1838689596b152476e638e372",
+ "fetched_at": "2026-10-29T14:16:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

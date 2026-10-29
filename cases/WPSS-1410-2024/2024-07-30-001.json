@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1410/2024:2024-07-30-001",
+ "title": "ANIL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1410/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-07-30",
+ "cnr": "UKHC010117232024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1410/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcP3FyEYXEuLpPimrfSgqU81Kxq58a2O8a55ZyWZGyx5b&caseno=WPSS/1410/2024&cCode=1&cino=UKHC010117232024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c5320b2f18399624e330c7069cd4dfd5538b37fb3fd8934ca2831fe35d62cd06",
+ "fetched_at": "2026-10-29T14:26:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

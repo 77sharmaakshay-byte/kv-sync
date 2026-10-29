@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2345/2026:2026-09-09-001",
+ "title": "KRISHNA NAND BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "KRISHNA NAND BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2345/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010158012026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2345/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuSWeU5Rj8EvqRUlcQDC3nyLKR6wlP5Lrtf6Lz6T9Xal&caseno=WPSS/2345/2026&cCode=1&cino=UKHC010158012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7a13d5bdeb702e523b7b31e17870c40c65fd2cf1dd016562d26d236c89e63453",
+ "fetched_at": "2026-10-29T14:25:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

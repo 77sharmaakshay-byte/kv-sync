@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/456/2023:2026-03-18-010",
+ "title": "LALIT MOHAN SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "LALIT MOHAN SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/456/2023",
+ "case_type": "WPSB",
+ "decision_date": "2026-03-18",
+ "cnr": "UKHC010165592023",
+ "doc_kind": "order",
+ "order_type": "WPSB/456/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7%2BKCDccvTF%2BGo0HMWrzo7C214ZXVAnjXX7JEdIBWDWU&caseno=WPSB/456/2023&cCode=1&cino=UKHC010165592023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e3922510a6916c263929ad09b707b81604a59f312eb906a5e93d03cf0976d135",
+ "fetched_at": "2026-10-29T14:09:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

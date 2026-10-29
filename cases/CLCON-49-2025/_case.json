@@ -1,0 +1,99 @@
+{
+ "cnr_number": "UKHC010019802025",
+ "case_type": "CLCON",
+ "filing_number": "CLCON /988/2025",
+ "filing_date": "2025-02-18",
+ "registration_number": "CLCON /49/2025",
+ "registration_date": "2025-02-18",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "VIKAS KUMAR CHOUDHARY",
+   "advocate": "AMAR MURTI SHUKLA,DUSHYANT MAINALI,DUSHYANT MAINALI, ,DUSHYANT MAINALI"
+  },
+  {
+   "name": "NEELAM CHOUDHARY",
+   "advocate": "DUSHYANT MAINALI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "J L PRASANNA KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "SUDEEPTO MAJUMDAR",
+   "advocate": "S S CHAUHAN"
+  },
+  {
+   "name": "RAJESH L. KUMBHARE",
+   "advocate": "S S CHAUHAN"
+  }
+ ],
+ "acts": [
+  {
+   "act": "CONTEMPT OF COURT'S ACT,1971",
+   "sections": "12"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2025-02-20",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-07",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-02",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2025-04-21",
+   "business_date": "2025-02-20",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2025-02-20",
+   "order_type": "CLCON/49/2025",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwzaJZEufEiYpmWbCq%2F8FiMF53zqTCwWfV6pzfVOPWEP&caseno=CLCON/49/2025&cCode=1&cino=UKHC010019802025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-07",
+   "order_type": "CLCON/49/2025",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwzaJZEufEiYpmWbCq%2F8FiPAJaCAVFToNEBIkYLFY3T%2F&caseno=CLCON/49/2025&cCode=1&cino=UKHC010019802025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

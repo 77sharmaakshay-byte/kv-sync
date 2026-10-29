@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3004/2017:2020-07-28-002",
+ "title": "GAURAV SAHI versus SATENDRA SINGH KSHETRI",
+ "petitioner": "GAURAV SAHI",
+ "respondent": "SATENDRA SINGH KSHETRI",
+ "case_no": "WPMS/3004/2017",
+ "case_type": "WPMS",
+ "decision_date": "2020-07-28",
+ "cnr": "UKHC010037732017",
+ "doc_kind": "order",
+ "order_type": "WPMS/3004/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh3X1GiQoqNpPJv2ka%2BgwaJpYVKap58jJzbqvs2yvGtle&caseno=WPMS/3004/2017&cCode=1&cino=UKHC010037732017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9b9467f725f60916fcf1f633776b7ad7018bd98a5b7f79819cb9cebc90736d99",
+ "fetched_at": "2026-10-29T14:12:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

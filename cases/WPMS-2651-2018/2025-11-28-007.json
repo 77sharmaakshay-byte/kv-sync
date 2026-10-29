@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2651/2018:2025-11-28-007",
+ "title": "IRSHAD AHMAD versus RAEES AHMAD   Advocate- ,C.S.C. 1123",
+ "petitioner": "IRSHAD AHMAD",
+ "respondent": "RAEES AHMAD   Advocate- ,C.S.C. 1123",
+ "case_no": "WPMS/2651/2018",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-28",
+ "cnr": "UKHC010027982018",
+ "doc_kind": "order",
+ "order_type": "WPMS/2651/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGLxdSHzRJkBwbI60YRYeR8nQX3SfPyuXDAKCKE%2BTsvm25&caseno=WPMS/2651/2018&cCode=1&cino=UKHC010027982018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2b04fbfb0ba816f66ed175d2007a9f0921ff73bc347baaf5656b6a3096a6487e",
+ "fetched_at": "2026-10-29T14:15:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

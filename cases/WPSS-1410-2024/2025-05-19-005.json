@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1410/2024:2025-05-19-005",
+ "title": "ANIL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1410/2024",
+ "case_type": "WPSS",
+ "decision_date": "2025-05-19",
+ "cnr": "UKHC010117232024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1410/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcP3FyEYXEuLpPimrfSgqU83cu3LCPGk30pdtbyUgfywz&caseno=WPSS/1410/2024&cCode=1&cino=UKHC010117232024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "da6a9e8f06ede3b5f284d31cf3d29deef2007d2bc6dca2291efba5fcae747409",
+ "fetched_at": "2026-10-29T14:26:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

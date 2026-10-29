@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/189/2026:2026-07-08-001",
+ "title": "NEHA KHETWAL versus UTTARAKHAND PUBLIC SERVICE COMMISSION",
+ "petitioner": "NEHA KHETWAL",
+ "respondent": "UTTARAKHAND PUBLIC SERVICE COMMISSION",
+ "case_no": "SPA/189/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010087252026",
+ "doc_kind": "order",
+ "order_type": "SPA/189/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqchRH6aPv9JWUziRhHaDr6pwbepE0AhdNYfqU1DUHeM&caseno=SPA/189/2026&cCode=1&cino=UKHC010087252026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "aa37b50be23f697213b524ea06dface1c63be5a46f7093e2ddd8b1090e9c3f9d",
+ "fetched_at": "2026-10-29T14:09:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

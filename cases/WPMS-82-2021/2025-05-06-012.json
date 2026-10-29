@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/82/2021:2025-05-06-012",
+ "title": "VED PRAKASH versus STATE OF UTTARAKHAND",
+ "petitioner": "VED PRAKASH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/82/2021",
+ "case_type": "WPMS",
+ "decision_date": "2025-05-06",
+ "cnr": "UKHC010004452021",
+ "doc_kind": "order",
+ "order_type": "WPMS/82/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkFGDdIs7K9exxliudJT7B7gPJ4URcnly6mqixFirBixh&caseno=WPMS/82/2021&cCode=1&cino=UKHC010004452021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eae39831c4cee89640d26483994b0772fd356c46a7fe247efbb694c12c6100ff",
+ "fetched_at": "2026-10-29T14:42:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

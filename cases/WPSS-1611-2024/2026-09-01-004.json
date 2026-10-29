@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1611/2024:2026-09-01-004",
+ "title": "ARJUN versus THE MANAGING DIRECTOR",
+ "petitioner": "ARJUN",
+ "respondent": "THE MANAGING DIRECTOR",
+ "case_no": "WPSS/1611/2024",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010133212024",
+ "doc_kind": "order",
+ "order_type": "IA/2/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKyupyFh9Q7wbP0QZvO9r5QoY7Jw6KOphqelta5%2BIQFp&caseno=WPSS/1611/2024&cCode=1&cino=UKHC010133212024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f8abb8dd4d89b92620fb7af072e02eb182b2819187657c01f683c85ebde95263",
+ "fetched_at": "2026-10-29T14:31:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/2143/2025:2025-11-10-001",
+ "title": "JASWANT SINGH ALIAS JASSI versus STATE OF UTTARAKHAND",
+ "petitioner": "JASWANT SINGH ALIAS JASSI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/2143/2025",
+ "case_type": "BA1",
+ "decision_date": "2025-11-10",
+ "cnr": "UKHC010176232025",
+ "doc_kind": "order",
+ "order_type": "BA1/2143/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2%2BtXOgzDv%2FJV8HS33dwf8SSc1efAMcVD0TO88s6YcyL&caseno=BA1/2143/2025&cCode=1&cino=UKHC010176232025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c0ad8451dfd10d14c4c1c514593810c24d514e52eae3d3248a0898e7602f630f",
+ "fetched_at": "2026-10-29T14:40:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

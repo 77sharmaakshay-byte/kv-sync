@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/383/2024:2026-05-13-005",
+ "title": "ROOP SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ROOP SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/383/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-05-13",
+ "cnr": "UKHC010078892024",
+ "doc_kind": "order",
+ "order_type": "WPSB/383/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKuKQwpCtPmuZCJ5YwX8pDj4Ft6AMQBBx7InxmyM2S7H&caseno=WPSB/383/2024&cCode=1&cino=UKHC010078892024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fabb996481bb41977f2e177e791fd9ea38cbe1cf06f38da62c22c7db0c977d9c",
+ "fetched_at": "2026-10-29T14:09:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

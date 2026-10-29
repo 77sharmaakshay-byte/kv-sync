@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/177/2026:2026-07-06-001",
+ "title": "SADHANA versus STATE OF UTTARAKHAND",
+ "petitioner": "SADHANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/177/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-07-06",
+ "cnr": "UKHC010083652026",
+ "doc_kind": "order",
+ "order_type": "SPA/177/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnEdca5A3B5FQw6xl5W99%2BgG4avolEV3bKGwdc8uyWG3&caseno=SPA/177/2026&cCode=1&cino=UKHC010083652026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "87eb54e015a63e839a0cda735e7b3e2689348be371f7d8c51f090ffadde20672",
+ "fetched_at": "2026-10-29T14:10:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

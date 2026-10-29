@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/269/2016:2022-10-19-002",
+ "title": "Rajesh Aggarwal versus State Of Uttarakhand   Advocate- G.A. 1123",
+ "petitioner": "Rajesh Aggarwal",
+ "respondent": "State Of Uttarakhand   Advocate- G.A. 1123",
+ "case_no": "C482/269/2016",
+ "case_type": "C482",
+ "decision_date": "2022-10-19",
+ "cnr": "UKHC010040952016",
+ "doc_kind": "order",
+ "order_type": "C482/269/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBanoLw%2B%2Fr8qobZRvRjEHlmASJdGIW7fLltko699ui%2FRR&caseno=C482/269/2016&cCode=1&cino=UKHC010040952016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6b81867f36ece2a9967dcd1f5c539956281e504033ce36382ea2055f23d68107",
+ "fetched_at": "2026-10-29T14:08:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

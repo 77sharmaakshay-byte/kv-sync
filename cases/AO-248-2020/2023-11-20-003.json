@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/248/2020:2023-11-20-003",
+ "title": "RANI SUMITRA RAJE versus KEWAL SANON (DECEASED)",
+ "petitioner": "RANI SUMITRA RAJE",
+ "respondent": "KEWAL SANON (DECEASED)",
+ "case_no": "AO/248/2020",
+ "case_type": "AO",
+ "decision_date": "2023-11-20",
+ "cnr": "UKHC010128672020",
+ "doc_kind": "order",
+ "order_type": "AO/248/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHLC6W3MB6CyYgjxXxPCj81PlDsKm5TalC5Pfuf8quE5&caseno=AO/248/2020&cCode=1&cino=UKHC010128672020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "49509d00eae7447462438ee06578a4cef3a9677e59775b0bcd7e99cba1afbe2a",
+ "fetched_at": "2026-10-29T14:13:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

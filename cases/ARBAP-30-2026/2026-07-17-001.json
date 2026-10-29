@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ARBAP/30/2026:2026-07-17-001",
+ "title": "MIDAS INFRATECH PRIVATE LIMITED versus NAGAR NIGAM HARIDWAR",
+ "petitioner": "MIDAS INFRATECH PRIVATE LIMITED",
+ "respondent": "NAGAR NIGAM HARIDWAR",
+ "case_no": "ARBAP/30/2026",
+ "case_type": "ARBAP",
+ "decision_date": "2026-07-17",
+ "cnr": "UKHC010116162026",
+ "doc_kind": "order",
+ "order_type": "ARBAP/30/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhgAgo3V42IV6lPvwYKrlSNG6PfsUqzHtHvoGO9bSSxN&caseno=ARBAP/30/2026&cCode=1&cino=UKHC010116162026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "97ea73e6a69fc39124670dc781fd71a1b13d331d14a91cd7a227b587de7d077a",
+ "fetched_at": "2026-10-29T14:14:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/116/2023:2024-07-05-003",
+ "title": "ATUL KUMAR CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "ATUL KUMAR CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/116/2023",
+ "case_type": "WPPIL",
+ "decision_date": "2024-07-05",
+ "cnr": "UKHC010117022023",
+ "doc_kind": "order",
+ "order_type": "WPPIL/116/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3Tl6Qp60FH1r%2FASvUtMXrbNnCEAFm1nqht7kT1NsKXR&caseno=WPPIL/116/2023&cCode=1&cino=UKHC010117022023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7926a9891619208c416a7be3fa1dbc40203181b710d5e0fc0f17bd8be2253727",
+ "fetched_at": "2026-10-29T14:07:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

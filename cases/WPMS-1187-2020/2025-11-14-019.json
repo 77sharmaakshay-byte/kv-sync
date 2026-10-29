@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1187/2020:2025-11-14-019",
+ "title": "JASPAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "JASPAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1187/2020",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-14",
+ "cnr": "UKHC010069142020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1187/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjEx0nnp2%2BzcYkr8yRKVTQShLosuH6XwGgAUOCrus8n%2Bb&caseno=WPMS/1187/2020&cCode=1&cino=UKHC010069142020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0619de7eeb548f40804d03f27d9f58de9a98d7a9178cbf58fd67dd2a46d91131",
+ "fetched_at": "2026-10-29T14:40:52+00:00",
+ "fetched_by": "fetch_live.py"
+}
