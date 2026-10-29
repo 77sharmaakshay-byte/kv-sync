@@ -1,0 +1,191 @@
+{
+ "auto": true,
+ "free": true,
+ "badge": "Machine vishleshan · shabdon se",
+ "vishay": {
+  "shreni": "Constitutional",
+  "vishay": "Orders ke shabdon se",
+  "upvishay": "settlement, trade, deposit, manag",
+  "mudde": [],
+  "aur": []
+ },
+ "shabd": [
+  "settlement",
+  "trade",
+  "deposit",
+  "manag",
+  "joint",
+  "fresh"
+ ],
+ "similar": [
+  {
+   "id": 7558,
+   "side": "bad",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "COMMISSIONER OF INCOME TAX, DELHI versus DELHI SAFE DEPOSIT CO. LTD.",
+   "cite": "1982 INSC 1 · 12.01.1982",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“-+ J •· ' II ..... }- ... I \\ C.l.T. v. DELHI SAFE DEPOSIT co. (v:enkataramiah, J.) 5 litigation between the managing agency firm and the managed company affecting seriously the reputation of the assessee ib. · addition to any pecuniary loss which the assessee. as a partner was liable to bear on account of the joint and _several liability arising under the law of partnership. The settlement arrived at between the par…”"
+  },
+  {
+   "id": 4385,
+   "side": "good",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "LAKSHMIRATAN COTTON MILLS CO. LTD. versus ALUMINIUM CORPORATION OF INDIA LTD.",
+   "cite": "1970 INSC 220 · 16.10.1970",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“626 cated upon except that from and after the date of the award the aforesaid concerns were brought unde~ the management and control of one or the other of the said two groups. The cor-poration came under the control and management of the Singh-ania group. Cl. 9 of the award provided as follows : \"The above award or directions in respect of Laxr.1i Ratan Cotton Mils Co. Ltd., Aluminium Corporation of India Ltd., J. K…”"
+  },
+  {
+   "id": 35604,
+   "side": "good",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "THE STATE OF MAHARASHTRA versus 63 MOONS TECHNOLOGIES LTD.",
+   "cite": "2022 INSC 465 · 22.04.2022",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“A B C D E F G H 517 \"Comparison • Bank FD 9.25% for 390 days; NSEL Trading Opportunity 16%; • Bank FD minimum duration 390 days; NSEL Trade duration 35-55 days, depending on the contract • Traders have an option of rolling over their position as per their convenience\" Under the caption of 'risk management', the following representation has been held out by NSEL: \"Risk Management • Trades are backed by collaterals in …”"
+  },
+  {
+   "id": 7472,
+   "side": "bad",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "BROOKE BOND INDIA LTD. versus THE WORKMEN",
+   "cite": "1981 INSC 120 · 22.07.1981",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“• 29 BROOKE BOND INDIA LTD. v. THE WORKMEN July 22, 1981 [A.C. GUPTA, R.S. PATHAK, & 0. CHINNAPPA REDDY, JJ.] Industrial Disputes Act, 1947 Section 2(p), S. Settlement-Meaning of, S.18 ( 1), Settlement if binding on \"parties to the agreernent''. Industrial Disputes (Bombay) Rules, 1957, Rule 62 (2) (b), signing of memorandurn of Settlement-Meaning o.f. Two Trade Unions of Workmen function at appellant's factory. The …”"
+  },
+  {
+   "id": 292226,
+   "side": "other",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Supreme Court",
+   "tag": "Nateeja ? · shabdon se mila",
+   "verified": false,
+   "title": "GAYA DIN (SINCE DECEASED) THRU.LRS versus HANUMAN PRASAD (DECEASED) THR.LRS..",
+   "cite": "C.A. No.-000191-000191 - 1991 · 27.11.2000",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: record mein nahi.",
+   "quote": "“http://JUDIS.NIC.IN SUPREME COURT OF INDIA Page 4 of 5 scrutinise the whole case again so as to determine the correctness, legality or propriety of the orders passed by the authorities subordinate to him. Thus, it is clear that notwithstanding the fact that Section 48 has been couched in wide terms, it only permits interference where the findings of the subordinate authority are perverse in the sense that they are no…”"
+  },
+  {
+   "id": 28089,
+   "side": "bad",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "M/S. P.G.F. LIMITED & ORS. versus UNION OF INDIA & ANOTHER",
+   "cite": "2013 INSC 155 · 12.03.2013",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“P.G.F. LIMITED & ORS. v. UNION OF INDIA 43 for the customers to have day to day control over the A management and operation of the scheme/arrangement. In these circumstances, the conclusion of the Division Bench in holding that the nature of activity of the appellant-Company under the guise of sale and development of agricultural land did fall under the B definition of collective investment scheme under Section 2(ba)…”"
+  },
+  {
+   "id": 32356,
+   "side": "good",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "MOONS TECHNOLOGIES LTD. (FORMERLY KNOWN AS FINANCIAL TECHNOLOGIES INDIA LTD.) & ORS. versus UNION OF INDIA",
+   "cite": "2019 INSC 597 · 30.04.2019",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“A B C D E F G H 101 There was a running deficit in the client monies/settlement fund balance from April 2012 to June 2013. The finance team of FTIL had raised this as an area of concern on several occasions. Misrepresentations to the Regulator 1.13 Regulatory Contraventions: As per a Gazette Notification issued on 5 June 2007 by the Ministry of Consumer Affairs, the Government of India under Section 27 of the Forward…”"
+  },
+  {
+   "id": 60624,
+   "side": "good",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Nainital HC",
+   "tag": "Nirdesh: vibhag vichaar kare · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/1551/2005 of DAWA UDYOG  KAMGAR UNION Vs STATE and ORS",
+   "cite": "WPMS/1551/2005 · 10.04.2006",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Nirdesh: vibhag vichaar kare.",
+   "quote": "“IN THE HIGH COURT OF UTTARANCHAL AT NAINITAL WRIT PETITION NO. 1551 (MS) OF 2005 Dawa Udyog Kamgar Union, Haridwar having its Office at 951/H/1, BHEL, Ranipur, Haridwar, Through its Joint Secretary Sri Mahendra Prasad Jakhmola. .............Petitioner. Versus 1. State of Uttaranchal, through its Secretary, Ministry of Labour, Civil Secretariat, Dehradun. 2. District Magistrate, Haridwar. 3. Conciliation Officer/Assis…”"
+  },
+  {
+   "id": 61084,
+   "side": "good",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPSB/9635/1993 of M.K. JAIN Vs STATE OF U.P. and ORS.",
+   "cite": "WPSB/9635/1993 · 22.04.2006",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“2 Show Room was let out to Mr. Dharmendra Verma on a monthly rent of Rs. 1500/- . Mr. Dharmendra Verma was required to sell the products of the Nigam through this Show Room. However, Mr. Dharmendra Verma failed to fulfil his part of the contract on many points and also failed to deposit the security of Rs. 10,000/-, but any how he took over the possession of the Show Room and subsequently he also failed to remit the …”"
+  },
+  {
+   "id": 129955,
+   "side": "good",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "FA/80/2011 of RAMPAL SINGH Vs SMT PUNAM",
+   "cite": "FA/80/2011 · 16.06.2015",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“4 8. On the basis of interaction with the parties and their counsels, we are able to reach to the following conclusion, which is based upon amicable settlement between the parties. :- 9. As far as the issue of son Pranjal is concerned, we find that he is minor. Mr. Pankaj Purohit, Advocate for the appellant made statement that appellant is ready to pay `5,00,000/-(Rupees Five Lacs) as maintenance allowance for his so…”"
+  },
+  {
+   "id": 107439,
+   "side": "other",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Nainital HC",
+   "tag": "Nipataara · shabdon se mila",
+   "verified": false,
+   "title": "CTR/41/2010 of M/S SAFETY VISION AND OFFICE SHOPPE Vs COMMISSIONER, COMMERCIAL TAX, DEHRADUN",
+   "cite": "CTR/41/2010 · 24.06.2013",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Nipataara.",
+   "quote": "“2 M/s Safety Vision and Office Shoppe ...........Revisionist. Versus Commissioner, Commercial Tax, Dehradun. ...Respondent Commercial Tax Revision No. 53 of 2010 M/s Safety Vision and Office Shoppe ...........Revisionist. Versus Commissioner, Commercial Tax, Dehradun. ...Respondent Commercial Tax Revision No. 54 of 2010 M/s Safety Vision and Office Shoppe ...........Revisionist. Versus Commissioner, Commercial Tax, D…”"
+  },
+  {
+   "id": 162535,
+   "side": "bad",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "SA/100/2004 of U.P.F.C. Vs SMT. KULDAI NEGI",
+   "cite": "SA/100/2004 · 17.12.2018",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“2 between the parties on 25.06.1996, when plaintiff is said to have submitted a proposal. Her case is that in the proposal, thus submitted by her on 25.06.1996, it was clearly mentioned that as on the said date total loan liability payable by the plaintiff respondent was calculated to be Rs.6,00,000/-. Her case in the suit was that the amount of money deposited by her prior to it was to be remitted back or adjusted a…”"
+  },
+  {
+   "id": 41371,
+   "side": "bad",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/69/2001 of M/S INDIAN DRUGS and PHARMECUTICALS LTD. Vs P.O. LABOUR COURT and ANR.",
+   "cite": "WPMS/69/2001 · 17.07.2002",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“\"2.(p) 'settlement' means a settlement arrived at in the course of conciliation proceeding and includes a written agreement between the employer and workmen arrived at otherwise than in the course of conciliation proceeding where such agreement has been signed by the parties thereto in such manner as may be prescribed and a copy thereof has been sent to an officer authorized in this behalf by the appropriate Governme…”"
+  },
+  {
+   "id": 168094,
+   "side": "bad",
+   "q": "(\"settlement\" AND \"trade\") OR (\"settlement\" AND \"deposit\") OR (\"settlement\" AND \"manag\") OR (\"settlement\" AND \"joint\") OR (\"trade\" AND \"deposit\") OR (\"trade\" AND \"manag\") OR (\"trade\" AND \"joint\") OR (\"deposit\" AND \"manag\") OR (\"deposit\" AND \"joint\") OR (\"manag\" AND \"joint\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "SPA/884/2019 of M/S JAI GOPAL ASSOCIATES Vs STATE OF UTTARAKHAND",
+   "cite": "SPA/884/2019 · 23.09.2019",
+   "why": "Is case ke orders ke khaas shabd (settlement, trade, deposit, manag, joint) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“5 such a certificate was an act of inadvertence. By proceedings dated 10.01.2019, the Program Manager held the Joint Venture, including all its partners, guilty in view of Section 6 of the Bid Documents, and black listed them for a period of five years, besides forfeiting the Fixed Deposit Receipt/Term Deposit Receipt furnished by them. Aggrieved thereby, all the three partners separately invoked the writ jurisdictio…”"
+  }
+ ],
+ "disclaimer": "Is case ke orders mein vishay saaf nahi likha (zyaadatar tareekh / kaam-kaaj). Ye faisle orders ke khaas shabdon se mile hain, isliye milaan kamzor ho sakta hai — advocate jaanch lein. Quote faisle ka asli paragraph hai. Behtar nateeje ke liye Khoj mein case ki baat likhein."
+}
