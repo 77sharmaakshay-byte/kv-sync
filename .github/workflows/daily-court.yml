@@ -112,6 +112,10 @@ jobs:
         if: steps.todo.outputs.causelist == 'yes'
         continue-on-error: true
         run: |
+          # eCourts Oct 2026 se GitHub ko jawab nahi deta (har tareekh 6 minute timeout); tab chhodo, taaki court ki
+          # site wali list (India server / Mac, mac-causelist.yml) is workflow ke peeche line mein na ruke
+          curl -sS -o /dev/null -m 25 https://hcservices.ecourts.gov.in/hcservices/main.php \
+            || { echo "eCourts GitHub se nahi khula — aaj chhod rahe (court ki site wala raasta chalu)"; exit 0; }
           bad=0
           for item in ${{ steps.todo.outputs.dates }}; do
             DATE=${item%%:*}; F=""

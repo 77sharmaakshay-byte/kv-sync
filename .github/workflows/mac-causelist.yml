@@ -1,14 +1,15 @@
 # Nainital HC ki apni cause list site (ehcr.uk.gov.in): court kal ki list aaj shaam (~5 baje) yahin daalta hai,
-# eCourts par baad mein. Site sirf India se khulti hai, isliye PDF laana aapke Mac (self-hosted runner 'mac')
-# par; text nikaalna, data branch aur app (site) GitHub par. Mac band ho to yeh line mein rukta hai aur
-# eCourts wala raasta (daily-court.yml) chalta rehta hai.
+# eCourts par baad mein. Site sirf India se khulti hai, isliye PDF laata hai India server (Vercel, Mumbai —
+# relay/, india-server.yml; Mac ki zaroorat nahi), woh na ho ya na chale to aapka Mac (self-hosted runner 'mac').
+# Text nikaalna, data branch aur app (site) GitHub par. Mac jaaga ho to uska timer (6/7/8 baje) bhi 'inbox' ke
+# saath yahi chalata hai — GitHub ka schedule kabhi ghanton der se chalta hai, isliye shaam ko har aadha ghanta.
 # Badli hui list (court ne naya PDF ya naya time daala) aate hi us din ki list app mein badal jaati hai.
 name: Mac cause list (ehcr)
 
 on:
   schedule:
     - cron: '3 1 * * *'              # 06:33 IST — aaj ki (aakhri badlav)
-    - cron: '33 11,12,13,14,15 * * *'  # 17:03-21:03 IST, har ghante — kal ki list
+    - cron: '3,33 11-16 * * *'       # 16:33-22:03 IST, har aadha ghanta — kal ki list (aur badli hui)
   workflow_dispatch:
     inputs:
       mode:
@@ -17,7 +18,7 @@ on:
         options: [fetch, probe]
         default: fetch
       inbox:
-        description: 'Mac ke timer (scripts/mac_ehcr_timer.sh) ki file, Release ehcr-inbox mein (khaali = Mac runner se laao)'
+        description: 'India server / Mac timer ki file, Release ehcr-inbox mein (khaali = India server, warna Mac runner se laao)'
         default: ''
 
 permissions:
@@ -25,10 +26,47 @@ permissions:
   actions: write   # Mac timer ki file na mile to Mac runner wala run
 
 jobs:
+  india:
+    # India server (Vercel, Mumbai) court ki site se PDFs laa kar lautata hai; yahan se 'ehcr' artifact
+    if: (inputs.inbox == '' || inputs.inbox == null) && inputs.mode != 'probe'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    outputs:
+      ok: ${{ steps.call.outputs.ok }}
+    steps:
+      - name: India server (Vercel, Mumbai) se list
+        id: call
+        env:
+          T: ${{ secrets.VERCEL_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "ok=0" >> "$GITHUB_OUTPUT"
+          URL=$(gh api "repos/${{ github.repository }}/contents/state/india_url?ref=data" -H "Accept: application/vnd.github.raw" 2>/dev/null) || URL=""
+          case "$URL" in https://*) ;; *) echo "India server laga nahi (India server lagao) — Mac wala raasta"; exit 0;; esac
+          [ -n "$T" ] || { echo "VERCEL_TOKEN nahi — Mac wala raasta"; exit 0; }
+          KEY=$(printf 'nyay-india:%s' "$T" | sha256sum | cut -c1-40); echo "::add-mask::$KEY"
+          code=$(curl -sS -m 320 -o ehcr.tar.gz -D h.txt -w '%{http_code}' -H "Authorization: Bearer $KEY" "$URL/api/causelist" || true)
+          if [ "$code" != 200 ] || ! mkdir -p ehcr || ! tar -xzf ehcr.tar.gz -C ehcr; then
+            echo "India server se nahi aayi ($code): $(head -c 400 ehcr.tar.gz 2>/dev/null) — Mac wala raasta"; exit 0
+          fi
+          grep -i '^x-days' h.txt || true; ls -R ehcr | head -40
+          echo "ok=1" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        if: steps.call.outputs.ok == '1'
+        with:
+          name: ehcr
+          path: ehcr
+          if-no-files-found: ignore
+          retention-days: 3
+
   ehcr:
-    if: inputs.inbox == '' || inputs.inbox == null
+    needs: india
+    if: ${{ !cancelled() && (inputs.inbox == '' || inputs.inbox == null) && (inputs.mode == 'probe' || needs.india.outputs.ok != '1') }}
     runs-on: [self-hosted, macOS]
     timeout-minutes: 20
+    concurrency:
+      group: mac-ehcr   # Mac soya ho to line mein sirf ek (har aadhe ghante wale runs jama na hon)
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
       - name: Mac timer ki files taaza (laga ho to)
@@ -53,9 +91,9 @@ jobs:
           retention-days: 3
 
   publish:
-    needs: ehcr
+    needs: [india, ehcr]
     # Mac timer wali file ho to Mac runner ki zaroorat nahi (ehcr job skip hota hai)
-    if: ${{ !cancelled() && inputs.mode != 'probe' && (needs.ehcr.result == 'success' || inputs.inbox != '') }}
+    if: ${{ !cancelled() && inputs.mode != 'probe' && (needs.ehcr.result == 'success' || needs.india.outputs.ok == '1' || inputs.inbox != '') }}
     runs-on: ubuntu-latest
     timeout-minutes: 20
     concurrency:

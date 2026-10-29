@@ -1,0 +1,5 @@
+{
+  "regions": ["bom1"],
+  "fluid": true,
+  "functions": {"api/causelist.py": {"maxDuration": 300}}
+}

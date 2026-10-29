@@ -1,0 +1,83 @@
+# India server lagao (Vercel, free Hobby, Mumbai 'bom1'): court ki site sirf India se khulti hai; yeh server Mac ki
+# jagah cause list PDFs laata hai (relay/api/causelist.py) — Mac band ho to bhi. Server ke paas GitHub ka koi token
+# nahi: "Mac cause list" use bulata hai aur PDFs khud le jaata hai. Ek baar chalao; relay/ ya scripts/ukhc_ehcr.py
+# badle to dobara. Zaroori: GitHub secret VERCEL_TOKEN (vercel.com par GitHub se login → Account Settings → Tokens).
+# Chaabi = VERCEL_TOKEN ka sha256 (dono taraf yahi). Server ka pata data branch: state/india_url.
+name: India server lagao
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      P: ${{ github.workspace }}/../kv-relay   # Vercel project ka naam folder se
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tokens
+        run: |
+          [ -n "$VERCEL_TOKEN" ] || { echo "::error::GitHub secret VERCEL_TOKEN nahi hai (vercel.com → Account Settings → Tokens)"; exit 1; }
+          KEY=$(printf 'nyay-india:%s' "$VERCEL_TOKEN" | sha256sum | cut -c1-40)   # "Mac cause list" bhi yahi banata hai
+          echo "::add-mask::$KEY"; echo "KEY=$KEY" >> "$GITHUB_ENV"
+          mkdir -p "$P/api" && cp relay/vercel.json "$P/" && cp relay/api/causelist.py "$P/api/" \
+            && cp scripts/ukhc_ehcr.py "$P/api/_ehcr.py" && ls -R "$P"
+      - name: Vercel project (pehli baar ban jaata hai)
+        working-directory: ${{ env.P }}
+        run: npx --yes vercel@latest link --yes --token "$VERCEL_TOKEN" && cat .vercel/project.json
+      - name: Server ki chaabi
+        working-directory: ${{ env.P }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          p = json.load(open(".vercel/project.json"))
+          team = [f"teamId={p['orgId']}"] if p["orgId"].startswith("team_") else []
+          def api(method, path, body, *query):
+              req = urllib.request.Request(f"https://api.vercel.com{path}?" + "&".join([*query, *team]), method=method,
+                  data=json.dumps(body).encode(),
+                  headers={"Authorization": "Bearer " + os.environ["VERCEL_TOKEN"], "Content-Type": "application/json"})
+              urllib.request.urlopen(req, timeout=60).read()
+          api("POST", f"/v10/projects/{p['projectId']}/env",
+              {"key": "CRON_SECRET", "value": os.environ["KEY"], "type": "encrypted", "target": ["production"]}, "upsert=true")
+          # Vercel ka login-pehra hatao (warna GitHub ko 401); server khud chaabi maangta hai
+          api("PATCH", f"/v9/projects/{p['projectId']}", {"ssoProtection": None})
+          print("chaabi lagi")
+          PY
+      - name: Lagao (production)
+        working-directory: ${{ env.P }}
+        run: npx --yes vercel@latest deploy --prod --yes --token "$VERCEL_TOKEN"
+      - name: Server ka pata
+        working-directory: ${{ env.P }}
+        run: |
+          URL=$(python3 - <<'PY'
+          import json, os, urllib.request
+          p = json.load(open(".vercel/project.json"))
+          q = f"?teamId={p['orgId']}" if p["orgId"].startswith("team_") else ""
+          req = urllib.request.Request(f"https://api.vercel.com/v9/projects/{p['projectId']}/domains{q}",
+                                       headers={"Authorization": "Bearer " + os.environ["VERCEL_TOKEN"]})
+          names = [d["name"] for d in json.load(urllib.request.urlopen(req, timeout=60))["domains"]]
+          print("https://" + sorted(names, key=lambda n: (not n.endswith(".vercel.app"), len(n)))[0])
+          PY
+          )
+          echo "pata: $URL"; echo "URL=$URL" >> "$GITHUB_ENV"
+      - name: Jaanch (India se court ki site khuli?)
+        run: |
+          r=$(curl -sS -m 320 -H "Authorization: Bearer $KEY" "$URL/api/causelist?test=1" || true)
+          echo "$r"
+          echo "$r" | python3 -c 'import json,sys; d=json.load(sys.stdin); sys.exit(0 if d.get("ok") else 1)' \
+            || { echo "::error::India server se court ki site nahi khuli (upar dekho)"; exit 1; }
+      - name: Pata data branch mein (Mac cause list yahin se padhta hai)
+        run: |
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin data:data && git worktree add databranch data
+          mkdir -p databranch/state && printf '%s' "$URL" > databranch/state/india_url
+          cd databranch && git add -A
+          git diff --cached --quiet || { git commit -qm "India server ka pata" && { git push -q origin data \
+            || { git pull -q --rebase origin data && git push -q origin data; }; }; }
+          echo "India server laga: $URL"
