@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T03:23+00:00",
+ "generated_at": "2026-10-30T03:32+00:00",
  "dates": [
   "2026-10-31",
   "2026-10-30",
@@ -571,7 +571,7 @@
     "NISHA BORA,KETAN ASWAL",
     "PARIKSHIT SAINI"
    ],
-   "next_date": null,
+   "next_date": "2026-11-25",
    "a": 2
   },
   {
@@ -10982,6 +10982,17 @@
    "a": 1
   },
   {
+   "id": "SPA-137-2025",
+   "case_no": "SPA/137/2025",
+   "title": "UTTARAKHAND FOREST DEVELOPMENT CORPORATION  THROUGH ITS MANAGING DIRECTOR ARANYA VIKAS BHAWAN v. KAMLA DEVI",
+   "advocates": [
+    "BHAGWAT MEHRA",
+    "C.S.C."
+   ],
+   "next_date": null,
+   "a": 1
+  },
+  {
    "id": "SPA-147-2025",
    "case_no": "SPA/147/2025",
    "title": "UTTARAKHAND FOREST DEVELOPMENT CORPORATION v. PRAKASH CHANDRA PANDEY",
@@ -11508,7 +11519,7 @@
     "MANEESH BISHT",
     "SHAILENDRA NAURIYAL"
    ],
-   "next_date": null,
+   "next_date": "2026-10-31",
    "a": 2
   },
   {
@@ -11521,7 +11532,7 @@
     "MANEESH BISHT",
     "SHAILENDRA NAURIYAL"
    ],
-   "next_date": null,
+   "next_date": "2026-10-31",
    "a": 2
   },
   {
@@ -11535,6 +11546,19 @@
     "SHIVANAND BHATT"
    ],
    "next_date": "2026-10-16",
+   "a": 1
+  },
+  {
+   "id": "SPA-69-2026",
+   "case_no": "SPA/69/2026",
+   "title": "UPENDRA SHARMA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "BHAGWAT MEHRA",
+    "C.S.C.",
+    "HARI MOHAN BHATIA",
+    "RAMJI SHRIVASTAVA"
+   ],
+   "next_date": null,
    "a": 1
   },
   {
@@ -11584,23 +11608,23 @@
    "a": 2
   },
   {
-   "id": "SPA-718-2019",
-   "case_no": "SPA/718/2019",
-   "title": "RAJENDRA PRASAD JOSHI v. GIRISH CHANDRA DURGAPAL",
-   "advocates": [
-    "BHAGWAT MEHRA",
-    "C.S.C.",
-    "M C PANT"
-   ],
-   "next_date": "2024-10-16",
-   "a": 2
-  },
-  {
    "id": "SPA-788-2018",
    "case_no": "SPA/788/2018",
    "title": "KRISHNA KUWAR SINGH DEWARI v. HARISH CHANDRA BHATT",
    "advocates": [
     "BHAGWAT MEHRA"
+   ],
+   "next_date": null,
+   "a": 1
+  },
+  {
+   "id": "SPA-89-2026",
+   "case_no": "SPA/89/2026",
+   "title": "OM PRAKASH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "BHAGWAT MEHRA",
+    "C.S.C.",
+    "CHANDRAMAULI SHAH"
    ],
    "next_date": null,
    "a": 1
@@ -13399,6 +13423,18 @@
    "a": 1
   },
   {
+   "id": "WPMB-795-2026",
+   "case_no": "WPMB/795/2026",
+   "title": "M/S DEVKI NANDAN JOSHI CONTRACTOR v. UTTARAKHAND RURAL ROADS DEVELOPMENT AGENCY",
+   "advocates": [
+    "BHAGWAT MEHRA",
+    "S S CHAUHAN",
+    "TRIBHUWAN CHANDRA PANDEY"
+   ],
+   "next_date": "2026-11-05",
+   "a": 2
+  },
+  {
    "id": "WPMB-878-2026",
    "case_no": "WPMB/878/2026",
    "title": "AMT BUILDERS PVT LTD v. STATE OF UTTARAKHAND",
@@ -14617,18 +14653,6 @@
    ],
    "next_date": "2026-10-26",
    "a": 1
-  },
-  {
-   "id": "WPMS-2400-2019",
-   "case_no": "WPMS/2400/2019",
-   "title": "RITA SAINI v. CANTONMENT BOARD DEHRADUN",
-   "advocates": [
-    "BHAGWAT MEHRA",
-    "NEERAJ GARG,YASHPAL SINGH,YASHPAL SINGH, ,YASHPAL SINGH",
-    "VIRENDRA SINGH RAWAT"
-   ],
-   "next_date": "2025-06-26",
-   "a": 2
   },
   {
    "id": "WPMS-2416-2018",
@@ -18107,6 +18131,18 @@
    "a": 1
   },
   {
+   "id": "WPSB-16-2019",
+   "case_no": "WPSB/16/2019",
+   "title": "RAVINDER SINGH PANWAR v. UNION OF INDIA",
+   "advocates": [
+    "BHAGWAT MEHRA",
+    "DEPUTY  S.G.",
+    "DEPUTY S.G."
+   ],
+   "next_date": "2019-02-19",
+   "a": 1
+  },
+  {
    "id": "WPSB-17-2019",
    "case_no": "WPSB/17/2019",
    "title": "ATISH v. UNION OF INDIA",
@@ -18394,7 +18430,7 @@
     "BHAGWAT MEHRA",
     "C.S.C."
    ],
-   "next_date": "2026-10-16",
+   "next_date": "2026-10-31",
    "a": 1
   },
   {
@@ -18920,7 +18956,7 @@
     "BHAGWAT MEHRA",
     "C.S.C."
    ],
-   "next_date": "2026-10-28",
+   "next_date": null,
    "a": 1
   },
   {
@@ -20064,6 +20100,18 @@
    "a": 1
   },
   {
+   "id": "WPSS-1442-2019",
+   "case_no": "WPSS/1442/2019",
+   "title": "NAVEEN CHANDRA PANT v. UTTARAKHAND STATE WAREHOUSING CORPORATION THROUGH ITS MANAGING DIRECTOR",
+   "advocates": [
+    "BHAGWAT MEHRA,DEEPAK JOSHI,DEEPAK JOSHI, DEEPAK JOSHI",
+    "C.S.C.",
+    "PARIKSHIT SAINI"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1445-2021",
    "case_no": "WPSS/1445/2021",
    "title": "SAURABH KUKRETI v. WILD LIFE INSTITUTE OF INDIA  THROUGH ITS DIRECTOR",
@@ -20426,7 +20474,7 @@
     "BHAGWAT MEHRA",
     "C.S.C."
    ],
-   "next_date": "2026-10-13",
+   "next_date": null,
    "a": 2
   },
   {
@@ -20473,17 +20521,6 @@
    ],
    "next_date": "2026-10-30",
    "a": 1
-  },
-  {
-   "id": "WPSS-1607-2020",
-   "case_no": "WPSS/1607/2020",
-   "title": "DEVKI PANDEY v. STATE OF UTTARAKHAND",
-   "advocates": [
-    "BHAGWAT MEHRA (FOR CAVEATOR)",
-    "C.S.C."
-   ],
-   "next_date": "2020-12-31",
-   "a": 2
   },
   {
    "id": "WPSS-161-2026",
@@ -22262,6 +22299,18 @@
    "a": 2
   },
   {
+   "id": "WPSS-202-2023",
+   "case_no": "WPSS/202/2023",
+   "title": "PREM RAM v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "BHAGWAT MEHRA",
+    "C.S.C.",
+    "K K TIWARI"
+   ],
+   "next_date": "2024-09-19",
+   "a": 1
+  },
+  {
    "id": "WPSS-2030-2024",
    "case_no": "WPSS/2030/2024",
    "title": "SHEELA ASGOLA AND OTHERS v. STATE OF UTTARAKHAND",
@@ -22901,7 +22950,7 @@
     "BHAGWAT MEHRA,K K HARBOLA,K K HARBOLA, K K HARBOLA",
     "C.S.C."
    ],
-   "next_date": "2026-10-13",
+   "next_date": null,
    "a": 2
   },
   {
@@ -25907,6 +25956,18 @@
    "a": 2
   },
   {
+   "id": "WPSS-3791-2018",
+   "case_no": "WPSS/3791/2018",
+   "title": "MOHAN SINGH(Legal Heir) v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "BHAGWAT MEHRA",
+    "C.S.C.",
+    "DEPUTY S.G.,PUSHPA BHATT"
+   ],
+   "next_date": "2024-12-24",
+   "a": 2
+  },
+  {
    "id": "WPSS-3845-2018",
    "case_no": "WPSS/3845/2018",
    "title": "SURESH CHANDRA v. DIRECTOR SCHOOL EDUCATION DIRECTORATE OF SCHOOL EDUCATION DEHRADUN",
@@ -26163,10 +26224,9 @@
    "title": "RAKESH KUMAR SAINI v. STATE OF UTTARAKHAND THROUGH SECRETARY",
    "advocates": [
     "BHAGWAT MEHRA,KAMAL KISHOR HARBOLA,KAMAL KISHOR HARBOLA, ,K K HARBOLA",
-    "C.S.C.",
-    "SIDDHARTHA SAH"
+    "C.S.C."
    ],
-   "next_date": "2026-10-28",
+   "next_date": null,
    "a": 2
   },
   {
@@ -26454,7 +26514,7 @@
     "C.S.C.",
     "RAMJI SHRIVASTAVA"
    ],
-   "next_date": "2026-10-14",
+   "next_date": null,
    "a": 1
   },
   {
