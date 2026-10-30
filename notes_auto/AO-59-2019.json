@@ -1,0 +1,191 @@
+{
+ "auto": true,
+ "free": true,
+ "badge": "Machine vishleshan · shabdon se",
+ "vishay": {
+  "shreni": "Civil",
+  "vishay": "Orders ke shabdon se",
+  "upvishay": "claimant, trailer, deposit, liabil",
+  "mudde": [],
+  "aur": []
+ },
+ "shabd": [
+  "claimant",
+  "trailer",
+  "deposit",
+  "liabil",
+  "fixat",
+  "releas"
+ ],
+ "similar": [
+  {
+   "id": 37871,
+   "side": "good",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "SRIKRISHNA KANTA SINGH versus THE ORIENTAL INSURANCE COMPANY LTD. & ORS.",
+   "cite": "2025 INSC 394 · 25.03.2025",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“Srikrishna Kanta Singh v. The Oriental Insurance Company Ltd. & Ors. contributory negligence is based on clear evidence. The scooter driver had only a learners licence, the claimant was aware of it and the accident occurred at the tail end of the trailer. It is argued that there was no proof of negligence of the trailer driver. The subsequent documents produced of medical expenses cannot be looked into. 7. We have se…”"
+  },
+  {
+   "id": 37437,
+   "side": "bad",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "THE ROYAL SUNDARAM ALLIANCE INSURANCE  COMPANY LIMITED versus SMT. HONNAMMA & ORS.",
+   "cite": "2025 INSC 625 · 04.05.2025",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“Nine Hundred and Forty) keeping the interest component intact i.e., 6% per annum and liability was fastened on the Appellant (herein) to pay such compensation. BRIEF FACTS: 3. On 29.02.2012, the deceased-Nagarajappa was travelling in a tractor and trailer as a coolie in order to unload the soil, which was loaded thereon. Due to the rash and negligent driving of the Respondent No.5 (herein), the tractor and trailer to…”"
+  },
+  {
+   "id": 18945,
+   "side": "bad",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "DEEPAL GIRISHBHAI SONI AND ORS. versus UNITED INDIA ASSURANCE CO. LTD., BARODA",
+   "cite": "2004 INSC 184 · 18.03.2004",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“232 A Claims Tribunal shall also specify the amount payable to each of them. ( 12) The Claims Tribunal, in passing the orders, shall also direct the owner or insurer, of the vehicle involved i;i the accident, to pay the amount of compensation to the claimant within thirty days from the B date of the said orders. (13) Where the Claims Tribunal thinks that the actual payment to the claimant is likely to take time becau…”"
+  },
+  {
+   "id": 279913,
+   "side": "other",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Supreme Court",
+   "tag": "Nateeja ? · shabdon se mila",
+   "verified": false,
+   "title": "SHIVARAJ versus RAJENDRA",
+   "cite": "C.A. No.-008278-008279 - 2018 · 05.09.2018 · [\"HON'BLE THE CHIEF JUSTICE, HON'BLE MR. JUSTICE A.M. KHANWILKAR\"]",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: record mein nahi.",
+   "quote": "“6 respect of the trailer rather presence of trailer is not shown or demonstrated in any of the documents and there was no evidence to demonstrate that the tractor was attached to a trailer. The tractor could accommodate only one person namely the driver of the tractor and none else. 7. On that finding, the High Court concluded that the appellant travelled in the tractor in breach of policy terms and conditions and th…”"
+  },
+  {
+   "id": 21424,
+   "side": "good",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "NATIONAL INSURANCE CO.LTD. versus MAM CHAND AND ANR.",
+   "cite": "2007 INSC 85 · 01.02.2007",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“.. - \\ ' NATIONAL INSURANCE CO.LTD. A v. MAM CHAND AND ANR. FEBRUARY I, 2007 [DR. ARIJIT PASA YAT AND S.H. KAPADIA, JJ.] B Motor Vehicles Act, 1988: S. 166-Motor accident claim-Appeal-Parties for adjudication of liability-Claim petition by injured against insurer and owner of vehicle- C Allowed by Tribunal and insurer held liable to pay claim-amount-Appeal by insurer challenging fixation of liability and arraying cla…”"
+  },
+  {
+   "id": 31652,
+   "side": "good",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "M/S. ELITE ENGINEERING AND CONSTRUCTION (HYD.) PRIVATE LIMITED REP. BY ITS MANAGING DIRECTOR versus M/S. TEACHTRANS CONSTRUCTION INDIA PRIVATE LIMITED REP. BY ITS MANAGING DIRECTOR",
+   "cite": "2018 INSC 192 · 23.02.2018",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“A B C D E F G H 599 SHIVAWWA AND ANR. v. THE BRANCH MANAGER, NATIONAL INDIA INSURANCE CO. LTD. AND ANR. (Civil Appeal No. 2247 of 2018) MARCH 28, 2018 [DIPAK MISRA, CJI AND A.M. KHANWILKAR, J.] Motor Vehicles Act, 1988 - s.166 - Person died after falling off from the tractor-trailer owned by respondent No.2 - Claim petition filed by appellant No.1, father of the deceased before Tribunal seeking compensation from resp…”"
+  },
+  {
+   "id": 279164,
+   "side": "bad",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "MAHAVIR versus UNION OF INDIA",
+   "cite": "SLP(C) No.-026281 - 2017 · 08.09.2017 · [\"HON'BLE MR. JUSTICE ARUN MISHRA, HON'BLE MR. JUSTICE MOHAN M. SHANTANAGOUDAR\"]",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“9. Section 31(1) of the Act requires tender of compensation which is tendered in terms of section 12 of the Act. Section 12 provides a mode of informing claimants as to compensation. Section 31(2) of the Act requires Collector to deposit amount in court in case it is not received by the persons interested or there is some dispute. Under the Act, the deposit is required only with a view to avoiding liability to pay in…”"
+  },
+  {
+   "id": 131467,
+   "side": "other",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Nainital HC",
+   "tag": "Nipataara · shabdon se mila",
+   "verified": false,
+   "title": "AO/241/2008 of THE NEW INDIA ASSURANCE CO. LTD. Vs SMT. MAZO AND OTHERS",
+   "cite": "AO/241/2008 · 27.02.2015",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Nipataara.",
+   "quote": "“3 the vehicle owner because firstly, even in the plain areas of Vikasnagar, District Dehradun where this accident occurred, no agricultural field does have so much quantity of stones/pebbles so that to reflect the truthfulness in the argument of learned counsel. Secondly, even if assuming that the pebbles/stones were filled in the trailer, then also, there was no cause for the vehicle being driven so rashly and negli…”"
+  },
+  {
+   "id": 142405,
+   "side": "bad",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "AO/39/2009 of NATIONAL INSURANCE COMPANT LIMITED Vs DEEPAK and OTHERS",
+   "cite": "AO/39/2009 · 31.03.2016",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“2 ìtrailerî means any vehicle, other than a semi- trailer and a side-car, drawn or intended to be drawn by a motor vehicle. It has been argued that this trailer, being different from the tractor, required separate registration. However, learned Counsel for the appellant could not show that such a trailer requires separate insurance also. In the opinion of this Court, a trailer is not required to be insured separately…”"
+  },
+  {
+   "id": 265619,
+   "side": "good",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "AO/365/2012 of KULWANT SINGH Vs SMT. ANITA RANI",
+   "cite": "AO/365/2012 · 24.02.2026",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“6 therefore, the Insurance Company was not liable to indemnify the insured. However, in view of the categorical stand now taken by the Insurance Company itself, it stands established that third-party risk in respect of both the tractor and the attached trailer stood duly covered under the policy on the date of the accident. 13. Once it is admitted by the insurer that premium was received for covering third-party liab…”"
+  },
+  {
+   "id": 74967,
+   "side": "bad",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "AO/385/2006 of ORIENTAL INSURANCE CO.LTD. Vs SMT. JANKI DEVI and ANO",
+   "cite": "AO/385/2006 · 20.11.2008",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“5 Opposite party has produced Sri D.K. Agrawal, Branch Manager, Oriental Insurance Co. Ltd., Kashipur, Udham Singh Nagar as DW-1, who stated in his deposition that tractor in question was insured with it at the time of accident. The owner of tractor did not get the trailer insured and it is essential to have insured the trailer for his own damages as well as for of third party. This witness further stated that all th…”"
+  },
+  {
+   "id": 214756,
+   "side": "bad",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "AO/517/2015 of YOGESH TOMAR Vs SMT. KAMLESH",
+   "cite": "AO/517/2015 · 31.03.2022",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“3 5. The Motor Accident Claim Tribunal, has framed as many as six issues vide it's order of 01.08.2014, which are extracted hereunder:- ^^1- D;k fnukad 08-03-2014 dks le; yxHkx 8-45 ct s izkr% e`rd VaSDVj ua0 ;w0,0 08th- 9635 esa cSBdj tk jgk Fkk fd LFkku jk;okyk izrhruxj esa foi{kh la02 }kjk VaSDVj Vakyh dks rsth o ykijokgh l s pyk jgk Fkk ftl dkj.k eqjkjh yky lSuh VaSDVj ls uhps fxjdj mlds uhps vk x;k ftlls mldh e`…”"
+  },
+  {
+   "id": 139593,
+   "side": "good",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "AO/40/2010 of NATIONAL INSURANCE COMPANY LIMITED Vs NITIN KUMAR and OTHERS",
+   "cite": "AO/40/2010 · 24.11.2016",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“3 ACJ 1, and held that the tractor and trailer are separately defined under the Motor Vehicles Act and when combined would constitute a ëgoods carriageí under Section 2(14) and consequently a ëtransport vehicleí under Section 2(47) of the Motor Vehicles Act. Evidently, this trailer as a transport vehicle was not got insured by the owner of the tractor and yet it was being plied attached with the tractor. Learned Coun…”"
+  },
+  {
+   "id": 154880,
+   "side": "good",
+   "q": "(\"claimant\" AND \"trailer\") OR (\"claimant\" AND \"deposit\") OR (\"claimant\" AND \"liabil\") OR (\"claimant\" AND \"fixat\") OR (\"trailer\" AND \"deposit\") OR (\"trailer\" AND \"liabil\") OR (\"trailer\" AND \"fixat\") OR (\"deposit\" AND \"liabil\") OR (\"deposit\" AND \"fixat\") OR (\"liabil\" AND \"fixat\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "AO/88/2016 of Gulam Jafar AND ANOTHER Vs New India Insurance Company Ltd AND OTHERS",
+   "cite": "AO/88/2016 · 24.07.2017",
+   "why": "Is case ke orders ke khaas shabd (claimant, trailer, deposit, liabil, fixat) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“Honíble Servesh Kumar Gupta, J. Having heard the rival contentions, it is evident that the accident, losing of life by the deceased Mohd. Rafi and the insurance cover of the truck no. HR55-A-6806 have not been disputed, but the fact remains that the tribunal while adjudicating the issue no. 1 in the impugned judgment dated 28.11.2015 has held that this accident has been caused on account of dashing of the two vehicle…”"
+  }
+ ],
+ "disclaimer": "Is case ke orders mein vishay saaf nahi likha (zyaadatar tareekh / kaam-kaaj). Ye faisle orders ke khaas shabdon se mile hain, isliye milaan kamzor ho sakta hai — advocate jaanch lein. Quote faisle ka asli paragraph hai. Behtar nateeje ke liye Khoj mein case ki baat likhein."
+}
