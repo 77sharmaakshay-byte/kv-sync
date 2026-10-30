@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1093/2026:2026-05-21-001",
+ "title": "KRIPAL SINGH RANA versus STATE BANK OF INDIA",
+ "petitioner": "KRIPAL SINGH RANA",
+ "respondent": "STATE BANK OF INDIA",
+ "case_no": "WPMS/1093/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-21",
+ "cnr": "UKHC010065362026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1093/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsRfuNxR9TrAfYidBC45OOO76v2udJq1S3tC8098e5TP&caseno=WPMS/1093/2026&cCode=1&cino=UKHC010065362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d5a2ec91154d2a7c51b49304ae88c6b6426114211868cd25e4e651dfad104e6",
+ "fetched_at": "2026-10-30T02:54:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

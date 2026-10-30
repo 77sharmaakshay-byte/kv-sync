@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1276/2010:2021-03-25-009",
+ "title": "RAJENDRA SINGH RAWAT versus SHYAM SINGH",
+ "petitioner": "RAJENDRA SINGH RAWAT",
+ "respondent": "SHYAM SINGH",
+ "case_no": "WPMS/1276/2010",
+ "case_type": "WPMS",
+ "decision_date": "2021-03-25",
+ "cnr": "UKHC010004162010",
+ "doc_kind": "order",
+ "order_type": "WPMS/1276/2010",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=nR0ZgoxyOblUDy2s9G9xdNdDGT86TTCotbRwsOqQKPvGOlbpTihrvqeNqrAwNIU5&caseno=WPMS/1276/2010&cCode=1&cino=UKHC010004162010&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d3ba2b35541b87f8362aa5b02b2dbb9804bbb76d90c94a167683b041622973fa",
+ "fetched_at": "2026-10-30T03:01:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

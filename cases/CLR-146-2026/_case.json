@@ -6,9 +6,9 @@
  "registration_number": "CLR /146/2026",
  "registration_date": "2026-10-07",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-10-30",
  "decision_date": null,
- "case_stage": "AFTER FRESH MATTERS -128",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
  "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Single Bench",
@@ -25,7 +25,7 @@
  "respondents": [
   {
    "name": "BHARAT VERMA",
-   "advocate": ""
+   "advocate": "KURBAN ALI,"
   }
  ],
  "acts": [
@@ -43,6 +43,13 @@
    "cause_list_type": "DAILY CAUSE LIST II"
   },
   {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-16",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-16",
    "business_date": "2026-10-09",
    "purpose": "FRESH CASES FOR ADMISSION -3",
@@ -56,6 +63,15 @@
    "order_type": "CLR/146/2026",
    "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuw5s4u48WlH88IqO4U%2BnGrr46IJ0NXblEIlqbcrrDll&caseno=CLR/146/2026&cCode=1&cino=UKHC010180132026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-16",
+   "order_type": "CLR/146/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuw5s4u48WlH88IqO4U%2BnGrDUp535kCC4y5eSbuzeJw3&caseno=CLR/146/2026&cCode=1&cino=UKHC010180132026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

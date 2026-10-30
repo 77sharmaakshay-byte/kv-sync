@@ -32,6 +32,13 @@
  "history": [
   {
    "hearing_date": null,
+   "business_date": "2026-10-16",
+   "purpose": "Disposed",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": null,
    "business_date": "2023-11-01",
    "purpose": "Disposed",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
@@ -66,17 +73,17 @@
    "cause_list_type": ""
   },
   {
-   "hearing_date": null,
-   "business_date": "2017-10-25",
-   "purpose": "Disposed",
-   "judge": "Hon'ble Mr. Justice U. C. Dhyani",
-   "cause_list_type": ""
-  },
-  {
    "hearing_date": "2017-10-25",
    "business_date": "2017-10-25",
    "purpose": "ADMISSION MATTERS -25",
    "judge": "",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2017-10-25",
+   "purpose": "Disposed",
+   "judge": "Hon'ble Mr. Justice U. C. Dhyani",
    "cause_list_type": ""
   },
   {

@@ -6,7 +6,7 @@
  "registration_number": "CLR /144/2026",
  "registration_date": "2026-10-05",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-10-30",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
@@ -25,11 +25,11 @@
  "respondents": [
   {
    "name": "SHAILENDRA SINGH NEGI",
-   "advocate": ""
+   "advocate": "RAMJI SHRIVASTAVA,"
   },
   {
    "name": "SHRI RAJENDRA SINGH NEGI",
-   "advocate": ""
+   "advocate": "RAMJI SHRIVASTAVA,GAURAV NAGPAL"
   },
   {
    "name": "COLLECTOR",
@@ -51,6 +51,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-16",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": null,
    "business_date": "2026-10-09",
    "purpose": "FRESH CASES AS DEFECTIVE -236",
@@ -58,5 +65,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-16",
+   "order_type": "CLR/144/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtmkB5h5IJyAKb78vJDwz36ENDxhjNmq%2FB7Sqv0fNPAW&caseno=CLR/144/2026&cCode=1&cino=UKHC010178462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

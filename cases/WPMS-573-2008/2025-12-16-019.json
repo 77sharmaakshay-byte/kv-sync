@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/573/2008:2025-12-16-019",
+ "title": "SHAMIM AHMAD versus MOHMMAD YUSUF",
+ "petitioner": "SHAMIM AHMAD",
+ "respondent": "MOHMMAD YUSUF",
+ "case_no": "WPMS/573/2008",
+ "case_type": "WPMS",
+ "decision_date": "2025-12-16",
+ "cnr": "UKHC010000212008",
+ "doc_kind": "order",
+ "order_type": "WPMS/573/2008",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FwQOg3skvbQQFLqpuCrwFPdRxo7wcIW4SoXYHx3Ori02e5EG%2BQhBaz53zwUNzAZ3&caseno=WPMS/573/2008&cCode=1&cino=UKHC010000212008&state_code=15&court_code=1&&appFlag=",
+ "sha256": "09af3d76c86646bfe6f0a58e37d05ede67d71afe97ca5275f73ba10f00026b5f",
+ "fetched_at": "2026-10-30T02:55:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3302/2026:2026-10-28-001",
+ "title": "NAZIM HUSSAIN versus STATE OF UTTARAKHAND",
+ "petitioner": "NAZIM HUSSAIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3302/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-28",
+ "cnr": "UKHC010189502026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3302/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS (AFTER FRESH) -30",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQksuNVC3V1y5Ka1cWgcqrCaO5r32G0g%2F%2F01qYU8cOBTf&caseno=WPMS/3302/2026&cCode=1&cino=UKHC010189502026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "090db6e02fbfe5d0710931196f78fb97e911b3737a92767bd58a182bc2b16d02",
+ "fetched_at": "2026-10-30T03:01:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

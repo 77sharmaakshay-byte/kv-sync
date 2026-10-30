@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/24/2020:2020-02-24-001",
+ "title": "VARUN SOBTI versus STATE OF UTTARAKHAND",
+ "petitioner": "VARUN SOBTI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/24/2020",
+ "case_type": "WPPIL",
+ "decision_date": "2020-02-24",
+ "cnr": "UKHC010027352020",
+ "doc_kind": "order",
+ "order_type": "WPPIL/24/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjJRirG6zJ0QBC0u8O1%2BI72HKtErqtEMXqlYS9KiFYqQf&caseno=WPPIL/24/2020&cCode=1&cino=UKHC010027352020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d591a61b133a5f29cd5f688160d8072d64b3a75b2a6296fb43bf7a88a05067ba",
+ "fetched_at": "2026-10-30T03:10:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

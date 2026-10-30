@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/100/2026:2026-08-14-001",
+ "title": "MANMOHAN RAIZADA versus RAVINDER MOHAN RAIZADA",
+ "petitioner": "MANMOHAN RAIZADA",
+ "respondent": "RAVINDER MOHAN RAIZADA",
+ "case_no": "CLR/100/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010144262026",
+ "doc_kind": "order",
+ "order_type": "CLR/100/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpfUuGvgd4%2BOomEkppGPeHtoe5juAwIFGm97BRqMY8lg&caseno=CLR/100/2026&cCode=1&cino=UKHC010144262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "69f7dced27a051dccc81bc7d6cea69114b9c17e583affba1f94b8d3a734519fd",
+ "fetched_at": "2026-10-30T02:38:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

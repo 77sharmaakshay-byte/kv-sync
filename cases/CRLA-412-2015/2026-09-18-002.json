@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/412/2015:2026-09-18-002",
+ "title": "HARISH KUMAR versus STATE OF UTTARAKHAND   Advocate- ,G.A. 1123",
+ "petitioner": "HARISH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND   Advocate- ,G.A. 1123",
+ "case_no": "CRLA/412/2015",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010033312015",
+ "doc_kind": "order",
+ "order_type": "CRLA/412/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWaY3wAydQ79K22P%2FUKz7QyrUDzxzXYnEeuviZbmVBvhq&caseno=CRLA/412/2015&cCode=1&cino=UKHC010033312015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e7f261c2c8eb9fb1a9cbb0aeb920bf88190108432cf743cd0b2361ab1029fc2e",
+ "fetched_at": "2026-10-30T03:06:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

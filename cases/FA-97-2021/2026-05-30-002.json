@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/97/2021:2026-05-30-002",
+ "title": "SWAMI SHASWATNAND versus ANIL KUMAR GHOSH",
+ "petitioner": "SWAMI SHASWATNAND",
+ "respondent": "ANIL KUMAR GHOSH",
+ "case_no": "FA/97/2021",
+ "case_type": "FA",
+ "decision_date": "2026-05-30",
+ "cnr": "UKHC010135382021",
+ "doc_kind": "order",
+ "order_type": "FA/97/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkIKXiHY4jMvxjanB7dZWWJuJpTbHMabB5fJpudNYX2WU&caseno=FA/97/2021&cCode=1&cino=UKHC010135382021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fb0f8bffc99073b16f22deb9f3778c38324e36223455f508798d2a90e4ad64b4",
+ "fetched_at": "2026-10-30T02:43:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

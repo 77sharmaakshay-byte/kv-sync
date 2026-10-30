@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3520/2025:2026-07-22-004",
+ "title": "RAVI NANDAN SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVI NANDAN SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3520/2025",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-22",
+ "cnr": "UKHC010202332025",
+ "doc_kind": "order",
+ "order_type": "WPMS/3520/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS (AFTER FRESH) -30",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm772SbH4eO7CpaDOhVufc9a0f8aqX0jYnuHss84idF5C&caseno=WPMS/3520/2025&cCode=1&cino=UKHC010202332025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "070118b6ebd8d69be8183081313cacbd91c37e3c443bfb2f6af12de8168bf5e2",
+ "fetched_at": "2026-10-30T03:01:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

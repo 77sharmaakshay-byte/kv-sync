@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1911/2024:2024-08-01-002",
+ "title": "OM PRAKASH(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "OM PRAKASH(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1911/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-08-01",
+ "cnr": "UKHC010107702024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1911/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJfBsK971iiur14GKikNzrUivOH72T5wvW8dW8xtUsj3&caseno=WPMS/1911/2024&cCode=1&cino=UKHC010107702024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "694b28c9510c547d0a13b09b7639b8c253748e973f0878d94a8dde1c212952c9",
+ "fetched_at": "2026-10-30T03:02:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

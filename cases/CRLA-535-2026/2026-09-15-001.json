@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/535/2026:2026-09-15-001",
+ "title": "AKLESH MOHAN BAHUGUNA versus STATE OF UTTARAKHAND",
+ "petitioner": "AKLESH MOHAN BAHUGUNA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/535/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010160892026",
+ "doc_kind": "order",
+ "order_type": "CRLA/535/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkhahAZTtzsrdwpgJ47%2FDdCRErbuQ%2Bb3dUjhGmEZbiho&caseno=CRLA/535/2026&cCode=1&cino=UKHC010160892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e5a2301bf39ff58d97d053f11319cab2e087ba163d627cc4eb73a0ed2ab89701",
+ "fetched_at": "2026-10-30T03:05:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

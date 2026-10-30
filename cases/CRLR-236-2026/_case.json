@@ -1,0 +1,100 @@
+{
+ "cnr_number": "UKHC010052682026",
+ "case_type": "CRLR",
+ "filing_number": "CRLR /2463/2026",
+ "filing_date": "2026-04-02",
+ "registration_number": "CRLR /236/2026",
+ "registration_date": "2026-04-02",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "ORDERS ON APPLICATIONS -22",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "RAHUL DHIMAN",
+   "advocate": "SAURABH KUMAR PANDEY"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "DEEPA BISHT",
+   "advocate": "D S MEHTA"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Negotiable Instruments Act, 1881 (Act No. 26 of 1881)",
+   "sections": "138"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-04-07",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-09-07",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-16",
+   "business_date": "2026-08-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-12",
+   "business_date": "2026-04-07",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-04-07",
+   "order_type": "CRLR/236/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqzIL6qqtxgNgAzLEAXpnPIfXZwhgtflcoKcgOP5BOEO&caseno=CRLR/236/2026&cCode=1&cino=UKHC010052682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-12",
+   "order_type": "CRLR/236/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqzIL6qqtxgNgAzLEAXpnPKQUggv4PnMrmmY1lqQzvwQ&caseno=CRLR/236/2026&cCode=1&cino=UKHC010052682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-07",
+   "order_type": "CRLR/236/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqzIL6qqtxgNgAzLEAXpnPLLlyDx1oUJzYk0CZybHyUI&caseno=CRLR/236/2026&cCode=1&cino=UKHC010052682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2446/2024:2026-08-19-006",
+ "title": "SHAKOOR versus HANIFA",
+ "petitioner": "SHAKOOR",
+ "respondent": "HANIFA",
+ "case_no": "WPMS/2446/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010142972024",
+ "doc_kind": "order",
+ "order_type": "WPMS/2446/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcCF0WusB%2B2KO54IO81WcTrjIBm7eKCYWE1ToINRtJmlW&caseno=WPMS/2446/2024&cCode=1&cino=UKHC010142972024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3f98a5c9819a9c482edf2081a0c671894a7273ad0e80c65477bf8c2856245446",
+ "fetched_at": "2026-10-30T03:03:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

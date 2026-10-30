@@ -1,0 +1,51 @@
+{
+ "cnr_number": "UKHC010193842026",
+ "case_type": "ABA",
+ "filing_number": "ABA /9352/2026",
+ "filing_date": "2026-10-28",
+ "registration_number": "ABA /445/2026",
+ "registration_date": "2026-10-28",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "MAHENDRA SINGH",
+   "advocate": "AVIDIT NOLIYAL,PRABHA NAITHANI,PRABHA NAITHANI, ,PRABHA NAITHANI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "STATION HOUSE OFFICER",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nagarik Suraksha Sanhita",
+   "sections": "482"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

@@ -1,0 +1,58 @@
+{
+ "cnr_number": "UKHC010189332026",
+ "case_type": "SPLA",
+ "filing_number": "SPLA /9118/2026",
+ "filing_date": "2026-10-26",
+ "registration_number": "SPLA /275/2026",
+ "registration_date": "2026-10-26",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-31",
+ "decision_date": null,
+ "case_stage": "Time Barred (Fresh Cases) -247",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SHIVAM ALIAS MANGAL",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "354,354(B),323,504,506,509"
+  },
+  {
+   "act": "Protection of Children from Sexual Offences Act, 2012 (Act No. 32 of 2012)",
+   "sections": "9(n)/10"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-28",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-28",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

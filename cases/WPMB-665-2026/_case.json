@@ -1,24 +1,112 @@
 {
  "cnr_number": "UKHC010144272026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "WPMB",
+ "filing_number": "WPMB /7481/2026",
+ "filing_date": "2026-08-12",
+ "registration_number": "WPMB /665/2026",
+ "registration_date": "2026-08-12",
  "first_hearing_date": null,
  "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Shri Justice Manoj Kumar Gupta , Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "M/S PRINCE CONSTRUCTION COMPANY",
+   "advocate": "BHAGWAT MEHRA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "ENGINEER IN CHIEF",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SUPERINTENDING ENGINEER",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "M/S NEERAJ MISHRA",
+   "advocate": "MAYANK RAJAN JOSHI,AISHWARY PRAKASH JOSHI"
+  },
+  {
+   "name": "M/S YOGESH SINGH MEHTA",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-14",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-07",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-02",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-14",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-08-14",
+   "order_type": "WPMB/665/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg9w9rA8QX7OZggBW2H8P7cm8lt4sqPRpjVx1ziUVd4z&caseno=WPMB/665/2026&cCode=1&cino=UKHC010144272026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-02",
+   "order_type": "WPMB/665/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg9w9rA8QX7OZggBW2H8P7d6QOV5CaOHmvmLbTlfp%2B7A&caseno=WPMB/665/2026&cCode=1&cino=UKHC010144272026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-07",
+   "order_type": "WPMB/665/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg9w9rA8QX7OZggBW2H8P7cgELdFR5Jfc03P7BgLpmLv&caseno=WPMB/665/2026&cCode=1&cino=UKHC010144272026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

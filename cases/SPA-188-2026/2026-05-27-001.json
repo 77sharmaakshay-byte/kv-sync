@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/188/2026:2026-05-27-001",
+ "title": "ANJALI BHANDARI versus GRAPHIC ERA HILL UNIVERSITY",
+ "petitioner": "ANJALI BHANDARI",
+ "respondent": "GRAPHIC ERA HILL UNIVERSITY",
+ "case_no": "SPA/188/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-05-27",
+ "cnr": "UKHC010086722026",
+ "doc_kind": "order",
+ "order_type": "SPA/188/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr9uTUCwpgFkvmUbl%2FprTtSLl%2BqRjnnkAFVNGI88MjQ0&caseno=SPA/188/2026&cCode=1&cino=UKHC010086722026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f058eada45eb38fb2479ac41a26a1a9152456db9ff6e1f87f78d4411f67e322f",
+ "fetched_at": "2026-10-30T03:05:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

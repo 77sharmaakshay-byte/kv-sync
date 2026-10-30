@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/573/2008:2025-06-06-015",
+ "title": "SHAMIM AHMAD versus MOHMMAD YUSUF",
+ "petitioner": "SHAMIM AHMAD",
+ "respondent": "MOHMMAD YUSUF",
+ "case_no": "WPMS/573/2008",
+ "case_type": "WPMS",
+ "decision_date": "2025-06-06",
+ "cnr": "UKHC010000212008",
+ "doc_kind": "order",
+ "order_type": "WPMS/573/2008",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FwQOg3skvbQQFLqpuCrwFPdRxo7wcIW4SoXYHx3Ori1n%2FzosG31t4m9xkwNc4y2z&caseno=WPMS/573/2008&cCode=1&cino=UKHC010000212008&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6a05f8d45554d7559c718d5b9401a7f89583d7c40a2a4d2450b9f8cbfaca7a30",
+ "fetched_at": "2026-10-30T02:55:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

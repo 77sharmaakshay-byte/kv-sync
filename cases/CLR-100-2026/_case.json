@@ -1,0 +1,99 @@
+{
+ "cnr_number": "UKHC010144262026",
+ "case_type": "CLR",
+ "filing_number": "CLR /7480/2026",
+ "filing_date": "2026-08-12",
+ "registration_number": "CLR /100/2026",
+ "registration_date": "2026-08-12",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "MANMOHAN RAIZADA",
+   "advocate": "PRABHAKAR NARAYAN,SIDDHARTHA SINGH,SIDDHARTHA SINGH, ,SURAJ SHAHI,SIDDHARTHA SINGH"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "RAVINDER MOHAN RAIZADA",
+   "advocate": ""
+  },
+  {
+   "name": "MS SHANTA SEHGAL",
+   "advocate": ""
+  },
+  {
+   "name": "COL CHANDER MOHAN RAIZADA",
+   "advocate": ""
+  },
+  {
+   "name": "SARLA RANI SETH",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Code of Civil Procedure, 1908 (Act No. 5 of 1908)",
+   "sections": "115"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-14",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-09",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-10-09",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-14",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-08-14",
+   "order_type": "CLR/100/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpfUuGvgd4%2BOomEkppGPeHtoe5juAwIFGm97BRqMY8lg&caseno=CLR/100/2026&cCode=1&cino=UKHC010144262026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-09",
+   "order_type": "CLR/100/2026",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpfUuGvgd4%2BOomEkppGPeHs5%2B2zmXsy%2Bw36mmhSZQVJF&caseno=CLR/100/2026&cCode=1&cino=UKHC010144262026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

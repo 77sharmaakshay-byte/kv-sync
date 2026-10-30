@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1445/2026:2026-08-21-001",
+ "title": "KHALIL AHAMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "KHALIL AHAMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1445/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-21",
+ "cnr": "UKHC010148802026",
+ "doc_kind": "order",
+ "order_type": "BA1/1445/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqSdQ5qfpDkDM4TMU8Mdw23Dxnf6oc1cTwysEKYnQ8QR&caseno=BA1/1445/2026&cCode=1&cino=UKHC010148802026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2e9755eee62cc2cc7c9a50f29a3acf54c5c565e6e0ca3e5fa01251c90ab3e0be",
+ "fetched_at": "2026-10-30T02:33:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

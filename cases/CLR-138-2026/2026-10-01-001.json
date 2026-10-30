@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/138/2026:2026-10-01-001",
+ "title": "SUNITA DEVI versus ORIENTAL INSURANCE COMPANY LIMITED",
+ "petitioner": "SUNITA DEVI",
+ "respondent": "ORIENTAL INSURANCE COMPANY LIMITED",
+ "case_no": "CLR/138/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010174072026",
+ "doc_kind": "order",
+ "order_type": "CLR/138/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhohp85a840mmcbtvE6eIJZCYLnuHmthihA1uGCT6CGN&caseno=CLR/138/2026&cCode=1&cino=UKHC010174072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2dd5beed3771db26111aa56819b899c9c1020669acba410d1844cfbda08f17c1",
+ "fetched_at": "2026-10-30T02:38:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

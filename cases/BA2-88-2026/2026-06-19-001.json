@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/88/2026:2026-06-19-001",
+ "title": "NIKHIL KUMAR versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "NIKHIL KUMAR",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA2/88/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-06-19",
+ "cnr": "UKHC010108022026",
+ "doc_kind": "order",
+ "order_type": "BA2/88/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnctcaQCjr3joNOONnhLM9GedxZdLdd8D9gvCOtqZrg5&caseno=BA2/88/2026&cCode=1&cino=UKHC010108022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f274b24a01ce42ff44d8a6db65398cd55492a62fc8668178f145527c831ca420",
+ "fetched_at": "2026-10-30T02:32:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

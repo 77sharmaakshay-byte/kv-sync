@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1276/2010:2023-12-27-015",
+ "title": "RAJENDRA SINGH RAWAT versus SHYAM SINGH",
+ "petitioner": "RAJENDRA SINGH RAWAT",
+ "respondent": "SHYAM SINGH",
+ "case_no": "WPMS/1276/2010",
+ "case_type": "WPMS",
+ "decision_date": "2023-12-27",
+ "cnr": "UKHC010004162010",
+ "doc_kind": "order",
+ "order_type": "WPMS/1276/2010",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=nR0ZgoxyOblUDy2s9G9xdNdDGT86TTCotbRwsOqQKPsqSm5rs6Vgz3ygoNe26hux&caseno=WPMS/1276/2010&cCode=1&cino=UKHC010004162010&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cc77e13a7ae441b3324a70c6ba6f2038350886a8bf133bf994424df0f64590c4",
+ "fetched_at": "2026-10-30T03:01:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

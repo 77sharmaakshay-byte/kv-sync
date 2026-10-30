@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/101/2026:2026-09-10-003",
+ "title": "SIYA RAM versus KHEM KARAN LAL",
+ "petitioner": "SIYA RAM",
+ "respondent": "KHEM KARAN LAL",
+ "case_no": "FA/101/2026",
+ "case_type": "FA",
+ "decision_date": "2026-09-10",
+ "cnr": "UKHC010096742026",
+ "doc_kind": "order",
+ "order_type": "FA/101/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgK4kHplpk6VHUlxKW2IzurYr%2FSSQ9VhnIGKs5E01xZr&caseno=FA/101/2026&cCode=1&cino=UKHC010096742026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb95470d971d35837369d87395c9b10a5fe77ce7b80bb074e3d545b77b7243e2",
+ "fetched_at": "2026-10-30T02:54:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,9 +6,9 @@
  "registration_number": "WPSS /533/2025",
  "registration_date": "2025-04-07",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "PERSONAL APPEARANCE -4",
+ "case_stage": "TOP OF THE BOARD CASES -117",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -57,6 +57,34 @@
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-29",
+   "purpose": "TOP OF THE BOARD CASES -117",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-29",
+   "business_date": "2026-10-16",
+   "purpose": "TOP OF THE BOARD CASES -117",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-16",
+   "business_date": "2026-10-15",
+   "purpose": "PERSONAL APPEARANCE -4",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-15",
+   "business_date": "2026-10-13",
+   "purpose": "PERSONAL APPEARANCE -4",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2026-10-14",
@@ -237,6 +265,15 @@
    "order_type": "WPSS/533/2025",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyS9Kc%2BiW9ppPSCmoeJuuvn1dhbXO9SvZWFiBQDsgjJf&caseno=WPSS/533/2025&cCode=1&cino=UKHC010047902025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPSS/533/2025",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyS9Kc%2BiW9ppPSCmoeJuuvn%2Fvtz%2BR%2FFvRQFVdFuox6%2F5&caseno=WPSS/533/2025&cCode=1&cino=UKHC010047902025&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

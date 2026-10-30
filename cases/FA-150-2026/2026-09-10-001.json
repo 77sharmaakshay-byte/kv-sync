@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/150/2026:2026-09-10-001",
+ "title": "VIJAY KUMAR versus PRAMOD KUMAR   Advocate- ,KUSH GOSWAMI,RAGHAV SINGHAL 1123",
+ "petitioner": "VIJAY KUMAR",
+ "respondent": "PRAMOD KUMAR   Advocate- ,KUSH GOSWAMI,RAGHAV SINGHAL 1123",
+ "case_no": "FA/150/2026",
+ "case_type": "FA",
+ "decision_date": "2026-09-10",
+ "cnr": "UKHC010145452026",
+ "doc_kind": "order",
+ "order_type": "FA/150/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm1U%2BQVsKJ8PWliiO4WIgKlPllXGuoFPx97lUFhAZRNN&caseno=FA/150/2026&cCode=1&cino=UKHC010145452026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5cb6244b7091537c782da338c521fae748cf93c614cb162e81f211e30dc51e84",
+ "fetched_at": "2026-10-30T02:41:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

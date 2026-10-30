@@ -1,132 +1,24 @@
 {
  "cnr_number": "UKHC010178702026",
- "case_type": "CLCON",
- "filing_number": "CLCON /9301/2026",
- "filing_date": "2026-10-06",
- "registration_number": "CLCON /593/2026",
- "registration_date": "2026-10-06",
+ "case_type": "",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
  "first_hearing_date": null,
- "next_hearing_date": "2026-12-03",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "",
  "status": "",
- "coram": "Hon'ble Mr. Justice Pankaj Purohit",
- "bench_type": "Single Bench",
+ "coram": "",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "UTTARAKHAND",
- "district": "Dehradun",
- "petitioners": [
-  {
-   "name": "RAM KISHORE CHAMOLI",
-   "advocate": "BHAGWAT MEHRA"
-  },
-  {
-   "name": "MINAXI RAWAT",
-   "advocate": ""
-  },
-  {
-   "name": "JEETENDRA SINGH RAWAT",
-   "advocate": ""
-  },
-  {
-   "name": "SHASHI BHUSAN BHATT",
-   "advocate": ""
-  },
-  {
-   "name": "BHARAT SINGH",
-   "advocate": ""
-  },
-  {
-   "name": "SHIV DAYAL SINGH BHANDARI",
-   "advocate": ""
-  },
-  {
-   "name": "VINOD CHAMOLI",
-   "advocate": ""
-  },
-  {
-   "name": "KULDEEP SINGH BHANDARI",
-   "advocate": ""
-  },
-  {
-   "name": "VINOD KUMAR",
-   "advocate": ""
-  },
-  {
-   "name": "PRASHANT KANWARI",
-   "advocate": ""
-  },
-  {
-   "name": "BALBIR SINGH",
-   "advocate": ""
-  },
-  {
-   "name": "SOBHIT BHAL CHANDRA",
-   "advocate": ""
-  },
-  {
-   "name": "SMT ANU PAL",
-   "advocate": ""
-  },
-  {
-   "name": "ARVIND CHAMOLA",
-   "advocate": ""
-  },
-  {
-   "name": "PRAMOD CHAND RAMOLA",
-   "advocate": ""
-  },
-  {
-   "name": "HEMANT SINGH BISHT",
-   "advocate": ""
-  },
-  {
-   "name": "SUNIL BISHT",
-   "advocate": ""
-  }
- ],
- "respondents": [
-  {
-   "name": "VINAY SHANKAR PANDEY",
-   "advocate": ""
-  },
-  {
-   "name": "DR SUNITA PANDEY",
-   "advocate": ""
-  }
- ],
- "acts": [
-  {
-   "act": "Contempt of Courts Act, 1971 (Act No. 70 of 1971)",
-   "sections": "12"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2026-10-09",
-   "business_date": null,
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": "2026-12-03",
-   "business_date": "2026-10-09",
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "cause_list_type": "DAILY CAUSE LIST"
-  }
- ],
- "orders": [
-  {
-   "order_date": "2026-10-09",
-   "order_type": "CLCON/593/2026",
-   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpnyNJabhnjCyGZ87hZfLDwNWYLXnbuFPO51WJiewaaL&caseno=CLCON/593/2026&cCode=1&cino=UKHC010178702026&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  }
- ]
+ "state": "",
+ "district": "",
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
+ "orders": []
 }

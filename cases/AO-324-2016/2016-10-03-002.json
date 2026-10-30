@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/324/2016:2016-10-03-002",
+ "title": "MAHESH RAUTELA versus DEEPAK KUMAR",
+ "petitioner": "MAHESH RAUTELA",
+ "respondent": "DEEPAK KUMAR",
+ "case_no": "AO/324/2016",
+ "case_type": "AO",
+ "decision_date": "2016-10-03",
+ "cnr": "UKHC010044022016",
+ "doc_kind": "order",
+ "order_type": "AO/324/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBTZCnrBRrDPHtfyxx%2BKzhsVojBkuFrSkGg6RkJgsDjd8&caseno=AO/324/2016&cCode=1&cino=UKHC010044022016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0bcacfcea249e30cd087771fd0d816c20167d67da6f750399afc4716cfd0f51c",
+ "fetched_at": "2026-10-30T02:37:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

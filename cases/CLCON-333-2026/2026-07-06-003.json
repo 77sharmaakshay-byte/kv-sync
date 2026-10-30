@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/333/2026:2026-07-06-003",
+ "title": "SATNAM SINGH versus HARENDRA KUMAR MISHRA",
+ "petitioner": "SATNAM SINGH",
+ "respondent": "HARENDRA KUMAR MISHRA",
+ "case_no": "CLCON/333/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-07-06",
+ "cnr": "UKHC010102112026",
+ "doc_kind": "order",
+ "order_type": "CLCON/333/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgDRjISpUWoRAPn%2B%2Fo%2FzxsS0Bxy8%2BBy2W4Vh6eEOX8xW&caseno=CLCON/333/2026&cCode=1&cino=UKHC010102112026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1cd19c686b73e4c342cdcc00d677873aa722f899d42e13af5d036f4959e415bc",
+ "fetched_at": "2026-10-30T02:32:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

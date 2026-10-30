@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/8/2005:2024-02-23-022",
+ "title": "RAJENDRA SINGH versus MANGAL SINGH",
+ "petitioner": "RAJENDRA SINGH",
+ "respondent": "MANGAL SINGH",
+ "case_no": "SA/8/2005",
+ "case_type": "SA",
+ "decision_date": "2024-02-23",
+ "cnr": "UKHC010002682005",
+ "doc_kind": "order",
+ "order_type": "SA/8/2005",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=8%2FT%2FK2HwevqnNXgPH0P55kNRu1S1ZzN1kgYKkieI%2BLEvMLgueFKB%2BRjLpLCd6dIN&caseno=SA/8/2005&cCode=1&cino=UKHC010002682005&state_code=15&court_code=1&&appFlag=",
+ "sha256": "64304eab1c352363bf935254805363536148171993c182317304178ac18a314c",
+ "fetched_at": "2026-10-30T02:42:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

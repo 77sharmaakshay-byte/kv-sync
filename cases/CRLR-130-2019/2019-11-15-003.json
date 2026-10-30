@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/130/2019:2019-11-15-003",
+ "title": "RAJEEV GAUR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJEEV GAUR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/130/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-11-15",
+ "cnr": "UKHC010040742019",
+ "doc_kind": "order",
+ "order_type": "CRLR/130/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4UZwP6KkSW8tCl0jSiktafKAb9grw4iwJpWdftMMTZn&caseno=CRLR/130/2019&cCode=1&cino=UKHC010040742019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4759ebadb28320c0a47cfbf479e85c762205738652d6415b03513dcb61cc08d1",
+ "fetched_at": "2026-10-30T03:05:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

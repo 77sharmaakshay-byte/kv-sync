@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/573/2008:2020-11-04-003",
+ "title": "SHAMIM AHMAD versus MOHMMAD YUSUF",
+ "petitioner": "SHAMIM AHMAD",
+ "respondent": "MOHMMAD YUSUF",
+ "case_no": "WPMS/573/2008",
+ "case_type": "WPMS",
+ "decision_date": "2020-11-04",
+ "cnr": "UKHC010000212008",
+ "doc_kind": "order",
+ "order_type": "WPMS/573/2008",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FwQOg3skvbQQFLqpuCrwFPdRxo7wcIW4SoXYHx3Ori2VGZhE2dtNwrc6TkS8AC%2F5&caseno=WPMS/573/2008&cCode=1&cino=UKHC010000212008&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0d7fda0c30615a6142e0bd2df83021c7a1db9e7aedc49ff7bad9b09506249d7f",
+ "fetched_at": "2026-10-30T02:55:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

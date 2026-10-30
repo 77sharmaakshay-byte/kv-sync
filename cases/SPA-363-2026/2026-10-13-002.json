@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/363/2026:2026-10-13-002",
+ "title": "MAHABIR SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHABIR SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/363/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010150642026",
+ "doc_kind": "order",
+ "order_type": "SPA/363/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk5aMsJEEyrABNWFCalyEQsBRSgkOxJo9E6s9fmdxNu8&caseno=SPA/363/2026&cCode=1&cino=UKHC010150642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dd4c7dd58eb5e6237abf6de185dcbf6600c2ec9ec12a556938308da4e21805cb",
+ "fetched_at": "2026-10-30T03:04:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

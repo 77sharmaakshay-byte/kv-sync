@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/188/2014:2023-06-30-003",
+ "title": "Dhyan Singh versus STATE OF UTTARAKHAND THROUGH SECRETARY, HOME DEPARTMENT, GOVERNMENT OF UTTARAKHAND",
+ "petitioner": "Dhyan Singh",
+ "respondent": "STATE OF UTTARAKHAND THROUGH SECRETARY, HOME DEPARTMENT, GOVERNMENT OF UTTARAKHAND",
+ "case_no": "CRLR/188/2014",
+ "case_type": "CRLR",
+ "decision_date": "2023-06-30",
+ "cnr": "UKHC010017942014",
+ "doc_kind": "order",
+ "order_type": "CRLR/188/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobNIKrN%2B7APPtq2jAzSctRAhLBvwJ8NjredgKb7sCsu2e&caseno=CRLR/188/2014&cCode=1&cino=UKHC010017942014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e0da66bf2296129976a40a9875423bd30980dde2326b7a5805601ad4dbc44d57",
+ "fetched_at": "2026-10-30T03:12:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

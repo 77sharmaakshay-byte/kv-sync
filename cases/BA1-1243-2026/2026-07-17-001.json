@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1243/2026:2026-07-17-001",
+ "title": "RAJU ALIAS RAJKUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJU ALIAS RAJKUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1243/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-17",
+ "cnr": "UKHC010124192026",
+ "doc_kind": "order",
+ "order_type": "BA1/1243/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhUamVm2zXZ0zLLb3YxR1klmqK5gz0FRaDJ3JGr9VBb%2B&caseno=BA1/1243/2026&cCode=1&cino=UKHC010124192026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5dca31c604e6f5400ace5bc0a19d99bf36c9d04fd638465cdf8c7144e5b0b5b4",
+ "fetched_at": "2026-10-30T02:32:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1276/2010:2016-05-11-008",
+ "title": "RAJENDRA SINGH RAWAT versus SHYAM SINGH",
+ "petitioner": "RAJENDRA SINGH RAWAT",
+ "respondent": "SHYAM SINGH",
+ "case_no": "WPMS/1276/2010",
+ "case_type": "WPMS",
+ "decision_date": "2016-05-11",
+ "cnr": "UKHC010004162010",
+ "doc_kind": "order",
+ "order_type": "WPMS/1276/2010",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=nR0ZgoxyOblUDy2s9G9xdNdDGT86TTCotbRwsOqQKPuCn9ykIVjAX8Ft9zvK7tIw&caseno=WPMS/1276/2010&cCode=1&cino=UKHC010004162010&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb21fc4a0f8c684db58654b5daa0b13c021186509ecf7f4e736da4c297402aba",
+ "fetched_at": "2026-10-30T03:01:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

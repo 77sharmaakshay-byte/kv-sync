@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3363/2025:2025-12-09-001",
+ "title": "DHARMENDRA KUMAR SHARMA versus ASHOK KUMAR",
+ "petitioner": "DHARMENDRA KUMAR SHARMA",
+ "respondent": "ASHOK KUMAR",
+ "case_no": "WPMS/3363/2025",
+ "case_type": "WPMS",
+ "decision_date": "2025-12-09",
+ "cnr": "UKHC010193212025",
+ "doc_kind": "order",
+ "order_type": "WPMS/3363/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5FsSS5p2%2BQtVl%2F2XAnAlBCIIDCIulQmGSQ77j14jBK3&caseno=WPMS/3363/2025&cCode=1&cino=UKHC010193212025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7466dcb5a37da4d90b40afb865a3b9363580297100c18f10cd9cdd26ab0dac80",
+ "fetched_at": "2026-10-30T03:02:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

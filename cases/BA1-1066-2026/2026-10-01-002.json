@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1066/2026:2026-10-01-002",
+ "title": "SUMIT KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SUMIT KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1066/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010105242026",
+ "doc_kind": "order",
+ "order_type": "BA1/1066/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr8b9wmtSg6rC8LHiPQN6XXyOoISZRUj%2B2TtSGJ%2BgkLt&caseno=BA1/1066/2026&cCode=1&cino=UKHC010105242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e6431bd6728835a07e9eea55f903a8b3c6e3c7450480af51959328509dcd8823",
+ "fetched_at": "2026-10-30T02:32:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

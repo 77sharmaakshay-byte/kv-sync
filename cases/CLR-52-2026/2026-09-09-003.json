@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/52/2026:2026-09-09-003",
+ "title": "HARMIT KAUR versus AMIT PAL",
+ "petitioner": "HARMIT KAUR",
+ "respondent": "AMIT PAL",
+ "case_no": "CLR/52/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010073072026",
+ "doc_kind": "order",
+ "order_type": "CLR/52/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiYDZCfysIRP57IPsHH762e887xggpRhGNafwkfbzWiA&caseno=CLR/52/2026&cCode=1&cino=UKHC010073072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "53168cbc285bf081a59fd6e3743ec5fce478457effd845fe3fd6bdf4f6730a15",
+ "fetched_at": "2026-10-30T02:38:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

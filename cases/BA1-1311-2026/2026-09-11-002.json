@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1311/2026:2026-09-11-002",
+ "title": "IRFAN versus STATE OF UTTARAKHAND",
+ "petitioner": "IRFAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1311/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010132222026",
+ "doc_kind": "order",
+ "order_type": "BA1/1311/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgbuqwcR%2Ba7Si3QtMCS32kbk%2Fip52TprwgWaE6U5MZ6n&caseno=BA1/1311/2026&cCode=1&cino=UKHC010132222026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9df28b0009b7a3265c662c2de6618e7d95ad955d89a0a958a04b585f302f5b9c",
+ "fetched_at": "2026-10-30T02:32:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1592/2026:2026-09-22-001",
+ "title": "MEHTAB versus STATE OF UTTARAKHAND",
+ "petitioner": "MEHTAB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1592/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010166852026",
+ "doc_kind": "order",
+ "order_type": "BA1/1592/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqcuSIs1DfIa73VEg7dq0CYyTdCGjZF1sqIgdFAja0oO&caseno=BA1/1592/2026&cCode=1&cino=UKHC010166852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "80672a19a4bb9bcd35ff7754f36fcb9c51571bd8affbec71621a2201b7b7d76d",
+ "fetched_at": "2026-10-30T02:33:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

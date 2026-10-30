@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1450/2024:2025-11-12-005",
+ "title": "RAGHUVIR SINGH versus MANISHA SHARMA   Advocate- ,PIYUSH GARG 1123",
+ "petitioner": "RAGHUVIR SINGH",
+ "respondent": "MANISHA SHARMA   Advocate- ,PIYUSH GARG 1123",
+ "case_no": "WPMS/1450/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-12",
+ "cnr": "UKHC010083232024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1450/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcGwjnY6pxIlyO4PRNHT7H4QUSX0YoUd6RLh6%2Btyw1l3P&caseno=WPMS/1450/2024&cCode=1&cino=UKHC010083232024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "26b80cb79762fe566579856b69559bf90c29dda70b77678f29cc9fa86edd62b2",
+ "fetched_at": "2026-10-30T03:03:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

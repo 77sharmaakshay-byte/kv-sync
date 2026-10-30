@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/869/2026:2026-05-22-001",
+ "title": "VIKKI versus STATE OF UTTARAKHAND",
+ "petitioner": "VIKKI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/869/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-22",
+ "cnr": "UKHC010086052026",
+ "doc_kind": "order",
+ "order_type": "BA1/869/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh5fYeTFAFB5vnyMNiXrqRHrefT79K5zJfj2ZHVZb41%2B&caseno=BA1/869/2026&cCode=1&cino=UKHC010086052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2bdafb2bc66b3a3e2485adccfd2e9c8d44df499163ff8cea65a2f5cb217aa4ab",
+ "fetched_at": "2026-10-30T02:32:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

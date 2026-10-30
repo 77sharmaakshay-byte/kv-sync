@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1034/2026:2026-09-28-004",
+ "title": "KRANTA NATH versus STATE OF UTTARAKHAND",
+ "petitioner": "KRANTA NATH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1034/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010101562026",
+ "doc_kind": "order",
+ "order_type": "BA1/1034/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhjqSOnx%2FD7ccEfJb9BZ%2Bwx3NLTlDsFRaOWfq67C4z%2Bi&caseno=BA1/1034/2026&cCode=1&cino=UKHC010101562026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce7d7d7b3cb75c45ddd276072840fe107bbf33853ba1c72f30affd272c57cd8f",
+ "fetched_at": "2026-10-30T02:34:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3520/2025:2025-12-19-001",
+ "title": "RAVI NANDAN SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVI NANDAN SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3520/2025",
+ "case_type": "WPMS",
+ "decision_date": "2025-12-19",
+ "cnr": "UKHC010202332025",
+ "doc_kind": "order",
+ "order_type": "WPMS/3520/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS (AFTER FRESH) -30",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm772SbH4eO7CpaDOhVufc9bbeO8EYe%2FdxlcZUC3LaVts&caseno=WPMS/3520/2025&cCode=1&cino=UKHC010202332025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f812b16b950fe39f7a32cd5330c5eb7118021c864c3cacf1aad2a5823d79c8fa",
+ "fetched_at": "2026-10-30T03:01:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

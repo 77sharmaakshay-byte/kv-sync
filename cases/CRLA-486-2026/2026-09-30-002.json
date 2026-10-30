@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/486/2026:2026-09-30-002",
+ "title": "MUKESH MOHAN BAHUGUNA versus STATE OF UTTARAKHAND",
+ "petitioner": "MUKESH MOHAN BAHUGUNA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/486/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010147632026",
+ "doc_kind": "order",
+ "order_type": "CRLA/486/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh2FsxXy8%2BRt9tairo65gVKrKBPZASWdewKGnbmlaD5Q&caseno=CRLA/486/2026&cCode=1&cino=UKHC010147632026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "be50788421a6f48a9d9c62514c23912c1239ad4218e302b0abbc3411a1be7e10",
+ "fetched_at": "2026-10-30T03:04:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

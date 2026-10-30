@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/665/2026:2026-08-14-001",
+ "title": "M/S PRINCE CONSTRUCTION COMPANY versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S PRINCE CONSTRUCTION COMPANY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/665/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010144272026",
+ "doc_kind": "order",
+ "order_type": "WPMB/665/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg9w9rA8QX7OZggBW2H8P7cm8lt4sqPRpjVx1ziUVd4z&caseno=WPMB/665/2026&cCode=1&cino=UKHC010144272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "296411cecc3d2c8351e080f83c1b378cdd33c744df562acabadc696d13e1a8d6",
+ "fetched_at": "2026-10-30T03:10:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

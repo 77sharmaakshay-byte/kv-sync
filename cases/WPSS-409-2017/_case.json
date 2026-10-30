@@ -1,128 +1,24 @@
 {
  "cnr_number": "UKHC010032252017",
- "case_type": "WPSS",
- "filing_number": "WPSS /1002806/2017",
- "filing_date": "2017-03-16",
- "registration_number": "WPSS /409/2017",
- "registration_date": "2017-03-16",
- "first_hearing_date": "2017-07-26",
- "next_hearing_date": "2018-11-29",
+ "case_type": "",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
+ "first_hearing_date": null,
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "ADMISSION MATTERS -25",
+ "case_stage": "",
  "status": "",
  "coram": "",
- "bench_type": "Single Bench",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "UTTARAKHAND",
- "district": "Nainital",
- "petitioners": [
-  {
-   "name": "MAHESH CHANDRA ARYA",
-   "advocate": "B N MOLAKHI"
-  }
- ],
- "respondents": [
-  {
-   "name": "STATE OF UTTARAKHAND, THROUGH PRINCIPAL SECRETARY, SECONDARY EDUCATION   Advocate- ,BHAGWAT MEHRA,DHARMENDRA BARTHWAL,C.S.C. 1123",
-   "advocate": ""
-  },
-  {
-   "name": "DIRECTOR, SECONDARY EDUCATION,",
-   "advocate": ""
-  },
-  {
-   "name": "ADDITIONAL DIRECTOR, SECONDARY EDUCATION,",
-   "advocate": ""
-  },
-  {
-   "name": "CHIEF EDUCATION OFFICER",
-   "advocate": ""
-  },
-  {
-   "name": "COMMITTEE OF MANAGEMENT, GOVIND BALLABH PANT INTER COLLEGE",
-   "advocate": "DHARMENDRA BARTHWAL"
-  },
-  {
-   "name": "PRAHALAT LAL",
-   "advocate": "BHAGWAT MEHRA"
-  }
- ],
- "acts": [
-  {
-   "act": "Under Article 226 of the Constituion of India",
-   "sections": "226"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2018-11-29",
-   "business_date": "2018-08-02",
-   "purpose": "ADMISSION MATTERS -25",
-   "judge": "",
-   "cause_list_type": ""
-  },
-  {
-   "hearing_date": "2018-08-02",
-   "business_date": "2018-07-09",
-   "purpose": "ADMISSION MATTERS -25",
-   "judge": "",
-   "cause_list_type": ""
-  },
-  {
-   "hearing_date": "2018-07-09",
-   "business_date": "2018-02-14",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "",
-   "cause_list_type": ""
-  },
-  {
-   "hearing_date": "2018-02-14",
-   "business_date": "2017-11-22",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "",
-   "cause_list_type": ""
-  },
-  {
-   "hearing_date": "2017-11-22",
-   "business_date": "2017-10-05",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "",
-   "cause_list_type": ""
-  },
-  {
-   "hearing_date": "2017-10-05",
-   "business_date": "2017-07-26",
-   "purpose": "ORDERS ON APPLICATIONS -22",
-   "judge": "",
-   "cause_list_type": ""
-  },
-  {
-   "hearing_date": "2017-07-26",
-   "business_date": "2017-03-17",
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "",
-   "cause_list_type": ""
-  }
- ],
- "orders": [
-  {
-   "order_date": "2018-07-09",
-   "order_type": "WPSS/409/2017",
-   "judge": "Hon'ble Mr. Justice V. K. Bist",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShx%2FkdVhql0p6p9fsZBxfN5wq7R5do3VrIVSbQdEkRllh&caseno=WPSS/409/2017&cCode=1&cino=UKHC010032252017&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2018-08-02",
-   "order_type": "WPSS/409/2017",
-   "judge": "Hon'ble Mr. Justice Alok Singh",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShx%2FkdVhql0p6p9fsZBxfN5xCgahsTwISpGvBKKcruM8L&caseno=WPSS/409/2017&cCode=1&cino=UKHC010032252017&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  }
- ]
+ "state": "",
+ "district": "",
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
+ "orders": []
 }

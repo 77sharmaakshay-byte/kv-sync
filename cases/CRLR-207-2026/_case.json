@@ -1,0 +1,126 @@
+{
+ "cnr_number": "UKHC010045062026",
+ "case_type": "CRLR",
+ "filing_number": "CRLR /2109/2026",
+ "filing_date": "2026-03-23",
+ "registration_number": "CRLR /207/2026",
+ "registration_date": "2026-03-23",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "NADEEM QURESHI",
+   "advocate": "MOHIT KUMAR KASHYAP,MOHD IMRAN,MOHD IMRAN, ,ANUJ SINGH KUNJWAL,MOHD IMRAN"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Uttarakhand Protection of Cow Progeny Act, 2007 (Act No. 06 of 2007)",
+   "sections": "3/5/6/11,(1)(2)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-03-25",
+   "business_date": null,
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-22",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-07-17",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-07-17",
+   "business_date": "2026-06-19",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-04-15",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-15",
+   "business_date": "2026-04-07",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-07",
+   "business_date": "2026-03-25",
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-03-25",
+   "order_type": "CRLR/207/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkvGs8RLIIlmO3iHz1e4ntamF3fxQShW2jUUIJwc4EkJ&caseno=CRLR/207/2026&cCode=1&cino=UKHC010045062026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-19",
+   "order_type": "CRLR/207/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkvGs8RLIIlmO3iHz1e4ntZGul3Hvj87508SON7MaPxP&caseno=CRLR/207/2026&cCode=1&cino=UKHC010045062026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-19",
+   "order_type": "CRLR/207/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkvGs8RLIIlmO3iHz1e4ntbUHUwzZOqCcYGHjbmRSFSN&caseno=CRLR/207/2026&cCode=1&cino=UKHC010045062026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-07-17",
+   "order_type": "CRLR/207/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkvGs8RLIIlmO3iHz1e4ntbCAHJLE7pRnz6DPGGCUPF1&caseno=CRLR/207/2026&cCode=1&cino=UKHC010045062026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

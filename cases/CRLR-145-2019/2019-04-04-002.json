@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/145/2019:2019-04-04-002",
+ "title": "MAHENDRA SINGH BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHENDRA SINGH BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/145/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-04-04",
+ "cnr": "UKHC010047762019",
+ "doc_kind": "order",
+ "order_type": "CRLR/145/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BLZfwnj0%2BB597gq1nBkwPfc2yYBv0d0lWGOZ6lYccb5&caseno=CRLR/145/2019&cCode=1&cino=UKHC010047762019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3ec48819d5ff7bec35e92308f9a20634359d7c47bf6e56c2eea29159d1d05d85",
+ "fetched_at": "2026-10-30T03:05:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1474/2026:2026-07-10-001",
+ "title": "AASHIF ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "AASHIF ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/1474/2026",
+ "case_type": "C528",
+ "decision_date": "2026-07-10",
+ "cnr": "UKHC010119272026",
+ "doc_kind": "order",
+ "order_type": "C528/1474/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhL2XOaota6Kyf%2BZbBIunryERqNjTnhgspCdhoDy49i0&caseno=C528/1474/2026&cCode=1&cino=UKHC010119272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "42ffcc71dc8d72faac821b1ad2f17ca75f25987d6f3bf1fe791461ccd8224cd5",
+ "fetched_at": "2026-10-30T02:33:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

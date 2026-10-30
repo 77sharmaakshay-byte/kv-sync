@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/150/2024:2024-04-04-003",
+ "title": "JASPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "JASPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/150/2024",
+ "case_type": "BA1",
+ "decision_date": "2024-04-04",
+ "cnr": "UKHC010012012024",
+ "doc_kind": "judgment",
+ "order_type": "BA1/150/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcGAZ%2BkDtGxGeRUa6nouLoK4Mk%2BsvbbtbjxqJCJbIOYp2&caseno=BA1/150/2024&cCode=1&cino=UKHC010012012024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3c1fded3bc4ac4a4ddfffdd7b8b6e535e5a559b993d5d8e06e7d39573a2df841",
+ "fetched_at": "2026-10-30T03:01:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

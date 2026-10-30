@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1368/2026:2026-08-14-001",
+ "title": "SHAHNE ALAM versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAHNE ALAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1368/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010139382026",
+ "doc_kind": "order",
+ "order_type": "BA1/1368/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQq6rxW4Hej02ZCE5OOR9rjD6ObJx5rccjoq6lTVKwTIJ&caseno=BA1/1368/2026&cCode=1&cino=UKHC010139382026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "13d578f83268a355ded6e669626ed56138cebf0a60db20dacc3f83567b0ad083",
+ "fetched_at": "2026-10-30T02:34:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

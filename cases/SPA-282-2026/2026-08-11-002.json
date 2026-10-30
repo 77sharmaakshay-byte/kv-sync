@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/282/2026:2026-08-11-002",
+ "title": "ANKIT KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ANKIT KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/282/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010109372026",
+ "doc_kind": "order",
+ "order_type": "SPA/282/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQitPFd7HL1XhdK78dl%2BC9ucL%2FZAOnUMGO%2BtAD5PjMMQ3&caseno=SPA/282/2026&cCode=1&cino=UKHC010109372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6100b81e5ca544b46e4b6bdedc99b91b13064cc9dbb3caa4804961eead199327",
+ "fetched_at": "2026-10-30T03:04:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

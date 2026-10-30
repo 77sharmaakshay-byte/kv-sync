@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/8/2005:2016-08-30-010",
+ "title": "RAJENDRA SINGH versus MANGAL SINGH",
+ "petitioner": "RAJENDRA SINGH",
+ "respondent": "MANGAL SINGH",
+ "case_no": "SA/8/2005",
+ "case_type": "SA",
+ "decision_date": "2016-08-30",
+ "cnr": "UKHC010002682005",
+ "doc_kind": "order",
+ "order_type": "SA/8/2005",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=8%2FT%2FK2HwevqnNXgPH0P55kNRu1S1ZzN1kgYKkieI%2BLEVI5cim5vqO8LZztSPg7Rv&caseno=SA/8/2005&cCode=1&cino=UKHC010002682005&state_code=15&court_code=1&&appFlag=",
+ "sha256": "77734b83ff11db9e2296dec127d38ca906c24c21c154c0cd51cc25f08a3ca250",
+ "fetched_at": "2026-10-30T02:42:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

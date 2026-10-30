@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/13/2009:2014-11-12-004",
+ "title": "M/S PRECISION INSTRUMENTS FOR ENGINEERS versus RAKESH KUMAR AGARWAL",
+ "petitioner": "M/S PRECISION INSTRUMENTS FOR ENGINEERS",
+ "respondent": "RAKESH KUMAR AGARWAL",
+ "case_no": "CLR/13/2009",
+ "case_type": "CLR",
+ "decision_date": "2014-11-12",
+ "cnr": "UKHC010001392009",
+ "doc_kind": "order",
+ "order_type": "CLR/13/2009",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=MGXjNlhHc3b4Zkl4Zse2fiU6ASqgq80PR%2F8VnDfoQ4SUjceNQu4G7EJLPDqVKXla&caseno=CLR/13/2009&cCode=1&cino=UKHC010001392009&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f5f1c9ac8e1e667e23465ba875dad0e106f2c7b283c9ed5daa6f88cd57adabaa",
+ "fetched_at": "2026-10-30T02:38:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

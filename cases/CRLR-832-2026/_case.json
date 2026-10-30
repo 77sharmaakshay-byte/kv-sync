@@ -1,0 +1,55 @@
+{
+ "cnr_number": "UKHC010193262026",
+ "case_type": "CRLR",
+ "filing_number": "CRLR /9324/2026",
+ "filing_date": "2026-10-28",
+ "registration_number": "CRLR /832/2026",
+ "registration_date": "2026-10-28",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-30",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "JAGRAT GARG",
+   "advocate": "Chirag Goswami"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "RUCHIKA GOEL",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Family Courts Act, 1984 (Act No. 66 of 1984)",
+   "sections": "19(4)"
+  },
+  {
+   "act": "Code of Criminal Procedure, 1973 (Act No. 2 of 1974)",
+   "sections": "397/401"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

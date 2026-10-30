@@ -6,9 +6,9 @@
  "registration_number": "CLR /107/2024",
  "registration_date": "2024-10-16",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-10-30",
  "decision_date": null,
- "case_stage": "AFTER FRESH MATTERS -128",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
  "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Single Bench",
@@ -25,7 +25,7 @@
  "respondents": [
   {
    "name": "YASHPAL",
-   "advocate": "MOHD SAFDAR"
+   "advocate": "MOHD ALAUDDIN"
   }
  ],
  "acts": [
@@ -40,6 +40,13 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-16",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -292,6 +299,15 @@
    "order_type": "CLR/107/2024",
    "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcLUYFg0p0X%2BaTHIHXZ8%2BVS3ZiFaS7A67rhrZ%2BZWirujX&caseno=CLR/107/2024&cCode=1&cino=UKHC010164212024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-16",
+   "order_type": "CLR/107/2024",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcLUYFg0p0X%2BaTHIHXZ8%2BVS3W3B7knQw6Na8qIKMlHXYY&caseno=CLR/107/2024&cCode=1&cino=UKHC010164212024&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

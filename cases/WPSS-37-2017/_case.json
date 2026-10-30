@@ -6,7 +6,7 @@
  "registration_number": "WPSS /37/2017",
  "registration_date": "2017-01-07",
  "first_hearing_date": "2017-02-20",
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": null,
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING -40",
  "status": "",
@@ -55,6 +55,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-13",
    "business_date": "2026-09-16",

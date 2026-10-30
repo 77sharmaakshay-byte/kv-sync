@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1495/2026:2026-09-02-001",
+ "title": "SHABAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SHABAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1495/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-02",
+ "cnr": "UKHC010154362026",
+ "doc_kind": "order",
+ "order_type": "BA1/1495/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpWzjT4pArOZipI%2FCNnnPQNrbGhCXtWLfeKfxMoiUeea&caseno=BA1/1495/2026&cCode=1&cino=UKHC010154362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4a79d02fe12be44ea3e8ab892b08bd1184e3156e0a2c1eda9a5707d21f1479e1",
+ "fetched_at": "2026-10-30T02:33:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

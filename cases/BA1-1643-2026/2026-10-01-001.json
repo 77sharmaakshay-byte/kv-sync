@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1643/2026:2026-10-01-001",
+ "title": "MOHD AYAN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD AYAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1643/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010174862026",
+ "doc_kind": "order",
+ "order_type": "BA1/1643/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvGswyRjfmQr%2FYVv5lNxKp1mbN6QdOBWlK0UlOJmjkKW&caseno=BA1/1643/2026&cCode=1&cino=UKHC010174862026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f1210a782d72c5ab7e54cdf6353b41114833d89f1878fe4a080d4dbdd24cf965",
+ "fetched_at": "2026-10-30T02:34:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

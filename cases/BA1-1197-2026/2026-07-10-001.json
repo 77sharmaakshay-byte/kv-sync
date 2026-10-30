@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1197/2026:2026-07-10-001",
+ "title": "ANKUSH versus STATE OF UTTARAKHAND",
+ "petitioner": "ANKUSH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1197/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-10",
+ "cnr": "UKHC010118732026",
+ "doc_kind": "order",
+ "order_type": "BA1/1197/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpEbzF%2F7RtqMdAYluYUlmEd0iPrLJHcOY%2BjUZEz4YtZ4&caseno=BA1/1197/2026&cCode=1&cino=UKHC010118732026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "db24cbff942bc34e7a0319d4746f5847b39d63bb5cc446db49eb6e9a0b520069",
+ "fetched_at": "2026-10-30T02:33:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

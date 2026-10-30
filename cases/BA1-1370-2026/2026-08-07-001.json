@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1370/2026:2026-08-07-001",
+ "title": "MALKIT SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MALKIT SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1370/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-07",
+ "cnr": "UKHC010139612026",
+ "doc_kind": "order",
+ "order_type": "BA1/1370/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtMXu%2FeNfo5y5wxvmaL6BFqkwSAFujaBPlc9QhmpQ%2FoL&caseno=BA1/1370/2026&cCode=1&cino=UKHC010139612026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f6912f88454a2ec0062d775ac48a350cababa04765672bbd896e025fb1ab7190",
+ "fetched_at": "2026-10-30T02:32:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

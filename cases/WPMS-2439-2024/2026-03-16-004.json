@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2439/2024:2026-03-16-004",
+ "title": "SHAKOOR versus HANIFA",
+ "petitioner": "SHAKOOR",
+ "respondent": "HANIFA",
+ "case_no": "WPMS/2439/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-03-16",
+ "cnr": "UKHC010143002024",
+ "doc_kind": "order",
+ "order_type": "WPMS/2439/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKe7PNwi9QGyfx%2BJFke3jje2rfcwPqHyuopbMaIc9p2Z&caseno=WPMS/2439/2024&cCode=1&cino=UKHC010143002024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "68568d2a04a899d148662d5748a33108dbb7e877680779b4006b1bbf714f4baa",
+ "fetched_at": "2026-10-30T03:02:08+00:00",
+ "fetched_by": "fetch_live.py"
+}
