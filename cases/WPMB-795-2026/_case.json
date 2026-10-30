@@ -1,24 +1,123 @@
 {
  "cnr_number": "UKHC010167212026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "WPMB",
+ "filing_number": "WPMB /8670/2026",
+ "filing_date": "2026-09-18",
+ "registration_number": "WPMB /795/2026",
+ "registration_date": "2026-09-18",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Almora",
+ "petitioners": [
+  {
+   "name": "M/S DEVKI NANDAN JOSHI CONTRACTOR",
+   "advocate": "BHAGWAT MEHRA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "UTTARAKHAND RURAL ROADS DEVELOPMENT AGENCY",
+   "advocate": ""
+  },
+  {
+   "name": "CHIEF ENGINEER",
+   "advocate": "S S CHAUHAN"
+  },
+  {
+   "name": "CHIEF ENGINEER",
+   "advocate": "S S CHAUHAN"
+  },
+  {
+   "name": "SUPERINTENDING ENGINEER",
+   "advocate": "S S CHAUHAN"
+  },
+  {
+   "name": "EXEUTIVE ENGINEER",
+   "advocate": "S S CHAUHAN"
+  },
+  {
+   "name": "M/S BHUWAN CHANDRA NARIYAL",
+   "advocate": "TRIBHUWAN CHANDRA PANDEY"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-22",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-10-15",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-25",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-25",
+   "business_date": "2026-09-23",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-09-23",
+   "business_date": "2026-09-22",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-23",
+   "order_type": "WPMB/795/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr8TytTTtt03c4B3sKIEK0M1tQ9ETZWurPjHnkgwN7TZ&caseno=WPMB/795/2026&cCode=1&cino=UKHC010167212026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-25",
+   "order_type": "WPMB/795/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr8TytTTtt03c4B3sKIEK0Nm8NgzB5KCQkmEgcnpvUGH&caseno=WPMB/795/2026&cCode=1&cino=UKHC010167212026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-15",
+   "order_type": "WPMB/795/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr8TytTTtt03c4B3sKIEK0OVosa5j1H6594AbScsOr1z&caseno=WPMB/795/2026&cCode=1&cino=UKHC010167212026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

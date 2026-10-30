@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/3791/2018:2024-07-01-002",
+ "title": "MOHAN SINGH(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHAN SINGH(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/3791/2018",
+ "case_type": "WPSS",
+ "decision_date": "2024-07-01",
+ "cnr": "UKHC010179362018",
+ "doc_kind": "order",
+ "order_type": "WPSS/3791/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL4r6ycH7tMjvtKz2Mr3kRzD%2FKxB0P7myIo301qRQVC9r&caseno=WPSS/3791/2018&cCode=1&cino=UKHC010179362018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "50009fcc4d900ee597f9ca66afedb7319247971acf3b3adbdf34e17def6f8142",
+ "fetched_at": "2026-10-30T03:19:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

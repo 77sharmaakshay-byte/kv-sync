@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/202/2023:2023-06-20-005",
+ "title": "PREM RAM versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM RAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/202/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-06-20",
+ "cnr": "UKHC010019492023",
+ "doc_kind": "order",
+ "order_type": "WPSS/202/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY89EL1AUpiWkaFig%2FSYhzpjBvaGFc8NlVxw8ZbR5QLlR&caseno=WPSS/202/2023&cCode=1&cino=UKHC010019492023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ea2e0272877c4f6503dc9cfba81f20da20abc6fe8881d684206b445a7d543c58",
+ "fetched_at": "2026-10-30T03:17:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

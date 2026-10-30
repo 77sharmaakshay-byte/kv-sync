@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1442/2019:2019-09-03-003",
+ "title": "NAVEEN CHANDRA PANT versus UTTARAKHAND STATE WAREHOUSING CORPORATION THROUGH ITS MANAGING DIRECTOR",
+ "petitioner": "NAVEEN CHANDRA PANT",
+ "respondent": "UTTARAKHAND STATE WAREHOUSING CORPORATION THROUGH ITS MANAGING DIRECTOR",
+ "case_no": "WPSS/1442/2019",
+ "case_type": "WPSS",
+ "decision_date": "2019-09-03",
+ "cnr": "UKHC010095642019",
+ "doc_kind": "order",
+ "order_type": "WPSS/1442/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF0VC1Oc0hrL3b2q818I44eysEx%2F21h6hQLbbp36B5B26&caseno=WPSS/1442/2019&cCode=1&cino=UKHC010095642019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d9413ef7ce675535d24bfc1952133e53fcd2be52a1d38c3961c7b7d83eaa177",
+ "fetched_at": "2026-10-30T03:22:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,24 +1,227 @@
 {
  "cnr_number": "UKHC010179362018",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "WPSS",
+ "filing_number": "WPSS /1016504/2018",
+ "filing_date": "2018-11-01",
+ "registration_number": "WPSS /3791/2018",
+ "registration_date": "2018-11-01",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2024-12-24",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+ "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "MOHAN SINGH(Legal Heir)",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "JITENDRA SINGH",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "BOARD OF REVENUE UTTARAKHAND DEHRADUN THROUGH ITS SECRETARY CUM COMMISSIONER",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "COMMISSIONER, KUMAON DIVISION, NAINITAL",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "DISTRICT MAGISTRATE UDHAM SINGH NAGAR",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SUB DIVISIONAL MAGISTRATE KHATIMA, DISTRICT UDHAM SINGH NAGAR",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "ACCOUNTANT GENERAL UTTARAKHAND DEHRADUN ACCOUNTANT GENERAL OFFICE KAULAGARH, DEHRADUN",
+   "advocate": "DEPUTY S.G.,PUSHPA BHATT"
+  }
+ ],
+ "acts": [
+  {
+   "act": "OTHER",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2018-11-02",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-24",
+   "business_date": "2024-10-03",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-03",
+   "business_date": "2024-10-01",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-01",
+   "business_date": "2024-09-30",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-30",
+   "business_date": "2024-08-01",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-01",
+   "business_date": "2024-07-01",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-01",
+   "business_date": "2024-06-06",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-06-06",
+   "business_date": "2024-05-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-05-13",
+   "business_date": "2024-04-26",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-26",
+   "business_date": "2024-04-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-12",
+   "business_date": "2023-11-29",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-11-29",
+   "business_date": "2023-09-01",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-09-01",
+   "business_date": "2023-07-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-12-28",
+   "business_date": "2020-12-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-11-25",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-10-31",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-12-31",
+   "business_date": "2018-11-26",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-11-26",
+   "business_date": "2018-11-02",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2024-05-13",
+   "order_type": "WPSS/3791/2018",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL4r6ycH7tMjvtKz2Mr3kRzBzG7pD8sSwFxhSiRObIzFa&caseno=WPSS/3791/2018&cCode=1&cino=UKHC010179362018&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-07-01",
+   "order_type": "WPSS/3791/2018",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL4r6ycH7tMjvtKz2Mr3kRzD%2FKxB0P7myIo301qRQVC9r&caseno=WPSS/3791/2018&cCode=1&cino=UKHC010179362018&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-30",
+   "order_type": "WPSS/3791/2018",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL4r6ycH7tMjvtKz2Mr3kRzAK1XWwihc829%2B7tB%2FKMxET&caseno=WPSS/3791/2018&cCode=1&cino=UKHC010179362018&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-10-01",
+   "order_type": "WPSS/3791/2018",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL4r6ycH7tMjvtKz2Mr3kRzDMrBUleOjoXUlZeruiPme%2F&caseno=WPSS/3791/2018&cCode=1&cino=UKHC010179362018&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

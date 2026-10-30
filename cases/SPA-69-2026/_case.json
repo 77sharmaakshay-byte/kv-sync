@@ -1,24 +1,152 @@
 {
  "cnr_number": "UKHC010039142026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "SPA",
+ "filing_number": "SPA /2080/2026",
+ "filing_date": "2026-03-13",
+ "registration_number": "SPA /69/2026",
+ "registration_date": "2026-03-13",
  "first_hearing_date": null,
  "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Shri Justice Manoj Kumar Gupta , Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "UPENDRA SHARMA",
+   "advocate": "BHAGWAT MEHRA"
+  },
+  {
+   "name": "BASANT KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "PREM SINGH BRIJWAL",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SECRETARY",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SECRETARY",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "LABOUR COMMISSIONER",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "UTTARAKHAND MEDICAL SERVICE SELECTION BOARD",
+   "advocate": "RAMJI SHRIVASTAVA"
+  },
+  {
+   "name": "DIRECTOR",
+   "advocate": "HARI MOHAN BHATIA"
+  }
+ ],
+ "acts": [
+  {
+   "act": "UNDER RULE 5, CHAPTER VIII OF THE HIGH COURT RULE",
+   "sections": "VIII"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-03-17",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-07-21",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": null,
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-04-01",
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-01",
+   "business_date": "2026-03-20",
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-03-20",
+   "business_date": "2026-03-19",
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-03-17",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-03-20",
+   "order_type": "SPA/69/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQq9NzIDSP6Z%2FU5c7HLg4jQfRI%2BB7yqh2toQxfEJf9Jc7&caseno=SPA/69/2026&cCode=1&cino=UKHC010039142026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-04-01",
+   "order_type": "SPA/69/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQq9NzIDSP6Z%2FU5c7HLg4jQcEc4XFaIrJCno0RbP%2ByK1Y&caseno=SPA/69/2026&cCode=1&cino=UKHC010039142026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-16",
+   "order_type": "SPA/69/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQq9NzIDSP6Z%2FU5c7HLg4jQf919p9AZy6Q822HyZw6xt1&caseno=SPA/69/2026&cCode=1&cino=UKHC010039142026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

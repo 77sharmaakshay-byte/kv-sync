@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/16/2019:2019-01-08-001",
+ "title": "RAVINDER SINGH PANWAR versus UNION OF INDIA",
+ "petitioner": "RAVINDER SINGH PANWAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSB/16/2019",
+ "case_type": "WPSB",
+ "decision_date": "2019-01-08",
+ "cnr": "UKHC010003662019",
+ "doc_kind": "order",
+ "order_type": "WPSB/16/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BOO%2FkJ1O6K%2Felei7pI3z%2BxVLWvEKQN94bv4pi%2FI%2B53p&caseno=WPSB/16/2019&cCode=1&cino=UKHC010003662019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e98c84313f92e741968cbecab1187d9eb038c94df570ebc285f4d3c937f74b50",
+ "fetched_at": "2026-10-30T03:20:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

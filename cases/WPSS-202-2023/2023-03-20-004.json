@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/202/2023:2023-03-20-004",
+ "title": "PREM RAM versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM RAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/202/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-03-20",
+ "cnr": "UKHC010019492023",
+ "doc_kind": "order",
+ "order_type": "WPSS/202/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY89EL1AUpiWkaFig%2FSYhzpiI5XZ0BIXVJLCG%2FQNSkW7B&caseno=WPSS/202/2023&cCode=1&cino=UKHC010019492023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1bf3bd592ea183cf11a113347ec6698fb5e50000a724515c3642fc9b83fdb397",
+ "fetched_at": "2026-10-30T03:17:38+00:00",
+ "fetched_by": "fetch_live.py"
+}
