@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/247/2026:2026-06-17-002",
+ "title": "RAM LAL versus STATE OF UTTARAKHAND",
+ "petitioner": "RAM LAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/247/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-06-17",
+ "cnr": "UKHC010099212026",
+ "doc_kind": "order",
+ "order_type": "SPA/247/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtpuqICTedkOdpYev%2B6S2Xft4Vdorc6fK7%2BY3bpWVE2g&caseno=SPA/247/2026&cCode=1&cino=UKHC010099212026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "31b73862a16945512cb283694dd4e4ae58cf2618723cf76c5c2166ad025e1945",
+ "fetched_at": "2026-10-30T13:48:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

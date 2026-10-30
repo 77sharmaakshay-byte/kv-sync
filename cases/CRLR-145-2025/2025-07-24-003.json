@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/145/2025:2025-07-24-003",
+ "title": "VAISHALI versus STATE OF UTTARAKHAND",
+ "petitioner": "VAISHALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/145/2025",
+ "case_type": "CRLR",
+ "decision_date": "2025-07-24",
+ "cnr": "UKHC010034372025",
+ "doc_kind": "order",
+ "order_type": "CRLR/145/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6JAdcVKAdYpLc1DP1VJh1V%2BW7DN4JnHF3k0mNMy10tj&caseno=CRLR/145/2025&cCode=1&cino=UKHC010034372025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "154edbf255630e5df895828c10dfb9544cb00b7fb88221bf9ee131ed1cd8491f",
+ "fetched_at": "2026-10-30T13:48:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

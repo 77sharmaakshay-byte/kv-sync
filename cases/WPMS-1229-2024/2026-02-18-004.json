@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1229/2024:2026-02-18-004",
+ "title": "ASHOK KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ASHOK KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1229/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-18",
+ "cnr": "UKHC010071052024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1229/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcCey1Q5MWFQmZacpgQdHhvPwGjRUtqVAwnnMZQozsOIf&caseno=WPMS/1229/2024&cCode=1&cino=UKHC010071052024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "da0ea842e018507f2eee099ba86e41365c3be185e9bcb98f305a2f65f5ff6b0b",
+ "fetched_at": "2026-10-30T13:48:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

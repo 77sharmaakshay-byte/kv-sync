@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/793/2023:2024-03-20-002",
+ "title": "SITA versus STATE OF UTTARAKHAND",
+ "petitioner": "SITA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/793/2023",
+ "case_type": "CRLA",
+ "decision_date": "2024-03-20",
+ "cnr": "UKHC010181622023",
+ "doc_kind": "order",
+ "order_type": "CRLA/793/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYwSMVfRpH3iUkZY0tHnha9DE9YFPzQnHWPa%2BFN2UV2qx&caseno=CRLA/793/2023&cCode=1&cino=UKHC010181622023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "11ebe3d66c17d417c34bd11544f5e738b2b46507c23ad7c3929d46710f1e1ef8",
+ "fetched_at": "2026-10-30T13:48:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

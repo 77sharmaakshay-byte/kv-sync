@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1162/2026:2026-04-30-001",
+ "title": "BABURAM DECEASED(Legal Heir) versus HARIRAM DECEASED",
+ "petitioner": "BABURAM DECEASED(Legal Heir)",
+ "respondent": "HARIRAM DECEASED",
+ "case_no": "WPMS/1162/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-30",
+ "cnr": "UKHC010068852026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1162/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQneEXg6FVlwnEpg28kUzqN1NprSI48frTpyqKTMY2HeJ&caseno=WPMS/1162/2026&cCode=1&cino=UKHC010068852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "180b8c9564b811695444c304fb85cc10a7908a2309a1e9c18800e85664c97e9d",
+ "fetched_at": "2026-10-30T13:48:59+00:00",
+ "fetched_by": "fetch_live.py"
+}
