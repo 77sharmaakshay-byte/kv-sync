@@ -1,9 +1,12 @@
 {
  "date": "31-10-2026",
- "fetched": "29-10-2026",
+ "fetched": "30-10-2026",
  "source": "ehcr",
  "uploads": [
-  "DAILY CAUSE LIST (ADVANCE)|29.10.2026 06:32 PM"
+  "DAILY CAUSE LIST (ADVANCE)|29.10.2026 06:32 PM",
+  "DAILY CAUSELIST|30.10.2026 05:38 PM",
+  "DAILY LIST REGISTRAR JUDICIAL|30.10.2026 05:51 PM",
+  "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1|30.10.2026 05:50 PM"
  ],
  "benches": [
   {
@@ -14,6 +17,78 @@
    "source_pdf": "20261031_990_0.pdf",
    "uploaded": "29.10.2026 06:32 PM",
    "chars": 6444
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 02",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261031_1001_0-01-court-02.pdf",
+   "source_pdf": "20261031_1001_0.pdf",
+   "uploaded": "30.10.2026 05:38 PM",
+   "chars": 7114
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 03",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261031_1001_0-02-court-03.pdf",
+   "source_pdf": "20261031_1001_0.pdf",
+   "uploaded": "30.10.2026 05:38 PM",
+   "chars": 27525
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 04",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261031_1001_0-03-court-04.pdf",
+   "source_pdf": "20261031_1001_0.pdf",
+   "uploaded": "30.10.2026 05:38 PM",
+   "chars": 14197
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 05",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261031_1001_0-04-court-05.pdf",
+   "source_pdf": "20261031_1001_0.pdf",
+   "uploaded": "30.10.2026 05:38 PM",
+   "chars": 22553
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 06",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261031_1001_0-05-court-06.pdf",
+   "source_pdf": "20261031_1001_0.pdf",
+   "uploaded": "30.10.2026 05:38 PM",
+   "chars": 11923
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 07",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261031_1001_0-06-court-07.pdf",
+   "source_pdf": "20261031_1001_0.pdf",
+   "uploaded": "30.10.2026 05:38 PM",
+   "chars": 7215
+  },
+  {
+   "kind": "Daily",
+   "bench": "DAILY LIST REGISTRAR JUDICIAL",
+   "type": "DAILY LIST REGISTRAR JUDICIAL",
+   "file": "ehcr-20261031_1013_0-01.pdf",
+   "source_pdf": "20261031_1013_0.pdf",
+   "uploaded": "30.10.2026 05:51 PM",
+   "chars": 6060
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "Court 04",
+   "type": "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1",
+   "file": "ehcr-20261031_1003_1073-01-court-04.pdf",
+   "source_pdf": "20261031_1003_1073.pdf",
+   "uploaded": "30.10.2026 05:50 PM",
+   "chars": 1240
   }
  ]
 }
