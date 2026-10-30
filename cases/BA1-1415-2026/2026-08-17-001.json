@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1415/2026:2026-08-17-001",
+ "title": "RIHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RIHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1415/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-17",
+ "cnr": "UKHC010145392026",
+ "doc_kind": "order",
+ "order_type": "BA1/1415/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgkp0XtvD1jBPvYW3aW07mu%2F0QqbwSiSakPFtVx25nlE&caseno=BA1/1415/2026&cCode=1&cino=UKHC010145392026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ffb7540d787b7dec25e6f12edf7cd6a36a5f9004f50ee0276e25ec433d259393",
+ "fetched_at": "2026-10-30T13:06:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

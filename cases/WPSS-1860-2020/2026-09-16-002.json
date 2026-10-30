@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1860/2020:2026-09-16-002",
+ "title": "MANGLU versus STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY PUBLIC WORKS DEPARTMENT PWD",
+ "petitioner": "MANGLU",
+ "respondent": "STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY PUBLIC WORKS DEPARTMENT PWD",
+ "case_no": "WPSS/1860/2020",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010138702020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1860/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNEXxd%2FFL5sMczdykJu6KET0RjqdHOfcIquLyzwbOI0j&caseno=WPSS/1860/2020&cCode=1&cino=UKHC010138702020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "87a0408d62e722d7786f025ca0b6b11009febd2a5a5d486a36603b7ef725e29f",
+ "fetched_at": "2026-10-30T12:41:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

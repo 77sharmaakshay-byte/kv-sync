@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1167/2024:2026-07-28-006",
+ "title": "MS ALLIED PLUS INFRA AND OTHER PVT LTD versus STATE OF UTTARAKHAND",
+ "petitioner": "MS ALLIED PLUS INFRA AND OTHER PVT LTD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1167/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-28",
+ "cnr": "UKHC010066922024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1167/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBfnEf8%2BFMDhcDdqd8Be6kb8E5JKoPIuH0I1lG%2Fhso%2Ba&caseno=WPMS/1167/2024&cCode=1&cino=UKHC010066922024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9cdca45a389f1f734be02d447b57fcfc3c4b774bffbd9704c6e9f8ae57228be6",
+ "fetched_at": "2026-10-30T12:40:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

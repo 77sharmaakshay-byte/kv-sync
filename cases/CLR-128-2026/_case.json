@@ -6,9 +6,9 @@
  "registration_number": "CLR /128/2026",
  "registration_date": "2026-09-16",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-10-31",
  "decision_date": null,
- "case_stage": "ADMISSION MATTERS -25",
+ "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
  "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Single Bench",
@@ -99,6 +99,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": null,
+   "business_date": "2026-10-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-16",
    "business_date": "2026-10-09",
    "purpose": "ADMISSION MATTERS -25",
@@ -128,6 +135,15 @@
    "order_type": "CLR/128/2026",
    "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmH2IlaDgu3mLdOUBiSS21JPzDq5UbXakJn8WIrk7pNk&caseno=CLR/128/2026&cCode=1&cino=UKHC010164702026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-16",
+   "order_type": "CLR/128/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmH2IlaDgu3mLdOUBiSS21LJAf2belcrq64HRnWiYr1N&caseno=CLR/128/2026&cCode=1&cino=UKHC010164702026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

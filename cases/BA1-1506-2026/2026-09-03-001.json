@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1506/2026:2026-09-03-001",
+ "title": "RAHUL RAWAT versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL RAWAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1506/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010155072026",
+ "doc_kind": "order",
+ "order_type": "BA1/1506/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmCItf5Gz3bXdDHe4Jl3rpvWVFi6JvyzX0YU6Ia4SRy9&caseno=BA1/1506/2026&cCode=1&cino=UKHC010155072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "755ffaf2a84e517e1b766b350d1360fddd3912ba5a9ab48a5cefbbdf82b381d5",
+ "fetched_at": "2026-10-30T13:10:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

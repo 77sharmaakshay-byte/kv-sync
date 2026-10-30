@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3321/2026:2026-10-29-001",
+ "title": "MUSARAF versus STATE OF UTTARAKHAND",
+ "petitioner": "MUSARAF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3321/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010192242026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3321/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn4KRzkM8aUnQ18KkAdmDhZ448ahxwA01EM3ZNt8rdPV&caseno=WPMS/3321/2026&cCode=1&cino=UKHC010192242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4639e4ed8bac27b05ab4848970c20a87354ac3d6646beefdc3778d49adc18d0d",
+ "fetched_at": "2026-10-30T12:53:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

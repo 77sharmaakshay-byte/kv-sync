@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/204/2026:2026-01-21-002",
+ "title": "PRAKASH SINGH PARIHAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAKASH SINGH PARIHAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/204/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-21",
+ "cnr": "UKHC010009752026",
+ "doc_kind": "order",
+ "order_type": "WPMS/204/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmTrgq0dGqTZ01%2FKWq5TMsSItrqHq5r5DRgCR3riOF0j&caseno=WPMS/204/2026&cCode=1&cino=UKHC010009752026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e9350ac0e0e02453454423fcacdda4e971c87a90278e38902f31d7aa2efb4eb2",
+ "fetched_at": "2026-10-30T12:56:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

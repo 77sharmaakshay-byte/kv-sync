@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1006/2023:2024-06-05-013",
+ "title": "PRABHSHARAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "PRABHSHARAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1006/2023",
+ "case_type": "ABA",
+ "decision_date": "2024-06-05",
+ "cnr": "UKHC010180112023",
+ "doc_kind": "order",
+ "order_type": "ABA/1006/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYwjZflT%2FLPLDMGVazmo95mx2b6BxncxCd9HgX%2B0WsFbv&caseno=ABA/1006/2023&cCode=1&cino=UKHC010180112023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5a260b8a1b3e3044ba9b63607077f804eedc53c4228db76a5f0ad30960d49d81",
+ "fetched_at": "2026-10-30T12:54:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

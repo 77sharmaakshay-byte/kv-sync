@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1211/2026:2026-09-08-004",
+ "title": "MOHTRAM ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHTRAM ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1211/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010120312026",
+ "doc_kind": "order",
+ "order_type": "BA1/1211/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhrrRf5Ps7jXEazthFpP6OZCWvBRsdgQMP%2FfM8s873a0&caseno=BA1/1211/2026&cCode=1&cino=UKHC010120312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "13441028496348550812433a7ddd27fe6c700bc7d62414ebc65d99a69e06f542",
+ "fetched_at": "2026-10-30T13:08:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

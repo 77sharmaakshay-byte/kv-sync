@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/128/2023:2024-01-09-005",
+ "title": "SATISH CHANDRA BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "SATISH CHANDRA BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/128/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-09",
+ "cnr": "UKHC010010232023",
+ "doc_kind": "order",
+ "order_type": "WPSS/128/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9q5OCrtq4ga65Qk%2B9XO6iYmqXoOo1N5xs3JPdUH%2BQ%2F3&caseno=WPSS/128/2023&cCode=1&cino=UKHC010010232023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e93ef63fc286a38295ba08b11fd75afd1b1eb66d09af3bd11b500de1f2861f44",
+ "fetched_at": "2026-10-30T12:47:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

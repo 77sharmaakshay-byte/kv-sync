@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1043/2026:2026-06-29-001",
+ "title": "KAMAL SINGH RAWAT versus STATE OF UTTARAKHAND",
+ "petitioner": "KAMAL SINGH RAWAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1043/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-29",
+ "cnr": "UKHC010102912026",
+ "doc_kind": "order",
+ "order_type": "BA1/1043/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhWJQzS%2FGQ13BGcCBmStcP4ZdK%2Blf3%2Fd6Riz8zzUBOUU&caseno=BA1/1043/2026&cCode=1&cino=UKHC010102912026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "357b753dbbed830bfd02f41102a022084603401e908ac0cf716e153d286c1752",
+ "fetched_at": "2026-10-30T13:06:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

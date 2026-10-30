@@ -1,0 +1,98 @@
+{
+ "cnr_number": "UKHC010160342026",
+ "case_type": "",
+ "filing_number": "BA1 /7744/2026",
+ "filing_date": "2026-09-09",
+ "registration_number": "BA1 /1541/2026",
+ "registration_date": "2026-09-09",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-31",
+ "decision_date": null,
+ "case_stage": "BAIL MATTERS -98",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pauri Garhwal",
+ "petitioners": [
+  {
+   "name": "VIMAL RAWAT ALIAS HANNI",
+   "advocate": "AMAN BALUNI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "61(2),70(2)"
+  },
+  {
+   "act": "Protection of Children from Sexual Offences Act, 2012 (Act No. 32 of 2012)",
+   "sections": "5(G)/6"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-11",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-31",
+   "business_date": "2026-10-08",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-08",
+   "business_date": "2026-10-01",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-01",
+   "business_date": "2026-09-23",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-23",
+   "business_date": "2026-09-11",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-11",
+   "order_type": "BA1/1541/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuutHeyqks0Q7%2FQ1IpG5NDPaCZUVIsUbuwP1HrvKngmL&caseno=BA1/1541/2026&cCode=1&cino=UKHC010160342026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-23",
+   "order_type": "BA1/1541/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuutHeyqks0Q7%2FQ1IpG5NDOCNwhLkrmNr8YOyrtVhInN&caseno=BA1/1541/2026&cCode=1&cino=UKHC010160342026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

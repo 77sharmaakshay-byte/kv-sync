@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/63/2007:2019-02-20-005",
+ "title": "VIDYA JOSHI(Legal Heir) versus PRAKASH CHANDRA LOSALI",
+ "petitioner": "VIDYA JOSHI(Legal Heir)",
+ "respondent": "PRAKASH CHANDRA LOSALI",
+ "case_no": "FA/63/2007",
+ "case_type": "FA",
+ "decision_date": "2019-02-20",
+ "cnr": "UKHC010003752007",
+ "doc_kind": "order",
+ "order_type": "FA/63/2007",
+ "judges": [
+  "Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=%2BbhrBWC3rS8i5ZPCS6REeBe2RP%2BJtgmeEKy3hpTdcA%2FUZeiUHf6qyXvVrfjmJcWD&caseno=FA/63/2007&cCode=1&cino=UKHC010003752007&state_code=15&court_code=1&&appFlag=",
+ "sha256": "59cd4778bd0bab166fe303fc58153cd6f31789e9d57d7ac3885b00539ff7f622",
+ "fetched_at": "2026-10-30T13:17:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

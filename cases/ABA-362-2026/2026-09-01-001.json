@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/362/2026:2026-09-01-001",
+ "title": "PREM BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "PREM BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/362/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010153102026",
+ "doc_kind": "order",
+ "order_type": "ABA/362/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtJ3pMum1gLbZubioa89ORB6Y2MvdpG84BaJEhoMIyOf&caseno=ABA/362/2026&cCode=1&cino=UKHC010153102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd73da8c4bfc03a6edce070bc0a6c8ba50ef49e9455e506ba7204e3b5c464576",
+ "fetched_at": "2026-10-30T12:54:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

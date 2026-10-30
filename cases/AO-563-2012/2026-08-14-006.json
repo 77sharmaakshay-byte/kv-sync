@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/563/2012:2026-08-14-006",
+ "title": "DINESH KUMAR versus NEW INDIA INSURANCE COMPANY LIMITED",
+ "petitioner": "DINESH KUMAR",
+ "respondent": "NEW INDIA INSURANCE COMPANY LIMITED",
+ "case_no": "AO/563/2012",
+ "case_type": "AO",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010016662012",
+ "doc_kind": "order",
+ "order_type": "AO/563/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrIY2v9mrKeyInwe7le62Mhxg4CWWRx1j9kmPtKtdzmPV&caseno=AO/563/2012&cCode=1&cino=UKHC010016662012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d160022f8a8b15cb18c818d33c464fc45b248e295aa3bfc3cd034b7943700093",
+ "fetched_at": "2026-10-30T13:11:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

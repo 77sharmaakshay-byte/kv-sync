@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/851/2026:2026-06-09-002",
+ "title": "MAYANK SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "MAYANK SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/851/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-09",
+ "cnr": "UKHC010085052026",
+ "doc_kind": "order",
+ "order_type": "BA1/851/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnouS7D8G5Lcmuh1fdjJLSA0YUbpTD%2FBNJEbtWVU202T&caseno=BA1/851/2026&cCode=1&cino=UKHC010085052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "680f897931622dc7ad5b84d7224cd2a900a0b6bd8d47db4497664d9da72580b8",
+ "fetched_at": "2026-10-30T13:07:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

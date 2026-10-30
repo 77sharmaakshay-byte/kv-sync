@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3433/2019:2020-09-01-003",
+ "title": "SAVITA CHAUDHARY versus STATE OF UTTARAKHAND",
+ "petitioner": "SAVITA CHAUDHARY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3433/2019",
+ "case_type": "WPMS",
+ "decision_date": "2020-09-01",
+ "cnr": "UKHC010180982019",
+ "doc_kind": "order",
+ "order_type": "WPMS/3433/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF7tfCeacuEdTf3vtykKM8rscdKgyaF1mulPYA3D%2F7m2q&caseno=WPMS/3433/2019&cCode=1&cino=UKHC010180982019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4099735a847ef91d7ca4c3e49d8e15884f61635656c7204c219b736916c2e4ce",
+ "fetched_at": "2026-10-30T12:35:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

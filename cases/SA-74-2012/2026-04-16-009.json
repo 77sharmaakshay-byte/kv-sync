@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/74/2012:2026-04-16-009",
+ "title": "LALIT MOHAN JOSHI versus DEVRAJ SINGH BISHT",
+ "petitioner": "LALIT MOHAN JOSHI",
+ "respondent": "DEVRAJ SINGH BISHT",
+ "case_no": "SA/74/2012",
+ "case_type": "SA",
+ "decision_date": "2026-04-16",
+ "cnr": "UKHC010013102012",
+ "doc_kind": "order",
+ "order_type": "SA/74/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrKatjovMORb4S05aJZBIKW3yf3tsvTgByGef7rfj1CtU&caseno=SA/74/2012&cCode=1&cino=UKHC010013102012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3ecff1ef301de86a3b0dbf9bccef1eaa9534b8548e460ce8b9a331bd236c2334",
+ "fetched_at": "2026-10-30T13:14:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1860/2020:2020-12-30-001",
+ "title": "MANGLU versus STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY PUBLIC WORKS DEPARTMENT PWD",
+ "petitioner": "MANGLU",
+ "respondent": "STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY PUBLIC WORKS DEPARTMENT PWD",
+ "case_no": "WPSS/1860/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-12-30",
+ "cnr": "UKHC010138702020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1860/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNEXxd%2FFL5sMczdykJu6KET0%2Bkpn8VhW2zJgPO3uziCK&caseno=WPSS/1860/2020&cCode=1&cino=UKHC010138702020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cc6fc9df4a4dbb813f6bc35a8f9a95494faa9420fa18fc4065dadd4a0d82baaf",
+ "fetched_at": "2026-10-30T12:41:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

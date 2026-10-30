@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/963/2026:2026-05-12-004",
+ "title": "GAURAV versus BRIDGE ROPEWAY",
+ "petitioner": "GAURAV",
+ "respondent": "BRIDGE ROPEWAY",
+ "case_no": "WPSS/963/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-12",
+ "cnr": "UKHC010051952026",
+ "doc_kind": "order",
+ "order_type": "WPSS/963/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnRfN%2FvnY5ugUaeopHtFlvQr45U3t86pz6uW90DJwQm0&caseno=WPSS/963/2026&cCode=1&cino=UKHC010051952026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "37257b3093ee8b0ab24ac831806065e3b6327da9a9bfdb205bb0b381d1d72183",
+ "fetched_at": "2026-10-30T12:42:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

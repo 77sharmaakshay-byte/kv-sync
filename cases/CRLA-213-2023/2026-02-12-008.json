@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/213/2023:2026-02-12-008",
+ "title": "MOHD IRFAN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD IRFAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/213/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-02-12",
+ "cnr": "UKHC010058422023",
+ "doc_kind": "order",
+ "order_type": "CRLA/213/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7erHbOM9jHs3bQlKL8dKETLEiaID5jNAl9fvyiBXGW6&caseno=CRLA/213/2023&cCode=1&cino=UKHC010058422023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b2a46fce2268dc6af08b922308cc6844d9f03e29126d208175140d5ad9ca61e7",
+ "fetched_at": "2026-10-30T13:11:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

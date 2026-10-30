@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1228/2024:2025-02-27-003",
+ "title": "PANNA VINAY SHAH versus KESAR SUGAR COMPANY LTD",
+ "petitioner": "PANNA VINAY SHAH",
+ "respondent": "KESAR SUGAR COMPANY LTD",
+ "case_no": "WPMS/1228/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-02-27",
+ "cnr": "UKHC010070752024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1228/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcE3nEngb7K7fXTFYlMUvau6AxodcqKJ8DV7A7HzzIAiq&caseno=WPMS/1228/2024&cCode=1&cino=UKHC010070752024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fd8c831af98f411a3f89c2462f64ef721a61e90d552014e94e0ecca1e78973f5",
+ "fetched_at": "2026-10-30T12:40:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

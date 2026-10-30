@@ -6,7 +6,7 @@
  "registration_number": "CLR /125/2025",
  "registration_date": "2025-11-10",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-10-31",
  "decision_date": null,
  "case_stage": "ADMISSION MATTERS -25",
  "status": "",
@@ -51,6 +51,20 @@
    "business_date": null,
    "purpose": "ADMISSION MATTERS -25",
    "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -394,6 +408,15 @@
    "order_type": "CLR/125/2025",
    "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm31YaQXaJEAEh5YvrE2AKf%2F06gMCdL5sVE1hvA86W7Xs&caseno=CLR/125/2025&cCode=1&cino=UKHC010177972025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-16",
+   "order_type": "CLR/125/2025",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm31YaQXaJEAEh5YvrE2AKf86n%2F%2FHHxKGJJLY3vkO3B6n&caseno=CLR/125/2025&cCode=1&cino=UKHC010177972025&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

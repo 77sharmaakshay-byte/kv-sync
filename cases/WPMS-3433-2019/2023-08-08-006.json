@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3433/2019:2023-08-08-006",
+ "title": "SAVITA CHAUDHARY versus STATE OF UTTARAKHAND",
+ "petitioner": "SAVITA CHAUDHARY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3433/2019",
+ "case_type": "WPMS",
+ "decision_date": "2023-08-08",
+ "cnr": "UKHC010180982019",
+ "doc_kind": "order",
+ "order_type": "WPMS/3433/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF7tfCeacuEdTf3vtykKM8rscQcjqJRD2ok2DXwDPu%2BIm&caseno=WPMS/3433/2019&cCode=1&cino=UKHC010180982019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "60ee454414d94ba9a8c36b4b554509337c3a26353cf8e7810dde00fc2bab8c5f",
+ "fetched_at": "2026-10-30T12:35:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

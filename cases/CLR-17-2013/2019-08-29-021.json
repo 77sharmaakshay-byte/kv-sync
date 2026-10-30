@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/17/2013:2019-08-29-021",
+ "title": "DHARMENDRA KUMAR versus VIJAY SHARMA",
+ "petitioner": "DHARMENDRA KUMAR",
+ "respondent": "VIJAY SHARMA",
+ "case_no": "CLR/17/2013",
+ "case_type": "CLR",
+ "decision_date": "2019-08-29",
+ "cnr": "UKHC010001002013",
+ "doc_kind": "order",
+ "order_type": "CLR/17/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIWh6uq%2BZruMyt7w8eon8xHu02vNKMFLE1CuwxkuL%2Ba6e&caseno=CLR/17/2013&cCode=1&cino=UKHC010001002013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "72faad4d615026dec0a01c59f842a73913322bc1d04a1b99c709b49c220c7974",
+ "fetched_at": "2026-10-30T13:11:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

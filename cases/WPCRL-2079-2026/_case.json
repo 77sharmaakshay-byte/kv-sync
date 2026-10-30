@@ -6,9 +6,9 @@
  "registration_number": "WPCRL /2079/2026",
  "registration_date": "2026-10-06",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-10-31",
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
  "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
@@ -33,7 +33,7 @@
   },
   {
    "name": "BRIJESH THAKUR",
-   "advocate": ""
+   "advocate": "VIKAS ANAND"
   }
  ],
  "acts": [
@@ -51,6 +51,20 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-10-28",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-28",
+   "business_date": "2026-10-16",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-16",
    "business_date": "2026-10-08",
    "purpose": "FRESH CASES FOR ADMISSION -3",
@@ -64,6 +78,24 @@
    "order_type": "WPCRL/2079/2026",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQphQhpdCcfsmx5p2x1Gi1jcKu1RwueMDs113jTw%2Bx27z&caseno=WPCRL/2079/2026&cCode=1&cino=UKHC010179642026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-16",
+   "order_type": "WPCRL/2079/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQphQhpdCcfsmx5p2x1Gi1jd%2BKX7FX0u6FxKLr5jzItLt&caseno=WPCRL/2079/2026&cCode=1&cino=UKHC010179642026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-28",
+   "order_type": "WPCRL/2079/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQphQhpdCcfsmx5p2x1Gi1jce0iYZtrxXQCBcln2B%2BJyO&caseno=WPCRL/2079/2026&cCode=1&cino=UKHC010179642026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/261/2026:2026-02-20-001",
+ "title": "YOGESH SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "YOGESH SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/261/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-02-20",
+ "cnr": "UKHC010025052026",
+ "doc_kind": "order",
+ "order_type": "BA1/261/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQioMpYRao4X0ZgoE%2FvO%2B5EDjxrC2EZLJHMl0GK%2BEz8rz&caseno=BA1/261/2026&cCode=1&cino=UKHC010025052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d76ad5c82e660a50529bd3d74643c20f98383cf47241d046fbd02bece9896ec7",
+ "fetched_at": "2026-10-30T13:04:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

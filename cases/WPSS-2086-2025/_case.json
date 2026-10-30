@@ -1,0 +1,130 @@
+{
+ "cnr_number": "UKHC010190752025",
+ "case_type": "WPSS",
+ "filing_number": "WPSS /9222/2025",
+ "filing_date": "2025-11-28",
+ "registration_number": "WPSS /2086/2025",
+ "registration_date": "2025-11-28",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-31",
+ "decision_date": null,
+ "case_stage": "FOR FINAL HEARING -40",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Uttarkashi",
+ "petitioners": [
+  {
+   "name": "DATTA RAM NAUTIYAL",
+   "advocate": "SNIGDHA TIWARI,PRIYANSH MITTAL,PRIYANSH MITTAL, ,ABHIJAY NEGI,PRIYANSH MITTAL"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  },
+  {
+   "name": "COMMISSIONER RURAL DEVELOPMENT",
+   "advocate": "C.S.C."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2025-12-01",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-11",
+   "business_date": "2026-08-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-04",
+   "business_date": "2026-08-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-03",
+   "business_date": "2026-07-27",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-02-26",
+   "business_date": "2025-12-11",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-11",
+   "business_date": "2025-12-04",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-12-01",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2025-12-04",
+   "order_type": "WPSS/2086/2025",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2J12t2doIix9nykfToPVw7bdswemLoC4FoC3WqAXLfH&caseno=WPSS/2086/2025&cCode=1&cino=UKHC010190752025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-12-11",
+   "order_type": "WPSS/2086/2025",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2J12t2doIix9nykfToPVw4wbbXEi5weouvNcdbLN9Ao&caseno=WPSS/2086/2025&cCode=1&cino=UKHC010190752025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-03",
+   "order_type": "WPSS/2086/2025",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2J12t2doIix9nykfToPVw6QixonPeAoEoxZhHjHgwkh&caseno=WPSS/2086/2025&cCode=1&cino=UKHC010190752025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-04",
+   "order_type": "WPSS/2086/2025",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2J12t2doIix9nykfToPVw7H8W6x4jnqV1NoUi4QmDu%2B&caseno=WPSS/2086/2025&cCode=1&cino=UKHC010190752025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

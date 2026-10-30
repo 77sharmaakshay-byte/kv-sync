@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/10/2014:2015-12-18-002",
+ "title": "Ravindra Kumar versus Ashwani Kumar",
+ "petitioner": "Ravindra Kumar",
+ "respondent": "Ashwani Kumar",
+ "case_no": "CLR/10/2014",
+ "case_type": "CLR",
+ "decision_date": "2015-12-18",
+ "cnr": "UKHC010094212014",
+ "doc_kind": "order",
+ "order_type": "CLR/10/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobP%2BRwLtNVJWu1hYOwxDvqVsmHd4gGj1uvl2pY42BVfSL&caseno=CLR/10/2014&cCode=1&cino=UKHC010094212014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a47996b5424f3acffa7932ea70a0851328bb0cc99aa4dea4d8be9bf629e64a01",
+ "fetched_at": "2026-10-30T13:14:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

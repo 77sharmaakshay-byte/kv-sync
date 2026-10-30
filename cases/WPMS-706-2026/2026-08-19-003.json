@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/706/2026:2026-08-19-003",
+ "title": "GANGA PANDEY versus STATE OF UTTARAKHAND",
+ "petitioner": "GANGA PANDEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/706/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010044572026",
+ "doc_kind": "order",
+ "order_type": "WPMS/706/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlww5YzSScHQAS0p2K7K%2FgY0UXx6luE6LF3OPRXswGN5&caseno=WPMS/706/2026&cCode=1&cino=UKHC010044572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b6dc6060810dfbb18c90941d0bbb070dfad39347edd24ab431af121e722894b6",
+ "fetched_at": "2026-10-30T12:57:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

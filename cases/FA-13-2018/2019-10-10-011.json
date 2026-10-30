@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/13/2018:2019-10-10-011",
+ "title": "M/s Dixon Technologies (India) Ltd. versus M/s Allied Photographic India Ltd",
+ "petitioner": "M/s Dixon Technologies (India) Ltd.",
+ "respondent": "M/s Allied Photographic India Ltd",
+ "case_no": "FA/13/2018",
+ "case_type": "FA",
+ "decision_date": "2019-10-10",
+ "cnr": "UKHC010041822018",
+ "doc_kind": "order",
+ "order_type": "FA/13/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL3SZ9XENxQSPQ0qA4AwjGfCMXKLhE2dm5mYziFejgjlI&caseno=FA/13/2018&cCode=1&cino=UKHC010041822018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "611cfd0f0b8e69867a7179b25e624a634cc6bdb33fa1f30c237243ca2f008b05",
+ "fetched_at": "2026-10-30T13:12:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

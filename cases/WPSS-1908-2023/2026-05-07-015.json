@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1908/2023:2026-05-07-015",
+ "title": "ROHIT YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "ROHIT YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1908/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-07",
+ "cnr": "UKHC010164702023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1908/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7dKcYR182SCwVUgPPgGlTzihRBpVY6fgL0AWlQMS4MJ&caseno=WPSS/1908/2023&cCode=1&cino=UKHC010164702023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f122b98748adf33c73a7ad905daea750eedf66b517a8e589becd356fdd7b6301",
+ "fetched_at": "2026-10-30T12:45:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

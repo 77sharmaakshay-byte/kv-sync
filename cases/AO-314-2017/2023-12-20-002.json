@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/314/2017:2023-12-20-002",
+ "title": "KASHMIR SINGH versus CHANDRA PRAKASH",
+ "petitioner": "KASHMIR SINGH",
+ "respondent": "CHANDRA PRAKASH",
+ "case_no": "AO/314/2017",
+ "case_type": "AO",
+ "decision_date": "2023-12-20",
+ "cnr": "UKHC010043792017",
+ "doc_kind": "order",
+ "order_type": "AO/314/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxv8CH6%2Bg1rFtyjpSiPlZ55pDoRu%2Fefk6sSFaat6fkln&caseno=AO/314/2017&cCode=1&cino=UKHC010043792017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1ffe050fbfca1207c1f50511e580e3fc0957708a3350b4ece8f661c637b4ce0d",
+ "fetched_at": "2026-10-30T13:15:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

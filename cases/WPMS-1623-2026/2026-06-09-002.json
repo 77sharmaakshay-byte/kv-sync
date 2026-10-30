@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1623/2026:2026-06-09-002",
+ "title": "SANJAY SHARMA versus THE APPELLATE AUTHORITY",
+ "petitioner": "SANJAY SHARMA",
+ "respondent": "THE APPELLATE AUTHORITY",
+ "case_no": "WPMS/1623/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-06-09",
+ "cnr": "UKHC010092452026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1623/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi0aMtSMduHdQvqtLLhrIV5x7JJ1iumt3UDGQNDUXkst&caseno=WPMS/1623/2026&cCode=1&cino=UKHC010092452026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb519ccd783b01e0ee782352049693a742d4dd9dd519b3ab88b61bf182134aba",
+ "fetched_at": "2026-10-30T12:56:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

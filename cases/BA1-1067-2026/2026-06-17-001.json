@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1067/2026:2026-06-17-001",
+ "title": "ANKIT VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANKIT VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1067/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-17",
+ "cnr": "UKHC010105682026",
+ "doc_kind": "order",
+ "order_type": "BA1/1067/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgHT40gGySxTr4fl9iFhXBRugCwWcEP3KqaPDm77%2FGhN&caseno=BA1/1067/2026&cCode=1&cino=UKHC010105682026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7073de96dad055b5d1326951602e96b7443e76583499d993234420796c944e27",
+ "fetched_at": "2026-10-30T13:07:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/43/2026:2026-07-16-002",
+ "title": "LALITA versus MS RAM ASSOCIATES",
+ "petitioner": "LALITA",
+ "respondent": "MS RAM ASSOCIATES",
+ "case_no": "SA/43/2026",
+ "case_type": "SA",
+ "decision_date": "2026-07-16",
+ "cnr": "UKHC010062582026",
+ "doc_kind": "order",
+ "order_type": "SA/43/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnQPt22umDvDx3VYQVVLVnNoA6lr8bY491p3nXAj0%2FFH&caseno=SA/43/2026&cCode=1&cino=UKHC010062582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "769e90a6326f2963083e05233af6220e0305f60971124c27450600f241912fd2",
+ "fetched_at": "2026-10-30T13:15:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

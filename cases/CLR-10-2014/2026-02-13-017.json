@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/10/2014:2026-02-13-017",
+ "title": "Ravindra Kumar versus Ashwani Kumar",
+ "petitioner": "Ravindra Kumar",
+ "respondent": "Ashwani Kumar",
+ "case_no": "CLR/10/2014",
+ "case_type": "CLR",
+ "decision_date": "2026-02-13",
+ "cnr": "UKHC010094212014",
+ "doc_kind": "order",
+ "order_type": "CLR/10/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobP%2BRwLtNVJWu1hYOwxDvqVuFjWRxjiY%2FW5CYwss2D6ri&caseno=CLR/10/2014&cCode=1&cino=UKHC010094212014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "11e7c427ee280c17819017f6a3e78acceb1363a1b1ef8b25c2f969a7807bd707",
+ "fetched_at": "2026-10-30T13:14:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

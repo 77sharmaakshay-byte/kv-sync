@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/575/2014:2026-09-18-005",
+ "title": "ANIL KUMAR versus THE NEW INDIA INSURANCE COMPANY",
+ "petitioner": "ANIL KUMAR",
+ "respondent": "THE NEW INDIA INSURANCE COMPANY",
+ "case_no": "AO/575/2014",
+ "case_type": "AO",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010015452014",
+ "doc_kind": "order",
+ "order_type": "AO/575/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobE66z6mKGwBdj8pAW4rl0DiriJhleAX8CxqKcPl9aKaz&caseno=AO/575/2014&cCode=1&cino=UKHC010015452014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5932938b948540abbf6c185baa082e437bb62c45eb73c7591fd8297346938c4e",
+ "fetched_at": "2026-10-30T13:12:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1852/2020:2020-12-30-001",
+ "title": "RATAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "RATAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1852/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-12-30",
+ "cnr": "UKHC010138602020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1852/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjMw9wyM3hJ7JzMboN%2FF6wppRQUHvPXxs4ncF%2FrAS4WkX&caseno=WPSS/1852/2020&cCode=1&cino=UKHC010138602020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ab9eed7aadafae35a1a6f8a0f6733e74ac6f6da6a3b1650b1f787c12637c60bd",
+ "fetched_at": "2026-10-30T12:41:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

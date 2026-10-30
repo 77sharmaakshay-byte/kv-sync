@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C24/49/2026:2026-07-30-001",
+ "title": "POOJA RANI versus PUNEET KUMAR",
+ "petitioner": "POOJA RANI",
+ "respondent": "PUNEET KUMAR",
+ "case_no": "C24/49/2026",
+ "case_type": "C24",
+ "decision_date": "2026-07-30",
+ "cnr": "UKHC010134042026",
+ "doc_kind": "order",
+ "order_type": "C24/49/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvPT%2FZj2AlL0OGxvRwpkHvxAnasasJ%2FwILPppmDehG74&caseno=C24/49/2026&cCode=1&cino=UKHC010134042026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "745d2f1b2c02fe3a389a0762055fde7ab223c6b4f411dade80613b7a17f3635e",
+ "fetched_at": "2026-10-30T13:13:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

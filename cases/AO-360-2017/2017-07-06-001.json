@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/360/2017:2017-07-06-001",
+ "title": "NATIONAL INSURANCE CO.LTD versus SATISH CHANDRA",
+ "petitioner": "NATIONAL INSURANCE CO.LTD",
+ "respondent": "SATISH CHANDRA",
+ "case_no": "AO/360/2017",
+ "case_type": "AO",
+ "decision_date": "2017-07-06",
+ "cnr": "UKHC010005762017",
+ "doc_kind": "order",
+ "order_type": "AO/360/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh%2F2zaSV931fojga3qJf08uA5w%2BdVzou0kYbTogfvkVwT&caseno=AO/360/2017&cCode=1&cino=UKHC010005762017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "95f16eaa8b32ddedd067b9706c83a9e872615b5a6b813c9c9263a8098b8062d5",
+ "fetched_at": "2026-10-30T12:41:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/640/2026:2026-03-18-001",
+ "title": "AKIB KHAN versus NAGAR PALIKA PARISHAD",
+ "petitioner": "AKIB KHAN",
+ "respondent": "NAGAR PALIKA PARISHAD",
+ "case_no": "WPMS/640/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-03-18",
+ "cnr": "UKHC010040182026",
+ "doc_kind": "order",
+ "order_type": "WPMS/640/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQscm13k9IxfcdBU3txyee5z4stt3wn6ilrx5SWQOZvRf&caseno=WPMS/640/2026&cCode=1&cino=UKHC010040182026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "420915f0420d558cbfcce7bdf273249948ad0a97a9d2dbcd906cdcfae258217e",
+ "fetched_at": "2026-10-30T12:56:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

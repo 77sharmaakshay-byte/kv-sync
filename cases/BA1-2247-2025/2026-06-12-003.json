@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/2247/2025:2026-06-12-003",
+ "title": "CHANDAN SINGH ALIAS CHANDAN versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDAN SINGH ALIAS CHANDAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/2247/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-06-12",
+ "cnr": "UKHC010184852025",
+ "doc_kind": "order",
+ "order_type": "BA1/2247/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1HJqLt2zbHxrYnFAI4wocPTI7xNCdFabqKghwx8EGJp&caseno=BA1/2247/2025&cCode=1&cino=UKHC010184852025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a26b49870d35a11d9376e74d89cf7bc529c1de50441c514625bd1bda0c120e4a",
+ "fetched_at": "2026-10-30T12:53:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

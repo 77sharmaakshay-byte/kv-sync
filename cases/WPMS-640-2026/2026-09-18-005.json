@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/640/2026:2026-09-18-005",
+ "title": "AKIB KHAN versus NAGAR PALIKA PARISHAD",
+ "petitioner": "AKIB KHAN",
+ "respondent": "NAGAR PALIKA PARISHAD",
+ "case_no": "WPMS/640/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010040182026",
+ "doc_kind": "order",
+ "order_type": "WPMS/640/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQscm13k9IxfcdBU3txyee5xWutpZJLFiIjTch5edt%2BB%2F&caseno=WPMS/640/2026&cCode=1&cino=UKHC010040182026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "43a9c927f386d501f20fc9d7640a57fcd48ac93f79d00a1b80b1807b19505d89",
+ "fetched_at": "2026-10-30T12:56:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

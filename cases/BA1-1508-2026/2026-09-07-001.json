@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1508/2026:2026-09-07-001",
+ "title": "SHER ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "SHER ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1508/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010155942026",
+ "doc_kind": "order",
+ "order_type": "BA1/1508/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQugcXMs1QmzNsjwHmekUPpdtL4r7d0%2F%2FKHH7e87noYIS&caseno=BA1/1508/2026&cCode=1&cino=UKHC010155942026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bde59507b3413b32a3d7df0cecd9774e48e7a7f020094419b61bd282143da9e0",
+ "fetched_at": "2026-10-30T13:08:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/2130/2026:2026-10-16-001",
+ "title": "DANISH versus STATE OF UTTARAKHAND",
+ "petitioner": "DANISH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/2130/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-10-16",
+ "cnr": "UKHC010185722026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/2130/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp3q8Tdnly%2FN5q3zGgmVuWGrranhpbesZFm8j0eO5pwR&caseno=WPCRL/2130/2026&cCode=1&cino=UKHC010185722026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e4043f3c72f62357dbc57924d75f30a0f3f7f34cfddb9e06843498f9259c1eb",
+ "fetched_at": "2026-10-30T12:49:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

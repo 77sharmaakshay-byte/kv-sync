@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/308/2026:2026-05-11-002",
+ "title": "SUNIL KUMAR versus BEENU",
+ "petitioner": "SUNIL KUMAR",
+ "respondent": "BEENU",
+ "case_no": "CRLR/308/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-05-11",
+ "cnr": "UKHC010069042026",
+ "doc_kind": "order",
+ "order_type": "CRLR/308/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrBWHD90kmhNh7h3N%2FnZU3S41WfA4cLzJUj5228Pf8t8&caseno=CRLR/308/2026&cCode=1&cino=UKHC010069042026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fd37cacc22090b28a5837cc3d090aa4df6c809bcb75c1ff22d370be665872a92",
+ "fetched_at": "2026-10-30T13:16:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

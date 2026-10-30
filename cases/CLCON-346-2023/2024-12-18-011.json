@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/346/2023:2024-12-18-011",
+ "title": "RAJEEV KUMAR SAH versus ARUN KUMAR SAINI",
+ "petitioner": "RAJEEV KUMAR SAH",
+ "respondent": "ARUN KUMAR SAINI",
+ "case_no": "CLCON/346/2023",
+ "case_type": "CLCON",
+ "decision_date": "2024-12-18",
+ "cnr": "UKHC010199942023",
+ "doc_kind": "order",
+ "order_type": "CLCON/346/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING (AFTER FRESH) -45",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYyU%2BPLGu6xLPRv0FvhIvpM9lKALf6Pj%2Btjqdo1p784QM&caseno=CLCON/346/2023&cCode=1&cino=UKHC010199942023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d9ddac4a40e3b7dda05a6b67e261d8810b60e3cbe2daf862b8c483a9d3048706",
+ "fetched_at": "2026-10-30T12:34:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

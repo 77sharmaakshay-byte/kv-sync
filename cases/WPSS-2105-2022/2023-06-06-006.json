@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2105/2022:2023-06-06-006",
+ "title": "SOMPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SOMPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2105/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-06-06",
+ "cnr": "UKHC010161562022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2105/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT012wilKpiaHphIMk71kHa9Qv1K6VPE6yu01aBJrXlou4&caseno=WPSS/2105/2022&cCode=1&cino=UKHC010161562022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "22ea23ef2bfcfa258fe471fe498fe34f41b393c971448890783beae1b7401671",
+ "fetched_at": "2026-10-30T12:39:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

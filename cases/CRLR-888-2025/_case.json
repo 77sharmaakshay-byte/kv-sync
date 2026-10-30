@@ -1,0 +1,91 @@
+{
+ "cnr_number": "UKHC010202742025",
+ "case_type": "CRLR",
+ "filing_number": "CRLR /10483/2025",
+ "filing_date": "2025-12-17",
+ "registration_number": "CRLR /888/2025",
+ "registration_date": "2025-12-17",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-31",
+ "decision_date": null,
+ "case_stage": "ORDERS ON APPLICATIONS -22",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "JAGDISH SINGH",
+   "advocate": "SIDDHARTH BANKOTI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "BHUWAN SINGH",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Negotiable Instruments Act, 1881 (Act No. 26 of 1881)",
+   "sections": "138"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2025-12-19",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-02-17",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-02-17",
+   "business_date": "2025-12-19",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-02-17",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2025-12-19",
+   "order_type": "CRLR/888/2025",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0Q%2FY10Xs9xErjqjLi2vGqK%2BOcf8jMdMW83G%2FVGsJ0bY&caseno=CRLR/888/2025&cCode=1&cino=UKHC010202742025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-02-17",
+   "order_type": "CRLR/888/2025",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0Q%2FY10Xs9xErjqjLi2vGqJC2KpY7QmuRsoWo6U7lHWw&caseno=CRLR/888/2025&cCode=1&cino=UKHC010202742025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

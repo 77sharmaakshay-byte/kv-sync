@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/905/2026:2026-06-19-002",
+ "title": "MOHD SAHZAD versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD SAHZAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/905/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-19",
+ "cnr": "UKHC010089642026",
+ "doc_kind": "order",
+ "order_type": "BA1/905/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvbdPJyv9sX0qH61vF0SUdhHj%2F1Hx7cGlbj9cifDqTDf&caseno=BA1/905/2026&cCode=1&cino=UKHC010089642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c4206c4d67c974289c49a61e66b18a4dc11a8c6b051cadee4e9d0d7f4819b202",
+ "fetched_at": "2026-10-30T13:04:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

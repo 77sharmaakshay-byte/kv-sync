@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1917/2022:2026-05-21-008",
+ "title": "ASAD ANSARI versus STATE OF UTTARAKHAND",
+ "petitioner": "ASAD ANSARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1917/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-21",
+ "cnr": "UKHC010145992022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1917/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT010d2zuIhncEWIKAog%2BnI5Wa3bD6TomdCtyZp9Vb3NmF&caseno=WPSS/1917/2022&cCode=1&cino=UKHC010145992022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "25917588addbf253b2f9e2b667dce70ee90aee6a435513c0af4314ebc311bc3a",
+ "fetched_at": "2026-10-30T12:40:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

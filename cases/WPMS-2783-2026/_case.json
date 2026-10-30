@@ -1,24 +1,65 @@
 {
  "cnr_number": "UKHC010162372026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "WPMS",
+ "filing_number": "WPMS /8409/2026",
+ "filing_date": "2026-09-11",
+ "registration_number": "WPMS /2783/2026",
+ "registration_date": "2026-09-11",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-10-31",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "GOVIND SINGH RAWAT",
+   "advocate": "SAGAR KOTHARI,SUNAYNA KOHLI KOTHARI,SUNAYNA KOHLI KOTHARI, ,VAIBHAV SINGH CHAUHAN,SUNAYNA KOHLI KOTHARI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SHIV PRASAD",
+   "advocate": ""
+  },
+  {
+   "name": "SHRI RAJE SINGH RAWAT",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 227 of the Constituion of India",
+   "sections": "227"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-15",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-16",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-15",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
  "orders": []
 }

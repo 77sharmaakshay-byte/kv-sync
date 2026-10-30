@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/10/2014:2024-01-06-009",
+ "title": "Ravindra Kumar versus Ashwani Kumar",
+ "petitioner": "Ravindra Kumar",
+ "respondent": "Ashwani Kumar",
+ "case_no": "CLR/10/2014",
+ "case_type": "CLR",
+ "decision_date": "2024-01-06",
+ "cnr": "UKHC010094212014",
+ "doc_kind": "order",
+ "order_type": "CLR/10/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobP%2BRwLtNVJWu1hYOwxDvqVvF7XYsaa59Q311jHO%2FlhU9&caseno=CLR/10/2014&cCode=1&cino=UKHC010094212014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "56875a78b63c87e2f76fa983911267664edb47fdb3ed60867ced1e5f5b29f72f",
+ "fetched_at": "2026-10-30T13:14:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/149/2026:2026-09-10-001",
+ "title": "AMAN KHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "AMAN KHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/149/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-09-10",
+ "cnr": "UKHC010159402026",
+ "doc_kind": "order",
+ "order_type": "BA2/149/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnOkzDvI%2BkRIrJiwUX5xdlrvDBEF9PIDj0AfutXM3Opp&caseno=BA2/149/2026&cCode=1&cino=UKHC010159402026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "674ed4c2c25ad9bcc8edc358efb156e7e39f2fbcc493a6c9a30b9f5f971658ee",
+ "fetched_at": "2026-10-30T13:06:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

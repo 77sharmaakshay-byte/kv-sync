@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1438/2026:2026-05-26-001",
+ "title": "SARA SAE PRIVATE LIMITED versus KHEM CHAND",
+ "petitioner": "SARA SAE PRIVATE LIMITED",
+ "respondent": "KHEM CHAND",
+ "case_no": "WPMS/1438/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-26",
+ "cnr": "UKHC010083972026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1438/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiweFyFWe94CAqLd8U99jUh%2FAMtheWU5BhfOXR2%2FWLmU&caseno=WPMS/1438/2026&cCode=1&cino=UKHC010083972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3c1096a6a653ae9c0dd211ce5bc268aa13f8afddb41033924843b0897b275a58",
+ "fetched_at": "2026-10-30T12:35:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

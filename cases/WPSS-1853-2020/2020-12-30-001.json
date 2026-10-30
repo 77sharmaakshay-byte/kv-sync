@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1853/2020:2020-12-30-001",
+ "title": "DHUMMU versus STATE OF UTTARAKHAND",
+ "petitioner": "DHUMMU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1853/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-12-30",
+ "cnr": "UKHC010138622020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1853/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjINj4vOhagArI3XO%2Bm7vfTkazUcw462DPwiWU8m3%2BupV&caseno=WPSS/1853/2020&cCode=1&cino=UKHC010138622020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eb4d15cdc501f68bcb71049bbff16e6a4591643ffae9120bc59c2052ec568de2",
+ "fetched_at": "2026-10-30T12:41:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1916/2023:2025-06-30-002",
+ "title": "MADAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MADAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1916/2023",
+ "case_type": "WPSS",
+ "decision_date": "2025-06-30",
+ "cnr": "UKHC010165452023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1916/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FAJsb1L%2FeMrlIjL2pVVCylyuNziQoFDY4u%2Ba2Xc0j8n&caseno=WPSS/1916/2023&cCode=1&cino=UKHC010165452023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5a4609eba69f90ca2921551a23b7454e40c67e98b9115d0b7142812161ebb3a7",
+ "fetched_at": "2026-10-30T12:41:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1255/2026:2026-07-21-001",
+ "title": "SAHID versus STATE OF UTTARAKHAND",
+ "petitioner": "SAHID",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1255/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-21",
+ "cnr": "UKHC010125282026",
+ "doc_kind": "order",
+ "order_type": "BA1/1255/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjJtpCvnloNNqYLqXhScIdFMlWhYLEaEIDa4U9jQ%2F7xG&caseno=BA1/1255/2026&cCode=1&cino=UKHC010125282026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "422a68745cf83afafed0d0c8ed767c4a6310e6cc1323ac3d3146d88695a6fce3",
+ "fetched_at": "2026-10-30T13:07:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

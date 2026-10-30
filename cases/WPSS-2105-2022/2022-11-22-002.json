@@ -1,0 +1,20 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2105/2022:2022-11-22-002",
+ "title": "SOMPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SOMPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2105/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-11-22",
+ "cnr": "UKHC010161562022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2105/2022",
+ "judges": null,
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT012wilKpiaHphIMk71kHa9TzItOun4zgukET2OKvIrlx&caseno=WPSS/2105/2022&cCode=1&cino=UKHC010161562022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3991859e3b372621c2072bfbec9c910307060917192aaa366bde983ada8ba43d",
+ "fetched_at": "2026-10-30T12:39:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

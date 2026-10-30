@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1437/2026:2026-10-16-002",
+ "title": "AMIT RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "AMIT RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1437/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-16",
+ "cnr": "UKHC010148082026",
+ "doc_kind": "order",
+ "order_type": "BA1/1437/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmvhoum%2Bw9VJ5LA3dx2Zulh87Qxb939C57AW3yHgHi5h&caseno=BA1/1437/2026&cCode=1&cino=UKHC010148082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c6f87fe1d7fd2f830cc70f4d9c7ecf28d459f338eb739c162f8b07584a7304d9",
+ "fetched_at": "2026-10-30T13:07:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

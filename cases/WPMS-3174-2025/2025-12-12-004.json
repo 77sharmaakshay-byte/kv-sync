@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3174/2025:2025-12-12-004",
+ "title": "RAVIPAL versus BIJENDRA SINGH",
+ "petitioner": "RAVIPAL",
+ "respondent": "BIJENDRA SINGH",
+ "case_no": "WPMS/3174/2025",
+ "case_type": "WPMS",
+ "decision_date": "2025-12-12",
+ "cnr": "UKHC010181172025",
+ "doc_kind": "order",
+ "order_type": "WPMS/3174/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmy3Fui%2BRzPCjAFTEmI5WMthAfXUQ0iBIEjscCbllx0l4&caseno=WPMS/3174/2025&cCode=1&cino=UKHC010181172025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "047db4c1872a8592d1b6d204f5bf4152854ecda8eb06b015f6c81ad02fc81550",
+ "fetched_at": "2026-10-30T12:35:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

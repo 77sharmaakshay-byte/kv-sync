@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/72/2026:2026-01-08-001",
+ "title": "PRAMILA CHAUHAN versus CHIEF EXECUTIVE OFFICER",
+ "petitioner": "PRAMILA CHAUHAN",
+ "respondent": "CHIEF EXECUTIVE OFFICER",
+ "case_no": "WPMS/72/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-08",
+ "cnr": "UKHC010003642026",
+ "doc_kind": "order",
+ "order_type": "WPMS/72/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg41Jr3RK7%2FIU%2FWlhONyEDC%2FHx7Rsa%2FLk82N8xyyCdnj&caseno=WPMS/72/2026&cCode=1&cino=UKHC010003642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "42641a2257f6bb653fd4789b774d6f678c356d13c0e68c7acd4c95dfb3ebbcaa",
+ "fetched_at": "2026-10-30T12:55:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

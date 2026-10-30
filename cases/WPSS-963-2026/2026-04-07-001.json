@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/963/2026:2026-04-07-001",
+ "title": "GAURAV versus BRIDGE ROPEWAY",
+ "petitioner": "GAURAV",
+ "respondent": "BRIDGE ROPEWAY",
+ "case_no": "WPSS/963/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-04-07",
+ "cnr": "UKHC010051952026",
+ "doc_kind": "order",
+ "order_type": "WPSS/963/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnRfN%2FvnY5ugUaeopHtFlvTqbbxzbT1l65R7xW9D5x0p&caseno=WPSS/963/2026&cCode=1&cino=UKHC010051952026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "aaa93249c1d8ef6ec883f40bef08c5e801b9ad731a6dc885dc9ffb71a02dfd4c",
+ "fetched_at": "2026-10-30T12:42:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

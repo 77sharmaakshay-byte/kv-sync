@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/500/2022:2025-03-18-002",
+ "title": "RAKESH KUMAR versus STATE BANK OF INDIA",
+ "petitioner": "RAKESH KUMAR",
+ "respondent": "STATE BANK OF INDIA",
+ "case_no": "WPSS/500/2022",
+ "case_type": "WPSS",
+ "decision_date": "2025-03-18",
+ "cnr": "UKHC010037292022",
+ "doc_kind": "order",
+ "order_type": "WPSS/500/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2B27qgJ3wJ28ij4qq7y4lH5UCqbqAz%2BO19kPG%2Fy%2BvEKQ&caseno=WPSS/500/2022&cCode=1&cino=UKHC010037292022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "028ed296708c30a864bd71dbb30343147069bd45aed7913d06245d76cc6ebff0",
+ "fetched_at": "2026-10-30T12:41:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

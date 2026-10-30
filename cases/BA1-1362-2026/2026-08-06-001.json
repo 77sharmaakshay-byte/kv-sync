@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1362/2026:2026-08-06-001",
+ "title": "YUSUF versus STATE OF UTTARAKHAND",
+ "petitioner": "YUSUF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1362/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-06",
+ "cnr": "UKHC010138612026",
+ "doc_kind": "order",
+ "order_type": "BA1/1362/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlCY5YOS98SAmijPkfFPe3S%2BX2f69EjP5lE3iHvGq0TB&caseno=BA1/1362/2026&cCode=1&cino=UKHC010138612026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6a0670c90e3d83b0f09e7ef450461f9fedce79b43219280aa9c83a76cd6399fe",
+ "fetched_at": "2026-10-30T13:08:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

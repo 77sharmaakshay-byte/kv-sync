@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1167/2024:2024-05-10-001",
+ "title": "MS ALLIED PLUS INFRA AND OTHER PVT LTD versus STATE OF UTTARAKHAND",
+ "petitioner": "MS ALLIED PLUS INFRA AND OTHER PVT LTD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1167/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-05-10",
+ "cnr": "UKHC010066922024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1167/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBfnEf8%2BFMDhcDdqd8Be6kbWr5OcJEJfxOAq7REHQg51&caseno=WPMS/1167/2024&cCode=1&cino=UKHC010066922024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1bab1e0a5a458e8ab076c00d5e743b6f4f39a1d0eb9d260799dd739ea2582eed",
+ "fetched_at": "2026-10-30T12:40:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

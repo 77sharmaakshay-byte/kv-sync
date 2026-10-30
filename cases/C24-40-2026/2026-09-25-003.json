@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C24/40/2026:2026-09-25-003",
+ "title": "RAJKUMAR versus VIJAY KUMAR",
+ "petitioner": "RAJKUMAR",
+ "respondent": "VIJAY KUMAR",
+ "case_no": "C24/40/2026",
+ "case_type": "C24",
+ "decision_date": "2026-09-25",
+ "cnr": "UKHC010119012026",
+ "doc_kind": "order",
+ "order_type": "C24/40/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQigLjrpz3%2Bj1anJYBpnv7OL%2BP9UhhVS6pFPSKQHX25Xr&caseno=C24/40/2026&cCode=1&cino=UKHC010119012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dec1afb562e96fd95c0fceaed0f896364ce4ad9b18c05cd12ae1bda72c0237b4",
+ "fetched_at": "2026-10-30T13:12:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/360/2017:2026-07-17-005",
+ "title": "NATIONAL INSURANCE CO.LTD versus SATISH CHANDRA",
+ "petitioner": "NATIONAL INSURANCE CO.LTD",
+ "respondent": "SATISH CHANDRA",
+ "case_no": "AO/360/2017",
+ "case_type": "AO",
+ "decision_date": "2026-07-17",
+ "cnr": "UKHC010005762017",
+ "doc_kind": "order",
+ "order_type": "AO/360/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh%2F2zaSV931fojga3qJf08uC2Ger0ipU8wTZvtrA73SEX&caseno=AO/360/2017&cCode=1&cino=UKHC010005762017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "731434d3c5b997cbc1027adaef61c77197d0721a3569a9779271b2c30a068c26",
+ "fetched_at": "2026-10-30T12:41:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

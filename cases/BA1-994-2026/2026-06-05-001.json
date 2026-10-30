@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/994/2026:2026-06-05-001",
+ "title": "JAYESH KUMAR NANDWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "JAYESH KUMAR NANDWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/994/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-05",
+ "cnr": "UKHC010097152026",
+ "doc_kind": "order",
+ "order_type": "BA1/994/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgoRFRLyrn0gfyDo8TMfJaNIz8A6SAN8sWFQQ7avIEY2&caseno=BA1/994/2026&cCode=1&cino=UKHC010097152026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "47413c0ca6280d9e720841870b6ed4fff6fd0d4241731c9dcc87d8801fdf7253",
+ "fetched_at": "2026-10-30T13:07:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

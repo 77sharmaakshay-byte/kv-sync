@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1163/2026:2026-09-22-002",
+ "title": "PRABHAT CHANDRA KHANDURI AND ORS versus STATE OF UTTARAKHAND",
+ "petitioner": "PRABHAT CHANDRA KHANDURI AND ORS",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1163/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010108062026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1163/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhuG2A%2FZnrChZ%2BMcbjPAx0oRV2ZED%2FbqxVq9Vn1jI99q&caseno=WPCRL/1163/2026&cCode=1&cino=UKHC010108062026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "31cfc387e0228338db6974284bcb1c607b6af22c21fc968553431fe31ff75ede",
+ "fetched_at": "2026-10-30T12:55:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

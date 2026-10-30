@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/730/2025:2026-03-09-001",
+ "title": "GIRISH CHANDRA BHATT versus SUNITA BHATT",
+ "petitioner": "GIRISH CHANDRA BHATT",
+ "respondent": "SUNITA BHATT",
+ "case_no": "CRLR/730/2025",
+ "case_type": "CRLR",
+ "decision_date": "2026-03-09",
+ "cnr": "UKHC010171472025",
+ "doc_kind": "order",
+ "order_type": "CRLR/730/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwQ8ImFtstajlh%2BDhdDtrYvNKJyd0CwgSxWBdFoblm1E&caseno=CRLR/730/2025&cCode=1&cino=UKHC010171472025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "364c38c81a2b23a1849d8a63a50c7704f4c1d71940483ec85d09422f0a1eccb2",
+ "fetched_at": "2026-10-30T13:05:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C447/20/2026:2026-05-30-001",
+ "title": "MAYANK SHARMA versus CHANDANA",
+ "petitioner": "MAYANK SHARMA",
+ "respondent": "CHANDANA",
+ "case_no": "C447/20/2026",
+ "case_type": "C447",
+ "decision_date": "2026-05-30",
+ "cnr": "UKHC010091802026",
+ "doc_kind": "order",
+ "order_type": "C447/20/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQonnQrEhcanaV0oJoojYsCGr6eg%2FbVZxpw0wzEMQVAcI&caseno=C447/20/2026&cCode=1&cino=UKHC010091802026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "62a4351d5bf232ba4a8b7ee3894204354e792e893273b2efb89aa20d076eecf8",
+ "fetched_at": "2026-10-30T13:16:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1416/2026:2026-08-17-001",
+ "title": "SIKANDAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SIKANDAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1416/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-17",
+ "cnr": "UKHC010145422026",
+ "doc_kind": "order",
+ "order_type": "BA1/1416/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQq%2FUbYw04nIwz%2B4FxsVeno4Px%2FCWIAlk2grf17DJe7vA&caseno=BA1/1416/2026&cCode=1&cino=UKHC010145422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "777b8a866023696d39f132724a9f8b1b4e4985218511178f809d11342ba5553c",
+ "fetched_at": "2026-10-30T13:03:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

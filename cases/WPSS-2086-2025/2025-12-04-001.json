@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2086/2025:2025-12-04-001",
+ "title": "DATTA RAM NAUTIYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "DATTA RAM NAUTIYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2086/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-12-04",
+ "cnr": "UKHC010190752025",
+ "doc_kind": "order",
+ "order_type": "WPSS/2086/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2J12t2doIix9nykfToPVw7bdswemLoC4FoC3WqAXLfH&caseno=WPSS/2086/2025&cCode=1&cino=UKHC010190752025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8f19e1e6c1543ef820a9659d3b29dd8583512d57effda007246c2991e2fce19f",
+ "fetched_at": "2026-10-30T12:48:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

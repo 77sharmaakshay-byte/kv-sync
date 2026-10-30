@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1011/2026:2026-06-08-001",
+ "title": "SIKANDAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SIKANDAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1011/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-08",
+ "cnr": "UKHC010098482026",
+ "doc_kind": "order",
+ "order_type": "BA1/1011/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmVkjxMCXcYbYPHrYIxd8QFV382tXlN0vanBJ4ixvs1c&caseno=BA1/1011/2026&cCode=1&cino=UKHC010098482026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "27cc42766826a9d920b1461d1b883246b661535ddb5940fb6f6a71491e97eb22",
+ "fetched_at": "2026-10-30T13:04:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/2247/2025:2026-05-20-002",
+ "title": "CHANDAN SINGH ALIAS CHANDAN versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDAN SINGH ALIAS CHANDAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/2247/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-05-20",
+ "cnr": "UKHC010184852025",
+ "doc_kind": "order",
+ "order_type": "BA1/2247/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1HJqLt2zbHxrYnFAI4wocNPIxteqH%2FH3uxl3YFm1eU4&caseno=BA1/2247/2025&cCode=1&cino=UKHC010184852025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a7c73d217250ea2b5817e09c80553c67c050aba1fedebb9f72a37f881ed6dac4",
+ "fetched_at": "2026-10-30T12:53:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,834 @@
+{
+ "cnr_number": "UKHC010123642021",
+ "case_type": "CRLA",
+ "filing_number": "CRLA /7096/2021",
+ "filing_date": "2021-10-04",
+ "registration_number": "CRLA /298/2021",
+ "registration_date": "2021-10-04",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-10-31",
+ "decision_date": null,
+ "case_stage": "ORDERS ON APPLICATIONS -22",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "NASRUDDIN AND ANOTHER",
+   "advocate": "MANOJ BHATT,M.S. DHAPOLA,M.S. DHAPOLA, ,C S GAUTAM,VINAY BHATT,MOHD. HASNAIN RAZA,KUNWAR VIKRAMADITYA SHAH,SACHIN VEER SINGH,NANDAN ARYA,M.S. DHAPOLA"
+  },
+  {
+   "name": "FARIDA",
+   "advocate": "MANOJ BHATT,VIKRAMADITYA SHAH"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "498A,304B,302"
+  },
+  {
+   "act": "Dowry Prohibition Act, 1961 (Act No. 28 of 1961)",
+   "sections": "3/4"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2021-10-05",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-31",
+   "business_date": "2026-10-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-07",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-07",
+   "business_date": "2026-10-05",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-05",
+   "business_date": "2026-09-17",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-15",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-15",
+   "business_date": "2026-08-25",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-24",
+   "business_date": "2026-08-18",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-18",
+   "business_date": "2026-08-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-04",
+   "business_date": "2026-07-27",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-07-27",
+   "business_date": "2026-07-23",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-07-23",
+   "business_date": "2026-07-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-18",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-06-18",
+   "business_date": "2026-06-11",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-06-11",
+   "business_date": "2026-06-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST III"
+  },
+  {
+   "hearing_date": "2026-06-08",
+   "business_date": "2026-05-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-24",
+   "business_date": "2026-04-15",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-04-13",
+   "business_date": "2026-04-01",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-03-30",
+   "business_date": "2026-02-19",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-02-19",
+   "business_date": "2026-02-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-02-18",
+   "business_date": "2026-01-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-12-22",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-22",
+   "business_date": "2025-12-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-16",
+   "business_date": "2025-12-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-11-27",
+   "business_date": "2025-11-19",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-11-19",
+   "business_date": "2025-11-03",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-11-03",
+   "business_date": "2025-10-07",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-10-07",
+   "business_date": "2025-09-19",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-08-26",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-08-26",
+   "business_date": "2025-08-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-08-12",
+   "business_date": "2025-07-22",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-22",
+   "business_date": "2025-07-11",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-11",
+   "business_date": "2025-07-04",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-06-24",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-24",
+   "business_date": "2025-06-11",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-11",
+   "business_date": "2025-06-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-04",
+   "business_date": "2025-05-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-05-22",
+   "business_date": "2025-05-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-05-14",
+   "business_date": "2025-05-05",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-05-05",
+   "business_date": "2025-04-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-22",
+   "business_date": "2025-04-16",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-16",
+   "business_date": "2025-04-09",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-09",
+   "business_date": "2025-04-05",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-05",
+   "business_date": "2025-04-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-04",
+   "business_date": "2025-04-01",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-01",
+   "business_date": "2025-03-21",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-03-03",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-01-10",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-01-10",
+   "business_date": "2025-01-07",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-12-24",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-24",
+   "business_date": "2024-12-18",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-18",
+   "business_date": "2024-12-10",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-10",
+   "business_date": "2024-12-02",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-02",
+   "business_date": "2024-11-27",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-11-27",
+   "business_date": "2024-11-25",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-11-21",
+   "business_date": "2024-10-01",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-01",
+   "business_date": "2024-06-18",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-06-18",
+   "business_date": "2024-04-30",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-30",
+   "business_date": "2024-03-05",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-05",
+   "business_date": "2024-02-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-02-22",
+   "business_date": "2024-01-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-02-26",
+   "business_date": "2024-01-05",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-01-02",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-01-02",
+   "business_date": "2023-12-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-01-03",
+   "business_date": "2023-10-16",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-16",
+   "business_date": "2023-07-31",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-31",
+   "business_date": "2023-06-17",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-17",
+   "business_date": "2023-04-11",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-04-11",
+   "business_date": "2023-02-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-02-14",
+   "business_date": "2022-12-23",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-02-24",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-02-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-02-04",
+   "business_date": "2022-02-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-02-03",
+   "business_date": "2022-02-02",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-02-02",
+   "business_date": "2022-02-01",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-01-24",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-01-24",
+   "business_date": "2022-01-19",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-11-27",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-10-22",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-10-22",
+   "business_date": "2021-10-05",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2021-10-05",
+   "order_type": "CRLA/298/2021",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQZZ8Us1G96NsyIaDjaLwmhf&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-01-19",
+   "order_type": "CRLA/298/2021",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQaMPk70clvFFnVtyr292%2Bls&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-11-27",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQZO4tDDKiKKPS7KPlQtpnyB&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-10-22",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQZuV1GMAmGPwnZxW3oIZw8K&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-02-24",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQbb9XVTHSUEKqQNSNUVkaOI&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-12-23",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQYctmtz%2F%2BoqkyEtF1si%2BvP3&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-12-22",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQZNp1exZK9raXho9x7t%2FkIM&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-01-02",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQbqZMPx3oXFU6fkZdnC8LOY&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-01-12",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQYW9gplcxOzCRyebn8NgylA&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-02-22",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQaeFBzDfEC7lyzr2wZcGxEa&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-03-05",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQYbzItqK1w70ouNquoG8%2FhE&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-04-30",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQZpRAgKtAzPIk8Px3aA4f2c&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-12-02",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQaPkeZ5JLSTxUCAg55Zl%2F5D&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-12-18",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQZZOHx%2BU6hCC5e%2FuKVOpCc3&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-03-03",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQb7ulCuR1dm2hZf9g3uisWG&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-05-14",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQbr6iVFYBJT42420TctRkGi&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-06-04",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQZya%2F1vIoqwQHTf0w2ltcZE&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-06-11",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQaAyJLOojOo32VtoKMgvqyE&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-06-11",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQZJuLixnx4nTY%2F4WuZdnAQA&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-08-12",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQZ98iio9CtC%2FSixfhQu3NNa&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-09-19",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQYQISON2CGhXKB8iLj5CGdG&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-10-07",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQYK%2BX8C9PWtREuzNNygQwjj&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-02-18",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQa1vNVqeY%2B%2FmvObrJblgqtm&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-04-01",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQbzq6sGXhl0m1HtS56vJIjx&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-12",
+   "order_type": "CRLA/298/2021",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLD5Ff1RHn7n48TMuI0hYQbb%2BHCH7mY2%2B7JEztPADxJp&caseno=CRLA/298/2021&cCode=1&cino=UKHC010123642021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

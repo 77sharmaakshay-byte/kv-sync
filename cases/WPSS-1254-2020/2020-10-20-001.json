@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1254/2020:2020-10-20-001",
+ "title": "JEEVAN CHANDRA BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "JEEVAN CHANDRA BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1254/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-10-20",
+ "cnr": "UKHC010104792020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1254/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjKL6lYlAqrvsYaeFoV2q1tMR3fTrOhwTIANA85D7H%2Fx6&caseno=WPSS/1254/2020&cCode=1&cino=UKHC010104792020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eded8fe4e0a58175925ecd1c4faffc8cb4e52ae65044f550814b071c2776eccc",
+ "fetched_at": "2026-10-30T12:45:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

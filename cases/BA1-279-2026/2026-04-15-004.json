@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/279/2026:2026-04-15-004",
+ "title": "TAVINDER versus STATE OF UTTARAKHAND",
+ "petitioner": "TAVINDER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/279/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-04-15",
+ "cnr": "UKHC010027262026",
+ "doc_kind": "order",
+ "order_type": "BA1/279/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlH6b3sUybTWAoLIrbjh615aR1FqGr%2Fo5OGmQKqcsyXh&caseno=BA1/279/2026&cCode=1&cino=UKHC010027262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc23d50563babe2191d4f5cd962ab5e04d2771360e6612fef5b09d4c8cd02cfd",
+ "fetched_at": "2026-10-30T13:06:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

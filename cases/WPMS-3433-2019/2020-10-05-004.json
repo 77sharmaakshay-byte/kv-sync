@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3433/2019:2020-10-05-004",
+ "title": "SAVITA CHAUDHARY versus STATE OF UTTARAKHAND",
+ "petitioner": "SAVITA CHAUDHARY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3433/2019",
+ "case_type": "WPMS",
+ "decision_date": "2020-10-05",
+ "cnr": "UKHC010180982019",
+ "doc_kind": "order",
+ "order_type": "WPMS/3433/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF7tfCeacuEdTf3vtykKM8rsEy79H3dEFd2MR8mVN%2FsRS&caseno=WPMS/3433/2019&cCode=1&cino=UKHC010180982019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7bd6d407343ca12b3c1753073540402fa8586b261f738928876e348b16a130c5",
+ "fetched_at": "2026-10-30T12:35:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

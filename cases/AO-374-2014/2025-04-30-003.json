@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/374/2014:2025-04-30-003",
+ "title": "KM. SONAM (MINOR) versus BRAJ PAL",
+ "petitioner": "KM. SONAM (MINOR)",
+ "respondent": "BRAJ PAL",
+ "case_no": "AO/374/2014",
+ "case_type": "AO",
+ "decision_date": "2025-04-30",
+ "cnr": "UKHC010017982014",
+ "doc_kind": "order",
+ "order_type": "AO/374/2014",
+ "judges": [
+  "Daily Lok Adalat"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobF1fu7MMwbrJ4uiqVVL%2Fc9HAL%2BqazzXeIOvNiOtT%2Fr45&caseno=AO/374/2014&cCode=1&cino=UKHC010017982014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "023b20c836a33c6bc65b5dca1db881df263364d84478af6d740f441fdc56c7d6",
+ "fetched_at": "2026-10-30T13:15:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

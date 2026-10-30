@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1908/2023:2026-09-08-017",
+ "title": "ROHIT YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "ROHIT YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1908/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010164702023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1908/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7dKcYR182SCwVUgPPgGlTzl0zoG751Xxp7z96P9mK1I&caseno=WPSS/1908/2023&cCode=1&cino=UKHC010164702023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "70030bcd61332e17bb3e3bd2651a1cfb4334fc578ee67259f976851413c592ee",
+ "fetched_at": "2026-10-30T12:45:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

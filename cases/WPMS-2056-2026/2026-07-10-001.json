@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2056/2026:2026-07-10-001",
+ "title": "SARA SAE PRIVATE LIMITED versus ASIF ALI",
+ "petitioner": "SARA SAE PRIVATE LIMITED",
+ "respondent": "ASIF ALI",
+ "case_no": "WPMS/2056/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-10",
+ "cnr": "UKHC010117842026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2056/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtr7r28vLCcHMsC8tW3osvNoMDjgbDDPNZyGDCTPPkRX&caseno=WPMS/2056/2026&cCode=1&cino=UKHC010117842026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3c5b2aeba5a32579494943cdfae11a0d74d2ab223c411cd048fe8e17d33c0ace",
+ "fetched_at": "2026-10-30T12:34:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

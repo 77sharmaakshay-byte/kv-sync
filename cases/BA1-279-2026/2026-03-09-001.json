@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/279/2026:2026-03-09-001",
+ "title": "TAVINDER versus STATE OF UTTARAKHAND",
+ "petitioner": "TAVINDER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/279/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-03-09",
+ "cnr": "UKHC010027262026",
+ "doc_kind": "order",
+ "order_type": "BA1/279/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlH6b3sUybTWAoLIrbjh617hiUp8W1Ue27XSZ9cEllgJ&caseno=BA1/279/2026&cCode=1&cino=UKHC010027262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "82bb36810d2945c9028dcffd2ad9a05913cb5c1f249e65da7653da0a99477616",
+ "fetched_at": "2026-10-30T13:06:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1490/2026:2026-09-01-001",
+ "title": "BALJEET KAUR versus STATE OF UTTARAKHAND",
+ "petitioner": "BALJEET KAUR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1490/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010153462026",
+ "doc_kind": "order",
+ "order_type": "BA1/1490/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv1YEvrHozkxIrfkJiHMRs1aeaKPExCNFjLD6j1kJwqv&caseno=BA1/1490/2026&cCode=1&cino=UKHC010153462026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e621d84016db1065d93126880def43a8755e77a2815a1528272aff9e35e6c473",
+ "fetched_at": "2026-10-30T13:08:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

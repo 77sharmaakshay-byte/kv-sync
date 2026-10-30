@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/405/2026:2026-10-14-003",
+ "title": "AKRAM ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "AKRAM ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/405/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010168052026",
+ "doc_kind": "order",
+ "order_type": "ABA/405/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo4IbkGI8GdEOLMAOhnBru7fTyDSyAYIa%2ByYtT%2BwZhyG&caseno=ABA/405/2026&cCode=1&cino=UKHC010168052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d511e17c0d3bc566bdebd2a917e6972af37c892eec111cd06cf6213637f030e",
+ "fetched_at": "2026-10-30T12:56:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1192/2023:2023-11-02-003",
+ "title": "ASHISH RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "ASHISH RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1192/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-11-02",
+ "cnr": "UKHC010108892023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1192/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYwABn3JhUjTiFSzcE8M2M7h6qhKUs1sK9czY2EPCyT3T&caseno=WPSS/1192/2023&cCode=1&cino=UKHC010108892023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ea330ad5ac148b25f165524393849c460d506d8547b431c984c05f59ee91dda3",
+ "fetched_at": "2026-10-30T12:44:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

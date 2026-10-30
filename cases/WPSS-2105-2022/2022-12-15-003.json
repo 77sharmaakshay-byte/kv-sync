@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2105/2022:2022-12-15-003",
+ "title": "SOMPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SOMPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2105/2022",
+ "case_type": "WPSS",
+ "decision_date": "2022-12-15",
+ "cnr": "UKHC010161562022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2105/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT012wilKpiaHphIMk71kHa9TMQvh%2BKWd9lkUJxmC39FK1&caseno=WPSS/2105/2022&cCode=1&cino=UKHC010161562022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "64c2bcd8a08360e8585bf86ae21f1411764c128342c38aa7a0f2f9f448cbf566",
+ "fetched_at": "2026-10-30T12:39:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

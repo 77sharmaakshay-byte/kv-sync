@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1759/2026:2026-08-11-001",
+ "title": "BABITA versus BEENA ALIAS VEENA SINGH",
+ "petitioner": "BABITA",
+ "respondent": "BEENA ALIAS VEENA SINGH",
+ "case_no": "C528/1759/2026",
+ "case_type": "C528",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010141492026",
+ "doc_kind": "order",
+ "order_type": "C528/1759/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmJjtFKa6Sqa82bKi5H8L0hRiPI19WIhS8b5JoeOqTQ4&caseno=C528/1759/2026&cCode=1&cino=UKHC010141492026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c32e49c047d495b3a0a128a52ba044344be586c54718fa62d82c047660d071bd",
+ "fetched_at": "2026-10-30T13:09:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

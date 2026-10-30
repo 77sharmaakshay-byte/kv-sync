@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1973/2026:2026-09-17-001",
+ "title": "AMAN TANEJA versus STATE OF UTTARAKHAND",
+ "petitioner": "AMAN TANEJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/1973/2026",
+ "case_type": "C528",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010159302026",
+ "doc_kind": "order",
+ "order_type": "C528/1973/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnSdqqFHXHQprCxYHmy3eIQAZUaCVrPS5cXTNFQgEUm2&caseno=C528/1973/2026&cCode=1&cino=UKHC010159302026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3e325d63dc2f8fa425df179b4c7206dc518335625a5c2beaedf36a4455f1d37e",
+ "fetched_at": "2026-10-30T13:04:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

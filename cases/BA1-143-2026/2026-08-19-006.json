@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/143/2026:2026-08-19-006",
+ "title": "NAKUL versus STATE OF UTTARAKHAND",
+ "petitioner": "NAKUL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/143/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010013752026",
+ "doc_kind": "order",
+ "order_type": "BA1/143/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkD8mEIOIf6hJGoKLPhiMz4soLGZ30ki47eAZDdMHMwY&caseno=BA1/143/2026&cCode=1&cino=UKHC010013752026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "609f1f4bd1bb2e606eb96985a197478fe3f3e14a105f71a6b8744dd2bf149449",
+ "fetched_at": "2026-10-30T13:04:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

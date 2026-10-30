@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1561/2025:2026-01-10-007",
+ "title": "NAVEEN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "NAVEEN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1561/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-01-10",
+ "cnr": "UKHC010132892025",
+ "doc_kind": "order",
+ "order_type": "BA1/1561/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2FC8S6egiL9qlYvp4ujKkIINmG1Tu%2FpZQklsOU4I%2FoOt&caseno=BA1/1561/2025&cCode=1&cino=UKHC010132892025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "206673ca65fc69c6f478405272cf1d44a5d23d00887deb0ee389878f5987ed79",
+ "fetched_at": "2026-10-30T12:54:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

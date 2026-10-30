@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/851/2026:2026-05-21-001",
+ "title": "MAYANK SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "MAYANK SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/851/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-21",
+ "cnr": "UKHC010085052026",
+ "doc_kind": "order",
+ "order_type": "BA1/851/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnouS7D8G5Lcmuh1fdjJLSAY5jFgXX4WftQtHyEsil9s&caseno=BA1/851/2026&cCode=1&cino=UKHC010085052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a8607544aff76b88fba099d67733f07e4b10fbb2747cbede7d04e258177e7522",
+ "fetched_at": "2026-10-30T13:07:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

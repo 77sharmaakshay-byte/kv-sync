@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/12/2026:2026-07-10-002",
+ "title": "ROSHAN LAL versus RAJKUMAR",
+ "petitioner": "ROSHAN LAL",
+ "respondent": "RAJKUMAR",
+ "case_no": "CLR/12/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-07-10",
+ "cnr": "UKHC010021982026",
+ "doc_kind": "order",
+ "order_type": "CLR/12/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjpTwdMDnOpFrdPl53u%2FXXUYLIZxqrAPw9BZb34ekzto&caseno=CLR/12/2026&cCode=1&cino=UKHC010021982026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "24a16ef45126100fe36074ed0524f1a26481a251a278bd7231fe2ad857a07975",
+ "fetched_at": "2026-10-30T13:12:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

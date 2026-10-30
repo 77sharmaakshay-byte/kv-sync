@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/88/2018:2022-12-13-010",
+ "title": "Rakesh Sakseria versus Smt. Kumud",
+ "petitioner": "Rakesh Sakseria",
+ "respondent": "Smt. Kumud",
+ "case_no": "FA/88/2018",
+ "case_type": "FA",
+ "decision_date": "2022-12-13",
+ "cnr": "UKHC010016552018",
+ "doc_kind": "order",
+ "order_type": "FA/88/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL%2B4Bj%2FbtjoGMqZ72HUkpW0Vju9LLgctUXOMJW3niGsSZ&caseno=FA/88/2018&cCode=1&cino=UKHC010016552018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7bda14e5be03f525a9ce2fdc3a425258331433dd64618adf1c37be44a0a89f57",
+ "fetched_at": "2026-10-30T12:34:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

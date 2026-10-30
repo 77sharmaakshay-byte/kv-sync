@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1611/2026:2026-09-28-001",
+ "title": "CHANDRASHEKHAR CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDRASHEKHAR CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1611/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010169572026",
+ "doc_kind": "order",
+ "order_type": "BA1/1611/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsUbg5HF13BA1E1x0ULtf1a3za4nbdk7rEqj01kMvgxw&caseno=BA1/1611/2026&cCode=1&cino=UKHC010169572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "75b525a6a73ae95693f607c160805652ffea14d1dca22a92fed5aa1f207e00b6",
+ "fetched_at": "2026-10-30T13:07:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

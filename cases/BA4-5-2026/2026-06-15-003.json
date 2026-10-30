@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA4/5/2026:2026-06-15-003",
+ "title": "LALIT KUMAR MEHENDRA ALIAS LALI ALIAS SHIVDASS PATIL versus STATE OF UTTARAKHAND",
+ "petitioner": "LALIT KUMAR MEHENDRA ALIAS LALI ALIAS SHIVDASS PATIL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA4/5/2026",
+ "case_type": "BA4",
+ "decision_date": "2026-06-15",
+ "cnr": "UKHC010072602026",
+ "doc_kind": "order",
+ "order_type": "BA4/5/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkwOgthSiQ6LKLk3AuU0Qwn5pS1yW6WdhWz0prdE9OGL&caseno=BA4/5/2026&cCode=1&cino=UKHC010072602026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a94b1e8ebe4b1bc987ca4a8aa3f344958ba5d6489fed01f8983aefd178f91714",
+ "fetched_at": "2026-10-30T13:06:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

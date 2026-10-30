@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1290/2026:2026-07-24-001",
+ "title": "GUDDU ALIAS MUSTAK versus STATE OF UTTARAKHAND",
+ "petitioner": "GUDDU ALIAS MUSTAK",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1290/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-24",
+ "cnr": "UKHC010129122026",
+ "doc_kind": "order",
+ "order_type": "BA1/1290/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp6wl%2FK33qnSKsBKoYnLPiwM%2FEMm8ZiWBUVrArRvC3aw&caseno=BA1/1290/2026&cCode=1&cino=UKHC010129122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bf2d4cc9e25f9ce1ffcb0122c44b62257b453bc5cdd7e7440d69384f4e0ce718",
+ "fetched_at": "2026-10-30T13:08:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

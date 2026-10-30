@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/128/2023:2023-02-15-001",
+ "title": "SATISH CHANDRA BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "SATISH CHANDRA BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/128/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-02-15",
+ "cnr": "UKHC010010232023",
+ "doc_kind": "order",
+ "order_type": "WPSS/128/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9q5OCrtq4ga65Qk%2B9XO6iYyGGVcjCEpBis%2FSN6fncy%2B&caseno=WPSS/128/2023&cCode=1&cino=UKHC010010232023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d99e8eb18ecb1525c77fb9e6a0b014d1d1b3f49f8e8a35e6e9f5e9f8f040c602",
+ "fetched_at": "2026-10-30T12:47:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

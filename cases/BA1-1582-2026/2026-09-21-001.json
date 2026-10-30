@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1582/2026:2026-09-21-001",
+ "title": "ARUN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ARUN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1582/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010165992026",
+ "doc_kind": "order",
+ "order_type": "BA1/1582/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpDU8tObmTtztvhvKhVqvKvt%2B3SWoFtNE2ZTBWXElQVV&caseno=BA1/1582/2026&cCode=1&cino=UKHC010165992026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4086cd5ad2c635e7bb3d3b94e004f36646b8f55bbeebc8ca933d1a2e31791ba0",
+ "fetched_at": "2026-10-30T13:06:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

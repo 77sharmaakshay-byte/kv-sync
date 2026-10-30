@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/87/2018:2018-06-14-003",
+ "title": "Rakesh Sakseria versus Smt. Kumud",
+ "petitioner": "Rakesh Sakseria",
+ "respondent": "Smt. Kumud",
+ "case_no": "FA/87/2018",
+ "case_type": "FA",
+ "decision_date": "2018-06-14",
+ "cnr": "UKHC010018222018",
+ "doc_kind": "order",
+ "order_type": "FA/87/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL4DHE4xrLjyj6XImn5Hx7O77Gy3m2CSr646kS%2FrTFcnO&caseno=FA/87/2018&cCode=1&cino=UKHC010018222018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "18c19554729ec16908806ba7260d56f7f4fccca033ab8f4c2839d84c75989cfa",
+ "fetched_at": "2026-10-30T12:35:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

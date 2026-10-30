@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BCA/14/2026:2026-08-18-001",
+ "title": "VIJAY PAL versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY PAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BCA/14/2026",
+ "case_type": "BCA",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010145012026",
+ "doc_kind": "order",
+ "order_type": "BCA/14/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrBjLTxGeBPnFFxIqDAC3FpTmHp65Y5%2FKSLR06riXVx2&caseno=BCA/14/2026&cCode=1&cino=UKHC010145012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0c9813971b370985f7e6a83f9dba67ddfafcdda10bd31d7e6fa4b3f7d85fea6d",
+ "fetched_at": "2026-10-30T12:40:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/29/2022:2023-03-27-002",
+ "title": "RAJNISH JUYAL versus SATISH CHANDRA JUYAL",
+ "petitioner": "RAJNISH JUYAL",
+ "respondent": "SATISH CHANDRA JUYAL",
+ "case_no": "SA/29/2022",
+ "case_type": "SA",
+ "decision_date": "2023-03-27",
+ "cnr": "UKHC010025442022",
+ "doc_kind": "order",
+ "order_type": "SA/29/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT038y8lTALgV2oTG6ZQe90BElXSpwlmn2i7nLEohi4kfM&caseno=SA/29/2022&cCode=1&cino=UKHC010025442022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3ce7a08e7153ec33657f061d2a074fe5b61e037e09690f3ee91f26e858017e53",
+ "fetched_at": "2026-10-30T13:16:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

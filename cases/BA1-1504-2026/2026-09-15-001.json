@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1504/2026:2026-09-15-001",
+ "title": "GUARAV KULYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "GUARAV KULYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1504/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010155062026",
+ "doc_kind": "order",
+ "order_type": "BA1/1504/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqZHVMG%2FnfXqfzy71Izu4Zcj3ICIF97hYBwxUsggx15H&caseno=BA1/1504/2026&cCode=1&cino=UKHC010155062026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c2ffdea8673f4db2e3a2543bea271c2d58d44f6157928a08d485c8ec6eef5e53",
+ "fetched_at": "2026-10-30T13:07:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

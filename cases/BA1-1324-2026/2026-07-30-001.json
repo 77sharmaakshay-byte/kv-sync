@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1324/2026:2026-07-30-001",
+ "title": "MOHD. AALAM versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD. AALAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1324/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-30",
+ "cnr": "UKHC010133952026",
+ "doc_kind": "order",
+ "order_type": "BA1/1324/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgG2TdCyeLRtlGkYZo2NNByMh69k8cFHJz9rUrBQq0HR&caseno=BA1/1324/2026&cCode=1&cino=UKHC010133952026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce8304b64a9dc2040d390c3fe2c5463741837be086d5adc6f9a0a6b5a16ee227",
+ "fetched_at": "2026-10-30T13:07:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

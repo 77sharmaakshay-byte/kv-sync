@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3184/2026:2026-10-29-001",
+ "title": "SHASHANK JAIN versus SHALINI SHARMA",
+ "petitioner": "SHASHANK JAIN",
+ "respondent": "SHALINI SHARMA",
+ "case_no": "WPMS/3184/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010183122026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3184/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrSUhcD3Xv6GN%2ByI6lgXIUIjwQzLRm%2B%2BRqWHZQfbZVe1&caseno=WPMS/3184/2026&cCode=1&cino=UKHC010183122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc8047a418901da5fdb0811f8c9bc816e4463df8b66248eb818aa062fec48b49",
+ "fetched_at": "2026-10-30T12:35:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

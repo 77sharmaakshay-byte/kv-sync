@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1917/2022:2023-03-20-003",
+ "title": "ASAD ANSARI versus STATE OF UTTARAKHAND",
+ "petitioner": "ASAD ANSARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1917/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-03-20",
+ "cnr": "UKHC010145992022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1917/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT010d2zuIhncEWIKAog%2BnI5Wp5A4BhIJdyFGPhbfMXyMu&caseno=WPSS/1917/2022&cCode=1&cino=UKHC010145992022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d8db2819f2d56571dd50028ccd93cb04c93abb4b0885d71f07912e811a27dc7",
+ "fetched_at": "2026-10-30T12:40:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

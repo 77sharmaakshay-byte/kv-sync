@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1623/2026:2026-05-30-001",
+ "title": "SANJAY SHARMA versus THE APPELLATE AUTHORITY",
+ "petitioner": "SANJAY SHARMA",
+ "respondent": "THE APPELLATE AUTHORITY",
+ "case_no": "WPMS/1623/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-30",
+ "cnr": "UKHC010092452026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1623/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi0aMtSMduHdQvqtLLhrIV6dkcy5DmcYehk%2BOpByQR%2FX&caseno=WPMS/1623/2026&cCode=1&cino=UKHC010092452026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd3717419a50ec7f294d4d4fee2c21b05d8c58aedef94116a7f28595ac57addf",
+ "fetched_at": "2026-10-30T12:56:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

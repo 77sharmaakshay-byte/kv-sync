@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/575/2014:2020-01-02-003",
+ "title": "ANIL KUMAR versus THE NEW INDIA INSURANCE COMPANY",
+ "petitioner": "ANIL KUMAR",
+ "respondent": "THE NEW INDIA INSURANCE COMPANY",
+ "case_no": "AO/575/2014",
+ "case_type": "AO",
+ "decision_date": "2020-01-02",
+ "cnr": "UKHC010015452014",
+ "doc_kind": "order",
+ "order_type": "AO/575/2014",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobE66z6mKGwBdj8pAW4rl0DiVYr4MbzaQJfvIE5oghIkt&caseno=AO/575/2014&cCode=1&cino=UKHC010015452014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ee50abec7eb79fa2ad567778d6a4883462fdc1af8f78078f35466c84b88f4b45",
+ "fetched_at": "2026-10-30T13:12:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

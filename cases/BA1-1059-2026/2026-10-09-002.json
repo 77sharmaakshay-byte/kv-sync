@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1059/2026:2026-10-09-002",
+ "title": "MINTU versus STATE OF UTTARAKHAND",
+ "petitioner": "MINTU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1059/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010104162026",
+ "doc_kind": "order",
+ "order_type": "BA1/1059/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqTXf%2BtyYlNwJPcNJgnFdldjY4iAUo8u3awukda2YrBe&caseno=BA1/1059/2026&cCode=1&cino=UKHC010104162026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d505ac902ce96528079db1784d9ed38d919ec581217afd4e5d4df8f1e4e6741",
+ "fetched_at": "2026-10-30T13:04:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

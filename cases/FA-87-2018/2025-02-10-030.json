@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/87/2018:2025-02-10-030",
+ "title": "Rakesh Sakseria versus Smt. Kumud",
+ "petitioner": "Rakesh Sakseria",
+ "respondent": "Smt. Kumud",
+ "case_no": "FA/87/2018",
+ "case_type": "FA",
+ "decision_date": "2025-02-10",
+ "cnr": "UKHC010018222018",
+ "doc_kind": "order",
+ "order_type": "FA/87/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL4DHE4xrLjyj6XImn5Hx7O4QLBhFM2gXqoFkNSBnt6sR&caseno=FA/87/2018&cCode=1&cino=UKHC010018222018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d2533bafc55ad4075c574e3854a4a399f049c2363a79c27e5a7ef1113c2777a4",
+ "fetched_at": "2026-10-30T12:35:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

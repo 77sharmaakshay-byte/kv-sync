@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/563/2012:2026-05-15-005",
+ "title": "DINESH KUMAR versus NEW INDIA INSURANCE COMPANY LIMITED",
+ "petitioner": "DINESH KUMAR",
+ "respondent": "NEW INDIA INSURANCE COMPANY LIMITED",
+ "case_no": "AO/563/2012",
+ "case_type": "AO",
+ "decision_date": "2026-05-15",
+ "cnr": "UKHC010016662012",
+ "doc_kind": "order",
+ "order_type": "AO/563/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrIY2v9mrKeyInwe7le62Mhz%2FWh4uYYGq2VBi3wPHy%2BK4&caseno=AO/563/2012&cCode=1&cino=UKHC010016662012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d5b0320805afd298af98e62a8e894834dcb1ab6b07ac6e57a12e457f0c51b4c1",
+ "fetched_at": "2026-10-30T13:11:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

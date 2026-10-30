@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/43/2026:2026-05-14-001",
+ "title": "LALITA versus MS RAM ASSOCIATES",
+ "petitioner": "LALITA",
+ "respondent": "MS RAM ASSOCIATES",
+ "case_no": "SA/43/2026",
+ "case_type": "SA",
+ "decision_date": "2026-05-14",
+ "cnr": "UKHC010062582026",
+ "doc_kind": "order",
+ "order_type": "SA/43/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnQPt22umDvDx3VYQVVLVnOLQ3NuQJBcPe6btA1l0a7B&caseno=SA/43/2026&cCode=1&cino=UKHC010062582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d3315ad8c8266c53475541fc35678c7a5e868636535e846b0c9284a1233dccc9",
+ "fetched_at": "2026-10-30T13:15:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

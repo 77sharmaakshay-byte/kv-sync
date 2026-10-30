@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1438/2026:2026-07-08-002",
+ "title": "SARA SAE PRIVATE LIMITED versus KHEM CHAND",
+ "petitioner": "SARA SAE PRIVATE LIMITED",
+ "respondent": "KHEM CHAND",
+ "case_no": "WPMS/1438/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010083972026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1438/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiweFyFWe94CAqLd8U99jUjQMJEqCei1ssS4a9OcRD49&caseno=WPMS/1438/2026&cCode=1&cino=UKHC010083972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a1fda3f8683b7189826974f2c5bb7389ce398a9a9e0358486ab7151e2c205b39",
+ "fetched_at": "2026-10-30T12:35:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/13/2018:2018-05-07-005",
+ "title": "M/s Dixon Technologies (India) Ltd. versus M/s Allied Photographic India Ltd",
+ "petitioner": "M/s Dixon Technologies (India) Ltd.",
+ "respondent": "M/s Allied Photographic India Ltd",
+ "case_no": "FA/13/2018",
+ "case_type": "FA",
+ "decision_date": "2018-05-07",
+ "cnr": "UKHC010041822018",
+ "doc_kind": "order",
+ "order_type": "FA/13/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL3SZ9XENxQSPQ0qA4AwjGfC6qhAAQqk1XkeyHjX33c40&caseno=FA/13/2018&cCode=1&cino=UKHC010041822018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0f8856c07e673871cfa63a50d149aac2357c7ee343edf72e159420a6444fe090",
+ "fetched_at": "2026-10-30T13:12:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

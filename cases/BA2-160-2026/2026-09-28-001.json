@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/160/2026:2026-09-28-001",
+ "title": "HARPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "HARPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/160/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010170982026",
+ "doc_kind": "order",
+ "order_type": "BA2/160/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkXYt32ce0uymf2TA55Q6MADdHwaEVVf%2FJhySX1bIS65&caseno=BA2/160/2026&cCode=1&cino=UKHC010170982026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fdb3468c602c6d0c9d8a108509a0d03c4eb3563d1073a5120ff387d211f2693b",
+ "fetched_at": "2026-10-30T13:06:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

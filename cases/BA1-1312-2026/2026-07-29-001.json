@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1312/2026:2026-07-29-001",
+ "title": "ASMIT KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ASMIT KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1312/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-29",
+ "cnr": "UKHC010132242026",
+ "doc_kind": "order",
+ "order_type": "BA1/1312/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtWKETft4wGla%2BTITt6888ETTwLJ5QNUANVvqTr%2FGiOL&caseno=BA1/1312/2026&cCode=1&cino=UKHC010132242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "97c35f196d5a18797f6eb2089a4e08ea23ff6e49af780b7d9bb1e8946a07e627",
+ "fetched_at": "2026-10-30T13:05:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

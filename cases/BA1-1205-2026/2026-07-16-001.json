@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1205/2026:2026-07-16-001",
+ "title": "NARESH DHIMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "NARESH DHIMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1205/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-16",
+ "cnr": "UKHC010119482026",
+ "doc_kind": "order",
+ "order_type": "BA1/1205/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgxT9vH%2BsWwXwnBslPCzdXZxda0s6SjAVmPuDp2%2F8Fg4&caseno=BA1/1205/2026&cCode=1&cino=UKHC010119482026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b8965a38f6c298029f27333f1af109706ad55b5fb51d0568bdc847a921b79b05",
+ "fetched_at": "2026-10-30T13:04:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

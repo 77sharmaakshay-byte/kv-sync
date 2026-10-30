@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1857/2020:2020-12-30-001",
+ "title": "CHAUNDARI DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "CHAUNDARI DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1857/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-12-30",
+ "cnr": "UKHC010138792020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1857/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjAfYAKbfRDvPL%2BWvyUHs%2FIPSEnWX5HFbOM23SvQP%2B3pD&caseno=WPSS/1857/2020&cCode=1&cino=UKHC010138792020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6463ae03640699a0e3e69448f6e33548b6b8da135a59c50df3cfcbb01d207e8c",
+ "fetched_at": "2026-10-30T12:41:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

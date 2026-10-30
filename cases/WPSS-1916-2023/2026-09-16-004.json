@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1916/2023:2026-09-16-004",
+ "title": "MADAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MADAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1916/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010165452023",
+ "doc_kind": "order",
+ "order_type": "IA/4/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FAJsb1L%2FeMrlIjL2pVVCykYJpfHo06BxI%2BKOnvZvCgP&caseno=WPSS/1916/2023&cCode=1&cino=UKHC010165452023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "87a0408d62e722d7786f025ca0b6b11009febd2a5a5d486a36603b7ef725e29f",
+ "fetched_at": "2026-10-30T12:41:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

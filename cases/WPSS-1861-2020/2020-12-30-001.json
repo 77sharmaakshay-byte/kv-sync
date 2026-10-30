@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1861/2020:2020-12-30-001",
+ "title": "MULI DEVI versus STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY PUBLIC WORKS DEPARTMENT PWD",
+ "petitioner": "MULI DEVI",
+ "respondent": "STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY PUBLIC WORKS DEPARTMENT PWD",
+ "case_no": "WPSS/1861/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-12-30",
+ "cnr": "UKHC010138642020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1861/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjOrQdvr7v49QMPdqcK4Iv3mufdIewvrzQ0rCgVv8e0sZ&caseno=WPSS/1861/2020&cCode=1&cino=UKHC010138642020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f697870efacd7ecce50e9f16fd06a5fc721d02b2e1b9360155a21d366e7b6ac7",
+ "fetched_at": "2026-10-30T12:42:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

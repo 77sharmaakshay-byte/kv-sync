@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/249/2026:2026-07-16-001",
+ "title": "AFSANA versus RIZWAN",
+ "petitioner": "AFSANA",
+ "respondent": "RIZWAN",
+ "case_no": "AO/249/2026",
+ "case_type": "AO",
+ "decision_date": "2026-07-16",
+ "cnr": "UKHC010116012026",
+ "doc_kind": "order",
+ "order_type": "AO/249/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv9xP5U9uYTUC%2Fv6v2%2BTfHj9%2B%2F1gkwBILbdmbb%2F09vyI&caseno=AO/249/2026&cCode=1&cino=UKHC010116012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "66ab0966854a63f8adb8d199a53772833559988e001dfbc5a89b01981fa1f35e",
+ "fetched_at": "2026-10-30T12:44:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1862/2020:2020-12-30-001",
+ "title": "JAI SINGH versus STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY",
+ "petitioner": "JAI SINGH",
+ "respondent": "STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY",
+ "case_no": "WPSS/1862/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-12-30",
+ "cnr": "UKHC010138662020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1862/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjLkbPVhxBHD2DVMVbu9qLzCdD4hkDyPz7vGQwKBiVm25&caseno=WPSS/1862/2020&cCode=1&cino=UKHC010138662020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "afcf40ff6728bd1225630fe59bb366c5ea2263bcd79c9a10a43d73704b78213f",
+ "fetched_at": "2026-10-30T12:41:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

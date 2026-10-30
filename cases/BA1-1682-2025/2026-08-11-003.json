@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1682/2025:2026-08-11-003",
+ "title": "SHYAM BABU SAXENA versus STATE OF UTTARAKHAND",
+ "petitioner": "SHYAM BABU SAXENA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1682/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010141742025",
+ "doc_kind": "order",
+ "order_type": "BA1/1682/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm536wfyzkmH7mQFSlfwJ%2BGIlnFFsQm5a73Pq4Tvvjpwn&caseno=BA1/1682/2025&cCode=1&cino=UKHC010141742025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1bf9dc4bb3d8e3b1b8f76dded65fdcf1482e0e40b60d9329051d601eb982697a",
+ "fetched_at": "2026-10-30T12:55:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

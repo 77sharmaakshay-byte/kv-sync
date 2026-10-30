@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/63/2007:2015-12-10-001",
+ "title": "VIDYA JOSHI(Legal Heir) versus PRAKASH CHANDRA LOSALI",
+ "petitioner": "VIDYA JOSHI(Legal Heir)",
+ "respondent": "PRAKASH CHANDRA LOSALI",
+ "case_no": "FA/63/2007",
+ "case_type": "FA",
+ "decision_date": "2015-12-10",
+ "cnr": "UKHC010003752007",
+ "doc_kind": "order",
+ "order_type": "FA/63/2007",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=%2BbhrBWC3rS8i5ZPCS6REeBe2RP%2BJtgmeEKy3hpTdcA%2F1cRT5L%2BYcjVWB0EO8GS0s&caseno=FA/63/2007&cCode=1&cino=UKHC010003752007&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5036234e1b169413e28ad0b46f131c9ddae2c58091e1038f1fdc15c2db1bdfcc",
+ "fetched_at": "2026-10-30T13:17:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

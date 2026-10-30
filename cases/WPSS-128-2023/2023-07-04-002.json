@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/128/2023:2023-07-04-002",
+ "title": "SATISH CHANDRA BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "SATISH CHANDRA BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/128/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-07-04",
+ "cnr": "UKHC010010232023",
+ "doc_kind": "order",
+ "order_type": "WPSS/128/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9q5OCrtq4ga65Qk%2B9XO6iYATf2WYwMwm7InG42Oic%2F5&caseno=WPSS/128/2023&cCode=1&cino=UKHC010010232023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "acb8c3f752758b9291f25f11d9c6dce2a0a8931601b866d7bf7c2b9178df3380",
+ "fetched_at": "2026-10-30T12:47:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

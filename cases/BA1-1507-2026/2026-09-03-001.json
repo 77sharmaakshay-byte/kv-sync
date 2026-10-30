@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1507/2026:2026-09-03-001",
+ "title": "SUMIT LODHI versus STATE OF UTTARAKHAND",
+ "petitioner": "SUMIT LODHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1507/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010155022026",
+ "doc_kind": "order",
+ "order_type": "BA1/1507/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkAhPAtuWLzFc2N0czZ2ToA6luIfl8OwTtQFyDdEPLrh&caseno=BA1/1507/2026&cCode=1&cino=UKHC010155022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "50637cfac3720570950f1895c8622ac08b78dadec3bab333e77c7e5f8c60206e",
+ "fetched_at": "2026-10-30T13:07:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

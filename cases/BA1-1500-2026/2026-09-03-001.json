@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1500/2026:2026-09-03-001",
+ "title": "HARSH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "HARSH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1500/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010154862026",
+ "doc_kind": "order",
+ "order_type": "BA1/1500/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQq5vextKpSNsPUaUSQqE%2BCABfY%2FaxvRPhTR1ShPxYh%2Bg&caseno=BA1/1500/2026&cCode=1&cino=UKHC010154862026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "25008722a4635bf77428d1528c5011dbcd4a485b6aa96a5283595a5cc35823e7",
+ "fetched_at": "2026-10-30T13:06:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

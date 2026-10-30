@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/140/2019:2022-03-15-005",
+ "title": "MAJHAR MOHAMMAD KHAN versus WAQF MASJID PALTAN BAZAR AND IDGAH",
+ "petitioner": "MAJHAR MOHAMMAD KHAN",
+ "respondent": "WAQF MASJID PALTAN BAZAR AND IDGAH",
+ "case_no": "CLR/140/2019",
+ "case_type": "CLR",
+ "decision_date": "2022-03-15",
+ "cnr": "UKHC010186902019",
+ "doc_kind": "order",
+ "order_type": "CLR/140/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BKNPL9VV%2Bovq2yMW85awgh1SpO9tJOUvLLHc4862c1K&caseno=CLR/140/2019&cCode=1&cino=UKHC010186902019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bcf0e5c34fb1cf4b6fe718977e35501806dddddb771772ed893b7f5e3baab3c6",
+ "fetched_at": "2026-10-30T13:11:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

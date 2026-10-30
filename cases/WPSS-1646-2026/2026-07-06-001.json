@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1646/2026:2026-07-06-001",
+ "title": "HEM CHANDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "HEM CHANDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1646/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-06",
+ "cnr": "UKHC010109992026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1646/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoLntgL2wBwfdND7L1pCcWdlyHVXMi6Ef1ySUoeknwJ7&caseno=WPSS/1646/2026&cCode=1&cino=UKHC010109992026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0407836d081fbc7d05f8e22ec5238913407b2009a655438ea3c3792376729a7b",
+ "fetched_at": "2026-10-30T12:44:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

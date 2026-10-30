@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/307/2011:2026-05-22-003",
+ "title": "NATIONAL INSURANCE COMPANY LIMITED versus DR. JAIDEV NAUTIYAL",
+ "petitioner": "NATIONAL INSURANCE COMPANY LIMITED",
+ "respondent": "DR. JAIDEV NAUTIYAL",
+ "case_no": "AO/307/2011",
+ "case_type": "AO",
+ "decision_date": "2026-05-22",
+ "cnr": "UKHC010000742011",
+ "doc_kind": "order",
+ "order_type": "AO/307/2011",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYobo2H0eu%2BTnQf6WzwH7m71GclpIF5O1C%2FbZDzatAbxrK&caseno=AO/307/2011&cCode=1&cino=UKHC010000742011&state_code=15&court_code=1&&appFlag=",
+ "sha256": "35ca9e9bbbbf676341c7f87851145ab468952021f6832ffed2a9d74780ace623",
+ "fetched_at": "2026-10-30T12:41:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

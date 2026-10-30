@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/17/2013:2021-04-01-025",
+ "title": "DHARMENDRA KUMAR versus VIJAY SHARMA",
+ "petitioner": "DHARMENDRA KUMAR",
+ "respondent": "VIJAY SHARMA",
+ "case_no": "CLR/17/2013",
+ "case_type": "CLR",
+ "decision_date": "2021-04-01",
+ "cnr": "UKHC010001002013",
+ "doc_kind": "order",
+ "order_type": "CLR/17/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIWh6uq%2BZruMyt7w8eon8xHu4cd2siU2BeIFJH3mRSfVm&caseno=CLR/17/2013&cCode=1&cino=UKHC010001002013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bef52a440b935db8eba55410c6d02d84c7b19466dedb3629815b555d848d5c40",
+ "fetched_at": "2026-10-30T13:11:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

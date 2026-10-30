@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1429/2024:2025-11-28-009",
+ "title": "RAHUL ASWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL ASWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1429/2024",
+ "case_type": "WPSS",
+ "decision_date": "2025-11-28",
+ "cnr": "UKHC010119772024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1429/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcD13QwvdJesmqeSLqIKYgDgosU5xz2fr1wstgAjvdce6&caseno=WPSS/1429/2024&cCode=1&cino=UKHC010119772024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ded70effdf6ef2f40cb268d9d41b7c2a5670658dcdec974143b153b57c54f1d5",
+ "fetched_at": "2026-10-30T12:48:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

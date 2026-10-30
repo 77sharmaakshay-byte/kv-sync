@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1069/2021:2021-08-24-001",
+ "title": "DEVENDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "DEVENDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1069/2021",
+ "case_type": "WPSS",
+ "decision_date": "2021-08-24",
+ "cnr": "UKHC010099662021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1069/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkA8w9FG%2BgdXGvn8ybnoOnUM8jbmxecOV%2F5%2Bj5DJvd946&caseno=WPSS/1069/2021&cCode=1&cino=UKHC010099662021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8ad660a8b04752e0db1540c6f519e37326ff54e86e76b5706e336464e416ecda",
+ "fetched_at": "2026-10-30T12:47:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

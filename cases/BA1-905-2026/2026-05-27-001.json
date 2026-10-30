@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/905/2026:2026-05-27-001",
+ "title": "MOHD SAHZAD versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD SAHZAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/905/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-27",
+ "cnr": "UKHC010089642026",
+ "doc_kind": "order",
+ "order_type": "BA1/905/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvbdPJyv9sX0qH61vF0SUdjQHvPCrXzg9JLnJUVlQCF%2B&caseno=BA1/905/2026&cCode=1&cino=UKHC010089642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "02ec4c81aa60a10c695dda4c8deaefc2d5844aa37e9d62c229d321c19cc52587",
+ "fetched_at": "2026-10-30T13:04:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

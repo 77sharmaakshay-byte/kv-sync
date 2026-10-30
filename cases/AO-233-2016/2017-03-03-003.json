@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/233/2016:2017-03-03-003",
+ "title": "THE ORIENTAL INSURANCE COMPANY LTD. versus SMT. SHEEL SINGH",
+ "petitioner": "THE ORIENTAL INSURANCE COMPANY LTD.",
+ "respondent": "SMT. SHEEL SINGH",
+ "case_no": "AO/233/2016",
+ "case_type": "AO",
+ "decision_date": "2017-03-03",
+ "cnr": "UKHC010029902016",
+ "doc_kind": "order",
+ "order_type": "AO/233/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBe6EF0V2aRRwsOmDiEdY7KUeNat6M981C6ZprutEuR8K&caseno=AO/233/2016&cCode=1&cino=UKHC010029902016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4fa9754292309672affef72fa5c736851db295ff948ccfc68794899c5ff5f390",
+ "fetched_at": "2026-10-30T13:13:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

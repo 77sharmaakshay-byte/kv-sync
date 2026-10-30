@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2337/2024:2024-12-11-001",
+ "title": "RITU versus STATE OF UTTARAKHAND",
+ "petitioner": "RITU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2337/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-12-11",
+ "cnr": "UKHC010194652024",
+ "doc_kind": "order",
+ "order_type": "WPSS/2337/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcLKmco7HAia3xTMJEX8r5nPg7y0Do9FKkaeA54Z48WQd&caseno=WPSS/2337/2024&cCode=1&cino=UKHC010194652024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5a02a000c74d4f7272fad3cabd7132e27f83ab924357cdbe42c41acf53487259",
+ "fetched_at": "2026-10-30T12:43:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

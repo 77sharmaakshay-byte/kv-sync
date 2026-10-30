@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1273/2026:2026-09-22-002",
+ "title": "LOKESH GULATI versus STATE OF UTTARAKHAND",
+ "petitioner": "LOKESH GULATI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1273/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010127652026",
+ "doc_kind": "order",
+ "order_type": "BA1/1273/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkIuQiOb%2BrBgVQbxrVoUMFnoRR21ntwPjSBN57By92mJ&caseno=BA1/1273/2026&cCode=1&cino=UKHC010127652026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "30e4c9cc202f48cc800b9d372c92e6a6002f608a9fdd6721a56ffef22ca64c13",
+ "fetched_at": "2026-10-30T13:07:14+00:00",
+ "fetched_by": "fetch_live.py"
+}
