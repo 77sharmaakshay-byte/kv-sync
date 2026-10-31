@@ -1,0 +1,56 @@
+{
+ "date": "02-11-2026",
+ "fetched": "31-10-2026",
+ "source": "ehcr",
+ "uploads": [
+  "DAILY CAUSELIST|31.10.2026 06:18 PM",
+  "DAILY LIST REGISTRAR JUDICIAL|31.10.2026 06:09 PM"
+ ],
+ "benches": [
+  {
+   "kind": "Daily",
+   "bench": "DAILY LIST REGISTRAR JUDICIAL",
+   "type": "DAILY LIST REGISTRAR JUDICIAL",
+   "file": "ehcr-20261102_1013_0-01.pdf",
+   "source_pdf": "20261102_1013_0.pdf",
+   "uploaded": "31.10.2026 06:09 PM",
+   "chars": 9868
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 03",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261102_1001_0-01-court-03.pdf",
+   "source_pdf": "20261102_1001_0.pdf",
+   "uploaded": "31.10.2026 06:18 PM",
+   "chars": 43094
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 04",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261102_1001_0-02-court-04.pdf",
+   "source_pdf": "20261102_1001_0.pdf",
+   "uploaded": "31.10.2026 06:18 PM",
+   "chars": 15071
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 05",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261102_1001_0-03-court-05.pdf",
+   "source_pdf": "20261102_1001_0.pdf",
+   "uploaded": "31.10.2026 06:18 PM",
+   "chars": 19025
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 07",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261102_1001_0-04-court-07.pdf",
+   "source_pdf": "20261102_1001_0.pdf",
+   "uploaded": "31.10.2026 06:18 PM",
+   "chars": 21428
+  }
+ ]
+}
