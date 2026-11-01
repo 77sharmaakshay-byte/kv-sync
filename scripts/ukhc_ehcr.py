@@ -14,6 +14,7 @@ import html
 import http.cookiejar
 import json
 import re
+import ssl
 import sys
 import urllib.parse
 import urllib.request
@@ -27,7 +28,13 @@ ROW = re.compile(r"<td[^>]*>\s*(\d+)\s*</td>\s*<td[^>]*>(.*?)<br\s*/?>\s*<strong
 
 
 def opener():
-    op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+    # Site ka purana TLS server 'legacy renegotiation' maangta hai; OpenSSL 3 (Vercel, naya Python) ise mana karta hai.
+    # Sirf yahi chhoot — certificate ki jaanch poori rehti hai. Mac ka LibreSSL waise hi chalta hai, use mat chhedo.
+    ctx = ssl.create_default_context()
+    if ssl.OPENSSL_VERSION.startswith("OpenSSL 3"):
+        ctx.options |= getattr(ssl, "OP_LEGACY_SERVER_CONNECT", 0x4)
+    op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()),
+                                     urllib.request.HTTPSHandler(context=ctx))
     op.addheaders = [("User-Agent", UA), ("Referer", BASE + "view_causelist.php")]
     return op
 
