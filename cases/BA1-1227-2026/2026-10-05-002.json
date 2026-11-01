@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1227/2026:2026-10-05-002",
+ "title": "MANOJ KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MANOJ KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1227/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010122822026",
+ "doc_kind": "order",
+ "order_type": "BA1/1227/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtFMV0bnbYYdEiBLIEbbUe%2FNXK%2Bc4v0qeFpHQyqvtoob&caseno=BA1/1227/2026&cCode=1&cino=UKHC010122822026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "96855c22967e01c2d634a7c3296c73709fc736c0fac50454389c04fa313e12fc",
+ "fetched_at": "2026-11-01T08:11:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

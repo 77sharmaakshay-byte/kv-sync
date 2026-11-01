@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2282/2025:2025-12-30-001",
+ "title": "CHAMAN LAL versus COMMISSIONER EVEM SECRETARY",
+ "petitioner": "CHAMAN LAL",
+ "respondent": "COMMISSIONER EVEM SECRETARY",
+ "case_no": "WPSS/2282/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-12-30",
+ "cnr": "UKHC010208042025",
+ "doc_kind": "order",
+ "order_type": "WPSS/2282/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "PENSION MATTERS -258",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7RWRBbWsFlB7qE29SdTSSjjHlbK7v7j%2FGj2bt0Ezy06&caseno=WPSS/2282/2025&cCode=1&cino=UKHC010208042025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9258e388cd0db73a9e94373512669271ab5dd06ffb5da5c9cbe1473319ba3508",
+ "fetched_at": "2026-11-01T07:46:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

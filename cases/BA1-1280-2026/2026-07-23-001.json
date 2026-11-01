@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1280/2026:2026-07-23-001",
+ "title": "NIKHIL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "NIKHIL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1280/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-23",
+ "cnr": "UKHC010128242026",
+ "doc_kind": "order",
+ "order_type": "BA1/1280/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiphvIptqGLHLlINHXWGSr4mY1Mr2x7qHTjUxIiwsFf3&caseno=BA1/1280/2026&cCode=1&cino=UKHC010128242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "37b26e158385f9a46c178aefe830c1f26c0cf3d7a0bc6a15d3d7c7d71b8a80fe",
+ "fetched_at": "2026-11-01T08:07:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

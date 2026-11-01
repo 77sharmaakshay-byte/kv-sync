@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/307/2020:2020-07-23-002",
+ "title": "SMT. SHANTI LOHANI versus STATE OF UTTARAKHAND",
+ "petitioner": "SMT. SHANTI LOHANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/307/2020",
+ "case_type": "WPMS",
+ "decision_date": "2020-07-23",
+ "cnr": "UKHC010018112020",
+ "doc_kind": "order",
+ "order_type": "WPMS/307/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjK1G5pt387nFOB87XCm6SjGWqRfSzZUKBxkle58ExTCV&caseno=WPMS/307/2020&cCode=1&cino=UKHC010018112020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e377969e5369891d3acf9fddfbdf9d33365e05b3b9bc4ce4ac8b37b121318c78",
+ "fetched_at": "2026-11-01T07:58:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

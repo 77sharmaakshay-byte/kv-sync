@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/760/2026:2026-09-30-001",
+ "title": "SONIKA ALIAS SUMAN versus HARISH CHANDRA",
+ "petitioner": "SONIKA ALIAS SUMAN",
+ "respondent": "HARISH CHANDRA",
+ "case_no": "CRLR/760/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010172972026",
+ "doc_kind": "order",
+ "order_type": "CRLR/760/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQip8zy9U5JtwjDV5VJ%2BILer0zNN3xEao3TiAzVIWxAz0&caseno=CRLR/760/2026&cCode=1&cino=UKHC010172972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b1b93195056cb12a59599187c9f9f35457c526b7ba0fcac49c2151e431d184ec",
+ "fetched_at": "2026-11-01T08:14:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

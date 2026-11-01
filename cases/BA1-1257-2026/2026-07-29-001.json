@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1257/2026:2026-07-29-001",
+ "title": "SUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1257/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-29",
+ "cnr": "UKHC010125492026",
+ "doc_kind": "order",
+ "order_type": "BA1/1257/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQggN9KszcmmNlMEjIb4jRDL1h5pI4DKEGmNLkkoIf2Rz&caseno=BA1/1257/2026&cCode=1&cino=UKHC010125492026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f3855a6da20c54bd6b16ecafa45a151125ef53a39a0cb7ea5234c27023ee1e92",
+ "fetched_at": "2026-11-01T08:08:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

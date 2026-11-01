@@ -6,7 +6,7 @@
  "registration_number": "WPSS /2230/2022",
  "registration_date": "2022-11-24",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-02",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
@@ -63,15 +63,22 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-02",
+   "business_date": "2026-10-26",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-26",
-   "business_date": "2026-09-11",
+   "business_date": null,
    "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2026-10-26",
-   "business_date": null,
+   "business_date": "2026-09-11",
    "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"

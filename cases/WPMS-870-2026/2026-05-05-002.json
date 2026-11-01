@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/870/2026:2026-05-05-002",
+ "title": "HINDUSTAN ZINC LIMITED versus STATE INFRASTRUCTURE AND INDUSTRIAL DEVELOPMENT CORPORATION",
+ "petitioner": "HINDUSTAN ZINC LIMITED",
+ "respondent": "STATE INFRASTRUCTURE AND INDUSTRIAL DEVELOPMENT CORPORATION",
+ "case_no": "WPMS/870/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-05",
+ "cnr": "UKHC010053752026",
+ "doc_kind": "order",
+ "order_type": "WPMS/870/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpRtWh%2FFTh%2FmqnCc%2FLmSWUy1pwPtm1ki%2BYV6SmgY%2FBCG&caseno=WPMS/870/2026&cCode=1&cino=UKHC010053752026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f212901ed2639e8d8f5a200281b46b43decc076c0fea3c61c6874936dd55fee5",
+ "fetched_at": "2026-11-01T07:56:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

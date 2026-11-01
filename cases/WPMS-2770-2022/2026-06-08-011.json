@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2770/2022:2026-06-08-011",
+ "title": "M/S AEKANSH ENTERPRISES HAVING ITS REGISTERED versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S AEKANSH ENTERPRISES HAVING ITS REGISTERED",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2770/2022",
+ "case_type": "WPMS",
+ "decision_date": "2026-06-08",
+ "cnr": "UKHC010162612022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2770/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05x%2BRjQ4qtAaQeg47bloJ6MxIdheCsUJ4e3EUuAaZJ39&caseno=WPMS/2770/2022&cCode=1&cino=UKHC010162612022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e22389856a447c74e9c95ef690c365fdbf1580d1f6e81ff45159bab33d6806e1",
+ "fetched_at": "2026-11-01T07:59:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,10 +6,10 @@
  "registration_number": "WPSB /677/2026",
  "registration_date": "2026-10-15",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
- "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
- "status": "",
+ "next_hearing_date": null,
+ "decision_date": "2026-10-29",
+ "case_stage": "",
+ "status": "Case disposed",
  "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Division Bench",
  "court_number_and_judge": "",
@@ -53,7 +53,56 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-29",
+   "purpose": "Disposed",
+   "judge": "",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": "2026-10-29",
+   "business_date": "2026-10-27",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-10-27",
+   "business_date": "2026-10-26",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-26",
+   "order_type": "WPSB/677/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgzlLI8Oq82xNMngjw3dO%2FBLMArICBfkxBTvxq96HIwh&caseno=WPSB/677/2026&cCode=1&cino=UKHC010187332026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-27",
+   "order_type": "WPSB/677/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgzlLI8Oq82xNMngjw3dO%2FAJiQeJa5noli%2B%2FHdHmx9aq&caseno=WPSB/677/2026&cCode=1&cino=UKHC010187332026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-29",
+   "order_type": "WPSB/677/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgzlLI8Oq82xNMngjw3dO%2FDUDbltlpRUHSvpPOqrl9iG&caseno=WPSB/677/2026&cCode=1&cino=UKHC010187332026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

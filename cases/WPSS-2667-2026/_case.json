@@ -6,7 +6,7 @@
  "registration_number": "WPSS /2667/2026",
  "registration_date": "2026-10-12",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-02",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
@@ -55,6 +55,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-02",
+   "business_date": "2026-10-26",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": null,
    "business_date": "2026-10-14",
    "purpose": "FRESH CASES AS DEFECTIVE -236",
@@ -62,5 +69,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-26",
+   "order_type": "WPSS/2667/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuwEoTG5362fumPj3fIwBbAjiHnmuC7suqhkc%2B6hpH2A&caseno=WPSS/2667/2026&cCode=1&cino=UKHC010183682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

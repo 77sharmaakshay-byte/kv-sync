@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2770/2022:2022-11-18-002",
+ "title": "M/S AEKANSH ENTERPRISES HAVING ITS REGISTERED versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S AEKANSH ENTERPRISES HAVING ITS REGISTERED",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2770/2022",
+ "case_type": "WPMS",
+ "decision_date": "2022-11-18",
+ "cnr": "UKHC010162612022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2770/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05x%2BRjQ4qtAaQeg47bloJ6M%2BnRf%2Fk6yLcB8%2FdFbFjX10&caseno=WPMS/2770/2022&cCode=1&cino=UKHC010162612022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "752f392f48adf7f2c853b5f85fb7e9415cb3aa5539a0b2282761d33311669775",
+ "fetched_at": "2026-11-01T07:59:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

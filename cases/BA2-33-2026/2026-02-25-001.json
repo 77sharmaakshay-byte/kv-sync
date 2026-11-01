@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/33/2026:2026-02-25-001",
+ "title": "RUBINA versus STATE OF UTTARAKHAND",
+ "petitioner": "RUBINA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/33/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-02-25",
+ "cnr": "UKHC010028642026",
+ "doc_kind": "order",
+ "order_type": "BA2/33/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqv9oAA3fBqFz8Ygy7MD8cKodJOwq3Rw5RT%2Bk9zMJrNB&caseno=BA2/33/2026&cCode=1&cino=UKHC010028642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c9b665c0753c4528bb43ddcfe3c702c446c32a529297bbf823f5510762c25a46",
+ "fetched_at": "2026-11-01T07:47:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

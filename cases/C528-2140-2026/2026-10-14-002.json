@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2140/2026:2026-10-14-002",
+ "title": "GOVIND SINGH versus PRIYANKA",
+ "petitioner": "GOVIND SINGH",
+ "respondent": "PRIYANKA",
+ "case_no": "C528/2140/2026",
+ "case_type": "C528",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010176422026",
+ "doc_kind": "order",
+ "order_type": "C528/2140/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqFPPr1zToXgw2JXSF9JWPwPADzBdEkW7wCLS%2BVXH%2FPP&caseno=C528/2140/2026&cCode=1&cino=UKHC010176422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e45a9a9d415bcf679172a29b23eb559a389d0feba49fe7ea644b87ff529c0cc0",
+ "fetched_at": "2026-11-01T08:00:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/137/2026:2026-08-21-001",
+ "title": "SANTOSH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SANTOSH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/137/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-08-21",
+ "cnr": "UKHC010148962026",
+ "doc_kind": "order",
+ "order_type": "BA2/137/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQogVSqn%2B25XpLDHzLc7iR3KNwKPdiuj%2BEEhF7PWNCc8h&caseno=BA2/137/2026&cCode=1&cino=UKHC010148962026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ba4fbe73b63c182978f65b1c46361b18cc96a15995793886a1e8d33741d4979",
+ "fetched_at": "2026-11-01T08:09:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

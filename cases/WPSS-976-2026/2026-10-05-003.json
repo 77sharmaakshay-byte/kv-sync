@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/976/2026:2026-10-05-003",
+ "title": "SIPAHI SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SIPAHI SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/976/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010053632026",
+ "doc_kind": "order",
+ "order_type": "WPSS/976/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "PENSION MATTERS -258",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQslQZPcApRr6pSItRquUIOpvS1HQ2DSL563FSLGt6uEj&caseno=WPSS/976/2026&cCode=1&cino=UKHC010053632026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ae65c6f108eb00336f5b53fc46dc40e754cf2f5210f2137556d56d95b16299bf",
+ "fetched_at": "2026-11-01T07:47:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

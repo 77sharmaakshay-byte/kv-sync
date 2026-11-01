@@ -6,7 +6,7 @@
  "registration_number": "CRLR /748/2022",
  "registration_date": "2022-12-07",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-02",
  "decision_date": null,
  "case_stage": "AFTER FRESH MATTERS -128",
  "status": "",
@@ -68,6 +68,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-02",
+   "business_date": "2026-10-14",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -183,15 +190,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": null,
-   "business_date": "2026-05-13",
+   "hearing_date": "2026-05-19",
+   "business_date": null,
    "purpose": "PART HEARD MATTERS -132",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2026-05-19",
-   "business_date": null,
+   "hearing_date": null,
+   "business_date": "2026-05-13",
    "purpose": "PART HEARD MATTERS -132",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -372,15 +379,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2024-11-28",
-   "business_date": null,
+   "hearing_date": "2024-11-22",
+   "business_date": "2024-11-21",
    "purpose": "ADMISSION MATTERS (TOP) -97",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2024-11-22",
-   "business_date": "2024-11-21",
+   "hearing_date": "2024-11-28",
+   "business_date": null,
    "purpose": "ADMISSION MATTERS (TOP) -97",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -855,6 +862,15 @@
    "order_type": "CRLR/748/2022",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08lnTqN3Em54UxmCCFZBcEXPQc4%2Fh0MLAIEqzDpXWsxi&caseno=CRLR/748/2022&cCode=1&cino=UKHC010179982022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-12",
+   "order_type": "CRLR/748/2022",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08lnTqN3Em54UxmCCFZBcEXtdNg049Aqeg5XzQip7jIi&caseno=CRLR/748/2022&cCode=1&cino=UKHC010179982022&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

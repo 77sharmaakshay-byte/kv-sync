@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1221/2023:2024-06-20-005",
+ "title": "GURU DATT SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "GURU DATT SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1221/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-06-20",
+ "cnr": "UKHC010110152023",
+ "doc_kind": "order",
+ "order_type": "IA/1/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "PENSION MATTERS -258",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYy7c4j06LPgAZCvdXNJlGMmiIhY9yQKx%2FdY4F2Sz8NYR&caseno=WPSS/1221/2023&cCode=1&cino=UKHC010110152023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "928196247c2a85b2b51bc91904b4c5cebf2265f6fe7eb9884a3a2155c1e10b40",
+ "fetched_at": "2026-11-01T07:45:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

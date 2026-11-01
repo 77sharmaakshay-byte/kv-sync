@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1481/2026:2026-10-05-002",
+ "title": "ATIQ versus STATE OF UTTARAKHAND",
+ "petitioner": "ATIQ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1481/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010152872026",
+ "doc_kind": "order",
+ "order_type": "BA1/1481/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQopZd0Jx%2FFdRmgQOmZtq%2FIwIHmA6%2Bc40Dhnmc28pn1bo&caseno=BA1/1481/2026&cCode=1&cino=UKHC010152872026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f32bcf7785561514da378aadf562e4da12e2b90f369d481cc19e32a8921f1d48",
+ "fetched_at": "2026-11-01T08:08:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

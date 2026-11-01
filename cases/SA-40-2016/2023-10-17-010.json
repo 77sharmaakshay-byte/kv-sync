@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/40/2016:2023-10-17-010",
+ "title": "GANPAT versus BASANT SINGH",
+ "petitioner": "GANPAT",
+ "respondent": "BASANT SINGH",
+ "case_no": "SA/40/2016",
+ "case_type": "SA",
+ "decision_date": "2023-10-17",
+ "cnr": "UKHC010031372016",
+ "doc_kind": "order",
+ "order_type": "SA/40/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBWfcyKK7Hm5YOcsCWrldf0r8SUWLtymlBc5WDSxBmS67&caseno=SA/40/2016&cCode=1&cino=UKHC010031372016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "813767df5c07559218aa1e2ce94f31dd834ba0296050381ec2e94b1867e097c6",
+ "fetched_at": "2026-11-01T08:16:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

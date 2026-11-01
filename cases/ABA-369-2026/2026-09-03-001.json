@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/369/2026:2026-09-03-001",
+ "title": "HARVINDER SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARVINDER SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/369/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010155032026",
+ "doc_kind": "order",
+ "order_type": "ABA/369/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnbZNNkhqwOh1CfH3pntVjupbY3RXDktXuYgx6WaMLxP&caseno=ABA/369/2026&cCode=1&cino=UKHC010155032026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d6400d8ac7087d588ba360bcf574cbedba6dcb8b18e291f558f473a52069d402",
+ "fetched_at": "2026-11-01T07:56:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

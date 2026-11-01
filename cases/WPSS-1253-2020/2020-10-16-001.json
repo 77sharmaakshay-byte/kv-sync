@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1253/2020:2020-10-16-001",
+ "title": "VIDYADHAR PANDEY versus STATE OF UTTARAKHAND",
+ "petitioner": "VIDYADHAR PANDEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1253/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-10-16",
+ "cnr": "UKHC010104232020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1253/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "PENSION MATTERS -258",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjF7lkI37Ut61jaxQFADHzZUfeAE0lHlC61189e3pWQ7m&caseno=WPSS/1253/2020&cCode=1&cino=UKHC010104232020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f2efcdcc920744c61989e0018e2ab48f61fbccde0a01e822b76b4a678a646b10",
+ "fetched_at": "2026-11-01T07:43:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

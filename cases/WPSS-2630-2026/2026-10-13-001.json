@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2630/2026:2026-10-13-001",
+ "title": "BISHNU SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BISHNU SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2630/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010181432026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2630/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsapM2rUbBM5H4l2yrGqtj0%2FOHU2DxQLWffjKZ9Ilkx0&caseno=WPSS/2630/2026&cCode=1&cino=UKHC010181432026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eae086395ab4db9523bc3a47f7c7c29e79a42108cba6068cd7907559ed414489",
+ "fetched_at": "2026-11-01T07:42:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

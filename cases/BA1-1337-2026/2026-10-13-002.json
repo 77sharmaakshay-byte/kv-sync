@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1337/2026:2026-10-13-002",
+ "title": "PARAMJEET SINGHA ALIAS BOBBY versus STATE OF UTTARAKHAND",
+ "petitioner": "PARAMJEET SINGHA ALIAS BOBBY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1337/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010134922026",
+ "doc_kind": "order",
+ "order_type": "BA1/1337/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgFaCjYxyH2q%2F%2B8YH4Cq0izu5xHNmzvEof8vsIA1dlU5&caseno=BA1/1337/2026&cCode=1&cino=UKHC010134922026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e62334a670bd416986a06fd396b2a453f1bb39946d5260f1d97d7c5493f1f1ef",
+ "fetched_at": "2026-11-01T08:08:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

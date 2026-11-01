@@ -1,0 +1,20 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/40/2016:2016-03-11-001",
+ "title": "GANPAT versus BASANT SINGH",
+ "petitioner": "GANPAT",
+ "respondent": "BASANT SINGH",
+ "case_no": "SA/40/2016",
+ "case_type": "SA",
+ "decision_date": "2016-03-11",
+ "cnr": "UKHC010031372016",
+ "doc_kind": "order",
+ "order_type": "SA/40/2016",
+ "judges": null,
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBWfcyKK7Hm5YOcsCWrldf0pMTXx%2BquW73264te1SEBDP&caseno=SA/40/2016&cCode=1&cino=UKHC010031372016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6f4ade441e6e24a5b0a2925ac29d81471a7a5519e9761070fa21d3f54aa0d8ff",
+ "fetched_at": "2026-11-01T08:16:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

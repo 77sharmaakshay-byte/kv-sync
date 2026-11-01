@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1522/2026:2026-09-24-001",
+ "title": "SAGAR SINGH RAWAT versus STATE OF UTTARAKHAND",
+ "petitioner": "SAGAR SINGH RAWAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1522/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010157642026",
+ "doc_kind": "order",
+ "order_type": "BA1/1522/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhOzcxSnfrh41PcBtPU9dPwaOz3dZpbBJj%2FvFQw9cf8v&caseno=BA1/1522/2026&cCode=1&cino=UKHC010157642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eacc5ec65bf7bbab762b9eb1ed08936091752d04dd24a45eefca643aa489b109",
+ "fetched_at": "2026-11-01T08:12:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1221/2022:2026-10-14-009",
+ "title": "MADAN SINGH POKHRIYAL versus PRESCRIBED AUTHORITY SPECIAL LAND ACQUISITION OFFICER COLLECTRATE COMPOUND DEHRADUN",
+ "petitioner": "MADAN SINGH POKHRIYAL",
+ "respondent": "PRESCRIBED AUTHORITY SPECIAL LAND ACQUISITION OFFICER COLLECTRATE COMPOUND DEHRADUN",
+ "case_no": "WPMS/1221/2022",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010073332022",
+ "doc_kind": "order",
+ "order_type": "WPMS/1221/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07p%2BT9pDbxQrAE3c%2FugDKiUmu07mLyHPkfJwUQrxEn5p&caseno=WPMS/1221/2022&cCode=1&cino=UKHC010073332022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3e950f27c03c83541b1d2651fdda1d5e647dea50b29eb2c48093fecc89bf936c",
+ "fetched_at": "2026-11-01T07:56:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

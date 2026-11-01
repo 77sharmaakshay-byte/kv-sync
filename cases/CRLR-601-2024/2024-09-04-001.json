@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/601/2024:2024-09-04-001",
+ "title": "MONIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "MONIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/601/2024",
+ "case_type": "CRLR",
+ "decision_date": "2024-09-04",
+ "cnr": "UKHC010136112024",
+ "doc_kind": "order",
+ "order_type": "CRLR/601/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKp5T0OH%2BLifPLpeLV04PMEnnRuNt6tjcSywWCPKAtCt&caseno=CRLR/601/2024&cCode=1&cino=UKHC010136112024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d79ba57c1dbed348089c49c5ddd8be0b4cd04fd6da0168c7e43f57e6fd30979f",
+ "fetched_at": "2026-11-01T08:14:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/792/2026:2026-10-13-008",
+ "title": "PINKESH versus STATE OF UTTARAKHAND",
+ "petitioner": "PINKESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/792/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010039972026",
+ "doc_kind": "order",
+ "order_type": "WPSS/792/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PERSONAL APPEARANCE (TOP) -123",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhNWrjjm7wA9kc2hhE6Sdyjq2T4t2%2FqNO2Py1vXfMrZk&caseno=WPSS/792/2026&cCode=1&cino=UKHC010039972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0f2785598a649219707cd4bf91404a79c72f35c20b74a20a78ed65e6bc1034c5",
+ "fetched_at": "2026-11-01T07:34:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

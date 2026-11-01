@@ -1,0 +1,84 @@
+{
+ "cnr_number": "UKHC010181172026",
+ "case_type": "CLCON",
+ "filing_number": "CLCON /9421/2026",
+ "filing_date": "2026-10-08",
+ "registration_number": "CLCON /610/2026",
+ "registration_date": "2026-10-08",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-02",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "SUNIL KUMAR PANT",
+   "advocate": "PIYUSH TIWARI,SANDEEP TIWARI,SANDEEP TIWARI, ,SHALINI KOTIYAL,YASH GAUTAM,SANDEEP TIWARI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "DHIRAJ GARBAYAL",
+   "advocate": ""
+  },
+  {
+   "name": "ANURADHA PAL",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Contempt of Courts Act, 1971 (Act No. 70 of 1971)",
+   "sections": "12"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-12",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-02",
+   "business_date": "2026-10-27",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-27",
+   "business_date": "2026-10-12",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-10-12",
+   "order_type": "CLCON/610/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr5cMBMQYOeup3wV2P8JmroI%2FE3uHlDLNzu14IHRJ0bx&caseno=CLCON/610/2026&cCode=1&cino=UKHC010181172026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-27",
+   "order_type": "CLCON/610/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr5cMBMQYOeup3wV2P8Jmrr6yAkX55yLljbghozBpFV7&caseno=CLCON/610/2026&cCode=1&cino=UKHC010181172026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

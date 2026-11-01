@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1276/2026:2026-07-23-001",
+ "title": "AJAY KISHORE DEVLI versus STATE OF UTTARAKHAND",
+ "petitioner": "AJAY KISHORE DEVLI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1276/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-23",
+ "cnr": "UKHC010127772026",
+ "doc_kind": "order",
+ "order_type": "BA1/1276/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQma4JJmZ3Lggn7PpwWCC1e1w6z9G6LST%2BJADFVfYFovt&caseno=BA1/1276/2026&cCode=1&cino=UKHC010127772026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "df368f042fd68e5b0f27664d61fddc49dfad2617ff8e8c2f986239143abe31fc",
+ "fetched_at": "2026-11-01T08:08:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

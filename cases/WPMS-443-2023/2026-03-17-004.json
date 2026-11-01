@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/443/2023:2026-03-17-004",
+ "title": "SOBAN SINGH NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "SOBAN SINGH NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/443/2023",
+ "case_type": "WPMS",
+ "decision_date": "2026-03-17",
+ "cnr": "UKHC010024762023",
+ "doc_kind": "order",
+ "order_type": "WPMS/443/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7JLMuJYJxRk%2BauZVIMjF8muXaTNRQwoif43reNk3JCH&caseno=WPMS/443/2023&cCode=1&cino=UKHC010024762023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b062c37e1dfc91be57289be1f65df5fa4cb611561ac0197df731deb8cf0d7470",
+ "fetched_at": "2026-11-01T07:57:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

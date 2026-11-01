@@ -6,11 +6,11 @@
  "registration_number": "WPSS /2703/2026",
  "registration_date": "2026-10-14",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-11-02",
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "Registrar (Judicial)",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -29,7 +29,7 @@
   },
   {
    "name": "INDIAN INSTITUTE OF MANAGEMENT KASHIPUR",
-   "advocate": ""
+   "advocate": "TANMAY TIWARI"
   },
   {
    "name": "SHRI PRAKASH CHANDRA",
@@ -49,7 +49,31 @@
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-02",
+   "business_date": "2026-10-29",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-16",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-29",
+   "order_type": "WPSS/2703/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmnKFHlCCo9y0S%2FEA%2FYAnIcLNnbBsiFb7%2BPxnxw3icSo&caseno=WPSS/2703/2026&cCode=1&cino=UKHC010186632026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

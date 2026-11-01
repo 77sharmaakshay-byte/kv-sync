@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1145/2026:2026-10-07-002",
+ "title": "SELEMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SELEMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1145/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010113082026",
+ "doc_kind": "order",
+ "order_type": "BA1/1145/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQplLuJ2mvIv6jfNEalW6gPtVx1gegTmmgwl4Y%2FUY0kKf&caseno=BA1/1145/2026&cCode=1&cino=UKHC010113082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "afc10f2549928cb161c41a01a30131e94b52a76d304f1bbec4030443342b55c1",
+ "fetched_at": "2026-11-01T08:07:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

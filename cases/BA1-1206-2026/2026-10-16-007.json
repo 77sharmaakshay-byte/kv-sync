@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1206/2026:2026-10-16-007",
+ "title": "SANJAY JAIN versus STATE OF UTTARAKHAND",
+ "petitioner": "SANJAY JAIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1206/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-16",
+ "cnr": "UKHC010119612026",
+ "doc_kind": "order",
+ "order_type": "BA1/1206/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuT0ZKY%2Fk3y3AUDmmhFVfRCB3j%2FEIUC6wwM6cjDIngZj&caseno=BA1/1206/2026&cCode=1&cino=UKHC010119612026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6e1a110cc5cd41142696ad88b6b4551402d259cb1e88a76d1bee9a24a372754c",
+ "fetched_at": "2026-11-01T08:08:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

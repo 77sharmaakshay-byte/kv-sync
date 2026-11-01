@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/233/2020:2025-02-10-012",
+ "title": "SULEMAN versus SADAN LAL",
+ "petitioner": "SULEMAN",
+ "respondent": "SADAN LAL",
+ "case_no": "CLCON/233/2020",
+ "case_type": "CLCON",
+ "decision_date": "2025-02-10",
+ "cnr": "UKHC010067742020",
+ "doc_kind": "order",
+ "order_type": "CLCON/233/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHlqMIYebazXP2CgvtthNE5p9f%2FiI%2F4l6gAGiJs7xPcp&caseno=CLCON/233/2020&cCode=1&cino=UKHC010067742020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "32d1ae9e9d0eaae91c2b8774a8a325ef374d00739a9db75877606a165db93020",
+ "fetched_at": "2026-11-01T07:57:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

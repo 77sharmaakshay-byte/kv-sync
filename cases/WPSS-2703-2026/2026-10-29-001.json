@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2703/2026:2026-10-29-001",
+ "title": "RANJAY KUMAR versus UNION OF INDIA",
+ "petitioner": "RANJAY KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/2703/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010186632026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2703/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmnKFHlCCo9y0S%2FEA%2FYAnIcLNnbBsiFb7%2BPxnxw3icSo&caseno=WPSS/2703/2026&cCode=1&cino=UKHC010186632026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7951527a11447032283fb2897626573c81440e490e52a26421a9b7b0549df7e1",
+ "fetched_at": "2026-11-01T07:39:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

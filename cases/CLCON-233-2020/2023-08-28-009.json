@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/233/2020:2023-08-28-009",
+ "title": "SULEMAN versus SADAN LAL",
+ "petitioner": "SULEMAN",
+ "respondent": "SADAN LAL",
+ "case_no": "CLCON/233/2020",
+ "case_type": "CLCON",
+ "decision_date": "2023-08-28",
+ "cnr": "UKHC010067742020",
+ "doc_kind": "order",
+ "order_type": "CLCON/233/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHlqMIYebazXP2CgvtthNE5MsrQDdupJ18WXb0Roj7ml&caseno=CLCON/233/2020&cCode=1&cino=UKHC010067742020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "76bfb761360b4d91c3335aa05c1f26346cb0aa57d02ad56625fd7156dee64934",
+ "fetched_at": "2026-11-01T07:57:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

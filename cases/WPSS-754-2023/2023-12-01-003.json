@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/754/2023:2023-12-01-003",
+ "title": "RAMESH CHANDRA SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMESH CHANDRA SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/754/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-01",
+ "cnr": "UKHC010077872023",
+ "doc_kind": "order",
+ "order_type": "WPSS/754/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "PENSION MATTERS -258",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7eGwtZ1Im8MsQnWw9VkoAGUEXGKo6BKX%2FUuP5U4NBA%2B&caseno=WPSS/754/2023&cCode=1&cino=UKHC010077872023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6c62fd5904d295a1b1f098ddca916321d8663fcad118215c39816ab4ae843096",
+ "fetched_at": "2026-11-01T07:44:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

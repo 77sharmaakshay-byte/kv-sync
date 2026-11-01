@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/384/2026:2026-10-07-002",
+ "title": "ABDUL REHMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "ABDUL REHMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/384/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010162322026",
+ "doc_kind": "order",
+ "order_type": "ABA/384/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr8UVJ4T4ua3ib3jwYIlJWpCJueoLu9NA9NrJ61793y6&caseno=ABA/384/2026&cCode=1&cino=UKHC010162322026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "687c6711ca86097d07e9fe60a101777d2199762891677c5202555f58fe18571a",
+ "fetched_at": "2026-11-01T07:55:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

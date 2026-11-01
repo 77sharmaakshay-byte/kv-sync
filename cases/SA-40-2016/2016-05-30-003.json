@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/40/2016:2016-05-30-003",
+ "title": "GANPAT versus BASANT SINGH",
+ "petitioner": "GANPAT",
+ "respondent": "BASANT SINGH",
+ "case_no": "SA/40/2016",
+ "case_type": "SA",
+ "decision_date": "2016-05-30",
+ "cnr": "UKHC010031372016",
+ "doc_kind": "order",
+ "order_type": "SA/40/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBWfcyKK7Hm5YOcsCWrldf0pjVfW%2BDd6XaZQQd97nO7xQ&caseno=SA/40/2016&cCode=1&cino=UKHC010031372016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "322116c3170e0bb152b741f27dff1295cb0f095653840aae796935ccea959e8f",
+ "fetched_at": "2026-11-01T08:16:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

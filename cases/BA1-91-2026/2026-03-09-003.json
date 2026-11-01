@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/91/2026:2026-03-09-003",
+ "title": "MAHESH versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/91/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-03-09",
+ "cnr": "UKHC010010522026",
+ "doc_kind": "order",
+ "order_type": "BA1/91/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmvpIZRcRRF306Zl0%2FBDMceiVqz50MoIxymfR7kNsstC&caseno=BA1/91/2026&cCode=1&cino=UKHC010010522026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f7a5d1cd44bd749e9a60329e4e3d391c7de733d71e87bc680dc767eeb00dc624",
+ "fetched_at": "2026-11-01T08:07:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

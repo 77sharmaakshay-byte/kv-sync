@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2364/2023:2024-01-09-002",
+ "title": "CHANDAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2364/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-09",
+ "cnr": "UKHC010209322023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2364/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "PENSION MATTERS -258",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYwuQt4PfgjQh%2FCMovWSVcppQZcUAvd1qh62fU1M9uSO1&caseno=WPSS/2364/2023&cCode=1&cino=UKHC010209322023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "81756ae3f91c923dcc737bc16883aeddfa516f1613570ea0e8cb444c52307842",
+ "fetched_at": "2026-11-01T07:46:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

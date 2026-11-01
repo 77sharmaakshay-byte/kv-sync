@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/13/2012:2013-09-25-003",
+ "title": "SMT. RAJ KUMARI  AGGARWAL (DECEASED)(Legal Heir) versus SMT. GYAN KAUR",
+ "petitioner": "SMT. RAJ KUMARI  AGGARWAL (DECEASED)(Legal Heir)",
+ "respondent": "SMT. GYAN KAUR",
+ "case_no": "SA/13/2012",
+ "case_type": "SA",
+ "decision_date": "2013-09-25",
+ "cnr": "UKHC010006282012",
+ "doc_kind": "order",
+ "order_type": "SA/13/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrCqpXngyKqGtx2tNPcO5Nl5QWmIVcpH8U7qCB4UVWO49&caseno=SA/13/2012&cCode=1&cino=UKHC010006282012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "86efc8ca575c6729c2cb4d29cc1942e1249c8da2361eae08ccde8165edad5431",
+ "fetched_at": "2026-11-01T08:13:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

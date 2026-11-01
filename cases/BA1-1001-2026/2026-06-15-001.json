@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1001/2026:2026-06-15-001",
+ "title": "TINKU versus STATE OF UTTARAKHAND",
+ "petitioner": "TINKU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1001/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-15",
+ "cnr": "UKHC010097582026",
+ "doc_kind": "order",
+ "order_type": "BA1/1001/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlV3ocgv7JBe9rKoIUWT27331gzLwPRbFnBADko%2Fz8ah&caseno=BA1/1001/2026&cCode=1&cino=UKHC010097582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3ddacef86d5faa5de413035c4cf436de5a8714de7edda66bbff7c6126d98cad7",
+ "fetched_at": "2026-11-01T08:11:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2770/2022:2026-05-30-008",
+ "title": "M/S AEKANSH ENTERPRISES HAVING ITS REGISTERED versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S AEKANSH ENTERPRISES HAVING ITS REGISTERED",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2770/2022",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-30",
+ "cnr": "UKHC010162612022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2770/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05x%2BRjQ4qtAaQeg47bloJ6MoOnIJIIL12amUDfJi6EUV&caseno=WPMS/2770/2022&cCode=1&cino=UKHC010162612022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9584e45478e248d0ad9fa7aa3bc99f4cc6f9c9c33af2860f65f940acb3c3c058",
+ "fetched_at": "2026-11-01T07:59:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

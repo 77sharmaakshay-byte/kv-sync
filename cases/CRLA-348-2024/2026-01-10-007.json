@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/348/2024:2026-01-10-007",
+ "title": "SURESH SHARMA versus DANISH KHAN",
+ "petitioner": "SURESH SHARMA",
+ "respondent": "DANISH KHAN",
+ "case_no": "CRLA/348/2024",
+ "case_type": "CRLA",
+ "decision_date": "2026-01-10",
+ "cnr": "UKHC010096392024",
+ "doc_kind": "order",
+ "order_type": "CRLA/348/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKq1kN3fISxlcxLYSpHEInu9uOaCUZuPAW3CXzwtAlZk&caseno=CRLA/348/2024&cCode=1&cino=UKHC010096392024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b229bb3394107d849e61c3d5d5b2642d75ac6a6170c42e1bbc3da3ab80278d77",
+ "fetched_at": "2026-11-01T08:06:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,7 +6,7 @@
  "registration_number": "WPSS /2451/2026",
  "registration_date": "2026-09-18",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-02",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
@@ -61,19 +61,19 @@
  "respondents": [
   {
    "name": "STATE OF UTTARAKHAND",
-   "advocate": ""
+   "advocate": "C.S.C."
   },
   {
    "name": "DIRECTOR GENERAL OF POLICE",
-   "advocate": ""
+   "advocate": "C.S.C."
   },
   {
    "name": "ADDITIONAL DIRECTOR GENERAL OF POLICE",
-   "advocate": ""
+   "advocate": "C.S.C."
   },
   {
    "name": "INSPECTOR GENERAL",
-   "advocate": ""
+   "advocate": "C.S.C."
   }
  ],
  "acts": [
@@ -88,6 +88,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-02",
+   "business_date": "2026-10-26",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {

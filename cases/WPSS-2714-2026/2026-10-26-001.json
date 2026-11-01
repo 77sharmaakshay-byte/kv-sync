@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2714/2026:2026-10-26-001",
+ "title": "VIPIN KUMAR versus SECRETARY SUGARCANE DEVELOPMENT AND SUGAR INDUSTRY DEHRADUN",
+ "petitioner": "VIPIN KUMAR",
+ "respondent": "SECRETARY SUGARCANE DEVELOPMENT AND SUGAR INDUSTRY DEHRADUN",
+ "case_no": "WPSS/2714/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-26",
+ "cnr": "UKHC010187312026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2714/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkUQlUgDCbd4LGau6KluTMEA%2FBYRynxB0WAp9qNcv2qQ&caseno=WPSS/2714/2026&cCode=1&cino=UKHC010187312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4ebe47a07f66148c6d0b0052dafc49e07a2433c03bdf8b4ce71889022c57b502",
+ "fetched_at": "2026-11-01T07:47:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

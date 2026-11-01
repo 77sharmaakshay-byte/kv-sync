@@ -1,0 +1,87 @@
+{
+ "cnr_number": "UKHC010162322026",
+ "case_type": "ABA",
+ "filing_number": "ABA /7825/2026",
+ "filing_date": "2026-09-11",
+ "registration_number": "ABA /384/2026",
+ "registration_date": "2026-09-11",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-02",
+ "decision_date": null,
+ "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "ABDUL REHMAN",
+   "advocate": "Ms. SADAF"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Uttarakhand Protection of Cow Progeny Act, 2007 (Act No. 06 of 2007)",
+   "sections": "3/5/11"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-16",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-27",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-07",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-07",
+   "business_date": "2026-09-16",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-16",
+   "order_type": "ABA/384/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr8UVJ4T4ua3ib3jwYIlJWoBdY7FTP%2BLzh8OzMnld%2FsW&caseno=ABA/384/2026&cCode=1&cino=UKHC010162322026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-07",
+   "order_type": "ABA/384/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr8UVJ4T4ua3ib3jwYIlJWpCJueoLu9NA9NrJ61793y6&caseno=ABA/384/2026&cCode=1&cino=UKHC010162322026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

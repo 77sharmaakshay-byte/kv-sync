@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/30/2026:2026-02-20-003",
+ "title": "SUNIL KUMAR versus SURENDRA KUMAR ARYA",
+ "petitioner": "SUNIL KUMAR",
+ "respondent": "SURENDRA KUMAR ARYA",
+ "case_no": "CLCON/30/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-02-20",
+ "cnr": "UKHC010020972026",
+ "doc_kind": "order",
+ "order_type": "CLCON/30/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsrLXfO3q9X1EOWdZXXZJwExSIMJvMCfpA%2BkkUxeEJE8&caseno=CLCON/30/2026&cCode=1&cino=UKHC010020972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "99daa44f253216d4e8591dfcff4db40a7f57e95ded1c4dcfc4436ed41c85c876",
+ "fetched_at": "2026-11-01T07:55:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

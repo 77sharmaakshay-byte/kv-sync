@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/40/2016:2026-07-03-013",
+ "title": "GANPAT versus BASANT SINGH",
+ "petitioner": "GANPAT",
+ "respondent": "BASANT SINGH",
+ "case_no": "SA/40/2016",
+ "case_type": "SA",
+ "decision_date": "2026-07-03",
+ "cnr": "UKHC010031372016",
+ "doc_kind": "order",
+ "order_type": "SA/40/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBWfcyKK7Hm5YOcsCWrldf0qCLm1fCG9%2BU9lA4Ou7sJ%2BJ&caseno=SA/40/2016&cCode=1&cino=UKHC010031372016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4dcc99380aec9390e9536030d15cea3e19be57daa2219c8c8d908540a1692bce",
+ "fetched_at": "2026-11-01T08:16:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

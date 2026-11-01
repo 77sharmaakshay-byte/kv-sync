@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1567/2026:2026-09-18-001",
+ "title": "RAM BHAGAT versus STATE OF UTTARAKHAND",
+ "petitioner": "RAM BHAGAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1567/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010164262026",
+ "doc_kind": "order",
+ "order_type": "BA1/1567/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmsK1LMUdfsxvL72TZAxZC1SRkaA1Kifv3xqlnXvdVRa&caseno=BA1/1567/2026&cCode=1&cino=UKHC010164262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a6208183c3091d23860d048e2524cce6c6f7b84eadf32ac28a14532898a8f7c6",
+ "fetched_at": "2026-11-01T08:08:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

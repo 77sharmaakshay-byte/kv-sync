@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/54/2018:2026-10-15-005",
+ "title": "MUNDRAJ(Legal Heir) versus STATE OF UTTARAKHAND THROUGH SECRETARY   Advocate- ,C.S.C. 1123",
+ "petitioner": "MUNDRAJ(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND THROUGH SECRETARY   Advocate- ,C.S.C. 1123",
+ "case_no": "WPMS/54/2018",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010013902018",
+ "doc_kind": "order",
+ "order_type": "WPMS/54/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL7pkLQ%2B0rF%2B9wOrUprkpwyT1ipyzzAyZRSXwhr1mxHno&caseno=WPMS/54/2018&cCode=1&cino=UKHC010013902018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7b72facd72c0586228122a04058ce10e694ef6a9d54572117f6c874d200851ee",
+ "fetched_at": "2026-11-01T07:56:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

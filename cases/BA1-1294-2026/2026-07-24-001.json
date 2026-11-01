@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1294/2026:2026-07-24-001",
+ "title": "GURMUKH SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "GURMUKH SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1294/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-24",
+ "cnr": "UKHC010129222026",
+ "doc_kind": "order",
+ "order_type": "BA1/1294/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkFluTU2KE3ncnlerCgPlUz0fNW4vCflXRPQ4kjwAdFX&caseno=BA1/1294/2026&cCode=1&cino=UKHC010129222026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "28dc36dfa914622cb28b98ab9631b399fdb3b3d454533ec2a6ae6a46f3c013b3",
+ "fetched_at": "2026-11-01T08:06:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

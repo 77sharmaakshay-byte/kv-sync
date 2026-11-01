@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/710/2022:2024-01-02-005",
+ "title": "SURESH SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SURESH SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/710/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-02",
+ "cnr": "UKHC010050122022",
+ "doc_kind": "order",
+ "order_type": "IA/2/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "PENSION MATTERS -258",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08EN8Rz%2FCN5aaJ6%2Bypl5yZb1zyJ32jAiRtiSBSHJq68O&caseno=WPSS/710/2022&cCode=1&cino=UKHC010050122022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e1b0c2dd1c39a43c2c06eff2667b053e468a82a0b3449d453cb0ecc9a85a7ff4",
+ "fetched_at": "2026-11-01T07:45:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

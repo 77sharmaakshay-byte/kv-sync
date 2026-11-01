@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/601/2024:2025-10-28-002",
+ "title": "MONIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "MONIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/601/2024",
+ "case_type": "CRLR",
+ "decision_date": "2025-10-28",
+ "cnr": "UKHC010136112024",
+ "doc_kind": "order",
+ "order_type": "CRLR/601/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKp5T0OH%2BLifPLpeLV04PMGPCUKDuBZ9GsYJOrm3nLKf&caseno=CRLR/601/2024&cCode=1&cino=UKHC010136112024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a8e531a2030261daf9193846d7595ef213fc28722b55a295d2b016b1c75e9460",
+ "fetched_at": "2026-11-01T08:14:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,9 +6,9 @@
  "registration_number": "WPMS /1884/2024",
  "registration_date": "2024-07-09",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-02",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "case_stage": "FOR FINAL HEARING -40",
  "status": "",
  "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
@@ -48,6 +48,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-10-14",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -253,6 +260,15 @@
    "order_type": "WPMS/1884/2024",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcFCr7y4ILmwiC1RvWrXzeeiZTloowO%2B4bmAwiBVtaGGL&caseno=WPMS/1884/2024&cCode=1&cino=UKHC010105512024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-14",
+   "order_type": "WPMS/1884/2024",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcFCr7y4ILmwiC1RvWrXzeejxutbb34iW1YizqAC9uccd&caseno=WPMS/1884/2024&cCode=1&cino=UKHC010105512024&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

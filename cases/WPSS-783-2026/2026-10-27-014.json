@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/783/2026:2026-10-27-014",
+ "title": "VIVEK RAUNTA versus STATE OF UTTARAKHAND",
+ "petitioner": "VIVEK RAUNTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/783/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010039882026",
+ "doc_kind": "order",
+ "order_type": "WPSS/783/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PERSONAL APPEARANCE (TOP) -123",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiaXpnd%2FKC%2BWKeMmVHvJf0UK7PGMoPODzzf%2BmExX0kD9&caseno=WPSS/783/2026&cCode=1&cino=UKHC010039882026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "92243081e0a0b13589e90f2e475dd09fd85031e08ec12e4874a362f1dc6c4e56",
+ "fetched_at": "2026-11-01T07:31:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

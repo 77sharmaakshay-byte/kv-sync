@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1514/2026:2026-09-08-001",
+ "title": "ISLAM versus STATE OF UTTARAKHAND",
+ "petitioner": "ISLAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1514/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010156842026",
+ "doc_kind": "order",
+ "order_type": "BA1/1514/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQneHQSyz0XN41%2F1r%2BJ7FA6PwCzN7E8mwHy7sEVXm%2FoxX&caseno=BA1/1514/2026&cCode=1&cino=UKHC010156842026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "317c3c492784f3e1d1834dc3155c224704560c73ae95589f64fe9f3e8ae3b876",
+ "fetched_at": "2026-11-01T08:09:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

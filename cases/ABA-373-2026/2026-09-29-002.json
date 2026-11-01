@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/373/2026:2026-09-29-002",
+ "title": "AMARJEET SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "AMARJEET SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/373/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010156542026",
+ "doc_kind": "order",
+ "order_type": "ABA/373/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQitiEmIAtwqUHNUHDt%2BkCZ21vm4tpRLmsPioSaGI9TC9&caseno=ABA/373/2026&cCode=1&cino=UKHC010156542026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1e31e1e9441e3a5132cf6c839314a0cb525230ab43031da0dc0eca9e422d4531",
+ "fetched_at": "2026-11-01T07:56:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

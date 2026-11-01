@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/348/2024:2024-06-26-001",
+ "title": "SURESH SHARMA versus DANISH KHAN",
+ "petitioner": "SURESH SHARMA",
+ "respondent": "DANISH KHAN",
+ "case_no": "CRLA/348/2024",
+ "case_type": "CRLA",
+ "decision_date": "2024-06-26",
+ "cnr": "UKHC010096392024",
+ "doc_kind": "order",
+ "order_type": "CRLA/348/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKq1kN3fISxlcxLYSpHEInsxwQ6VRwtvYUpIfIHJImxM&caseno=CRLA/348/2024&cCode=1&cino=UKHC010096392024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d3e7a0200082b4fc3c66e346ad9eb1941e09b1d6ffaea1bd5c7ad336cfcc8ced",
+ "fetched_at": "2026-11-01T08:06:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

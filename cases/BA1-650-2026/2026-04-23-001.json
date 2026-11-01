@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/650/2026:2026-04-23-001",
+ "title": "SAURABH MAURYA versus STATE OF UTTARAKHAND",
+ "petitioner": "SAURABH MAURYA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/650/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-04-23",
+ "cnr": "UKHC010064442026",
+ "doc_kind": "order",
+ "order_type": "BA1/650/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt4ugrKPzdnn141NVxJFpZNwr2DpMEcKDg3QAfVA%2FFdF&caseno=BA1/650/2026&cCode=1&cino=UKHC010064442026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "da0c8b9f96eb2e40b0ae09114563721bb272aa9df4e7b35451d652ca5606bd2c",
+ "fetched_at": "2026-11-01T08:06:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

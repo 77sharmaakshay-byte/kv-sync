@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/91/2026:2026-02-16-002",
+ "title": "MAHESH versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/91/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010010522026",
+ "doc_kind": "order",
+ "order_type": "BA1/91/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmvpIZRcRRF306Zl0%2FBDMceJxroXpJsju6rmGTsQLByX&caseno=BA1/91/2026&cCode=1&cino=UKHC010010522026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c0ee7ff0bcc0078710585e0fe2efa7436b2e003ba8566681663887554d4c5f1c",
+ "fetched_at": "2026-11-01T08:07:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

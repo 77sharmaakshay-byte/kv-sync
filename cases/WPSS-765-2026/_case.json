@@ -6,9 +6,9 @@
  "registration_number": "WPSS /765/2026",
  "registration_date": "2026-03-12",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-02",
  "decision_date": null,
- "case_stage": "AFTER FRESH MATTERS -128",
+ "case_stage": "PERSONAL APPEARANCE (TOP) -123",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -44,6 +44,27 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-02",
+   "business_date": "2026-10-27",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-27",
+   "business_date": "2026-10-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-14",
+   "business_date": "2026-10-13",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -221,6 +242,15 @@
    "order_type": "WPSS/765/2026",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk42qqda08kfvMGeNVUl6KdgdCAdsYvbDSP7F%2FjC7Nir&caseno=WPSS/765/2026&cCode=1&cino=UKHC010038362026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPSS/765/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk42qqda08kfvMGeNVUl6Kd%2BMur0BIZ1rhrrqesE%2FGKa&caseno=WPSS/765/2026&cCode=1&cino=UKHC010038362026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

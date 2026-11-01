@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1206/2026:2026-08-20-003",
+ "title": "SANJAY JAIN versus STATE OF UTTARAKHAND",
+ "petitioner": "SANJAY JAIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1206/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010119612026",
+ "doc_kind": "order",
+ "order_type": "BA1/1206/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuT0ZKY%2Fk3y3AUDmmhFVfRD%2FXF4To67wHJmr37l9QwCs&caseno=BA1/1206/2026&cCode=1&cino=UKHC010119612026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5e606dfbedeab344033eed92c6164a71d6b59a105a9eb5ca6a91878dc2e3f701",
+ "fetched_at": "2026-11-01T08:08:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

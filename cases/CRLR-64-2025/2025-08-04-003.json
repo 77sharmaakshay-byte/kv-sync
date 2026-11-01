@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/64/2025:2025-08-04-003",
+ "title": "TOSIF versus RESHMA",
+ "petitioner": "TOSIF",
+ "respondent": "RESHMA",
+ "case_no": "CRLR/64/2025",
+ "case_type": "CRLR",
+ "decision_date": "2025-08-04",
+ "cnr": "UKHC010013332025",
+ "doc_kind": "order",
+ "order_type": "CRLR/64/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwITiZiQPjuAttQQIxVt7cdYR3CtSUfE9HO4Zi2OZ3FF&caseno=CRLR/64/2025&cCode=1&cino=UKHC010013332025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6cb482edf601e3d9abdada78f6e91a316ff46bda3ae3c0744e178b7d087c328d",
+ "fetched_at": "2026-11-01T08:17:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

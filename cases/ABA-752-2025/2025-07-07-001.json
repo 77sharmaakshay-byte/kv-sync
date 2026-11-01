@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/752/2025:2025-07-07-001",
+ "title": "JAGMOHAN SINGH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "JAGMOHAN SINGH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/752/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-07-07",
+ "cnr": "UKHC010101292025",
+ "doc_kind": "order",
+ "order_type": "ABA/752/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9ETYqr2Xsx3mZjTkKedm8VPPlBFuwDo67vSb66beLZ6&caseno=ABA/752/2025&cCode=1&cino=UKHC010101292025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7b01164dd12eec1d2b9f17fccdfe9debabbc57cb248fb8ea81bc619e739ae31d",
+ "fetched_at": "2026-11-01T07:55:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

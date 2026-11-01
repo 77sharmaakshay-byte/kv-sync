@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/752/2025:2025-07-10-002",
+ "title": "JAGMOHAN SINGH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "JAGMOHAN SINGH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/752/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-07-10",
+ "cnr": "UKHC010101292025",
+ "doc_kind": "order",
+ "order_type": "ABA/752/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9ETYqr2Xsx3mZjTkKedm8U0Hvw4nVWm%2Frj87T3EtEI6&caseno=ABA/752/2025&cCode=1&cino=UKHC010101292025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a82101d1a3e950adb4b8d2f94e46bea3c7edc9ada2a36f7be9ce9e937547384f",
+ "fetched_at": "2026-11-01T07:55:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

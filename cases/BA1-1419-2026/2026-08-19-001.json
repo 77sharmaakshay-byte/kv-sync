@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1419/2026:2026-08-19-001",
+ "title": "BRIJPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "BRIJPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1419/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010145822026",
+ "doc_kind": "order",
+ "order_type": "BA1/1419/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQumu%2Fuwhif6wd6rVIjLP9eds5pyLmwU8esXbdwM0O5gC&caseno=BA1/1419/2026&cCode=1&cino=UKHC010145822026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1f235943e54428021815eb18066865b7bb8c42447daa9bc8e1da518cff420993",
+ "fetched_at": "2026-11-01T08:12:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/117/2023:2024-12-03-003",
+ "title": "PUSPHA SAINI versus HAZARI LAL SAINI (DECEASED )",
+ "petitioner": "PUSPHA SAINI",
+ "respondent": "HAZARI LAL SAINI (DECEASED )",
+ "case_no": "SA/117/2023",
+ "case_type": "SA",
+ "decision_date": "2024-12-03",
+ "cnr": "UKHC010148342023",
+ "doc_kind": "order",
+ "order_type": "SA/117/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzto89SZmztJ4ZTWBC0ePweXS3DViesRA2DLeZB30JW2&caseno=SA/117/2023&cCode=1&cino=UKHC010148342023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e77727acdb33570adf4208a57984fdf205988e6b040cfce7fbca789593601f1",
+ "fetched_at": "2026-11-01T08:16:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

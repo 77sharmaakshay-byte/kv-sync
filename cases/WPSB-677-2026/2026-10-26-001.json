@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/677/2026:2026-10-26-001",
+ "title": "RAJENDRA SINGH ADHIKARI versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJENDRA SINGH ADHIKARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/677/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-10-26",
+ "cnr": "UKHC010187332026",
+ "doc_kind": "order",
+ "order_type": "WPSB/677/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgzlLI8Oq82xNMngjw3dO%2FBLMArICBfkxBTvxq96HIwh&caseno=WPSB/677/2026&cCode=1&cino=UKHC010187332026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "378c791b7f77c560f45a9d2db7ece4ee68ac17a7d92e40347fe4ec0ffb49af70",
+ "fetched_at": "2026-11-01T08:15:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

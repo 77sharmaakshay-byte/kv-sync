@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/818/2026:2026-09-17-006",
+ "title": "VISHAL versus STATE OF UTTARAKHAND",
+ "petitioner": "VISHAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/818/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010082452026",
+ "doc_kind": "order",
+ "order_type": "BA1/818/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt2dj48r3ooqQbqbU%2Fev0gmqmu9YZvkrorRnuWWl%2B1tK&caseno=BA1/818/2026&cCode=1&cino=UKHC010082452026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c7eb6e08088e1136ac412eb0f1eef634a60ccfaea4cc5735100a2cb855806c87",
+ "fetched_at": "2026-11-01T08:09:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

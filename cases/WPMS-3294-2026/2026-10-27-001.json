@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3294/2026:2026-10-27-001",
+ "title": "NARENDRA SINGH versus DIRECTOR",
+ "petitioner": "NARENDRA SINGH",
+ "respondent": "DIRECTOR",
+ "case_no": "WPMS/3294/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010188852026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3294/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk5K%2BH0f0EW632KDrz6Zn6xv9zxHcRutlvF%2F%2BarUESQ6&caseno=WPMS/3294/2026&cCode=1&cino=UKHC010188852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "13f2aae45d715c62326b0bff09b241f32dc6c6d00d0ece5355a37cee555190aa",
+ "fetched_at": "2026-11-01T07:53:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

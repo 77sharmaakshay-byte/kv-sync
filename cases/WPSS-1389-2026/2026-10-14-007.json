@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1389/2026:2026-10-14-007",
+ "title": "MITHUN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MITHUN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1389/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010088872026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1389/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PERSONAL APPEARANCE (TOP) -123",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQudhhB84oRfdH3V%2BwFRfEBQdPo0LIw%2BQGDmiqADAAO8C&caseno=WPSS/1389/2026&cCode=1&cino=UKHC010088872026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a94cc19bf8322c503a475a3f00fc3587907f979cd3122896f795c1f24985b695",
+ "fetched_at": "2026-11-01T07:36:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

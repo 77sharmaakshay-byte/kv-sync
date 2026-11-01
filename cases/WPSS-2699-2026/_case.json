@@ -6,7 +6,7 @@
  "registration_number": "WPSS /2699/2026",
  "registration_date": "2026-10-14",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-11-02",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
@@ -25,19 +25,19 @@
  "respondents": [
   {
    "name": "UNION OF INDIA",
-   "advocate": "DEPUTY  S.G."
+   "advocate": "DEPUTY  S.G.,"
   },
   {
    "name": "M D AND C E O BANK OF BARODA CORPORATIVE",
-   "advocate": "SIDDHARTH JAIN"
+   "advocate": "SIDDHARTH JAIN,SUHAAS RATNA JOSHI"
   },
   {
    "name": "REGIONAL MANAGER",
-   "advocate": "SIDDHARTH JAIN"
+   "advocate": "SIDDHARTH JAIN,SUHAAS RATNA JOSHI"
   },
   {
    "name": "ASSISTANT GENERAL MANAGER",
-   "advocate": "SIDDHARTH JAIN"
+   "advocate": "SIDDHARTH JAIN,SUHAAS RATNA JOSHI"
   }
  ],
  "acts": [
@@ -53,7 +53,31 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-02",
+   "business_date": "2026-10-27",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-27",
+   "business_date": "2026-10-16",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-27",
+   "order_type": "WPSS/2699/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmqqebp%2Fny0HnZshP62gKue6hNiCmSq%2BYEGHzHm1hTID&caseno=WPSS/2699/2026&cCode=1&cino=UKHC010186352026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

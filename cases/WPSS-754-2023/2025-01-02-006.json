@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/754/2023:2025-01-02-006",
+ "title": "RAMESH CHANDRA SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMESH CHANDRA SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/754/2023",
+ "case_type": "WPSS",
+ "decision_date": "2025-01-02",
+ "cnr": "UKHC010077872023",
+ "doc_kind": "order",
+ "order_type": "WPSS/754/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PENSION MATTERS -258",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY7eGwtZ1Im8MsQnWw9VkoAEsVvKVq03GkaAsE6%2BpHE1Z&caseno=WPSS/754/2023&cCode=1&cino=UKHC010077872023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "33c557026f58f7a63903e58d1aed3df47fd983b39aeca35e4c89f2d845edd817",
+ "fetched_at": "2026-11-01T07:44:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

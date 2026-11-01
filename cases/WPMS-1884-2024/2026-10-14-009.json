@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1884/2024:2026-10-14-009",
+ "title": "SUSHIL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SUSHIL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1884/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010105512024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1884/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcFCr7y4ILmwiC1RvWrXzeejxutbb34iW1YizqAC9uccd&caseno=WPMS/1884/2024&cCode=1&cino=UKHC010105512024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7803a62c711a64c748c4950be7cbac6db3189123293f3f7235c0121a1617ad31",
+ "fetched_at": "2026-11-01T07:59:36+00:00",
+ "fetched_by": "fetch_live.py"
+}
