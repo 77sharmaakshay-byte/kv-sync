@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/381/2026:2026-09-22-001",
+ "title": "RAVINDRA SINGH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVINDRA SINGH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/381/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010158982026",
+ "doc_kind": "order",
+ "order_type": "SPA/381/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpeFnpy6%2Bqf3oN97cYg0pzdc5CSvVhlTI1VTdVJH%2Fa1V&caseno=SPA/381/2026&cCode=1&cino=UKHC010158982026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "181c9bf146303c7226b9348911612fcb2f0c1a5a32f88ad4ac01675f06f2fdfc",
+ "fetched_at": "2026-11-01T08:36:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

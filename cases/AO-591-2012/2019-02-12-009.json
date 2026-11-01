@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/591/2012:2019-02-12-009",
+ "title": "MOHD SHADAB versus NAVED AHMAD AND ANR",
+ "petitioner": "MOHD SHADAB",
+ "respondent": "NAVED AHMAD AND ANR",
+ "case_no": "AO/591/2012",
+ "case_type": "AO",
+ "decision_date": "2019-02-12",
+ "cnr": "UKHC010017542012",
+ "doc_kind": "order",
+ "order_type": "AO/591/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrOVH7eWtgPpTeVTm3QfbkycyH85cFJvk2F6Jevmr8l5o&caseno=AO/591/2012&cCode=1&cino=UKHC010017542012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d829df5cf206197d66ec70a8753131e06f84ca787a857690a444bb3ddeb335b5",
+ "fetched_at": "2026-11-01T08:35:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

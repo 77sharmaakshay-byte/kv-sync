@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/6/2022:2024-05-15-002",
+ "title": "NIDHI UNIYAL versus STATE OF UTTARAKHAND, THROUGH SECRETARY, MEDICAL,",
+ "petitioner": "NIDHI UNIYAL",
+ "respondent": "STATE OF UTTARAKHAND, THROUGH SECRETARY, MEDICAL,",
+ "case_no": "SPA/6/2022",
+ "case_type": "SPA",
+ "decision_date": "2024-05-15",
+ "cnr": "UKHC010006362022",
+ "doc_kind": "order",
+ "order_type": "SPA/6/2022",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06s9MJG2iwsv8VGNBBjOStgPWm3d%2BmoVtlPxTmmV12E%2F&caseno=SPA/6/2022&cCode=1&cino=UKHC010006362022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1740e7205f84e2339f2f13236f619a1121c687f5a4500a10eee27e69d641eea2",
+ "fetched_at": "2026-11-01T08:39:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

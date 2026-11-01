@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/156/2021:2021-12-10-006",
+ "title": "JAHANGIR AHMED versus CENTRAL BUREAU OF INVESTIGATION",
+ "petitioner": "JAHANGIR AHMED",
+ "respondent": "CENTRAL BUREAU OF INVESTIGATION",
+ "case_no": "CRLR/156/2021",
+ "case_type": "CRLR",
+ "decision_date": "2021-12-10",
+ "cnr": "UKHC010075442021",
+ "doc_kind": "order",
+ "order_type": "CRLR/156/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLdZPWVwLd661p5ZeHxisb%2BG3U7KVnMlpYfnZeFhi%2BHj&caseno=CRLR/156/2021&cCode=1&cino=UKHC010075442021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f212d4bd3a053da674040e22fed790c763327dbf4570ba289e513cf4e34cd2d7",
+ "fetched_at": "2026-11-01T08:19:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

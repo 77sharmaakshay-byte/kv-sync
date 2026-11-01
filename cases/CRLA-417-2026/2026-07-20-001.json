@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/417/2026:2026-07-20-001",
+ "title": "X versus STATE OF UTTARAKHAND",
+ "petitioner": "X",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/417/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-20",
+ "cnr": "UKHC010124572026",
+ "doc_kind": "order",
+ "order_type": "CRLA/417/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrd52KBUYf%2BhwLXgXkQ%2F0IngOAXzjn8xtxyo7JcSFiTK&caseno=CRLA/417/2026&cCode=1&cino=UKHC010124572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2da20473b4e420edbe4ff470cfc6f3791fd39682a764173d8010180db10b9fd4",
+ "fetched_at": "2026-11-01T08:42:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

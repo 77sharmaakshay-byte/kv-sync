@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/44/2022:2022-03-28-002",
+ "title": "SARITA TIWARI versus STATE OF UTTARAKHAND",
+ "petitioner": "SARITA TIWARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/44/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-03-28",
+ "cnr": "UKHC010032312022",
+ "doc_kind": "order",
+ "order_type": "SPA/44/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01LoY5n232Iz2tvvRopV%2FWrau4vs7JpTJUHw5cBtH44p&caseno=SPA/44/2022&cCode=1&cino=UKHC010032312022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2d3fb5a1c64584adee9207a34ee841569191f239b24158b8ad5cbde044e89764",
+ "fetched_at": "2026-11-01T08:38:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

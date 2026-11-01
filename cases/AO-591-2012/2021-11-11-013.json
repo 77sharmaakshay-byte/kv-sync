@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/591/2012:2021-11-11-013",
+ "title": "MOHD SHADAB versus NAVED AHMAD AND ANR",
+ "petitioner": "MOHD SHADAB",
+ "respondent": "NAVED AHMAD AND ANR",
+ "case_no": "AO/591/2012",
+ "case_type": "AO",
+ "decision_date": "2021-11-11",
+ "cnr": "UKHC010017542012",
+ "doc_kind": "order",
+ "order_type": "AO/591/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrOVH7eWtgPpTeVTm3QfbkydKEPp4DB%2Fgj5jv%2FbzM2v%2BM&caseno=AO/591/2012&cCode=1&cino=UKHC010017542012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a5a33afacfaaca5f5fbf086943b63b9bec308782e8b61db5ef04860acd508f81",
+ "fetched_at": "2026-11-01T08:35:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

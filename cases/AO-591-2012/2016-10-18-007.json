@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/591/2012:2016-10-18-007",
+ "title": "MOHD SHADAB versus NAVED AHMAD AND ANR",
+ "petitioner": "MOHD SHADAB",
+ "respondent": "NAVED AHMAD AND ANR",
+ "case_no": "AO/591/2012",
+ "case_type": "AO",
+ "decision_date": "2016-10-18",
+ "cnr": "UKHC010017542012",
+ "doc_kind": "order",
+ "order_type": "AO/591/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrOVH7eWtgPpTeVTm3QfbkycflsqDbEEU8%2Fdqkm4Xx0Er&caseno=AO/591/2012&cCode=1&cino=UKHC010017542012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "51b47b8939b401bc94d4d46470054b1dac4f196573d4dd24b10c8b37a5fbc510",
+ "fetched_at": "2026-11-01T08:34:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

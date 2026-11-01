@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/200/2025:2025-06-09-002",
+ "title": "AJAI VIKRAM SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "AJAI VIKRAM SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/200/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-06-09",
+ "cnr": "UKHC010079052025",
+ "doc_kind": "order",
+ "order_type": "WPSB/200/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5e2Nzm1nHHLA8FKjbM%2FoJ1V16%2Fv98qejYy3yGda8r1s&caseno=WPSB/200/2025&cCode=1&cino=UKHC010079052025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7873caa83a40a861edd1bd802b20e0875282fe0c11b5d086a46077452ff42e48",
+ "fetched_at": "2026-11-01T08:38:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/671/2026:2026-10-15-001",
+ "title": "RAVI PRATAP versus THE UNION OF INDIA",
+ "petitioner": "RAVI PRATAP",
+ "respondent": "THE UNION OF INDIA",
+ "case_no": "WPSB/671/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010184752026",
+ "doc_kind": "order",
+ "order_type": "WPSB/671/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnBpot9J05eOZMiDdVhfOHS34KhC1gl0gHvkfesLs2MI&caseno=WPSB/671/2026&cCode=1&cino=UKHC010184752026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "500324cd22dda07e26509f74822991fb3ac431b4387f91bffa15a282e33ff8f6",
+ "fetched_at": "2026-11-01T08:36:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

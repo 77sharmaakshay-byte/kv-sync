@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/411/2021:2026-05-05-016",
+ "title": "SWAMI UMA BHARTI versus NATIONAL HIGHWAY AUTHORITY OF INDIA THROUGH SECRETARY",
+ "petitioner": "SWAMI UMA BHARTI",
+ "respondent": "NATIONAL HIGHWAY AUTHORITY OF INDIA THROUGH SECRETARY",
+ "case_no": "SPA/411/2021",
+ "case_type": "SPA",
+ "decision_date": "2026-05-05",
+ "cnr": "UKHC010145932021",
+ "doc_kind": "order",
+ "order_type": "SPA/411/2021",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkHrU8%2BypdxWx%2FIXK5Te0RU9RNlGnf0OzbE11BCbQQafC&caseno=SPA/411/2021&cCode=1&cino=UKHC010145932021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3e41719466ccb3b2cb3cc156d95476c3401ed0f8b001084c7152e26f1ad4a798",
+ "fetched_at": "2026-11-01T08:40:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

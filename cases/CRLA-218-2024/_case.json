@@ -1,0 +1,91 @@
+{
+ "cnr_number": "UKHC010060592024",
+ "case_type": "CRLA",
+ "filing_number": "CRLA /3275/2024",
+ "filing_date": "2024-04-25",
+ "registration_number": "CRLA /218/2024",
+ "registration_date": "2024-04-25",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-03",
+ "decision_date": null,
+ "case_stage": "ORDERS ON APPLICATIONS -22",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "KAUSHIK BACHHAR",
+   "advocate": "PRASANNA KARNATAK,J C KARNATAK,J C KARNATAK, J C KARNATAK"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "377"
+  },
+  {
+   "act": "Protection of Children from Sexual Offences Act, 2012 (Act No. 32 of 2012)",
+   "sections": "5M/6"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2024-04-26",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-10-07",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-05-13",
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-04-26",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2024-05-13",
+   "order_type": "CRLA/218/2024",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcGc2533DUci7vgK3XV6Y3u7nXSvV4%2BT2gd%2FtuhE%2FiLG6&caseno=CRLA/218/2024&cCode=1&cino=UKHC010060592024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-07",
+   "order_type": "CRLA/218/2024",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcGc2533DUci7vgK3XV6Y3u47BAef87PX6fnd5yWJJevS&caseno=CRLA/218/2024&cCode=1&cino=UKHC010060592024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

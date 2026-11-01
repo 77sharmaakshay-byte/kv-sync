@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/975/2023:2024-07-20-007",
+ "title": "AMIT SHARMA versus STATE OF UTTARAKHAND THROUGH SECRETARY HOME, DEHRADUN",
+ "petitioner": "AMIT SHARMA",
+ "respondent": "STATE OF UTTARAKHAND THROUGH SECRETARY HOME, DEHRADUN",
+ "case_no": "CRLR/975/2023",
+ "case_type": "CRLR",
+ "decision_date": "2024-07-20",
+ "cnr": "UKHC010208662023",
+ "doc_kind": "order",
+ "order_type": "CRLR/975/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYxD9LPxZ%2BNU0uNY2HZZ1DbZSZEmXslBpPX9mCR%2BIpvFo&caseno=CRLR/975/2023&cCode=1&cino=UKHC010208662023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7b920dff40b2c8ed15fee68d2484a1ba56a99115b85035c5afedc6c0670db84b",
+ "fetched_at": "2026-11-01T08:19:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

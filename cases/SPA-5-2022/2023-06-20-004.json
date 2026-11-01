@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/5/2022:2023-06-20-004",
+ "title": "NEERAJ BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "NEERAJ BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/5/2022",
+ "case_type": "SPA",
+ "decision_date": "2023-06-20",
+ "cnr": "UKHC010006372022",
+ "doc_kind": "order",
+ "order_type": "SPA/5/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xk%2B2kVmF7Lc%2BjWzZv92i0YhCJNkHjGn%2FZnTasUWyXGJ&caseno=SPA/5/2022&cCode=1&cino=UKHC010006372022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d296ea115c905d8a9e8b7e5f899e0042056718698cb62b3ef0e1c6e531dbbb2",
+ "fetched_at": "2026-11-01T08:38:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

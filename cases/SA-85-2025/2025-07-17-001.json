@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/85/2025:2025-07-17-001",
+ "title": "PINKI RANI versus HIRAWATI",
+ "petitioner": "PINKI RANI",
+ "respondent": "HIRAWATI",
+ "case_no": "SA/85/2025",
+ "case_type": "SA",
+ "decision_date": "2025-07-17",
+ "cnr": "UKHC010105382025",
+ "doc_kind": "order",
+ "order_type": "SA/85/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm998%2BZKCeDZ7Z4efg%2BKoGq06J1hJUv5LVORVmAlXGEH4&caseno=SA/85/2025&cCode=1&cino=UKHC010105382025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "509493cb4ea5e0cbf177bf2c06f91adccbdc3666f2be72b17b3e7039474a441a",
+ "fetched_at": "2026-11-01T08:20:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

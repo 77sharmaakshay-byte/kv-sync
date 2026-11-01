@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/18/2026:2026-08-14-005",
+ "title": "NAVEEN THAPA versus JYOTI",
+ "petitioner": "NAVEEN THAPA",
+ "respondent": "JYOTI",
+ "case_no": "FA/18/2026",
+ "case_type": "FA",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010020262026",
+ "doc_kind": "order",
+ "order_type": "FA/18/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmfjtT8pMhkpeGBggLPlPzsEdkZNbIrzCbtrvlAYEP4A&caseno=FA/18/2026&cCode=1&cino=UKHC010020262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d950322a434690410eda8c864ed8d86d9e99e4b066e1ab7e7b4c5b6c796ce9ed",
+ "fetched_at": "2026-11-01T08:44:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

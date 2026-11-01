@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CTR/28/2026:2026-10-27-001",
+ "title": "COMMISSIONER COMMERCIAL TAX versus M/S GODREJ CONSUMER PRODUCTS LTD",
+ "petitioner": "COMMISSIONER COMMERCIAL TAX",
+ "respondent": "M/S GODREJ CONSUMER PRODUCTS LTD",
+ "case_no": "CTR/28/2026",
+ "case_type": "CTR",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010187492026",
+ "doc_kind": "order",
+ "order_type": "CTR/28/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "Time Barred (Fresh Cases) -247",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhL6R%2FxmAmISrs6dlUiAU2rOkAjLAcgNnAtorNtGQ0ar&caseno=CTR/28/2026&cCode=1&cino=UKHC010187492026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8e5e0ee44f7c363d5ebd7ae58dd29eae6f97481605801e34c6364011e8dad9a9",
+ "fetched_at": "2026-11-01T08:37:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

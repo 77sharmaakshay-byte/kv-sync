@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1355/2022:2024-07-09-009",
+ "title": "DHANASHREE AGRO PRODUCTS PRIVATE LIMITED versus PRESIDING OFFICER LABOUR COURT HARIDWAR",
+ "petitioner": "DHANASHREE AGRO PRODUCTS PRIVATE LIMITED",
+ "respondent": "PRESIDING OFFICER LABOUR COURT HARIDWAR",
+ "case_no": "WPMS/1355/2022",
+ "case_type": "WPMS",
+ "decision_date": "2024-07-09",
+ "cnr": "UKHC010080652022",
+ "doc_kind": "order",
+ "order_type": "WPMS/1355/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06BhKnG0AlXNFRCUtXxDkUChvi2oE%2BHEwKiNRP7foTM7&caseno=WPMS/1355/2022&cCode=1&cino=UKHC010080652022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd2e6d02ac1622511674feeead581754bf5773e8aedc85e4cd2768059e76392b",
+ "fetched_at": "2026-11-01T08:23:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

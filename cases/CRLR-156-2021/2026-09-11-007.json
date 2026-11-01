@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/156/2021:2026-09-11-007",
+ "title": "JAHANGIR AHMED versus CENTRAL BUREAU OF INVESTIGATION",
+ "petitioner": "JAHANGIR AHMED",
+ "respondent": "CENTRAL BUREAU OF INVESTIGATION",
+ "case_no": "CRLR/156/2021",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010075442021",
+ "doc_kind": "order",
+ "order_type": "CRLR/156/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLdZPWVwLd661p5ZeHxisb95lPj1Sy5K3ZyHarDnvTAv&caseno=CRLR/156/2021&cCode=1&cino=UKHC010075442021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5179a319656b85c10ed3b2468866df974b4ca46cfb95161180664acf8552c549",
+ "fetched_at": "2026-11-01T08:19:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/333/2026:2026-06-10-001",
+ "title": "JITENDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "JITENDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/333/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-10",
+ "cnr": "UKHC010101002026",
+ "doc_kind": "order",
+ "order_type": "WPSB/333/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQikLQfgWVJJc3O5EmVPx1J8%2FWGKOp4STEwHsH7CuZl70&caseno=WPSB/333/2026&cCode=1&cino=UKHC010101002026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "81010ffb7687e926e42ea2a9769808f7f2b15747f0d07e05a6dc7515668270e7",
+ "fetched_at": "2026-11-01T08:42:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

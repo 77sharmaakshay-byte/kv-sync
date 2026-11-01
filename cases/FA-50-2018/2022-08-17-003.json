@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/50/2018:2022-08-17-003",
+ "title": "Mayank Joshi versus Pan Card Club Limited",
+ "petitioner": "Mayank Joshi",
+ "respondent": "Pan Card Club Limited",
+ "case_no": "FA/50/2018",
+ "case_type": "FA",
+ "decision_date": "2022-08-17",
+ "cnr": "UKHC010014172018",
+ "doc_kind": "order",
+ "order_type": "FA/50/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL8gXnSUeo1djCHuwP9DQlaG%2FjQdhuKGzU40FfsCDpxzt&caseno=FA/50/2018&cCode=1&cino=UKHC010014172018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "606fdf1934c65b844737ba0af2f472f57df33386eee37f973b281e066c9f9665",
+ "fetched_at": "2026-11-01T08:19:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

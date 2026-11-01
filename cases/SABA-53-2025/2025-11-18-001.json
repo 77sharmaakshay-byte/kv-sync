@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SABA/53/2025:2025-11-18-001",
+ "title": "MEENA CHAUDHARY ALIAS MEENA BHARTI versus STATE OF UTTARAKHAND",
+ "petitioner": "MEENA CHAUDHARY ALIAS MEENA BHARTI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SABA/53/2025",
+ "case_type": "SABA",
+ "decision_date": "2025-11-18",
+ "cnr": "UKHC010177622025",
+ "doc_kind": "order",
+ "order_type": "SABA/53/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2MUQGJ%2FEoznSxixlJiW1zeaRhYC4xCNrFJO0Evcm3L4&caseno=SABA/53/2025&cCode=1&cino=UKHC010177622025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "04af1795c2a753a5c8691ac0606a9bb5f73f18921ca29db7f435b8808868c7dd",
+ "fetched_at": "2026-11-01T08:36:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

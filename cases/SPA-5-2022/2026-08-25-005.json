@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/5/2022:2026-08-25-005",
+ "title": "NEERAJ BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "NEERAJ BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/5/2022",
+ "case_type": "SPA",
+ "decision_date": "2026-08-25",
+ "cnr": "UKHC010006372022",
+ "doc_kind": "order",
+ "order_type": "SPA/5/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xk%2B2kVmF7Lc%2BjWzZv92i0bIAu10cqEeXdUCulbt2TvJ&caseno=SPA/5/2022&cCode=1&cino=UKHC010006372022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f69047239060215820c3009edfa72e41e287653ed50919f1270e74dfb747ff9a",
+ "fetched_at": "2026-11-01T08:38:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

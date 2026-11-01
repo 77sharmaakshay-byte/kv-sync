@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/63/2022:2026-03-10-007",
+ "title": "HEERA SINGH PANGTEY (SINCE DEAD)(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "HEERA SINGH PANGTEY (SINCE DEAD)(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/63/2022",
+ "case_type": "SPA",
+ "decision_date": "2026-03-10",
+ "cnr": "UKHC010044782022",
+ "doc_kind": "order",
+ "order_type": "SPA/63/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT09z%2BEw0l%2BH1NN%2FTns794MUm5r3NSavaxPKTVbFTAx0ez&caseno=SPA/63/2022&cCode=1&cino=UKHC010044782022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a806658c590d6845f551f754fcfbdd943e87cd69d9a83cfb10ba999da7e61d02",
+ "fetched_at": "2026-11-01T08:38:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

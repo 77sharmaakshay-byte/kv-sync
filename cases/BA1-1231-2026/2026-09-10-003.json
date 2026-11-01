@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1231/2026:2026-09-10-003",
+ "title": "PUSPENDRA KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PUSPENDRA KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1231/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-10",
+ "cnr": "UKHC010123022026",
+ "doc_kind": "order",
+ "order_type": "BA1/1231/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoMGTuPGm%2B4UBgVcQ3LhR0VQMyHa%2BCSu%2F35GpfUF%2B%2Fj7&caseno=BA1/1231/2026&cCode=1&cino=UKHC010123022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d30406627b70116a58381f1d4473fbb161c5e6d35174606f6b9d412d0d3c1adb",
+ "fetched_at": "2026-11-01T08:35:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

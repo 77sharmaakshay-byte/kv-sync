@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/6/2016:2016-03-15-001",
+ "title": "SATISH KUMAR versus RAJNISH KUMAR   Advocate- ,VIVEK PATHAK 1123",
+ "petitioner": "SATISH KUMAR",
+ "respondent": "RAJNISH KUMAR   Advocate- ,VIVEK PATHAK 1123",
+ "case_no": "SA/6/2016",
+ "case_type": "SA",
+ "decision_date": "2016-03-15",
+ "cnr": "UKHC010000102016",
+ "doc_kind": "order",
+ "order_type": "SA/6/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBQ7yRFUEAHWmGb%2B1U2hQA9Fv%2BPmESoGm61co22xo35Lb&caseno=SA/6/2016&cCode=1&cino=UKHC010000102016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "86d9e7e6bc76bcb01b20d1074f22664a9ef3220bf0f6833b817da568631449c7",
+ "fetched_at": "2026-11-01T08:20:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

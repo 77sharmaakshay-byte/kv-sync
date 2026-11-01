@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/316/2018:2025-06-03-004",
+ "title": "MAXX MOBILE COMMUNICATION LTD versus HARIDWAR DEVELOPMENT AUTHORITY,",
+ "petitioner": "MAXX MOBILE COMMUNICATION LTD",
+ "respondent": "HARIDWAR DEVELOPMENT AUTHORITY,",
+ "case_no": "SPA/316/2018",
+ "case_type": "SPA",
+ "decision_date": "2025-06-03",
+ "cnr": "UKHC010059492018",
+ "doc_kind": "order",
+ "order_type": "SPA/316/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL2ji2cYmIMTh53EWj%2BdjDVfC0Il9t%2FSqRor9YCk8M8hZ&caseno=SPA/316/2018&cCode=1&cino=UKHC010059492018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3647c495daf69484b5c1507142c9f517fe08c0875a997edf61bf5733522099c9",
+ "fetched_at": "2026-11-01T08:38:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

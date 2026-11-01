@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/14/2017:2025-08-14-006",
+ "title": "State Of Uttarakhand AND OTHERS versus S.k. Shrivastava",
+ "petitioner": "State Of Uttarakhand AND OTHERS",
+ "respondent": "S.k. Shrivastava",
+ "case_no": "SPA/14/2017",
+ "case_type": "SPA",
+ "decision_date": "2025-08-14",
+ "cnr": "UKHC010010442017",
+ "doc_kind": "order",
+ "order_type": "SPA/14/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh%2Bw2RR5FMFmXKytftZQZ%2B%2B80JwK0aNOmz%2FxOUDb%2B4Xmw&caseno=SPA/14/2017&cCode=1&cino=UKHC010010442017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b53a8826b194741a9edb05fd60c02034916b52de9be3196d143afd885e17a2fa",
+ "fetched_at": "2026-11-01T08:41:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

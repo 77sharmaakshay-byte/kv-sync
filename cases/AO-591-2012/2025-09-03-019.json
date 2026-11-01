@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/591/2012:2025-09-03-019",
+ "title": "MOHD SHADAB versus NAVED AHMAD AND ANR",
+ "petitioner": "MOHD SHADAB",
+ "respondent": "NAVED AHMAD AND ANR",
+ "case_no": "AO/591/2012",
+ "case_type": "AO",
+ "decision_date": "2025-09-03",
+ "cnr": "UKHC010017542012",
+ "doc_kind": "order",
+ "order_type": "AO/591/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrOVH7eWtgPpTeVTm3QfbkyeU%2BFAXiO0VHtfzOn30ooLq&caseno=AO/591/2012&cCode=1&cino=UKHC010017542012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b788e169e091fc921483de125a5db4b9f274b9d160059a310c554016369692d1",
+ "fetched_at": "2026-11-01T08:35:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

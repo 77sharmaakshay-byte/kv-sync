@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/411/2021:2025-05-21-011",
+ "title": "SWAMI UMA BHARTI versus NATIONAL HIGHWAY AUTHORITY OF INDIA THROUGH SECRETARY",
+ "petitioner": "SWAMI UMA BHARTI",
+ "respondent": "NATIONAL HIGHWAY AUTHORITY OF INDIA THROUGH SECRETARY",
+ "case_no": "SPA/411/2021",
+ "case_type": "SPA",
+ "decision_date": "2025-05-21",
+ "cnr": "UKHC010145932021",
+ "doc_kind": "order",
+ "order_type": "SPA/411/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkHrU8%2BypdxWx%2FIXK5Te0RU%2FLXl1bgGr1VKhLykpW3XgU&caseno=SPA/411/2021&cCode=1&cino=UKHC010145932021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "46026ca0c71a38fa74f6899722e7e7252c8649c385ab10bf97a0d8af0a4190ed",
+ "fetched_at": "2026-11-01T08:40:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

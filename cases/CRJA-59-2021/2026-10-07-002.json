@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/59/2021:2026-10-07-002",
+ "title": "LALIT MOHAN BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "LALIT MOHAN BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/59/2021",
+ "case_type": "CRJA",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010115022021",
+ "doc_kind": "order",
+ "order_type": "CRJA/59/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkEEIxrFMlJKBjCToo5PQ6%2BkG6kDrockavEBncSKw8%2F9q&caseno=CRJA/59/2021&cCode=1&cino=UKHC010115022021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "28afe1e25fece952054bdb7e469d570109b16ae041801dd373b061e7f1a6f6c1",
+ "fetched_at": "2026-11-01T08:42:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

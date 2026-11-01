@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/822/2022:2024-04-23-003",
+ "title": "CHANDOLA HOMEOPATHIC MEDICAL COLLEGE AND HOSPITAL versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDOLA HOMEOPATHIC MEDICAL COLLEGE AND HOSPITAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/822/2022",
+ "case_type": "WPMS",
+ "decision_date": "2024-04-23",
+ "cnr": "UKHC010049202022",
+ "doc_kind": "order",
+ "order_type": "WPMS/822/2022",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT077oeB0TP609A6TR%2Bdtk4B56%2Bo8svqAN240LgXcPVbGt&caseno=WPMS/822/2022&cCode=1&cino=UKHC010049202022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "502094faf7d87d5d4238f603c0378d0ab97b0283fa5856dab7a78beb8fb3dd26",
+ "fetched_at": "2026-11-01T08:39:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

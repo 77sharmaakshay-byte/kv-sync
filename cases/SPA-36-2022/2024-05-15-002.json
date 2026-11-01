@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/36/2022:2024-05-15-002",
+ "title": "THE KISAN SAHKARI CHINI MILLS LTD. versus BHUPENDRA SINGH",
+ "petitioner": "THE KISAN SAHKARI CHINI MILLS LTD.",
+ "respondent": "BHUPENDRA SINGH",
+ "case_no": "SPA/36/2022",
+ "case_type": "SPA",
+ "decision_date": "2024-05-15",
+ "cnr": "UKHC010023302022",
+ "doc_kind": "order",
+ "order_type": "SPA/36/2022",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2Ba4Ak89obK62AW%2BQCk3yXEl25LTobu343cdwHhA2X5A&caseno=SPA/36/2022&cCode=1&cino=UKHC010023302022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "73822c67d94bde6cfc6fc6e9bdcc87d3acd7157d39d957669d389993768ddaea",
+ "fetched_at": "2026-11-01T08:38:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

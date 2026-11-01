@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2534/2026:2026-09-07-003",
+ "title": "NIKHIL KUMAR versus AARTI SAKLANI",
+ "petitioner": "NIKHIL KUMAR",
+ "respondent": "AARTI SAKLANI",
+ "case_no": "WPMS/2534/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010147362026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2534/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlDLIoYwHvHcHpnmEYTvtytg81%2Fmw3JppQk3ZY7udoZh&caseno=WPMS/2534/2026&cCode=1&cino=UKHC010147362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "750f0235ca03cd7cb916ff8de2e2f92576dd19b9b494bf2e4452a361391a364d",
+ "fetched_at": "2026-11-01T08:22:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

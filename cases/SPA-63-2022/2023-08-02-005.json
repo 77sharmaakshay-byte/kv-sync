@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/63/2022:2023-08-02-005",
+ "title": "HEERA SINGH PANGTEY (SINCE DEAD)(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "HEERA SINGH PANGTEY (SINCE DEAD)(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/63/2022",
+ "case_type": "SPA",
+ "decision_date": "2023-08-02",
+ "cnr": "UKHC010044782022",
+ "doc_kind": "order",
+ "order_type": "SPA/63/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT09z%2BEw0l%2BH1NN%2FTns794MUmUpYZhyG1ZULYu1m%2FFXuxs&caseno=SPA/63/2022&cCode=1&cino=UKHC010044782022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4bdb250636eb1d8d0a5fe024a2eb893aa33a3ed60d34257d0e263cb8263e23be",
+ "fetched_at": "2026-11-01T08:38:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

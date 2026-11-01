@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/75/2026:2026-06-05-001",
+ "title": "PHARMACY COUNCIL versus SUMAN",
+ "petitioner": "PHARMACY COUNCIL",
+ "respondent": "SUMAN",
+ "case_no": "SPA/75/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-06-05",
+ "cnr": "UKHC010043332026",
+ "doc_kind": "order",
+ "order_type": "SPA/75/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjSvCO2IV0uf00KUOnriLWBy%2BNQsXvGvpJV289tXMdI0&caseno=SPA/75/2026&cCode=1&cino=UKHC010043332026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7ef1e7a307a11e519d2db66b5c28795dea98d3b35cc361529f02564b44695a1a",
+ "fetched_at": "2026-11-01T08:40:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/342/2026:2026-10-27-002",
+ "title": "PRAKASH CHANDRA JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAKASH CHANDRA JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/342/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010135962026",
+ "doc_kind": "order",
+ "order_type": "SPA/342/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtLQP%2B5i%2FLmYu%2FZ1Bi21AVvlZKZCZvh0lqx6OQoPsOUB&caseno=SPA/342/2026&cCode=1&cino=UKHC010135962026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dff63c7f4e51da707f0a6dccab4be63db97e37d49011bc4aff7894db306cbe69",
+ "fetched_at": "2026-11-01T08:39:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

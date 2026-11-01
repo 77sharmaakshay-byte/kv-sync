@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/378/2017:2026-09-21-002",
+ "title": "Shiv Kumar versus Smt. Pooja",
+ "petitioner": "Shiv Kumar",
+ "respondent": "Smt. Pooja",
+ "case_no": "CRLR/378/2017",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010002252017",
+ "doc_kind": "order",
+ "order_type": "CRLR/378/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh2tBfiZuoyk7kKMNwG69nFECfV%2Bq%2BBvTpnRK2flaAXBt&caseno=CRLR/378/2017&cCode=1&cino=UKHC010002252017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5316f61ec2103777d3392adf28355b9c941b33ba09754a9f382b0b939fe3ddc3",
+ "fetched_at": "2026-11-01T08:43:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

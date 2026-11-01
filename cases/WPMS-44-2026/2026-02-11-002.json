@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/44/2026:2026-02-11-002",
+ "title": "MADAN SINGH RANA versus UNION OF INDIA",
+ "petitioner": "MADAN SINGH RANA",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMS/44/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-11",
+ "cnr": "UKHC010002032026",
+ "doc_kind": "order",
+ "order_type": "WPMS/44/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrbuebfHAyoMGJq3QYNQKZ0Xe75yTdPcdrmgnAR3o%2FZa&caseno=WPMS/44/2026&cCode=1&cino=UKHC010002032026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "07b7055c07c043dc14d04f21781a82c00c37732e67e9cef08c865da1d7d05017",
+ "fetched_at": "2026-11-01T08:35:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/5/2016:2016-04-05-002",
+ "title": "Satish Kumar versus Rajnish Kumar",
+ "petitioner": "Satish Kumar",
+ "respondent": "Rajnish Kumar",
+ "case_no": "SA/5/2016",
+ "case_type": "SA",
+ "decision_date": "2016-04-05",
+ "cnr": "UKHC010047152016",
+ "doc_kind": "order",
+ "order_type": "SA/5/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBVGuxE%2F6%2BK%2Br8IE1RlEdtpu2SD81Sj%2FfjP%2FKreMGl81Z&caseno=SA/5/2016&cCode=1&cino=UKHC010047152016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "02e9d7bc1f176f6b67e5fa925f4ab479e1e0b33addeb9b46a7849b19a3f190de",
+ "fetched_at": "2026-11-01T08:19:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

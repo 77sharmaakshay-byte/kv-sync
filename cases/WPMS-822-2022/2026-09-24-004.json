@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/822/2022:2026-09-24-004",
+ "title": "CHANDOLA HOMEOPATHIC MEDICAL COLLEGE AND HOSPITAL versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDOLA HOMEOPATHIC MEDICAL COLLEGE AND HOSPITAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/822/2022",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010049202022",
+ "doc_kind": "order",
+ "order_type": "WPMS/822/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT077oeB0TP609A6TR%2Bdtk4B6lgtdBGdvKT%2BA%2B0Cgbvnyz&caseno=WPMS/822/2022&cCode=1&cino=UKHC010049202022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c7cac675b62a2b833d3566d1b21b55ce5aef67345e2120491ee531c9a57bfb9d",
+ "fetched_at": "2026-11-01T08:39:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

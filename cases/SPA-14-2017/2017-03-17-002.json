@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/14/2017:2017-03-17-002",
+ "title": "State Of Uttarakhand AND OTHERS versus S.k. Shrivastava",
+ "petitioner": "State Of Uttarakhand AND OTHERS",
+ "respondent": "S.k. Shrivastava",
+ "case_no": "SPA/14/2017",
+ "case_type": "SPA",
+ "decision_date": "2017-03-17",
+ "cnr": "UKHC010010442017",
+ "doc_kind": "order",
+ "order_type": "SPA/14/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh%2Bw2RR5FMFmXKytftZQZ%2B%2B%2BK9vrswchdIWWnNjzW8Ms%2B&caseno=SPA/14/2017&cCode=1&cino=UKHC010010442017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4eaae750c7e4adbdedb0fd9b5bd873640dbc326685930c2d3a35f5d7d23ad9d6",
+ "fetched_at": "2026-11-01T08:41:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

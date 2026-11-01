@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/117/2022:2024-02-14-003",
+ "title": "HUKUM SINGH RAWAT versus STATE OF UTTARAKHAND",
+ "petitioner": "HUKUM SINGH RAWAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/117/2022",
+ "case_type": "SPA",
+ "decision_date": "2024-02-14",
+ "cnr": "UKHC010072002022",
+ "doc_kind": "order",
+ "order_type": "SPA/117/2022",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2FkG1dqmcBQw36GKCu23JyCs1zAn2ZnDLOZQ061QQwgQ&caseno=SPA/117/2022&cCode=1&cino=UKHC010072002022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dbaee7b472caef1f11d6b95945021e3d327263fc514d3a41a5954c92c8ea7a3f",
+ "fetched_at": "2026-11-01T08:39:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

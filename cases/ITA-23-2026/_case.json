@@ -1,0 +1,127 @@
+{
+ "cnr_number": "UKHC010069682026",
+ "case_type": "ITA",
+ "filing_number": "ITA /3646/2026",
+ "filing_date": "2026-04-28",
+ "registration_number": "ITA /23/2026",
+ "registration_date": "2026-04-28",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-03",
+ "decision_date": null,
+ "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "DEVENDRA DUTT PANT",
+   "advocate": "VINAY BISHT,DHRUV CHANDRA,DHRUV CHANDRA, ,PAVAN KUMAR NATH,DHRUV CHANDRA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "PRINCIPAL CHIEF COMMISSIONER OF INCOME TAX",
+   "advocate": "HARI MOHAN BHATIA"
+  },
+  {
+   "name": "THE PRINCIPAL COMMISSIONER OF INCOME TAX",
+   "advocate": "HARI MOHAN BHATIA"
+  },
+  {
+   "name": "DEPUTY COMMISSIONER OF INCOME TAX",
+   "advocate": "HARI MOHAN BHATIA"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Income-tax Act, 1961 (Act No. 43 of 1961)",
+   "sections": "260A"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-04-30",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-29",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-07-31",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-05-14",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-05-14",
+   "business_date": "2026-04-30",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-04-30",
+   "order_type": "ITA/23/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQngl7%2FCb%2FhifT9yXyOwNEMj6cQYWJSkSurXZBDVX2t9d&caseno=ITA/23/2026&cCode=1&cino=UKHC010069682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-14",
+   "order_type": "ITA/23/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQngl7%2FCb%2FhifT9yXyOwNEMj%2FoOB3xUwsav9UCvuQ0AzD&caseno=ITA/23/2026&cCode=1&cino=UKHC010069682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-12",
+   "order_type": "ITA/23/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQngl7%2FCb%2FhifT9yXyOwNEMgGSz5lE%2FqSIy31i8BzUWE7&caseno=ITA/23/2026&cCode=1&cino=UKHC010069682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-07-31",
+   "order_type": "ITA/23/2026",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQngl7%2FCb%2FhifT9yXyOwNEMiT4xgN0OfxXTum4LvPrlSi&caseno=ITA/23/2026&cCode=1&cino=UKHC010069682026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

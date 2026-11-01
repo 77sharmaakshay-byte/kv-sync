@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/42/2026:2026-08-07-003",
+ "title": "M/S HYDEL CONSTRUCTIONS PVT LTD versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S HYDEL CONSTRUCTIONS PVT LTD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "AO/42/2026",
+ "case_type": "AO",
+ "decision_date": "2026-08-07",
+ "cnr": "UKHC010021392026",
+ "doc_kind": "order",
+ "order_type": "AO/42/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqq9s1UjeVOdzpI%2FOi%2FxFlcokMkGgYaj1kcPb8uSwU%2Bx&caseno=AO/42/2026&cCode=1&cino=UKHC010021392026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9d075ae5a005e040f952751a40aadb49b52737efee8b4461e012a9b21a50ace4",
+ "fetched_at": "2026-11-01T08:40:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

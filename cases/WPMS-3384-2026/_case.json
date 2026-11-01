@@ -1,0 +1,59 @@
+{
+ "cnr_number": "UKHC010195932026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /10124/2026",
+ "filing_date": "2026-10-30",
+ "registration_number": "WPMS /3384/2026",
+ "registration_date": "2026-10-30",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-02",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "",
+ "district": "",
+ "petitioners": [
+  {
+   "name": "SAXENA HEALTH CARE PVT LTD",
+   "advocate": "AJEET KUMAR YADAV,TRILOK CHANDRA,TRILOK CHANDRA, ,TRILOK CHANDRA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  },
+  {
+   "name": "COLLECTOR",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SUB DIVISIONAL MAGISTRATE",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "TEHSILDAR",
+   "advocate": "C.S.C."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-11-02",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

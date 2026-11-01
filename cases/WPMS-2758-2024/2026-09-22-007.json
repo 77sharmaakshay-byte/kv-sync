@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2758/2024:2026-09-22-007",
+ "title": "VIKRAM SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "VIKRAM SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2758/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010160402024",
+ "doc_kind": "order",
+ "order_type": "WPMS/2758/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcNQC8ONk2pyRMg58zaH7RLGapSntr9UhGXTOE1qdux55&caseno=WPMS/2758/2024&cCode=1&cino=UKHC010160402024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7c0112aba34755a96f737385fafcc78bbceed3f876dd01413143ec45df6c7627",
+ "fetched_at": "2026-11-01T08:23:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

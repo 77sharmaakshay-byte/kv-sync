@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/367/2026:2026-09-08-001",
+ "title": "AKSHAY TOMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "AKSHAY TOMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/367/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010153092026",
+ "doc_kind": "order",
+ "order_type": "SPA/367/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQreahw%2BZ%2Fd92dvAlJa9MkadFGTa3e0aKBO5dEh8QaEkU&caseno=SPA/367/2026&cCode=1&cino=UKHC010153092026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5f389bfe5a9f30d14589287e84d5add9bd35d13f2e9f0557c62278eb05f183da",
+ "fetched_at": "2026-11-01T08:36:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

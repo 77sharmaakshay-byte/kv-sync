@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/664/2026:2026-09-10-005",
+ "title": "SANJAY SAINI versus STATE OF UTTARAKHAND",
+ "petitioner": "SANJAY SAINI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/664/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-10",
+ "cnr": "UKHC010066402026",
+ "doc_kind": "order",
+ "order_type": "BA1/664/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpuGcwbS3JrDT8vtwH4C8%2BS1diSaVyk6M0sX1Et7Qncr&caseno=BA1/664/2026&cCode=1&cino=UKHC010066402026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d30406627b70116a58381f1d4473fbb161c5e6d35174606f6b9d412d0d3c1adb",
+ "fetched_at": "2026-11-01T08:36:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

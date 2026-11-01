@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/142/2015:2023-11-30-012",
+ "title": "STATE OF UTTARAKHAND versus M/S N.K.G INFRASTRUCTURE LIMITED",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "M/S N.K.G INFRASTRUCTURE LIMITED",
+ "case_no": "AO/142/2015",
+ "case_type": "AO",
+ "decision_date": "2023-11-30",
+ "cnr": "UKHC010026042015",
+ "doc_kind": "order",
+ "order_type": "AO/142/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWarCY8EGQRxI5GKJHsV27mEDGGUMs3Fem936qXHO6c1d&caseno=AO/142/2015&cCode=1&cino=UKHC010026042015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2925f33f84579374f5e1ccf899d7f56175ae3cf45e0ef89dbe93f3e960c51de1",
+ "fetched_at": "2026-11-01T08:20:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

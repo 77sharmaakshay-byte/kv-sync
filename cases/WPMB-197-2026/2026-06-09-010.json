@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/197/2026:2026-06-09-010",
+ "title": "LAIBA TAHIR versus STATE OF UTTARAKHAND",
+ "petitioner": "LAIBA TAHIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/197/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-06-09",
+ "cnr": "UKHC010042702026",
+ "doc_kind": "order",
+ "order_type": "WPMB/197/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvrFfQNO44Bn7tMxtjthf6ZcLQlv3zmwT9FHWpYmPCqv&caseno=WPMB/197/2026&cCode=1&cino=UKHC010042702026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "366c9b8cc40c715556337e139e828241f6e95e980ce8ffb2337b672d3f3055a5",
+ "fetched_at": "2026-11-01T08:38:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,11 +6,11 @@
  "registration_number": "AO /194/2026",
  "registration_date": "2026-05-26",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-03",
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "ADMISSION MATTERS (AFTER FRESH) -30",
  "status": "",
- "coram": "Registrar (Judicial)",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -25,7 +25,7 @@
  "respondents": [
   {
    "name": "MANAGER THE KISAN SAHKARI CHINI MILLS LTD",
-   "advocate": ""
+   "advocate": "VINAY BHATT"
   },
   {
    "name": "SECRETARY",
@@ -42,6 +42,20 @@
   {
    "hearing_date": "2026-05-27",
    "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-10-16",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-13",
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -75,5 +89,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-16",
+   "order_type": "AO/194/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiNrg5aaIPHs5r8Rt3UQB4e6OMETASNhpKDr7CU8cKTY&caseno=AO/194/2026&cCode=1&cino=UKHC010090672026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

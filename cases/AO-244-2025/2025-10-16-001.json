@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/244/2025:2025-10-16-001",
+ "title": "STATE OF UTTARAKHAND versus MS CRYSTAL INFRASTRUCTURE",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "MS CRYSTAL INFRASTRUCTURE",
+ "case_no": "AO/244/2025",
+ "case_type": "AO",
+ "decision_date": "2025-10-16",
+ "cnr": "UKHC010109172025",
+ "doc_kind": "order",
+ "order_type": "AO/244/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmy0s35qaVfX4FTmzbtZdJVa%2BHcLQJaOIStJLaHf9XsDy&caseno=AO/244/2025&cCode=1&cino=UKHC010109172025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f24350a984390ef242075bd569cf8a0562c97d9d756b5c36816150cf45ccb292",
+ "fetched_at": "2026-11-01T08:39:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

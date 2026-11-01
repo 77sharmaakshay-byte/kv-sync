@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/6/2022:2022-01-14-001",
+ "title": "NIDHI UNIYAL versus STATE OF UTTARAKHAND, THROUGH SECRETARY, MEDICAL,",
+ "petitioner": "NIDHI UNIYAL",
+ "respondent": "STATE OF UTTARAKHAND, THROUGH SECRETARY, MEDICAL,",
+ "case_no": "SPA/6/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-01-14",
+ "cnr": "UKHC010006362022",
+ "doc_kind": "order",
+ "order_type": "SPA/6/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06s9MJG2iwsv8VGNBBjOStiVDzcU3JuNEppccVG26e%2FP&caseno=SPA/6/2022&cCode=1&cino=UKHC010006362022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a3872cf7d52712d2dfb8434da6cc1ff8dec89e932955f4136db59dbb1c5737f7",
+ "fetched_at": "2026-11-01T08:39:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

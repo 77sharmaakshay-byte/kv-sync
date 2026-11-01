@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/259/2025:2025-06-27-001",
+ "title": "AMITABH JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "AMITABH JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/259/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-06-27",
+ "cnr": "UKHC010095592025",
+ "doc_kind": "order",
+ "order_type": "WPSB/259/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3Ua5u9jcRy8B5KKgTtUMDwjBs9yF3c7GYiGJuZf3Zf3&caseno=WPSB/259/2025&cCode=1&cino=UKHC010095592025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8793cac6d2d4504a918c2555ead1acffdc3aa966c15c61abc9fa81f1e4edf0b4",
+ "fetched_at": "2026-11-01T08:38:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

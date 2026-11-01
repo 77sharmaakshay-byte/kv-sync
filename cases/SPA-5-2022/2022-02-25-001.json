@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/5/2022:2022-02-25-001",
+ "title": "NEERAJ BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "NEERAJ BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/5/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-02-25",
+ "cnr": "UKHC010006372022",
+ "doc_kind": "order",
+ "order_type": "SPA/5/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xk%2B2kVmF7Lc%2BjWzZv92i0ZG0ddylwTPAlmzsx3pjY9o&caseno=SPA/5/2022&cCode=1&cino=UKHC010006372022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "127eceaa9da9651b52003aed140afd8e2c36aa90bc0ef30758d8a51ec65536fe",
+ "fetched_at": "2026-11-01T08:38:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

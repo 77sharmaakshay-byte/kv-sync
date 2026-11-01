@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/822/2022:2023-05-23-002",
+ "title": "CHANDOLA HOMEOPATHIC MEDICAL COLLEGE AND HOSPITAL versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDOLA HOMEOPATHIC MEDICAL COLLEGE AND HOSPITAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/822/2022",
+ "case_type": "WPMS",
+ "decision_date": "2023-05-23",
+ "cnr": "UKHC010049202022",
+ "doc_kind": "order",
+ "order_type": "WPMS/822/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT077oeB0TP609A6TR%2Bdtk4B5S7UJw8oOjYv6EZnUi1P9t&caseno=WPMS/822/2022&cCode=1&cino=UKHC010049202022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3bf650605ecc0fa2f8350dd43c5591924561087efd0ca8d3812411e3e73eaba6",
+ "fetched_at": "2026-11-01T08:39:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

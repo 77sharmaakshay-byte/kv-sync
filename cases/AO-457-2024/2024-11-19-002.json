@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/457/2024:2024-11-19-002",
+ "title": "RISHI KAPOOR versus POONAM KAPOOR",
+ "petitioner": "RISHI KAPOOR",
+ "respondent": "POONAM KAPOOR",
+ "case_no": "AO/457/2024",
+ "case_type": "AO",
+ "decision_date": "2024-11-19",
+ "cnr": "UKHC010178362024",
+ "doc_kind": "order",
+ "order_type": "AO/457/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcO4kXGGCuLz25zVxqO2npMzyejZWEucRPEothLzSwTf2&caseno=AO/457/2024&cCode=1&cino=UKHC010178362024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f9ad14cccf4def628387e324d1f937940ecea9fad3e3c742c01a12346e659079",
+ "fetched_at": "2026-11-01T08:23:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

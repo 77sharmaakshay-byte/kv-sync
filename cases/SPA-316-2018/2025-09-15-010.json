@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/316/2018:2025-09-15-010",
+ "title": "MAXX MOBILE COMMUNICATION LTD versus HARIDWAR DEVELOPMENT AUTHORITY,",
+ "petitioner": "MAXX MOBILE COMMUNICATION LTD",
+ "respondent": "HARIDWAR DEVELOPMENT AUTHORITY,",
+ "case_no": "SPA/316/2018",
+ "case_type": "SPA",
+ "decision_date": "2025-09-15",
+ "cnr": "UKHC010059492018",
+ "doc_kind": "order",
+ "order_type": "SPA/316/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL2ji2cYmIMTh53EWj%2BdjDVfUJc9Yv1R3Sze%2BGqNN1O7Q&caseno=SPA/316/2018&cCode=1&cino=UKHC010059492018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c0b6abee0711be530a0270a7e8660c5ff890698f589bec6a55c3c9f685040d81",
+ "fetched_at": "2026-11-01T08:38:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

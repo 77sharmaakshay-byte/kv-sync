@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/5/2016:2022-03-09-008",
+ "title": "Satish Kumar versus Rajnish Kumar",
+ "petitioner": "Satish Kumar",
+ "respondent": "Rajnish Kumar",
+ "case_no": "SA/5/2016",
+ "case_type": "SA",
+ "decision_date": "2022-03-09",
+ "cnr": "UKHC010047152016",
+ "doc_kind": "order",
+ "order_type": "SA/5/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBVGuxE%2F6%2BK%2Br8IE1RlEdtptjwofHonqoSfHJbel0hAxk&caseno=SA/5/2016&cCode=1&cino=UKHC010047152016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8f845bb0bdfaa1510672f04606e6062f005d6add57a4929552062b2d190ee1b4",
+ "fetched_at": "2026-11-01T08:20:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

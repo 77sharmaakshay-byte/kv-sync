@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/730/2025:2025-09-22-005",
+ "title": "HILLWAYS CONSTRUCTION COMPANY PRIVATE LIMITED versus SUPERINTENDING ENGINEER",
+ "petitioner": "HILLWAYS CONSTRUCTION COMPANY PRIVATE LIMITED",
+ "respondent": "SUPERINTENDING ENGINEER",
+ "case_no": "WPMB/730/2025",
+ "case_type": "WPMB",
+ "decision_date": "2025-09-22",
+ "cnr": "UKHC010132682025",
+ "doc_kind": "order",
+ "order_type": "WPMB/730/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm95v8lRyfnIL%2B%2Fmft0rMGCtorCZhABQglUwHl44vy%2F7P&caseno=WPMB/730/2025&cCode=1&cino=UKHC010132682025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6356aa89194e44f60062aaf5fb8baa53938e7d2e3f65dd52a463075517220cfc",
+ "fetched_at": "2026-11-01T08:39:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

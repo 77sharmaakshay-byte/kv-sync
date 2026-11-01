@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2379/2026:2026-10-14-003",
+ "title": "ASFAQ DECEASED(Legal Heir) versus GRAM SABHA",
+ "petitioner": "ASFAQ DECEASED(Legal Heir)",
+ "respondent": "GRAM SABHA",
+ "case_no": "WPMS/2379/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010137932026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2379/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhrJqFgUrXxNRhw0gi0vVo4slApwZvrSZluARtqGV0GR&caseno=WPMS/2379/2026&cCode=1&cino=UKHC010137932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cfab77a14dad1a9c1ce27bdd02c7b9f3b0c0b23d3f006b908a15b556ff9f410e",
+ "fetched_at": "2026-11-01T08:23:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

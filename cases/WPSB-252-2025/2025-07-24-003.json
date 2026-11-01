@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/252/2025:2025-07-24-003",
+ "title": "RAJESH DURGAPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJESH DURGAPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/252/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-07-24",
+ "cnr": "UKHC010093282025",
+ "doc_kind": "order",
+ "order_type": "WPSB/252/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxe7kE42nARbiJncDSc%2F4yv24uzkuKdXD8wB7oXaEfyg&caseno=WPSB/252/2025&cCode=1&cino=UKHC010093282025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d7da3658e83320cba6db928d7fbb6a09af561fd9c95536103b4cec1e4bbaff1",
+ "fetched_at": "2026-11-01T08:38:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

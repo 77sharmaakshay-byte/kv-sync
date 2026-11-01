@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/519/2022:2022-03-22-003",
+ "title": "PRADEEP BOHRA versus STATE OF UTTARAKHAND",
+ "petitioner": "PRADEEP BOHRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/519/2022",
+ "case_type": "WPMS",
+ "decision_date": "2022-03-22",
+ "cnr": "UKHC010031952022",
+ "doc_kind": "order",
+ "order_type": "WPMS/519/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT02zznnGPjlRfmRmSq42TiFfh3gRUlgPKpb2Vx7QDKiS7&caseno=WPMS/519/2022&cCode=1&cino=UKHC010031952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ef97fedadc52315acb2a3d91b0baeeca62695f4543db7fa0e1d2b4ea74e6904",
+ "fetched_at": "2026-11-01T08:22:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

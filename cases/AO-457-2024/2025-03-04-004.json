@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/457/2024:2025-03-04-004",
+ "title": "RISHI KAPOOR versus POONAM KAPOOR",
+ "petitioner": "RISHI KAPOOR",
+ "respondent": "POONAM KAPOOR",
+ "case_no": "AO/457/2024",
+ "case_type": "AO",
+ "decision_date": "2025-03-04",
+ "cnr": "UKHC010178362024",
+ "doc_kind": "order",
+ "order_type": "AO/457/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcO4kXGGCuLz25zVxqO2npMyv0GnphJ1DSNxQ2PBcm34s&caseno=AO/457/2024&cCode=1&cino=UKHC010178362024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c47e9eb48319ace83a075e466e28397100af26d81c359dce3fd69ff7938c65d8",
+ "fetched_at": "2026-11-01T08:23:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

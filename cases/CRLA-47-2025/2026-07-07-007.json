@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/47/2025:2026-07-07-007",
+ "title": "NARENDRA SINGH ALIAS NARI BORA versus STATE OF UTTARAKHAND",
+ "petitioner": "NARENDRA SINGH ALIAS NARI BORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/47/2025",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-07",
+ "cnr": "UKHC010010052025",
+ "doc_kind": "order",
+ "order_type": "CRLA/47/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2F65mKSe1Zyn1klIz7LM59GZslTyi4HwIxUhSFxnR4c9&caseno=CRLA/47/2025&cCode=1&cino=UKHC010010052025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1921ff1e3df42bd2622d181df3f7f9bde6dd558166b3d1bc4d71f963a9449747",
+ "fetched_at": "2026-11-01T08:42:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

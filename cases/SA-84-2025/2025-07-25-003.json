@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/84/2025:2025-07-25-003",
+ "title": "NAVEEN ARORA versus HIRAWATI",
+ "petitioner": "NAVEEN ARORA",
+ "respondent": "HIRAWATI",
+ "case_no": "SA/84/2025",
+ "case_type": "SA",
+ "decision_date": "2025-07-25",
+ "cnr": "UKHC010105362025",
+ "doc_kind": "order",
+ "order_type": "SA/84/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm8N9Xh2xFXOZp3svnByJaHBviAZw9RvvOdJUY6fJxg9x&caseno=SA/84/2025&cCode=1&cino=UKHC010105362025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d737899205d2a0812fc2aa856f8b516ff0bea1966a2bbc6cda2051ba93c24500",
+ "fetched_at": "2026-11-01T08:20:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/76/2026:2026-06-18-003",
+ "title": "PHARMACY COUNCIL versus PRATIBHA RAWAT",
+ "petitioner": "PHARMACY COUNCIL",
+ "respondent": "PRATIBHA RAWAT",
+ "case_no": "SPA/76/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-06-18",
+ "cnr": "UKHC010043312026",
+ "doc_kind": "order",
+ "order_type": "SPA/76/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu7t2cS8NeWievVAoZptwPngF%2Bv%2BxTcdFB5BAt3njp2d&caseno=SPA/76/2026&cCode=1&cino=UKHC010043312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fa5b23b5612083cad0e1d4976b00874e86a6a8f8f9a8bf574090532c06397ff5",
+ "fetched_at": "2026-11-01T08:40:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

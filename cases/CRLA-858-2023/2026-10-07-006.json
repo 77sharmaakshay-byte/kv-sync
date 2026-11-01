@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/858/2023:2026-10-07-006",
+ "title": "LOHRI versus STATE OF UTTARAKHAND",
+ "petitioner": "LOHRI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/858/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010193062023",
+ "doc_kind": "order",
+ "order_type": "CRLA/858/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzjZX5uZdGTwq3zTwYxzbHC8wEspWjn2ZL%2BtmNJ8rwE8&caseno=CRLA/858/2023&cCode=1&cino=UKHC010193062023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2d05b548f5ccfc4648854b98b619881edd14b0f0fa6f03a9b723d9172abd2dc5",
+ "fetched_at": "2026-11-01T08:44:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

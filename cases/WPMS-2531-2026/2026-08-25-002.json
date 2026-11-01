@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2531/2026:2026-08-25-002",
+ "title": "NIKHIL KUMAR versus SANJAY SAKLANI",
+ "petitioner": "NIKHIL KUMAR",
+ "respondent": "SANJAY SAKLANI",
+ "case_no": "WPMS/2531/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-25",
+ "cnr": "UKHC010147402026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2531/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgmDHVFL6fgDGzfSgBdq%2BxWu5CIykC7uoo8QNuhIn5Bn&caseno=WPMS/2531/2026&cCode=1&cino=UKHC010147402026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b0f7ec2262f1c13dacfa96a94d1b6ab8b51c2294c78c9e3376b7cf22d3c6ba7c",
+ "fetched_at": "2026-11-01T08:22:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

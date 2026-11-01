@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/383/2026:2026-09-22-001",
+ "title": "NEERAJ KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "NEERAJ KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/383/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010158962026",
+ "doc_kind": "order",
+ "order_type": "SPA/383/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp2wo8mO1%2Br5vEdnRzJIVzMnQ6tk4AcWQ8VCk0cP63el&caseno=SPA/383/2026&cCode=1&cino=UKHC010158962026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "35b69094dba23d672d922d166af4de3e63a5587ecee2cf0051abdb13855cabe9",
+ "fetched_at": "2026-11-01T08:36:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

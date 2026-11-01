@@ -1,0 +1,62 @@
+{
+ "cnr_number": "UKHC010189072026",
+ "case_type": "WPCRL",
+ "filing_number": "WPCRL /9106/2026",
+ "filing_date": "2026-10-16",
+ "registration_number": "WPCRL /2161/2026",
+ "registration_date": "2026-10-16",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-02",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "GURPREET SINGH GILL",
+   "advocate": "ABHISHEK VERMA,ARVIND KUMAR,ARVIND KUMAR, ,ARVIND KUMAR"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "STATION HOUSE OFFICER",
+   "advocate": "G.A."
+  },
+  {
+   "name": "KHEEM SINGH BISHT",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "420"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-27",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-27",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

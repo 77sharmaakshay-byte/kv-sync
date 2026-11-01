@@ -6,11 +6,11 @@
  "registration_number": "WPMS /2379/2026",
  "registration_date": "2026-08-03",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-02",
  "decision_date": null,
  "case_stage": "ADMISSION MATTERS -25",
  "status": "",
- "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -56,6 +56,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-14",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -109,6 +116,15 @@
    "order_type": "WPMS/2379/2026",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhrJqFgUrXxNRhw0gi0vVo7P4lOKnf3CNwEgi3dWe0ne&caseno=WPMS/2379/2026&cCode=1&cino=UKHC010137932026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-14",
+   "order_type": "WPMS/2379/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhrJqFgUrXxNRhw0gi0vVo4slApwZvrSZluARtqGV0GR&caseno=WPMS/2379/2026&cCode=1&cino=UKHC010137932026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

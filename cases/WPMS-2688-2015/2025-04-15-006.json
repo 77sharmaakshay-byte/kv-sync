@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2688/2015:2025-04-15-006",
+ "title": "SANJAY KUMAR versus ISAM SINGH",
+ "petitioner": "SANJAY KUMAR",
+ "respondent": "ISAM SINGH",
+ "case_no": "WPMS/2688/2015",
+ "case_type": "WPMS",
+ "decision_date": "2025-04-15",
+ "cnr": "UKHC010020922015",
+ "doc_kind": "order",
+ "order_type": "WPMS/2688/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWdOT8RwCv4zsxE129WyBrKh4Xaa1nv1kKSGqCqKpdti8&caseno=WPMS/2688/2015&cCode=1&cino=UKHC010020922015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4f2f5390631396f94251ee0a4cb9c093702ff69ddb872dd0816fb4b23a8bdf3b",
+ "fetched_at": "2026-11-01T08:23:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

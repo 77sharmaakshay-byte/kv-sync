@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/393/2026:2026-09-24-001",
+ "title": "PRIYANKA SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "PRIYANKA SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/393/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010160912026",
+ "doc_kind": "order",
+ "order_type": "SPA/393/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtfvq0NfWWBIOOgYNAHsGguCPALzfuNoULtIrG9IAUx4&caseno=SPA/393/2026&cCode=1&cino=UKHC010160912026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a152e45c7e295e1bdf5ba4123b82ec6f4e6ced96cb64d4c35bd24948d394fae1",
+ "fetched_at": "2026-11-01T08:36:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

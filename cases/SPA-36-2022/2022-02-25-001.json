@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/36/2022:2022-02-25-001",
+ "title": "THE KISAN SAHKARI CHINI MILLS LTD. versus BHUPENDRA SINGH",
+ "petitioner": "THE KISAN SAHKARI CHINI MILLS LTD.",
+ "respondent": "BHUPENDRA SINGH",
+ "case_no": "SPA/36/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-02-25",
+ "cnr": "UKHC010023302022",
+ "doc_kind": "order",
+ "order_type": "SPA/36/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2Ba4Ak89obK62AW%2BQCk3yXF90DdP78Rej5XTVRnd6dJU&caseno=SPA/36/2022&cCode=1&cino=UKHC010023302022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a070ecfd8c90c4eb292971bccd712a1a26bb5c51f12cd15202ec0aba7311a245",
+ "fetched_at": "2026-11-01T08:38:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

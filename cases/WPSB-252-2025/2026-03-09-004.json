@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/252/2025:2026-03-09-004",
+ "title": "RAJESH DURGAPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJESH DURGAPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/252/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-03-09",
+ "cnr": "UKHC010093282025",
+ "doc_kind": "order",
+ "order_type": "WPSB/252/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxe7kE42nARbiJncDSc%2F4ysHT2z8l%2FP5%2BTmenKHFw6LS&caseno=WPSB/252/2025&cCode=1&cino=UKHC010093282025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "23624f3cc5bfba2708e76d07a635f491d4b9fddc5fe6f3682888e8fd2b1e8b80",
+ "fetched_at": "2026-11-01T08:38:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

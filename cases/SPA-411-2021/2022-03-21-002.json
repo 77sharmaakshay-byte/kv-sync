@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/411/2021:2022-03-21-002",
+ "title": "SWAMI UMA BHARTI versus NATIONAL HIGHWAY AUTHORITY OF INDIA THROUGH SECRETARY",
+ "petitioner": "SWAMI UMA BHARTI",
+ "respondent": "NATIONAL HIGHWAY AUTHORITY OF INDIA THROUGH SECRETARY",
+ "case_no": "SPA/411/2021",
+ "case_type": "SPA",
+ "decision_date": "2022-03-21",
+ "cnr": "UKHC010145932021",
+ "doc_kind": "order",
+ "order_type": "SPA/411/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkHrU8%2BypdxWx%2FIXK5Te0RU%2BUErn1YO9tzCkaebeWfjXn&caseno=SPA/411/2021&cCode=1&cino=UKHC010145932021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "917616ad85f61988e49da4f820a420c16b5de7086512b710115f85a757e7fc50",
+ "fetched_at": "2026-11-01T08:39:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

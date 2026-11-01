@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/5/2016:2019-04-22-007",
+ "title": "Satish Kumar versus Rajnish Kumar",
+ "petitioner": "Satish Kumar",
+ "respondent": "Rajnish Kumar",
+ "case_no": "SA/5/2016",
+ "case_type": "SA",
+ "decision_date": "2019-04-22",
+ "cnr": "UKHC010047152016",
+ "doc_kind": "order",
+ "order_type": "SA/5/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBVGuxE%2F6%2BK%2Br8IE1RlEdtptqN74ZD%2Fo1aJiZ8r1W7BZs&caseno=SA/5/2016&cCode=1&cino=UKHC010047152016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "25ce6f8de5b200eadbece577bda997dd71868ccbd1487f32275ed9ae20a0db9e",
+ "fetched_at": "2026-11-01T08:20:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

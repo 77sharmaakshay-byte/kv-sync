@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/332/2026:2026-06-10-001",
+ "title": "OM SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "OM SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/332/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-10",
+ "cnr": "UKHC010100792026",
+ "doc_kind": "order",
+ "order_type": "WPSB/332/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkcFeMsM3aS5eqy%2FaYY7i1ttNOTb1dKxoUGRimzyl3kK&caseno=WPSB/332/2026&cCode=1&cino=UKHC010100792026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a9bcf1a9d082375e490492b4cc29c57dc9252d87e18e223ec816c64d3bb9d3ca",
+ "fetched_at": "2026-11-01T08:40:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

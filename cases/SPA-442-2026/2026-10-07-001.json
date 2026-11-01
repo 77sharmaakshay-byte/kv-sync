@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/442/2026:2026-10-07-001",
+ "title": "VINEETA versus RANJANA RAJGURU",
+ "petitioner": "VINEETA",
+ "respondent": "RANJANA RAJGURU",
+ "case_no": "SPA/442/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010177022026",
+ "doc_kind": "order",
+ "order_type": "SPA/442/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjoxS6y9egl%2B8D5P9f1BB5EgRZTExCtJ77qI%2BARZdq39&caseno=SPA/442/2026&cCode=1&cino=UKHC010177022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f3d55199aae9ce46835591de53ee1696ec7a81edbf7cd0108c7f266371a30ea7",
+ "fetched_at": "2026-11-01T08:41:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

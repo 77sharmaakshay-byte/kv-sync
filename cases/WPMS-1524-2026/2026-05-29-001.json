@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1524/2026:2026-05-29-001",
+ "title": "ELAM SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ELAM SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1524/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-29",
+ "cnr": "UKHC010088122026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1524/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvFrLkkR8veczTNKiadhpqrRzcI8TPwGlf9DoY2cT3UD&caseno=WPMS/1524/2026&cCode=1&cino=UKHC010088122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1465fb9416fb81130f0cc1cfec7e2f1b0c13816ec3738fe5204a4b7530ade625",
+ "fetched_at": "2026-11-01T08:36:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,58 @@
+{
+ "cnr_number": "UKHC010189112026",
+ "case_type": "CRLR",
+ "filing_number": "CRLR /9109/2026",
+ "filing_date": "2026-10-16",
+ "registration_number": "CRLR /820/2026",
+ "registration_date": "2026-10-16",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-02",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "MANISH RAWAT",
+   "advocate": "ABHIJAY NEGI,SNIGDHA TIWARI,SNIGDHA TIWARI, ,AYUSH POKHRIYAL,SNIGDHA TIWARI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "HIMANI PANWAR",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nagarik Suraksha Sanhita",
+   "sections": "379"
+  },
+  {
+   "act": "Code of Criminal Procedure, 1973 (Act No. 2 of 1974)",
+   "sections": "125"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-27",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-27",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

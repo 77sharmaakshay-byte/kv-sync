@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/50/2022:2022-03-29-001",
+ "title": "M/S OM SEEDS PVT. LTD. (A PRIVATE LTD COMPANY) versus DISTRICT MAGISTRATE UDHAM SINGH NAGAR",
+ "petitioner": "M/S OM SEEDS PVT. LTD. (A PRIVATE LTD COMPANY)",
+ "respondent": "DISTRICT MAGISTRATE UDHAM SINGH NAGAR",
+ "case_no": "SPA/50/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-03-29",
+ "cnr": "UKHC010038012022",
+ "doc_kind": "order",
+ "order_type": "SPA/50/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01gfAYaeVgyiz8G%2FD3%2FFDxxFqrrX8MpiFUzEUFh2CgF%2B&caseno=SPA/50/2022&cCode=1&cino=UKHC010038012022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e74bbbdc9dd574e65a6da1067ea53e030ed0858f5a4d57017b005b1fcd8517df",
+ "fetched_at": "2026-11-01T08:39:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

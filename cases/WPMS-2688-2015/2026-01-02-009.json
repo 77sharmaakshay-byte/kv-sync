@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2688/2015:2026-01-02-009",
+ "title": "SANJAY KUMAR versus ISAM SINGH",
+ "petitioner": "SANJAY KUMAR",
+ "respondent": "ISAM SINGH",
+ "case_no": "WPMS/2688/2015",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-02",
+ "cnr": "UKHC010020922015",
+ "doc_kind": "order",
+ "order_type": "WPMS/2688/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWdOT8RwCv4zsxE129WyBrKhGImp0sf8vFQVRTP7YIUx0&caseno=WPMS/2688/2015&cCode=1&cino=UKHC010020922015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dd4972db330587657cbd96c14bb338fdbbf0fc3603ea7111bc6fcc07df644adc",
+ "fetched_at": "2026-11-01T08:23:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/417/2026:2026-09-07-002",
+ "title": "X versus STATE OF UTTARAKHAND",
+ "petitioner": "X",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/417/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010124572026",
+ "doc_kind": "order",
+ "order_type": "CRLA/417/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrd52KBUYf%2BhwLXgXkQ%2F0In%2Fk5jZj5VTeOkO1%2BLsusSE&caseno=CRLA/417/2026&cCode=1&cino=UKHC010124572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2a743d26a3a704a176886e47e0fe58ff2af93d28f68ecb7a713891851897cfb5",
+ "fetched_at": "2026-11-01T08:42:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

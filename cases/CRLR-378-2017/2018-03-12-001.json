@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/378/2017:2018-03-12-001",
+ "title": "Shiv Kumar versus Smt. Pooja",
+ "petitioner": "Shiv Kumar",
+ "respondent": "Smt. Pooja",
+ "case_no": "CRLR/378/2017",
+ "case_type": "CRLR",
+ "decision_date": "2018-03-12",
+ "cnr": "UKHC010002252017",
+ "doc_kind": "order",
+ "order_type": "CRLR/378/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh2tBfiZuoyk7kKMNwG69nFE1NjcEOsaota6UXwqQVWkw&caseno=CRLR/378/2017&cCode=1&cino=UKHC010002252017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "729f506d90172fc7e8388ac5fb221d8f49a5db8f7223dcbbd326c345621761c6",
+ "fetched_at": "2026-11-01T08:43:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

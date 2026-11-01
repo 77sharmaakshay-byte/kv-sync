@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/367/2026:2026-09-15-002",
+ "title": "AKSHAY TOMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "AKSHAY TOMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/367/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010153092026",
+ "doc_kind": "order",
+ "order_type": "SPA/367/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQreahw%2BZ%2Fd92dvAlJa9MkadD1Gf5it1v9Kznua1%2BCOKj&caseno=SPA/367/2026&cCode=1&cino=UKHC010153092026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a630521b6152388f5fc358e57755765edbec9f582bdf2b257b6ddfc8445bfdc9",
+ "fetched_at": "2026-11-01T08:36:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

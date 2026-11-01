@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/392/2026:2026-09-24-001",
+ "title": "DHARMENDRA KUMAR SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "DHARMENDRA KUMAR SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/392/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010160702026",
+ "doc_kind": "order",
+ "order_type": "SPA/392/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm8vULXe6PPsrwhWTNkm9WJF6%2BIvq7Z%2BS8hDZ1jnsoKp&caseno=SPA/392/2026&cCode=1&cino=UKHC010160702026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cdf8d8f9f2a863dfe9c1d52f367bf53478f6649ab24765002c20f5cea9371cc2",
+ "fetched_at": "2026-11-01T08:37:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

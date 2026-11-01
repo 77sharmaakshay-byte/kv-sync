@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/117/2022:2022-09-12-001",
+ "title": "HUKUM SINGH RAWAT versus STATE OF UTTARAKHAND",
+ "petitioner": "HUKUM SINGH RAWAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/117/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-09-12",
+ "cnr": "UKHC010072002022",
+ "doc_kind": "order",
+ "order_type": "SPA/117/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2FkG1dqmcBQw36GKCu23JyCHhClSm8ktevrRy%2FRJYVvp&caseno=SPA/117/2022&cCode=1&cino=UKHC010072002022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0811b2c6d71259b7b84a592ca565c33b1ab4b903e2a21b30fb0e46c986fb8796",
+ "fetched_at": "2026-11-01T08:39:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

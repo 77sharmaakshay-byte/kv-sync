@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/245/2025:2025-06-26-002",
+ "title": "MAHIMANAND JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHIMANAND JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/245/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-06-26",
+ "cnr": "UKHC010090742025",
+ "doc_kind": "order",
+ "order_type": "WPSB/245/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4RvWDLI1GZcdhFfmGMtRaYDPNuia%2FRFrZGwy18Lz5KX&caseno=WPSB/245/2025&cCode=1&cino=UKHC010090742025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "db4998aa597563a210d111b818ea4cd753dc5f3917a6c6483a6bad83dc132e70",
+ "fetched_at": "2026-11-01T08:38:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

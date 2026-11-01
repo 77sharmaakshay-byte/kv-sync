@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/50/2018:2018-04-19-002",
+ "title": "Mayank Joshi versus Pan Card Club Limited",
+ "petitioner": "Mayank Joshi",
+ "respondent": "Pan Card Club Limited",
+ "case_no": "FA/50/2018",
+ "case_type": "FA",
+ "decision_date": "2018-04-19",
+ "cnr": "UKHC010014172018",
+ "doc_kind": "order",
+ "order_type": "FA/50/2018",
+ "judges": [
+  "Hon'ble Mr. Justice V. K. Bist"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL8gXnSUeo1djCHuwP9DQlaFtnSvn30A2OvDX7QzWAgCH&caseno=FA/50/2018&cCode=1&cino=UKHC010014172018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dbe4963e0aaa786d3ee4824a2af46a55de4240e07b2aa5ef869b21e4cf382616",
+ "fetched_at": "2026-11-01T08:19:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

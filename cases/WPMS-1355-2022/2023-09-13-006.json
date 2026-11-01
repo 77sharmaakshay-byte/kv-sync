@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1355/2022:2023-09-13-006",
+ "title": "DHANASHREE AGRO PRODUCTS PRIVATE LIMITED versus PRESIDING OFFICER LABOUR COURT HARIDWAR",
+ "petitioner": "DHANASHREE AGRO PRODUCTS PRIVATE LIMITED",
+ "respondent": "PRESIDING OFFICER LABOUR COURT HARIDWAR",
+ "case_no": "WPMS/1355/2022",
+ "case_type": "WPMS",
+ "decision_date": "2023-09-13",
+ "cnr": "UKHC010080652022",
+ "doc_kind": "order",
+ "order_type": "WPMS/1355/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06BhKnG0AlXNFRCUtXxDkUB78%2BLV7nC1wK0%2FlzQQdYsh&caseno=WPMS/1355/2022&cCode=1&cino=UKHC010080652022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "328901bcd43c7e6077e24e6656d1a5f0a084f48a54b253dde0dd7e329293f0cf",
+ "fetched_at": "2026-11-01T08:23:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

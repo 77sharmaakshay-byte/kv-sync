@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/276/2025:2026-07-17-002",
+ "title": "UNION OF INDIA versus MS VILLAYATI RAM MITTAL PVT LTD",
+ "petitioner": "UNION OF INDIA",
+ "respondent": "MS VILLAYATI RAM MITTAL PVT LTD",
+ "case_no": "AO/276/2025",
+ "case_type": "AO",
+ "decision_date": "2026-07-17",
+ "cnr": "UKHC010119992025",
+ "doc_kind": "order",
+ "order_type": "AO/276/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0N8XUp3WvVzj5tSgMrjZ0tK5%2BENV0DpOEk3PeJMOMhv&caseno=AO/276/2025&cCode=1&cino=UKHC010119992025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "00aa16f97a1cad4e9f28f344c567298fc2169903c4e91124f8ff70d37543b518",
+ "fetched_at": "2026-11-01T08:36:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

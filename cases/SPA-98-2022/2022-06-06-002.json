@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/98/2022:2022-06-06-002",
+ "title": "REGISTRAR GENERAL HIGH COURT OF UTTARAKHAND NAINITAL versus GOVIND SINGH",
+ "petitioner": "REGISTRAR GENERAL HIGH COURT OF UTTARAKHAND NAINITAL",
+ "respondent": "GOVIND SINGH",
+ "case_no": "SPA/98/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-06-06",
+ "cnr": "UKHC010063782022",
+ "doc_kind": "order",
+ "order_type": "SPA/98/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wTYq3wR4GwPjWYYqrlGcrfp5yQQUwlgJzgs7sLMPkzz&caseno=SPA/98/2022&cCode=1&cino=UKHC010063782022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9c4bde7f1e9fd4e0acccf7e269d67c7c5c7c4cfefa344c11511a2cffb31281a6",
+ "fetched_at": "2026-11-01T08:39:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

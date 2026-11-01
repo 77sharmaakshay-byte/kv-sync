@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1900/2018:2024-03-12-008",
+ "title": "DEEPA MALHOTRA versus STATE OF UTTARAKHAND THROUGH COLLECTOR   Advocate- ,C.S.C. 1123",
+ "petitioner": "DEEPA MALHOTRA",
+ "respondent": "STATE OF UTTARAKHAND THROUGH COLLECTOR   Advocate- ,C.S.C. 1123",
+ "case_no": "WPMS/1900/2018",
+ "case_type": "WPMS",
+ "decision_date": "2024-03-12",
+ "cnr": "UKHC010035972018",
+ "doc_kind": "order",
+ "order_type": "WPMS/1900/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL37KJrqzoxBf33V09PboWAXlHpNI8ff%2BTc6WyjNFIr2U&caseno=WPMS/1900/2018&cCode=1&cino=UKHC010035972018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "797536587a10be19f2cfc62caed4818b8a8b545258dbac794311884914b9b72f",
+ "fetched_at": "2026-11-01T08:23:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

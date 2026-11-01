@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/44/2022:2025-06-23-005",
+ "title": "SARITA TIWARI versus STATE OF UTTARAKHAND",
+ "petitioner": "SARITA TIWARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/44/2022",
+ "case_type": "SPA",
+ "decision_date": "2025-06-23",
+ "cnr": "UKHC010032312022",
+ "doc_kind": "order",
+ "order_type": "SPA/44/2022",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01LoY5n232Iz2tvvRopV%2FWrdVN0cPBE6A%2B%2F3MBNrV%2BbO&caseno=SPA/44/2022&cCode=1&cino=UKHC010032312022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f9acd0d0a93760cd6765b09863373690fce7805cd094dca61054cb02c2e9fcba",
+ "fetched_at": "2026-11-01T08:38:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

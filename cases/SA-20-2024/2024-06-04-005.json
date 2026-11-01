@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/20/2024:2024-06-04-005",
+ "title": "RAJENDRA SINGH AIRI versus NANDA DEVI",
+ "petitioner": "RAJENDRA SINGH AIRI",
+ "respondent": "NANDA DEVI",
+ "case_no": "SA/20/2024",
+ "case_type": "SA",
+ "decision_date": "2024-06-04",
+ "cnr": "UKHC010019752024",
+ "doc_kind": "order",
+ "order_type": "SA/20/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcMNnzcE89XG9vadxocUaNAmwEvqKntM%2B9D6FBqQ3jfXE&caseno=SA/20/2024&cCode=1&cino=UKHC010019752024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0069b33b7c845f26bac74c91550973c31f3c08040db150a4e7e1df80816677b9",
+ "fetched_at": "2026-11-01T08:19:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

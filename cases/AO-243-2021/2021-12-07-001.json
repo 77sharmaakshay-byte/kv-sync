@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/243/2021:2021-12-07-001",
+ "title": "PARVEZ AALAM versus SHAEEDA",
+ "petitioner": "PARVEZ AALAM",
+ "respondent": "SHAEEDA",
+ "case_no": "AO/243/2021",
+ "case_type": "AO",
+ "decision_date": "2021-12-07",
+ "cnr": "UKHC010151282021",
+ "doc_kind": "order",
+ "order_type": "AO/243/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJ2AqNWejybsH3sqOH57C496Bwi02TPq48syoI0GC0nA&caseno=AO/243/2021&cCode=1&cino=UKHC010151282021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f360ae8f56ef3eb2ead78eb50f48cf474887aeb839d8d2e111430b831bcc5c39",
+ "fetched_at": "2026-11-01T08:43:35+00:00",
+ "fetched_by": "fetch_live.py"
+}
