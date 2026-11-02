@@ -27,7 +27,7 @@ jobs:
           [ -n "$VERCEL_TOKEN" ] || { echo "::error::GitHub secret VERCEL_TOKEN nahi hai (vercel.com → Account Settings → Tokens)"; exit 1; }
           KEY=$(printf 'nyay-india:%s' "$VERCEL_TOKEN" | sha256sum | cut -c1-40)   # "Mac cause list" bhi yahi banata hai
           echo "::add-mask::$KEY"; echo "KEY=$KEY" >> "$GITHUB_ENV"
-          mkdir -p "$P/api" && cp relay/vercel.json "$P/" && cp relay/api/causelist.py "$P/api/" \
+          mkdir -p "$P/api" && cp relay/vercel.json "$P/" && cp relay/api/*.py "$P/api/" \
             && cp scripts/ukhc_ehcr.py "$P/api/_ehcr.py" && ls -R "$P"
       - name: Vercel project (pehli baar ban jaata hai)
         working-directory: ${{ env.P }}
