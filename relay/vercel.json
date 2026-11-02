@@ -1,5 +1,9 @@
 {
   "regions": ["bom1"],
   "fluid": true,
-  "functions": {"api/causelist.py": {"maxDuration": 300}}
+  "functions": {"api/causelist.py": {"maxDuration": 300}},
+  "crons": [
+    {"path": "/api/kick?w=shaam", "schedule": "0 13 * * *"},
+    {"path": "/api/kick?w=subah", "schedule": "0 1 * * *"}
+  ]
 }

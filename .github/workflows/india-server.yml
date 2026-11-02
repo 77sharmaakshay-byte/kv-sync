@@ -1,7 +1,9 @@
 # India server lagao (Vercel, free Hobby, Mumbai 'bom1'): court ki site sirf India se khulti hai; yeh server Mac ki
-# jagah cause list PDFs laata hai (relay/api/causelist.py) — Mac band ho to bhi. Server ke paas GitHub ka koi token
-# nahi: "Mac cause list" use bulata hai aur PDFs khud le jaata hai. Ek baar chalao; relay/ ya scripts/ukhc_ehcr.py
-# badle to dobara. Zaroori: GitHub secret VERCEL_TOKEN (vercel.com par GitHub se login → Account Settings → Tokens).
+# jagah cause list PDFs laata hai (relay/api/causelist.py) — Mac band ho to bhi. "Mac cause list" use bulata hai
+# aur PDFs khud le jaata hai; Vercel ka timer (relay/api/kick.py) roz shaam/subah GitHub ko woh workflow chalane ko
+# kehta hai. Ek baar chalao; relay/ ya scripts/ukhc_ehcr.py badle to dobara.
+# Zaroori: GitHub secret VERCEL_TOKEN (vercel.com → Account Settings → Tokens); timer ke liye TRIGGER_TOKEN
+# (fine-grained, sirf kv-sync, sirf Actions read/write — Vercel par yahi ek GitHub token jaata hai).
 # Chaabi = VERCEL_TOKEN ka sha256 (dono taraf yahi). Server ka pata data branch: state/india_url.
 name: India server lagao
 
@@ -30,8 +32,11 @@ jobs:
       - name: Vercel project (pehli baar ban jaata hai)
         working-directory: ${{ env.P }}
         run: npx --yes vercel@latest link --yes --token "$VERCEL_TOKEN" && cat .vercel/project.json
-      - name: Server ki chaabi
+      - name: Server ki settings (chaabi, timer ka token)
         working-directory: ${{ env.P }}
+        env:
+          TT: ${{ secrets.TRIGGER_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
           python3 - <<'PY'
           import json, os, urllib.request
@@ -42,11 +47,17 @@ jobs:
                   data=json.dumps(body).encode(),
                   headers={"Authorization": "Bearer " + os.environ["VERCEL_TOKEN"], "Content-Type": "application/json"})
               urllib.request.urlopen(req, timeout=60).read()
-          api("POST", f"/v10/projects/{p['projectId']}/env",
-              {"key": "CRON_SECRET", "value": os.environ["KEY"], "type": "encrypted", "target": ["production"]}, "upsert=true")
+          envs = {"CRON_SECRET": os.environ["KEY"], "REPO": os.environ["REPO"]}
+          if os.environ.get("TT"):
+              envs["TRIGGER_TOKEN"] = os.environ["TT"]
+          else:
+              print("TRIGGER_TOKEN secret nahi — Vercel ka timer GitHub ko nahi bula payega")
+          for k, v in envs.items():
+              api("POST", f"/v10/projects/{p['projectId']}/env",
+                  {"key": k, "value": v, "type": "encrypted", "target": ["production"]}, "upsert=true")
           # Vercel ka login-pehra hatao (warna GitHub ko 401); server khud chaabi maangta hai
           api("PATCH", f"/v9/projects/{p['projectId']}", {"ssoProtection": None})
-          print("chaabi lagi")
+          print("settings lagi:", ", ".join(envs))
           PY
       - name: Lagao (production)
         working-directory: ${{ env.P }}
@@ -71,6 +82,15 @@ jobs:
           echo "$r"
           echo "$r" | python3 -c 'import json,sys; d=json.load(sys.stdin); sys.exit(0 if d.get("ok") else 1)' \
             || { echo "::error::India server se court ki site nahi khuli (upar dekho)"; exit 1; }
+      - name: Timer ki jaanch (GitHub ko "Mac cause list" chalane ko kaha)
+        env:
+          TT: ${{ secrets.TRIGGER_TOKEN }}
+        run: |
+          [ -n "$TT" ] || { echo "::warning::TRIGGER_TOKEN nahi — list sirf GitHub ke (der wale) schedule aur Mac se"; exit 0; }
+          r=$(curl -sS -m 60 -H "Authorization: Bearer $KEY" "$URL/api/kick" || true)
+          echo "$r"
+          echo "$r" | python3 -c 'import json,sys; sys.exit(0 if json.load(sys.stdin).get("ok") else 1)' \
+            || { echo "::error::Timer GitHub ko nahi bula paya (TRIGGER_TOKEN: sirf kv-sync, Actions read/write?)"; exit 1; }
       - name: Pata data branch mein (Mac cause list yahin se padhta hai)
         run: |
           git config --global user.name "krishivlaw-bot"
