@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/229/2022:2022-12-23-001",
+ "title": "RAIL VIKAS NIGAM LTD. versus COLLECTOR PAURI GARHWAL DISTRICT PAURI GARHWAL",
+ "petitioner": "RAIL VIKAS NIGAM LTD.",
+ "respondent": "COLLECTOR PAURI GARHWAL DISTRICT PAURI GARHWAL",
+ "case_no": "FA/229/2022",
+ "case_type": "FA",
+ "decision_date": "2022-12-23",
+ "cnr": "UKHC010186082022",
+ "doc_kind": "order",
+ "order_type": "FA/229/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0w31%2FbMVnpp%2FXsrN7r%2BzbqReKFpewgNp1WcdbPPEQKaX&caseno=FA/229/2022&cCode=1&cino=UKHC010186082022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0539cc35646b6dc39a0b6fc54837c99a22560b619182eacef2b7e0d4fb0873f4",
+ "fetched_at": "2026-11-02T13:24:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

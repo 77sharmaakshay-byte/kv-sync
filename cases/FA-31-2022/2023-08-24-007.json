@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/31/2022:2023-08-24-007",
+ "title": "RAIL VIKAS NIGAM LTD. versus PUSHPANAND BAHUGUNA",
+ "petitioner": "RAIL VIKAS NIGAM LTD.",
+ "respondent": "PUSHPANAND BAHUGUNA",
+ "case_no": "FA/31/2022",
+ "case_type": "FA",
+ "decision_date": "2023-08-24",
+ "cnr": "UKHC010005212022",
+ "doc_kind": "order",
+ "order_type": "IA/6/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHUnPAf19YwKNT8mwi2KviNF&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6ada706bad5917c924e9c9548343fe208323b13e72dd5a46ddb8010c4dc49beb",
+ "fetched_at": "2026-11-02T13:23:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

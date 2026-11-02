@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/444/2018:2019-01-02-001",
+ "title": "MOHD. YAMEEN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD. YAMEEN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/444/2018",
+ "case_type": "CRLR",
+ "decision_date": "2019-01-02",
+ "cnr": "UKHC010208202018",
+ "doc_kind": "order",
+ "order_type": "CRLR/444/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL8lI5s%2FJeQbRikjgahVvKkSTmOa2B4ZJKtyRVlGYnWZx&caseno=CRLR/444/2018&cCode=1&cino=UKHC010208202018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e935ccad9d00ae58e33c347fda01480623a620671ab25f783114c3984a02c9a1",
+ "fetched_at": "2026-11-02T13:25:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

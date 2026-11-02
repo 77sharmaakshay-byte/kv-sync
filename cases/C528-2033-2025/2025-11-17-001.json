@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2033/2025:2025-11-17-001",
+ "title": "TEJPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "TEJPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/2033/2025",
+ "case_type": "C528",
+ "decision_date": "2025-11-17",
+ "cnr": "UKHC010179722025",
+ "doc_kind": "order",
+ "order_type": "C528/2033/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7FMS%2B%2F%2BT9oyC16BQ4elNdTvVUGQ5KEJ4OmCSaqSbtFD&caseno=C528/2033/2025&cCode=1&cino=UKHC010179722025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a43b9c42cb6b2146ee931b750540c30f6eac6b17cda143a8d35457ff9da7490c",
+ "fetched_at": "2026-11-02T13:20:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

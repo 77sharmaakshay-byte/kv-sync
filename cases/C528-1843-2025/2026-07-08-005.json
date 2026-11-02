@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1843/2025:2026-07-08-005",
+ "title": "KAMLA LATWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KAMLA LATWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/1843/2025",
+ "case_type": "C528",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010163142025",
+ "doc_kind": "order",
+ "order_type": "C528/1843/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6uAsJRexAis4qAvUTBDVFkrS7MNV9FeIpc%2BqJ8riy9d&caseno=C528/1843/2025&cCode=1&cino=UKHC010163142025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5735187d1aecb2e6ac667b324c8802135da2fe3b2c8bc9c2bf9de722076db750",
+ "fetched_at": "2026-11-02T13:21:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

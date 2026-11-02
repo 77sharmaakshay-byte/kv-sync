@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/110/2026:2026-04-16-004",
+ "title": "SAROJ NORKI versus LT COL VINOD CHANDRA NORKI",
+ "petitioner": "SAROJ NORKI",
+ "respondent": "LT COL VINOD CHANDRA NORKI",
+ "case_no": "CRLR/110/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-04-16",
+ "cnr": "UKHC010021762026",
+ "doc_kind": "order",
+ "order_type": "CRLR/110/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrKaUqGGxqbKGFAeCYCYgwPoUgLIAtVjDqW75Rl1qn4A&caseno=CRLR/110/2026&cCode=1&cino=UKHC010021762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c6487ebfcd27cd4ad31695d395fd9aa97723a092d9e99e81f3d39ddd3cb7757d",
+ "fetched_at": "2026-11-02T13:25:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

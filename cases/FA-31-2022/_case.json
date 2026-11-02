@@ -1,0 +1,439 @@
+{
+ "cnr_number": "UKHC010005212022",
+ "case_type": "FA",
+ "filing_number": "FA /282/2022",
+ "filing_date": "2022-01-11",
+ "registration_number": "FA /31/2022",
+ "registration_date": "2022-01-11",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-03",
+ "decision_date": null,
+ "case_stage": "Order on Applications (Time Barred Cases) -250",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pauri Garhwal",
+ "petitioners": [
+  {
+   "name": "RAIL VIKAS NIGAM LTD.",
+   "advocate": "V K KAPARUWAN"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "PUSHPANAND BAHUGUNA",
+   "advocate": "DHARMENDRA BARTHWAL,"
+  },
+  {
+   "name": "SHANKAR SINGH",
+   "advocate": "ANIL KUMAR JOSHI"
+  },
+  {
+   "name": "DEEPAK SINGH",
+   "advocate": "ANIL KUMAR JOSHI"
+  },
+  {
+   "name": "CHANDRAKALA DEVI",
+   "advocate": "ANIL KUMAR JOSHI"
+  }
+ ],
+ "acts": [
+  {
+   "act": "OTHER",
+   "sections": "74"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2022-01-12",
+   "business_date": null,
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-13",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-05-29",
+   "business_date": "2026-05-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-03-16",
+   "business_date": "2026-01-07",
+   "purpose": "FOR FINAL HEARING -50",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-01-07",
+   "business_date": "2026-01-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-01-03",
+   "business_date": "2025-12-15",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": null,
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-12-02",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-02",
+   "business_date": "2025-11-10",
+   "purpose": "ORDER MATTERS -99",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-11-10",
+   "business_date": "2025-11-06",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-11-06",
+   "business_date": "2025-10-14",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-10-14",
+   "business_date": "2025-09-25",
+   "purpose": "PERSONAL APPEARANCE -4",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-10-31",
+   "business_date": "2025-07-29",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-29",
+   "business_date": "2025-07-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-08",
+   "business_date": "2025-04-28",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-05-21",
+   "business_date": "2024-12-23",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-23",
+   "business_date": "2024-09-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-27",
+   "business_date": "2024-08-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-16",
+   "business_date": "2024-06-19",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2023-11-24",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-11-24",
+   "business_date": "2023-10-11",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-11",
+   "business_date": "2023-08-24",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-11",
+   "business_date": "2023-07-21",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-21",
+   "business_date": "2023-04-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-04-10",
+   "business_date": "2022-12-22",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-12-22",
+   "business_date": "2022-10-14",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-10-14",
+   "business_date": "2022-07-22",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-07-20",
+   "business_date": "2022-07-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-07-11",
+   "business_date": "2022-07-04",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-07-04",
+   "business_date": "2022-06-20",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-06-20",
+   "business_date": "2022-05-25",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-01-12",
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2022-01-12",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHW19qBx6Pu8ZFGOk9SYEXX5&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-06-20",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHUU0m9eemKSucr1TYrwTHhQ&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-07-22",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHXF55nJU7hb%2Ft711pOIZWsx&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-12-22",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHXQ%2BaOWJliYN1RHwS2wZ9Ih&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-07-21",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHUM%2BHmnoPdKUuuWGT5wHrAs&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-08-24",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHXmZiYdj%2BLqq5YOUenAM23%2B&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-08-24",
+   "order_type": "IA/6/2023",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHUnPAf19YwKNT8mwi2KviNF&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-08-24",
+   "order_type": "IA/7/2023",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHV22Ad9fw1KCbPOIreqJJtg&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-10-11",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHUC7brNttGvwnMBuZhfNkL6&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-11-24",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHVcI59qFsu4mfuAUtm6Uao2&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-06-19",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHVGwuKhbCqfmNhpSWmiDAqr&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-08-16",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHUw2ud9RHekoMt7PyiB1pb7&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-09-25",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHUCj5BKwPvT8qk9CnkSZ3I%2F&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-12-02",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHX1GIwQjfnGfeHuu96QMAI7&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-12-15",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHWEQUugvpgCpVstx9Zau1S6&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-01-03",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHVg8dUuGj6VyQRP%2FV1i1rZZ&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-01-03",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHUj2NyPYsuZqjzNuTdpVcdE&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-01-07",
+   "order_type": "FA/31/2022",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHW8YzOm5LZuUa5YjXeJBMq2&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

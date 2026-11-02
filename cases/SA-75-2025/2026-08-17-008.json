@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/75/2025:2026-08-17-008",
+ "title": "SHIVRAJ SINGH versus PRAVEEN KUMARI ALIAS BINA",
+ "petitioner": "SHIVRAJ SINGH",
+ "respondent": "PRAVEEN KUMARI ALIAS BINA",
+ "case_no": "SA/75/2025",
+ "case_type": "SA",
+ "decision_date": "2026-08-17",
+ "cnr": "UKHC010098762025",
+ "doc_kind": "order",
+ "order_type": "SA/75/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyTH7lqvhELcTANPGQs70XNdYVOBl436UYLaLBMMepVz&caseno=SA/75/2025&cCode=1&cino=UKHC010098762025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2e9a07034db2e5ca4553b4114907e25bda6a60b950170b38040a5f1a25ac1038",
+ "fetched_at": "2026-11-02T13:27:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/31/2022:2026-01-03-017",
+ "title": "RAIL VIKAS NIGAM LTD. versus PUSHPANAND BAHUGUNA",
+ "petitioner": "RAIL VIKAS NIGAM LTD.",
+ "respondent": "PUSHPANAND BAHUGUNA",
+ "case_no": "FA/31/2022",
+ "case_type": "FA",
+ "decision_date": "2026-01-03",
+ "cnr": "UKHC010005212022",
+ "doc_kind": "order",
+ "order_type": "FA/31/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xUbopF8pKvoY0CVXkW1HHUj2NyPYsuZqjzNuTdpVcdE&caseno=FA/31/2022&cCode=1&cino=UKHC010005212022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5f5705e6c42e57a5844346a5ee968398cabd912730daf2c2be79277e15dfb849",
+ "fetched_at": "2026-11-02T13:23:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

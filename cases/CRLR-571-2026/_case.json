@@ -1,0 +1,91 @@
+{
+ "cnr_number": "UKHC010131422026",
+ "case_type": "CRLR",
+ "filing_number": "CRLR /6313/2026",
+ "filing_date": "2026-07-24",
+ "registration_number": "CRLR /571/2026",
+ "registration_date": "2026-07-24",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-03",
+ "decision_date": null,
+ "case_stage": "ORDERS ON APPLICATIONS -22",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "SATISH KUMAR",
+   "advocate": "MEHBOOB RAHI,KAUSHAL PANDEY,KAUSHAL PANDEY, ,KAUSHAL PANDEY"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "SMT. POOJA",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nagarik Suraksha Sanhita",
+   "sections": "438/439"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-07-28",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-09-28",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-17",
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-07-28",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-08-17",
+   "order_type": "CRLR/571/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQphsr%2BmJ71%2FIqgUIa994abMX6%2FBmI8QK4YvyQYzpHeDz&caseno=CRLR/571/2026&cCode=1&cino=UKHC010131422026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-28",
+   "order_type": "CRLR/571/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQphsr%2BmJ71%2FIqgUIa994abNN82bF9Q8%2F0vRZpORjeAPJ&caseno=CRLR/571/2026&cCode=1&cino=UKHC010131422026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

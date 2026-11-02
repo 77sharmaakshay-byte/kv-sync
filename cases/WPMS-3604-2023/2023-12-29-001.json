@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3604/2023:2023-12-29-001",
+ "title": "TREVOR MASSEY versus STATE OF UTTARAKHAND THROUGH COLLECTOR, NAINITAL",
+ "petitioner": "TREVOR MASSEY",
+ "respondent": "STATE OF UTTARAKHAND THROUGH COLLECTOR, NAINITAL",
+ "case_no": "WPMS/3604/2023",
+ "case_type": "WPMS",
+ "decision_date": "2023-12-29",
+ "cnr": "UKHC010208442023",
+ "doc_kind": "order",
+ "order_type": "WPMS/3604/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY0dByPouvTFl3oaiY8I5KJ7t9sR9HLKNffT%2BFM%2F8vNts&caseno=WPMS/3604/2023&cCode=1&cino=UKHC010208442023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "899ec56b2a7e0d8f8da7e86a1162d291d174198ef31526e5faa7d42600207be9",
+ "fetched_at": "2026-11-02T13:29:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

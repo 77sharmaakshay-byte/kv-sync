@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/18/2022:2025-12-02-009",
+ "title": "RAIL VIKAS NIGAM LTD. versus DEVESHWARI DEVI",
+ "petitioner": "RAIL VIKAS NIGAM LTD.",
+ "respondent": "DEVESHWARI DEVI",
+ "case_no": "FA/18/2022",
+ "case_type": "FA",
+ "decision_date": "2025-12-02",
+ "cnr": "UKHC010003332022",
+ "doc_kind": "order",
+ "order_type": "FA/18/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0z%2BDi8XEBkdK3aef%2Bpvwh6xsgS829ov8erGoYNkNGgd5&caseno=FA/18/2022&cCode=1&cino=UKHC010003332022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a10ca8c3b3a6c0fb3cbcdb26d03f131365b54bedfb83f01694c46d5b0c1fc03c",
+ "fetched_at": "2026-11-02T13:24:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

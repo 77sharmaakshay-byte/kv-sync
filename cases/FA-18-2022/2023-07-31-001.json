@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/18/2022:2023-07-31-001",
+ "title": "RAIL VIKAS NIGAM LTD. versus DEVESHWARI DEVI",
+ "petitioner": "RAIL VIKAS NIGAM LTD.",
+ "respondent": "DEVESHWARI DEVI",
+ "case_no": "FA/18/2022",
+ "case_type": "FA",
+ "decision_date": "2023-07-31",
+ "cnr": "UKHC010003332022",
+ "doc_kind": "order",
+ "order_type": "FA/18/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0z%2BDi8XEBkdK3aef%2Bpvwh6yUVMdp9e00kE5uaKWix8LA&caseno=FA/18/2022&cCode=1&cino=UKHC010003332022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5f5658fd4e06118131d757f096306645db8f9f48966953772e86232cf8b2a715",
+ "fetched_at": "2026-11-02T13:24:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

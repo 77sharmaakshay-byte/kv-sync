@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2033/2025:2026-06-04-004",
+ "title": "TEJPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "TEJPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/2033/2025",
+ "case_type": "C528",
+ "decision_date": "2026-06-04",
+ "cnr": "UKHC010179722025",
+ "doc_kind": "order",
+ "order_type": "C528/2033/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7FMS%2B%2F%2BT9oyC16BQ4elNdRH9bSufgI3hORcmKWPCpts&caseno=C528/2033/2025&cCode=1&cino=UKHC010179722025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "351709c2b25db35fb959d6e17bc8a44bed61fcfc2b1b6a5ef4a059e2c7e5875f",
+ "fetched_at": "2026-11-02T13:20:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

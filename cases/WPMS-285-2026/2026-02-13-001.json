@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/285/2026:2026-02-13-001",
+ "title": "SATYA NARAIN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SATYA NARAIN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/285/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-13",
+ "cnr": "UKHC010017952026",
+ "doc_kind": "order",
+ "order_type": "WPMS/285/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkMxgmyZgX9DfPmQnevP06JvYNmDDPe0b391frU4MFDj&caseno=WPMS/285/2026&cCode=1&cino=UKHC010017952026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3741d8bc7a9fc64123dfc407a22c252417202931545e6186bfc488bcf3866e5b",
+ "fetched_at": "2026-11-02T13:29:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

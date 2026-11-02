@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1962/2026:2026-07-01-001",
+ "title": "BHOJRAJ versus SHANTI PRASAD",
+ "petitioner": "BHOJRAJ",
+ "respondent": "SHANTI PRASAD",
+ "case_no": "WPMS/1962/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-01",
+ "cnr": "UKHC010110672026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1962/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv9Y%2BRSOW%2BF5UupJKNnxSp%2Bp%2FGaDklAz66LlwQq4QdsQ&caseno=WPMS/1962/2026&cCode=1&cino=UKHC010110672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3cb910a4c63898c6eed850b2506ffe380d951d6752a8f5bee85038a52e69e2ea",
+ "fetched_at": "2026-11-02T13:29:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

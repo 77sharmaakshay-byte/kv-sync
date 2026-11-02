@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/284/2026:2026-09-22-003",
+ "title": "SATYA NARAIN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SATYA NARAIN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/284/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010018002026",
+ "doc_kind": "order",
+ "order_type": "WPMS/284/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnqD%2FV8jnklXi8cccXTVW8T5nwyD3L6lZNo0L5nmadEJ&caseno=WPMS/284/2026&cCode=1&cino=UKHC010018002026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9c3df0502d52359d2996dc8d375c8bb1619015db569a463eb9721961d6b6d6fa",
+ "fetched_at": "2026-11-02T13:28:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

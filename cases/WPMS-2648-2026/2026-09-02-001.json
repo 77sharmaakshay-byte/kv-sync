@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2648/2026:2026-09-02-001",
+ "title": "NAVEEN PATHAK versus ASHOK NEGI",
+ "petitioner": "NAVEEN PATHAK",
+ "respondent": "ASHOK NEGI",
+ "case_no": "WPMS/2648/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-02",
+ "cnr": "UKHC010153912026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2648/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrGHQwen%2BjVzX3b3Bl003NscHdM792wAXTjmR%2FL%2BGa4y&caseno=WPMS/2648/2026&cCode=1&cino=UKHC010153912026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "69a96533245c5a75bd0cd08bfee2ca60eacba7211cc8584ba5a0836e40280fe2",
+ "fetched_at": "2026-11-02T13:29:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

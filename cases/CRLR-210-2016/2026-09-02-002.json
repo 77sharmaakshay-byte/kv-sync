@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/210/2016:2026-09-02-002",
+ "title": "Zameel Ahmad versus Smt. Chanda   Advocate- ,LALIT SHARMA 1123",
+ "petitioner": "Zameel Ahmad",
+ "respondent": "Smt. Chanda   Advocate- ,LALIT SHARMA 1123",
+ "case_no": "CRLR/210/2016",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-02",
+ "cnr": "UKHC010139012016",
+ "doc_kind": "order",
+ "order_type": "CRLR/210/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBaubCKra2vghaq5PqcmuDgTe4DBvi0CsHxCU9VZ2t%2BI0&caseno=CRLR/210/2016&cCode=1&cino=UKHC010139012016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "90fa22a60dc9ea217f3ae79b48bcbfa96b66abaff10deabf3b3dde9dfc185957",
+ "fetched_at": "2026-11-02T13:25:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

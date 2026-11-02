@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3194/2025:2025-11-18-002",
+ "title": "SHAH NAZAR versus ABDUL SALAM",
+ "petitioner": "SHAH NAZAR",
+ "respondent": "ABDUL SALAM",
+ "case_no": "WPMS/3194/2025",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-18",
+ "cnr": "UKHC010181992025",
+ "doc_kind": "order",
+ "order_type": "IA/1/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9sLVP4vq0KUnKsM%2B8sMY07Mm7AnDFQu7amw5HjXALEK&caseno=WPMS/3194/2025&cCode=1&cino=UKHC010181992025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d2e9e7282465981fdd38e515329d552e16bd4fdae5bd1fc6a9cf3b9b17d1e2fa",
+ "fetched_at": "2026-11-02T13:28:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

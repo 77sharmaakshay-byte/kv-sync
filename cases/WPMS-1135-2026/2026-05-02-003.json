@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1135/2026:2026-05-02-003",
+ "title": "SHAMBHU SUMAN versus SHARIF AHMAD",
+ "petitioner": "SHAMBHU SUMAN",
+ "respondent": "SHARIF AHMAD",
+ "case_no": "WPMS/1135/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-02",
+ "cnr": "UKHC010067622026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1135/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrMucz5PCK54X4a2%2FJ%2BTF6wE99x3rZLCLgL4W5D4JTK9&caseno=WPMS/1135/2026&cCode=1&cino=UKHC010067622026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e1009911a3749b8b36a6b3e8483a139c525affae1ebceefc76c84e14a1691eaf",
+ "fetched_at": "2026-11-02T13:29:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

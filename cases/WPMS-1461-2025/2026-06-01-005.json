@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1461/2025:2026-06-01-005",
+ "title": "HARSH KUMAR VERMA  ALIAS RAJAN VERMA versus AMAN SINGHAL",
+ "petitioner": "HARSH KUMAR VERMA  ALIAS RAJAN VERMA",
+ "respondent": "AMAN SINGHAL",
+ "case_no": "WPMS/1461/2025",
+ "case_type": "WPMS",
+ "decision_date": "2026-06-01",
+ "cnr": "UKHC010071082025",
+ "doc_kind": "order",
+ "order_type": "WPMS/1461/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4aPjHEuR9Ywi9CnB4WJTEt%2BAm41Fv%2BrQEnopLmjKsOC&caseno=WPMS/1461/2025&cCode=1&cino=UKHC010071082025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "795b2af6f9a54e33d7287ca80a8124f10d03d4e29ea7a189f0b68817be939860",
+ "fetched_at": "2026-11-02T13:29:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

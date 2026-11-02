@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3025/2017:2018-06-11-001",
+ "title": "Sashi Bhanu Verma versus Virendra Singh AND OTHERS",
+ "petitioner": "Sashi Bhanu Verma",
+ "respondent": "Virendra Singh AND OTHERS",
+ "case_no": "WPMS/3025/2017",
+ "case_type": "WPMS",
+ "decision_date": "2018-06-11",
+ "cnr": "UKHC010141522017",
+ "doc_kind": "order",
+ "order_type": "WPMS/3025/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh4C%2BI3paGMHXDvb8uuAD8ykQ1NnXnr2PcLN%2BQ8SlXEQW&caseno=WPMS/3025/2017&cCode=1&cino=UKHC010141522017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7560e235cbdf7199e941960dcbe5247e14585bd8b41453bf6b89e5dc56d2a370",
+ "fetched_at": "2026-11-02T13:27:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/180/2021:2021-03-17-001",
+ "title": "SRI YASHPAL MUNARIYA versus UTTARAKHAND TRANSPORT CORPORATION ROORKEE",
+ "petitioner": "SRI YASHPAL MUNARIYA",
+ "respondent": "UTTARAKHAND TRANSPORT CORPORATION ROORKEE",
+ "case_no": "WPMS/180/2021",
+ "case_type": "WPMS",
+ "decision_date": "2021-03-17",
+ "cnr": "UKHC010010502021",
+ "doc_kind": "order",
+ "order_type": "WPMS/180/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkD4IA5uasH9Ax13hAixCUnHScn5HPutNJ%2FQM4iy5S38D&caseno=WPMS/180/2021&cCode=1&cino=UKHC010010502021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9fcf9c96eaf7aa383dc845d68990a799e2796800e6968d3614b9d2d42fb94f81",
+ "fetched_at": "2026-11-02T13:29:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

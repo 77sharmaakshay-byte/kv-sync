@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/75/2025:2025-07-10-001",
+ "title": "SHIVRAJ SINGH versus PRAVEEN KUMARI ALIAS BINA",
+ "petitioner": "SHIVRAJ SINGH",
+ "respondent": "PRAVEEN KUMARI ALIAS BINA",
+ "case_no": "SA/75/2025",
+ "case_type": "SA",
+ "decision_date": "2025-07-10",
+ "cnr": "UKHC010098762025",
+ "doc_kind": "order",
+ "order_type": "SA/75/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyTH7lqvhELcTANPGQs70XO%2B%2FZhO6i5ijLLtiZJzUhHM&caseno=SA/75/2025&cCode=1&cino=UKHC010098762025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "927acec82899a1874a5bc333e55f220af9c8563c8ffa0fff33df14e316770daa",
+ "fetched_at": "2026-11-02T13:26:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

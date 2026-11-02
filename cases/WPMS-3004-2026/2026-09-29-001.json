@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3004/2026:2026-09-29-001",
+ "title": "HEMA NANGIA versus SANJEEV GOYAL   Advocate- ,KUSH GOSWAMI 1123",
+ "petitioner": "HEMA NANGIA",
+ "respondent": "SANJEEV GOYAL   Advocate- ,KUSH GOSWAMI 1123",
+ "case_no": "WPMS/3004/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010172532026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3004/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv6T4JDWuJ4HFCOJCC%2BH4paAVcdWKyyVdH%2BnJC4mAF6C&caseno=WPMS/3004/2026&cCode=1&cino=UKHC010172532026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c49e615ffac168831331f79ce3863da1e0999e851cc6adf228107e630b6eed54",
+ "fetched_at": "2026-11-02T13:29:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

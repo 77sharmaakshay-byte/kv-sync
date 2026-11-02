@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/76/2025:2025-07-10-001",
+ "title": "SHIVRAJ SINGH versus PRAVEEN GUPTA",
+ "petitioner": "SHIVRAJ SINGH",
+ "respondent": "PRAVEEN GUPTA",
+ "case_no": "SA/76/2025",
+ "case_type": "SA",
+ "decision_date": "2025-07-10",
+ "cnr": "UKHC010098772025",
+ "doc_kind": "order",
+ "order_type": "SA/76/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm99vTRSz1g1pRPH0%2F%2Fb7aBL3y9PeRa9eeGN4SJ3NrLBM&caseno=SA/76/2025&cCode=1&cino=UKHC010098772025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2b62f769a9144a312775930612b0f2c48c4eb023ed4a65c44d266b68115b23e6",
+ "fetched_at": "2026-11-02T13:25:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

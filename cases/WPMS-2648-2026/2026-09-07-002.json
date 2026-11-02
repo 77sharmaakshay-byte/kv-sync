@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2648/2026:2026-09-07-002",
+ "title": "NAVEEN PATHAK versus ASHOK NEGI",
+ "petitioner": "NAVEEN PATHAK",
+ "respondent": "ASHOK NEGI",
+ "case_no": "WPMS/2648/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010153912026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2648/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrGHQwen%2BjVzX3b3Bl003Nt5aGaHj%2BSpHZtFF5CyFj3K&caseno=WPMS/2648/2026&cCode=1&cino=UKHC010153912026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e45daeca789edff405497d6a5034b8e20010438ef39d1895efbeb4afd24d939f",
+ "fetched_at": "2026-11-02T13:29:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

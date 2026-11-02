@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1843/2025:2025-10-16-001",
+ "title": "KAMLA LATWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KAMLA LATWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/1843/2025",
+ "case_type": "C528",
+ "decision_date": "2025-10-16",
+ "cnr": "UKHC010163142025",
+ "doc_kind": "order",
+ "order_type": "C528/1843/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6uAsJRexAis4qAvUTBDVFlkMIZ65wDaV1R98Dj8iuqI&caseno=C528/1843/2025&cCode=1&cino=UKHC010163142025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6406fe5dfe582d0bc60bd63e5987ccf6d36f6360c18e714b31eb5744dc33c9d1",
+ "fetched_at": "2026-11-02T13:21:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/239/2026:2026-01-23-001",
+ "title": "MRS INDIRA DEVI versus KULDEEP KAUR",
+ "petitioner": "MRS INDIRA DEVI",
+ "respondent": "KULDEEP KAUR",
+ "case_no": "WPMS/239/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-23",
+ "cnr": "UKHC010012692026",
+ "doc_kind": "order",
+ "order_type": "WPMS/239/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvX9eF0Sh6vY8sCzDazd%2B%2B2stbfcnFFBFr4OALImZhLo&caseno=WPMS/239/2026&cCode=1&cino=UKHC010012692026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "569d7ba11717235b2b09b0ee6d3b722c155162031fafa7e7e0c1a04320132766",
+ "fetched_at": "2026-11-02T13:28:35+00:00",
+ "fetched_by": "fetch_live.py"
+}
