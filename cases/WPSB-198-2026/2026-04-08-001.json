@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/198/2026:2026-04-08-001",
+ "title": "DR ARSHAD HUSSAIN versus STATE OF UTTARAKHAND",
+ "petitioner": "DR ARSHAD HUSSAIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/198/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-04-08",
+ "cnr": "UKHC010051022026",
+ "doc_kind": "order",
+ "order_type": "WPSB/198/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQltxfEiI8aF%2FkZt%2BmMaNfQN0RSLvPlKQMKwhg7ueoMrg&caseno=WPSB/198/2026&cCode=1&cino=UKHC010051022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8d31d8f026cc7b2b7fc78c72c7467412f499c47247167af0ad6b011935b8f716",
+ "fetched_at": "2026-11-02T13:48:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

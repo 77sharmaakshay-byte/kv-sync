@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/585/2019:2019-10-10-001",
+ "title": "KARANBIR SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "KARANBIR SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/585/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-10-10",
+ "cnr": "UKHC010163672019",
+ "doc_kind": "order",
+ "order_type": "CRLR/585/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3uZ9kaLM3hyU0ynO5IS66vVk3YYP3p9mo5OaNk3Edbm&caseno=CRLR/585/2019&cCode=1&cino=UKHC010163672019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "98dd29093a1ea3de0981d89ec8b849b42c5ed7d9fc92650ada41c23dc56da2ec",
+ "fetched_at": "2026-11-02T13:53:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

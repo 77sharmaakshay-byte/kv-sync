@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/88/2022:2022-09-12-002",
+ "title": "VIKESH SINGH NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "VIKESH SINGH NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/88/2022",
+ "case_type": "WPPIL",
+ "decision_date": "2022-09-12",
+ "cnr": "UKHC010093332022",
+ "doc_kind": "order",
+ "order_type": "WPPIL/88/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0zP3V56P25UGefuN%2FQ07eMxFYuS%2BUP%2BnH2QPQiCcvDRz&caseno=WPPIL/88/2022&cCode=1&cino=UKHC010093332022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d7d6d6a31c11e807fd533b014bf05087fb5f9f277db206fc74929d3a8cd969a8",
+ "fetched_at": "2026-11-02T13:45:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

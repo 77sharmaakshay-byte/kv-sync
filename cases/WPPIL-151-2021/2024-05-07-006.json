@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/151/2021:2024-05-07-006",
+ "title": "ALOK KUMAR versus UNION OF INDIA",
+ "petitioner": "ALOK KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPPIL/151/2021",
+ "case_type": "WPPIL",
+ "decision_date": "2024-05-07",
+ "cnr": "UKHC010108072021",
+ "doc_kind": "order",
+ "order_type": "WPPIL/151/2021",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLc2QKrk55ciTNCSqVualNbdfxpHU%2BDufpBRQWi%2Bvp9H&caseno=WPPIL/151/2021&cCode=1&cino=UKHC010108072021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d29a4438a5d61862047695d15d80d30bbdd0d5197a6b3ea51b76a48ee21189c",
+ "fetched_at": "2026-11-02T13:49:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

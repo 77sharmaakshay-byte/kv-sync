@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/138/2026:2026-09-30-004",
+ "title": "RAJENDRA SINGH ALIAS RAJAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJENDRA SINGH ALIAS RAJAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/138/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010045672026",
+ "doc_kind": "order",
+ "order_type": "CRLA/138/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlsDcpBcIcVn0mf7q9Pzzi3xNGIDKpuTKwwAzbdqQT0p&caseno=CRLA/138/2026&cCode=1&cino=UKHC010045672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "13f89783f87cef4a3881dabbf95652088ca87b248eb60560bec0d7956fbcd8c3",
+ "fetched_at": "2026-11-02T13:52:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

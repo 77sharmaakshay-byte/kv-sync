@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/713/2025:2025-08-25-001",
+ "title": "MS SAUN SONS CONSTRUCTION versus STATE OF UTTARAKHAND",
+ "petitioner": "MS SAUN SONS CONSTRUCTION",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/713/2025",
+ "case_type": "WPMB",
+ "decision_date": "2025-08-25",
+ "cnr": "UKHC010130722025",
+ "doc_kind": "order",
+ "order_type": "WPMB/713/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2FVXWKu3PA779nXML%2FZ7qv2rZhTjRyI99mKRaDGugYV3&caseno=WPMB/713/2025&cCode=1&cino=UKHC010130722025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3df710f8ae85bbc272845271cb0e86e4a15a212d169f2b789aefc1e90de91f2e",
+ "fetched_at": "2026-11-02T13:49:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

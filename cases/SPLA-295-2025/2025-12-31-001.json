@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPLA/295/2025:2025-12-31-001",
+ "title": "STATE OF UTTARAKHAND versus FURKAN",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "FURKAN",
+ "case_no": "SPLA/295/2025",
+ "case_type": "SPLA",
+ "decision_date": "2025-12-31",
+ "cnr": "UKHC010207212025",
+ "doc_kind": "order",
+ "order_type": "SPLA/295/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1%2B7TtciPOPlIbcHwnuvb262q96jMR%2BegVjo8NWgDK3A&caseno=SPLA/295/2025&cCode=1&cino=UKHC010207212025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dfe24a0a6314b0f19018f0e610e89084bdbedba8d6ffc3834232df0aa4d77f74",
+ "fetched_at": "2026-11-02T13:51:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

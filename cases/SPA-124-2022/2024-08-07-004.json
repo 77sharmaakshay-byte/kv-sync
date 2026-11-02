@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/124/2022:2024-08-07-004",
+ "title": "M/S AJAY KUMAR SAINI CONTRACTOR versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S AJAY KUMAR SAINI CONTRACTOR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/124/2022",
+ "case_type": "SPA",
+ "decision_date": "2024-08-07",
+ "cnr": "UKHC010074342022",
+ "doc_kind": "order",
+ "order_type": "SPA/124/2022",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0yAGj3n%2BTK02HDzJAZFDnmtQVw7V%2BLb513yNzCCbMJDe&caseno=SPA/124/2022&cCode=1&cino=UKHC010074342022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b76c57cdff3340198bd785c08ca525c38bdba9851d35a1db5663df2364688933",
+ "fetched_at": "2026-11-02T13:46:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

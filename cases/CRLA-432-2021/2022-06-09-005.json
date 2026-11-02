@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/432/2021:2022-06-09-005",
+ "title": "AMIT PARLEY versus STATE OF UTTARAKHAND",
+ "petitioner": "AMIT PARLEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/432/2021",
+ "case_type": "CRLA",
+ "decision_date": "2022-06-09",
+ "cnr": "UKHC010161782021",
+ "doc_kind": "order",
+ "order_type": "CRLA/432/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkN0KvWED8uaj8X0xlR17jl2D49AUUnSROcAkZqVMXLOF&caseno=CRLA/432/2021&cCode=1&cino=UKHC010161782021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fedd775b9c69d329ab7527e5d953dc3545b5891f88dd13b6efeac74ed829df06",
+ "fetched_at": "2026-11-02T13:51:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

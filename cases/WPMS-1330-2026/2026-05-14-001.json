@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1330/2026:2026-05-14-001",
+ "title": "SURESH CHANDRA BHATT versus UTTARAKHAND JAL SANSTHAN",
+ "petitioner": "SURESH CHANDRA BHATT",
+ "respondent": "UTTARAKHAND JAL SANSTHAN",
+ "case_no": "WPMS/1330/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-14",
+ "cnr": "UKHC010077592026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1330/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuNZpRDg%2FpZS1YhGGXKgf0s0xBPe0sFAubIcvzstjoRb&caseno=WPMS/1330/2026&cCode=1&cino=UKHC010077592026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c2b8c4c8fe1203153690f6ff1f27661d085f82830e96f3093171468b36df00dd",
+ "fetched_at": "2026-11-02T13:41:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

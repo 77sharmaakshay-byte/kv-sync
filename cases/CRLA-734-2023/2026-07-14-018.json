@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/734/2023:2026-07-14-018",
+ "title": "HARENDRA CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "HARENDRA CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/734/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-14",
+ "cnr": "UKHC010168002023",
+ "doc_kind": "order",
+ "order_type": "CRLA/734/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2BAGKYjZNJGRGfFxSsrRiNYz8rGzxtHpO2o2psHW8i4S&caseno=CRLA/734/2023&cCode=1&cino=UKHC010168002023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "00295b74523b040e52674512800e34ad67eb0aa712e18b35f1438debe72289d3",
+ "fetched_at": "2026-11-02T13:52:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

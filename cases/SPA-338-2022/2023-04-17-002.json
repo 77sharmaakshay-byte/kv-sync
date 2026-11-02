@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/338/2022:2023-04-17-002",
+ "title": "JONU DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "JONU DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/338/2022",
+ "case_type": "SPA",
+ "decision_date": "2023-04-17",
+ "cnr": "UKHC010150982022",
+ "doc_kind": "order",
+ "order_type": "SPA/338/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xERcA6lHFWrNO1suZvh0mdjhcp7PEueSycAU8utYsI7&caseno=SPA/338/2022&cCode=1&cino=UKHC010150982022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "75d10e7410d4a16024ad024b120c6f9c0a843113247d53b57f6d572e0bc6406c",
+ "fetched_at": "2026-11-02T13:47:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

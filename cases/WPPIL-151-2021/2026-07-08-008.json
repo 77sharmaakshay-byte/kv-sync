@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/151/2021:2026-07-08-008",
+ "title": "ALOK KUMAR versus UNION OF INDIA",
+ "petitioner": "ALOK KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPPIL/151/2021",
+ "case_type": "WPPIL",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010108072021",
+ "doc_kind": "order",
+ "order_type": "WPPIL/151/2021",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLc2QKrk55ciTNCSqVualNbHv2DRn9jFa%2BGWRmc%2BjvWz&caseno=WPPIL/151/2021&cCode=1&cino=UKHC010108072021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "006575c08488714cdeae90d81cf5de06b38991873058c141e6d9298d78ca0474",
+ "fetched_at": "2026-11-02T13:49:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

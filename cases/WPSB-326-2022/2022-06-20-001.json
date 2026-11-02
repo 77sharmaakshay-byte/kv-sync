@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/326/2022:2022-06-20-001",
+ "title": "MANISHA versus STATE OF UTTARAKHAND",
+ "petitioner": "MANISHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/326/2022",
+ "case_type": "WPSB",
+ "decision_date": "2022-06-20",
+ "cnr": "UKHC010082022022",
+ "doc_kind": "order",
+ "order_type": "WPSB/326/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00Uzr4GsTSZn55%2FnXV%2FSorG1kho7IV38bz1W9QYhN7As&caseno=WPSB/326/2022&cCode=1&cino=UKHC010082022022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dd299ce24b90f7a57a83d68222b1c6f5cf4f4f724bdaafe2473e18814e6cdfed",
+ "fetched_at": "2026-11-02T13:49:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

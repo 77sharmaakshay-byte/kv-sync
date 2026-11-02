@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/355/2026:2026-05-07-001",
+ "title": "DR KRATIKA versus SWAMI RAMA HIMALAYAN UNIVERSITY DEHRADUN",
+ "petitioner": "DR KRATIKA",
+ "respondent": "SWAMI RAMA HIMALAYAN UNIVERSITY DEHRADUN",
+ "case_no": "WPMB/355/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-05-07",
+ "cnr": "UKHC010075122026",
+ "doc_kind": "order",
+ "order_type": "WPMB/355/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiPhq3z8xn9h8MCM%2B5CEiMiOGFNRVKyCtIcA72G5DEwo&caseno=WPMB/355/2026&cCode=1&cino=UKHC010075122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2784685c7e25aae55e91dcaea92544ab4d5b1ab474a9f42db90cba98c4e81c29",
+ "fetched_at": "2026-11-02T13:49:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

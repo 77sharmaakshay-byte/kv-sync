@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/432/2021:2022-02-09-003",
+ "title": "AMIT PARLEY versus STATE OF UTTARAKHAND",
+ "petitioner": "AMIT PARLEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/432/2021",
+ "case_type": "CRLA",
+ "decision_date": "2022-02-09",
+ "cnr": "UKHC010161782021",
+ "doc_kind": "order",
+ "order_type": "CRLA/432/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkN0KvWED8uaj8X0xlR17jl0qgdlrQYu2ApO2GzJfrKDB&caseno=CRLA/432/2021&cCode=1&cino=UKHC010161782021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "998e6cca03b89c3323a02c9332f0721ee6ec91d4399aeb355d9498769603bfbf",
+ "fetched_at": "2026-11-02T13:51:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/138/2024:2024-11-26-007",
+ "title": "RAM LAL VISHWAKARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAM LAL VISHWAKARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/138/2024",
+ "case_type": "WPPIL",
+ "decision_date": "2024-11-26",
+ "cnr": "UKHC010125912024",
+ "doc_kind": "order",
+ "order_type": "WPPIL/138/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKzE7p1pl%2FZYjnuNhb3CkX6kEm0efJa34XrvhnoG1PVt&caseno=WPPIL/138/2024&cCode=1&cino=UKHC010125912024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "630a1bd708ab0a8642a11fa33d5c5ea5b357c4f5d70b623040165d17a8d11619",
+ "fetched_at": "2026-11-02T13:49:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

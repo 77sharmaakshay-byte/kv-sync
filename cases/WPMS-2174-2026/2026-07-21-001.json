@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2174/2026:2026-07-21-001",
+ "title": "SONI DEVI versus MAYANK KUMAR JAIN",
+ "petitioner": "SONI DEVI",
+ "respondent": "MAYANK KUMAR JAIN",
+ "case_no": "WPMS/2174/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-21",
+ "cnr": "UKHC010125582026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2174/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqyxBQteewg7eyNlgGecyET1UqfYesvc%2FMzT7a94HDFc&caseno=WPMS/2174/2026&cCode=1&cino=UKHC010125582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6b21560dbfa59b7837aee2403d61953e425f615bf9976a86e3fb229eda238ac4",
+ "fetched_at": "2026-11-02T13:41:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/268/2023:2023-07-21-003",
+ "title": "MANOJ KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MANOJ KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/268/2023",
+ "case_type": "WPSB",
+ "decision_date": "2023-07-21",
+ "cnr": "UKHC010100592023",
+ "doc_kind": "order",
+ "order_type": "WPSB/268/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8Rl57ODCeFDv%2FHLHl6uNw3oMFlGUiJo60C0sZ5pkH4m&caseno=WPSB/268/2023&cCode=1&cino=UKHC010100592023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d0ff77435de81041a146252369be65b969acf1ca96232e4035f16139ee4638cc",
+ "fetched_at": "2026-11-02T13:46:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

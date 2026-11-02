@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/609/2026:2026-07-31-001",
+ "title": "M/S KM ENGINEERING AND CONSTRUCTION versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S KM ENGINEERING AND CONSTRUCTION",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/609/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-07-31",
+ "cnr": "UKHC010134562026",
+ "doc_kind": "order",
+ "order_type": "WPMB/609/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsUBF9uu8zAYHRXEu7DNGYJMkWtDxszlMag1Ss25kaam&caseno=WPMB/609/2026&cCode=1&cino=UKHC010134562026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "153781de274fc0a529394a89b714cd19928a1431f260770ebd5143ab424695b2",
+ "fetched_at": "2026-11-02T13:43:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

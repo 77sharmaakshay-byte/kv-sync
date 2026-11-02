@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/177/2022:2022-12-08-002",
+ "title": "KIRTI SHARAN AGARWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KIRTI SHARAN AGARWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/177/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-12-08",
+ "cnr": "UKHC010086732022",
+ "doc_kind": "order",
+ "order_type": "SPA/177/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0w9F34XuAA9FndyknI52VJLkp1vzFJp33BvitGH53VXT&caseno=SPA/177/2022&cCode=1&cino=UKHC010086732022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1ad9b09aa51ed8e7410bc094bbe754ea5e776c783141e3c9d212519830a7ae8d",
+ "fetched_at": "2026-11-02T13:46:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

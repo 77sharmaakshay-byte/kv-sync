@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/340/2022:2026-09-29-004",
+ "title": "MAHIPAL SINGH NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHIPAL SINGH NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/340/2022",
+ "case_type": "SPA",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010150962022",
+ "doc_kind": "order",
+ "order_type": "SPA/340/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xVhQz6QLZIPTmd7oqhXJlXkstjc6AeTnq%2Bfu5s6ojgt&caseno=SPA/340/2022&cCode=1&cino=UKHC010150962022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f862481a90a5ca1ef1e0d32c8bdefddb82c012a4664d2bdcf5c7e346c7e26b7c",
+ "fetched_at": "2026-11-02T13:47:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

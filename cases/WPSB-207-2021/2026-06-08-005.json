@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/207/2021:2026-06-08-005",
+ "title": "KHAGENDRA JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "KHAGENDRA JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/207/2021",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-08",
+ "cnr": "UKHC010065362021",
+ "doc_kind": "order",
+ "order_type": "WPSB/207/2021",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkFOTMMxz%2FrYVl5zLgz3r1h7zetozI0IK8BgPE58ZFaLp&caseno=WPSB/207/2021&cCode=1&cino=UKHC010065362021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "15ee74409fd2a273571a9d5394e66cc19e4d9b71a6c78696d3ab71d1f277a8e5",
+ "fetched_at": "2026-11-02T13:47:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/574/2019:2023-11-29-005",
+ "title": "RAJESH PAL versus SANGEETA",
+ "petitioner": "RAJESH PAL",
+ "respondent": "SANGEETA",
+ "case_no": "CRLR/574/2019",
+ "case_type": "CRLR",
+ "decision_date": "2023-11-29",
+ "cnr": "UKHC010160412019",
+ "doc_kind": "order",
+ "order_type": "CRLR/574/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF24ZOXkXwN8QkDiJDEARb0i1CjI4HOv8ZvlghD%2F636Y%2B&caseno=CRLR/574/2019&cCode=1&cino=UKHC010160412019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d4fbd62e1cf5ef9f5ad18084fffb99b027b10fb99eb2ce660b499a20cb64dfc7",
+ "fetched_at": "2026-11-02T13:53:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

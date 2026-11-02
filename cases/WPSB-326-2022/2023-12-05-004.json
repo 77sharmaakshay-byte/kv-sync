@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/326/2022:2023-12-05-004",
+ "title": "MANISHA versus STATE OF UTTARAKHAND",
+ "petitioner": "MANISHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/326/2022",
+ "case_type": "WPSB",
+ "decision_date": "2023-12-05",
+ "cnr": "UKHC010082022022",
+ "doc_kind": "order",
+ "order_type": "WPSB/326/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00Uzr4GsTSZn55%2FnXV%2FSorEBsManaTIJdfYCBfwvpBfl&caseno=WPSB/326/2022&cCode=1&cino=UKHC010082022022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "103001ce49f35c808f58982b36131f3bb1d1d47204e5929d4590e785208a47f8",
+ "fetched_at": "2026-11-02T13:49:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

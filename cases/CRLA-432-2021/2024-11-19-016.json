@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/432/2021:2024-11-19-016",
+ "title": "AMIT PARLEY versus STATE OF UTTARAKHAND",
+ "petitioner": "AMIT PARLEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/432/2021",
+ "case_type": "CRLA",
+ "decision_date": "2024-11-19",
+ "cnr": "UKHC010161782021",
+ "doc_kind": "order",
+ "order_type": "CRLA/432/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkN0KvWED8uaj8X0xlR17jl3FwXCqrxl%2F7byNWPkbB7xp&caseno=CRLA/432/2021&cCode=1&cino=UKHC010161782021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5a0d84386a3aebf744268c582979af4d9be2c90b314e9216ad1a8cd5252959b6",
+ "fetched_at": "2026-11-02T13:51:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

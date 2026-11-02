@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/858/2026:2026-10-06-001",
+ "title": "NATIONAL FEDERATION OF FARMERS PROCUREMENT versus UTTARAKHAND STATE INTEGRATED COOPERATIVE DEVELOPMENT PROJECT",
+ "petitioner": "NATIONAL FEDERATION OF FARMERS PROCUREMENT",
+ "respondent": "UTTARAKHAND STATE INTEGRATED COOPERATIVE DEVELOPMENT PROJECT",
+ "case_no": "WPMB/858/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-06",
+ "cnr": "UKHC010177362026",
+ "doc_kind": "order",
+ "order_type": "WPMB/858/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtRmGy3BG7JBJkxuSmDFYhCkLoXwuRnDHaxEXw%2BSYSHS&caseno=WPMB/858/2026&cCode=1&cino=UKHC010177362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "225ed72608f8bad9ca868ee1e8caabe3196f4955423f8cd4794d74b288541da9",
+ "fetched_at": "2026-11-02T13:50:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

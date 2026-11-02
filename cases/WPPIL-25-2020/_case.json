@@ -1,0 +1,614 @@
+{
+ "cnr_number": "UKHC010028132020",
+ "case_type": "WPPIL",
+ "filing_number": "WPPIL /1283/2020",
+ "filing_date": "2020-02-24",
+ "registration_number": "WPPIL /25/2020",
+ "registration_date": "2020-02-24",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-04",
+ "decision_date": null,
+ "case_stage": "ORDERS ON APPLICATIONS -22",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "AJAY SINGH RAWAT",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "UNION OF INDIA",
+   "advocate": "DEPUTY  S.G.,"
+  },
+  {
+   "name": "STATE OF UTTARAKHAND THROUGH SECRETARY FOREST AND ENVIORNMENT SECTION 3 CIVIL SECRETARIAT DEHRADUN",
+   "advocate": "C.S.C.,AKSHAY PRADHAN"
+  }
+ ],
+ "acts": [
+  {
+   "act": "OTHER",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2020-02-25",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-10-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-10-27",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-10-27",
+   "business_date": "2025-09-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-09-12",
+   "business_date": "2025-06-09",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-09",
+   "business_date": "2025-06-02",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-02",
+   "business_date": "2025-04-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-04-25",
+   "business_date": "2025-03-24",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-05-05",
+   "business_date": "2025-03-10",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-10",
+   "business_date": "2025-02-18",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-02-18",
+   "business_date": "2025-02-13",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-02-13",
+   "business_date": "2024-11-05",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-11-05",
+   "business_date": "2024-06-11",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-11-05",
+   "business_date": "2024-04-09",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-09",
+   "business_date": "2024-03-21",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2024-03-21",
+   "business_date": "2024-03-18",
+   "purpose": "PERSONAL APPEARANCE -4",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-18",
+   "business_date": "2024-02-28",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-02-28",
+   "business_date": "2024-01-08",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-22",
+   "business_date": "2023-09-20",
+   "purpose": "DIGITAL ARREST/CYBER FRAUD/ONLINE FRAUD BAIL MATTERS -266",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-09-20",
+   "business_date": "2023-09-05",
+   "purpose": "DIGITAL ARREST/CYBER FRAUD/ONLINE FRAUD BAIL MATTERS -266",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-09-05",
+   "business_date": "2023-08-24",
+   "purpose": "DIGITAL ARREST/CYBER FRAUD/ONLINE FRAUD BAIL MATTERS -266",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-08-22",
+   "business_date": "2023-08-09",
+   "purpose": "DIGITAL ARREST/CYBER FRAUD/ONLINE FRAUD BAIL MATTERS -266",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-08-09",
+   "business_date": "2023-07-26",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-26",
+   "business_date": "2023-07-19",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-19",
+   "business_date": "2023-07-06",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-06",
+   "business_date": "2023-06-22",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-22",
+   "business_date": "2023-06-20",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-20",
+   "business_date": "2023-06-19",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-19",
+   "business_date": "2023-06-12",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-12",
+   "business_date": "2023-06-08",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-08",
+   "business_date": "2023-05-12",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-05-12",
+   "business_date": "2023-05-10",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-24",
+   "business_date": "2023-02-28",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-03-31",
+   "purpose": "FOR FINAL HEARING -100",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-03-31",
+   "business_date": "2021-03-03",
+   "purpose": "FOR FINAL HEARING -100",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-10-28",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-08-07",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-03-16",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-03-16",
+   "business_date": "2020-03-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST 2"
+  },
+  {
+   "hearing_date": "2020-03-27",
+   "business_date": "2020-02-28",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-02-28",
+   "business_date": "2020-02-27",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-02-27",
+   "business_date": "2020-02-26",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-02-25",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2020-02-28",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwSoIPwdPg1yxENBkoLB5%2BBM&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-02-27",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwTtbXH3aHr849%2BQZGMwHTnX&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-03-16",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwQQ1X%2B0U1YDKN5WcPfWJ%2BTx&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-08-07",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Ravi Malimath,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwSY%2BB6297nEv%2FXX6j5zRjZj&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-10-28",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwQWALg2ItCTs5Vze5SHnsjn&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-03-03",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwRP76ixrikgu2R32gx3w%2BJE&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-05-10",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwQenGzVGecmzgiN0%2BR3KmfT&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-05-12",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwS%2FCYktCz%2B5R9CdPF94Jr%2FL&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-06-08",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwR7KYSBOuINRyrssjLjcp%2F7&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-06-12",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwT1CvbkSvaoBwHsmnykNkw6&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-06-19",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwQbgXYeIxdwO45cOpTVCXkZ&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-06-20",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwRLHcpuBklXmJ2CC8PmEfx0&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-06-22",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwTjGkyvRpx%2FHMEuWgmdm0eQ&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-07-06",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwRc4Dhcv8EvC39RuMp7fWr4&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-07-19",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwRCh5W8a3nj48sBaxga2JaC&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-07-26",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwT8KglDR1E3tjPSREtjf17R&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-08-24",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwQgKA29Ra5tRsi5c9PTBnSq&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-09-20",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwT4Xs0BYq3vOZNztatGqG3I&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-01-08",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwQ%2F7rJLEn1uGSehK9yEDLfw&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-02-28",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwSDdn1dLYb5y9AImPM7G%2Bsa&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-03-18",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwRARlFXlEPBOdACV9%2BbTl0Z&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-03-21",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwT4lCGDtgeVTnjN6DaB%2FA18&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-04-09",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwRwZVszg4FNwKZlDhpdKyUR&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-06-11",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwQDau%2F8%2Bji8re1TX%2F2ks90W&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-02-13",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwQazB2%2BBeD1fVzYqUZJvj9A&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-02-18",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwRMtCoxTYK1B887eEd8CvaS&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-06-09",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwRa8lDl1R5kUagId6bYQK3V&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-12",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwT3X%2F2SUmhV2DQhyhcNE8xt&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-14",
+   "order_type": "WPPIL/25/2020",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwT63zFKsyKKc8PXpNK6meoE&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

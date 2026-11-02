@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/287/2021:2022-06-23-003",
+ "title": "SNEHLATA CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SNEHLATA CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/287/2021",
+ "case_type": "CRLA",
+ "decision_date": "2022-06-23",
+ "cnr": "UKHC010119112021",
+ "doc_kind": "order",
+ "order_type": "CRLA/287/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkPdE%2F3PbkTpi18vHRMGB243n0%2FSbENMnVXs9JXIHl%2Blx&caseno=CRLA/287/2021&cCode=1&cino=UKHC010119112021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e554cb5c90aad5a07bbfe552aae1b8280af52e9b7fab1f138e191320003ff176",
+ "fetched_at": "2026-11-02T13:51:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

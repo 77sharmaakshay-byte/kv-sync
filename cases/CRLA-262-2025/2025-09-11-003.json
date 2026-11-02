@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/262/2025:2025-09-11-003",
+ "title": "CHANDRA BHUWAN ALIAS CHANDRA BHUWAN TAMTA versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDRA BHUWAN ALIAS CHANDRA BHUWAN TAMTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/262/2025",
+ "case_type": "CRLA",
+ "decision_date": "2025-09-11",
+ "cnr": "UKHC010054452025",
+ "doc_kind": "order",
+ "order_type": "CRLA/262/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5M6NNtrMVEHS1z4h7jcJ8%2BlyjpccQ1VsEsBIP%2Fu%2FSeN&caseno=CRLA/262/2025&cCode=1&cino=UKHC010054452025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "09ac64f501a4265777a881040a21adb38da2b85052d9d5ae2ff0aecb126fb32d",
+ "fetched_at": "2026-11-02T13:53:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

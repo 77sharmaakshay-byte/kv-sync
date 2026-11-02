@@ -1,0 +1,77 @@
+{
+ "cnr_number": "UKHC010147642026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /7648/2026",
+ "filing_date": "2026-08-18",
+ "registration_number": "WPMS /2540/2026",
+ "registration_date": "2026-08-18",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-03",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pithoragarh",
+ "petitioners": [
+  {
+   "name": "RANJAN GIRI",
+   "advocate": "DEEPAK CHANDRA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "DISTRICT MAGISTRATE PITHORAGARH",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SUPERINTENDENT OF POLICE",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "STATION HOUSE OFFICER",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "PREM",
+   "advocate": ""
+  },
+  {
+   "name": "SURESH GIRI",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-19",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-25",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-19",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

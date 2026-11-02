@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/785/2023:2026-07-14-020",
+ "title": "MUNNI DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "MUNNI DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/785/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-14",
+ "cnr": "UKHC010180382023",
+ "doc_kind": "order",
+ "order_type": "CRLA/785/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY5veZNuYohaGNtkH3oBs8m2UYBl1MS6JRpMA3ap%2BlsfG&caseno=CRLA/785/2023&cCode=1&cino=UKHC010180382023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "00295b74523b040e52674512800e34ad67eb0aa712e18b35f1438debe72289d3",
+ "fetched_at": "2026-11-02T13:53:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

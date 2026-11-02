@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/12/2025:2025-02-21-001",
+ "title": "SHAMA NARGIS versus HIGH COURT OF UTTARAKHAND AT NAINITAL",
+ "petitioner": "SHAMA NARGIS",
+ "respondent": "HIGH COURT OF UTTARAKHAND AT NAINITAL",
+ "case_no": "WPSB/12/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-02-21",
+ "cnr": "UKHC010002972025",
+ "doc_kind": "order",
+ "order_type": "WPSB/12/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm21NHM3hduiF0BwsVPKrMGuX8Oi7FIq2yZXAhj5TjFoY&caseno=WPSB/12/2025&cCode=1&cino=UKHC010002972025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9ac1f083a19ad90e5cce999ba5ca2442ea536e17c09c927a7997a4fdea58ad50",
+ "fetched_at": "2026-11-02T13:49:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

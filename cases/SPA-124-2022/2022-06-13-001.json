@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/124/2022:2022-06-13-001",
+ "title": "M/S AJAY KUMAR SAINI CONTRACTOR versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S AJAY KUMAR SAINI CONTRACTOR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/124/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-06-13",
+ "cnr": "UKHC010074342022",
+ "doc_kind": "order",
+ "order_type": "SPA/124/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0yAGj3n%2BTK02HDzJAZFDnmtv15ij29BD8qsDIH%2FKdZpU&caseno=SPA/124/2022&cCode=1&cino=UKHC010074342022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a55d2214f0047e8c618497253b4536584aa5f78a6e344cf0dbc225a33bdd3150",
+ "fetched_at": "2026-11-02T13:46:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

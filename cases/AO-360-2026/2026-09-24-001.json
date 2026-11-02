@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/360/2026:2026-09-24-001",
+ "title": "PUBLIC WORKS DEPARTMENT versus M/S MBL INFRASTRUCTURES LIMITED",
+ "petitioner": "PUBLIC WORKS DEPARTMENT",
+ "respondent": "M/S MBL INFRASTRUCTURES LIMITED",
+ "case_no": "AO/360/2026",
+ "case_type": "AO",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010166652026",
+ "doc_kind": "order",
+ "order_type": "AO/360/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrwZmHx5lvv0WiADG52pEq%2BsGnCqQUWPPaPd%2FNNZEq9H&caseno=AO/360/2026&cCode=1&cino=UKHC010166652026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a7cf33e44e5225acc152b43a3437172f1eec3a16d5953047ee30106bb86834cf",
+ "fetched_at": "2026-11-02T13:49:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

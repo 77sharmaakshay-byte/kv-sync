@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/101/2023:2025-10-29-014",
+ "title": "J M S RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "J M S RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/101/2023",
+ "case_type": "WPSB",
+ "decision_date": "2025-10-29",
+ "cnr": "UKHC010039362023",
+ "doc_kind": "order",
+ "order_type": "WPSB/101/2023",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8US7MkPak%2Fy07Khklr%2Fvst5lMD7DDuhXvNlUizR%2BMk9&caseno=WPSB/101/2023&cCode=1&cino=UKHC010039362023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "07a647f96743ba903e48dfef222cb99ca94011fd28615a5f19391e35478208ca",
+ "fetched_at": "2026-11-02T13:48:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

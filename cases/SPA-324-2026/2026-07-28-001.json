@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/324/2026:2026-07-28-001",
+ "title": "HARIOM GAUTAM versus STATE OF UTTARAKHAND",
+ "petitioner": "HARIOM GAUTAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/324/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-07-28",
+ "cnr": "UKHC010128092026",
+ "doc_kind": "order",
+ "order_type": "SPA/324/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlimVL0iBGHD1lFStov2XQQSEVMSBDss000tznQPPrlk&caseno=SPA/324/2026&cCode=1&cino=UKHC010128092026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "44909f40402c431bb3ffc3b2e1417e4fd62573c582b1ef648969adab1b1e6f30",
+ "fetched_at": "2026-11-02T13:40:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

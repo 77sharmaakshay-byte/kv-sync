@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:HABC/52/2026:2026-10-12-001",
+ "title": "SALMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SALMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "HABC/52/2026",
+ "case_type": "HABC",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010181562026",
+ "doc_kind": "order",
+ "order_type": "HABC/52/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu2T%2Bs6cVZJt8%2FJgkYhPVAz0va9Ogmm62Mb9ORbd%2B8fM&caseno=HABC/52/2026&cCode=1&cino=UKHC010181562026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e8e75f8d9dca74eaabc7bb18448a383241c96fcaccf006c0d9f7372cc9b9c213",
+ "fetched_at": "2026-11-02T13:51:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

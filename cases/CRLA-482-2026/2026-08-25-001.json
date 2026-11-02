@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/482/2026:2026-08-25-001",
+ "title": "MANISH ALIAS DHANU versus STATE OF UTTARAKHAND",
+ "petitioner": "MANISH ALIAS DHANU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/482/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-25",
+ "cnr": "UKHC010146342026",
+ "doc_kind": "order",
+ "order_type": "CRLA/482/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvvGuw9yLfGbsv6tZ8KS8NkmA2PyaI9kkHw95CqnCID6&caseno=CRLA/482/2026&cCode=1&cino=UKHC010146342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "938629e9bd8b5cca5bd25d6e34c64cdf3a5b220544570c160baf2620ccbe7ce4",
+ "fetched_at": "2026-11-02T13:41:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

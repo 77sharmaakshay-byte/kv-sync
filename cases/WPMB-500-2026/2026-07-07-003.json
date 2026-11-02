@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/500/2026:2026-07-07-003",
+ "title": "BASANT BALLABH PUNETHA versus STATE OF UTTARAKHAND",
+ "petitioner": "BASANT BALLABH PUNETHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/500/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-07-07",
+ "cnr": "UKHC010104102026",
+ "doc_kind": "order",
+ "order_type": "WPMB/500/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt7VK%2B%2B107Tixea8PiD8oJMjIwAN%2BlbUDYTFGGyltDQQ&caseno=WPMB/500/2026&cCode=1&cino=UKHC010104102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "18f04c2765c181970b85052f8879ec97b1ecc5c222a3196ffcba8942818161cd",
+ "fetched_at": "2026-11-02T13:43:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

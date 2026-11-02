@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/590/2025:2025-11-07-001",
+ "title": "MOHAMMAD SHAHNAWAZ versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHAMMAD SHAHNAWAZ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/590/2025",
+ "case_type": "CRLA",
+ "decision_date": "2025-11-07",
+ "cnr": "UKHC010155892025",
+ "doc_kind": "order",
+ "order_type": "CRLA/590/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyYC0lO7Hn1JDXp5DjyB6WgdWFrcgwJwo54t5FkcIAff&caseno=CRLA/590/2025&cCode=1&cino=UKHC010155892025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a100fd3065d5c8c931b955faa76bce9ca58d22f5dd8141239573b5b6bf8e07dc",
+ "fetched_at": "2026-11-02T13:50:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

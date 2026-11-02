@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/268/2025:2025-10-08-005",
+ "title": "SHANKAR BORA versus STATE OF UTTARAKHAND",
+ "petitioner": "SHANKAR BORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/268/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-10-08",
+ "cnr": "UKHC010098792025",
+ "doc_kind": "order",
+ "order_type": "WPSB/268/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm33z2%2BfxLOPe9rqZwjpU7M3OrnlNnBKbNbZKXnpfI0L8&caseno=WPSB/268/2025&cCode=1&cino=UKHC010098792025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "13af33004be9ff22e0ad43785f3b5b44b3536fe86463b6242b55b8270a45cbed",
+ "fetched_at": "2026-11-02T13:46:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

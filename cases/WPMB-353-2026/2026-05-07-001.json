@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/353/2026:2026-05-07-001",
+ "title": "DR ASTHA SHAMBHULAL BHADRA versus SWAMI RAMA HIMALAYAN UNIVERSITY DEHRADUN",
+ "petitioner": "DR ASTHA SHAMBHULAL BHADRA",
+ "respondent": "SWAMI RAMA HIMALAYAN UNIVERSITY DEHRADUN",
+ "case_no": "WPMB/353/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-05-07",
+ "cnr": "UKHC010074922026",
+ "doc_kind": "order",
+ "order_type": "WPMB/353/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtvDw4a4LKv6Ov6EPnK%2BZuSgjUnzavQ48IsaMIhPgyI%2F&caseno=WPMB/353/2026&cCode=1&cino=UKHC010074922026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eb7b84efc162c1c3806282f1e99295675ee7a44d10218fad4ae973c8d3c3cbbd",
+ "fetched_at": "2026-11-02T13:50:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

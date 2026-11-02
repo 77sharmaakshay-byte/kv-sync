@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/46/2026:2026-10-31-011",
+ "title": "NARENDRA PAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARENDRA PAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/46/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-10-31",
+ "cnr": "UKHC010014632026",
+ "doc_kind": "order",
+ "order_type": "WPSB/46/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiS9XXCj1ooYuURqA5paMdq7JoAH5cXV7JpXhwzTgGIO&caseno=WPSB/46/2026&cCode=1&cino=UKHC010014632026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "09cd9b9c9ffab4bfbc50ff222a9dd490c8134dc50b207fbba401e49a5127d36b",
+ "fetched_at": "2026-11-02T13:46:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

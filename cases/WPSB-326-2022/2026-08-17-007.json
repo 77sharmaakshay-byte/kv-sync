@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/326/2022:2026-08-17-007",
+ "title": "MANISHA versus STATE OF UTTARAKHAND",
+ "petitioner": "MANISHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/326/2022",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-17",
+ "cnr": "UKHC010082022022",
+ "doc_kind": "order",
+ "order_type": "WPSB/326/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00Uzr4GsTSZn55%2FnXV%2FSorFnk1kzYmWNEZeCJtXLAnhi&caseno=WPSB/326/2022&cCode=1&cino=UKHC010082022022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a872f9dc8c3e0007dc4db25c454339f3125fa6468c7eba7675670533137e42ad",
+ "fetched_at": "2026-11-02T13:49:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

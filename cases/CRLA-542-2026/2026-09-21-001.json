@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/542/2026:2026-09-21-001",
+ "title": "MOHD IMRAN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD IMRAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/542/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010164112026",
+ "doc_kind": "order",
+ "order_type": "CRLA/542/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjHxCSFwUnGXsKmLYZzLfdFvOPktvQ19MNdMFMBBGkUj&caseno=CRLA/542/2026&cCode=1&cino=UKHC010164112026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6b4af0379d212888c887bca779d9f335cf985d1a8f9dd8b9ca246c9b695a8a06",
+ "fetched_at": "2026-11-02T13:51:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2746/2019:2019-09-13-001",
+ "title": "M/S GURUKUL KANGRI PHARMACY versus PRESIDING OFFICER CGIT CUM LABOUR COURT",
+ "petitioner": "M/S GURUKUL KANGRI PHARMACY",
+ "respondent": "PRESIDING OFFICER CGIT CUM LABOUR COURT",
+ "case_no": "WPMS/2746/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-09-13",
+ "cnr": "UKHC010146732019",
+ "doc_kind": "order",
+ "order_type": "WPMS/2746/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9sknTzRCyPfKjhX2DxNyEKKGcAshJooRUo%2BROggklLT&caseno=WPMS/2746/2019&cCode=1&cino=UKHC010146732019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "601991a0468add69c38caa5820888ecac8b4f1a52ce1ae48e95edbed9bd12d22",
+ "fetched_at": "2026-11-02T13:40:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

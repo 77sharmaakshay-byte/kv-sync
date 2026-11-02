@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/525/2025:2026-05-22-001",
+ "title": "UNION OF INDIA versus PARESHWAR PRASAD",
+ "petitioner": "UNION OF INDIA",
+ "respondent": "PARESHWAR PRASAD",
+ "case_no": "WPSB/525/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-05-22",
+ "cnr": "UKHC010189662025",
+ "doc_kind": "order",
+ "order_type": "WPSB/525/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES AS DEFECTIVE -236",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6a91HYOaqJSvtPotVw0F%2BVecEBK7JJCKWDq38EvHrQS&caseno=WPSB/525/2025&cCode=1&cino=UKHC010189662025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce28708245e94fbea2dbc4add839dc62e05f95a3ee39586d235e18be6e82e101",
+ "fetched_at": "2026-11-02T13:44:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

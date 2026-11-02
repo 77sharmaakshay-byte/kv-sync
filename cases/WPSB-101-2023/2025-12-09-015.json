@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/101/2023:2025-12-09-015",
+ "title": "J M S RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "J M S RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/101/2023",
+ "case_type": "WPSB",
+ "decision_date": "2025-12-09",
+ "cnr": "UKHC010039362023",
+ "doc_kind": "order",
+ "order_type": "WPSB/101/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8US7MkPak%2Fy07Khklr%2FvstKsPTpD74P0G%2FKeUegSPAX&caseno=WPSB/101/2023&cCode=1&cino=UKHC010039362023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8c176f35b786a4162f0e85e1d2ade3b6e682bbe7f61bce43b0d328638a0b69df",
+ "fetched_at": "2026-11-02T13:48:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

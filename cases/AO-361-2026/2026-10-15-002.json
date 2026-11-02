@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/361/2026:2026-10-15-002",
+ "title": "PUBLIC WORKS DEPARTMENT versus M/S MBL INFRASTRUCTURES LIMITED",
+ "petitioner": "PUBLIC WORKS DEPARTMENT",
+ "respondent": "M/S MBL INFRASTRUCTURES LIMITED",
+ "case_no": "AO/361/2026",
+ "case_type": "AO",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010166672026",
+ "doc_kind": "order",
+ "order_type": "AO/361/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsl4tIMjMnz8S8Z5IP%2BQ%2BLPvVyJphxtZIXlWYmbeYcON&caseno=AO/361/2026&cCode=1&cino=UKHC010166672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "65e299a8d598d2b27250b98c6fae017a801e0084fd2b6c7415077b6c02bb2ee7",
+ "fetched_at": "2026-11-02T13:50:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

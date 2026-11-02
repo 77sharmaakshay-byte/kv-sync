@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/566/2019:2019-09-26-001",
+ "title": "MAHIR versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/566/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-09-26",
+ "cnr": "UKHC010158912019",
+ "doc_kind": "order",
+ "order_type": "CRLR/566/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFx9NjqZkPRs9fBwWoFSorg%2FYO6A02iYLyK4d4BlloBFh&caseno=CRLR/566/2019&cCode=1&cino=UKHC010158912019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2dcf6fb48eadbb95f4f2e183c221aaa1ec13369c486e73f36df1e6c54855716e",
+ "fetched_at": "2026-11-02T13:52:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

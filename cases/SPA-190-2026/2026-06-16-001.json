@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/190/2026:2026-06-16-001",
+ "title": "POONAM DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "POONAM DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/190/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-06-16",
+ "cnr": "UKHC010087212026",
+ "doc_kind": "order",
+ "order_type": "SPA/190/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi4uScBOk4dB2zLMGaIVv21Y04eVCwLu0gl9d7t0zJwo&caseno=SPA/190/2026&cCode=1&cino=UKHC010087212026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f9812b361441ec7ac77a8abfc27d0551e31f4a9fea89f66838835f4918069eeb",
+ "fetched_at": "2026-11-02T13:40:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/425/2018:2026-09-21-002",
+ "title": "ANIL versus SMT. DHANESHWARI",
+ "petitioner": "ANIL",
+ "respondent": "SMT. DHANESHWARI",
+ "case_no": "CRLR/425/2018",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010199772018",
+ "doc_kind": "order",
+ "order_type": "CRLR/425/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL9QeQCoqKsEcumSZIMxBOEnXoQfWFyMQyhq0E5h8FkMO&caseno=CRLR/425/2018&cCode=1&cino=UKHC010199772018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0420d322887ad5587a4634a6fbc34914a8a0895f99a7d684ae103942830d367b",
+ "fetched_at": "2026-11-02T13:52:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

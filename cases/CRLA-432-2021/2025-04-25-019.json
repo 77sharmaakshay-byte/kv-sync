@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/432/2021:2025-04-25-019",
+ "title": "AMIT PARLEY versus STATE OF UTTARAKHAND",
+ "petitioner": "AMIT PARLEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/432/2021",
+ "case_type": "CRLA",
+ "decision_date": "2025-04-25",
+ "cnr": "UKHC010161782021",
+ "doc_kind": "order",
+ "order_type": "CRLA/432/2021",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkN0KvWED8uaj8X0xlR17jl2kaRXYBCtc6ujurYob978V&caseno=CRLA/432/2021&cCode=1&cino=UKHC010161782021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "af12481f0f43b43be1cecb5c71edd7540e8ac2d72aece1ad8cf38b218ea5cc93",
+ "fetched_at": "2026-11-02T13:51:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

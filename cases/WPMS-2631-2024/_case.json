@@ -6,11 +6,11 @@
  "registration_number": "WPMS /2631/2024",
  "registration_date": "2024-09-26",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-03",
  "decision_date": null,
  "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
  "status": "",
- "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "coram": "Registrar (Judicial)",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -51,6 +51,13 @@
    "hearing_date": "2024-09-27",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-12-02",
+   "business_date": "2026-10-14",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },

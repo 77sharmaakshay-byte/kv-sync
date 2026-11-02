@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/775/2026:2026-09-17-001",
+ "title": "ARVIND SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ARVIND SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/775/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010163892026",
+ "doc_kind": "order",
+ "order_type": "WPMB/775/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrPqRaj9uGlooSX8X3rBJhgog69m72fLlpeiS8SKJ%2Bh6&caseno=WPMB/775/2026&cCode=1&cino=UKHC010163892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb5491209e5c721d53c3702cea78cf32456013b818b8543ed668fca5d0876b9b",
+ "fetched_at": "2026-11-02T13:47:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

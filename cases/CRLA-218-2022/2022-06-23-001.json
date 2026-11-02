@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/218/2022:2022-06-23-001",
+ "title": "KAILASH RAM versus STATE OF UTTARAKHAND",
+ "petitioner": "KAILASH RAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/218/2022",
+ "case_type": "CRLA",
+ "decision_date": "2022-06-23",
+ "cnr": "UKHC010084942022",
+ "doc_kind": "order",
+ "order_type": "CRLA/218/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2Fy7d4MyjhGv2FqALpZA8AK%2FC%2Ba4Pr0MkXdom%2FihgZ6a&caseno=CRLA/218/2022&cCode=1&cino=UKHC010084942022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1b7f069109c89640be1aeebc2d2b3d3459b5589ab7118cc0bfa10b7a1c8b8674",
+ "fetched_at": "2026-11-02T13:50:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

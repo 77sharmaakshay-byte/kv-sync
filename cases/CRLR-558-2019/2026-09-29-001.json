@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/558/2019:2026-09-29-001",
+ "title": "POONAM versus STATE OF UTTARAKHAND",
+ "petitioner": "POONAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/558/2019",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010156852019",
+ "doc_kind": "order",
+ "order_type": "CRLR/558/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFyulwBrQLrqpdkGQ95qg%2BlZr8rOIkTruWR9L8X87vEn3&caseno=CRLR/558/2019&cCode=1&cino=UKHC010156852019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e3b9c73b3e4091c0d4ef21b62a874b7c3d775a381c2fc204818bd968c20963d",
+ "fetched_at": "2026-11-02T13:53:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

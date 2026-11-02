@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/386/2023:2024-08-21-001",
+ "title": "STATE OF UTTARAKHAND versus MS SONAL AUTHOMATION INDUSTRIES",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "MS SONAL AUTHOMATION INDUSTRIES",
+ "case_no": "SPA/386/2023",
+ "case_type": "SPA",
+ "decision_date": "2024-08-21",
+ "cnr": "UKHC010202272023",
+ "doc_kind": "order",
+ "order_type": "SPA/386/2023",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3aJ4P%2FKTCI9xK86u4q7SJR%2FNqyqjSnejOEtyOfblKD3&caseno=SPA/386/2023&cCode=1&cino=UKHC010202272023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "098819ab5d5f1714243b9a61120407d5a471ba44090c31726d51e985c8740923",
+ "fetched_at": "2026-11-02T13:47:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

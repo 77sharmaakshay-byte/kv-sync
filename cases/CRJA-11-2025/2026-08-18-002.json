@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/11/2025:2026-08-18-002",
+ "title": "BABLU versus STATE OF UTTARAKHAND",
+ "petitioner": "BABLU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/11/2025",
+ "case_type": "CRJA",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010021612025",
+ "doc_kind": "order",
+ "order_type": "CRJA/11/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmy4NMYkyQ15CzRA%2FUx%2BKgtULSXd94zYJPp5G7qTeckZf&caseno=CRJA/11/2025&cCode=1&cino=UKHC010021612025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4680bc69f1708b656df5db879dc5e94b8e594fe421b4f7dddab5639b589ae253",
+ "fetched_at": "2026-11-02T13:50:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

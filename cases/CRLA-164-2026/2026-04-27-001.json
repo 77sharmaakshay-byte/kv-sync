@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/164/2026:2026-04-27-001",
+ "title": "SOBAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SOBAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/164/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-04-27",
+ "cnr": "UKHC010052732026",
+ "doc_kind": "order",
+ "order_type": "CRLA/164/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkswRmGISgU16ZiICqY%2B5D5niKLBeWLhHYWqjjImV2iY&caseno=CRLA/164/2026&cCode=1&cino=UKHC010052732026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9bf9d4ee4edc34ef9aba3cf3a6d7edd5567d55e9878f5fe6c4c2e8144ab3e48c",
+ "fetched_at": "2026-11-02T13:50:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

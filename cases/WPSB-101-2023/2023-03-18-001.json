@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/101/2023:2023-03-18-001",
+ "title": "J M S RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "J M S RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/101/2023",
+ "case_type": "WPSB",
+ "decision_date": "2023-03-18",
+ "cnr": "UKHC010039362023",
+ "doc_kind": "order",
+ "order_type": "WPSB/101/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8US7MkPak%2Fy07Khklr%2Fvsvy5Hl%2B7oD8SrGl86aSpIwu&caseno=WPSB/101/2023&cCode=1&cino=UKHC010039362023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce6c3a99743d977fc0f4911ca0394ac3aaa563efe15006d0b2d23617720b0094",
+ "fetched_at": "2026-11-02T13:48:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

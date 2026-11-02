@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/500/2026:2026-06-30-002",
+ "title": "BASANT BALLABH PUNETHA versus STATE OF UTTARAKHAND",
+ "petitioner": "BASANT BALLABH PUNETHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/500/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-06-30",
+ "cnr": "UKHC010104102026",
+ "doc_kind": "order",
+ "order_type": "WPMB/500/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt7VK%2B%2B107Tixea8PiD8oJOovVlTO9IZxKIh%2F0e20uXB&caseno=WPMB/500/2026&cCode=1&cino=UKHC010104102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce10792f69cb7b6f8bad70e6618a672af4ae2f300beae5cbbfab2b92e187ec7c",
+ "fetched_at": "2026-11-02T13:43:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

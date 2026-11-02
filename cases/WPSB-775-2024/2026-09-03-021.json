@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/775/2024:2026-09-03-021",
+ "title": "RAMESH CHANDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMESH CHANDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/775/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010189922024",
+ "doc_kind": "order",
+ "order_type": "WPSB/775/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcPdIje%2BRWiZs0qYP2L58YefFxwJG0v2CBweiVvGX9%2FPl&caseno=WPSB/775/2024&cCode=1&cino=UKHC010189922024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d0465f5117fbc3c2d5d8d4ebb2dff0bcb7ebd6ddca2b3cff3726e390101f58dd",
+ "fetched_at": "2026-11-02T13:48:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

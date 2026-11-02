@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/25/2020:2023-05-10-007",
+ "title": "AJAY SINGH RAWAT versus UNION OF INDIA",
+ "petitioner": "AJAY SINGH RAWAT",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPPIL/25/2020",
+ "case_type": "WPPIL",
+ "decision_date": "2023-05-10",
+ "cnr": "UKHC010028132020",
+ "doc_kind": "order",
+ "order_type": "WPPIL/25/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjO4uH5ApL%2BfnbppvpYD2MwQenGzVGecmzgiN0%2BR3KmfT&caseno=WPPIL/25/2020&cCode=1&cino=UKHC010028132020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1844cad98180ac70b1b70ccb91c62cf5899afbe38d493deb372ce659711c35aa",
+ "fetched_at": "2026-11-02T13:47:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

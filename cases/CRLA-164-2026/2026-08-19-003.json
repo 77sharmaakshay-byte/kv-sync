@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/164/2026:2026-08-19-003",
+ "title": "SOBAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SOBAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/164/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010052732026",
+ "doc_kind": "order",
+ "order_type": "CRLA/164/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkswRmGISgU16ZiICqY%2B5D68w1qqRho3XPTzED8CNMq5&caseno=CRLA/164/2026&cCode=1&cino=UKHC010052732026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "91f3e81d008f541934dda50312da753bf16f53803f5ab5644eb064c29076c4fc",
+ "fetched_at": "2026-11-02T13:51:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

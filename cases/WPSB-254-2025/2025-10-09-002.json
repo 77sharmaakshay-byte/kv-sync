@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/254/2025:2025-10-09-002",
+ "title": "PRAMOD KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAMOD KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/254/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-10-09",
+ "cnr": "UKHC010093892025",
+ "doc_kind": "order",
+ "order_type": "WPSB/254/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0FzcQE%2BzGDH26fvrL7IpORmck3kil2l2F6GKhAy5Pzh&caseno=WPSB/254/2025&cCode=1&cino=UKHC010093892025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "399d7279a7c8493568f8e97b43e6c3466f9ab1e424e191f9e6d9e70480eb3e59",
+ "fetched_at": "2026-11-02T13:45:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

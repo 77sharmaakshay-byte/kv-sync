@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/151/2021:2023-02-16-003",
+ "title": "ALOK KUMAR versus UNION OF INDIA",
+ "petitioner": "ALOK KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPPIL/151/2021",
+ "case_type": "WPPIL",
+ "decision_date": "2023-02-16",
+ "cnr": "UKHC010108072021",
+ "doc_kind": "order",
+ "order_type": "WPPIL/151/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLc2QKrk55ciTNCSqVualNY%2B%2FRcC8thwopfYJMt6n4sj&caseno=WPPIL/151/2021&cCode=1&cino=UKHC010108072021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1254401f62ea6f0cc83007a18e4d01e4a66e9606d241933fbfd8bc308fbf4f17",
+ "fetched_at": "2026-11-02T13:49:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

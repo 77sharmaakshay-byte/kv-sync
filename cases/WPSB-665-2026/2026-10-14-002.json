@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/665/2026:2026-10-14-002",
+ "title": "RAHUL SAINI versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL SAINI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/665/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010181532026",
+ "doc_kind": "order",
+ "order_type": "WPSB/665/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqG6cfrPgWFS%2FvqVRNq553u5JNWs9aY%2BO4GBX43A6XGJ&caseno=WPSB/665/2026&cCode=1&cino=UKHC010181532026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b5ddea7582246b9dbfee435da8cb7e110372cec8ed5e31017ad43d0dff1e6250",
+ "fetched_at": "2026-11-02T13:42:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

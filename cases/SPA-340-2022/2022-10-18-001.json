@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/340/2022:2022-10-18-001",
+ "title": "MAHIPAL SINGH NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHIPAL SINGH NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/340/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-10-18",
+ "cnr": "UKHC010150962022",
+ "doc_kind": "order",
+ "order_type": "SPA/340/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xVhQz6QLZIPTmd7oqhXJlVzAJ%2FRvv4rlxefCYYoyE%2BS&caseno=SPA/340/2022&cCode=1&cino=UKHC010150962022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "29c6cf597f1d0dcae3fd5a6f93c72309d051940c6676e4f9c220d11136506bb7",
+ "fetched_at": "2026-11-02T13:46:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

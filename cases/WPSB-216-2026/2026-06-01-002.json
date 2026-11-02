@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/216/2026:2026-06-01-002",
+ "title": "BHUWAN CHANDRA PANDE versus STATE OF UTTARAKHAND",
+ "petitioner": "BHUWAN CHANDRA PANDE",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/216/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-01",
+ "cnr": "UKHC010059472026",
+ "doc_kind": "order",
+ "order_type": "WPSB/216/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpyQNo%2FIyw9jG%2FG1HYlFDAA3%2BOZiLZkrH%2B0DSPWe3crc&caseno=WPSB/216/2026&cCode=1&cino=UKHC010059472026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "49938c53b287d6fea9e70ae90341b0121acc9783244eac86df711cc73ac5ba99",
+ "fetched_at": "2026-11-02T13:47:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

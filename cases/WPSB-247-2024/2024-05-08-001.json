@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/247/2024:2024-05-08-001",
+ "title": "BALDEV SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BALDEV SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/247/2024",
+ "case_type": "WPSB",
+ "decision_date": "2024-05-08",
+ "cnr": "UKHC010067292024",
+ "doc_kind": "order",
+ "order_type": "WPSB/247/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcGGnOxQSc3g4O4khio4iYhRpKmVi%2Berpw%2B6c9nD0RdAc&caseno=WPSB/247/2024&cCode=1&cino=UKHC010067292024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e5f950919c32e668f1d983d6c8e88775d9f98a814f28b60819e31345d6a0f3cc",
+ "fetched_at": "2026-11-02T13:47:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/734/2023:2025-12-20-011",
+ "title": "HARENDRA CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "HARENDRA CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/734/2023",
+ "case_type": "CRLA",
+ "decision_date": "2025-12-20",
+ "cnr": "UKHC010168002023",
+ "doc_kind": "order",
+ "order_type": "CRLA/734/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2BAGKYjZNJGRGfFxSsrRiNbXo5cCqaBS9Zxb16NEx20c&caseno=CRLA/734/2023&cCode=1&cino=UKHC010168002023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2d242e3982e023c90ee8b35180ee5d09834bd187f04ff496e42643a67bb3afc0",
+ "fetched_at": "2026-11-02T13:52:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

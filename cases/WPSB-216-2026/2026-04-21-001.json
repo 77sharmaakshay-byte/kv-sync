@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/216/2026:2026-04-21-001",
+ "title": "BHUWAN CHANDRA PANDE versus STATE OF UTTARAKHAND",
+ "petitioner": "BHUWAN CHANDRA PANDE",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/216/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-04-21",
+ "cnr": "UKHC010059472026",
+ "doc_kind": "order",
+ "order_type": "WPSB/216/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpyQNo%2FIyw9jG%2FG1HYlFDAAYa%2FhywNHIbrhvwFF4b%2Fmu&caseno=WPSB/216/2026&cCode=1&cino=UKHC010059472026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "03246230687a2d46da8c4cc6c48acc86cb2f5871e7a844415ed176cd1bb6d285",
+ "fetched_at": "2026-11-02T13:47:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

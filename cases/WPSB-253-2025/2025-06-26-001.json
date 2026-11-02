@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/253/2025:2025-06-26-001",
+ "title": "SATYAPAL SINGH RAWAT versus UTTARAKHAND FOREST DEVELOPMENT CORPORATION",
+ "petitioner": "SATYAPAL SINGH RAWAT",
+ "respondent": "UTTARAKHAND FOREST DEVELOPMENT CORPORATION",
+ "case_no": "WPSB/253/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-06-26",
+ "cnr": "UKHC010093482025",
+ "doc_kind": "order",
+ "order_type": "WPSB/253/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm8ktbBQk7vYc%2FO6BugKdvoSZPh9FBT5psTixXdHrOJPa&caseno=WPSB/253/2025&cCode=1&cino=UKHC010093482025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "456ee3270d80d2d148abcc8d5ec5cd98d79d43da483784d67b42cdc20f89a7c0",
+ "fetched_at": "2026-11-02T13:46:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

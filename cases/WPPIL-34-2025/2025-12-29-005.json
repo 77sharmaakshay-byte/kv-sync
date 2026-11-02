@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/34/2025:2025-12-29-005",
+ "title": "YASHPAL SINGH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "YASHPAL SINGH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/34/2025",
+ "case_type": "WPPIL",
+ "decision_date": "2025-12-29",
+ "cnr": "UKHC010027022025",
+ "doc_kind": "order",
+ "order_type": "WPPIL/34/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwRMHbjPDdncd8x53aG4Vjx91pmCXmsxhFLCzx%2BUY6U2&caseno=WPPIL/34/2025&cCode=1&cino=UKHC010027022025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7fc655243311f7438ed46aa1e54c5b6afc161e5965a4d71e58b8ee6695a6264a",
+ "fetched_at": "2026-11-02T13:49:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

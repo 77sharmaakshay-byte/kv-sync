@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/425/2018:2018-12-15-001",
+ "title": "ANIL versus SMT. DHANESHWARI",
+ "petitioner": "ANIL",
+ "respondent": "SMT. DHANESHWARI",
+ "case_no": "CRLR/425/2018",
+ "case_type": "CRLR",
+ "decision_date": "2018-12-15",
+ "cnr": "UKHC010199772018",
+ "doc_kind": "order",
+ "order_type": "CRLR/425/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL9QeQCoqKsEcumSZIMxBOEkUXO6U8bk6ut5yRUhA87QY&caseno=CRLR/425/2018&cCode=1&cino=UKHC010199772018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3c2c69e28654902d90d98c00e093b268636774ebcb877a40bdf587317659c9ae",
+ "fetched_at": "2026-11-02T13:52:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

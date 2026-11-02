@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/566/2019:2026-09-29-002",
+ "title": "MAHIR versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/566/2019",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010158912019",
+ "doc_kind": "order",
+ "order_type": "CRLR/566/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFx9NjqZkPRs9fBwWoFSorg%2BHrFx%2F3XhG9YAlUNlTWmM1&caseno=CRLR/566/2019&cCode=1&cino=UKHC010158912019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "82a6acdd55e119c351aafcfc08735077baaf0193bfa00f1209b3ea8fb5ba34bc",
+ "fetched_at": "2026-11-02T13:52:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

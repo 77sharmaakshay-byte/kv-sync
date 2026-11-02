@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/574/2019:2019-10-10-001",
+ "title": "RAJESH PAL versus SANGEETA",
+ "petitioner": "RAJESH PAL",
+ "respondent": "SANGEETA",
+ "case_no": "CRLR/574/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-10-10",
+ "cnr": "UKHC010160412019",
+ "doc_kind": "order",
+ "order_type": "CRLR/574/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF24ZOXkXwN8QkDiJDEARb0hzfJ84NQSfo6OlTnRWr%2FLt&caseno=CRLR/574/2019&cCode=1&cino=UKHC010160412019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "10634755c3e8ada2d193cf54afa87394a62b176c17861fd5264985efda19ec31",
+ "fetched_at": "2026-11-02T13:53:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

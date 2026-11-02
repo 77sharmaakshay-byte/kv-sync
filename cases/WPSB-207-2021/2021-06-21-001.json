@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/207/2021:2021-06-21-001",
+ "title": "KHAGENDRA JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "KHAGENDRA JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/207/2021",
+ "case_type": "WPSB",
+ "decision_date": "2021-06-21",
+ "cnr": "UKHC010065362021",
+ "doc_kind": "order",
+ "order_type": "WPSB/207/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkFOTMMxz%2FrYVl5zLgz3r1h67DTFfNggojAV2nRK8Mrln&caseno=WPSB/207/2021&cCode=1&cino=UKHC010065362021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "de0170fce07d96fc64d97618a3e37a75f7c138e8084792a950283b4291db0bf7",
+ "fetched_at": "2026-11-02T13:46:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

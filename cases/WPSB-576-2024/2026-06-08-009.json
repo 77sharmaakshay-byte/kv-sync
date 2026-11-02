@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/576/2024:2026-06-08-009",
+ "title": "MANOJ KUMAR JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "MANOJ KUMAR JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/576/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-08",
+ "cnr": "UKHC010140682024",
+ "doc_kind": "order",
+ "order_type": "WPSB/576/2024",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcGYE2ueuLFvi%2BDZZitVvH3cInnWI5bXNuRnTRlz5JJ2W&caseno=WPSB/576/2024&cCode=1&cino=UKHC010140682024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "08a8584f3b837227f51dd39ea9a0c3c4f0105f330b1007d3263f4583dc5e8dfe",
+ "fetched_at": "2026-11-02T13:48:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

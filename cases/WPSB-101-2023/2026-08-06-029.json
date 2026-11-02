@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/101/2023:2026-08-06-029",
+ "title": "J M S RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "J M S RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/101/2023",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-06",
+ "cnr": "UKHC010039362023",
+ "doc_kind": "order",
+ "order_type": "WPSB/101/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8US7MkPak%2Fy07Khklr%2FvsvFOMBWdE9C9Zv4%2Fs2ziImT&caseno=WPSB/101/2023&cCode=1&cino=UKHC010039362023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0f1f769e64d3e0a5c8a6ef1cc8bcf79f77756b17dd502f89f7f1a16ecf1dfa21",
+ "fetched_at": "2026-11-02T13:49:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

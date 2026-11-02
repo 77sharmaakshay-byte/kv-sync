@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/776/2023:2026-03-11-014",
+ "title": "ISHWARI SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ISHWARI SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/776/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-03-11",
+ "cnr": "UKHC010178942023",
+ "doc_kind": "order",
+ "order_type": "CRLA/776/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY11ElWGfmPSwjTPBjER1J%2BXR2iOk1oPzirqJ3kbI76aJ&caseno=CRLA/776/2023&cCode=1&cino=UKHC010178942023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5fba1a4ecbe731d54476f0ae3f1d63f703bb4e09cc47ca808195069b52869f6a",
+ "fetched_at": "2026-11-02T13:52:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

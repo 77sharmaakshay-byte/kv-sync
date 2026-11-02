@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/138/2026:2026-05-04-002",
+ "title": "RAJENDRA SINGH ALIAS RAJAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJENDRA SINGH ALIAS RAJAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/138/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-05-04",
+ "cnr": "UKHC010045672026",
+ "doc_kind": "order",
+ "order_type": "CRLA/138/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlsDcpBcIcVn0mf7q9Pzzi0FVzqlzNFKF%2F5c%2FP1r2L7a&caseno=CRLA/138/2026&cCode=1&cino=UKHC010045672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0e06b1c8b5611f312a8f0ccc32f98f6e73d5617928b624b7858ecf2bba84866a",
+ "fetched_at": "2026-11-02T13:51:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

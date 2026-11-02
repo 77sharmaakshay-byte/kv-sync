@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2746/2019:2021-07-05-002",
+ "title": "M/S GURUKUL KANGRI PHARMACY versus PRESIDING OFFICER CGIT CUM LABOUR COURT",
+ "petitioner": "M/S GURUKUL KANGRI PHARMACY",
+ "respondent": "PRESIDING OFFICER CGIT CUM LABOUR COURT",
+ "case_no": "WPMS/2746/2019",
+ "case_type": "WPMS",
+ "decision_date": "2021-07-05",
+ "cnr": "UKHC010146732019",
+ "doc_kind": "order",
+ "order_type": "WPMS/2746/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9sknTzRCyPfKjhX2DxNyEI0Q1Suw230fOuEyq90m4%2F8&caseno=WPMS/2746/2019&cCode=1&cino=UKHC010146732019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ab2e068ec57932079bcac5547d690d086a3e79a656b039c1338c95134f686d95",
+ "fetched_at": "2026-11-02T13:40:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

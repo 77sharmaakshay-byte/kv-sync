@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/338/2022:2023-09-12-003",
+ "title": "JONU DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "JONU DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/338/2022",
+ "case_type": "SPA",
+ "decision_date": "2023-09-12",
+ "cnr": "UKHC010150982022",
+ "doc_kind": "order",
+ "order_type": "SPA/338/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xERcA6lHFWrNO1suZvh0mcViUdDKkFvw%2BSIkM5vHA7Y&caseno=SPA/338/2022&cCode=1&cino=UKHC010150982022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9552da2410497ae5e2330ba6a61f14624e08084f97e81edcc76a39af05906d1e",
+ "fetched_at": "2026-11-02T13:47:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

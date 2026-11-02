@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/120/2022:2022-06-06-001",
+ "title": "STATE OF UTTARAKHAND versus BEENA DEVI",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "BEENA DEVI",
+ "case_no": "SPA/120/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-06-06",
+ "cnr": "UKHC010072502022",
+ "doc_kind": "order",
+ "order_type": "SPA/120/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00Lrqxe2QDU08809yiN14KllUVZ3JGnbLGulZuvRY8ey&caseno=SPA/120/2022&cCode=1&cino=UKHC010072502022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "21370a422f5b3a80a1428cda1ed339a7ee23ca053ed203e1b42b60381ec74de5",
+ "fetched_at": "2026-11-02T13:46:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

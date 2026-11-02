@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/242/2026:2026-04-16-001",
+ "title": "MANAGING DIRECTOR versus STATE OF UTTARAKHAND",
+ "petitioner": "MANAGING DIRECTOR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/242/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-04-16",
+ "cnr": "UKHC010054132026",
+ "doc_kind": "order",
+ "order_type": "WPMB/242/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn7%2FvYoLqeGf7JkTOpasUqDULm5D6gL4efOs0tzww6Jd&caseno=WPMB/242/2026&cCode=1&cino=UKHC010054132026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8c82c03baf3cca29889040e4f442826028f71e4b00db5d7a9b6615285ba7119e",
+ "fetched_at": "2026-11-02T13:47:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

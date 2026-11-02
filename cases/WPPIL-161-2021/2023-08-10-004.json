@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/161/2021:2023-08-10-004",
+ "title": "RAVI SHANKAR JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVI SHANKAR JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/161/2021",
+ "case_type": "WPPIL",
+ "decision_date": "2023-08-10",
+ "cnr": "UKHC010116452021",
+ "doc_kind": "order",
+ "order_type": "WPPIL/161/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJOSUTPSpJ6phHfL4Kd7xNeImwZF%2FAUVvpXQ%2Ba0lnTzV&caseno=WPPIL/161/2021&cCode=1&cino=UKHC010116452021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e84cf6817cbce85056baeaa03148f76127866eb3965bc9836d08354e12219e5d",
+ "fetched_at": "2026-11-02T13:48:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

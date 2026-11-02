@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/207/2021:2025-12-09-003",
+ "title": "KHAGENDRA JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "KHAGENDRA JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/207/2021",
+ "case_type": "WPSB",
+ "decision_date": "2025-12-09",
+ "cnr": "UKHC010065362021",
+ "doc_kind": "order",
+ "order_type": "WPSB/207/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkFOTMMxz%2FrYVl5zLgz3r1h4QrJJ9nbFQH4aTDDUnal0j&caseno=WPSB/207/2021&cCode=1&cino=UKHC010065362021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ed9b851b0152fd7b8541d082465c8a35e037767b42f7314174107bf301d6a971",
+ "fetched_at": "2026-11-02T13:47:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

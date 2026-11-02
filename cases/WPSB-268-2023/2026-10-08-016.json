@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/268/2023:2026-10-08-016",
+ "title": "MANOJ KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MANOJ KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/268/2023",
+ "case_type": "WPSB",
+ "decision_date": "2026-10-08",
+ "cnr": "UKHC010100592023",
+ "doc_kind": "order",
+ "order_type": "WPSB/268/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8Rl57ODCeFDv%2FHLHl6uNw0ugrFYU5qeEmHzljRg3WTf&caseno=WPSB/268/2023&cCode=1&cino=UKHC010100592023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7df87bbde323a49634d3b721003b626f99c86912c20cf48491cc15f4beeaeb9f",
+ "fetched_at": "2026-11-02T13:46:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

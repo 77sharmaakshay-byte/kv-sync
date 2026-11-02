@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/713/2025:2026-06-18-002",
+ "title": "MS SAUN SONS CONSTRUCTION versus STATE OF UTTARAKHAND",
+ "petitioner": "MS SAUN SONS CONSTRUCTION",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/713/2025",
+ "case_type": "WPMB",
+ "decision_date": "2026-06-18",
+ "cnr": "UKHC010130722025",
+ "doc_kind": "order",
+ "order_type": "WPMB/713/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2FVXWKu3PA779nXML%2FZ7qv13Mjhp4TtM4u%2F0hfAZt%2Bwu&caseno=WPMB/713/2025&cCode=1&cino=UKHC010130722025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d49d58045dcdfdf0dbef12e7138db46538e796aed63debcc29bec95099be13b",
+ "fetched_at": "2026-11-02T13:49:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/883/2023:2026-02-18-012",
+ "title": "SURESH SINGH RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "SURESH SINGH RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/883/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-02-18",
+ "cnr": "UKHC010202062023",
+ "doc_kind": "order",
+ "order_type": "CRLA/883/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8Ov2gbnz8C8PYpDegyGT6ws%2BslzsWEJ1honrMh71qkX&caseno=CRLA/883/2023&cCode=1&cino=UKHC010202062023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ca8be4ee8da3746722cb310f7693a37ac4ef07572430ea676ec9323b365b43d",
+ "fetched_at": "2026-11-02T13:52:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

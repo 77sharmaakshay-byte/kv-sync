@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/720/2024:2026-08-14-006",
+ "title": "SATYA KUMAR versus G B PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+ "petitioner": "SATYA KUMAR",
+ "respondent": "G B PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+ "case_no": "WPSB/720/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010184032024",
+ "doc_kind": "order",
+ "order_type": "WPSB/720/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcL0b6Q88mTWfCIbh%2F%2FrzNdJPdnxWLOLlJpN6r%2BDFecQJ&caseno=WPSB/720/2024&cCode=1&cino=UKHC010184032024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a1b1668bec1c38de924fd45ed4bf9390cc52961efc084d07c082a79ca4408da2",
+ "fetched_at": "2026-11-02T13:49:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

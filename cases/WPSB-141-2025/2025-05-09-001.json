@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/141/2025:2025-05-09-001",
+ "title": "POOJA JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "POOJA JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/141/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-05-09",
+ "cnr": "UKHC010063142025",
+ "doc_kind": "order",
+ "order_type": "WPSB/141/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7YNsNWXpaiz3pFsAZNyt0llyeKBrVd2sHUI%2BFq1gVqv&caseno=WPSB/141/2025&cCode=1&cino=UKHC010063142025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2b15fb4b23ef4724b573d7da53cc69916968c3a579cb46e5f6f54bfb72fb4401",
+ "fetched_at": "2026-11-02T13:45:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

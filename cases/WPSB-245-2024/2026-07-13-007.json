@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/245/2024:2026-07-13-007",
+ "title": "ANURAG AGARWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "ANURAG AGARWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/245/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-07-13",
+ "cnr": "UKHC010066892024",
+ "doc_kind": "order",
+ "order_type": "WPSB/245/2024",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcHsLZFPgRE3NWjMr%2B5msi90hc8dKaU2WuKRnkI0%2Fi1ms&caseno=WPSB/245/2024&cCode=1&cino=UKHC010066892024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6cb9af9776cf67d5b1a6ac94d49b9e2a76d833ca5b95c7cb1834d2c94175207a",
+ "fetched_at": "2026-11-02T13:47:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

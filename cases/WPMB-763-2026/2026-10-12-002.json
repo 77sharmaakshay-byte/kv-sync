@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/763/2026:2026-10-12-002",
+ "title": "AMBIKA ENTERPRISES versus COMMISSIONER JOINT COMMISSIONER",
+ "petitioner": "AMBIKA ENTERPRISES",
+ "respondent": "COMMISSIONER JOINT COMMISSIONER",
+ "case_no": "WPMB/763/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010162672026",
+ "doc_kind": "order",
+ "order_type": "WPMB/763/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk0BamSegajEfvR757bN9H6YzQPMyHo9SMR8CurLMhYh&caseno=WPMB/763/2026&cCode=1&cino=UKHC010162672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f46ab6424b33b1dc5c73f48f70e347955a49793e3536d237b033b6055a58a7fb",
+ "fetched_at": "2026-11-02T13:49:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

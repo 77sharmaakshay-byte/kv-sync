@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/356/2021:2025-04-22-008",
+ "title": "SANKAR LAL KOHLI versus STATE OF UTTARAKHAND",
+ "petitioner": "SANKAR LAL KOHLI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/356/2021",
+ "case_type": "WPSB",
+ "decision_date": "2025-04-22",
+ "cnr": "UKHC010101502021",
+ "doc_kind": "order",
+ "order_type": "WPSB/356/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkFnQ%2FJskmvtASjCLl2DJ8DnjEggup%2FU%2BdzhBcxK%2BfD1o&caseno=WPSB/356/2021&cCode=1&cino=UKHC010101502021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6cfd34ea73e15432af13d0cc1b8e226b843dc98ee5c4531905055535d989864f",
+ "fetched_at": "2026-11-02T13:48:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

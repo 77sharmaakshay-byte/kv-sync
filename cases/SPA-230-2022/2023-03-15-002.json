@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/230/2022:2023-03-15-002",
+ "title": "UNION OF INDIA THROUGH SECRETARY HOME versus DARSHAN SINGH",
+ "petitioner": "UNION OF INDIA THROUGH SECRETARY HOME",
+ "respondent": "DARSHAN SINGH",
+ "case_no": "SPA/230/2022",
+ "case_type": "SPA",
+ "decision_date": "2023-03-15",
+ "cnr": "UKHC010104162022",
+ "doc_kind": "order",
+ "order_type": "SPA/230/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT09RuHcTSR0nWMc7WfgmSAEwUa8THqHjD%2BnDeYCQ%2BGUxC&caseno=SPA/230/2022&cCode=1&cino=UKHC010104162022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "26dacdda4949e4b37d61c2619c992ddb2da5dae81305a2315f27bf822177dc4f",
+ "fetched_at": "2026-11-02T13:46:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

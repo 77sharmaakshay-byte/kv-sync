@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:GA/107/2025:2026-09-30-002",
+ "title": "STATE OF UTTARAKHAND versus FURKAN",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "FURKAN",
+ "case_no": "GA/107/2025",
+ "case_type": "GA",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010207202025",
+ "doc_kind": "order",
+ "order_type": "GA/107/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxUVGaT%2Bht3sXOO0uaNrTeHFDJ%2BzSOry56jEovhhT%2FlX&caseno=GA/107/2025&cCode=1&cino=UKHC010207202025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9f0da58fa5d691fbefe60d27796f5e3d0ce98b22b44d88c6bfff12740c3d71b4",
+ "fetched_at": "2026-11-02T13:51:42+00:00",
+ "fetched_by": "fetch_live.py"
+}
