@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T13:35+00:00",
+ "generated_at": "2026-11-02T13:56+00:00",
  "dates": [
   "2026-11-04",
   "2026-11-03",
@@ -1103,6 +1103,16 @@
    "a": 2
   },
   {
+   "id": "AO-214-2026",
+   "case_no": "AO/214/2026",
+   "title": "GUMANI RAM v. PANA RAM",
+   "advocates": [
+    "CHANDRAMAULI SHAH,LAYBA NOOR,LAYBA NOOR, ,LAYBA NOOR"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "AO-215-2017",
    "case_no": "AO/215/2017",
    "title": "THE NEW INDIA ASSURANCE COMPANY LIMITED, v. SMT. ANJU",
@@ -1576,6 +1586,16 @@
    "a": 2
   },
   {
+   "id": "AO-310-2026",
+   "case_no": "AO/310/2026",
+   "title": "ICICI LOMBARD GENERAL INSURANCE CO. v. MANJEET KAUR BHATIA",
+   "advocates": [
+    "PULAK AGARWAL,BHARAT TEWARI,BHARAT TEWARI, ,BHARAT TEWARI"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "AO-314-2017",
    "case_no": "AO/314/2017",
    "title": "KASHMIR SINGH v. CHANDRA PRAKASH",
@@ -1753,6 +1773,26 @@
    "a": 2
   },
   {
+   "id": "AO-360-2026",
+   "case_no": "AO/360/2026",
+   "title": "PUBLIC WORKS DEPARTMENT v. M/S MBL INFRASTRUCTURES LIMITED",
+   "advocates": [
+    "C.S.C."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "AO-361-2026",
+   "case_no": "AO/361/2026",
+   "title": "PUBLIC WORKS DEPARTMENT v. M/S MBL INFRASTRUCTURES LIMITED",
+   "advocates": [
+    "C.S.C."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "AO-362-2026",
    "case_no": "AO/362/2026",
    "title": "THE UNITED INDIA INSURANCE COMPANY LTD v. SMT RAN DAI",
@@ -1780,6 +1820,14 @@
     "Advocate- ,RAJENDRA ARYA,PANKAJ KUMAR,YASHPAL SINGH"
    ],
    "next_date": "2026-10-14",
+   "a": 1
+  },
+  {
+   "id": "AO-370-2026",
+   "case_no": "AO/370/2026",
+   "title": "NATIONAL INSURANCE COMPANY LIMITED v. ANITA DOBHAL",
+   "advocates": [],
+   "next_date": "2026-11-03",
    "a": 1
   },
   {
@@ -2097,6 +2145,14 @@
    ],
    "next_date": "2026-10-30",
    "a": 2
+  },
+  {
+   "id": "AO-419-2026",
+   "case_no": "AO/419/2026",
+   "title": "MONICA BAKSHI v. OM PRAKASH GULATI",
+   "advocates": [],
+   "next_date": "2026-11-03",
+   "a": 1
   },
   {
    "id": "AO-42-2026",
@@ -5311,6 +5367,17 @@
    "a": 2
   },
   {
+   "id": "BA1-1868-2026",
+   "case_no": "BA1/1868/2026",
+   "title": "RAJE SINGH ALIAS RAJA BUBU ALIAS RAJENDRA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "NISHANT KRISHNA ADHIKARI"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "BA1-1869-2026",
    "case_no": "BA1/1869/2026",
    "title": "KAVISH HUSSAIN TYAGI v. STATE OF UTTARAKHAND",
@@ -6412,6 +6479,16 @@
     "TANUJ TALWAR SHAH"
    ],
    "next_date": "2026-10-30",
+   "a": 1
+  },
+  {
+   "id": "C24-68-2026",
+   "case_no": "C24/68/2026",
+   "title": "SUSHMA v. BACCHAN LAL",
+   "advocates": [
+    "RAJAT MITTAL"
+   ],
+   "next_date": "2026-11-03",
    "a": 1
   },
   {
@@ -7810,6 +7887,17 @@
    "a": 2
   },
   {
+   "id": "C528-2064-2026",
+   "case_no": "C528/2064/2026",
+   "title": "AKHILESH RAWAT AND OTHERS v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "PRAKASH CHANDRA"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "C528-2084-2026",
    "case_no": "C528/2084/2026",
    "title": "DHARMENDRA KUMAR AGARWAL v. HARIOM SINGHAL",
@@ -7945,6 +8033,18 @@
    ],
    "next_date": "2026-10-31",
    "a": 2
+  },
+  {
+   "id": "C528-2243-2025",
+   "case_no": "C528/2243/2025",
+   "title": "SHITIZ UPRETI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "LALIT SHARMA,ANMOL SANDHU",
+    "SUMIT BAJAJ"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "C528-2270-2026",
@@ -9031,12 +9131,34 @@
    "a": 1
   },
   {
+   "id": "C528-2457-2026",
+   "case_no": "C528/2457/2026",
+   "title": "JAMSHED v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "C528-2458-2026",
    "case_no": "C528/2458/2026",
    "title": "JITENDRA MALIK v. STATE OF UTTARAKHAND",
    "advocates": [
     "G.A.",
     "SAURABH KUMAR PANDEY"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "C528-2459-2026",
+   "case_no": "C528/2459/2026",
+   "title": "AVINASH SHARMA AND OTHERS v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "ADITYA SINGH,HARSH VARDHAN DHANIK",
+    "G.A.",
+    "NAVNEET SINGH,SUHAIL A SIDDIQUI,SUHAIL A SIDDIQUI, ,KRISHNA SHARMA,SUHAIL A SIDDIQUI"
    ],
    "next_date": "2026-11-03",
    "a": 1
@@ -9093,6 +9215,17 @@
    "advocates": [
     "G.A.",
     "PANKAJ TANGWAN,BHAWANA KANWAL,BHAWANA KANWAL, ,BHAWANA KANWAL"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "C528-2465-2026",
+   "case_no": "C528/2465/2026",
+   "title": "GANESH CHANDRA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C K SHARMA",
+    "G.A."
    ],
    "next_date": "2026-11-03",
    "a": 1
@@ -9247,6 +9380,18 @@
    ],
    "next_date": "2026-10-30",
    "a": 2
+  },
+  {
+   "id": "C528-5-2026",
+   "case_no": "C528/5/2026",
+   "title": "KAMAL UPRETI AND ORS v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "LALIT SHARMA,SURAIYA NAAZ",
+    "SUMIT BAJAJ"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "C528-522-2025",
@@ -11953,6 +12098,27 @@
    "a": 2
   },
   {
+   "id": "CRJA-101-2023",
+   "case_no": "CRJA/101/2023",
+   "title": "ISHAN ALIAS RAJA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "SHEETAL SELWAL,PRAVEER SAXENA,PRAVEER SAXENA, ,PRANAV SAXENA,REETA SAXENA,PRAVEER SAXENA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "CRJA-11-2025",
+   "case_no": "CRJA/11/2025",
+   "title": "BABLU v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRJA-14-2021",
    "case_no": "CRJA/14/2021",
    "title": "SARABJEET SINGH v. STATE OF UTTARKAHAND",
@@ -12135,6 +12301,17 @@
    "a": 2
   },
   {
+   "id": "CRJA-8-2025",
+   "case_no": "CRJA/8/2025",
+   "title": "RAVI SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "BALJEET RAJORIYA,MK GOYAL (AMICUS CURIAE),MK GOYAL (AMICUS CURIAE), ,ANIL KUMAR,MK GOYAL (AMICUS CURIAE)",
+    "G.A."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRJA-89-2024",
    "case_no": "CRJA/89/2024",
    "title": "SHAHRUKH v. STATE OF UTTARAKHAND",
@@ -12262,6 +12439,17 @@
    "a": 1
   },
   {
+   "id": "CRLA-138-2026",
+   "case_no": "CRLA/138/2026",
+   "title": "RAJENDRA SINGH ALIAS RAJAN v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "AJEET KUMAR YADAV",
+    "G.A.,"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLA-15-2026",
    "case_no": "CRLA/15/2026",
    "title": "JASVINDER SINGH v. STATE OF UTTARAKHAND",
@@ -12303,6 +12491,18 @@
    ],
    "next_date": "2026-10-31",
    "a": 2
+  },
+  {
+   "id": "CRLA-164-2026",
+   "case_no": "CRLA/164/2026",
+   "title": "SOBAN SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "AJEET  KUMAR YADAV,BHUPENDRA SINGH KORANGA",
+    "G.A.",
+    "SAURABH KUMAR PANDEY"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "CRLA-18-2026",
@@ -12408,6 +12608,17 @@
    ],
    "next_date": "2018-10-10",
    "a": 2
+  },
+  {
+   "id": "CRLA-218-2022",
+   "case_no": "CRLA/218/2022",
+   "title": "KAILASH RAM v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "GANESH KANDPAL"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "CRLA-218-2024",
@@ -12535,7 +12746,7 @@
     "C K SHARMA,MANISH KUMAR PANDEY,MANISH KUMAR PANDEY, MANISH KUMAR PANDEY",
     "G.A.,"
    ],
-   "next_date": "2026-10-14",
+   "next_date": "2026-11-04",
    "a": 2
   },
   {
@@ -12603,6 +12814,28 @@
    ],
    "next_date": "2026-10-13",
    "a": 2
+  },
+  {
+   "id": "CRLA-262-2025",
+   "case_no": "CRLA/262/2025",
+   "title": "CHANDRA BHUWAN ALIAS CHANDRA BHUWAN TAMTA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "NIPUSH MOLA JOSHI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "CRLA-287-2021",
+   "case_no": "CRLA/287/2021",
+   "title": "SNEHLATA CHAUHAN v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "PANKAJ TANGWAN,AMAR MURTI SHUKLA,AMAR MURTI SHUKLA, ,GEETA SAJWAN,SIDDHARTH TOMAR,SWALEHA HUSSAIN,GARIMA THAPA,MAHAVIR KOHLI,AMAR MURTI SHUKLA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "CRLA-291-2022",
@@ -13119,6 +13352,17 @@
    "a": 2
   },
   {
+   "id": "CRLA-432-2021",
+   "case_no": "CRLA/432/2021",
+   "title": "AMIT PARLEY v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "NAMAN KAMBOJ,m.s. bhandari,m.s. bhandari, ,ASHISH KUMAR JEMINI,M K RAY (AMICUS CURIAE),PRASANNA KARNATAK,ASHOK DRALL,GIRVIR CHAND,ANKUSH K TYAGI,m.s. bhandari"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLA-434-2026",
    "case_no": "CRLA/434/2026",
    "title": "HIMANSHU KAMLE v. STATE OF UTTARAKHAND",
@@ -13202,6 +13446,16 @@
    "a": 1
   },
   {
+   "id": "CRLA-461-2026",
+   "case_no": "CRLA/461/2026",
+   "title": "MANOJ KUMAR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLA-47-2025",
    "case_no": "CRLA/47/2025",
    "title": "NARENDRA SINGH ALIAS NARI BORA v. STATE OF UTTARAKHAND",
@@ -13222,6 +13476,17 @@
    ],
    "next_date": "2026-10-31",
    "a": 2
+  },
+  {
+   "id": "CRLA-482-2026",
+   "case_no": "CRLA/482/2026",
+   "title": "MANISH ALIAS DHANU v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "AKSHAY PRADHAN",
+    "G.A."
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
   },
   {
    "id": "CRLA-484-2026",
@@ -13306,7 +13571,7 @@
    "advocates": [
     "G.A."
    ],
-   "next_date": "2026-10-26",
+   "next_date": "2026-11-04",
    "a": 2
   },
   {
@@ -13347,6 +13612,17 @@
    "title": "ARJUN KUMAR v. STATE OF UTTARAKHAND",
    "advocates": [],
    "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "CRLA-542-2026",
+   "case_no": "CRLA/542/2026",
+   "title": "MOHD IMRAN v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "PAVAN KUMAR NATH,VINAY BISHT,VINAY BISHT, ,VINAY BISHT"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -13401,6 +13677,17 @@
    "a": 1
   },
   {
+   "id": "CRLA-557-2026",
+   "case_no": "CRLA/557/2026",
+   "title": "GAURAV BHATT v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "LALIT SHARMA,SURAIYA NAAZ,SURAIYA NAAZ, ,SURAIYA NAAZ"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLA-559-2024",
    "case_no": "CRLA/559/2024",
    "title": "BISHAN RAM v. STATE OF UTTARAKHAND",
@@ -13441,6 +13728,17 @@
    ],
    "next_date": "2026-10-13",
    "a": 2
+  },
+  {
+   "id": "CRLA-590-2025",
+   "case_no": "CRLA/590/2025",
+   "title": "MOHAMMAD SHAHNAWAZ v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "PARIKSHIT SAINI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "CRLA-591-2026",
@@ -13625,6 +13923,17 @@
     "VIPUL SHARMA,KHUSHBOO TIWARI SHARMA,KHUSHBOO TIWARI SHARMA, ,NIVESH BAHUGUNA,MANEESH BISHT,KHUSHBOO TIWARI SHARMA"
    ],
    "next_date": "2026-10-16",
+   "a": 1
+  },
+  {
+   "id": "CRLA-615-2025",
+   "case_no": "CRLA/615/2025",
+   "title": "MOHAMMAD SHAHNAWAZ v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "PARIKSHIT SAINI"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -13840,6 +14149,16 @@
    "a": 1
   },
   {
+   "id": "CRLA-648-2026",
+   "case_no": "CRLA/648/2026",
+   "title": "ROOP SINGH DANGWAL v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLA-655-2025",
    "case_no": "CRLA/655/2025",
    "title": "POORAN BUDA v. STATE OF UTTARAKHAND",
@@ -13973,6 +14292,17 @@
    "a": 2
   },
   {
+   "id": "CRLA-734-2023",
+   "case_no": "CRLA/734/2023",
+   "title": "HARENDRA CHAUHAN v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "SAURAV ADHIKARI,CHANDRA SHEKHAR JOSHI,CHANDRA SHEKHAR JOSHI, ,CHANDRA SHEKHAR JOSHI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLA-734-2025",
    "case_no": "CRLA/734/2025",
    "title": "AJAY SHARMA v. STATE OF UTTARAKHAND",
@@ -14037,6 +14367,46 @@
    "a": 1
   },
   {
+   "id": "CRLA-776-2023",
+   "case_no": "CRLA/776/2023",
+   "title": "ISHWARI SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "CRLA-781-2023",
+   "case_no": "CRLA/781/2023",
+   "title": "PAPPU SINGH RANA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "CRLA-785-2023",
+   "case_no": "CRLA/785/2023",
+   "title": "MUNNI DEVI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "CRLA-786-2023",
+   "case_no": "CRLA/786/2023",
+   "title": "JIWAN SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLA-793-2023",
    "case_no": "CRLA/793/2023",
    "title": "SITA v. STATE OF UTTARAKHAND",
@@ -14071,11 +14441,32 @@
    "a": 1
   },
   {
+   "id": "CRLA-883-2023",
+   "case_no": "CRLA/883/2023",
+   "title": "SURESH SINGH RANA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLA-90-2019",
    "case_no": "CRLA/90/2019",
    "title": "GOVIND SINGH v. STATE OF UTTARAKHAND",
    "advocates": [],
    "next_date": null,
+   "a": 1
+  },
+  {
+   "id": "CRLR-1-2015",
+   "case_no": "CRLR/1/2015",
+   "title": "Balkishan v. STATE OF UTTARAKHAND THROUGH HOME SECRETARY   Advocate- ,SHASHI KANT SHANDILYA, VINOD NAUTIYAL,,G.A.,PANKAJ KAUSHIK 1123",
+   "advocates": [
+    "GAURAV SINGH,PRAKASH CHANDRA",
+    "PARIKSHIT SAINI"
+   ],
+   "next_date": "2026-11-03",
    "a": 1
   },
   {
@@ -14943,6 +15334,28 @@
    "a": 1
   },
   {
+   "id": "CRLR-424-2018",
+   "case_no": "CRLR/424/2018",
+   "title": "MOHAMAD SHAKEEL ANSARI v. SMT. RIZWANA PARVEEN   Advocate- ,ADITYA SINGH,PRANAV SINGH 1123",
+   "advocates": [
+    "G.A.",
+    "LOKENDRA DOBHAL,DEVANG DOBHAL,DEVANG DOBHAL, ,PRATUL KUMAR,DEVANG DOBHAL"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "CRLR-425-2018",
+   "case_no": "CRLR/425/2018",
+   "title": "ANIL v. SMT. DHANESHWARI",
+   "advocates": [
+    "RAMAN KUMAR SHAH",
+    "TAPAN SINGH"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLR-429-2021",
    "case_no": "CRLR/429/2021",
    "title": "KAMAL SINGH RANA v. STATE OF UTTARAKHAND",
@@ -14952,6 +15365,17 @@
     "PREM KAUSHAL,Mahesh Chandra"
    ],
    "next_date": "2026-11-02",
+   "a": 1
+  },
+  {
+   "id": "CRLR-438-2018",
+   "case_no": "CRLR/438/2018",
+   "title": "ARUN KUMAR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "MOHD SAFDAR",
+    "RAJ KUMAR SINGH"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -15156,6 +15580,30 @@
    "a": 1
   },
   {
+   "id": "CRLR-556-2019",
+   "case_no": "CRLR/556/2019",
+   "title": "ITISHA CHAUDHARY v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "GIRISH CHANDRA LAKHCHAURA",
+    "LALIT SHARMA,AZMEEN,AZMEEN, ,MEENAKSHI SHARMA,AZMEEN",
+    "LALIT SHARMA,MEENAKSHI SHARMA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "CRLR-558-2019",
+   "case_no": "CRLR/558/2019",
+   "title": "POONAM v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "S R S GILL,MILIND RAJ",
+    "TAPAN SINGH"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLR-561-2025",
    "case_no": "CRLR/561/2025",
    "title": "HEMANT PANDEY v. STATE OF UTTARAKHAND",
@@ -15166,6 +15614,29 @@
    ],
    "next_date": "2026-10-16",
    "a": 2
+  },
+  {
+   "id": "CRLR-564-2019",
+   "case_no": "CRLR/564/2019",
+   "title": "HARENDRA TOMAR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "DEEPAK SHARMA,SUMAN SHARMA",
+    "ZAFAR SIDDIQUE"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "CRLR-566-2019",
+   "case_no": "CRLR/566/2019",
+   "title": "MAHIR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "MOHD ALAUDDIN",
+    "SHASHI KANT SHANDILYA,SACHIN KUMAR SHARMA,SACHIN KUMAR SHARMA, ,ASHUTOSH POSTI,SACHIN KUMAR SHARMA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "CRLR-566-2026",
@@ -15202,6 +15673,17 @@
    "a": 1
   },
   {
+   "id": "CRLR-574-2019",
+   "case_no": "CRLR/574/2019",
+   "title": "RAJESH PAL v. SANGEETA",
+   "advocates": [
+    "D N SHARMA,",
+    "LALIT BELWAL,YASHICA DEVAL,YASHICA DEVAL, ,ABHILASHA BELWAL,YASHICA DEVAL"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "CRLR-577-2023",
    "case_no": "CRLR/577/2023",
    "title": "MOHD. AMIR v. STATE OF UTTARAKHAND",
@@ -15212,6 +15694,18 @@
    ],
    "next_date": "2026-10-13",
    "a": 2
+  },
+  {
+   "id": "CRLR-585-2019",
+   "case_no": "CRLR/585/2019",
+   "title": "KARANBIR SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "BIRENDRA SINGH ADHIKARI,RAJ KAMAL,RAJ KAMAL, ,RAJ KAMAL",
+    "G.A.",
+    "I P GAIROLA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "CRLR-588-2019",
@@ -15365,6 +15859,17 @@
    ],
    "next_date": "2026-10-13",
    "a": 2
+  },
+  {
+   "id": "CRLR-65-2019",
+   "case_no": "CRLR/65/2019",
+   "title": "SMT. DHANESHWARI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "TAPAN SINGH"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "CRLR-656-2026",
@@ -16302,6 +16807,14 @@
    "a": 1
   },
   {
+   "id": "FA-155-2026",
+   "case_no": "FA/155/2026",
+   "title": "SUDHA DEVI ALIAS LAALI v. ANIL KUMAR",
+   "advocates": [],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "FA-161-2024",
    "case_no": "FA/161/2024",
    "title": "NAVEEN PATWAL v. SMT. ANANDI DEVI",
@@ -16942,6 +17455,24 @@
    "a": 1
   },
   {
+   "id": "GA-106-2025",
+   "case_no": "GA/106/2025",
+   "title": "STATE OF UTTARAKHAND v. INAM ALIAS PAPPU",
+   "advocates": [
+    "VAIBHAV SINGH CHAUHAN"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "GA-107-2025",
+   "case_no": "GA/107/2025",
+   "title": "STATE OF UTTARAKHAND v. FURKAN",
+   "advocates": [],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "GA-116-2022",
    "case_no": "GA/116/2022",
    "title": "STATE OF UTTARAKHAND v. LIYAKAT",
@@ -17104,6 +17635,17 @@
    ],
    "next_date": "2026-10-13",
    "a": 2
+  },
+  {
+   "id": "HABC-52-2026",
+   "case_no": "HABC/52/2026",
+   "title": "SALMAN v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "GAURAV SINGH"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "HABC-55-2026",
@@ -18021,6 +18563,17 @@
    "a": 2
   },
   {
+   "id": "SABA-37-2026",
+   "case_no": "SABA/37/2026",
+   "title": "IMTIYAZ v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "ANCHIT KHOKHER",
+    "G.A."
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "SABA-53-2025",
    "case_no": "SABA/53/2025",
    "title": "MEENA CHAUDHARY ALIAS MEENA BHARTI v. STATE OF UTTARAKHAND",
@@ -18100,6 +18653,20 @@
    "a": 1
   },
   {
+   "id": "SPA-116-2022",
+   "case_no": "SPA/116/2022",
+   "title": "RITESH KUMAR (MINOR) v. DIRECTOR GENERAL SCHOOL EUCATION GOVERNMENT OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "MUKESH KUMAR KAPARUWAN,MANOJ CHANDR JOSHI,MANOJ CHANDR JOSHI, PANKAJ ARYA,MANOJ CHANDR JOSHI",
+    "PANKAJ ARYA,MANOJ CHANDR JOSHI",
+    "SHASHANK UPADHYAYA",
+    "VINAY BHATT"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "SPA-117-2022",
    "case_no": "SPA/117/2022",
    "title": "HUKUM SINGH RAWAT v. STATE OF UTTARAKHAND",
@@ -18130,6 +18697,28 @@
     "SANJAY BHATT"
    ],
    "next_date": "2026-10-16",
+   "a": 1
+  },
+  {
+   "id": "SPA-120-2022",
+   "case_no": "SPA/120/2022",
+   "title": "STATE OF UTTARAKHAND v. BEENA DEVI",
+   "advocates": [
+    "C.S.C.,B S PARIHAR,B S PARIHAR, B S PARIHAR",
+    "SACHIN"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "SPA-124-2022",
+   "case_no": "SPA/124/2022",
+   "title": "M/S AJAY KUMAR SAINI CONTRACTOR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "DHARMENDRA BARTHWAL"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -18220,6 +18809,18 @@
    "a": 1
   },
   {
+   "id": "SPA-177-2022",
+   "case_no": "SPA/177/2022",
+   "title": "KIRTI SHARAN AGARWAL v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "ASHISH JOSHI",
+    "C.S.C.",
+    "SUDHIR KUMAR,ANANT AGARWAL,ANANT AGARWAL, ANANT AGARWAL"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "SPA-177-2026",
    "case_no": "SPA/177/2026",
    "title": "SADHANA v. STATE OF UTTARAKHAND",
@@ -18299,6 +18900,17 @@
    "a": 1
   },
   {
+   "id": "SPA-190-2026",
+   "case_no": "SPA/190/2026",
+   "title": "POONAM DEVI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "SIDDHANT MANRAL,BHUPENDRA BISHT,BHUPENDRA BISHT, ,BHUPENDRA BISHT"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "SPA-210-2015",
    "case_no": "SPA/210/2015",
    "title": "HARIMOHAN GULATI v. STATE OF UTTARAKHAND   Advocate- ,C.S.C.,SUSHIL VASHISTHA 1123",
@@ -18307,6 +18919,17 @@
    ],
    "next_date": "2026-10-30",
    "a": 2
+  },
+  {
+   "id": "SPA-213-2022",
+   "case_no": "SPA/213/2022",
+   "title": "RUDRAPUR CLUB A CLUB REGISTERED UNDRE SOCIETIES REGISTRATION ACT v. PRESCRIBED AUTHORITY SUB DIVISIONAL MAGISTRATE RUDRAPUR",
+   "advocates": [
+    "C.S.C.",
+    "DEVESH UPRETI,SANGEETA ADHIKARI PATNI,SANGEETA ADHIKARI PATNI, ,SANGEETA ADHIKARI PATNI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "SPA-221-2024",
@@ -18320,6 +18943,18 @@
    ],
    "next_date": "2026-10-30",
    "a": 2
+  },
+  {
+   "id": "SPA-230-2022",
+   "case_no": "SPA/230/2022",
+   "title": "UNION OF INDIA THROUGH SECRETARY HOME v. DARSHAN SINGH",
+   "advocates": [
+    "C.S.C.",
+    "S K MANDAL",
+    "V K KAPARUWAN"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "SPA-239-2024",
@@ -18491,6 +19126,37 @@
    "a": 1
   },
   {
+   "id": "SPA-323-2015",
+   "case_no": "SPA/323/2015",
+   "title": "Muncipal Board Landhora v. Taheseen AND OTHERS   Advocate- C.S.C.,RAJENDRA SINGH 1123",
+   "advocates": [],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "SPA-324-2026",
+   "case_no": "SPA/324/2026",
+   "title": "HARIOM GAUTAM v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HIMANSHU PAL,NITIN KAMAL,NITIN KAMAL, ,NITIN KAMAL",
+    "RAJESH SHARMA"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "SPA-330-2026",
+   "case_no": "SPA/330/2026",
+   "title": "AAROGYAM RESIDENTS WELFARE ASSOCIATION v. REGISTRAR FIRMS SOCIETIES AND CHITS UTTARAKHAND   Advocate- ,PANKAJ MIGLANI 1123",
+   "advocates": [
+    "C.S.C.",
+    "PARIKSHIT SAINI"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "SPA-333-2026",
    "case_no": "SPA/333/2026",
    "title": "NIDHI KHANDURI v. POONAM VERMA",
@@ -18500,6 +19166,18 @@
     "SANDEEP KOTHARI"
    ],
    "next_date": null,
+   "a": 1
+  },
+  {
+   "id": "SPA-338-2022",
+   "case_no": "SPA/338/2022",
+   "title": "JONU DEVI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "SHOBHIT SAHARIA",
+    "TAPAN SINGH"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -18513,6 +19191,18 @@
    ],
    "next_date": "2026-10-30",
    "a": 2
+  },
+  {
+   "id": "SPA-340-2022",
+   "case_no": "SPA/340/2022",
+   "title": "MAHIPAL SINGH NEGI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "SHOBHIT SAHARIA",
+    "TAPAN SINGH"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "SPA-342-2026",
@@ -18642,6 +19332,17 @@
    "a": 1
   },
   {
+   "id": "SPA-386-2023",
+   "case_no": "SPA/386/2023",
+   "title": "STATE OF UTTARAKHAND v. MS SONAL AUTHOMATION INDUSTRIES",
+   "advocates": [
+    "C.S.C.",
+    "MONIKA PANT"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "SPA-390-2026",
    "case_no": "SPA/390/2026",
    "title": "MUKESH UNIYAL v. STATE OF UTTARAKHAND",
@@ -18764,6 +19465,17 @@
     "SANDEEP KOTHARI"
    ],
    "next_date": null,
+   "a": 1
+  },
+  {
+   "id": "SPA-425-2015",
+   "case_no": "SPA/425/2015",
+   "title": "STATE OF UTTARAKHAND v. ZAREEF AHMAD   Advocate- ,TAPAN SINGH,SHIVAM SHARMA 1123",
+   "advocates": [
+    "C.S.C.",
+    "SAGAR KOTHARI1.1."
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -19046,6 +19758,16 @@
    "a": 2
   },
   {
+   "id": "SPA-738-2018",
+   "case_no": "SPA/738/2018",
+   "title": "STATE OF UTTARAKHAND v. MANOJ SINGH DEV",
+   "advocates": [
+    "C.S.C."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "SPA-75-2026",
    "case_no": "SPA/75/2026",
    "title": "PHARMACY COUNCIL v. SUMAN",
@@ -19078,6 +19800,16 @@
     "BHAGWAT MEHRA"
    ],
    "next_date": null,
+   "a": 1
+  },
+  {
+   "id": "SPA-83-2018",
+   "case_no": "SPA/83/2018",
+   "title": "CANTONMENT BOARD GARHI CANTT. DEHRADUN v. OM PRAKASH GUPTA   Advocate- L  DOBHAL,C.S.C.,DEPUTY  S.G. 1123",
+   "advocates": [
+    "BIRENDRA SINGH ADHIKARI,BHAGWAT MEHRA,BHAGWAT MEHRA, ,BHAGWAT MEHRA"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -19256,6 +19988,24 @@
    "advocates": [],
    "next_date": "2026-10-31",
    "a": 2
+  },
+  {
+   "id": "SPLA-294-2025",
+   "case_no": "SPLA/294/2025",
+   "title": "STATE OF UTTARAKHAND v. INAM ALIAS PAPPU",
+   "advocates": [
+    "VAIBHAV SINGH CHAUHAN"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "SPLA-295-2025",
+   "case_no": "SPLA/295/2025",
+   "title": "STATE OF UTTARAKHAND v. FURKAN",
+   "advocates": [],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "SPLA-475-2024",
@@ -21143,12 +21893,33 @@
    "a": 1
   },
   {
+   "id": "WPCRL-2241-2026",
+   "case_no": "WPCRL/2241/2026",
+   "title": "KRISHNA C K v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "DEVANSH KAUSHIK",
+    "G.A."
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "WPCRL-2242-2026",
    "case_no": "WPCRL/2242/2026",
    "title": "RAVINDER KUMAR BHRIGU v. STATE OF UTTARAKHAND",
    "advocates": [
     "G.A.",
     "LALIT SHARMA,JEEVAN ARYA,JEEVAN ARYA, ,JEEVAN ARYA"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPCRL-2243-2026",
+   "case_no": "WPCRL/2243/2026",
+   "title": "PANKAJ PAL v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A."
    ],
    "next_date": "2026-11-03",
    "a": 1
@@ -21407,6 +22178,42 @@
    "a": 1
   },
   {
+   "id": "WPMB-242-2026",
+   "case_no": "WPMB/242/2026",
+   "title": "MANAGING DIRECTOR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "DEPUTY  S.G.,SAURAV ADHIKARI",
+    "LALIT SAMANT"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPMB-353-2026",
+   "case_no": "WPMB/353/2026",
+   "title": "DR ASTHA SHAMBHULAL BHADRA v. SWAMI RAMA HIMALAYAN UNIVERSITY DEHRADUN",
+   "advocates": [
+    "IMRAJ SINGH RAUTELA,AKASH YADAV,AKASH YADAV, AKASH YADAV",
+    "SANDEEP KOTHARI",
+    "YOGESH KUMAR PACHOLIA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPMB-355-2026",
+   "case_no": "WPMB/355/2026",
+   "title": "DR KRATIKA v. SWAMI RAMA HIMALAYAN UNIVERSITY DEHRADUN",
+   "advocates": [
+    "IMRAJ SINGH RAUTELA,AKASH YADAV,AKASH YADAV, AKASH YADAV",
+    "SANDEEP KOTHARI",
+    "YOGESH KUMAR PACHOLIA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPMB-385-2025",
    "case_no": "WPMB/385/2025",
    "title": "A M T BUILDERS PVT LTD v. STATE OF UTTARAKHAND",
@@ -21442,6 +22249,17 @@
    "a": 2
   },
   {
+   "id": "WPMB-500-2026",
+   "case_no": "WPMB/500/2026",
+   "title": "BASANT BALLABH PUNETHA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "S S CHAUHAN",
+    "SHOBHIT SAHARIA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPMB-594-2026",
    "case_no": "WPMB/594/2026",
    "title": "AMT BUILDERS PVT LTD v. STATE OF UTTARAKHAND",
@@ -21454,6 +22272,18 @@
    "a": 2
   },
   {
+   "id": "WPMB-609-2026",
+   "case_no": "WPMB/609/2026",
+   "title": "M/S KM ENGINEERING AND CONSTRUCTION v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "PRABHAT BOHRA,P S BOHRA,P S BOHRA, ,P S BOHRA",
+    "S S CHAUHAN"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPMB-665-2026",
    "case_no": "WPMB/665/2026",
    "title": "M/S PRINCE CONSTRUCTION COMPANY v. STATE OF UTTARAKHAND",
@@ -21464,6 +22294,18 @@
    ],
    "next_date": null,
    "a": 2
+  },
+  {
+   "id": "WPMB-713-2025",
+   "case_no": "WPMB/713/2025",
+   "title": "MS SAUN SONS CONSTRUCTION v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "PRABHAT BOHRA,P S BOHRA",
+    "SIDDHARTH BANKOTI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "WPMB-730-2025",
@@ -21490,6 +22332,17 @@
    "a": 2
   },
   {
+   "id": "WPMB-763-2026",
+   "case_no": "WPMB/763/2026",
+   "title": "AMBIKA ENTERPRISES v. COMMISSIONER JOINT COMMISSIONER",
+   "advocates": [
+    "C.S.C.",
+    "MUNISH BHARDWAJ"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPMB-772-2026",
    "case_no": "WPMB/772/2026",
    "title": "HARISH CHANDRA SINGH v. THE COMMISSIONER STATE TAX",
@@ -21498,6 +22351,18 @@
     "TARUN PANDE,ASHISH AGARWAL,ASHISH AGARWAL, ,ASHISH AGARWAL"
    ],
    "next_date": "2026-10-26",
+   "a": 1
+  },
+  {
+   "id": "WPMB-775-2026",
+   "case_no": "WPMB/775/2026",
+   "title": "ARVIND SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "C.S.C.,",
+    "K K TIWARI,PARIKSHIT SAINI,PARIKSHIT SAINI, ,PARIKSHIT SAINI"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -21534,6 +22399,28 @@
     "PANKAJ CHATURVEDI,NEETI RANA"
    ],
    "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPMB-810-2026",
+   "case_no": "WPMB/810/2026",
+   "title": "M/S SHREE GANGA TRADERS v. JOINT COMMISSIONER STATE GOODS AND SERVICE TAX",
+   "advocates": [
+    "C.S.C.",
+    "MUNISH BHARDWAJ"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPMB-858-2026",
+   "case_no": "WPMB/858/2026",
+   "title": "NATIONAL FEDERATION OF FARMERS PROCUREMENT v. UTTARAKHAND STATE INTEGRATED COOPERATIVE DEVELOPMENT PROJECT",
+   "advocates": [
+    "RAMJI SHRIVASTAVA,SAGAR KOTHARI,SAGAR KOTHARI, ,SAGAR KOTHARI",
+    "YOGESH PANDEY"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -21603,6 +22490,18 @@
    "a": 1
   },
   {
+   "id": "WPMB-919-2026",
+   "case_no": "WPMB/919/2026",
+   "title": "BASANT BALLABH PUNETHA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "S S CHAUHAN",
+    "SHOBHIT SAHARIA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPMB-924-2026",
    "case_no": "WPMB/924/2026",
    "title": "M/S BALAJI ASSOCIATES v. STATE OF UTTARAKHAND",
@@ -21611,6 +22510,105 @@
     "HARSHIT SANWAL,PRAGYA PRAKASH UPADHYAY,PRAGYA PRAKASH UPADHYAY, ,ADITI SINGH,PRAGYA PRAKASH UPADHYAY"
    ],
    "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPMB-927-2026",
+   "case_no": "WPMB/927/2026",
+   "title": "SUDHIR KUMAR WINDLASS v. ADDITIONAL DISTRICT MAGISTRATE",
+   "advocates": [
+    "C.S.C.",
+    "VIKAS BAHUGUNA,RAJESHWAR SINGH,RAJESHWAR SINGH, ,RAJESHWAR SINGH"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPMB-928-2026",
+   "case_no": "WPMB/928/2026",
+   "title": "SUDHIR KUMAR WINDLASS v. ADDITIONAL DISTRICT MAGISTRATE",
+   "advocates": [
+    "C.S.C.",
+    "VIKAS BAHUGUNA,RAJESHWAR SINGH,RAJESHWAR SINGH, ,RAJESHWAR SINGH"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPMB-929-2026",
+   "case_no": "WPMB/929/2026",
+   "title": "M/S GANESH BUILDERS v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "ADITYA PRATAP SINGH",
+    "C.S.C.",
+    "NARESH PANT",
+    "RAJAT MITTAL"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPMB-930-2026",
+   "case_no": "WPMB/930/2026",
+   "title": "TRILOK CHANDRA v. STATE TAX OFFICER",
+   "advocates": [
+    "PANKAJ TIWARI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPMB-931-2026",
+   "case_no": "WPMB/931/2026",
+   "title": "VIKRAM SINGH CHAUHAN v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "Rajat Joshi,GOPAL K VERMA,GOPAL K VERMA, ,GOPAL K VERMA",
+    "SURESH CHANDRA BHATT"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPMB-932-2026",
+   "case_no": "WPMB/932/2026",
+   "title": "SIDCUL SOLUTION NETWORK v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "DEVENDRA SINGH BOHRA",
+    "S K MANDAL"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPMB-933-2026",
+   "case_no": "WPMB/933/2026",
+   "title": "M/S PASHUPATI SOLAR ENERGY PVT LTD v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "PANKAJ KUMAR,YASHPAL SINGH,YASHPAL SINGH, ,RAJENDRA ARYA,YASHPAL SINGH"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPMB-934-2026",
+   "case_no": "WPMB/934/2026",
+   "title": "M/S PPM SOLAR ENERGY PVT LTD v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "PANKAJ KUMAR,YASHPAL SINGH,YASHPAL SINGH, ,RAJENDRA ARYA,YASHPAL SINGH"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPMB-935-2026",
+   "case_no": "WPMB/935/2026",
+   "title": "SATYAVAN v. COMMISSIONER CENTRAL GOODS AND SERVICES TAX COMMISSIONER",
+   "advocates": [
+    "MANVENDRA SINGH",
+    "SHOBHIT SAHARIA"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -22067,6 +23065,17 @@
    "a": 1
   },
   {
+   "id": "WPMS-1330-2026",
+   "case_no": "WPMS/1330/2026",
+   "title": "SURESH CHANDRA BHATT v. UTTARAKHAND JAL SANSTHAN",
+   "advocates": [
+    "L K VERMA",
+    "PANKAJ CHATURVEDI"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "WPMS-1333-2026",
    "case_no": "WPMS/1333/2026",
    "title": "HIMANSHU JOSHI v. THE SUB DIVISIONAL MAGISTRATE RISHIKESH",
@@ -22167,6 +23176,17 @@
     "D C S  RAWAT",
     "D C S  RAWAT (FOR CAVEATOR),R K RAWAT",
     "M C PANT,SAURABH KUMAR ,SAURABH KUMAR , SAURABH KUMAR"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPMS-1389-2025",
+   "case_no": "WPMS/1389/2025",
+   "title": "RACHIT MAKHIJA v. REGIONAL TRANSPORT OFFICE",
+   "advocates": [
+    "C.S.C.",
+    "DEVIKA TIWARI"
    ],
    "next_date": "2026-11-03",
    "a": 1
@@ -22575,6 +23595,17 @@
    "a": 1
   },
   {
+   "id": "WPMS-1805-2026",
+   "case_no": "WPMS/1805/2026",
+   "title": "HARMINDER SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "TARUN PANDE,ASHISH AGARWAL,ASHISH AGARWAL, ,ASHISH AGARWAL"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "WPMS-1817-2026",
    "case_no": "WPMS/1817/2026",
    "title": "SANDEEP KUMAR v. THE INFORMATION COMMISSIONER",
@@ -22607,6 +23638,18 @@
     "VINAY BHATT,MOHD SHAFY,MOHD SHAFY, ,MOHD SHAFY"
    ],
    "next_date": "2026-10-13",
+   "a": 1
+  },
+  {
+   "id": "WPMS-1829-2026",
+   "case_no": "WPMS/1829/2026",
+   "title": "BAHADUR SINGH RAUTELA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "ADITYA PUROHIT",
+    "C.S.C.",
+    "SIDDHANT MANRAL"
+   ],
+   "next_date": "2026-11-03",
    "a": 1
   },
   {
@@ -22975,6 +24018,17 @@
    ],
    "next_date": "2026-10-27",
    "a": 2
+  },
+  {
+   "id": "WPMS-2174-2026",
+   "case_no": "WPMS/2174/2026",
+   "title": "SONI DEVI v. MAYANK KUMAR JAIN",
+   "advocates": [
+    "SIDDHARTH JAIN",
+    "VIKASH UNIYAL"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
   },
   {
    "id": "WPMS-22-2026",
@@ -23470,6 +24524,17 @@
    "a": 1
   },
   {
+   "id": "WPMS-2540-2026",
+   "case_no": "WPMS/2540/2026",
+   "title": "RANJAN GIRI v. DISTRICT MAGISTRATE PITHORAGARH",
+   "advocates": [
+    "C.S.C.",
+    "DEEPAK CHANDRA"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "WPMS-2564-2026",
    "case_no": "WPMS/2564/2026",
    "title": "NEHA SAMAIRA v. STATE OF UTTARAKHAND",
@@ -23595,7 +24660,7 @@
     "PARIKSHIT SAINI",
     "SHUBHANG DOBHAL"
    ],
-   "next_date": "2026-10-14",
+   "next_date": "2026-11-03",
    "a": 1
   },
   {
@@ -23791,6 +24856,18 @@
     "VISHESH SRIVASTAVA"
    ],
    "next_date": "2026-10-13",
+   "a": 1
+  },
+  {
+   "id": "WPMS-2746-2019",
+   "case_no": "WPMS/2746/2019",
+   "title": "M/S GURUKUL KANGRI PHARMACY v. PRESIDING OFFICER CGIT CUM LABOUR COURT",
+   "advocates": [
+    "BHUPENDRA BISHT,RAJESH SHARMA",
+    "DEPUTY  S.G.,",
+    "N K PAPNOI,APARNA SINGH,APARNA SINGH, APARNA SINGH"
+   ],
+   "next_date": "2026-11-03",
    "a": 1
   },
   {
@@ -24201,6 +25278,19 @@
     "SANDEEP KOTHARI"
    ],
    "next_date": "2026-10-13",
+   "a": 1
+  },
+  {
+   "id": "WPMS-2940-2023",
+   "case_no": "WPMS/2940/2023",
+   "title": "KAMLA BRIJWASI v. CHIEF ADMINISTRATOR, UTTARAKHAND AWAS EVAM NAGAR VIKAS PRADHIKARAN",
+   "advocates": [
+    "C.S.C.",
+    "N S PUNDIR",
+    "PRINCE CHAUHAN",
+    "SANDEEP KOTHARI,RAHUL BHATT(Intervener)"
+   ],
+   "next_date": "2026-11-03",
    "a": 1
   },
   {
@@ -26952,6 +28042,16 @@
    "a": 1
   },
   {
+   "id": "WPMS-3403-2026",
+   "case_no": "WPMS/3403/2026",
+   "title": "ARCHANA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "BILAL AHMED"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "WPMS-3404-2026",
    "case_no": "WPMS/3404/2026",
    "title": "RANJEET SINGH v. NARMADA PAPNAI",
@@ -26991,6 +28091,26 @@
    "advocates": [
     "C.S.C.",
     "PRABHA NAITHANI,AVIDIT NOLIYAL,AVIDIT NOLIYAL, ,AVIDIT NOLIYAL"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPMS-3408-2026",
+   "case_no": "WPMS/3408/2026",
+   "title": "ABDUL MALIK v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "BILAL AHMED"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPMS-3425-2026",
+   "case_no": "WPMS/3425/2026",
+   "title": "YOGENDRA KUMAR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C."
    ],
    "next_date": "2026-11-03",
    "a": 1
@@ -27061,6 +28181,28 @@
     "PARITOSH DALAKOTI"
    ],
    "next_date": "2026-10-14",
+   "a": 1
+  },
+  {
+   "id": "WPMS-3578-2024",
+   "case_no": "WPMS/3578/2024",
+   "title": "S B I GENERAL INSURANCE COMPANY LIMITED v. BHAWNA PANT",
+   "advocates": [
+    "DEEPAK RAWAT,DEEPAK RAWAT",
+    "PULAK AGARWAL,BHARAT TEWARI,BHARAT TEWARI, ,BHARAT TEWARI"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPMS-3583-2024",
+   "case_no": "WPMS/3583/2024",
+   "title": "S B I GENERAL INSURANCE COMPANY LIMITED v. MANOJ MAULEKHI",
+   "advocates": [
+    "DEEPAK RAWAT",
+    "PULAK AGARWAL,BHARAT TEWARI,BHARAT TEWARI, ,BHARAT TEWARI"
+   ],
+   "next_date": "2026-11-03",
    "a": 1
   },
   {
@@ -27939,6 +29081,31 @@
    "a": 1
   },
   {
+   "id": "WPPIL-130-2026",
+   "case_no": "WPPIL/130/2026",
+   "title": "RAMESH UNIYAL v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "DEPUTY  S.G.",
+    "SAMEEKSHA NEGI,RAJNI SUPYAL/LATWAL,RAJNI SUPYAL/LATWAL, ,RAJNI SUPYAL/LATWAL",
+    "SHOBHIT SAHARIA"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPPIL-138-2024",
+   "case_no": "WPPIL/138/2024",
+   "title": "RAM LAL VISHWAKARMA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "C.S.C.,",
+    "DEPUTY  S.G.,D C S  RAWAT"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPPIL-145-2026",
    "case_no": "WPPIL/145/2026",
    "title": "ATUL KUMAR YADAV v. STATE OF UTTARAKHAND",
@@ -27958,7 +29125,20 @@
     "C.S.C.",
     "RAKSHIT JOSHI"
    ],
-   "next_date": "2026-10-26",
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPPIL-151-2021",
+   "case_no": "WPPIL/151/2021",
+   "title": "ALOK KUMAR v. UNION OF INDIA",
+   "advocates": [
+    "ABHIJAY NEGI",
+    "C.S.C.",
+    "DEPUTY  S.G.,",
+    "VIKAS BAHUGUNA"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -27971,6 +29151,39 @@
     "VIPUL SHARMA"
    ],
    "next_date": "2026-10-30",
+   "a": 1
+  },
+  {
+   "id": "WPPIL-158-2026",
+   "case_no": "WPPIL/158/2026",
+   "title": "GANGA SINGH NEGI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "DUSHYANT MAINALI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPPIL-161-2021",
+   "case_no": "WPPIL/161/2021",
+   "title": "RAVI SHANKAR JOSHI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "SUHAAS RATNA JOSHI,DEVESH PANDE,DEVESH PANDE, RACHIT TIWARI,BHAVYA SHARMA,DEVESH PANDE"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPPIL-186-2025",
+   "case_no": "WPPIL/186/2025",
+   "title": "SUO MOTU PIL IN RE PROTECTING DIGNITY OF WOMEN v. STATE OF UTTARAKHAND THROUGH PRINCIPAL SECRETARY HOME GOVERNMENT OF UTTARAKHAND CIVIL SECRETARIAT",
+   "advocates": [
+    "G.A.",
+    "G.A.,"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -27999,6 +29212,29 @@
    ],
    "next_date": "2020-04-20",
    "a": 2
+  },
+  {
+   "id": "WPPIL-25-2020",
+   "case_no": "WPPIL/25/2020",
+   "title": "AJAY SINGH RAWAT v. UNION OF INDIA",
+   "advocates": [
+    "C.S.C.,AKSHAY PRADHAN",
+    "DEPUTY  S.G.,"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPPIL-34-2025",
+   "case_no": "WPPIL/34/2025",
+   "title": "YASHPAL SINGH CHAUHAN v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "C.S.C.,",
+    "SUNAYNA KOHLI KOTHARI,SAGAR KOTHARI,SAGAR KOTHARI, ,SAGAR KOTHARI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "WPPIL-42-2023",
@@ -28052,6 +29288,30 @@
    "a": 2
   },
   {
+   "id": "WPPIL-88-2022",
+   "case_no": "WPPIL/88/2022",
+   "title": "VIKESH SINGH NEGI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "C.S.C.,",
+    "NALIN SAUN,SHASHANK SAUN,SHASHANK SAUN, SHASHANK SAUN"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPPIL-94-2023",
+   "case_no": "WPPIL/94/2023",
+   "title": "PRADEEP SINGH RAWAT v. UNION OF INDIA",
+   "advocates": [
+    "C.S.C.",
+    "DEPUTY  S.G.,",
+    "NAVNISH NEGI,PARIKSHIT SAINI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPPIL-94-2024",
    "case_no": "WPPIL/94/2024",
    "title": "TAJINDER SINGH v. STATE OF UTTARAKHAND",
@@ -28077,6 +29337,19 @@
    "a": 1
   },
   {
+   "id": "WPSB-101-2023",
+   "case_no": "WPSB/101/2023",
+   "title": "J M S RANA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "ANKUSH NEGI,ANIL KUMAR JOSHI,ANIL KUMAR JOSHI, ANIL KUMAR JOSHI",
+    "ASHISH JOSHI",
+    "C.S.C.",
+    "DR. KARTIKEY HARI GUPTA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-105-2025",
    "case_no": "WPSB/105/2025",
    "title": "SHEETAL GURUNG v. UTTARAKHAND PAY JAL NIGAM THROUGH SECRETARY PEYJAL GOVT OF UTTARAKHAND  DISTT DEHRADUN",
@@ -28090,6 +29363,18 @@
    ],
    "next_date": "2026-11-04",
    "a": 2
+  },
+  {
+   "id": "WPSB-12-2025",
+   "case_no": "WPSB/12/2025",
+   "title": "SHAMA NARGIS v. HIGH COURT OF UTTARAKHAND AT NAINITAL",
+   "advocates": [
+    "C.S.C.",
+    "SANJAY BHATT",
+    "VINAY BHATT,MOHD SHAFY,MOHD SHAFY, MOHD SHAFY"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "WPSB-121-2020",
@@ -28132,6 +29417,20 @@
    ],
    "next_date": "2026-10-16",
    "a": 2
+  },
+  {
+   "id": "WPSB-141-2025",
+   "case_no": "WPSB/141/2025",
+   "title": "POOJA JOSHI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HEM CHANDRA JOSHI,RAVI SEHGAL",
+    "PREM KAUSHAL,ASHISH JOSHI",
+    "SAGAR KOTHARI,SUNAYNA KOHLI KOTHARI",
+    "SAGAR KOTHARI,SUNAYNA KOHLI KOTHARI,SUNAYNA KOHLI KOTHARI, ,SUNAYNA KOHLI KOTHARI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "WPSB-149-2026",
@@ -28182,6 +29481,19 @@
    "a": 2
   },
   {
+   "id": "WPSB-198-2026",
+   "case_no": "WPSB/198/2026",
+   "title": "DR ARSHAD HUSSAIN v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C S RAWAT",
+    "C.S.C.",
+    "MOHD SHAFY,VINAY BHATT,VINAY BHATT, ,VINAY BHATT",
+    "NAVEEN PANERU"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-20-2025",
    "case_no": "WPSB/20/2025",
    "title": "TARUN GARG AND OTHERS v. STATE OF UTTARAKHAND",
@@ -28220,6 +29532,21 @@
    "a": 2
   },
   {
+   "id": "WPSB-207-2021",
+   "case_no": "WPSB/207/2021",
+   "title": "KHAGENDRA JOSHI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "Advocate- ,SUMIT BAJAJ,C K SHARMA,Nitin Tewari",
+    "Ashish Kumar Joshi",
+    "C S RAWAT,ANIL ANTHWAL",
+    "C.S.C.",
+    "LALIT SAMANT",
+    "PANKAJ CHATURVEDI,C S RAWAT"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-211-2026",
    "case_no": "WPSB/211/2026",
    "title": "SUBHASH CHANDRA BHATT v. SUNIL KUMAR",
@@ -28241,6 +29568,17 @@
     "MANINDRA SINGH BHANDARI"
    ],
    "next_date": null,
+   "a": 1
+  },
+  {
+   "id": "WPSB-216-2026",
+   "case_no": "WPSB/216/2026",
+   "title": "BHUWAN CHANDRA PANDE v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "I D PALIWAL"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -28283,6 +29621,18 @@
    "a": 1
   },
   {
+   "id": "WPSB-245-2024",
+   "case_no": "WPSB/245/2024",
+   "title": "ANURAG AGARWAL v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "AJAY VEER PUNDIR,ANIL KUMAR JOSHI,ANIL KUMAR JOSHI, ,ANIL KUMAR JOSHI",
+    "C.S.C.",
+    "S S CHAUHAN"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-245-2025",
    "case_no": "WPSB/245/2025",
    "title": "MAHIMANAND JOSHI v. STATE OF UTTARAKHAND",
@@ -28291,6 +29641,29 @@
     "VIPUL SHARMA,NIVESH BAHUGUNA,NIVESH BAHUGUNA, ,KHUSHBOO TIWARI SHARMA,MANEESH BISHT,NIVESH BAHUGUNA"
    ],
    "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPSB-247-2024",
+   "case_no": "WPSB/247/2024",
+   "title": "BALDEV SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "AJAY VEER PUNDIR,A.D. TRIPATHI,A.D. TRIPATHI, ,A.D. TRIPATHI",
+    "C.S.C.,",
+    "S S CHAUHAN"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-251-2025",
+   "case_no": "WPSB/251/2025",
+   "title": "KAPIL PANDEY v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "PANKAJ KAPIL"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -28316,6 +29689,29 @@
    "a": 1
   },
   {
+   "id": "WPSB-253-2025",
+   "case_no": "WPSB/253/2025",
+   "title": "SATYAPAL SINGH RAWAT v. UTTARAKHAND FOREST DEVELOPMENT CORPORATION",
+   "advocates": [
+    "HARSH VARDHAN DHANIK,IMRAN ALI KHAN,IMRAN ALI KHAN, ,IMRAN ALI KHAN",
+    "RAJESH SHARMA,",
+    "RAJESH SHARMA,DR. KARTIKEY HARI GUPTA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-254-2025",
+   "case_no": "WPSB/254/2025",
+   "title": "PRAMOD KUMAR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "DUSHYANT MAINALI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-259-2025",
    "case_no": "WPSB/259/2025",
    "title": "AMITABH JOSHI v. STATE OF UTTARAKHAND",
@@ -28324,6 +29720,30 @@
     "C.S.C."
    ],
    "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPSB-268-2023",
+   "case_no": "WPSB/268/2023",
+   "title": "MANOJ KUMAR v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C S RAWAT,VIKASH NEGI,VIKASH NEGI, ,ANIL ANTHWAL,VIVEK KUMAR,VIKASH NEGI",
+    "C.S.C.,",
+    "DHARMENDRA BARTHWAL",
+    "VIKASH NEGI,ANIL ANTHWAL"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-268-2025",
+   "case_no": "WPSB/268/2025",
+   "title": "SHANKAR BORA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HARSHIT SANWAL,PANKAJ KAPIL,PANKAJ KAPIL, ,PANKAJ KAPIL"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -28399,6 +29819,31 @@
    "a": 1
   },
   {
+   "id": "WPSB-319-2023",
+   "case_no": "WPSB/319/2023",
+   "title": "SUNIL KUMAR GAUTAM v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "DHARMENDRA BARTHWAL",
+    "PANKAJ KUMAR SHARMA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-326-2022",
+   "case_no": "WPSB/326/2022",
+   "title": "MANISHA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "ASHISH JOSHI,PANKAJ MIGLANI",
+    "C.S.C.",
+    "K K HARBOLA",
+    "PANKAJ MIGLANI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-332-2026",
    "case_no": "WPSB/332/2026",
    "title": "OM SINGH v. STATE OF UTTARAKHAND",
@@ -28448,6 +29893,19 @@
    ],
    "next_date": null,
    "a": 2
+  },
+  {
+   "id": "WPSB-356-2021",
+   "case_no": "WPSB/356/2021",
+   "title": "SANKAR LAL KOHLI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "AMAR MURTI SHUKLA,ANAND SINGH MER,ANAND SINGH MER, ,ANAND SINGH",
+    "C.S.C.",
+    "D.S.MEHTA",
+    "D.S.Mehta"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "WPSB-362-2026",
@@ -28618,6 +30076,17 @@
    "a": 2
   },
   {
+   "id": "WPSB-46-2026",
+   "case_no": "WPSB/46/2026",
+   "title": "NARENDRA PAL SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "PRIYANSHU GAIROLA,SHAURYA DHOUNDIYAL,SHAURYA DHOUNDIYAL, ,SHAURYA DHOUNDIYAL",
+    "SHIV BHATT"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-463-2023",
    "case_no": "WPSB/463/2023",
    "title": "DIWAN SINGH v. STATE OF UTTARAKHAND",
@@ -28733,6 +30202,27 @@
    "a": 1
   },
   {
+   "id": "WPSB-524-2025",
+   "case_no": "WPSB/524/2025",
+   "title": "UNION OF INDIA v. DURGA SINGH",
+   "advocates": [
+    "DEPUTY  S.G."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-525-2025",
+   "case_no": "WPSB/525/2025",
+   "title": "UNION OF INDIA v. PARESHWAR PRASAD",
+   "advocates": [
+    "DEPUTY  S.G.",
+    "VIKRAM SINGH DHAPOLA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-526-2022",
    "case_no": "WPSB/526/2022",
    "title": "RAGHUBAR DUTT SATI v. UTTARAKHAND PAYJAL SANSADHAN VIKAS EVEM NIRMAN NIGAM",
@@ -28825,6 +30315,22 @@
    "a": 2
   },
   {
+   "id": "WPSB-576-2024",
+   "case_no": "WPSB/576/2024",
+   "title": "MANOJ KUMAR JOSHI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "ANIL KUMAR JOSHI,DHARMENDRA BARTHWAL,DHARMENDRA BARTHWAL, ,DHARMENDRA BARTHWAL",
+    "BIRENDRA SINGH ADHIKARI",
+    "C.S.C.",
+    "JITENDRA CHAUDHARY",
+    "S S CHAUHAN",
+    "SHAILENDRA SINGH CHAUHAN",
+    "VINAY KUMAR,Sudha Tamta"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-578-2026",
    "case_no": "WPSB/578/2026",
    "title": "ARUN KUMAR GOEL v. STATE OF UTTARAKHAND",
@@ -28902,6 +30408,19 @@
    ],
    "next_date": null,
    "a": 2
+  },
+  {
+   "id": "WPSB-665-2026",
+   "case_no": "WPSB/665/2026",
+   "title": "RAHUL SAINI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HARI MOHAN BHATIA",
+    "PRABHAKAR JOSHI",
+    "RAMJI SHRIVASTAVA"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
   },
   {
    "id": "WPSB-669-2026",
@@ -28999,6 +30518,18 @@
    "a": 1
   },
   {
+   "id": "WPSB-695-2026",
+   "case_no": "WPSB/695/2026",
+   "title": "RUPSA LAL v. UNION OF INDIA",
+   "advocates": [
+    "DEPUTY  S.G.,",
+    "DEPUTY  S.G.,NEETI RANA",
+    "MANINDRA SINGH BHANDARI"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-696-2026",
    "case_no": "WPSB/696/2026",
    "title": "PRAMOD KUMAR MISHRA v. THE VICE CHANCELLOR KUMAUN UNIVERSITY",
@@ -29047,6 +30578,84 @@
    "a": 1
   },
   {
+   "id": "WPSB-702-2026",
+   "case_no": "WPSB/702/2026",
+   "title": "MANJU KANNOJIYA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "PARITOSH DALAKOTI,HEMANT PANT,HEMANT PANT, ,HEMANT PANT"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-703-2026",
+   "case_no": "WPSB/703/2026",
+   "title": "VIRENDRA KUMAR MULJIBHAI THAKKAR v. BOARD OF GOVERNORS",
+   "advocates": [
+    "BHUPESH KANDPAL",
+    "PRADEEP KUMAR CHAUHAN,HEMANT SINGH DANGWAL,HEMANT SINGH DANGWAL, ,HEMANT SINGH DANGWAL"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-704-2026",
+   "case_no": "WPSB/704/2026",
+   "title": "COLONEL SUBODH SHUKLA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HARSHIT SANWAL,NEERAJ SINGH KAIRA,NEERAJ SINGH KAIRA, ,NEERAJ SINGH KAIRA"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPSB-705-2026",
+   "case_no": "WPSB/705/2026",
+   "title": "STATE OF UTTARAKHAND v. ARVIND KUMAR SATAVARIYA",
+   "advocates": [
+    "C.S.C."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-706-2026",
+   "case_no": "WPSB/706/2026",
+   "title": "BIMALA BISHT v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C."
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-720-2024",
+   "case_no": "WPSB/720/2024",
+   "title": "SATYA KUMAR v. G B PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+   "advocates": [
+    "LALIT BELWAL,NIVESH BAHUGUNA,NIVESH BAHUGUNA, ASHISH BELWAL,BHAVYA SHARMA,ABHILASHA BELWAL,VIPUL SHARMA,KHUSHBOO TIWARI SHARMA,MANEESH BISHT,NIVESH BAHUGUNA",
+    "SHUBHANG DOBHAL,",
+    "SHUBHANG DOBHAL,SATYENDRA SINGH LINGWAL"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
+   "id": "WPSB-775-2024",
+   "case_no": "WPSB/775/2024",
+   "title": "RAMESH CHANDRA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "MANOJ KUMAR",
+    "RAHUL CONSUL,AMARENDRA PRATAP SINGH",
+    "VIKAS PANDE"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-776-2024",
    "case_no": "WPSB/776/2024",
    "title": "DR SAMRAT SHARMA v. STATE OF UTTARAKHAND THROUGH SECRETARY HIGHER EDUCATION, CIVIL SECRETARIATE DEHRADUN",
@@ -29061,6 +30670,18 @@
    "a": 2
   },
   {
+   "id": "WPSB-782-2024",
+   "case_no": "WPSB/782/2024",
+   "title": "SHEETAL GURUNG v. UTTARAKHAND PAY JAL NIGAM",
+   "advocates": [
+    "C.S.C.",
+    "DHARMENDRA BARTHWAL",
+    "SHAILENDRA SINGH CHAUHAN"
+   ],
+   "next_date": "2026-11-04",
+   "a": 1
+  },
+  {
    "id": "WPSB-80-2024",
    "case_no": "WPSB/80/2024",
    "title": "JAGJEEVAN SINGH v. UNION OF INDIA",
@@ -29070,6 +30691,18 @@
     "DEPUTY  S.G.,ATUL BHATT"
    ],
    "next_date": null,
+   "a": 1
+  },
+  {
+   "id": "WPSB-92-2024",
+   "case_no": "WPSB/92/2024",
+   "title": "MANVIRENDRA SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "ANIL KUMAR JOSHI",
+    "C.S.C.,",
+    "S S CHAUHAN"
+   ],
+   "next_date": "2026-11-04",
    "a": 1
   },
   {
@@ -38778,6 +40411,17 @@
    "a": 1
   },
   {
+   "id": "WPSS-2850-2026",
+   "case_no": "WPSS/2850/2026",
+   "title": "UPENDRA SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "H M RATURI,NIRANJAN BHATT,NIRANJAN BHATT, ,NIRANJAN BHATT"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
    "id": "WPSS-2851-2026",
    "case_no": "WPSS/2851/2026",
    "title": "AMIT KHATRI v. STATE OF UTTARAKHAND",
@@ -38796,6 +40440,17 @@
     "K P UPADHYAY"
    ],
    "next_date": "2026-11-02",
+   "a": 1
+  },
+  {
+   "id": "WPSS-2852-2026",
+   "case_no": "WPSS/2852/2026",
+   "title": "SONU KUMAR v. THE HEMWANTI NANDAN BAHUGUNA GARHWAL UNIVERSITY SRINAGAR",
+   "advocates": [
+    "DR. KARTIKEY HARI GUPTA",
+    "Vikas Singh Yadav,Neelam Godiyal,Neelam Godiyal, ,SANJAY KUMAR ARYA,Neelam Godiyal"
+   ],
+   "next_date": "2026-11-03",
    "a": 1
   },
   {
@@ -38827,6 +40482,17 @@
    "advocates": [
     "C.S.C.",
     "M C UPADHYAY,POORAN SINGH RAWAT,POORAN SINGH RAWAT, VIDYA SAGAR PANT,POORAN SINGH RAWAT"
+   ],
+   "next_date": "2026-11-03",
+   "a": 1
+  },
+  {
+   "id": "WPSS-2855-2026",
+   "case_no": "WPSS/2855/2026",
+   "title": "RAJDEEP SHARMA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "INDU SHARMA"
    ],
    "next_date": "2026-11-03",
    "a": 1
