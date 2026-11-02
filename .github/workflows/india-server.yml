@@ -1,6 +1,6 @@
 # India server lagao (Vercel, free Hobby, Mumbai 'bom1'): court ki site sirf India se khulti hai; yeh server Mac ki
 # jagah cause list PDFs laata hai (relay/api/causelist.py) — Mac band ho to bhi. "Mac cause list" use bulata hai
-# aur PDFs khud le jaata hai; Vercel ka timer (relay/api/kick.py) roz shaam/subah GitHub ko woh workflow chalane ko
+# aur PDFs khud le jaata hai; Vercel ka timer (causelist.py ?kick=) roz shaam/subah GitHub ko woh workflow chalane ko
 # kehta hai. Ek baar chalao; relay/ ya scripts/ukhc_ehcr.py badle to dobara.
 # Zaroori: GitHub secret VERCEL_TOKEN (vercel.com → Account Settings → Tokens); timer ke liye TRIGGER_TOKEN
 # (fine-grained, sirf kv-sync, sirf Actions read/write — Vercel par yahi ek GitHub token jaata hai).
@@ -87,7 +87,7 @@ jobs:
           TT: ${{ secrets.TRIGGER_TOKEN }}
         run: |
           [ -n "$TT" ] || { echo "::warning::TRIGGER_TOKEN nahi — list sirf GitHub ke (der wale) schedule aur Mac se"; exit 0; }
-          r=$(curl -sS -m 60 -H "Authorization: Bearer $KEY" "$URL/api/kick" || true)
+          r=$(curl -sS -m 60 -H "Authorization: Bearer $KEY" "$URL/api/causelist?kick=jaanch" || true)
           echo "$r"
           echo "$r" | python3 -c 'import json,sys; sys.exit(0 if json.load(sys.stdin).get("ok") else 1)' \
             || { echo "::error::Timer GitHub ko nahi bula paya (TRIGGER_TOKEN: sirf kv-sync, Actions read/write?)"; exit 1; }

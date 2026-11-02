@@ -1,7 +1,10 @@
 """India server (Vercel, Mumbai 'bom1'): court ki site (ehcr.uk.gov.in) sirf India se khulti hai — yeh wahan se
 cause list PDFs laa kar seedhe lautata hai (tar.gz: DD-MM-YYYY/ehcr.json + PDFs, Mac wale 'fetch' jaisa).
-GitHub ka "Mac cause list" workflow bulata hai; text, data branch aur app wahi banata hai. Iske paas GitHub ka koi
-token nahi. ?test=1 = sirf ginti (JSON). Env (.github/workflows/india-server.yml lagata hai): CRON_SECRET (chaabi).
+GitHub ka "Mac cause list" workflow bulata hai; text, data branch aur app wahi banata hai. ?test=1 = sirf ginti (JSON).
+?kick=... = Vercel ka timer (vercel.json 'crons', shaam/subah): GitHub ka apna schedule ghanton der se ya chalta hi
+nahi (1-2 Nov ki shaam ek bhi run nahi), isliye yahan se GitHub ko "Mac cause list" chalane ko kehte hain.
+TRIGGER_TOKEN: sirf kv-sync, sirf Actions read/write (workflow chala sakta hai; code, files, secrets nahi).
+Env (.github/workflows/india-server.yml lagata hai): CRON_SECRET (chaabi), TRIGGER_TOKEN, REPO.
 _ehcr.py = scripts/ukhc_ehcr.py ki copy (lagate waqt).
 """
 import io
@@ -11,6 +14,8 @@ import sys
 import tarfile
 import tempfile
 import time
+import urllib.error
+import urllib.request
 from http.server import BaseHTTPRequestHandler
 from pathlib import Path
 
@@ -33,11 +38,31 @@ def run():
     return None, err
 
 
+def kick():
+    token, repo = os.environ.get("TRIGGER_TOKEN", ""), os.environ.get("REPO", "")
+    if not token or not repo:
+        return {"ok": False, "error": "TRIGGER_TOKEN / REPO nahi"}
+    req = urllib.request.Request(f"https://api.github.com/repos/{repo}/actions/workflows/mac-causelist.yml/dispatches",
+                                 data=b'{"ref": "main"}', method="POST",
+                                 headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json",
+                                          "User-Agent": "kv-relay"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            code = r.status
+    except urllib.error.HTTPError as e:
+        code = e.code
+    return {"ok": code == 204, "github": code}
+
+
 class handler(BaseHTTPRequestHandler):
     def do_GET(self):
         key = os.environ.get("CRON_SECRET", "")
         if not key or self.headers.get("Authorization") != f"Bearer {key}":
             return self.reply(401, "application/json", b'{"ok": false, "error": "chaabi galat"}')
+        if "kick=" in self.path:
+            res = kick()
+            print(json.dumps(res))
+            return self.reply(200 if res["ok"] else 502, "application/json", json.dumps(res).encode())
         out, err = run()
         if err:
             return self.reply(502, "application/json", json.dumps({"ok": False, "error": err}).encode())
