@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/500/2026:2026-05-15-002",
+ "title": "MANGAL SINGH MATURA versus DISTRICT MAGISTRATE",
+ "petitioner": "MANGAL SINGH MATURA",
+ "respondent": "DISTRICT MAGISTRATE",
+ "case_no": "WPSS/500/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-15",
+ "cnr": "UKHC010024742026",
+ "doc_kind": "order",
+ "order_type": "WPSS/500/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgmXLkoV52sCfZsRFV6TWogo4feeerCYTaAfIaDMwGHc&caseno=WPSS/500/2026&cCode=1&cino=UKHC010024742026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1bbefd35f27aa83d65165a135d50cf58716297ac73e2a449871b3300b88396f2",
+ "fetched_at": "2026-11-02T12:46:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

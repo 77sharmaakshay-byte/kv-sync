@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/675/2026:2026-05-30-002",
+ "title": "RENU versus STATE OF UTTARAKHAND",
+ "petitioner": "RENU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/675/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-30",
+ "cnr": "UKHC010033032026",
+ "doc_kind": "order",
+ "order_type": "WPSS/675/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrpf1xavfTZ9NE2HM4K0ZB4o6PfOcm7FO9Dy5xGXf4xS&caseno=WPSS/675/2026&cCode=1&cino=UKHC010033032026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6a37daeca6008976366b92a3161eaa8b7fedc1332c42b9c1837aacbadf7c9955",
+ "fetched_at": "2026-11-02T12:50:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

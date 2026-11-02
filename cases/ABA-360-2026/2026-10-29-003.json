@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/360/2026:2026-10-29-003",
+ "title": "BILAL versus STATE OF UTTARAKHAND",
+ "petitioner": "BILAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/360/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010152622026",
+ "doc_kind": "order",
+ "order_type": "ABA/360/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi%2FcE0%2FXLXOttwnMO8lsiz06jbmSbd%2FEsgHTLAbYG3Ko&caseno=ABA/360/2026&cCode=1&cino=UKHC010152622026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f8634d83d3528a9369a03167b8d5602c28a682627d709fd43c60b9458414f182",
+ "fetched_at": "2026-11-02T13:00:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

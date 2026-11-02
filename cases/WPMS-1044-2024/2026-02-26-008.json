@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1044/2024:2026-02-26-008",
+ "title": "CHARU CHANDRA LOHANI versus STATE OF UTTARAKHAND",
+ "petitioner": "CHARU CHANDRA LOHANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1044/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-26",
+ "cnr": "UKHC010058492024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1044/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcDQHbTQcR9F2V4dKrec83Nz8Bnh1itv2U60obKngX3BP&caseno=WPMS/1044/2024&cCode=1&cino=UKHC010058492024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1eadee3fdc9c1fbeec6d3afd41caddd729184c01ea2b7277ccf59409a284fe48",
+ "fetched_at": "2026-11-02T13:05:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

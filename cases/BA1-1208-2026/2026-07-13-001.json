@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1208/2026:2026-07-13-001",
+ "title": "SHADAB versus STATE OF UTTARAKHAND",
+ "petitioner": "SHADAB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1208/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-13",
+ "cnr": "UKHC010119902026",
+ "doc_kind": "order",
+ "order_type": "BA1/1208/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQohVuLPY%2BS%2F1ChYevOMYPDE9MuAbsEcrlGXXC3988rSN&caseno=BA1/1208/2026&cCode=1&cino=UKHC010119902026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ad0ae449781a11f704db6076ca9400f03d2860aaee88114b87a9c21bb89550ff",
+ "fetched_at": "2026-11-02T13:10:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

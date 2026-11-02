@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/171/2026:2026-03-13-002",
+ "title": "AYUSH KUMAR ALIAS SIKANDAR versus STATE OF UTTARAKHAND",
+ "petitioner": "AYUSH KUMAR ALIAS SIKANDAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/171/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-03-13",
+ "cnr": "UKHC010017892026",
+ "doc_kind": "order",
+ "order_type": "BA1/171/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtUv%2BJ5mcDyk%2Fi4RZSwZhIKwB4i2u3qXlYGfKvpsLQqa&caseno=BA1/171/2026&cCode=1&cino=UKHC010017892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ec30bfd0499833e05c3cbd6dd809e5e787b673d660f750580c048dff65e6f250",
+ "fetched_at": "2026-11-02T13:09:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

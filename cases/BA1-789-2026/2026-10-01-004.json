@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/789/2026:2026-10-01-004",
+ "title": "MANDEEP SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MANDEEP SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/789/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010079272026",
+ "doc_kind": "order",
+ "order_type": "BA1/789/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvKG9XU4ARpmVL6eRwRaR4hU3J%2B62LFIRHH2hErmrf90&caseno=BA1/789/2026&cCode=1&cino=UKHC010079272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5251f0c500d3aca81be8f84daaf59856acafafce5c2ce57d240bbd94219d21ef",
+ "fetched_at": "2026-11-02T13:14:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

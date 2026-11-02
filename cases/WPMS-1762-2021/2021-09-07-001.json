@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1762/2021:2021-09-07-001",
+ "title": "SUKHBIR SINGH versus COMMISSIONER GARHWAL DIVISION",
+ "petitioner": "SUKHBIR SINGH",
+ "respondent": "COMMISSIONER GARHWAL DIVISION",
+ "case_no": "WPMS/1762/2021",
+ "case_type": "WPMS",
+ "decision_date": "2021-09-07",
+ "cnr": "UKHC010105862021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1762/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkKhEGHprDvz%2BydWzaPODe62IyO%2BLFSc3M8p1UofD6pd%2F&caseno=WPMS/1762/2021&cCode=1&cino=UKHC010105862021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "70543f0197c69bc8a569e3dcab6b18555ae6e350c0ac956bf2fdb1d9d2d32100",
+ "fetched_at": "2026-11-02T13:00:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

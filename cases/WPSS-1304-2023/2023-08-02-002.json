@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1304/2023:2023-08-02-002",
+ "title": "SAJID ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "SAJID ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1304/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-08-02",
+ "cnr": "UKHC010119022023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1304/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6rh0gf3UHHmvfGVJiZ3kiItNHi%2FpEE38ES1OQPj9%2F97&caseno=WPSS/1304/2023&cCode=1&cino=UKHC010119022023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "946ccb0a4293ff358ae1d442c76cc4c354f32cac7d700a0c847087506b2c0a1c",
+ "fetched_at": "2026-11-02T12:44:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

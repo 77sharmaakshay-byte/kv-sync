@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/171/2026:2026-09-15-010",
+ "title": "AYUSH KUMAR ALIAS SIKANDAR versus STATE OF UTTARAKHAND",
+ "petitioner": "AYUSH KUMAR ALIAS SIKANDAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/171/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010017892026",
+ "doc_kind": "order",
+ "order_type": "BA1/171/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtUv%2BJ5mcDyk%2Fi4RZSwZhILmWjR4lhTQfbX8SvFuc%2FJX&caseno=BA1/171/2026&cCode=1&cino=UKHC010017892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "761a7fa05260250ee5ab74f95e04e5c0c53e764123db413695da009fc19b01b0",
+ "fetched_at": "2026-11-02T13:09:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

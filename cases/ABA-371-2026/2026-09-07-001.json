@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/371/2026:2026-09-07-001",
+ "title": "DANISH versus STATE OF UTTARAKHAND",
+ "petitioner": "DANISH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/371/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010155992026",
+ "doc_kind": "order",
+ "order_type": "ABA/371/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlOo3ohzN370d%2FSDXnObBN3HoMmyDnXbemiyaR%2FSvkdI&caseno=ABA/371/2026&cCode=1&cino=UKHC010155992026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a9b83f7d6d2ea1943c4ad17f00bbd2e68add1fda2c519f2280bb8cf66339b2f1",
+ "fetched_at": "2026-11-02T13:01:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1221/2026:2026-07-15-001",
+ "title": "RANJEET SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "RANJEET SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1221/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-15",
+ "cnr": "UKHC010121432026",
+ "doc_kind": "order",
+ "order_type": "BA1/1221/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmbPQM5s6vNvlWTks1dlIG2rPjCYYJr5gYv0m3dRokjn&caseno=BA1/1221/2026&cCode=1&cino=UKHC010121432026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d20e0879374fa69ff4082d813da8e08269286393e7c41bfd898730c60564117f",
+ "fetched_at": "2026-11-02T13:14:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

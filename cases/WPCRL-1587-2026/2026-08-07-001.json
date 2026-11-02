@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1587/2026:2026-08-07-001",
+ "title": "MOHD MATLUB versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD MATLUB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1587/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-08-07",
+ "cnr": "UKHC010141232026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1587/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoipbQSb2d3HJ2ew5G0O2eAui6925rGhqxLPmmkNU9h1&caseno=WPCRL/1587/2026&cCode=1&cino=UKHC010141232026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "86903a3b2d7efaf5b474fcdeda19241440d1f9c4933342a809727e8519d2440e",
+ "fetched_at": "2026-11-02T13:00:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1033/2020:2020-09-15-001",
+ "title": "REENA PANDEY versus STATE OF UTTARAKHAND",
+ "petitioner": "REENA PANDEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1033/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-09-15",
+ "cnr": "UKHC010088132020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1033/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjAIUG19YZ2bJ03ZxllZSIrEhyKp8I584hljjP0bz8gOB&caseno=WPSS/1033/2020&cCode=1&cino=UKHC010088132020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "29cd95f9fc30358c044db05349098a8cae43f11d2c9215103e4b2beef087c821",
+ "fetched_at": "2026-11-02T12:47:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

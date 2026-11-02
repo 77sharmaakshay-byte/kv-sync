@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/106/2026:2026-07-21-001",
+ "title": "GULFAM KHAN versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "GULFAM KHAN",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA2/106/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-07-21",
+ "cnr": "UKHC010126352026",
+ "doc_kind": "order",
+ "order_type": "BA2/106/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiy6b7l0DsVUmdalsVU8DfOkCSfA76UN24t%2FrrSyCfG9&caseno=BA2/106/2026&cCode=1&cino=UKHC010126352026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "af696de2a65abb6305c5c2bbba6b63f160b772aaf4cbf86e041f6ca6daaad7e8",
+ "fetched_at": "2026-11-02T13:13:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2419/2026:2026-09-16-001",
+ "title": "LALITA versus STATE OF UTTARAKHAND",
+ "petitioner": "LALITA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2419/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010162762026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2419/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQicZtrivhUDRMJXeAL56%2FeG4SWdEfxpSb9heSutAd6Bg&caseno=WPSS/2419/2026&cCode=1&cino=UKHC010162762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b2f4cd5876c3b8794d21adde30b9c5da1a82b22d9e4d3e27a04b51ba6bdb3abd",
+ "fetched_at": "2026-11-02T12:45:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

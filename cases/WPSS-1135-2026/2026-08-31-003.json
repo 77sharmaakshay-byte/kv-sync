@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1135/2026:2026-08-31-003",
+ "title": "MANOJ CHANDRA JOSHI versus UNION OF INDIA",
+ "petitioner": "MANOJ CHANDRA JOSHI",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1135/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010067562026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1135/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgc%2FDGE5C6Wl%2B4D0rDtWm5Dv%2BaYYVtJg8ogD3%2Fl1ayqE&caseno=WPSS/1135/2026&cCode=1&cino=UKHC010067562026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3a04fce68d52671e27f296b2684d1d9a5e45faed3487284c51e82d42f4e054e9",
+ "fetched_at": "2026-11-02T12:47:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

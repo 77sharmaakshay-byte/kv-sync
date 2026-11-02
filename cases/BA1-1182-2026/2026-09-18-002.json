@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1182/2026:2026-09-18-002",
+ "title": "MOHAN  LAL versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHAN  LAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1182/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010116712026",
+ "doc_kind": "order",
+ "order_type": "BA1/1182/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv9O%2FZOv4bKy7NEPrVUq9t%2F2Qk9H1khwmNwPUsW5Xn5T&caseno=BA1/1182/2026&cCode=1&cino=UKHC010116712026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b927f41d0eb55b43e4efb02da70bedcdaa386c112aa9c63c04b3933ef5e39238",
+ "fetched_at": "2026-11-02T13:14:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

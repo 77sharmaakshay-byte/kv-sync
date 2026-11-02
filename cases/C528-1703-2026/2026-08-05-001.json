@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1703/2026:2026-08-05-001",
+ "title": "NARESH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/1703/2026",
+ "case_type": "C528",
+ "decision_date": "2026-08-05",
+ "cnr": "UKHC010137232026",
+ "doc_kind": "order",
+ "order_type": "C528/1703/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlaoQohEo%2FI4j0wEYbq2EoalHy3rfqglxbsrCZ954QVU&caseno=C528/1703/2026&cCode=1&cino=UKHC010137232026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f307cf70761417019067b9226cb71a40c0b2b47f264a1587e4994d317eae5f5a",
+ "fetched_at": "2026-11-02T13:06:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

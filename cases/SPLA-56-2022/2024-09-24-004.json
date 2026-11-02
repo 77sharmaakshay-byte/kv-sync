@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPLA/56/2022:2024-09-24-004",
+ "title": "SANJEEV KUMAR versus MUSHTAAK",
+ "petitioner": "SANJEEV KUMAR",
+ "respondent": "MUSHTAAK",
+ "case_no": "SPLA/56/2022",
+ "case_type": "SPLA",
+ "decision_date": "2024-09-24",
+ "cnr": "UKHC010073892022",
+ "doc_kind": "order",
+ "order_type": "SPLA/56/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2BJYMwDyMz9BjDvVZLbBBh0v1SSmwSDr9UGYwO9rIrz%2B&caseno=SPLA/56/2022&cCode=1&cino=UKHC010073892022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "28d3ce6fa555a90e47ed2122a84a5b80851359b1b5da86892bdeabc941affd94",
+ "fetched_at": "2026-11-02T13:17:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

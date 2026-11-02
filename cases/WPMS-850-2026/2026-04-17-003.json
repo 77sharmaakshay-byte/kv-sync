@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/850/2026:2026-04-17-003",
+ "title": "PANKAJ BIJALWAN versus STATE OF UTTARAKHAND",
+ "petitioner": "PANKAJ BIJALWAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/850/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-17",
+ "cnr": "UKHC010052602026",
+ "doc_kind": "order",
+ "order_type": "WPMS/850/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgGPYiEhoNdZU%2FfBM7yUiynvJ78jBKUU%2BKSIegO5tQCL&caseno=WPMS/850/2026&cCode=1&cino=UKHC010052602026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a7516d143748d3a2c62f4e1bb4be7a9c8c0cbc5b73b78079e04089898284a17d",
+ "fetched_at": "2026-11-02T13:01:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

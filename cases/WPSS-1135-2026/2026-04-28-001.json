@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1135/2026:2026-04-28-001",
+ "title": "MANOJ CHANDRA JOSHI versus UNION OF INDIA",
+ "petitioner": "MANOJ CHANDRA JOSHI",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1135/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-04-28",
+ "cnr": "UKHC010067562026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1135/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgc%2FDGE5C6Wl%2B4D0rDtWm5AubnrQIQi37yKh%2BNEimhyz&caseno=WPSS/1135/2026&cCode=1&cino=UKHC010067562026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "254b540b19a724f5672f87b5d1e6f1366c30f4dfa79dc4bcf3382138772cda04",
+ "fetched_at": "2026-11-02T12:47:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/205/2026:2026-08-17-004",
+ "title": "RUBI versus STATE OF UTTARAKHAND",
+ "petitioner": "RUBI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/205/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-17",
+ "cnr": "UKHC010062162026",
+ "doc_kind": "order",
+ "order_type": "CRLA/205/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpz%2Bc9Z0itH44AuoB76GRKzXzg1419Af6KtJUcB1rjMm&caseno=CRLA/205/2026&cCode=1&cino=UKHC010062162026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ba271d4979e9981fb0f1f247706ae755b84ab57ad8cb92a01aef8575d8e5698e",
+ "fetched_at": "2026-11-02T13:07:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

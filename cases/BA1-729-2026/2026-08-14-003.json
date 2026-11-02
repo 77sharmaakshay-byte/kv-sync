@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/729/2026:2026-08-14-003",
+ "title": "PIYUSH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PIYUSH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/729/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-14",
+ "cnr": "UKHC010072632026",
+ "doc_kind": "order",
+ "order_type": "BA1/729/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvFhm%2FVyDKDPRxM0hLQC2pjIvX7PVszmSOe1MMNq5jyQ&caseno=BA1/729/2026&cCode=1&cino=UKHC010072632026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cef938b0a04e4deba0298f7877e6bf80d552a800a1e02c3c0a97d54835660ae6",
+ "fetched_at": "2026-11-02T13:13:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

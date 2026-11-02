@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1480/2026:2026-09-01-001",
+ "title": "DHIRENDRA SINGH PATWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "DHIRENDRA SINGH PATWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1480/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010152842026",
+ "doc_kind": "order",
+ "order_type": "BA1/1480/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi7VmTFvZ%2BUHS2qXfYHNQoo7WjAcDERI9dYxXBN988g8&caseno=BA1/1480/2026&cCode=1&cino=UKHC010152842026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7bc37d5760ea2f12a1d036ed1dcb55558901881debd398031d7392b83c90aa71",
+ "fetched_at": "2026-11-02T13:15:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

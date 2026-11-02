@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1333/2026:2026-07-31-001",
+ "title": "BACHI RAM versus STATE OF UTTARAKHAND",
+ "petitioner": "BACHI RAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1333/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-31",
+ "cnr": "UKHC010134452026",
+ "doc_kind": "order",
+ "order_type": "BA1/1333/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmTWsPBzHAfMNObQZaEVbNt8J%2BB94cnNdJMMLPts7hvJ&caseno=BA1/1333/2026&cCode=1&cino=UKHC010134452026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0ad392d74f75d9933a78c6a89b57aa083f0bb163b3b4179d56ee4800756c4190",
+ "fetched_at": "2026-11-02T13:15:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

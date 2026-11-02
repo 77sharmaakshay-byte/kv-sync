@@ -6,9 +6,9 @@
  "registration_number": "WPSS /2233/2024",
  "registration_date": "2024-11-26",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-03",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "case_stage": "ADMISSION MATTERS -35",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -59,6 +59,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-10-26",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2025-02-25",
    "business_date": "2024-11-29",
    "purpose": "FRESH CASES AS DEFECTIVE -236",
@@ -73,5 +80,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-26",
+   "order_type": "WPSS/2233/2024",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcEn8PQHmfMcH1i9elOOuA3r2cO1ETbXKqrgzhZUXY1Z6&caseno=WPSS/2233/2024&cCode=1&cino=UKHC010186012024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2432/2022:2023-07-12-007",
+ "title": "ARVIND KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ARVIND KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2432/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-07-12",
+ "cnr": "UKHC010189962022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2432/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0135BwXl14H2Zym4lRjsIdowCz4hxO%2BnRmoQddjUdiEU&caseno=WPSS/2432/2022&cCode=1&cino=UKHC010189962022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "51663199aeea8ed80555232315caeebd2b062bd09a4d5b01bdb9c26140f6fdd2",
+ "fetched_at": "2026-11-02T12:46:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1670/2019:2026-09-21-002",
+ "title": "PANKAJ PANT versus STATE OF UTTARAKHAND",
+ "petitioner": "PANKAJ PANT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1670/2019",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010107022019",
+ "doc_kind": "order",
+ "order_type": "WPSS/1670/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9kw0z3grla4NdsJkwDCPGmdRIvkCpd2B2kCCk%2FhC6GR&caseno=WPSS/1670/2019&cCode=1&cino=UKHC010107022019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd70521410e4bb11462248cc600c8ebc0d8cec479aefd103c4fcf81075f1f54a",
+ "fetched_at": "2026-11-02T12:52:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

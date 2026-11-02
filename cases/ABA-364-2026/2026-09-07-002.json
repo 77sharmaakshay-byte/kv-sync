@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/364/2026:2026-09-07-002",
+ "title": "ASIF versus STATE OF UTTARAKHAND",
+ "petitioner": "ASIF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/364/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010154002026",
+ "doc_kind": "order",
+ "order_type": "ABA/364/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgYH%2BWuhEIsOaTZvE0Z1U6Bzcnog9PZZAgaR6lbP0Jqm&caseno=ABA/364/2026&cCode=1&cino=UKHC010154002026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "376ec2613133c4fed682b1462538de87a1ec494213e0bc6ad2e4951ad6800ec4",
+ "fetched_at": "2026-11-02T13:01:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2432/2022:2023-01-09-003",
+ "title": "ARVIND KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ARVIND KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2432/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-01-09",
+ "cnr": "UKHC010189962022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2432/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0135BwXl14H2Zym4lRjsIdpzsBlc0xx6%2Fx2QUU0yiHGP&caseno=WPSS/2432/2022&cCode=1&cino=UKHC010189962022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9a7df7cee421a330bf441e4c06c41e83f0a9773525c5ab403f7dd6ac16f9bb64",
+ "fetched_at": "2026-11-02T12:46:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

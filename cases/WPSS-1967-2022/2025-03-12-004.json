@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1967/2022:2025-03-12-004",
+ "title": "GAJENDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "GAJENDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1967/2022",
+ "case_type": "WPSS",
+ "decision_date": "2025-03-12",
+ "cnr": "UKHC010150622022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1967/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT087ldF033EU6O%2BOwrJBbJAN2gHxXue%2BNVgDFmqeuf256&caseno=WPSS/1967/2022&cCode=1&cino=UKHC010150622022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f34a3d826eec2eb0b1affcec00b65a67eb987cf8e868438ecb987138208814a8",
+ "fetched_at": "2026-11-02T12:44:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

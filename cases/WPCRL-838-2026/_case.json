@@ -6,9 +6,9 @@
  "registration_number": "WPCRL /838/2026",
  "registration_date": "2026-05-06",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-03",
  "decision_date": null,
- "case_stage": "ORDERS ON APPLICATIONS -22",
+ "case_stage": "PERSONAL APPEARANCE -4",
  "status": "",
  "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
@@ -59,6 +59,27 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-10-27",
+   "purpose": "PERSONAL APPEARANCE -4",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-27",
+   "business_date": null,
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-26",
+   "business_date": "2026-10-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-13",
    "business_date": "2026-09-22",
    "purpose": "PERSONAL APPEARANCE -4",
@@ -101,15 +122,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2026-06-08",
-   "business_date": "2026-05-26",
+   "hearing_date": "2026-07-08",
+   "business_date": null,
    "purpose": "PERSONAL APPEARANCE -4",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2026-07-08",
-   "business_date": null,
+   "hearing_date": "2026-06-08",
+   "business_date": "2026-05-26",
    "purpose": "PERSONAL APPEARANCE -4",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -214,6 +235,24 @@
    "order_type": "WPCRL/838/2026",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQscEUdKe9j3HED4Qo%2Bn14%2FUKtRF1OTKWToDLniGI30rb&caseno=WPCRL/838/2026&cCode=1&cino=UKHC010076042026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPCRL/838/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQscEUdKe9j3HED4Qo%2Bn14%2FUQ0Sqyhi2quedjASPJIf11&caseno=WPCRL/838/2026&cCode=1&cino=UKHC010076042026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-27",
+   "order_type": "WPCRL/838/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQscEUdKe9j3HED4Qo%2Bn14%2FU4hysnRfjm8lhV%2FHH9VSaO&caseno=WPCRL/838/2026&cCode=1&cino=UKHC010076042026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

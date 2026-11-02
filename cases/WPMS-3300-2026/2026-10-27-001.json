@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3300/2026:2026-10-27-001",
+ "title": "KANCHAN RAUTELA versus SOBAN SINGH JEENA UNIVERSITY ALMORA",
+ "petitioner": "KANCHAN RAUTELA",
+ "respondent": "SOBAN SINGH JEENA UNIVERSITY ALMORA",
+ "case_no": "WPMS/3300/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010188672026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3300/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsgOsYPGhwJabtGOAeDp70iL1GvrG6nghdETPV2XPZPO&caseno=WPMS/3300/2026&cCode=1&cino=UKHC010188672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "924ad4ee621035ee8dc823c90657212f581be83c06ab11879effdc870403cb77",
+ "fetched_at": "2026-11-02T12:59:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

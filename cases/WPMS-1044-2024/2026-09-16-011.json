@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1044/2024:2026-09-16-011",
+ "title": "CHARU CHANDRA LOHANI versus STATE OF UTTARAKHAND",
+ "petitioner": "CHARU CHANDRA LOHANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1044/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010058492024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1044/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcDQHbTQcR9F2V4dKrec83NybiZEXgeczY%2Bp0iY%2BE00Qh&caseno=WPMS/1044/2024&cCode=1&cino=UKHC010058492024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc789bfd35fbabd070b6f5fa3ffccd6ed14e881e72d70146e7fa2c1ef5b1a04d",
+ "fetched_at": "2026-11-02T13:05:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

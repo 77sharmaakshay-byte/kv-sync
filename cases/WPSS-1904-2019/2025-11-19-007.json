@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1904/2019:2025-11-19-007",
+ "title": "GIRISH PANT versus STATE OF UTTARAKHAND",
+ "petitioner": "GIRISH PANT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1904/2019",
+ "case_type": "WPSS",
+ "decision_date": "2025-11-19",
+ "cnr": "UKHC010124292019",
+ "doc_kind": "order",
+ "order_type": "WPSS/1904/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3hovvhVJAATOu9HE9viXdbkKhpp3Iv7FUrEOxU2oEDZ&caseno=WPSS/1904/2019&cCode=1&cino=UKHC010124292019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f336243c8199dce2d46443e8d96e88c3d5e3259906695b2329b2256df11f9f5c",
+ "fetched_at": "2026-11-02T12:33:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

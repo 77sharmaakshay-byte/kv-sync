@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/942/2026:2026-08-18-002",
+ "title": "ANIL versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/942/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010092762026",
+ "doc_kind": "order",
+ "order_type": "BA1/942/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqKnHwTxBoOeFSNAaOLyN%2FWoX9NO19Npt5SYu1ceUaNz&caseno=BA1/942/2026&cCode=1&cino=UKHC010092762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c249bd2c56296d00eea94a99e5221b0ec336fa748dfcaa1dddbc2c0a16c3ddbf",
+ "fetched_at": "2026-11-02T13:14:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

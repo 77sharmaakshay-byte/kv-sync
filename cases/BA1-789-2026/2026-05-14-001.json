@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/789/2026:2026-05-14-001",
+ "title": "MANDEEP SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MANDEEP SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/789/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-14",
+ "cnr": "UKHC010079272026",
+ "doc_kind": "order",
+ "order_type": "BA1/789/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvKG9XU4ARpmVL6eRwRaR4i6xkzsHxoecP0TOM2%2FG3w0&caseno=BA1/789/2026&cCode=1&cino=UKHC010079272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "934ed22a665c216d599303b87a730b80e49583942df0512ef3068d4ee61529d0",
+ "fetched_at": "2026-11-02T13:14:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

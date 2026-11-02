@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/65/2025:2026-09-28-005",
+ "title": "SONIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "SONIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/65/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010005462025",
+ "doc_kind": "order",
+ "order_type": "IA/2/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyptLPK8X3U7CIEoCwSXeupsW4Y5SCfvnuSnuXFYHI%2Bp&caseno=WPSS/65/2025&cCode=1&cino=UKHC010005462025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e2829f68289e433e2f35f29b4d66fcd5001730f0bb2784429eb78fa244f1b5bb",
+ "fetched_at": "2026-11-02T12:46:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

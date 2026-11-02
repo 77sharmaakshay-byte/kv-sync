@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPLA/56/2022:2022-06-24-002",
+ "title": "SANJEEV KUMAR versus MUSHTAAK",
+ "petitioner": "SANJEEV KUMAR",
+ "respondent": "MUSHTAAK",
+ "case_no": "SPLA/56/2022",
+ "case_type": "SPLA",
+ "decision_date": "2022-06-24",
+ "cnr": "UKHC010073892022",
+ "doc_kind": "order",
+ "order_type": "SPLA/56/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2BJYMwDyMz9BjDvVZLbBBh2orCMB%2FOttXOXO8GdBw%2B9K&caseno=SPLA/56/2022&cCode=1&cino=UKHC010073892022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "49ad8f816bbbd27f60b794af3dc92519b7709d58a4d46fbfeb20f352d17a8f99",
+ "fetched_at": "2026-11-02T13:17:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

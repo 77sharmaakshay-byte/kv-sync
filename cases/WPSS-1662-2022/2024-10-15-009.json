@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1662/2022:2024-10-15-009",
+ "title": "CHANDRA PAL SINGH(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDRA PAL SINGH(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1662/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-10-15",
+ "cnr": "UKHC010124032022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1662/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07KeCwnDILhMy6U%2FaHV48oC8JmURiBqHlRtbLr%2FfYeRK&caseno=WPSS/1662/2022&cCode=1&cino=UKHC010124032022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "43950a046ee2de7e2e3304ca9c38842811bae635ce8c96eb74a494d2de679e46",
+ "fetched_at": "2026-11-02T12:54:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1418/2026:2026-08-20-001",
+ "title": "AKSHAY versus STATE OF UTTARAKHAND",
+ "petitioner": "AKSHAY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1418/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010145462026",
+ "doc_kind": "order",
+ "order_type": "BA1/1418/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgSiHQaYm9dZ6SCZuexfcn1x8%2FsWaEGc31IeYKEtvD9O&caseno=BA1/1418/2026&cCode=1&cino=UKHC010145462026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5ff03ae93a6082115f30104e994f25c3087df4a2292dc4ee461431f7dba98858",
+ "fetched_at": "2026-11-02T13:13:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

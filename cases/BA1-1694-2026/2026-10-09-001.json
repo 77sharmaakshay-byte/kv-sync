@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1694/2026:2026-10-09-001",
+ "title": "SHIVA KOLI versus STATE OF UTTARAKHAND",
+ "petitioner": "SHIVA KOLI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1694/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010180102026",
+ "doc_kind": "order",
+ "order_type": "BA1/1694/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiGfgOxOht3AZk%2BRmvIZh%2FK7E69XPf9PtA8uAkNNZtBJ&caseno=BA1/1694/2026&cCode=1&cino=UKHC010180102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3fe80ebece2dfb43f351b5134fbdb645435cd931a9dfe85a49d7077eaca9ed6f",
+ "fetched_at": "2026-11-02T13:11:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/729/2026:2026-05-21-001",
+ "title": "PIYUSH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PIYUSH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/729/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-21",
+ "cnr": "UKHC010072632026",
+ "doc_kind": "order",
+ "order_type": "BA1/729/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvFhm%2FVyDKDPRxM0hLQC2phH9%2FHpC6zLoVp54yNk6i3%2B&caseno=BA1/729/2026&cCode=1&cino=UKHC010072632026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "326b65a84b4d73ff5734f2a6dd975bc660527fa600e892d2d7c413e03efe851c",
+ "fetched_at": "2026-11-02T13:13:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

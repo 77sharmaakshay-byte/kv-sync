@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/306/2026:2026-08-03-001",
+ "title": "INAMUL HAQ ALIAS AMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "INAMUL HAQ ALIAS AMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/306/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-08-03",
+ "cnr": "UKHC010129202026",
+ "doc_kind": "order",
+ "order_type": "ABA/306/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmfQhdBJc80%2BfjvTX3kPBcMe2lMpEDY3go87RwxXRla2&caseno=ABA/306/2026&cCode=1&cino=UKHC010129202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "84036d7d5d783be728a158fb30205b4e4cc09312fab82d54f6bb244fa8b28641",
+ "fetched_at": "2026-11-02T13:01:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

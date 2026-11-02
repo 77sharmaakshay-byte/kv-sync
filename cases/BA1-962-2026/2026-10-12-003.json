@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/962/2026:2026-10-12-003",
+ "title": "PRAVESH versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAVESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/962/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010093792026",
+ "doc_kind": "order",
+ "order_type": "BA1/962/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQs4zNOOTS9X%2FU4vCaqOVanPCltSEXM%2FgoDjG3bgIaNCs&caseno=BA1/962/2026&cCode=1&cino=UKHC010093792026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "43a4822cb05bf77729543a2b0cf968bfe212d2d6eae698b7aa7dba394e28e39f",
+ "fetched_at": "2026-11-02T13:14:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

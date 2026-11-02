@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2088/2023:2026-10-07-007",
+ "title": "BEER SINGH BOHRA versus STATE OF UTTARAKHAND",
+ "petitioner": "BEER SINGH BOHRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2088/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010182252023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2088/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY2kIEjoLBkbtUy9a8pcvDeb8q2hF4SuOLp33eS%2Bm6PIc&caseno=WPSS/2088/2023&cCode=1&cino=UKHC010182252023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4fd6b2cc120e1920fd181b87a74525843ec976b46f24d3b11d57396996baab06",
+ "fetched_at": "2026-11-02T12:56:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

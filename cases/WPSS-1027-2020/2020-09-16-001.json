@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1027/2020:2020-09-16-001",
+ "title": "MANJU NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "MANJU NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1027/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-09-16",
+ "cnr": "UKHC010087452020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1027/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjHRh6h5Uj1yl95CncfW8STS4udE9KzyFO8VL98olp8nM&caseno=WPSS/1027/2020&cCode=1&cino=UKHC010087452020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1d44a19cc3a4fc0df677bc60b5c15537821daacb48dcec8d156bbc585dffdb5e",
+ "fetched_at": "2026-11-02T12:46:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

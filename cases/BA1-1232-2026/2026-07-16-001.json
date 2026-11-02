@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1232/2026:2026-07-16-001",
+ "title": "SARFRAJ versus STATE OF UTTARAKHAND",
+ "petitioner": "SARFRAJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1232/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-16",
+ "cnr": "UKHC010123002026",
+ "doc_kind": "order",
+ "order_type": "BA1/1232/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm7I7vP050NQ71Lw0kUtLgya0XvSExUKijJBp813b4ir&caseno=BA1/1232/2026&cCode=1&cino=UKHC010123002026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "602e9f8c1ce23461783f40412292c4f0e8a1ec8c17bad25b0075bc49e7129b49",
+ "fetched_at": "2026-11-02T13:08:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

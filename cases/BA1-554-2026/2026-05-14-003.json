@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/554/2026:2026-05-14-003",
+ "title": "SONU versus STATE OF UTTARAKHAND",
+ "petitioner": "SONU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/554/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-14",
+ "cnr": "UKHC010054792026",
+ "doc_kind": "order",
+ "order_type": "BA1/554/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQusFwhHg6ctZPP%2FzHzA3xoO0gmj2ZS0qQff%2Bhf3w9Hqa&caseno=BA1/554/2026&cCode=1&cino=UKHC010054792026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb07cf8b4efeeb1008a013256c19b099df7cac51e7ea06f3249ecfb6751201ab",
+ "fetched_at": "2026-11-02T13:07:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3326/2026:2026-10-29-001",
+ "title": "SARJEET YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "SARJEET YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3326/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010192612026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3326/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoIr0Ooy7xkj9oYT5drU8NU6pypBFHok9b42QkIMPrwM&caseno=WPMS/3326/2026&cCode=1&cino=UKHC010192612026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "42683c108ab2604a073faa2bd1e3266aada24f9a43c7496b6ae38a08c587a59f",
+ "fetched_at": "2026-11-02T12:55:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

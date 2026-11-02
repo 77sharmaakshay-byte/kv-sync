@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/922/2026:2026-05-29-001",
+ "title": "SUNIL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SUNIL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/922/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-29",
+ "cnr": "UKHC010090782026",
+ "doc_kind": "order",
+ "order_type": "BA1/922/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsD0FDAGRa47Inz0pzIcCsZBKwneEq2FdeVGEesWGJ8W&caseno=BA1/922/2026&cCode=1&cino=UKHC010090782026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "60bbc2e4bbd7f672e9b59ac81f847f093fae4d5752d0015fdcc84b25ff793a39",
+ "fetched_at": "2026-11-02T13:10:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

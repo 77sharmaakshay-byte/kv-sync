@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/378/2026:2026-09-10-001",
+ "title": "USMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "USMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/378/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-10",
+ "cnr": "UKHC010159432026",
+ "doc_kind": "order",
+ "order_type": "ABA/378/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQguTZZ6MFPbIopFvf4V%2ByHcFq3OCfqpMhazaGaHVmwo0&caseno=ABA/378/2026&cCode=1&cino=UKHC010159432026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a556529abf7248de078e5e8e8bdd444b3064f5f63ba70d078d407c1e1590aa9a",
+ "fetched_at": "2026-11-02T12:57:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

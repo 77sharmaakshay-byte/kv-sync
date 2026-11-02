@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/65/2025:2025-01-10-001",
+ "title": "SONIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "SONIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/65/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-01-10",
+ "cnr": "UKHC010005462025",
+ "doc_kind": "order",
+ "order_type": "WPSS/65/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyptLPK8X3U7CIEoCwSXeurjHzczRMLmagDNY41cs6cF&caseno=WPSS/65/2025&cCode=1&cino=UKHC010005462025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b9bf27c95a341bb3654cf48d128f5366ac4ff01cc646f93c23c5a33f74ed004d",
+ "fetched_at": "2026-11-02T12:46:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

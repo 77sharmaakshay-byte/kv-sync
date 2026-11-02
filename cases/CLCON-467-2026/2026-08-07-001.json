@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/467/2026:2026-08-07-001",
+ "title": "UMA RANI versus RINA JOSHI",
+ "petitioner": "UMA RANI",
+ "respondent": "RINA JOSHI",
+ "case_no": "CLCON/467/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-08-07",
+ "cnr": "UKHC010138312026",
+ "doc_kind": "order",
+ "order_type": "CLCON/467/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuCMof6deh8LY2pLdFDZDIolAzuvjLRZcauCpYHwUloD&caseno=CLCON/467/2026&cCode=1&cino=UKHC010138312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "86f51528b26d89c83dad309e10109ed7611482e03968dcc4f2890c9134e40ba5",
+ "fetched_at": "2026-11-02T12:59:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

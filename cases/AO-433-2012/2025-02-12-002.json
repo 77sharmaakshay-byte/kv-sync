@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/433/2012:2025-02-12-002",
+ "title": "NATIONAL INSURANCE COMPANY LIMITED versus KM. ANUSHKA (MINOR)",
+ "petitioner": "NATIONAL INSURANCE COMPANY LIMITED",
+ "respondent": "KM. ANUSHKA (MINOR)",
+ "case_no": "AO/433/2012",
+ "case_type": "AO",
+ "decision_date": "2025-02-12",
+ "cnr": "UKHC010012612012",
+ "doc_kind": "order",
+ "order_type": "AO/433/2012",
+ "judges": [
+  "Daily Lok Adalat"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrC0nr%2BNsWxoUEpct56RR6DMH%2FzHxpB8Pb81gXnEI628v&caseno=AO/433/2012&cCode=1&cino=UKHC010012612012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d575ce22f905ac3cc7680a41cb028037b11f748e43d44572426b1a3cd6a3f724",
+ "fetched_at": "2026-11-02T12:43:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

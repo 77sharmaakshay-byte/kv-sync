@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1700/2026:2026-08-18-002",
+ "title": "SHUSHIL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SHUSHIL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1700/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010114802026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1700/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQs%2BDrsd7qnM1eG0ENSfnApu9BpRDwWUsUhkVq%2BoITFkQ&caseno=WPSS/1700/2026&cCode=1&cino=UKHC010114802026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "55fa51d2b7633acde2c247b83dc19c2c3f46432bb5a14334174a46271c9c30f0",
+ "fetched_at": "2026-11-02T12:47:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

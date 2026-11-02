@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1904/2019:2026-03-24-008",
+ "title": "GIRISH PANT versus STATE OF UTTARAKHAND",
+ "petitioner": "GIRISH PANT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1904/2019",
+ "case_type": "WPSS",
+ "decision_date": "2026-03-24",
+ "cnr": "UKHC010124292019",
+ "doc_kind": "order",
+ "order_type": "WPSS/1904/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3hovvhVJAATOu9HE9viXdaTQvUzcjXj6OlgsPIMGNH0&caseno=WPSS/1904/2019&cCode=1&cino=UKHC010124292019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0860e7038d1fab1da34e5f8bc2241e0cf67de01db62036f6570b648a56ecb434",
+ "fetched_at": "2026-11-02T12:33:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

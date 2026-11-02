@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1452/2026:2026-10-09-002",
+ "title": "SHUBHAM versus STATE OF UTTARAKHAND",
+ "petitioner": "SHUBHAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1452/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010149662026",
+ "doc_kind": "order",
+ "order_type": "BA1/1452/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqfQIHFEAlWZZd%2FvDChRjzlAY9KWs2ESbmpH5RAkEf%2B6&caseno=BA1/1452/2026&cCode=1&cino=UKHC010149662026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "aaca1beb30551613a81983a2c1b880f7e041e627d35290859c3494fb445aa7bf",
+ "fetched_at": "2026-11-02T13:13:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1345/2026:2026-08-03-001",
+ "title": "AASIF ALIAS SALMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "AASIF ALIAS SALMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1345/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-03",
+ "cnr": "UKHC010135492026",
+ "doc_kind": "order",
+ "order_type": "BA1/1345/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgD%2BLd5VIqmSTNG%2BmzfwmkgBGIIZmGbidkVHpEoRCTWq&caseno=BA1/1345/2026&cCode=1&cino=UKHC010135492026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e39aa3190d30b7e58ad4381028a947ab328edab07c01be2fd5f0e1b7e2ecbbcb",
+ "fetched_at": "2026-11-02T13:12:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

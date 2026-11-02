@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/789/2026:2026-10-14-005",
+ "title": "MANDEEP SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MANDEEP SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/789/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010079272026",
+ "doc_kind": "order",
+ "order_type": "BA1/789/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvKG9XU4ARpmVL6eRwRaR4ihfQ1yEkFAh9gnxvZHKq%2Bv&caseno=BA1/789/2026&cCode=1&cino=UKHC010079272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c9e913af1571c601fb63ece3b29e9eb9fea14130954792007cbae92c6a963c48",
+ "fetched_at": "2026-11-02T13:14:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

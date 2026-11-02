@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1967/2022:2024-01-04-002",
+ "title": "GAJENDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "GAJENDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1967/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-01-04",
+ "cnr": "UKHC010150622022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1967/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT087ldF033EU6O%2BOwrJBbJAPcg4MF3PT2Td0UXW4vpLv5&caseno=WPSS/1967/2022&cCode=1&cino=UKHC010150622022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6c8fa3080504047cb7fb73491c17bee92ea8fe9e024a8fb6ee13d972f9a37d9e",
+ "fetched_at": "2026-11-02T12:44:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

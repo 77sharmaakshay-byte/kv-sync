@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1950/2024:2026-10-07-007",
+ "title": "DEEPA DARMWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "DEEPA DARMWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1950/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010110392024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1950/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcMstOnzDhlq2V7rQ7UQSGv2JKA2qxeJxgM5U09EfbRRu&caseno=WPMS/1950/2024&cCode=1&cino=UKHC010110392024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7302d4e8b2d55ceb3b38c900ea05a63536226bc4518d7c6fd9c6411ecae3c08c",
+ "fetched_at": "2026-11-02T13:02:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

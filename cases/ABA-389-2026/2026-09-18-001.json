@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/389/2026:2026-09-18-001",
+ "title": "KAPIL NAGAR versus STATE OF UTTARAKHAND",
+ "petitioner": "KAPIL NAGAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/389/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010164752026",
+ "doc_kind": "order",
+ "order_type": "ABA/389/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk5v1m9DjYrNzdknUGiE%2Bw7M5x3akPKx9y4wVMn2r82m&caseno=ABA/389/2026&cCode=1&cino=UKHC010164752026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "030cd0a9157ac3a6a2bae94bb986fa78232e4480b013e9ccdf14077bd21e1d78",
+ "fetched_at": "2026-11-02T13:01:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

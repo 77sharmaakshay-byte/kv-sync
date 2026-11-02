@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1856/2026:2026-07-22-002",
+ "title": "ROHITASH SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ROHITASH SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1856/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-22",
+ "cnr": "UKHC010105152026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1856/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkzMuJkdrYfr4T2H4RvJmdQAQPw2GwO7Pq5ITiMTuIdm&caseno=WPMS/1856/2026&cCode=1&cino=UKHC010105152026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0d0a4ab7119f28213b428e930c91f7a26b5d718d6baa71c2ff6a1c2b42039d7e",
+ "fetched_at": "2026-11-02T13:04:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

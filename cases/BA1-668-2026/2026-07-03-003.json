@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/668/2026:2026-07-03-003",
+ "title": "VINAY SAINI versus STATE OF UTTARAKHAND",
+ "petitioner": "VINAY SAINI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/668/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-03",
+ "cnr": "UKHC010066862026",
+ "doc_kind": "order",
+ "order_type": "BA1/668/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQum1yswx8XZWEMS8fGAroFUMd8zwQghBRluYB7FaX2yA&caseno=BA1/668/2026&cCode=1&cino=UKHC010066862026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d76ffa816c8c3929c6cf2ae2e3e5bd9a8c706bc980aa7561e4ba76ceb32026b",
+ "fetched_at": "2026-11-02T13:14:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

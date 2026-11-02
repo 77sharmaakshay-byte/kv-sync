@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/114/2026:2026-08-11-002",
+ "title": "VISHAL KUMAR YADAV versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "VISHAL KUMAR YADAV",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA2/114/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010131002026",
+ "doc_kind": "order",
+ "order_type": "BA2/114/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt5yNHDDrye00j64K85phzNNK%2B21DhDZdFRvMymYAHsS&caseno=BA2/114/2026&cCode=1&cino=UKHC010131002026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ba772bb6a97b185abb99a967e45642afc328a11c5153db6ed777dc8170ead667",
+ "fetched_at": "2026-11-02T13:13:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

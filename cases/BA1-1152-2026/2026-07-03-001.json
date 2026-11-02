@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1152/2026:2026-07-03-001",
+ "title": "BADRI PRASAD versus STATE OF UTTARAKHAND",
+ "petitioner": "BADRI PRASAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1152/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-03",
+ "cnr": "UKHC010113362026",
+ "doc_kind": "order",
+ "order_type": "BA1/1152/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqqkprpyApW07%2FphxjHoZ3OGtSPqR05AP0GpHIvu7aFC&caseno=BA1/1152/2026&cCode=1&cino=UKHC010113362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a6bac562d080e19d344503eeb41b38a343ee38dbd3efa4e8bb6035fab1d1ee48",
+ "fetched_at": "2026-11-02T13:10:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2239/2022:2024-09-18-012",
+ "title": "M/S KANOHAR ELECTRICALS LTD. versus UNION OF INDIA",
+ "petitioner": "M/S KANOHAR ELECTRICALS LTD.",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMS/2239/2022",
+ "case_type": "WPMS",
+ "decision_date": "2024-09-18",
+ "cnr": "UKHC010135362022",
+ "doc_kind": "order",
+ "order_type": "IA/6/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT02XTQn1bOMYpsG66aRxH%2FTb7zPUaWSjXm6i4yqkcgMNv&caseno=WPMS/2239/2022&cCode=1&cino=UKHC010135362022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b568a8cdb947b6341adcc003e98d94535272e85f4801ea3a189ede65ee81b680",
+ "fetched_at": "2026-11-02T13:00:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

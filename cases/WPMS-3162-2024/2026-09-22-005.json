@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3162/2024:2026-09-22-005",
+ "title": "M/S R H AND ASSOCIATES PVT LTD versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S R H AND ASSOCIATES PVT LTD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3162/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010181052024",
+ "doc_kind": "order",
+ "order_type": "WPMS/3162/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJu6LuZU7%2FBAVDw9wL4z5Svk0i5vrlvXnRoAg1S87jyV&caseno=WPMS/3162/2024&cCode=1&cino=UKHC010181052024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4c52a1715d932295f1a72aa75ff12c076ebd2c6a342e655e0da0bb8dcd15d5cc",
+ "fetched_at": "2026-11-02T13:02:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

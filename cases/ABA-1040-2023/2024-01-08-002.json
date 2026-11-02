@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1040/2023:2024-01-08-002",
+ "title": "DEO RAJ TIWARI versus STATE OF UTTARAKHAND",
+ "petitioner": "DEO RAJ TIWARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1040/2023",
+ "case_type": "ABA",
+ "decision_date": "2024-01-08",
+ "cnr": "UKHC010184282023",
+ "doc_kind": "order",
+ "order_type": "ABA/1040/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6Heb2O%2F2ZTxVquE9xn5gyWCCUiql24HEokDp8m6RC1%2F&caseno=ABA/1040/2023&cCode=1&cino=UKHC010184282023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "68cd972535782f3e5754915a26496ae8ec070bfba80a1eaed5dd5e0a93af3307",
+ "fetched_at": "2026-11-02T13:00:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

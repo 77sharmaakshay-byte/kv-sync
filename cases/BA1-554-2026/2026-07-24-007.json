@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/554/2026:2026-07-24-007",
+ "title": "SONU versus STATE OF UTTARAKHAND",
+ "petitioner": "SONU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/554/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-24",
+ "cnr": "UKHC010054792026",
+ "doc_kind": "order",
+ "order_type": "BA1/554/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQusFwhHg6ctZPP%2FzHzA3xoMajUQGRs1c3izuQxx0z7NA&caseno=BA1/554/2026&cCode=1&cino=UKHC010054792026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "21cc3f7bdadbf1359c01f08f706db12130e14b946aff3acbd141cc4bee66922c",
+ "fetched_at": "2026-11-02T13:08:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/668/2026:2026-04-27-001",
+ "title": "VINAY SAINI versus STATE OF UTTARAKHAND",
+ "petitioner": "VINAY SAINI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/668/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-04-27",
+ "cnr": "UKHC010066862026",
+ "doc_kind": "order",
+ "order_type": "BA1/668/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQum1yswx8XZWEMS8fGAroFWtJ2qgA4sDDHyFQBAF5PDW&caseno=BA1/668/2026&cCode=1&cino=UKHC010066862026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9bfe5c08854e2e37fceb2c09a4152915445d56042bedd22df7f4b522cf1fd669",
+ "fetched_at": "2026-11-02T13:14:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/431/2012:2025-05-07-006",
+ "title": "NATIONAL INSURANCE COMPANY LIMITED versus HARPAL SINGH BALIYAN",
+ "petitioner": "NATIONAL INSURANCE COMPANY LIMITED",
+ "respondent": "HARPAL SINGH BALIYAN",
+ "case_no": "AO/431/2012",
+ "case_type": "AO",
+ "decision_date": "2025-05-07",
+ "cnr": "UKHC010011122012",
+ "doc_kind": "order",
+ "order_type": "AO/431/2012",
+ "judges": [
+  "Daily Lok Adalat"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrK1jYPXnqfJPgWtj17zAXDx8ZSYXymLDY80ofqhpCse3&caseno=AO/431/2012&cCode=1&cino=UKHC010011122012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "51a08253f6a8af7e8488ff0bcdb2e9a1ebada0774941bd0f2c070865088472bb",
+ "fetched_at": "2026-11-02T12:45:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

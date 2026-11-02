@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2257/2026:2026-09-07-001",
+ "title": "SHAHID HUSSAIN versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAHID HUSSAIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2257/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010150702026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2257/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkuSGu4YOLwqtnAPTr%2F4svh4f0yc2bOkpp0Xh%2BpyPsaY&caseno=WPSS/2257/2026&cCode=1&cino=UKHC010150702026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "96615958cd7b16f2f512c18480005b28e340ea18483afadee0f4146645fb1ec3",
+ "fetched_at": "2026-11-02T12:47:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

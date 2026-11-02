@@ -6,7 +6,7 @@
  "registration_number": "WPSS /860/2017",
  "registration_date": "2017-05-03",
  "first_hearing_date": "2017-08-03",
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-03",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
@@ -107,6 +107,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-10-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-13",
    "business_date": "2026-08-21",
@@ -374,6 +381,15 @@
    "order_type": "WPSS/860/2017",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxN07BNPWvdorKi2hjD4kPbRC4%2BooQi9V7%2BRaaE5wewJ&caseno=WPSS/860/2017&cCode=1&cino=UKHC010009612017&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPSS/860/2017",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxN07BNPWvdorKi2hjD4kPaSwsJCvmv1d4ciTk1cMQIq&caseno=WPSS/860/2017&cCode=1&cino=UKHC010009612017&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

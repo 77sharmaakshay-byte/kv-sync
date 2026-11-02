@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1503/2026:2026-10-29-003",
+ "title": "AJAY KULYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "AJAY KULYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1503/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010155052026",
+ "doc_kind": "order",
+ "order_type": "BA1/1503/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuYDkJXJ%2FIZL9rYvt6GbZRrdlbr%2FBsqYIj4PNQhzFDEV&caseno=BA1/1503/2026&cCode=1&cino=UKHC010155052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "354e105fa81adff8190695652cb9e8f1552b43d7a030a645a81d39dbc71ca29e",
+ "fetched_at": "2026-11-02T13:15:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

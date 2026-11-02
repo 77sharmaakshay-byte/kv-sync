@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1135/2024:2024-11-19-001",
+ "title": "KUNWAR SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "KUNWAR SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1135/2024",
+ "case_type": "ABA",
+ "decision_date": "2024-11-19",
+ "cnr": "UKHC010178952024",
+ "doc_kind": "order",
+ "order_type": "ABA/1135/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcPvq8gPSR6pujN5lWbqLg%2BTMvo%2FTLkQh99puBm5U4grR&caseno=ABA/1135/2024&cCode=1&cino=UKHC010178952024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "49bc81809c3cb2cb13e22c6332ff58da7cb9a42dd66b9cf3fe879a7870830a02",
+ "fetched_at": "2026-11-02T13:01:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

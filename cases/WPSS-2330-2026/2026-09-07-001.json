@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2330/2026:2026-09-07-001",
+ "title": "GAURAV BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "GAURAV BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2330/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010156062026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2330/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo8tc10dMfvQLZvmO%2FRsEMLTqCwyo5o6H0VFuh6CFpYx&caseno=WPSS/2330/2026&cCode=1&cino=UKHC010156062026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2fdd87a135abfdb86796af2fbd24593ff964581d943b6eaab5d56c3f73b0351f",
+ "fetched_at": "2026-11-02T12:45:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

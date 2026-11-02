@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/608/2026:2026-04-17-001",
+ "title": "MOHD IMRAN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD IMRAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/608/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-04-17",
+ "cnr": "UKHC010059502026",
+ "doc_kind": "order",
+ "order_type": "BA1/608/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmF%2FLpnYcMnQlfVVXnv0yzrBFIp26NLSorKW4v3eAOs3&caseno=BA1/608/2026&cCode=1&cino=UKHC010059502026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0657c04a232cd30707117d4e9c22172b2e553e67cd196690396ca36f4e2383ea",
+ "fetched_at": "2026-11-02T13:13:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

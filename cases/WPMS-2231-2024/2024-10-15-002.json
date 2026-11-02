@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2231/2024:2024-10-15-002",
+ "title": "HARJINDER PAL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARJINDER PAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2231/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-10-15",
+ "cnr": "UKHC010129262024",
+ "doc_kind": "order",
+ "order_type": "WPMS/2231/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJyrt9d5uMIpGKERS8GZGrQuBvQIVJ%2Bf0yumckjKfJS1&caseno=WPMS/2231/2024&cCode=1&cino=UKHC010129262024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "22d29aa526f0232740f7f35a792f1ed76fe2b109220dac7fb0e41424ffae0270",
+ "fetched_at": "2026-11-02T13:05:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

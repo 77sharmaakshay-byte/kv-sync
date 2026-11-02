@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2432/2022:2023-09-06-008",
+ "title": "ARVIND KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ARVIND KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2432/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-09-06",
+ "cnr": "UKHC010189962022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2432/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0135BwXl14H2Zym4lRjsIdoaLtlCsciImSzgCLYMqiLu&caseno=WPSS/2432/2022&cCode=1&cino=UKHC010189962022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b0810f3105ed731bd16e75744faa6d02279432f16ec3c539086bc15de99757de",
+ "fetched_at": "2026-11-02T12:46:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

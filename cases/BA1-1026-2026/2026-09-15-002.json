@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1026/2026:2026-09-15-002",
+ "title": "PUNIT KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PUNIT KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1026/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010100662026",
+ "doc_kind": "order",
+ "order_type": "BA1/1026/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpTyXpXpO1byGszAOIXjWolWb5Kubhl2O6HIEJH9Pk0n&caseno=BA1/1026/2026&cCode=1&cino=UKHC010100662026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ca11a3520ac4bebec66a0be5a1792c7d5b628f277713c5124f9c2b5257eb3ac2",
+ "fetched_at": "2026-11-02T13:12:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

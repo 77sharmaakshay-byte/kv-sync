@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/828/2023:2026-10-14-004",
+ "title": "SHAKEEL versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAKEEL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/828/2023",
+ "case_type": "ABA",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010150642023",
+ "doc_kind": "order",
+ "order_type": "ABA/828/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9MJTDBW3ntpWObK9qXSQyUxxwpGxyIH6jLjs%2FXDkGml&caseno=ABA/828/2023&cCode=1&cino=UKHC010150642023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3a878de8605cd3113cee7becc7e7d32c7ea6b5bcc902ad90c61e0a6cd5bb296b",
+ "fetched_at": "2026-11-02T12:56:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

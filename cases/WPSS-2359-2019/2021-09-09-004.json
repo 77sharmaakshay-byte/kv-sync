@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2359/2019:2021-09-09-004",
+ "title": "MANOJ SINGH versus GARHWAL MANDAL VIKAS NIGAM LTD.",
+ "petitioner": "MANOJ SINGH",
+ "respondent": "GARHWAL MANDAL VIKAS NIGAM LTD.",
+ "case_no": "WPSS/2359/2019",
+ "case_type": "WPSS",
+ "decision_date": "2021-09-09",
+ "cnr": "UKHC010166102019",
+ "doc_kind": "order",
+ "order_type": "WPSS/2359/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF8gzw0bN%2FG8y1eCWAa%2FD%2FRWCJIjErIaq2G3j8newoCbq&caseno=WPSS/2359/2019&cCode=1&cino=UKHC010166102019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b663c02d34d0ff9d5b9d1b9e316b5f2052b1c38f3397bc4a535220725d34ef1d",
+ "fetched_at": "2026-11-02T12:53:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

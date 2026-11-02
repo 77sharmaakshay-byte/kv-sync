@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/685/2023:2026-09-25-003",
+ "title": "SANDEEP KUMAR versus UNION OF INDIA",
+ "petitioner": "SANDEEP KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/685/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-25",
+ "cnr": "UKHC010067412023",
+ "doc_kind": "order",
+ "order_type": "WPSS/685/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYybw%2FZ5HCm%2Fm3bJ5ni%2FTidF9I0iYrWEmj43hdeE7KXi8&caseno=WPSS/685/2023&cCode=1&cino=UKHC010067412023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e057a1ffdb1d60b1a706c33408145148d985e4e9e7bac512afa96564e8d58f24",
+ "fetched_at": "2026-11-02T12:47:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

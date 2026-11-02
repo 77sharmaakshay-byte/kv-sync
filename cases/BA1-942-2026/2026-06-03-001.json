@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/942/2026:2026-06-03-001",
+ "title": "ANIL versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/942/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-03",
+ "cnr": "UKHC010092762026",
+ "doc_kind": "order",
+ "order_type": "BA1/942/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqKnHwTxBoOeFSNAaOLyN%2FWubfH0H0QsW%2FhwgMPpXCOV&caseno=BA1/942/2026&cCode=1&cino=UKHC010092762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3d08d9a32c964d0b75145ab3c1aa1e87ffdbbeff7ac6a591e6241eec82dfc285",
+ "fetched_at": "2026-11-02T13:14:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1251/2026:2026-06-09-002",
+ "title": "RENU versus SAGAR",
+ "petitioner": "RENU",
+ "respondent": "SAGAR",
+ "case_no": "C528/1251/2026",
+ "case_type": "C528",
+ "decision_date": "2026-06-09",
+ "cnr": "UKHC010096572026",
+ "doc_kind": "order",
+ "order_type": "C528/1251/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsrKBZcWgdJTWGqbqsjteYSCR9v0gRKHEjDXk%2FpgoZoH&caseno=C528/1251/2026&cCode=1&cino=UKHC010096572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "66b894136392833884a4e2560f7700d21a1ce141bf2ccf2291b43ffefffd0eb7",
+ "fetched_at": "2026-11-02T13:16:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

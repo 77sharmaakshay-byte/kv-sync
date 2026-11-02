@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1762/2021:2026-03-19-018",
+ "title": "SUKHBIR SINGH versus COMMISSIONER GARHWAL DIVISION",
+ "petitioner": "SUKHBIR SINGH",
+ "respondent": "COMMISSIONER GARHWAL DIVISION",
+ "case_no": "WPMS/1762/2021",
+ "case_type": "WPMS",
+ "decision_date": "2026-03-19",
+ "cnr": "UKHC010105862021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1762/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkKhEGHprDvz%2BydWzaPODe61brXce02ufWrvGchWGdiHX&caseno=WPMS/1762/2021&cCode=1&cino=UKHC010105862021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b26852a5bb054b89219d1f27a6a19510d539c189fb1df53c8c6636019513c16c",
+ "fetched_at": "2026-11-02T13:01:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

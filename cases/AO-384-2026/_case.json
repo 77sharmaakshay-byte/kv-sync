@@ -6,11 +6,11 @@
  "registration_number": "AO /384/2026",
  "registration_date": "2026-10-09",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-03",
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "Registrar (Judicial)",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -24,7 +24,7 @@
  ],
  "respondents": [
   {
-   "name": "ASHISH SAHANI   Advocate- ,SAMEER RAWAT 1123",
+   "name": "ASHISH SAHANI   Advocate- ,RAMJI SHRIVASTAVA,SAMEER RAWAT 1123",
    "advocate": ""
   }
  ],
@@ -41,7 +41,38 @@
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-10-28",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-28",
+   "business_date": "2026-10-15",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-13",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-15",
+   "order_type": "AO/384/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo%2Fy0tPHsMVXTHI6rKdWxdJlokJfv%2FGbTEfTlAFqpMcZ&caseno=AO/384/2026&cCode=1&cino=UKHC010181782026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

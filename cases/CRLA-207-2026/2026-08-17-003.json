@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/207/2026:2026-08-17-003",
+ "title": "ASHA versus STATE OF UTTARAKHAND",
+ "petitioner": "ASHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/207/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-17",
+ "cnr": "UKHC010062152026",
+ "doc_kind": "order",
+ "order_type": "CRLA/207/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjT8V%2BsLakQXcfxokg8PGo9PJBEi%2BOB92f6IkJaW2QuU&caseno=CRLA/207/2026&cCode=1&cino=UKHC010062152026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ba271d4979e9981fb0f1f247706ae755b84ab57ad8cb92a01aef8575d8e5698e",
+ "fetched_at": "2026-11-02T13:11:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

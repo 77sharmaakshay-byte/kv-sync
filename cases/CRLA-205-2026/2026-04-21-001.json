@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/205/2026:2026-04-21-001",
+ "title": "RUBI versus STATE OF UTTARAKHAND",
+ "petitioner": "RUBI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/205/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-04-21",
+ "cnr": "UKHC010062162026",
+ "doc_kind": "order",
+ "order_type": "CRLA/205/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpz%2Bc9Z0itH44AuoB76GRKzEAKattLLD3eZGOrkVegRS&caseno=CRLA/205/2026&cCode=1&cino=UKHC010062162026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5b8d2aaceb5888e05c0cc5aa9941a299160f6ce854f68438fbd50367f9b07508",
+ "fetched_at": "2026-11-02T13:07:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

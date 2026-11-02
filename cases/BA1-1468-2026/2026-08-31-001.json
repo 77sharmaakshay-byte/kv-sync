@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1468/2026:2026-08-31-001",
+ "title": "SUSHIL BARHTWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SUSHIL BARHTWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1468/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010151372026",
+ "doc_kind": "order",
+ "order_type": "BA1/1468/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqkd26rh9ET2ERwNqJ7Bm%2F5JfaG64Et9DEUGTe9nIEW1&caseno=BA1/1468/2026&cCode=1&cino=UKHC010151372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9cd39f7e1af5047900e0d59342d0ae6e2659c2211ef9643c071a32ccfa12421e",
+ "fetched_at": "2026-11-02T13:11:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1503/2026:2026-09-03-001",
+ "title": "AJAY KULYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "AJAY KULYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1503/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010155052026",
+ "doc_kind": "order",
+ "order_type": "BA1/1503/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuYDkJXJ%2FIZL9rYvt6GbZRpfSG2f0pMUS9kOhf0sq9%2BW&caseno=BA1/1503/2026&cCode=1&cino=UKHC010155052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9c7b925f8933819714732a9d73b3a183068d2c91ebc73ce9699abbc01ca189d1",
+ "fetched_at": "2026-11-02T13:15:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

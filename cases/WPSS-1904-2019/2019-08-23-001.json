@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1904/2019:2019-08-23-001",
+ "title": "GIRISH PANT versus STATE OF UTTARAKHAND",
+ "petitioner": "GIRISH PANT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1904/2019",
+ "case_type": "WPSS",
+ "decision_date": "2019-08-23",
+ "cnr": "UKHC010124292019",
+ "doc_kind": "order",
+ "order_type": "WPSS/1904/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3hovvhVJAATOu9HE9viXdY2LdujlJ1ifnvIbeIUPcLZ&caseno=WPSS/1904/2019&cCode=1&cino=UKHC010124292019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0acfdf0f7c0b872bf2958b1c1dc6da446e4c5fdfeee2bf97d621e389cd61fdee",
+ "fetched_at": "2026-11-02T12:33:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2727/2026:2026-10-28-002",
+ "title": "ARTI SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ARTI SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2727/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-28",
+ "cnr": "UKHC010188552026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2727/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQssAxgdTirLSwSglZkJet2s%2F10fiFw7%2B5koWY2gpRH%2Ba&caseno=WPSS/2727/2026&cCode=1&cino=UKHC010188552026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "05a475655a691e9d598e3d923099556f284ef724a0da4164cfda79c5c5c659c4",
+ "fetched_at": "2026-11-02T12:33:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

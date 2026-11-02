@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1031/2026:2026-09-17-002",
+ "title": "MOHAMMAD SHEHRIYAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHAMMAD SHEHRIYAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1031/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010101372026",
+ "doc_kind": "order",
+ "order_type": "BA1/1031/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu7Z%2BDfmIQUqvCDlcCTcMTt54N50iYM6Meg7p75KTZIa&caseno=BA1/1031/2026&cCode=1&cino=UKHC010101372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e0fa74671233b68eab1eb0f5a8f8b39b793e3b98c3c14d3fb07f389031639714",
+ "fetched_at": "2026-11-02T13:10:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

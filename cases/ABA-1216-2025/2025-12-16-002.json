@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/1216/2025:2025-12-16-002",
+ "title": "SUSHANT GARG versus STATE OF UTTARAKHAND",
+ "petitioner": "SUSHANT GARG",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/1216/2025",
+ "case_type": "ABA",
+ "decision_date": "2025-12-16",
+ "cnr": "UKHC010180252025",
+ "doc_kind": "order",
+ "order_type": "ABA/1216/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1fuoXnsJ99GRzdXRVinwD4jTMRg8QYZSHbmQKEhB33r&caseno=ABA/1216/2025&cCode=1&cino=UKHC010180252025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ca5a613c592bd138839e92963545c75984993696330d37259b08743874b2db87",
+ "fetched_at": "2026-11-02T12:57:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

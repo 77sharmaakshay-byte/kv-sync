@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/883/2026:2026-06-12-002",
+ "title": "KASIM versus STATE OF UTTARAKHAND",
+ "petitioner": "KASIM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/883/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-12",
+ "cnr": "UKHC010088042026",
+ "doc_kind": "order",
+ "order_type": "BA1/883/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvrMKJlJzY6GPuCAKQbTKTqAaNuc5UypZ5GFvtkurpjx&caseno=BA1/883/2026&cCode=1&cino=UKHC010088042026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3dba9034b44f6b3a23da1f6b20b6cb2afa2d591c0e498002616bc4a07807fcd7",
+ "fetched_at": "2026-11-02T13:08:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

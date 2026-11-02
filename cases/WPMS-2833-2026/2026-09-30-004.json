@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2833/2026:2026-09-30-004",
+ "title": "AYUSHI CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "AYUSHI CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2833/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010165462026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2833/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnpPQOqbsxuspDfGkqyFNBm%2Bp5GUgY%2FUoQgsX27f6%2Bxl&caseno=WPMS/2833/2026&cCode=1&cino=UKHC010165462026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8510059830df6362006ffa62c5f2b429c25f038925c606f40c3bbeb25ec98d4f",
+ "fetched_at": "2026-11-02T13:05:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

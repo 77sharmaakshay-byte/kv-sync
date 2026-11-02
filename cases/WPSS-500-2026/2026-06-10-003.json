@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/500/2026:2026-06-10-003",
+ "title": "MANGAL SINGH MATURA versus DISTRICT MAGISTRATE",
+ "petitioner": "MANGAL SINGH MATURA",
+ "respondent": "DISTRICT MAGISTRATE",
+ "case_no": "WPSS/500/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-06-10",
+ "cnr": "UKHC010024742026",
+ "doc_kind": "order",
+ "order_type": "WPSS/500/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgmXLkoV52sCfZsRFV6TWohiFiWAXiXp66r4QIrSG%2F6D&caseno=WPSS/500/2026&cCode=1&cino=UKHC010024742026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd336d944f8dc26f62d5e78ca40ab0277ee17ae71df535c204130c45cc633a72",
+ "fetched_at": "2026-11-02T12:46:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

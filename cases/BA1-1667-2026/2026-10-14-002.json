@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1667/2026:2026-10-14-002",
+ "title": "ANUJ SAGAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ANUJ SAGAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1667/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010177072026",
+ "doc_kind": "order",
+ "order_type": "BA1/1667/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlJrvzY8fwlUZ0jkM5jzxG%2BQk%2BPwQl1OQzTaV0vz3r7z&caseno=BA1/1667/2026&cCode=1&cino=UKHC010177072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7e47f88df557ed2db79e07bf022db9bf8fe9d63f0b1c45b8e5168685fc760b9d",
+ "fetched_at": "2026-11-02T13:11:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

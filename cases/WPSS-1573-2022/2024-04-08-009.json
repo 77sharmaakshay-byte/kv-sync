@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1573/2022:2024-04-08-009",
+ "title": "NANDA VALALBH(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "NANDA VALALBH(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1573/2022",
+ "case_type": "WPSS",
+ "decision_date": "2024-04-08",
+ "cnr": "UKHC010115412022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1573/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07tlehA0z0%2BJ2UAEoMzdsVpW4Ab0muinRRfAql2Dx25G&caseno=WPSS/1573/2022&cCode=1&cino=UKHC010115412022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3b7e53d786c22595fe3ac4546a7c8317f3df7de6bd2008d141e7d8d560cdbcd0",
+ "fetched_at": "2026-11-02T12:55:30+00:00",
+ "fetched_by": "fetch_live.py"
+}
