@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/16/2022:2022-04-05-001",
+ "title": "HASIM versus STATE OF UTTARAKHAND",
+ "petitioner": "HASIM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/16/2022",
+ "case_type": "CRJA",
+ "decision_date": "2022-04-05",
+ "cnr": "UKHC010041132022",
+ "doc_kind": "order",
+ "order_type": "CRJA/16/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT03zu2Rn4pS%2Fi87g4twzMgQyP3fpuiJMKT78sPDUoHZt2&caseno=CRJA/16/2022&cCode=1&cino=UKHC010041132022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "23d793d5870b23aac542687296110e6feb5e35dbf7345f7be05b6045d42deb74",
+ "fetched_at": "2026-11-03T13:54:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

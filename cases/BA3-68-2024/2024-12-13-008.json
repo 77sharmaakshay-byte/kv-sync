@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA3/68/2024:2024-12-13-008",
+ "title": "IRSHAD versus STATE OF UTTARAKHAND",
+ "petitioner": "IRSHAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA3/68/2024",
+ "case_type": "BA3",
+ "decision_date": "2024-12-13",
+ "cnr": "UKHC010152262024",
+ "doc_kind": "order",
+ "order_type": "BA3/68/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcL548vRLOHcPOewW2EjAdXKvjt4%2B5DMsPRV87WH6O6o0&caseno=BA3/68/2024&cCode=1&cino=UKHC010152262024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b70aea2105a63c75bc1a3d0887ad57b53db32c9672ca6d97a3908736d844bbf8",
+ "fetched_at": "2026-11-03T13:57:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

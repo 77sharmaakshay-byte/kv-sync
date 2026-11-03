@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA3/71/2025:2026-04-17-007",
+ "title": "HARENDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "HARENDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA3/71/2025",
+ "case_type": "BA3",
+ "decision_date": "2026-04-17",
+ "cnr": "UKHC010178212025",
+ "doc_kind": "order",
+ "order_type": "BA3/71/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm06aDqWbqJZZAs51xgDqLTqiGPI%2Bp2w4KyJ9%2FxQfvJqE&caseno=BA3/71/2025&cCode=1&cino=UKHC010178212025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7c992c54f124ac89e0cd2f92729d913cc287ad516b7211ba31cd5ac4dc111e06",
+ "fetched_at": "2026-11-03T13:57:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/42/2013:2022-03-29-009",
+ "title": "CHINNU @ KUBDA @ DEVENDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "CHINNU @ KUBDA @ DEVENDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/42/2013",
+ "case_type": "CRLA",
+ "decision_date": "2022-03-29",
+ "cnr": "UKHC010101832013",
+ "doc_kind": "order",
+ "order_type": "CRLA/42/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIcJ55b5cI9tkV8UlMDzCsXwEq3fNEHH%2FTHfjTY4QbyYm&caseno=CRLA/42/2013&cCode=1&cino=UKHC010101832013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e114a7a10ddd5d72904967850d9901c2adf13a732c97030dff457f702ec350b",
+ "fetched_at": "2026-11-03T13:53:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/320/2021:2023-05-01-002",
+ "title": "RAJPAL SINGH versus STATE OF UTTARAKHAND AND ANOTHER",
+ "petitioner": "RAJPAL SINGH",
+ "respondent": "STATE OF UTTARAKHAND AND ANOTHER",
+ "case_no": "CRLA/320/2021",
+ "case_type": "CRLA",
+ "decision_date": "2023-05-01",
+ "cnr": "UKHC010131012021",
+ "doc_kind": "order",
+ "order_type": "CRLA/320/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkGL%2FsmxGMgud5vm1xR4MnzCPjfLdkWqzNYGnEa505wuN&caseno=CRLA/320/2021&cCode=1&cino=UKHC010131012021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2514f071820d5ec9b1923b02ef74503daa837d4fc31ba7bc8fa97bb5b1cff533",
+ "fetched_at": "2026-11-03T13:58:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/16/2022:2025-03-19-007",
+ "title": "HASIM versus STATE OF UTTARAKHAND",
+ "petitioner": "HASIM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/16/2022",
+ "case_type": "CRJA",
+ "decision_date": "2025-03-19",
+ "cnr": "UKHC010041132022",
+ "doc_kind": "order",
+ "order_type": "CRJA/16/2022",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT03zu2Rn4pS%2Fi87g4twzMgQz33%2BhghoVIhB%2FTJt3otZbC&caseno=CRJA/16/2022&cCode=1&cino=UKHC010041132022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "db03d638c8674775d129f680c8b9318d784c1f79c8329451a72ebbb311e56b25",
+ "fetched_at": "2026-11-03T13:54:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,7 +6,7 @@
  "registration_number": "WPMS /2665/2022",
  "registration_date": "2022-10-21",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING -40",
  "status": "",
@@ -60,6 +60,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-10-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -409,6 +416,15 @@
    "order_type": "WPMS/2665/2022",
    "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2FXImKanrxFhvSj81xpNs4wdYUK103pqrJa5aJOxEaxH&caseno=WPMS/2665/2022&cCode=1&cino=UKHC010156492022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPMS/2665/2022",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2FXImKanrxFhvSj81xpNs4wRhKjopntalAhScueanarD&caseno=WPMS/2665/2022&cCode=1&cino=UKHC010156492022&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

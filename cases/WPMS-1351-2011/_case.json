@@ -6,7 +6,7 @@
  "registration_number": "WPMS /1351/2011",
  "registration_date": "2011-07-05",
  "first_hearing_date": "2015-09-29",
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING -40",
  "status": "",
@@ -63,6 +63,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-10-14",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-14",
    "business_date": "2026-09-21",
@@ -526,6 +533,15 @@
    "order_type": "WPMS/1351/2011",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYodrZR7GgrnlvxEf6fQISDIDhMmdWj7vRHeNzyTefHdrL&caseno=WPMS/1351/2011&cCode=1&cino=UKHC010002822011&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-14",
+   "order_type": "WPMS/1351/2011",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYodrZR7GgrnlvxEf6fQISDIA2kAr8HvZACP3cFVmNIdO7&caseno=WPMS/1351/2011&cCode=1&cino=UKHC010002822011&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/42/2026:2026-08-31-002",
+ "title": "ARJUN versus STATE OF UTTARAKHAND",
+ "petitioner": "ARJUN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/42/2026",
+ "case_type": "CRJA",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010118482026",
+ "doc_kind": "order",
+ "order_type": "CRJA/42/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjPP30GLvYPF0mmqNDf8HYQB6DSrS0NZxu9pn0%2F%2BO%2FVR&caseno=CRJA/42/2026&cCode=1&cino=UKHC010118482026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "83959b33920d5d4b7d93763c00e0377d3e98cc90d04d41c9610517725802acb0",
+ "fetched_at": "2026-11-03T13:53:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

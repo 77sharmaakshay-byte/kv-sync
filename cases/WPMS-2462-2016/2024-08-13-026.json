@@ -2,8 +2,8 @@
  "court": "UKHC",
  "source": "uk-live",
  "source_key": "ukhc-live:WPMS/2462/2016:2024-08-13-026",
- "title": "DAULAT RAM versus GOVIND SINGH",
- "petitioner": "DAULAT RAM",
+ "title": "DAULAT RAM(Legal Heir) versus GOVIND SINGH",
+ "petitioner": "DAULAT RAM(Legal Heir)",
  "respondent": "GOVIND SINGH",
  "case_no": "WPMS/2462/2016",
  "case_type": "WPMS",
@@ -14,9 +14,9 @@
  "judges": [
   "Hon'ble Mr. Justice Vivek Bharti Sharma"
  ],
- "case_status": "FOR FINAL HEARING -40",
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
  "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjXorIU%2FtpS8%2Bsn%2F%2Bj%2FW0EtO&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
  "sha256": "1d8e182c0bee5ca0f0b09d94202f009ecb3252c5a8a6377f11091b24692ca048",
- "fetched_at": "2026-10-25T06:13:58+00:00",
+ "fetched_at": "2026-11-03T13:49:47+00:00",
  "fetched_by": "fetch_live.py"
 }

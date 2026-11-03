@@ -2,8 +2,8 @@
  "court": "UKHC",
  "source": "uk-live",
  "source_key": "ukhc-live:WPMS/2462/2016:2023-01-02-025",
- "title": "DAULAT RAM versus GOVIND SINGH",
- "petitioner": "DAULAT RAM",
+ "title": "DAULAT RAM(Legal Heir) versus GOVIND SINGH",
+ "petitioner": "DAULAT RAM(Legal Heir)",
  "respondent": "GOVIND SINGH",
  "case_no": "WPMS/2462/2016",
  "case_type": "WPMS",
@@ -12,9 +12,9 @@
  "doc_kind": "order",
  "order_type": "WPMS/2462/2016",
  "judges": null,
- "case_status": "FOR FINAL HEARING -40",
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
  "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVpjRTFwrALLofv4rplnnCm&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
  "sha256": "2c76cf41fafbb5dced2d6c8bb30c78f4038b33608a4b2e229d6c990f395353c8",
- "fetched_at": "2026-10-25T06:13:58+00:00",
+ "fetched_at": "2026-11-03T13:49:46+00:00",
  "fetched_by": "fetch_live.py"
 }

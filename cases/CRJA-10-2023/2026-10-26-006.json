@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/10/2023:2026-10-26-006",
+ "title": "SONU versus STATE OF UTTARAKHAND",
+ "petitioner": "SONU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/10/2023",
+ "case_type": "CRJA",
+ "decision_date": "2026-10-26",
+ "cnr": "UKHC010005502023",
+ "doc_kind": "order",
+ "order_type": "CRJA/10/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY2p4jK7lgENcoGIqa%2BUss4gng88I%2BoE05jbSP0ezBvqH&caseno=CRJA/10/2023&cCode=1&cino=UKHC010005502023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "873d4fbb663aeb9038371f905c5e2d835a19d3479090ddfb1f73a039e8ae30da",
+ "fetched_at": "2026-11-03T13:52:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

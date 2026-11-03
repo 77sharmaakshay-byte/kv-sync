@@ -1,0 +1,59 @@
+{
+ "cnr_number": "UKHC010197712026",
+ "case_type": "ABA",
+ "filing_number": "ABA /9540/2026",
+ "filing_date": "2026-11-02",
+ "registration_number": "ABA /453/2026",
+ "registration_date": "2026-11-02",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-04",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Almora",
+ "petitioners": [
+  {
+   "name": "RUBY RAWAT",
+   "advocate": "SAIF HAMEED,VISHWA PRAKASH BAHUGUNA,VISHWA PRAKASH BAHUGUNA, ,VISHWA PRAKASH BAHUGUNA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "STATION HOUSE OFFICER PS RANIKHET",
+   "advocate": "G.A."
+  },
+  {
+   "name": "VIMAL KISHOR BHATT",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "316(5), 318(4), 3(5)"
+  },
+  {
+   "act": "Banning of Unregulated Deposit Schemes Act, 2019 (Act No. 21 of 2019)",
+   "sections": "3/21(3)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

@@ -6,7 +6,7 @@
  "registration_number": "WPMS /1344/2015",
  "registration_date": "2015-06-15",
  "first_hearing_date": "2015-06-29",
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
  "case_stage": "ADMISSION MATTERS -25",
  "status": "",
@@ -51,6 +51,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-10-14",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-09-07",
    "business_date": "2026-08-12",
@@ -524,6 +531,15 @@
    "order_type": "WPMS/1344/2015",
    "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWXOqZY0h08JUwb2sRXNIrVy50MvFZex7z01j8Ax%2FAD4b&caseno=WPMS/1344/2015&cCode=1&cino=UKHC010016772015&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-14",
+   "order_type": "WPMS/1344/2015",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWXOqZY0h08JUwb2sRXNIrVypKduQTLkD7ypgRmqL%2Besr&caseno=WPMS/1344/2015&cCode=1&cino=UKHC010016772015&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

@@ -6,7 +6,7 @@
  "registration_number": "CRLA /291/2022",
  "registration_date": "2022-08-01",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-27",
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING (AFTER FRESH) -45",
  "status": "",
@@ -39,6 +39,13 @@
    "hearing_date": "2022-08-02",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-10-27",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
    "judge": "",
    "cause_list_type": "DAILY CAUSE LIST"
   },
@@ -300,6 +307,15 @@
    "order_type": "CRLA/291/2022",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01p1w%2FQ9CzB56w8veLgpWDSMjN1XF9l4%2B0fOU7cbU%2Fhr&caseno=CRLA/291/2022&cCode=1&cino=UKHC010111262022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-27",
+   "order_type": "CRLA/291/2022",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01p1w%2FQ9CzB56w8veLgpWDRjLboT%2Fa6WnJL%2FQulmJXhk&caseno=CRLA/291/2022&cCode=1&cino=UKHC010111262022&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

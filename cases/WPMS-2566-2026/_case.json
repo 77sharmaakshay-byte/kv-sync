@@ -1,0 +1,81 @@
+{
+ "cnr_number": "UKHC010149382026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /7729/2026",
+ "filing_date": "2026-08-19",
+ "registration_number": "WPMS /2566/2026",
+ "registration_date": "2026-08-19",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-04",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "",
+ "district": "",
+ "petitioners": [
+  {
+   "name": "ESHA SHAH",
+   "advocate": "AWANISH UPADHYAYA,KARTHIK JAYASHANKAR,KARTHIK JAYASHANKAR, ,KARTHIK JAYASHANKAR"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  },
+  {
+   "name": "EXCISE COMMISSIONER",
+   "advocate": ""
+  },
+  {
+   "name": "JOINT EXCISE COMMISSIONER",
+   "advocate": ""
+  },
+  {
+   "name": "DISTRICT MAGISTRATE",
+   "advocate": ""
+  },
+  {
+   "name": "DISTRICT EXCISE OFFICER",
+   "advocate": ""
+  },
+  {
+   "name": "DEEP CHANDRA JOSHI",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-20",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-28",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-20",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/802/2024:2025-12-29-003",
+ "title": "VIJAY SINGH versus BUDH SINGH",
+ "petitioner": "VIJAY SINGH",
+ "respondent": "BUDH SINGH",
+ "case_no": "WPMS/802/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-12-29",
+ "cnr": "UKHC010041602024",
+ "doc_kind": "order",
+ "order_type": "WPMS/802/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcO5ZELEUyHVsCIJPSMmSA6cuHpqJH3HzEo9SIoonbEv4&caseno=WPMS/802/2024&cCode=1&cino=UKHC010041602024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "475e55e813e13360d4e94702402b0a58ea96f47bb47f1fa8ca3c4740286f69ff",
+ "fetched_at": "2026-11-03T13:57:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:GA/35/2026:2026-10-27-001",
+ "title": "STATE OF UTTARAKHAND versus AMJAD ALI",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "AMJAD ALI",
+ "case_no": "GA/35/2026",
+ "case_type": "GA",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010055832026",
+ "doc_kind": "order",
+ "order_type": "GA/35/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -255",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn%2F1n8vX4E%2B9u7XxfY7z%2FjrGTyVuwR8LpBCX45%2B%2FlOAK&caseno=GA/35/2026&cCode=1&cino=UKHC010055832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2878d2578dbc035764cfeee1363757d58943ef2ecd2863f85e6e504cf8a2073f",
+ "fetched_at": "2026-11-03T13:53:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

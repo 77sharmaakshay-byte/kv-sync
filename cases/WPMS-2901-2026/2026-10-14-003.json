@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2901/2026:2026-10-14-003",
+ "title": "ATEEK KHAN versus FACTORY MANAGER",
+ "petitioner": "ATEEK KHAN",
+ "respondent": "FACTORY MANAGER",
+ "case_no": "WPMS/2901/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010167752026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2901/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgSuZZAT8Fo%2F7YT8ni1YI%2FPdlJB7TB%2FhxERMSsswotEU&caseno=WPMS/2901/2026&cCode=1&cino=UKHC010167752026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f837295bd3dec4d61e8779a2331bb2f7256f2c01f59512b05fabed220fb1d167",
+ "fetched_at": "2026-11-03T13:56:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

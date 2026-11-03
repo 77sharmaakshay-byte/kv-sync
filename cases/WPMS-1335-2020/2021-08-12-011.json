@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1335/2020:2021-08-12-011",
+ "title": "M/S V L C C PERSONAL CARE LTD. I I E SIDCUL versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S V L C C PERSONAL CARE LTD. I I E SIDCUL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1335/2020",
+ "case_type": "WPMS",
+ "decision_date": "2021-08-12",
+ "cnr": "UKHC010077302020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1335/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjAHevYpuy9WmenNwSuySEHugx3KOLbMCjcldgiQisAgh&caseno=WPMS/1335/2020&cCode=1&cino=UKHC010077302020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2a7b84193f710bea4ce1e1dc9343d73765ec2fcaf9084491f8adf5adc74e266c",
+ "fetched_at": "2026-11-03T13:49:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

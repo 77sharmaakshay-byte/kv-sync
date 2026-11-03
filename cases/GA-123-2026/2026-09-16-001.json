@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:GA/123/2026:2026-09-16-001",
+ "title": "STATE OF UTTARAKHAND versus MATBAR SINGH",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "MATBAR SINGH",
+ "case_no": "GA/123/2026",
+ "case_type": "GA",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010162102026",
+ "doc_kind": "order",
+ "order_type": "GA/123/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkE2ZDQ5YME7JW7NRQXGxYz7qW9l76YyhBur1ySRQHPl&caseno=GA/123/2026&cCode=1&cino=UKHC010162102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "47fb513ff2d038af07e3e9fb90f205520f0df91631c67c0d5bd6b33550c85e75",
+ "fetched_at": "2026-11-03T13:49:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

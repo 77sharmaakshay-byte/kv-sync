@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/42/2013:2014-04-21-006",
+ "title": "CHINNU @ KUBDA @ DEVENDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "CHINNU @ KUBDA @ DEVENDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/42/2013",
+ "case_type": "CRLA",
+ "decision_date": "2014-04-21",
+ "cnr": "UKHC010101832013",
+ "doc_kind": "order",
+ "order_type": "CRLA/42/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIcJ55b5cI9tkV8UlMDzCsXxU52sUsZ9l1yU4Y4AKhbUM&caseno=CRLA/42/2013&cCode=1&cino=UKHC010101832013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2a8d236994e8cd75571de8b1361ad67c4877237185445a19f3f5016c886be69e",
+ "fetched_at": "2026-11-03T13:53:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

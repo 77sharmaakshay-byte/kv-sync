@@ -6,11 +6,11 @@
  "registration_number": "WPMS /2462/2016",
  "registration_date": "2016-09-03",
  "first_hearing_date": "2016-12-02",
- "next_hearing_date": "2026-10-27",
+ "next_hearing_date": "2026-11-04",
  "decision_date": null,
- "case_stage": "FOR FINAL HEARING -40",
+ "case_stage": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
  "status": "",
- "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "coram": "Registrar (Judicial)",
  "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -18,8 +18,20 @@
  "district": "Pauri Garhwal",
  "petitioners": [
   {
-   "name": "DAULAT RAM",
+   "name": "DAULAT RAM(Legal Heir)",
    "advocate": "SIDDHARTHA SINGH,D S NEGI,D S NEGI, ,P. S. BISHT,KSHITIJ SAH,D S NEGI"
+  },
+  {
+   "name": "SMT KANTI",
+   "advocate": ""
+  },
+  {
+   "name": "VIJAY",
+   "advocate": ""
+  },
+  {
+   "name": "KAMAL",
+   "advocate": ""
   }
  ],
  "respondents": [
@@ -47,6 +59,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-12-18",
+   "business_date": "2026-10-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-27",
    "business_date": "2026-10-06",
@@ -687,6 +706,15 @@
    "order_type": "WPMS/2462/2016",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjVgOm0xKky6RK5gIMaUiWhW&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-27",
+   "order_type": "WPMS/2462/2016",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBYFQKrdPTfHmDGIB%2B4dXdjXwzj6OLKZPXJ34ieWpy%2Fdq&caseno=WPMS/2462/2016&cCode=1&cino=UKHC010024072016&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

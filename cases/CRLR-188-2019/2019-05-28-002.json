@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/188/2019:2019-05-28-002",
+ "title": "ASHU DHIMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "ASHU DHIMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/188/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-05-28",
+ "cnr": "UKHC010057772019",
+ "doc_kind": "order",
+ "order_type": "CRLR/188/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFz0k57Tw6b7rjU9Lli9rMf17oPGPwtUgmVsacejqzMvu&caseno=CRLR/188/2019&cCode=1&cino=UKHC010057772019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a2713fddd5197e976467fbbb61abceacba5a9dd98879acdf759e6ff372e06496",
+ "fetched_at": "2026-11-03T13:58:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

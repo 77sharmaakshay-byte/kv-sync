@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/268/2026:2026-08-24-002",
+ "title": "RAJAT versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/268/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-08-24",
+ "cnr": "UKHC010114202026",
+ "doc_kind": "order",
+ "order_type": "ABA/268/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsX0Zr0P2KVTA%2FtAwivDpAvt86WOT82TQWHxrWH3dMLm&caseno=ABA/268/2026&cCode=1&cino=UKHC010114202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "262023daf4047d04bf2b33741bb9ab1b42ae8f5341f27e901a3c08539061e6e5",
+ "fetched_at": "2026-11-03T13:50:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

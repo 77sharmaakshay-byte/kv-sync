@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/42/2013:2023-10-05-014",
+ "title": "CHINNU @ KUBDA @ DEVENDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "CHINNU @ KUBDA @ DEVENDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/42/2013",
+ "case_type": "CRLA",
+ "decision_date": "2023-10-05",
+ "cnr": "UKHC010101832013",
+ "doc_kind": "order",
+ "order_type": "CRLA/42/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIcJ55b5cI9tkV8UlMDzCsXzjsw%2FPq5SRDEzrGxSZkh2V&caseno=CRLA/42/2013&cCode=1&cino=UKHC010101832013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "948e44d2e2b6e401d3d52373434841d1f726522fcb47fe5f9424721d36fdd156",
+ "fetched_at": "2026-11-03T13:53:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

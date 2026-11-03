@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2195/2025:2026-02-17-003",
+ "title": "S S DANG versus TARACHAND JOSHI",
+ "petitioner": "S S DANG",
+ "respondent": "TARACHAND JOSHI",
+ "case_no": "WPMS/2195/2025",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-17",
+ "cnr": "UKHC010112232025",
+ "doc_kind": "order",
+ "order_type": "WPMS/2195/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4Iyuz5lOwDxW%2FsmBtKi7x4GOpUtF%2FdBL%2Fz8wKfWpUVl&caseno=WPMS/2195/2025&cCode=1&cino=UKHC010112232025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8c91ab123a8625f46e412382ca25ad9fed5836f4365ec246187bb210286eb830",
+ "fetched_at": "2026-11-03T13:57:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

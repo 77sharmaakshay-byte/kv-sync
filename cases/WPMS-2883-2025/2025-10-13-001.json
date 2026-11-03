@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2883/2025:2025-10-13-001",
+ "title": "MS AJAY PLASTIC versus CENTRAL BANK OF INDIA",
+ "petitioner": "MS AJAY PLASTIC",
+ "respondent": "CENTRAL BANK OF INDIA",
+ "case_no": "WPMS/2883/2025",
+ "case_type": "WPMS",
+ "decision_date": "2025-10-13",
+ "cnr": "UKHC010159682025",
+ "doc_kind": "order",
+ "order_type": "WPMS/2883/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5Z4yFxCmkS5OnPz3Qyo9ExQYUlnrLXLXrBMcTsGb1%2Fh&caseno=WPMS/2883/2025&cCode=1&cino=UKHC010159682025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1ae4e607b8719fc3ce48cebbda5ebcf93896c4e126ea2f8b0ef3c636c8d2000d",
+ "fetched_at": "2026-11-03T13:49:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

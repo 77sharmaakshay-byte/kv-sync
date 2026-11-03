@@ -6,9 +6,9 @@
  "registration_number": "GA /35/2026",
  "registration_date": "2026-04-08",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-27",
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "Order on Applications (Time Barred Cases) -255",
  "status": "",
  "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
  "bench_type": "Division Bench",
@@ -54,6 +54,24 @@
    "sections": "3/4"
   }
  ],
- "history": [],
- "orders": []
+ "history": [
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-27",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-10-27",
+   "order_type": "GA/35/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn%2F1n8vX4E%2B9u7XxfY7z%2FjrGTyVuwR8LpBCX45%2B%2FlOAK&caseno=GA/35/2026&cCode=1&cino=UKHC010055832026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

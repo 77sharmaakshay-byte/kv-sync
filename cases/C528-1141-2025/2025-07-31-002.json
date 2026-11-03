@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1141/2025:2025-07-31-002",
+ "title": "HEM CHANDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "HEM CHANDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/1141/2025",
+ "case_type": "C528",
+ "decision_date": "2025-07-31",
+ "cnr": "UKHC010108212025",
+ "doc_kind": "order",
+ "order_type": "C528/1141/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1cvGAYbBid6zYsJti0wKwqxoFjNnH8LLekXQ5sJ1EPI&caseno=C528/1141/2025&cCode=1&cino=UKHC010108212025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d901910e0d7ec576d520fb036fffd3b775ccc1803950f9803efc6b9ba724f380",
+ "fetched_at": "2026-11-03T13:58:39+00:00",
+ "fetched_by": "fetch_live.py"
+}
