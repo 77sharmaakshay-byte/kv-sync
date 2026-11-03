@@ -32,7 +32,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Kaggle CLI
-        run: pip install --quiet --upgrade kaggle
+        run: pip install --quiet --upgrade kaggle six   # kaggle 1 Nov se six bhool gaya (ModuleNotFoundError)
       - name: Token
         env:
           SECRET: ${{ secrets.KRISHIVLAW }}

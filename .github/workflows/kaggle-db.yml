@@ -42,7 +42,7 @@ jobs:
           python-version: '3.12'
           cache: pip
       - name: Python packages
-        run: pip install --quiet -r requirements.txt kaggle
+        run: pip install --quiet -r requirements.txt kaggle six   # kaggle 1 Nov se six bhool gaya
       - name: Kaggle token
         env:
           SECRET: ${{ secrets.KRISHIVLAW }}

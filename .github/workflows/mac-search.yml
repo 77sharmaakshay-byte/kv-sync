@@ -42,7 +42,7 @@ jobs:
           V="$HOME/actions-runner/kl-venv"
           [ -x "$V/tools/bin/uv" ] || { python3 -m venv "$V/tools" && "$V/tools/bin/python" -m pip install -q --upgrade pip uv; }
           "$V/tools/bin/uv" venv -q --allow-existing --python 3.12 "$V/live"
-          "$V/tools/bin/uv" pip install -q --python "$V/live/bin/python" kaggle
+          "$V/tools/bin/uv" pip install -q --python "$V/live/bin/python" kaggle six
           echo "PY=$V/live/bin/python" >> "$GITHUB_ENV"; echo "$V/live/bin" >> "$GITHUB_PATH"
           "$V/live/bin/python" -c "import sqlite3; c=sqlite3.connect(':memory:'); c.execute('create virtual table t using fts5(x)'); print('fts5 ok', sqlite3.sqlite_version)"
       - name: Kaggle token
