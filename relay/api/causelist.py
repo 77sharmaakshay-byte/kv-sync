@@ -59,12 +59,16 @@ def kick():
 COURT_SITES = ("https://ehcr.uk.gov.in/", "https://highcourtofuttarakhand.in/", "https://www.highcourtofuttarakhand.in/")
 
 
-def page(url):
-    """Sirf court ki sites (khula proxy nahi); _ehcr ka opener: purane TLS ki chhoot + browser jaisa User-Agent."""
-    if not url.startswith(COURT_SITES):
+def page(url, pre=None):
+    """Sirf court ki sites (khula proxy nahi); _ehcr ka opener: purane TLS ki chhoot + browser jaisa User-Agent.
+    pre = pehle yeh page usi session mein (jaise live streaming ka setSession.php, 'I Agree' ke baad)."""
+    if not url.startswith(COURT_SITES) or (pre and not pre.startswith(COURT_SITES)):
         return 400, "application/json", b'{"ok": false, "error": "sirf court ki site"}'
     try:
-        with _ehcr.opener().open(url, timeout=60) as r:
+        op = _ehcr.opener()
+        if pre:
+            op.open(pre, timeout=60).read()
+        with op.open(url, timeout=60) as r:
             return r.status, r.headers.get("Content-Type", "text/html"), r.read()
     except urllib.error.HTTPError as e:
         return e.code, "text/plain", e.read()
@@ -79,7 +83,7 @@ class handler(BaseHTTPRequestHandler):
             return self.reply(401, "application/json", b'{"ok": false, "error": "chaabi galat"}')
         q = urllib.parse.parse_qs(urllib.parse.urlparse(self.path).query)
         if "url" in q:
-            return self.reply(*page(q["url"][0]))
+            return self.reply(*page(q["url"][0], (q.get("pre") or [None])[0]))
         if "kick=" in self.path:
             res = kick()
             print(json.dumps(res))
