@@ -2,7 +2,7 @@
 (function () {
   'use strict';
   var view = document.getElementById('view');
-  var cache = { index: null, lists: {}, cases: {}, khoj: null, config: null, search: undefined };
+  var cache = { index: null, lists: {}, cases: {}, khoj: null, api: undefined, search: undefined };
   var WEEK = ['Ravivaar', 'Somvaar', 'Mangalvaar', 'Budhvaar', 'Guruvaar', 'Shukravaar', 'Shanivaar'];
   var MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -74,7 +74,6 @@
   function benchText(c) { return (c.court_no ? c.judges.join(' + ') : '') + (c.judges.length > 1 ? ' · Division Bench' : ''); }
   var NAV = {
     home: ['#/', 'Aaj', '<path d="M4 11l8-7 8 7v9h-5v-6H9v6H4z"/>'],
-    live: ['#/live', 'Live', '<rect x="3" y="5" width="18" height="13" rx="2"/><path d="M10 9l5 2.5-5 2.5z"/>'],
     mycase: ['#/', 'Mera case', '<path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5M9 13h6M9 17h4"/>'],
     khoj: ['#/khoj', 'Khoj', '<circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/>'],
     list: ['#/list', 'Cause list', '<rect x="4" y="5" width="16" height="15" rx="2"/><path d="M8 3v4M16 3v4M4 10h16"/>'],
@@ -83,7 +82,7 @@
   };
   function role() { return store('ns-role') || (store('ns-name') ? 'advocate' : null); } // purane users: naam hai to advocate
   function drawNav() {
-    var tabs = role() === 'party' ? ['mycase', 'khoj', 'list', 'settings'] : ['home', 'live', 'list', 'khoj', 'mine', 'settings'];
+    var tabs = role() === 'party' ? ['mycase', 'khoj', 'list', 'settings'] : ['home', 'list', 'khoj', 'mine', 'settings'];
     var nav = document.querySelector('.nav');
     nav.hidden = !role();
     nav.innerHTML = tabs.map(function (t) {
@@ -514,94 +513,6 @@
     }).join(' · ') + '</p>';
   }
 
-  // ---------- Live: court ka display board (kaunse court mein abhi kaunsa item) + court ki live streaming ----------
-  // Board court ki site (ehcr) se aata hai, jo sirf India se khulti hai — isliye India server (config.json 'board').
-  // Play = court ki apni live streaming ka page (CJ aur Court 1-7); pehli baar wahan "I Agree" dabana hota hai.
-  var STREAM = 'https://highcourtofuttarakhand.in/';
-  var liveTimer = null;
-  function streamUrl(board) {
-    if (board === 'CJ Court') return STREAM + 'live.php';
-    var m = /^Court No (\d+)$/.exec(board || '');
-    return m && +m[1] >= 1 && +m[1] <= 7 ? STREAM + 'live' + m[1] + '.php' : '';
-  }
-  function boardName(c) { // cause list ki court -> display board ka naam
-    if (c.court_no) return 'Court No ' + c.court_no;
-    return c.judges.some(function (j) { return /chief justice/i.test(j); }) ? 'CJ Court' : '';
-  }
-  function boardItem(now) { var m = /^D(\d+)$/.exec(now || ''); return m ? +m[1] : null; } // 'D20' = daily list ka item 20
-  function playBtn(board) {
-    var u = streamUrl(board);
-    return u ? '<a class="btn play" href="' + u + '" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true">' +
-      '<path d="M8 5l11 7-11 7z"/></svg>' + esc(board === 'CJ Court' ? 'CJ Court' : board.replace('Court No ', 'Court ')) + ' live</a>' : '';
-  }
-  function nowChip(b) {
-    if (!b || (!b.now && !b.msg)) return '<span class="chip">Abhi nahi baitha</span>';
-    return (b.now ? '<span class="chip brand">Abhi: ' + esc(b.now) + '</span>' : '') + (b.msg ? '<span class="chip blue">' + esc(b.msg) + '</span>' : '');
-  }
-  function liveMine(data, board, name) { // aaj ki list mein mere cases, court-wise, board ke saath
-    var ws = words(name), html = '';
-    data.courts.forEach(function (c) {
-      var rows = c.entries.filter(function (e) { return hit(e, ws); });
-      if (!rows.length) return;
-      var bn = boardName(c), b = board && board.courts.filter(function (x) { return x.court === bn; })[0], now = boardItem(b && b.now);
-      html += '<section class="court"><div class="court-h"><div><strong>' + esc(courtName(c)) + '</strong><span>' + esc(benchText(c)) +
-        '</span></div><div class="chips">' + (board ? nowChip(b) : '') + '</div></div>' +
-        rows.map(function (e) {
-          var n = parseInt(e.item, 10), st = '';
-          if (now != null && !isNaN(n)) {
-            st = n === now ? '<span class="chip good">Abhi chal raha</span>' : n < now ? '<span class="chip">Nikal gaya?</span>' :
-              '<span class="chip ' + (n - now <= 5 ? 'warn' : 'blue') + '">' + (n - now) + ' case baad</span>';
-          }
-          return '<a class="row" href="#/case/' + esc(caseId(e.case_no)) + '"><span class="item">' + esc(e.item) + '</span><span class="body">' +
-            '<span class="no">' + esc(e.case_no || '') + '</span><span class="party">' + esc([e.pet, e.res].filter(Boolean).join(' v. ')) +
-            '</span><span class="chips">' + st + '</span></span></a>';
-        }).join('') + (bn && streamUrl(bn) ? '<div class="ft">' + playBtn(bn) + '</div>' : '') + '</section>';
-    });
-    return html;
-  }
-  function viewLive() {
-    setTab('live');
-    if (liveTimer) { clearInterval(liveTimer); liveTimer = null; }
-    var name = store('ns-name') || '';
-    render('<header class="hero"><div class="kicker">Nainital High Court</div><h1>Live court</h1>' +
-      '<div class="sub" id="live-ts">Display board la rahe hain…</div></header><div class="pad" id="live"></div>');
-    var t = new Date(), pad = function (n) { return (n < 10 ? '0' : '') + n; };
-    var today = t.getFullYear() + '-' + pad(t.getMonth() + 1) + '-' + pad(t.getDate());
-    Promise.all([config(), index()]).then(function (r) {
-      var cfg = r[0], idx = r[1];
-      var todays = (idx.allDates || idx.dates).indexOf(today) >= 0 ? list(today).catch(function () { return null; }) : Promise.resolve(null);
-      return todays.then(function (data) {
-        function draw(board) {
-          var box = document.getElementById('live'), ts = document.getElementById('live-ts');
-          if (!box) return;
-          ts.textContent = board ? 'Display board · ' + (board.timestamp || '').split(' ').pop() + ' · har 20 second naya' :
-            'Display board abhi nahi khula — thodi der mein phir koshish';
-          var mine = data && name ? liveMine(data, board, name) : '';
-          var all = board ? board.courts.filter(function (b) { return b.now || b.msg || streamUrl(b.court); }).map(function (b) {
-            return '<div class="row"><span class="item">' + esc(b.court === 'CJ Court' ? 'CJ' : b.court.replace(/^Court No /, '')) + '</span>' +
-              '<span class="body"><span class="no">' + esc(b.court) + '</span><span class="chips">' + nowChip(b) + '</span>' +
-              playBtn(b.court) + '</span></div>';
-          }).join('') : '';
-          box.innerHTML = (name ? '<span class="lbl brand">Aaj mere cases</span>' + (mine || '<div class="empty">' + (data ?
-            'Aaj ki list mein "' + esc(name) + '" nahi mila.' : 'Aaj ki cause list nahi hai (chhutti?).') + '</div>') :
-            '<div class="empty">"Main" tab mein apna naam likho; phir aapke cases yahan court ke saath dikhenge.</div>') +
-            (all ? '<span class="lbl">Saare court</span><section class="court">' + all + '</section>' : '') +
-            '<p class="muted">Board court ki site se; thodi der ho sakti hai, court mein confirm karein. "Live" court ki apni streaming kholta hai ' +
-            '(pehli baar "I Agree"). Court ke niyam: recording ya share karna mana hai.</p>';
-        }
-        function tick() {
-          if (cur.indexOf('#/live') !== 0) { clearInterval(liveTimer); liveTimer = null; return; }
-          if (document.hidden) return;
-          if (!cfg.board) return draw(null);
-          fetch(cfg.board, { cache: 'no-store' }).then(function (res) { return res.json(); })
-            .then(function (b) { draw(b && b.ok ? b : null); }, function () { draw(null); });
-        }
-        tick();
-        liveTimer = setInterval(tick, 20000);
-      });
-    }).catch(fail);
-  }
-
   // ---------- Cause list ----------
   function viewList(params) {
     setTab('list');
@@ -681,11 +592,10 @@
 
   // ---------- Case ----------
   // ---------- 'Abhi vishleshan karo': GitHub par record + vishleshan (scripts/maango_api.py ke zariye) ----------
-  function config() {
-    return cache.config ? Promise.resolve(cache.config) :
-      getJSON('config.json').then(function (d) { return (cache.config = d); }, function () { return (cache.config = {}); });
+  function apiUrl() {
+    return cache.api !== undefined ? Promise.resolve(cache.api) :
+      getJSON('config.json').then(function (d) { return (cache.api = d.api || ''); }, function () { return (cache.api = ''); });
   }
-  function apiUrl() { return config().then(function (d) { return d.api || ''; }); }
   function maangoCard(no, what) {
     var t = +store('ns-maango-' + caseId(no)) || 0, recent = Date.now() - t < 3 * 3600 * 1000;
     return '<div class="card key" id="maango"><span class="lbl brand">' + esc(what) + '</span>' +
@@ -982,7 +892,6 @@
     if (path === '/start') return viewStart();
     if (path === '/' || path === '') return role() === 'party' ? viewMyCase() : viewHome();
     if (path === '/list') return viewList(params);
-    if (path === '/live') return viewLive();
     if (path === '/khoj') return viewKhoj();
     if (path.indexOf('/khoj/t/') === 0) return viewKhojTopic(path.slice(8));
     if (path.indexOf('/kj/') === 0) return viewKhojJudgment(path.slice(4), params);
