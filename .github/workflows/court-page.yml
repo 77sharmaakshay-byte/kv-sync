@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: 'Page ka poora URL (sirf court ki site)'
+        description: 'Page ka poora URL (sirf court ki site); "board" = app wala display board'
         default: 'https://ehcr.uk.gov.in/displayboard.php'
       pre:
         description: 'Pehle yeh page usi session mein (khaali = nahi), jaise https://highcourtofuttarakhand.in/setSession.php'
@@ -29,6 +29,7 @@ jobs:
         run: |
           URL=$(gh api "repos/${{ github.repository }}/contents/state/india_url?ref=data" -H "Accept: application/vnd.github.raw")
           KEY=$(printf 'nyay-india:%s' "$T" | sha256sum | cut -c1-40); echo "::add-mask::$KEY"
+          if [ "$PAGE" = board ]; then curl -sS -D - "$URL/api/causelist?board=1"; echo; exit 0; fi   # app ka khula display board
           curl -sS -m 90 -G -D h.txt -o page.bin -H "Authorization: Bearer $KEY" --data-urlencode "url=$PAGE" ${PRE:+--data-urlencode "pre=$PRE"} "$URL/api/causelist"
           cat h.txt; echo "== $(wc -c < page.bin) bytes"
           # data: wali tasveerein (lakhon akshar) hatao, baaki HTML/JS dikhao

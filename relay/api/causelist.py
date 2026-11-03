@@ -4,6 +4,8 @@ GitHub ka "Mac cause list" workflow bulata hai; text, data branch aur app wahi b
 ?kick=... = Vercel ka timer (vercel.json 'crons', shaam/subah): GitHub ka apna schedule ghanton der se ya chalta hi
 nahi (1-2 Nov ki shaam ek bhi run nahi), isliye yahan se GitHub ko "Mac cause list" chalane ko kehte hain.
 TRIGGER_TOKEN: sirf kv-sync, sirf Actions read/write (workflow chala sakta hai; code, files, secrets nahi).
+?board=1 = court ka display board (kaunse court mein abhi kaunsa item), app ke "Live" tab ke liye — khula (bina chaabi),
+Vercel ka CDN 10 second rakhta hai taaki court ki site par bojh na pade.
 ?url=... = court ki do sites (ehcr, highcourtofuttarakhand.in) ka koi page jaisa India se dikhta hai (jaanch ke liye).
 Env (.github/workflows/india-server.yml lagata hai): CRON_SECRET (chaabi), TRIGGER_TOKEN, REPO.
 _ehcr.py = scripts/ukhc_ehcr.py ki copy (lagate waqt).
@@ -76,8 +78,25 @@ def page(url, pre=None):
         return 502, "application/json", json.dumps({"ok": False, "error": repr(e)}).encode()
 
 
+def board():
+    st, _, body = page("https://ehcr.uk.gov.in/displayboard.json")
+    try:
+        d = json.loads(body) if st == 200 else None
+        res = {"ok": True, "timestamp": d.get("timestamp", ""),
+               "courts": [{"court": str(r.get("court", "")), "now": str(r.get("caseno", "")), "msg": str(r.get("court_msg", ""))}
+                          for r in d.get("result", [])]}
+    except (ValueError, AttributeError, TypeError):
+        res = {"ok": False, "error": f"display board nahi khula ({st})"}
+    return res
+
+
 class handler(BaseHTTPRequestHandler):
     def do_GET(self):
+        if "board=1" in self.path:   # khula: court ka public display board
+            res = board()
+            return self.reply(200 if res["ok"] else 502, "application/json", json.dumps(res).encode(), {
+                "Access-Control-Allow-Origin": "*",
+                "Cache-Control": "public, s-maxage=10, stale-while-revalidate=20" if res["ok"] else "no-store"})
         key = os.environ.get("CRON_SECRET", "")
         if not key or self.headers.get("Authorization") != f"Bearer {key}":
             return self.reply(401, "application/json", b'{"ok": false, "error": "chaabi galat"}')
