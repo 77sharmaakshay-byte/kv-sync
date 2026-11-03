@@ -1,0 +1,88 @@
+{
+ "cnr_number": "UKHC010171042026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /8882/2026",
+ "filing_date": "2026-09-24",
+ "registration_number": "WPMS /2970/2026",
+ "registration_date": "2026-09-24",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-04",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "M/S MAHINDRA AND MAHINDRA LTD",
+   "advocate": "AMAR MURTI SHUKLA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "CERTIFYING OFFICER OF STANDING ORDERS/ REGIONAL DEPUTY LABOUR COMMISSIONER",
+   "advocate": ""
+  },
+  {
+   "name": "PRESIDING OFFICER",
+   "advocate": ""
+  },
+  {
+   "name": "MAHINDRA KARMKAR UNION",
+   "advocate": "M C PANT"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 227 of the Constituion of India",
+   "sections": "227"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-28",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-10-06",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-06",
+   "business_date": "2026-09-28",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-28",
+   "order_type": "WPMS/2970/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo0JnOrsUAqQdir1pK1aC5cddmkGKQbYG52JsPGXHKy4&caseno=WPMS/2970/2026&cCode=1&cino=UKHC010171042026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-06",
+   "order_type": "WPMS/2970/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo0JnOrsUAqQdir1pK1aC5fVHp3ELOKN1DGvvRINy2sn&caseno=WPMS/2970/2026&cCode=1&cino=UKHC010171042026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

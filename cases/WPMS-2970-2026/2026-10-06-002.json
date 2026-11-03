@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2970/2026:2026-10-06-002",
+ "title": "M/S MAHINDRA AND MAHINDRA LTD versus CERTIFYING OFFICER OF STANDING ORDERS/ REGIONAL DEPUTY LABOUR COMMISSIONER",
+ "petitioner": "M/S MAHINDRA AND MAHINDRA LTD",
+ "respondent": "CERTIFYING OFFICER OF STANDING ORDERS/ REGIONAL DEPUTY LABOUR COMMISSIONER",
+ "case_no": "WPMS/2970/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-06",
+ "cnr": "UKHC010171042026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2970/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo0JnOrsUAqQdir1pK1aC5fVHp3ELOKN1DGvvRINy2sn&caseno=WPMS/2970/2026&cCode=1&cino=UKHC010171042026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a66ef8ca624bd3589a7833735430e5fdf278202ca940ae23b18c5ff9ae998a9e",
+ "fetched_at": "2026-11-03T13:33:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,11 +6,11 @@
  "registration_number": "WPMS /989/2019",
  "registration_date": "2019-04-08",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-04",
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING -40",
  "status": "",
- "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -52,6 +52,13 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-10-26",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -411,6 +418,15 @@
    "order_type": "WPMS/989/2019",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF7CU%2BGvPKQxQxz10%2FRS8M43NscAFglb3VkPKZtB7Kotl&caseno=WPMS/989/2019&cCode=1&cino=UKHC010051732019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-26",
+   "order_type": "WPMS/989/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF7CU%2BGvPKQxQxz10%2FRS8M412kFfcImO0pDORZSwsgyqQ&caseno=WPMS/989/2019&cCode=1&cino=UKHC010051732019&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

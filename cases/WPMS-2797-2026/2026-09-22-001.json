@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2797/2026:2026-09-22-001",
+ "title": "VIRENDRA versus VICE CHANCELLOR",
+ "petitioner": "VIRENDRA",
+ "respondent": "VICE CHANCELLOR",
+ "case_no": "WPMS/2797/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010163302026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2797/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp9Uj0G00nGpIEkbL48BsgS8evVmT5%2FxmdwxktJfVnqp&caseno=WPMS/2797/2026&cCode=1&cino=UKHC010163302026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "35f4fdae5e01e4bde2007c6046dcd21ca79bd7f4c6a5ac4f16323d2b2fa2e14b",
+ "fetched_at": "2026-11-03T13:33:08+00:00",
+ "fetched_by": "fetch_live.py"
+}
