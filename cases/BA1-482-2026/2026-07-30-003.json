@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/482/2026:2026-07-30-003",
+ "title": "AAKASH PUJARI versus STATE OF UTTARAKHAND",
+ "petitioner": "AAKASH PUJARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/482/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-30",
+ "cnr": "UKHC010049452026",
+ "doc_kind": "order",
+ "order_type": "BA1/482/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQl6HPtHwu2r1PDyXHWgR4NHhWY55QVv34tIv7Ogt6n0j&caseno=BA1/482/2026&cCode=1&cino=UKHC010049452026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b5dc90b0755cbdf0da69bf4c61e7a6fde3eac5771173ad571b8a4725aaebe9d2",
+ "fetched_at": "2026-11-03T13:12:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

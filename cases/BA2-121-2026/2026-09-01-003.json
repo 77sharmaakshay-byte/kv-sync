@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/121/2026:2026-09-01-003",
+ "title": "ASHOK KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ASHOK KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/121/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010135172026",
+ "doc_kind": "order",
+ "order_type": "BA2/121/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL DISPOSAL (AFTER FRESH) -221",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhWvDfPijOEmD2mMC%2BT%2BAm15NSaUhr2v01JOAPKXL6Xa&caseno=BA2/121/2026&cCode=1&cino=UKHC010135172026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "39d2d1e52c58ffda6322b31fa9ddf55b3306d4dc170b3019b4cfcb82eb5539d8",
+ "fetched_at": "2026-11-03T12:40:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

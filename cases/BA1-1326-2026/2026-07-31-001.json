@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1326/2026:2026-07-31-001",
+ "title": "DILER SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "DILER SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1326/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-31",
+ "cnr": "UKHC010134072026",
+ "doc_kind": "order",
+ "order_type": "BA1/1326/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhQuX8IyG4eviz4vYo8iwU3y%2FXQAckhnamlwLeJBAB%2BJ&caseno=BA1/1326/2026&cCode=1&cino=UKHC010134072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f664700463a60539e6d49d4d1624a18fd36154e2da462b8268c90e4fbc675251",
+ "fetched_at": "2026-11-03T13:13:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

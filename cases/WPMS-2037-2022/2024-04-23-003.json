@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2037/2022:2024-04-23-003",
+ "title": "IMRAN ALI versus PRESIDING OFFICER LABOUR COURT KASHIPUR",
+ "petitioner": "IMRAN ALI",
+ "respondent": "PRESIDING OFFICER LABOUR COURT KASHIPUR",
+ "case_no": "WPMS/2037/2022",
+ "case_type": "WPMS",
+ "decision_date": "2024-04-23",
+ "cnr": "UKHC010123892022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2037/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2BXxuSCzNHj%2FMjb9X1Z4Pcg%2F2PpSc7W9osTe6TJBAEA%2F&caseno=WPMS/2037/2022&cCode=1&cino=UKHC010123892022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fb0db133b225ba7376a04c8601be865d1446eb15fdb584c7a28b76bad554c298",
+ "fetched_at": "2026-11-03T13:23:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

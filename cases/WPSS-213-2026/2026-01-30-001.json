@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/213/2026:2026-01-30-001",
+ "title": "NISHA versus UNION OF INDIA",
+ "petitioner": "NISHA",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/213/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-01-30",
+ "cnr": "UKHC010014132026",
+ "doc_kind": "order",
+ "order_type": "WPSS/213/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtmjNX5uw%2Bb4u8SkhcWzdz8VxRTOE%2BMJWsq130DqwzZX&caseno=WPSS/213/2026&cCode=1&cino=UKHC010014132026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "41c5b7f15ef66ad00a71c7f874aa3e63025ec7bb5da2ce1adc047b2a042ad81e",
+ "fetched_at": "2026-11-03T12:45:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

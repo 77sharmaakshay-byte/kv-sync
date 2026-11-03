@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/52/2026:2026-07-31-006",
+ "title": "RIPUL CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RIPUL CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/52/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-07-31",
+ "cnr": "UKHC010058152026",
+ "doc_kind": "order",
+ "order_type": "BA2/52/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmF2ranCqKiqo5GGwc1N0wmC%2FJO7NmB%2FT1lWH4GUsf5Q&caseno=BA2/52/2026&cCode=1&cino=UKHC010058152026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "85c743a35386514806dc8c3025eed41124b74db679abce3bfd2e6b62d46ae8cd",
+ "fetched_at": "2026-11-03T12:41:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

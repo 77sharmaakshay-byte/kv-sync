@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/329/2026:2026-03-11-002",
+ "title": "JYOTI RAM versus AKBAR",
+ "petitioner": "JYOTI RAM",
+ "respondent": "AKBAR",
+ "case_no": "WPMS/329/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-03-11",
+ "cnr": "UKHC010020492026",
+ "doc_kind": "order",
+ "order_type": "WPMS/329/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhSuPTvA9FIcaKSlvHaYSer3KvyN%2BjHsJKSXZbNhmZD8&caseno=WPMS/329/2026&cCode=1&cino=UKHC010020492026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5bcdad8a2ef1f0563309f740c96289714f34d0072b44471049f02fe33ff15538",
+ "fetched_at": "2026-11-03T13:19:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

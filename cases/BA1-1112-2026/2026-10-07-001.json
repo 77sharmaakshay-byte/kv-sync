@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1112/2026:2026-10-07-001",
+ "title": "RAHUL ARYA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL ARYA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1112/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010110352026",
+ "doc_kind": "order",
+ "order_type": "BA1/1112/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqD%2BtZ6rcoYm5hhY91YJbNcGcx1H789NlpsDWoADyG16&caseno=BA1/1112/2026&cCode=1&cino=UKHC010110352026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b7877c818f0ec5526d211880accd40af56ba448e3b1fc58d9beb7258ad08f03a",
+ "fetched_at": "2026-11-03T13:10:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

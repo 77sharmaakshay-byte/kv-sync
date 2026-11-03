@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/161/2022:2024-07-11-004",
+ "title": "OM PRAKASH versus MASSOOM ALI SARWAR",
+ "petitioner": "OM PRAKASH",
+ "respondent": "MASSOOM ALI SARWAR",
+ "case_no": "CLCON/161/2022",
+ "case_type": "CLCON",
+ "decision_date": "2024-07-11",
+ "cnr": "UKHC010073212022",
+ "doc_kind": "order",
+ "order_type": "CLCON/161/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2F2LATcN0gekv9r57gqEJ73V3o7HYJELSOVvKL%2FxkXih&caseno=CLCON/161/2022&cCode=1&cino=UKHC010073212022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1bc1d95fda6bc3c02b04dc9dbd833ff91280910128a2128f6888aa3f68009ac7",
+ "fetched_at": "2026-11-03T12:59:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

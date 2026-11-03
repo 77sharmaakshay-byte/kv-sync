@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1605/2026:2026-09-24-001",
+ "title": "ABDULA KHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "ABDULA KHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1605/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010169012026",
+ "doc_kind": "order",
+ "order_type": "BA1/1605/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpGldPU49VfkqTmkh1qx0PM0WCWyif9rEjWkYHhfHSI%2B&caseno=BA1/1605/2026&cCode=1&cino=UKHC010169012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "61d2781f3e41a6132668d23b7761c1ed6eb76597e4b95061064c0e021d8a2af4",
+ "fetched_at": "2026-11-03T13:14:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

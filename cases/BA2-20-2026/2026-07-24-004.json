@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/20/2026:2026-07-24-004",
+ "title": "VIDHU RATHI versus STATE OF UTTARAKHAND",
+ "petitioner": "VIDHU RATHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/20/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-07-24",
+ "cnr": "UKHC010013772026",
+ "doc_kind": "judgment",
+ "order_type": "BA2/20/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQteJ7F2tFnLspvX70OCVQT3rk46K4tAG3%2F9vfzlJja3R&caseno=BA2/20/2026&cCode=1&cino=UKHC010013772026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d5c31e4e170cf28c3db8fbce4032228ded7ceb80d0925fca5151a6dd8fa14fc9",
+ "fetched_at": "2026-11-03T12:41:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

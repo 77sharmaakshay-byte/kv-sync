@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/5/2025:2026-05-30-010",
+ "title": "VIJAY BARTHAWAL AND OTEHRS versus ASHISH MOHAN AGARWAL",
+ "petitioner": "VIJAY BARTHAWAL AND OTEHRS",
+ "respondent": "ASHISH MOHAN AGARWAL",
+ "case_no": "FA/5/2025",
+ "case_type": "FA",
+ "decision_date": "2026-05-30",
+ "cnr": "UKHC010007662025",
+ "doc_kind": "order",
+ "order_type": "FA/5/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6Izqy0UZ96Md3CN7v5Dz6PzQ5p9Vgbjl19d71001IU2&caseno=FA/5/2025&cCode=1&cino=UKHC010007662025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "af629440a2f95063d746b80bb69f43ee78363d77c88cfde0b3eb3900ebd73214",
+ "fetched_at": "2026-11-03T13:16:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

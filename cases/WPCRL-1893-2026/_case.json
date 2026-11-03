@@ -1,0 +1,92 @@
+{
+ "cnr_number": "UKHC010163242026",
+ "case_type": "WPCRL",
+ "filing_number": "WPCRL /7867/2026",
+ "filing_date": "2026-09-15",
+ "registration_number": "WPCRL /1893/2026",
+ "registration_date": "2026-09-15",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-04",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "HARPREET SINGH",
+   "advocate": "HARSHPAL SEKHON"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "STATION HOUSE OFFICER",
+   "advocate": "G.A."
+  },
+  {
+   "name": "NARAYAN DAS",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "310(2),61(2),317(3)"
+  },
+  {
+   "act": "Arms Act, 1959 (Act No. 54 of 1959)",
+   "sections": "3/25"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-17",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-09-30",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-30",
+   "business_date": "2026-09-17",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-17",
+   "order_type": "WPCRL/1893/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvAMxCYqMoiwCRCOETHK3KXnlP%2FNrOBD3t7Ou7C%2BdAj2&caseno=WPCRL/1893/2026&cCode=1&cino=UKHC010163242026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-30",
+   "order_type": "WPCRL/1893/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvAMxCYqMoiwCRCOETHK3KXvBv%2BhupcPkNu1e9DCQu1z&caseno=WPCRL/1893/2026&cCode=1&cino=UKHC010163242026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

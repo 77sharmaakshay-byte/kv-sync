@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/403/2026:2026-07-10-001",
+ "title": "RAJPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/403/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-10",
+ "cnr": "UKHC010119192026",
+ "doc_kind": "order",
+ "order_type": "CRLA/403/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu7T%2B68pswOPlwfdtJn%2BsfXUNRfqxrUtISKhccuZO0EU&caseno=CRLA/403/2026&cCode=1&cino=UKHC010119192026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "943f6b4729b04ed69e94e45166b24c49c94b07964e1acd94088128cd6d6f4408",
+ "fetched_at": "2026-11-03T13:10:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

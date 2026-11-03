@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/472/2023:2026-09-08-006",
+ "title": "BIRENDRA ISNGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BIRENDRA ISNGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/472/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010043592023",
+ "doc_kind": "order",
+ "order_type": "WPSS/472/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY64uVpwnQLlIHlxQUQ3ArAKCct78pD7nYS60fMW%2BhvF0&caseno=WPSS/472/2023&cCode=1&cino=UKHC010043592023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e5107cdcda18ed80c1d8913e79fc665dbdb853a9995bfb5d9c78f12ee29dad5d",
+ "fetched_at": "2026-11-03T12:47:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

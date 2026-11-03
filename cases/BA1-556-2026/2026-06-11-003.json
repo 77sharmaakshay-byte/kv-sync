@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/556/2026:2026-06-11-003",
+ "title": "POPIN versus STATE OF UTTARAKHAND",
+ "petitioner": "POPIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/556/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-11",
+ "cnr": "UKHC010054832026",
+ "doc_kind": "order",
+ "order_type": "BA1/556/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlxCNwf2duB2HVEUOto9pGHsuGlLTldTjenXbggDyEKW&caseno=BA1/556/2026&cCode=1&cino=UKHC010054832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "831c03980f6220467b92ed1b68ff25f40cb2c069b177064007c7a746975fdf80",
+ "fetched_at": "2026-11-03T13:10:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

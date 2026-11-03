@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1156/2026:2026-07-06-001",
+ "title": "BHARAT SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BHARAT SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1156/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-06",
+ "cnr": "UKHC010113792026",
+ "doc_kind": "order",
+ "order_type": "BA1/1156/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp%2Bh2rsL3CBXNCqhQV7HJXXCFURI6oIr4jeqvIyGGJBr&caseno=BA1/1156/2026&cCode=1&cino=UKHC010113792026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0305f3b9e95284c1278959397aa3534956dedf0f69d38eee13a6726201390dab",
+ "fetched_at": "2026-11-03T13:13:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

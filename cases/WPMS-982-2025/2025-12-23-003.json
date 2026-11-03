@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/982/2025:2025-12-23-003",
+ "title": "NAGAR NIGAM DEHRADUN versus MANIK NIDHI SHARMA",
+ "petitioner": "NAGAR NIGAM DEHRADUN",
+ "respondent": "MANIK NIDHI SHARMA",
+ "case_no": "WPMS/982/2025",
+ "case_type": "WPMS",
+ "decision_date": "2025-12-23",
+ "cnr": "UKHC010043882025",
+ "doc_kind": "order",
+ "order_type": "WPMS/982/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1VQXlbs476IS3Lo0F1BaJLfMc2%2BInnd44YcxrIMRPwf&caseno=WPMS/982/2025&cCode=1&cino=UKHC010043882025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce34816ad30e894e3c9fa47ec4d68e1fbdb46c2a9de34751ab94650dbba48a02",
+ "fetched_at": "2026-11-03T13:19:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

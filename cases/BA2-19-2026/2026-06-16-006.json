@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/19/2026:2026-06-16-006",
+ "title": "ANSHUL RATHI versus STATE OF UTTARAKHAND",
+ "petitioner": "ANSHUL RATHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/19/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-06-16",
+ "cnr": "UKHC010013762026",
+ "doc_kind": "order",
+ "order_type": "BA2/19/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjcn8Dr%2FaOWMmuHwVnEj8PV%2FuZrkvyVBYNJ5iphnQw5T&caseno=BA2/19/2026&cCode=1&cino=UKHC010013762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1fd893b4a93f63e1db3e5474100c95720ee194491b305172f488b4dce6eee8a4",
+ "fetched_at": "2026-11-03T12:41:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

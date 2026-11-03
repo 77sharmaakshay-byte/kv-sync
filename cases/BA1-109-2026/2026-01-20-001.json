@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/109/2026:2026-01-20-001",
+ "title": "RAJESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/109/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-01-20",
+ "cnr": "UKHC010011122026",
+ "doc_kind": "judgment",
+ "order_type": "BA1/109/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkf2hZVA8YLwyNsuvvtsA%2BBuqsyMLIMs%2FYEazGGJBIZD&caseno=BA1/109/2026&cCode=1&cino=UKHC010011122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f372c08db18efcf3c1409365c3670657d10be213b08604fbdab1da92589f9d27",
+ "fetched_at": "2026-11-03T12:41:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

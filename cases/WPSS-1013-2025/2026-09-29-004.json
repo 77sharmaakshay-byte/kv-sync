@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1013/2025:2026-09-29-004",
+ "title": "VIJAY LAXMI versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY LAXMI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1013/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010088662025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1013/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwverjPyfdiI%2FiRTx0RdbZSFnNPFUkB9B6Xou8PAIWrG&caseno=WPSS/1013/2025&cCode=1&cino=UKHC010088662025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7c05e4d3d9553d2183f386ec270f1c4acaf48943b76d92fe30fd10f2ff9d5ca8",
+ "fetched_at": "2026-11-03T12:42:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

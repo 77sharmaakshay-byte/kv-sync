@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/130/2026:2026-08-13-001",
+ "title": "GAUTAM SINGH DANU versus STATE OF UTTARAKHAND",
+ "petitioner": "GAUTAM SINGH DANU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/130/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-08-13",
+ "cnr": "UKHC010143072026",
+ "doc_kind": "order",
+ "order_type": "BA2/130/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr5jv2Z6Ui33bA7qUo%2BuERY3vVlK67Z6q%2BCqE976Qs%2FW&caseno=BA2/130/2026&cCode=1&cino=UKHC010143072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fc136709cbc4edbf4ec657b04cbc645681db1eb87d87928f1555735d99362280",
+ "fetched_at": "2026-11-03T13:11:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

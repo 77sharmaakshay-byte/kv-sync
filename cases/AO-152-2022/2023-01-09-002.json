@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/152/2022:2023-01-09-002",
+ "title": "NATIONAL INSURANCE COMPANY LIMITED versus NEELU",
+ "petitioner": "NATIONAL INSURANCE COMPANY LIMITED",
+ "respondent": "NEELU",
+ "case_no": "AO/152/2022",
+ "case_type": "AO",
+ "decision_date": "2023-01-09",
+ "cnr": "UKHC010058252022",
+ "doc_kind": "order",
+ "order_type": "AO/152/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00NdxKMlhlNH4QcKximqqgcbFeOGVJJ9LqQRUc7mLvEQ&caseno=AO/152/2022&cCode=1&cino=UKHC010058252022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "365ed0a1b8d7eda7775125ba5c9aabb6699804e4834e54759b35a3293f11f400",
+ "fetched_at": "2026-11-03T12:57:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

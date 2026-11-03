@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/45/2017:2019-06-28-003",
+ "title": "RAJESH KUMAR SURI versus SUDHIR KUMAR JAIN",
+ "petitioner": "RAJESH KUMAR SURI",
+ "respondent": "SUDHIR KUMAR JAIN",
+ "case_no": "FA/45/2017",
+ "case_type": "FA",
+ "decision_date": "2019-06-28",
+ "cnr": "UKHC010001382017",
+ "doc_kind": "order",
+ "order_type": "IA/7780/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxx6FC3TP8iK4ZSC%2FakogEnrt%2FR1gFivlxxxqxJqKWK2&caseno=FA/45/2017&cCode=1&cino=UKHC010001382017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "15f8fe60505a64fd984435541dd8f8c95f0bad9eb5e8bd15ac2fca95cf95af7a",
+ "fetched_at": "2026-11-03T12:48:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

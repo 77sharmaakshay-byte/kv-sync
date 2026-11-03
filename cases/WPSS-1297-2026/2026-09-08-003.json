@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1297/2026:2026-09-08-003",
+ "title": "BASHUDEV SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BASHUDEV SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1297/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010081272026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1297/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqnU1UiKvr%2FQm6NPBorsO1SpecADrmx9y8j93XDb4QFR&caseno=WPSS/1297/2026&cCode=1&cino=UKHC010081272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9cc950af96db8f8cea61207b1b86844acd2e35960558c1e436e672fd29f456d8",
+ "fetched_at": "2026-11-03T12:43:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

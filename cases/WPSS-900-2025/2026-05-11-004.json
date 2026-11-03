@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/900/2025:2026-05-11-004",
+ "title": "VIBBU LAL versus STATE OF UTTARAKHAND",
+ "petitioner": "VIBBU LAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/900/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-05-11",
+ "cnr": "UKHC010077162025",
+ "doc_kind": "order",
+ "order_type": "WPSS/900/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0Yln8mfuMq3aEhSHZKnrOqAhDKMyd8iPPRemqJFRCcy&caseno=WPSS/900/2025&cCode=1&cino=UKHC010077162025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "357105bdf653f2304c404a0b7b2d76b3a7445393244191cfeef81a1a79c7c11b",
+ "fetched_at": "2026-11-03T12:45:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

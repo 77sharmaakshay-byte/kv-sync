@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/52/2026:2026-05-29-003",
+ "title": "RIPUL CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RIPUL CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/52/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-05-29",
+ "cnr": "UKHC010058152026",
+ "doc_kind": "order",
+ "order_type": "BA2/52/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmF2ranCqKiqo5GGwc1N0wlSkvKwb1pstOSQq1obxcVS&caseno=BA2/52/2026&cCode=1&cino=UKHC010058152026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "089e1426e59337c8bd02160e990b60efebf6a64d166cfb096727497678266485",
+ "fetched_at": "2026-11-03T12:41:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

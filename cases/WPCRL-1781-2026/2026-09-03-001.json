@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1781/2026:2026-09-03-001",
+ "title": "NAWAB versus STATE OF UTTARAKHAND",
+ "petitioner": "NAWAB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1781/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010155142026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1781/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjlGa3pjG4c9206EUw%2FjLlmIF02ghPPv6JKsJtjV20Wv&caseno=WPCRL/1781/2026&cCode=1&cino=UKHC010155142026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "342b73f53ea0fa723741e5f717ffb71374b7510624c43a99fabd07cfc4ad6bfb",
+ "fetched_at": "2026-11-03T12:58:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

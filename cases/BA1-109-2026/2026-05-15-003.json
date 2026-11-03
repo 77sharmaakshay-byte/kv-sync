@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/109/2026:2026-05-15-003",
+ "title": "RAJESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/109/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-15",
+ "cnr": "UKHC010011122026",
+ "doc_kind": "order",
+ "order_type": "BA1/109/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkf2hZVA8YLwyNsuvvtsA%2BBc9E1zTWJPET8mh%2BE%2B0a5U&caseno=BA1/109/2026&cCode=1&cino=UKHC010011122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fc89c8202fb7a2d00ab147e732756fa7737c54a370358466010f0da58ea6d904",
+ "fetched_at": "2026-11-03T12:41:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

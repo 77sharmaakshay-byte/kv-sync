@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2481/2026:2026-09-25-001",
+ "title": "LALIT MOHAN PANT versus UP RAJKIYA NIRMAN NIGAM LIMITED",
+ "petitioner": "LALIT MOHAN PANT",
+ "respondent": "UP RAJKIYA NIRMAN NIGAM LIMITED",
+ "case_no": "WPSS/2481/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-25",
+ "cnr": "UKHC010169592026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2481/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQl%2FQ6VEGhELLHwdYc%2FVVcWgyf64jHL7vVMnWM%2B6AEbou&caseno=WPSS/2481/2026&cCode=1&cino=UKHC010169592026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "683821c27d0566a942e9e0f7bb051c6a26cf9a67d1b745e83e45d471e73f1e4c",
+ "fetched_at": "2026-11-03T12:43:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

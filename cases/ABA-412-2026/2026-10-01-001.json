@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/412/2026:2026-10-01-001",
+ "title": "ANIL CHANDRA SEN versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL CHANDRA SEN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/412/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010174622026",
+ "doc_kind": "order",
+ "order_type": "ABA/412/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkrAZKowanEOMOveHw4aZUxBtKI8cBTDdEXnlCbgYXPr&caseno=ABA/412/2026&cCode=1&cino=UKHC010174622026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f1827a6d04d84366fe5723c151fe5c0208c1909c0cac780947e4985103cf25e9",
+ "fetched_at": "2026-11-03T12:55:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

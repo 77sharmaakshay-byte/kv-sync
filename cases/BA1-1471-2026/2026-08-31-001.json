@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1471/2026:2026-08-31-001",
+ "title": "RAHUL JAISWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL JAISWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1471/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010152022026",
+ "doc_kind": "order",
+ "order_type": "BA1/1471/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQno4lXTeohTEQ4pU2Vkno1WgPKGz6ZiUWZ9G9oA9VjuB&caseno=BA1/1471/2026&cCode=1&cino=UKHC010152022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8053fdda846a34ed74d65f27535f9cb25637a5d6c036d7432056441f5c17bd3e",
+ "fetched_at": "2026-11-03T13:10:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

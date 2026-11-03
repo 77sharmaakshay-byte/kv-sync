@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1523/2026:2026-09-15-001",
+ "title": "ABHISHEK versus STATE OF UTTARAKHAND",
+ "petitioner": "ABHISHEK",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1523/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010157692026",
+ "doc_kind": "order",
+ "order_type": "BA1/1523/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkbyeaGVE%2FIsd0ESRx5BdUQyGmK1qXPPTx7bARmY4Ve3&caseno=BA1/1523/2026&cCode=1&cino=UKHC010157692026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "84d14150159d5e5fa62c1cd2482f192df7527ba48319533f5f7c0fa2b1e51f51",
+ "fetched_at": "2026-11-03T13:11:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

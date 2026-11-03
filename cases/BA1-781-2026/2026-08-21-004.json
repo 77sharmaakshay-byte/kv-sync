@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/781/2026:2026-08-21-004",
+ "title": "MOHAMMAD AAMIR versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "MOHAMMAD AAMIR",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA1/781/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-21",
+ "cnr": "UKHC010078522026",
+ "doc_kind": "order",
+ "order_type": "BA1/781/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqHkPLdvyn0Rw3nLbW44OViW%2FDd2dsEa7FJtjKlwx77T&caseno=BA1/781/2026&cCode=1&cino=UKHC010078522026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6a6f84fc971ab6a3d31cca1122d8b8b3527286c87c77e348dba29949cb30457d",
+ "fetched_at": "2026-11-03T13:11:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

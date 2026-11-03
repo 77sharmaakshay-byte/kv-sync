@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/175/2022:2022-11-04-002",
+ "title": "AJEET SINGH versus MASOOM ALI SARWAR",
+ "petitioner": "AJEET SINGH",
+ "respondent": "MASOOM ALI SARWAR",
+ "case_no": "CLCON/175/2022",
+ "case_type": "CLCON",
+ "decision_date": "2022-11-04",
+ "cnr": "UKHC010077112022",
+ "doc_kind": "order",
+ "order_type": "CLCON/175/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0yVD6F3LRC8O2J2Q37X36WT5jYOcLC19DIymvqCFVhRw&caseno=CLCON/175/2022&cCode=1&cino=UKHC010077112022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1a3008fb5adb2b4637a252c241ad927ede19b467c367536d5cc0b7251df39a57",
+ "fetched_at": "2026-11-03T13:00:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

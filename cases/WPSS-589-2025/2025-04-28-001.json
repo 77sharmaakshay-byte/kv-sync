@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/589/2025:2025-04-28-001",
+ "title": "HARISH SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARISH SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/589/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-04-28",
+ "cnr": "UKHC010052522025",
+ "doc_kind": "order",
+ "order_type": "WPSS/589/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm59W9FQjmPDt3rO7B91pqGLrG4FAiBvRKU5LWgOZIIyd&caseno=WPSS/589/2025&cCode=1&cino=UKHC010052522025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2b11f5176ffce88de052ad659daa0a48f9c009edde012bcf9e45a85c920afe48",
+ "fetched_at": "2026-11-03T12:43:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

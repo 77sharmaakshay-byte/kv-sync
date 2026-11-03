@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/108/2026:2026-01-20-001",
+ "title": "DHERAJ versus STATE OF UTTARAKHAND",
+ "petitioner": "DHERAJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/108/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-01-20",
+ "cnr": "UKHC010011102026",
+ "doc_kind": "judgment",
+ "order_type": "BA1/108/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi2ycUYbSHYT3ALdZWZNOh5Ou0wwbJMK9ebb8NLtdCoI&caseno=BA1/108/2026&cCode=1&cino=UKHC010011102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e57e6815405a95895dcff4e7f33100920708a0dac79d1182b0b6ef45e3646429",
+ "fetched_at": "2026-11-03T12:41:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

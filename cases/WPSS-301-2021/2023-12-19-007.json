@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/301/2021:2023-12-19-007",
+ "title": "KANTA PRASAD SHARMA versus STATE OF UTTARKAHAND",
+ "petitioner": "KANTA PRASAD SHARMA",
+ "respondent": "STATE OF UTTARKAHAND",
+ "case_no": "WPSS/301/2021",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-19",
+ "cnr": "UKHC010018362021",
+ "doc_kind": "order",
+ "order_type": "WPSS/301/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFONYcsEXptF9a7Zz7LTbWfbZ&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cd9ab1e7a67db4dc09f23877eefb93ac112d3a92280d7c48e4bfb0304e72d8d2",
+ "fetched_at": "2026-11-03T12:46:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

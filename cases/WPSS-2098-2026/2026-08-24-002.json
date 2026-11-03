@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2098/2026:2026-08-24-002",
+ "title": "ANIL KUMAR versus PUNJAB NATIONAL BANK",
+ "petitioner": "ANIL KUMAR",
+ "respondent": "PUNJAB NATIONAL BANK",
+ "case_no": "WPSS/2098/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-24",
+ "cnr": "UKHC010138842026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2098/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt7l1EVgbHCvkWER5%2FUg%2FTdZ3wozBi2qd%2Ff7HDfSHH5u&caseno=WPSS/2098/2026&cCode=1&cino=UKHC010138842026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d0a1b836b242acd783911de6cf06cdfd34d8ef1b4b460abb9d85ff668af40a08",
+ "fetched_at": "2026-11-03T12:43:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

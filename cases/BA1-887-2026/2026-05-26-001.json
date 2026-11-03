@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/887/2026:2026-05-26-001",
+ "title": "CAPTAIN versus STATE OF UTTARAKHAND",
+ "petitioner": "CAPTAIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/887/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-26",
+ "cnr": "UKHC010088262026",
+ "doc_kind": "order",
+ "order_type": "BA1/887/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhO%2BNxn1xSqPcUaS95YSr7sh2ZKOnYZNGTt%2FHFpLYKI8&caseno=BA1/887/2026&cCode=1&cino=UKHC010088262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c4a7799b76510acd6b525518b3179452a6179159124f1d4ec082e6fa16070e37",
+ "fetched_at": "2026-11-03T13:12:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

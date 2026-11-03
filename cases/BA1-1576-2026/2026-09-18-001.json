@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1576/2026:2026-09-18-001",
+ "title": "AKASH CHHABRA versus STATE OF UTTARAKHAND",
+ "petitioner": "AKASH CHHABRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1576/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010164932026",
+ "doc_kind": "order",
+ "order_type": "BA1/1576/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQijyxpZq1krxHi0BHNP7%2Fsxm2YPjSUGQBZgOTmraTaMM&caseno=BA1/1576/2026&cCode=1&cino=UKHC010164932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "caef0554da522f9a3fa27e4bca64fb4f0464befbd19e00a5479a2d2f30c9e958",
+ "fetched_at": "2026-11-03T13:11:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

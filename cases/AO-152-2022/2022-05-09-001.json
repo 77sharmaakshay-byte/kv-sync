@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/152/2022:2022-05-09-001",
+ "title": "NATIONAL INSURANCE COMPANY LIMITED versus NEELU",
+ "petitioner": "NATIONAL INSURANCE COMPANY LIMITED",
+ "respondent": "NEELU",
+ "case_no": "AO/152/2022",
+ "case_type": "AO",
+ "decision_date": "2022-05-09",
+ "cnr": "UKHC010058252022",
+ "doc_kind": "order",
+ "order_type": "AO/152/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00NdxKMlhlNH4QcKximqqgeBpmp0V2ktK0ma3z9k2Ig0&caseno=AO/152/2022&cCode=1&cino=UKHC010058252022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4e71ed0415dbb6aaef0f4c2cbe5f494b50770adb1e5785120acc51d2261c6f32",
+ "fetched_at": "2026-11-03T12:57:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

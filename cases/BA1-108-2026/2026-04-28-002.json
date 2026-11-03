@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/108/2026:2026-04-28-002",
+ "title": "DHERAJ versus STATE OF UTTARAKHAND",
+ "petitioner": "DHERAJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/108/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-04-28",
+ "cnr": "UKHC010011102026",
+ "doc_kind": "order",
+ "order_type": "BA1/108/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi2ycUYbSHYT3ALdZWZNOh4MBaReUhihvLmMB2znHbEc&caseno=BA1/108/2026&cCode=1&cino=UKHC010011102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "63a7c7026738d4de95965c4893795acccec21ce14cc6ecb1f73483788d0d16f5",
+ "fetched_at": "2026-11-03T12:41:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

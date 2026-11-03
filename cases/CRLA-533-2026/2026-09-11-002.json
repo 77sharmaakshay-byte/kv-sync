@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/533/2026:2026-09-11-002",
+ "title": "HARISH versus STATE OF UTTARAKHAND",
+ "petitioner": "HARISH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/533/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010160372026",
+ "doc_kind": "order",
+ "order_type": "IA/1/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmu4W8Zhlwzi7JcDPSZXxd%2Bx%2F7ONAcXbRHUjyzMHcrxD&caseno=CRLA/533/2026&cCode=1&cino=UKHC010160372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c3673241e8ee9a474aba1777a477940e20678b72168a989cbfd28be4ac4d2683",
+ "fetched_at": "2026-11-03T13:14:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

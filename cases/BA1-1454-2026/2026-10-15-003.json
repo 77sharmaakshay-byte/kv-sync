@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1454/2026:2026-10-15-003",
+ "title": "SACHIN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SACHIN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1454/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010149852026",
+ "doc_kind": "order",
+ "order_type": "BA1/1454/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkmPuXJQCZ9YCmaZfMgZPhNHhVLhKAGk325REbMm2U8l&caseno=BA1/1454/2026&cCode=1&cino=UKHC010149852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "28fd0e718ad90c0c1bbcb9a47712abc3b50c3691114b2c9e81592c11515027af",
+ "fetched_at": "2026-11-03T13:13:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

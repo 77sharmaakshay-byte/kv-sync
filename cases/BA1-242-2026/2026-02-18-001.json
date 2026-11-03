@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/242/2026:2026-02-18-001",
+ "title": "SANJEET versus STATE OF UTTARAKHAND",
+ "petitioner": "SANJEET",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/242/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-02-18",
+ "cnr": "UKHC010023352026",
+ "doc_kind": "order",
+ "order_type": "BA1/242/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv2HQCVsVfzb7a3bk93EPSILUeH7M6%2F5I%2Fqvbji70FKz&caseno=BA1/242/2026&cCode=1&cino=UKHC010023352026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "48b5808b77de09ff8cd6658c7342ceac44aeda8fdcd2049e5fff3ba967060fbb",
+ "fetched_at": "2026-11-03T13:08:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

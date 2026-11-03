@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/127/2020:2026-09-28-001",
+ "title": "M/S MANTRI METALLIC PVT. LTD. versus NIRANJAN LAL",
+ "petitioner": "M/S MANTRI METALLIC PVT. LTD.",
+ "respondent": "NIRANJAN LAL",
+ "case_no": "WPMS/127/2020",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010007822020",
+ "doc_kind": "order",
+ "order_type": "WPMS/127/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjIyANH37tUjUhQNmF4mYDQ%2Bw6Vn8Di9t2EENygrPck0v&caseno=WPMS/127/2020&cCode=1&cino=UKHC010007822020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "214a212f9769d8f4a2ee4f429f4243f8111831f91bef8d92648f393cc8607167",
+ "fetched_at": "2026-11-03T13:22:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

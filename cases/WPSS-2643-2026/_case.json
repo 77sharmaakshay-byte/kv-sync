@@ -6,9 +6,9 @@
  "registration_number": "WPSS /2643/2026",
  "registration_date": "2026-10-12",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-04",
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -105,7 +105,7 @@
   },
   {
    "name": "ANKIT KUMAR",
-   "advocate": ""
+   "advocate": "Shobhit Saharia"
   },
   {
    "name": "ABHINAY",
@@ -117,7 +117,7 @@
   },
   {
    "name": "EIRAM PARVEEN",
-   "advocate": ""
+   "advocate": "SHOBHIT SAHARIA"
   }
  ],
  "acts": [
@@ -133,7 +133,40 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-10-16",
+   "purpose": "PERSONAL APPEARANCE -4",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-16",
+   "business_date": "2026-10-14",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-14",
+   "order_type": "WPSS/2643/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQofLQ66EcYa1gAw5ya2UDTFR8PXHUcMF9zQILXWYPjYL&caseno=WPSS/2643/2026&cCode=1&cino=UKHC010182622026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-16",
+   "order_type": "WPSS/2643/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQofLQ66EcYa1gAw5ya2UDTEWwwHFy8w%2BYqvDyhVdu770&caseno=WPSS/2643/2026&cCode=1&cino=UKHC010182622026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

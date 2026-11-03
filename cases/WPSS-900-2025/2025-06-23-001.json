@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/900/2025:2025-06-23-001",
+ "title": "VIBBU LAL versus STATE OF UTTARAKHAND",
+ "petitioner": "VIBBU LAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/900/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-06-23",
+ "cnr": "UKHC010077162025",
+ "doc_kind": "order",
+ "order_type": "WPSS/900/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0Yln8mfuMq3aEhSHZKnrOrKrUNVeQ0IepKutpb6VyES&caseno=WPSS/900/2025&cCode=1&cino=UKHC010077162025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9ea84aa64ab48cd62a5386d7ff192585f57be3ca41f5a86249c2071bc31cf0c2",
+ "fetched_at": "2026-11-03T12:45:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

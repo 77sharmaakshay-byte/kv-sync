@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1879/2026:2026-09-07-009",
+ "title": "RAJKUMAR ALIAS RAMCHARAN DAS versus NIRMAL DAS ALIAS NISHANT KUMAR",
+ "petitioner": "RAJKUMAR ALIAS RAMCHARAN DAS",
+ "respondent": "NIRMAL DAS ALIAS NISHANT KUMAR",
+ "case_no": "WPMS/1879/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010106022026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1879/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmr4UMuyYuDdicZpkDQr7EgWlH8GtRA5J2%2FYyZWMz2GB&caseno=WPMS/1879/2026&cCode=1&cino=UKHC010106022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2e6c4e972b657e6c946fdca5bbb5656886eb22d5ac9615fea4c3423b06044e07",
+ "fetched_at": "2026-11-03T13:22:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

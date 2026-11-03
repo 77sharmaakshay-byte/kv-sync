@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/52/2026:2026-05-02-002",
+ "title": "RIPUL CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RIPUL CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/52/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-05-02",
+ "cnr": "UKHC010058152026",
+ "doc_kind": "order",
+ "order_type": "BA2/52/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmF2ranCqKiqo5GGwc1N0wlJudqsyGp6qbGCY%2B%2FMEwrW&caseno=BA2/52/2026&cCode=1&cino=UKHC010058152026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c947d5d4cb49afd497627b0d596a01f90fa753ed4b53d729244fe5929d9cbdf8",
+ "fetched_at": "2026-11-03T12:41:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

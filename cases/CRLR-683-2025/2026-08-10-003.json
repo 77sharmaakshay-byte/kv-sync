@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/683/2025:2026-08-10-003",
+ "title": "PUNAM TSHERING versus PREM TSHERING",
+ "petitioner": "PUNAM TSHERING",
+ "respondent": "PREM TSHERING",
+ "case_no": "CRLR/683/2025",
+ "case_type": "CRLR",
+ "decision_date": "2026-08-10",
+ "cnr": "UKHC010162772025",
+ "doc_kind": "order",
+ "order_type": "CRLR/683/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm636lRUubC0JYb833Jv876LC8N5z47UIegNlUidCm6YO&caseno=CRLR/683/2025&cCode=1&cino=UKHC010162772025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "db92ce28dfb6317cc0379631fb54a4f21f2e8d1974493dcce0dcc306618f64db",
+ "fetched_at": "2026-11-03T13:20:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

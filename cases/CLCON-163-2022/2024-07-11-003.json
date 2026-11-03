@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/163/2022:2024-07-11-003",
+ "title": "DAMYANTI HASAN versus MASSOOM ALI SARWAR",
+ "petitioner": "DAMYANTI HASAN",
+ "respondent": "MASSOOM ALI SARWAR",
+ "case_no": "CLCON/163/2022",
+ "case_type": "CLCON",
+ "decision_date": "2024-07-11",
+ "cnr": "UKHC010073202022",
+ "doc_kind": "order",
+ "order_type": "CLCON/163/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00yfeiJnruEVNKOWNzv7RORfd1ozTRHaPBSdTU3L9obI&caseno=CLCON/163/2022&cCode=1&cino=UKHC010073202022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "628854141dd83a4d368d71d1d3b65da667dc8ce1480f5b5c39d877f74563197d",
+ "fetched_at": "2026-11-03T12:57:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,11 +6,11 @@
  "registration_number": "WPSS /1845/2012",
  "registration_date": "2012-12-31",
  "first_hearing_date": "2013-07-25",
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-11-04",
  "decision_date": null,
- "case_stage": "FOR FURTHER HEARING -113",
+ "case_stage": "ADMISSION MATTERS (TOP) -97",
  "status": "",
- "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -1232,6 +1232,13 @@
  ],
  "history": [
   {
+   "hearing_date": "2026-12-17",
+   "business_date": "2026-10-16",
+   "purpose": "FOR FURTHER HEARING -113",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": null,
    "business_date": "2026-09-11",
    "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
@@ -1835,14 +1842,14 @@
   },
   {
    "hearing_date": "2022-06-20",
-   "business_date": "2022-05-23",
+   "business_date": null,
    "purpose": "OLD MATTERS -253",
    "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2022-06-20",
-   "business_date": null,
+   "business_date": "2022-05-23",
    "purpose": "OLD MATTERS -253",
    "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -2149,14 +2156,14 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2017-06-08",
+   "hearing_date": "2017-06-20",
    "business_date": "2017-06-08",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2017-06-20",
+   "hearing_date": "2017-06-08",
    "business_date": "2017-06-08",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "",
@@ -2962,6 +2969,15 @@
    "order_type": "WPSS/1845/2012",
    "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0ii9t0Z8KrKKxpvpb2GFexN&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-16",
+   "order_type": "WPSS/1845/2012",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHhwcJjjT37Q2p62G0v8T0jTLWqkRcuVc9bNLpyRMMmb&caseno=WPSS/1845/2012&cCode=1&cino=UKHC010127752012&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

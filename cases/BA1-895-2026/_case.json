@@ -6,9 +6,9 @@
  "registration_number": "BA1 /895/2026",
  "registration_date": "2026-05-25",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-04",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "case_stage": "BAIL MATTERS -98",
  "status": "",
  "coram": "Hon'ble Mr. Justice Alok Mahra",
  "bench_type": "Single Bench",
@@ -41,6 +41,13 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-10-26",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2026-10-26",
@@ -156,6 +163,15 @@
    "order_type": "BA1/895/2026",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhI6R75ciBmAX%2F8lHGHu5flNV2mKh%2FU4n3ro65y0IoCE&caseno=BA1/895/2026&cCode=1&cino=UKHC010088892026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-26",
+   "order_type": "BA1/895/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhI6R75ciBmAX%2F8lHGHu5fl1BfbfzmEbms9Ax%2Fki825z&caseno=BA1/895/2026&cCode=1&cino=UKHC010088892026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

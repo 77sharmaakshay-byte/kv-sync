@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/161/2022:2022-11-04-002",
+ "title": "OM PRAKASH versus MASSOOM ALI SARWAR",
+ "petitioner": "OM PRAKASH",
+ "respondent": "MASSOOM ALI SARWAR",
+ "case_no": "CLCON/161/2022",
+ "case_type": "CLCON",
+ "decision_date": "2022-11-04",
+ "cnr": "UKHC010073212022",
+ "doc_kind": "order",
+ "order_type": "CLCON/161/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2F2LATcN0gekv9r57gqEJ72e8C%2FnhCnZc73UId92CmrM&caseno=CLCON/161/2022&cCode=1&cino=UKHC010073212022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a19ad63c16edda64959b92563e9b25efdefd00f725f29d76360725d032643d79",
+ "fetched_at": "2026-11-03T12:59:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

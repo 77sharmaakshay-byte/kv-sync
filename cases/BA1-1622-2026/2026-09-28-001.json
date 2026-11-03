@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1622/2026:2026-09-28-001",
+ "title": "YASH SIDANA versus STATE OF UTTARAKHAND",
+ "petitioner": "YASH SIDANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1622/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010171142026",
+ "doc_kind": "order",
+ "order_type": "BA1/1622/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhYMBkf2ngUQqwwiv17QGZ1b3gaJX1zw%2B6u8E6ZNl2NQ&caseno=BA1/1622/2026&cCode=1&cino=UKHC010171142026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cc874a3e697f302f1bbb4f7c3928b83ea2bf49540d6d529c3a0264428c772782",
+ "fetched_at": "2026-11-03T13:11:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

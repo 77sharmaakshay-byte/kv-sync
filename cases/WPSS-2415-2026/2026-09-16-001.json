@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2415/2026:2026-09-16-001",
+ "title": "IQBAL AHMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "IQBAL AHMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2415/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010162442026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2415/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrKCtpgSb6%2FoeLs6n4sHiTliqm3F5SRS2eWBpaFLBKAE&caseno=WPSS/2415/2026&cCode=1&cino=UKHC010162442026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ffe32fa0204b7355dbdc35957b3101f8752500a94a636da8ab5cc158dae5c87d",
+ "fetched_at": "2026-11-03T12:43:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

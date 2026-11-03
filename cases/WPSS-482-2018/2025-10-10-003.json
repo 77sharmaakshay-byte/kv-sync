@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/482/2018:2025-10-10-003",
+ "title": "ANAND BALLABH JOSHI versus GURUKUL KANGRI VISHWAVIDYALAYA HARIDWAR",
+ "petitioner": "ANAND BALLABH JOSHI",
+ "respondent": "GURUKUL KANGRI VISHWAVIDYALAYA HARIDWAR",
+ "case_no": "WPSS/482/2018",
+ "case_type": "WPSS",
+ "decision_date": "2025-10-10",
+ "cnr": "UKHC010034112018",
+ "doc_kind": "order",
+ "order_type": "WPSS/482/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL3AgR5xj3Ns6z4cOC2s6tAEuQnpCaRtT%2BUjZ%2FuYzGX7G&caseno=WPSS/482/2018&cCode=1&cino=UKHC010034112018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f1c1286d01f9b03518e01484930c3de748a9e06c6621dc6921918a397df90ede",
+ "fetched_at": "2026-11-03T12:46:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

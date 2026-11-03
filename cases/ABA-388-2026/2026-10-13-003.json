@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/388/2026:2026-10-13-003",
+ "title": "DANISH versus STATE OF UTTARAKHAND",
+ "petitioner": "DANISH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/388/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010164682026",
+ "doc_kind": "order",
+ "order_type": "ABA/388/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmAz6eOEF52Kvkof0zDWf65vG%2F7NHYQyGpL6KjX9jhPu&caseno=ABA/388/2026&cCode=1&cino=UKHC010164682026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "55ea3a50a2a90f5dba410981b261fea0bea0e11d84c9fd2a355801eafd199f54",
+ "fetched_at": "2026-11-03T12:57:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

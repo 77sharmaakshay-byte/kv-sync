@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/244/2026:2026-02-19-001",
+ "title": "RAHUL MEHRA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL MEHRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/244/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-02-19",
+ "cnr": "UKHC010023912026",
+ "doc_kind": "order",
+ "order_type": "BA1/244/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjREtveNfJDeqZ%2BeGECW5HLm6BFXEvzE0ra%2BZsleVsqt&caseno=BA1/244/2026&cCode=1&cino=UKHC010023912026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2171a61394b19803a621f2c8446bd6516a88e0da4cb39dba5a4e7e236a5c964a",
+ "fetched_at": "2026-11-03T13:11:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/472/2023:2024-09-20-004",
+ "title": "BIRENDRA ISNGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BIRENDRA ISNGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/472/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-09-20",
+ "cnr": "UKHC010043592023",
+ "doc_kind": "order",
+ "order_type": "WPSS/472/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY64uVpwnQLlIHlxQUQ3ArAJyyj3atnBr8LPsKmT3WfmA&caseno=WPSS/472/2023&cCode=1&cino=UKHC010043592023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "53934e59c50c2787ab400f9d67c4b803adb36a7fa37bd332dcc916f97f1e452c",
+ "fetched_at": "2026-11-03T12:47:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

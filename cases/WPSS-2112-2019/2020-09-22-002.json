@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2112/2019:2020-09-22-002",
+ "title": "SARVESH versus STATE OF UTTARAKHAND",
+ "petitioner": "SARVESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2112/2019",
+ "case_type": "WPSS",
+ "decision_date": "2020-09-22",
+ "cnr": "UKHC010144232019",
+ "doc_kind": "order",
+ "order_type": "WPSS/2112/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BUSHH%2B4gPRKD9r2Q%2F4zKpc1MHQY2AOJjoW6%2F1H5ZxeK&caseno=WPSS/2112/2019&cCode=1&cino=UKHC010144232019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc25bc237c1aa021ed1141f1e85e7da08450d9ae0d0affdaa3de70ca6201471b",
+ "fetched_at": "2026-11-03T12:45:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/175/2022:2023-02-24-003",
+ "title": "AJEET SINGH versus MASOOM ALI SARWAR",
+ "petitioner": "AJEET SINGH",
+ "respondent": "MASOOM ALI SARWAR",
+ "case_no": "CLCON/175/2022",
+ "case_type": "CLCON",
+ "decision_date": "2023-02-24",
+ "cnr": "UKHC010077112022",
+ "doc_kind": "order",
+ "order_type": "CLCON/175/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0yVD6F3LRC8O2J2Q37X36WR2nbkPQ8NM%2BvOj3r9PngZj&caseno=CLCON/175/2022&cCode=1&cino=UKHC010077112022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dbe02095057dabe5db63478d470e4fe967c28a87a68fba29130286a51bcbad76",
+ "fetched_at": "2026-11-03T13:00:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

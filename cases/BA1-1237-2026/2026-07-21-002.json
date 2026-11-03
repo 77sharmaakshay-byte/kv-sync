@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1237/2026:2026-07-21-002",
+ "title": "MANJEET versus STATE OF UTTARAKHAND",
+ "petitioner": "MANJEET",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1237/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-21",
+ "cnr": "UKHC010123282026",
+ "doc_kind": "order",
+ "order_type": "BA1/1237/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk5t3rWXtvqWdEtqWg2WFCYKdPa9Nv63HT011Yg4WYN6&caseno=BA1/1237/2026&cCode=1&cino=UKHC010123282026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6e43ba0b2af3c24aecb065842c3009930d0d980347fadc7e284ebce38ca7ec59",
+ "fetched_at": "2026-11-03T13:11:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

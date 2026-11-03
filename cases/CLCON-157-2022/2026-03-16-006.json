@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/157/2022:2026-03-16-006",
+ "title": "GIRISH CHANDRA JOSHI (DECEASED) versus MASOOM ALI SARWAR",
+ "petitioner": "GIRISH CHANDRA JOSHI (DECEASED)",
+ "respondent": "MASOOM ALI SARWAR",
+ "case_no": "CLCON/157/2022",
+ "case_type": "CLCON",
+ "decision_date": "2026-03-16",
+ "cnr": "UKHC010073072022",
+ "doc_kind": "order",
+ "order_type": "CLCON/157/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2F9zdcTt6VqnP8vc%2FHPQgdRi9tc6a3e9F7BvDZk5tQDh&caseno=CLCON/157/2022&cCode=1&cino=UKHC010073072022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "00dffdf62f0d174e1b74afd4a052cce88a19c745df21021db954e65b57e5e59f",
+ "fetched_at": "2026-11-03T12:59:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

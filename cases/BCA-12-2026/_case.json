@@ -6,7 +6,7 @@
  "registration_number": "BCA /12/2026",
  "registration_date": "2026-07-30",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-04",
  "decision_date": null,
  "case_stage": "BAIL MATTERS -98",
  "status": "",
@@ -40,6 +40,20 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-10-28",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-14",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -77,6 +91,15 @@
    "order_type": "BCA/12/2026",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmfyZT6%2BI6pix3SABoUh2Q%2FhENRp1nwB76A5jReYGv72&caseno=BCA/12/2026&cCode=1&cino=UKHC010135862026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-14",
+   "order_type": "BCA/12/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmfyZT6%2BI6pix3SABoUh2Q9R1nQmWRmoxIF8uChsEg5s&caseno=BCA/12/2026&cCode=1&cino=UKHC010135862026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

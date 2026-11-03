@@ -6,9 +6,9 @@
  "registration_number": "WPCRL /1968/2026",
  "registration_date": "2026-09-23",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-04",
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
  "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
@@ -59,6 +59,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": null,
+   "business_date": "2026-10-14",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-14",
    "business_date": "2026-10-05",
    "purpose": "FRESH CASES AS DEFECTIVE -236",
@@ -79,6 +86,15 @@
    "order_type": "WPCRL/1968/2026",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgu4sULZBLdYDcdt8ATJSJeeoVFjfsEd5kY1ft6Pm4pU&caseno=WPCRL/1968/2026&cCode=1&cino=UKHC010170352026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-14",
+   "order_type": "WPCRL/1968/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgu4sULZBLdYDcdt8ATJSJfxQ9iJ7tKKelSu%2BFGYn6hv&caseno=WPCRL/1968/2026&cCode=1&cino=UKHC010170352026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

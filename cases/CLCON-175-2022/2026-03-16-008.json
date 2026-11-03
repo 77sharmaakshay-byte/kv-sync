@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/175/2022:2026-03-16-008",
+ "title": "AJEET SINGH versus MASOOM ALI SARWAR",
+ "petitioner": "AJEET SINGH",
+ "respondent": "MASOOM ALI SARWAR",
+ "case_no": "CLCON/175/2022",
+ "case_type": "CLCON",
+ "decision_date": "2026-03-16",
+ "cnr": "UKHC010077112022",
+ "doc_kind": "order",
+ "order_type": "CLCON/175/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0yVD6F3LRC8O2J2Q37X36WRrOU3Eo56i5BYGBLbWTnO6&caseno=CLCON/175/2022&cCode=1&cino=UKHC010077112022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e3b7f777f63e04a7099261db4c38becb9eb36e3f964ec6764de0d3d6fce57f0f",
+ "fetched_at": "2026-11-03T13:00:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

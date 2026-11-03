@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1/2025:2025-08-08-002",
+ "title": "SABIR ALI versus UNION OF INDIA",
+ "petitioner": "SABIR ALI",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-08-08",
+ "cnr": "UKHC010000282025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6USsXNH1DfbvXaK%2FabKaHEkEp1mBhN8FHog0IAxVnP0&caseno=WPSS/1/2025&cCode=1&cino=UKHC010000282025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "70190065fb23eeda8e25913a09e8da2ead91e726211628ec79f250792ac5f7e6",
+ "fetched_at": "2026-11-03T12:48:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

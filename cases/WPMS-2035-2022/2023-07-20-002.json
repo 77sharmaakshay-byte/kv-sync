@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2035/2022:2023-07-20-002",
+ "title": "AMITABH JAUHARI versus PRESIDING OFFICER LABOUR COURT KASHIPUR",
+ "petitioner": "AMITABH JAUHARI",
+ "respondent": "PRESIDING OFFICER LABOUR COURT KASHIPUR",
+ "case_no": "WPMS/2035/2022",
+ "case_type": "WPMS",
+ "decision_date": "2023-07-20",
+ "cnr": "UKHC010123912022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2035/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01L3E7HpEIRjY%2FcQ76saV%2BuWEaAQFygwRdySc75DrGkY&caseno=WPMS/2035/2022&cCode=1&cino=UKHC010123912022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2d479350f5fd3dbc8a3a2d1178bf82f42336275f6c5563299f5042ca1d6fa5fe",
+ "fetched_at": "2026-11-03T13:18:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

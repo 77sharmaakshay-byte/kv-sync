@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1403/2026:2026-08-13-001",
+ "title": "ADITIYA CHAUDHARY versus STATE OF UTTARAKHAND",
+ "petitioner": "ADITIYA CHAUDHARY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1403/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-13",
+ "cnr": "UKHC010143832026",
+ "doc_kind": "order",
+ "order_type": "BA1/1403/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqAAn4gYeKJPveK7anHJko7bF1u4IOUn8AfQJT4kmeHw&caseno=BA1/1403/2026&cCode=1&cino=UKHC010143832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "88def33caadbc835ef60986f62505fe1a6e8d48bdb8cb0d5080acaaf0260f135",
+ "fetched_at": "2026-11-03T13:11:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

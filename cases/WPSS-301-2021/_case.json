@@ -1,0 +1,387 @@
+{
+ "cnr_number": "UKHC010018362021",
+ "case_type": "WPSS",
+ "filing_number": "WPSS /872/2021",
+ "filing_date": "2021-02-10",
+ "registration_number": "WPSS /301/2021",
+ "registration_date": "2021-02-10",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-04",
+ "decision_date": null,
+ "case_stage": "FOR FINAL HEARING -40",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "KANTA PRASAD SHARMA",
+   "advocate": "RAJEEV PATHAK"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARKAHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "DISTRICT EDUCATION OFFICER ( ELEMENTARY EDUCATION) UDHAM SINGH NAGAR",
+   "advocate": "C.S.C."
+  }
+ ],
+ "acts": [
+  {
+   "act": "OTHER",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2021-02-11",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-09-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-28",
+   "business_date": "2026-09-08",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-24",
+   "business_date": "2026-03-20",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-08-12",
+   "business_date": "2025-07-23",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-11-06",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-09-20",
+   "purpose": "ADMISSION MATTERS (TOP) -97",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-20",
+   "business_date": "2024-09-13",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-12",
+   "business_date": "2024-08-30",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-30",
+   "business_date": "2024-08-12",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-12",
+   "business_date": "2024-07-31",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-31",
+   "business_date": "2024-07-18",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-18",
+   "business_date": "2024-06-26",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-06-26",
+   "business_date": "2024-06-11",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-06-11",
+   "business_date": "2024-06-03",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-06-03",
+   "business_date": "2024-05-20",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-05-20",
+   "business_date": "2024-03-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-27",
+   "business_date": "2024-02-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-04",
+   "business_date": "2023-12-19",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-02-19",
+   "business_date": "2023-12-15",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-07",
+   "business_date": "2023-11-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-11-06",
+   "business_date": "2023-10-31",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-31",
+   "business_date": "2023-10-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-18",
+   "business_date": "2023-10-09",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-09",
+   "business_date": "2023-08-11",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-25",
+   "business_date": "2023-05-02",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-05-02",
+   "business_date": "2023-04-12",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-04-12",
+   "business_date": "2023-04-05",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-04-05",
+   "business_date": "2023-02-15",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-02-15",
+   "business_date": "2023-01-11",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-01-11",
+   "business_date": "2022-11-23",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-03-20",
+   "business_date": "2022-11-09",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-11-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-09-06",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-03-15",
+   "business_date": "2021-02-15",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-02-11",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2021-02-11",
+   "order_type": "WPSS/301/2021",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFOMJ5CT6zbpcOD6NvnZy8k%2Fy&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2021-02-15",
+   "order_type": "WPSS/301/2021",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFONFqXzo35gB5OPXbBOrLe8s&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-11-03",
+   "order_type": "WPSS/301/2021",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFONUjPLCfKpkcHzZJAs%2BwqL4&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-05-02",
+   "order_type": "WPSS/301/2021",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFONYNKdIGyyQ3VsMsKhI3p3n&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-10-18",
+   "order_type": "WPSS/301/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFOM0vlbYn3nd2KOOsDj6QgKr&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-10-31",
+   "order_type": "WPSS/301/2021",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFON0hzCpdnreFBVxv%2FMMrMHG&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-12-19",
+   "order_type": "WPSS/301/2021",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFONYcsEXptF9a7Zz7LTbWfbZ&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-20",
+   "order_type": "WPSS/301/2021",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFOPdXEAEFmigGpRhuyU4pLDX&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-07-23",
+   "order_type": "WPSS/301/2021",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFOPgewtxeey%2B72mE9WHaVrUp&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-08",
+   "order_type": "WPSS/301/2021",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFONEyckdXacEZu0EvcCatTSQ&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

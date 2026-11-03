@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/403/2026:2026-10-07-002",
+ "title": "SANJEEV KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SANJEEV KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/403/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010167742026",
+ "doc_kind": "order",
+ "order_type": "ABA/403/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu0gAplyNP4EkulHW2isIsVY4SwaKpHuEJ6PSVFzfD6t&caseno=ABA/403/2026&cCode=1&cino=UKHC010167742026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "90b90b31b3b7a2166987ad58a2d738e13e29592707629d44d8932fdadb22b979",
+ "fetched_at": "2026-11-03T12:55:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

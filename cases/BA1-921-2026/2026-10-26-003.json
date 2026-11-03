@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/921/2026:2026-10-26-003",
+ "title": "MANOJ KHATRI versus STATE OF UTTARAKHAND",
+ "petitioner": "MANOJ KHATRI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/921/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-26",
+ "cnr": "UKHC010090702026",
+ "doc_kind": "order",
+ "order_type": "BA1/921/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsc4pIG2vQecAajnrdkENLb0x%2BgwRyiNCEXemXu4TfQp&caseno=BA1/921/2026&cCode=1&cino=UKHC010090702026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "36ae1c79f1c79533dfbf7a83bc101d5bfcfe1ad0240cf7ad9a11563b77f18b21",
+ "fetched_at": "2026-11-03T13:12:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1215/2026:2026-07-14-001",
+ "title": "NITISH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "NITISH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1215/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-14",
+ "cnr": "UKHC010120482026",
+ "doc_kind": "order",
+ "order_type": "BA1/1215/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnTjckd60htg66r%2FS90v%2FR0CBjE5M5F20xHgA3qGJG2k&caseno=BA1/1215/2026&cCode=1&cino=UKHC010120482026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e360132890efeaf7186ebdc8e9731df914037e88a15a3ee74eb18a87f1ab48d9",
+ "fetched_at": "2026-11-03T13:11:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

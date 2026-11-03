@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2437/2026:2026-09-18-001",
+ "title": "KANIKA versus THE EXECUTIVE ENGINEER",
+ "petitioner": "KANIKA",
+ "respondent": "THE EXECUTIVE ENGINEER",
+ "case_no": "WPSS/2437/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010164642026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2437/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqorOlM9Eq2Q%2FEiBiKPV0WAB1Ei9EWH5v8zhqR83uI9o&caseno=WPSS/2437/2026&cCode=1&cino=UKHC010164642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dec9180448eef2ebba7823f2322a18766a9ec07a25ad1bd7e57e900b99e40fa0",
+ "fetched_at": "2026-11-03T12:42:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

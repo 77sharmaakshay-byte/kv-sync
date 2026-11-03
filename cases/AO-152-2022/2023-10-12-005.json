@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/152/2022:2023-10-12-005",
+ "title": "NATIONAL INSURANCE COMPANY LIMITED versus NEELU",
+ "petitioner": "NATIONAL INSURANCE COMPANY LIMITED",
+ "respondent": "NEELU",
+ "case_no": "AO/152/2022",
+ "case_type": "AO",
+ "decision_date": "2023-10-12",
+ "cnr": "UKHC010058252022",
+ "doc_kind": "order",
+ "order_type": "AO/152/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00NdxKMlhlNH4QcKximqqgczq52nHjvUoPRQ0fRBROrH&caseno=AO/152/2022&cCode=1&cino=UKHC010058252022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "db744105c6efc073fdb335425db89cc6765503b6acb3ed161d0973082c296cbc",
+ "fetched_at": "2026-11-03T12:58:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

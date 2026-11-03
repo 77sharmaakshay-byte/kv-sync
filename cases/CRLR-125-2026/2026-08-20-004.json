@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/125/2026:2026-08-20-004",
+ "title": "PARVEEN B versus ABDUL KADIR",
+ "petitioner": "PARVEEN B",
+ "respondent": "ABDUL KADIR",
+ "case_no": "CRLR/125/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010025822026",
+ "doc_kind": "order",
+ "order_type": "CRLR/125/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnj2xjSNBNEJ%2FWYcZvdbvD%2F8AnwkMAwM6D1d3z8QqPer&caseno=CRLR/125/2026&cCode=1&cino=UKHC010025822026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d4fc6c8d9af14b4d025378d16aeb5a7c061a6cecefe39afa2f0ec868791c7d30",
+ "fetched_at": "2026-11-03T13:12:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

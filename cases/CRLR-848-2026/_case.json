@@ -1,0 +1,59 @@
+{
+ "cnr_number": "UKHC010197562026",
+ "case_type": "CRLR",
+ "filing_number": "CRLR /9533/2026",
+ "filing_date": "2026-11-02",
+ "registration_number": "CRLR /848/2026",
+ "registration_date": "2026-11-02",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-04",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "SAROJBALA",
+   "advocate": "NALIN SAUN"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "NIHARIKHA SEMWAL",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "308(2), 351(2), 352"
+  },
+  {
+   "act": "Information Technology Act, 2000 (Act No. 21 of 2000)",
+   "sections": "67"
+  },
+  {
+   "act": "Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989 (Act No. 33 of 1989)",
+   "sections": "3(1)(r), 3(1)(s)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

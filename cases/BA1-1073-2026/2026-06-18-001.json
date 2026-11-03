@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1073/2026:2026-06-18-001",
+ "title": "SHOAEB versus STATE OF UTTARAKHAND",
+ "petitioner": "SHOAEB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1073/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-18",
+ "cnr": "UKHC010106712026",
+ "doc_kind": "order",
+ "order_type": "BA1/1073/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpe2XZ3xKcNHs8UrBOroq9Azh5RzT6gIA0gO%2FSXMh9Or&caseno=BA1/1073/2026&cCode=1&cino=UKHC010106712026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "180509811db7fd211812a4439442611c99101503593fe9b896fee174741e977b",
+ "fetched_at": "2026-11-03T13:10:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

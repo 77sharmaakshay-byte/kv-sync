@@ -1,0 +1,139 @@
+{
+ "cnr_number": "UKHC010000282025",
+ "case_type": "WPSS",
+ "filing_number": "WPSS /13/2025",
+ "filing_date": "2025-01-03",
+ "registration_number": "WPSS /1/2025",
+ "registration_date": "2025-01-03",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-04",
+ "decision_date": null,
+ "case_stage": "FOR FINAL HEARING -40",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "SABIR ALI",
+   "advocate": "VINAY KUMAR,Sudha Tamta,Sudha Tamta, ,Sudha Tamta"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "UNION OF INDIA",
+   "advocate": "DEPUTY  S.G."
+  },
+  {
+   "name": "JOINT SECRETARY EXECUTIVE COUNCIL",
+   "advocate": "MONIKA PANT"
+  },
+  {
+   "name": "NATIONAL INSTITUTE FOR THE EMPOWERMENT OF PERSONS WITH VISUAL DISABILITES",
+   "advocate": "MONIKA PANT"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2025-01-06",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-09-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-24",
+   "business_date": "2026-07-29",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-16",
+   "business_date": "2026-03-23",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-24",
+   "business_date": "2025-12-02",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-02",
+   "business_date": "2025-11-03",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-11-03",
+   "business_date": "2025-08-08",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-01-09",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-01-06",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2025-01-09",
+   "order_type": "WPSS/1/2025",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6USsXNH1DfbvXaK%2FabKaHH%2Fss5RVvgA9hHB9EB1TQyp&caseno=WPSS/1/2025&cCode=1&cino=UKHC010000282025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-08-08",
+   "order_type": "WPSS/1/2025",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6USsXNH1DfbvXaK%2FabKaHEkEp1mBhN8FHog0IAxVnP0&caseno=WPSS/1/2025&cCode=1&cino=UKHC010000282025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-03-23",
+   "order_type": "WPSS/1/2025",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6USsXNH1DfbvXaK%2FabKaHF6q3ae6g2RyLS%2FSV%2BLTW9M&caseno=WPSS/1/2025&cCode=1&cino=UKHC010000282025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

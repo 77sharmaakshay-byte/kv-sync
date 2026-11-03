@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SABA/33/2026:2026-10-07-001",
+ "title": "LUCKY versus STATE OF UTTARAKHAND",
+ "petitioner": "LUCKY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SABA/33/2026",
+ "case_type": "SABA",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010178142026",
+ "doc_kind": "order",
+ "order_type": "SABA/33/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoYTlPrZYJXHnWwXX8uzt2MYde4RkcWZhAzWlRISdY4k&caseno=SABA/33/2026&cCode=1&cino=UKHC010178142026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "461e6328883e21babb077b182f678cf1a6d0a5cc6a508b5d8545efa5f05807e3",
+ "fetched_at": "2026-11-03T13:09:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

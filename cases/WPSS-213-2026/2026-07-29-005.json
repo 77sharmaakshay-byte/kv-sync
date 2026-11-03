@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/213/2026:2026-07-29-005",
+ "title": "NISHA versus UNION OF INDIA",
+ "petitioner": "NISHA",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/213/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-07-29",
+ "cnr": "UKHC010014132026",
+ "doc_kind": "order",
+ "order_type": "IA/3/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtmjNX5uw%2Bb4u8SkhcWzdz%2BeA024NZgAULH%2Bw2J2NBv2&caseno=WPSS/213/2026&cCode=1&cino=UKHC010014132026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f93bad38501437716d9511473f748166be4a7238f264a16e90e0f38cd9fa703e",
+ "fetched_at": "2026-11-03T12:45:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/556/2026:2026-05-18-002",
+ "title": "POPIN versus STATE OF UTTARAKHAND",
+ "petitioner": "POPIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/556/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-18",
+ "cnr": "UKHC010054832026",
+ "doc_kind": "order",
+ "order_type": "BA1/556/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlxCNwf2duB2HVEUOto9pGGDLkT49SB8etTUWxX4jU66&caseno=BA1/556/2026&cCode=1&cino=UKHC010054832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7dc02482edd91666d47e75e68d16830cc5f4fb181b77e12324e9ff32a552202b",
+ "fetched_at": "2026-11-03T13:10:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

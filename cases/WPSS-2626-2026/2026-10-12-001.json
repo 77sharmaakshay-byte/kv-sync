@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2626/2026:2026-10-12-001",
+ "title": "VIJAY SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2626/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010181262026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2626/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiWKWhCyQot4uvBkScp5iykHsIOMsstMJjjC2%2FyI8w1Q&caseno=WPSS/2626/2026&cCode=1&cino=UKHC010181262026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb4e7f6452130084d28d5daa23b9a1a3464fcadf719ccfd9144b5e60a7de6bd1",
+ "fetched_at": "2026-11-03T12:42:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

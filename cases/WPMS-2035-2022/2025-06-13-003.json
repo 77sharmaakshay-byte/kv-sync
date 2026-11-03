@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2035/2022:2025-06-13-003",
+ "title": "AMITABH JAUHARI versus PRESIDING OFFICER LABOUR COURT KASHIPUR",
+ "petitioner": "AMITABH JAUHARI",
+ "respondent": "PRESIDING OFFICER LABOUR COURT KASHIPUR",
+ "case_no": "WPMS/2035/2022",
+ "case_type": "WPMS",
+ "decision_date": "2025-06-13",
+ "cnr": "UKHC010123912022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2035/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01L3E7HpEIRjY%2FcQ76saV%2BvDPhzG1o7wr%2Bjveh5ReNW%2B&caseno=WPMS/2035/2022&cCode=1&cino=UKHC010123912022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9af537433981ddeec3366b8fa6c996f22159b322d17de015eafc5d7b64091d4a",
+ "fetched_at": "2026-11-03T13:18:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

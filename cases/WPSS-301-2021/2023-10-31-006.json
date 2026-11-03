@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/301/2021:2023-10-31-006",
+ "title": "KANTA PRASAD SHARMA versus STATE OF UTTARKAHAND",
+ "petitioner": "KANTA PRASAD SHARMA",
+ "respondent": "STATE OF UTTARKAHAND",
+ "case_no": "WPSS/301/2021",
+ "case_type": "WPSS",
+ "decision_date": "2023-10-31",
+ "cnr": "UKHC010018362021",
+ "doc_kind": "order",
+ "order_type": "WPSS/301/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJeqjr3MhaEfxzJW0ppQFON0hzCpdnreFBVxv%2FMMrMHG&caseno=WPSS/301/2021&cCode=1&cino=UKHC010018362021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d0fe3c04cfbc27efb759f39596e48a907d2a2590308a66d82ec3616c8f97c580",
+ "fetched_at": "2026-11-03T12:46:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

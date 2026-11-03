@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2124/2019:2026-09-28-012",
+ "title": "PURUSHOTTAM KUMAR versus STATE OF UTTARAKHAND THROUGH SECRETARY ELEMENTARY EDUCATION DEPARTMENT",
+ "petitioner": "PURUSHOTTAM KUMAR",
+ "respondent": "STATE OF UTTARAKHAND THROUGH SECRETARY ELEMENTARY EDUCATION DEPARTMENT",
+ "case_no": "WPSS/2124/2019",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010145492019",
+ "doc_kind": "order",
+ "order_type": "WPSS/2124/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2FgmalmLKGvVWiu%2F997Cae6wpFoiIf6BZkszrCBA6RUQ&caseno=WPSS/2124/2019&cCode=1&cino=UKHC010145492019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "63407269b38d7a0f35f673b919a7ffee8999e5842b708f48677faad55be7b578",
+ "fetched_at": "2026-11-03T12:46:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

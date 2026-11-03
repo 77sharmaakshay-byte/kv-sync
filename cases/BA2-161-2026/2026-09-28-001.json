@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/161/2026:2026-09-28-001",
+ "title": "SAMEER versus STATE OF UTTARAKHAND",
+ "petitioner": "SAMEER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/161/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010171052026",
+ "doc_kind": "order",
+ "order_type": "BA2/161/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmp8trTH9OwEr8X6%2FDmJzJMYSt1PzmbVuYBpev2%2BW73Z&caseno=BA2/161/2026&cCode=1&cino=UKHC010171052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3690b3024719f505d5e9ce3c8b3369fbdc38c4631bfb8459d2eb81149758da3b",
+ "fetched_at": "2026-11-03T13:12:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

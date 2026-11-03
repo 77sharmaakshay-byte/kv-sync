@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/445/2026:2026-03-31-001",
+ "title": "SHRAVAN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SHRAVAN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/445/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-03-31",
+ "cnr": "UKHC010045012026",
+ "doc_kind": "order",
+ "order_type": "BA1/445/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo0d7ItFFSW5X3oTW8zuf%2BndSpAKbgUf8x42P6gM1edY&caseno=BA1/445/2026&cCode=1&cino=UKHC010045012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc2569c299c6cb815202341306c7fa8e2d3580038d8e8eea11d8bfedacdc4469",
+ "fetched_at": "2026-11-03T13:11:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

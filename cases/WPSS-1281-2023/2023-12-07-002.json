@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1281/2023:2023-12-07-002",
+ "title": "MAHENDRA SINGH versus FOOD CORPORATION OF INDIA",
+ "petitioner": "MAHENDRA SINGH",
+ "respondent": "FOOD CORPORATION OF INDIA",
+ "case_no": "WPSS/1281/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-07",
+ "cnr": "UKHC010116702023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1281/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYxM77cbi2VK02xIZXSWg5GmQVQ5CDVFoaY1wXcrHElCJ&caseno=WPSS/1281/2023&cCode=1&cino=UKHC010116702023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "61f309a2c0d767148570696f12e9ca869656173cbaaf1b8209016887a0ad1c38",
+ "fetched_at": "2026-11-03T12:47:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

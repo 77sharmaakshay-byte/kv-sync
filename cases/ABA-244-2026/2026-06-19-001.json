@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/244/2026:2026-06-19-001",
+ "title": "ANUSHKA ARORA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANUSHKA ARORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/244/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-06-19",
+ "cnr": "UKHC010109402026",
+ "doc_kind": "order",
+ "order_type": "ABA/244/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp7srTAWDis%2FmTs%2BhytuXXw%2Fz5AbDzYjd8awtNVcUpQT&caseno=ABA/244/2026&cCode=1&cino=UKHC010109402026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d124b747e2716e771eb68469a26343f23e79b48656b77ff4ca65598dbb7c671f",
+ "fetched_at": "2026-11-03T13:09:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

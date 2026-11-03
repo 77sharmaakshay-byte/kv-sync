@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1215/2026:2026-10-16-003",
+ "title": "NITISH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "NITISH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1215/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-16",
+ "cnr": "UKHC010120482026",
+ "doc_kind": "order",
+ "order_type": "BA1/1215/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnTjckd60htg66r%2FS90v%2FR0%2Fod7I1x%2FEba73XqG40Txv&caseno=BA1/1215/2026&cCode=1&cino=UKHC010120482026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c4e2af1a13a5093fc47df51f637d06fdd7122b92b2caa6246afeb13ec4b0faab",
+ "fetched_at": "2026-11-03T13:11:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

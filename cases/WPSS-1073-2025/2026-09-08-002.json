@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1073/2025:2026-09-08-002",
+ "title": "UTTAM KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "UTTAM KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1073/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010094892025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1073/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4B5enQ3pKNUbVTPXAAtG9kLF%2BUTo6WtVnbtn6nZzuHt&caseno=WPSS/1073/2025&cCode=1&cino=UKHC010094892025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c8449c0eabe0ab3a96778e1b73234a55c9a93269b957a42a53ed7c306dd8ddbf",
+ "fetched_at": "2026-11-03T12:41:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

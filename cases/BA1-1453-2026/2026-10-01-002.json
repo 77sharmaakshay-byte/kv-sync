@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1453/2026:2026-10-01-002",
+ "title": "AMIT KASHYAP versus STATE OF UTTARAKHAND",
+ "petitioner": "AMIT KASHYAP",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1453/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010149682026",
+ "doc_kind": "order",
+ "order_type": "BA1/1453/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlUJq8LcCpYbtDtsvwfpSCgAcP59OWrmj4x8eOmQW6PM&caseno=BA1/1453/2026&cCode=1&cino=UKHC010149682026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8edb1d112d3d3239157ee0b3252840b84b5acf21aae55ce2782f04f5c8d33ce1",
+ "fetched_at": "2026-11-03T13:14:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

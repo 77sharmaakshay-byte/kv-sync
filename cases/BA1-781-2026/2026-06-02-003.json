@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/781/2026:2026-06-02-003",
+ "title": "MOHAMMAD AAMIR versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "MOHAMMAD AAMIR",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA1/781/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-02",
+ "cnr": "UKHC010078522026",
+ "doc_kind": "order",
+ "order_type": "BA1/781/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqHkPLdvyn0Rw3nLbW44OViF1py0%2FdzW4NpYil17wejE&caseno=BA1/781/2026&cCode=1&cino=UKHC010078522026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a333be1d06e976c81a01e5ccb51c908c1081fe7a9664eeeef07ae9c8a2cd826b",
+ "fetched_at": "2026-11-03T13:11:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

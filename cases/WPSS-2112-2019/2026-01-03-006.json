@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2112/2019:2026-01-03-006",
+ "title": "SARVESH versus STATE OF UTTARAKHAND",
+ "petitioner": "SARVESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2112/2019",
+ "case_type": "WPSS",
+ "decision_date": "2026-01-03",
+ "cnr": "UKHC010144232019",
+ "doc_kind": "order",
+ "order_type": "WPSS/2112/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BUSHH%2B4gPRKD9r2Q%2F4zKpf3ICtyTaYBVyXWb9CSkaQR&caseno=WPSS/2112/2019&cCode=1&cino=UKHC010144232019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d88c1087320caffba66ac481ed94fee579a45ec87050b45b75dbd9c3f48c79dd",
+ "fetched_at": "2026-11-03T12:45:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

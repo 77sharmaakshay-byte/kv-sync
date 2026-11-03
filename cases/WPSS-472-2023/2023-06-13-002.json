@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/472/2023:2023-06-13-002",
+ "title": "BIRENDRA ISNGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BIRENDRA ISNGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/472/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-06-13",
+ "cnr": "UKHC010043592023",
+ "doc_kind": "order",
+ "order_type": "WPSS/472/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY64uVpwnQLlIHlxQUQ3ArAL0qyoqukIfn5tHBQIaBPdq&caseno=WPSS/472/2023&cCode=1&cino=UKHC010043592023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6442c791f4fadda3bd8ceda744fb917afd227977e5d5ed9c3e3979eeeb26bcb7",
+ "fetched_at": "2026-11-03T12:47:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

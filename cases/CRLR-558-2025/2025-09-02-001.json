@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/558/2025:2025-09-02-001",
+ "title": "ABDUL KADIR versus PARVEEN BE",
+ "petitioner": "ABDUL KADIR",
+ "respondent": "PARVEEN BE",
+ "case_no": "CRLR/558/2025",
+ "case_type": "CRLR",
+ "decision_date": "2025-09-02",
+ "cnr": "UKHC010136492025",
+ "doc_kind": "order",
+ "order_type": "CRLR/558/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmw0MrDNqHWYx1HZtrZK%2BEuwhUfic1f4IYrNFmh6cjrcH&caseno=CRLR/558/2025&cCode=1&cino=UKHC010136492025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dd528497dc8b2c04e5c5bd1826057b0b81f8c216f316768ce25a29ee2b63348c",
+ "fetched_at": "2026-11-03T13:15:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

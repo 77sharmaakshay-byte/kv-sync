@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/161/2022:2026-03-16-006",
+ "title": "OM PRAKASH versus MASSOOM ALI SARWAR",
+ "petitioner": "OM PRAKASH",
+ "respondent": "MASSOOM ALI SARWAR",
+ "case_no": "CLCON/161/2022",
+ "case_type": "CLCON",
+ "decision_date": "2026-03-16",
+ "cnr": "UKHC010073212022",
+ "doc_kind": "order",
+ "order_type": "CLCON/161/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2F2LATcN0gekv9r57gqEJ7241sNBo8ssaEoAFKn2cJUd&caseno=CLCON/161/2022&cCode=1&cino=UKHC010073212022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d85a197610e01268414326f2c2e7332f6583f1304a3db49d8ff32485e6115d9",
+ "fetched_at": "2026-11-03T12:59:57+00:00",
+ "fetched_by": "fetch_live.py"
+}
