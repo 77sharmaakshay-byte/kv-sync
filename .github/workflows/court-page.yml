@@ -27,7 +27,8 @@ jobs:
           KEY=$(printf 'nyay-india:%s' "$T" | sha256sum | cut -c1-40); echo "::add-mask::$KEY"
           curl -sS -m 90 -G -D h.txt -o page.bin -H "Authorization: Bearer $KEY" --data-urlencode "url=$PAGE" "$URL/api/causelist"
           cat h.txt; echo "== $(wc -c < page.bin) bytes"
-          head -c 60000 page.bin | tr -d '\r' | fold -w 400
+          # data: wali tasveerein (lakhon akshar) hatao, baaki HTML/JS dikhao
+          python3 -c "import re,sys; t=open('page.bin','rb').read().decode('utf-8','replace'); t=re.sub(r'data:[^\x27\x22)\s]{200,}','data:…',t); print(t[:80000])" | tr -d '\r' | fold -w 400
       - uses: actions/upload-artifact@v4
         with:
           name: page
