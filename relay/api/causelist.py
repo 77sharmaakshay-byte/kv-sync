@@ -4,6 +4,7 @@ GitHub ka "Mac cause list" workflow bulata hai; text, data branch aur app wahi b
 ?kick=... = Vercel ka timer (vercel.json 'crons', shaam/subah): GitHub ka apna schedule ghanton der se ya chalta hi
 nahi (1-2 Nov ki shaam ek bhi run nahi), isliye yahan se GitHub ko "Mac cause list" chalane ko kehte hain.
 TRIGGER_TOKEN: sirf kv-sync, sirf Actions read/write (workflow chala sakta hai; code, files, secrets nahi).
+?url=... = court ki do sites (ehcr, highcourtofuttarakhand.in) ka koi page jaisa India se dikhta hai (jaanch ke liye).
 Env (.github/workflows/india-server.yml lagata hai): CRON_SECRET (chaabi), TRIGGER_TOKEN, REPO.
 _ehcr.py = scripts/ukhc_ehcr.py ki copy (lagate waqt).
 """
@@ -15,6 +16,7 @@ import tarfile
 import tempfile
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from http.server import BaseHTTPRequestHandler
 from pathlib import Path
@@ -54,11 +56,30 @@ def kick():
     return {"ok": code == 204, "github": code}
 
 
+COURT_SITES = ("https://ehcr.uk.gov.in/", "https://highcourtofuttarakhand.in/", "https://www.highcourtofuttarakhand.in/")
+
+
+def page(url):
+    """Sirf court ki sites (khula proxy nahi); _ehcr ka opener: purane TLS ki chhoot + browser jaisa User-Agent."""
+    if not url.startswith(COURT_SITES):
+        return 400, "application/json", b'{"ok": false, "error": "sirf court ki site"}'
+    try:
+        with _ehcr.opener().open(url, timeout=60) as r:
+            return r.status, r.headers.get("Content-Type", "text/html"), r.read()
+    except urllib.error.HTTPError as e:
+        return e.code, "text/plain", e.read()
+    except Exception as e:  # noqa: BLE001
+        return 502, "application/json", json.dumps({"ok": False, "error": repr(e)}).encode()
+
+
 class handler(BaseHTTPRequestHandler):
     def do_GET(self):
         key = os.environ.get("CRON_SECRET", "")
         if not key or self.headers.get("Authorization") != f"Bearer {key}":
             return self.reply(401, "application/json", b'{"ok": false, "error": "chaabi galat"}')
+        q = urllib.parse.parse_qs(urllib.parse.urlparse(self.path).query)
+        if "url" in q:
+            return self.reply(*page(q["url"][0]))
         if "kick=" in self.path:
             res = kick()
             print(json.dumps(res))

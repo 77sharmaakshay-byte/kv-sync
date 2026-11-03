@@ -1,0 +1,35 @@
+# Court ki site ka koi page jaisa India se dikhta hai (India server, Mumbai ke zariye) — naye feature ke liye page ka
+# dhaancha dekhna (jaise display board, live streaming). Sirf ehcr.uk.gov.in aur highcourtofuttarakhand.in.
+name: Court page dekho
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Page ka poora URL (sirf court ki site)'
+        default: 'https://ehcr.uk.gov.in/displayboard.php'
+
+permissions:
+  contents: read
+
+jobs:
+  dekho:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: India server se page
+        env:
+          T: ${{ secrets.VERCEL_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+          PAGE: ${{ inputs.url }}
+        run: |
+          URL=$(gh api "repos/${{ github.repository }}/contents/state/india_url?ref=data" -H "Accept: application/vnd.github.raw")
+          KEY=$(printf 'nyay-india:%s' "$T" | sha256sum | cut -c1-40); echo "::add-mask::$KEY"
+          curl -sS -m 90 -G -D h.txt -o page.bin -H "Authorization: Bearer $KEY" --data-urlencode "url=$PAGE" "$URL/api/causelist"
+          cat h.txt; echo "== $(wc -c < page.bin) bytes"
+          head -c 60000 page.bin | tr -d '\r' | fold -w 400
+      - uses: actions/upload-artifact@v4
+        with:
+          name: page
+          path: page.bin
+          retention-days: 3
