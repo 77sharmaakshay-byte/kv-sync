@@ -163,3 +163,6 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 .meter { height: 8px; border-radius: 4px; background: var(--line-2); overflow: hidden; }
 .meter > i { display: block; height: 100%; background: var(--brand-fill); }
 .pt > .chip { flex: none; white-space: nowrap; }
+.btn.play { min-height: 44px; font-size: 15px; align-self: flex-start; padding: 0 14px; }
+.btn.play svg { width: 16px; height: 16px; fill: currentColor; stroke: none; margin-right: 6px; }
+.row .btn.play { margin-top: 4px; }
