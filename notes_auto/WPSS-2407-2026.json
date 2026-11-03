@@ -1,0 +1,190 @@
+{
+ "auto": true,
+ "free": true,
+ "badge": "Machine vishleshan · shabdon se",
+ "vishay": {
+  "shreni": "Service",
+  "vishay": "Orders ke shabdon se",
+  "upvishay": "defect, forward, appris, remov",
+  "mudde": [],
+  "aur": []
+ },
+ "shabd": [
+  "defect",
+  "forward",
+  "appris",
+  "remov",
+  "releas"
+ ],
+ "similar": [
+  {
+   "id": 16238,
+   "side": "other",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Supreme Court",
+   "tag": "Nipataara · shabdon se mila",
+   "verified": false,
+   "title": "INDIRA SAWHNEY versus UNION OF INDIA AND ORS.",
+   "cite": "1999 INSC 553 · 13.12.1999",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Nipataara.",
+   "quote": "“234 [1999) SUPP. ' 5 S.C.R. A judgments of this Court based on Articles 14, 16(1) and 16(4) ifthe defect is not removed by the legislation. Neither Parliament nor the State Legislature can make any law to continue reservation to the creamy layer inasmuch as the judgments of this Court are based on Articles 14 and 16(1) of the Constitution of India, and no law can obviously be made to override the B provisions of Arti…”"
+  },
+  {
+   "id": 9989,
+   "side": "good",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "MATHURA PRASAD versus AJEEM KHAN",
+   "cite": "1990 INSC 140 · 17.04.1990",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“-~ '-f'' MATHURA PRASAD v. AJEEM KHAN [KASLIWAL, J.] 509 circumstances under which the nomination paper of Ramprakash came up for scrutiny and was rejected were correct. Thus a perusal of the circumstances put forward by these witnesses at the time of scrutiny and rejection of the nomination paper of Ramprakash shows that Ramprakiish himself was not present and even his proposer Jaiprakash after having gone to fetch …”"
+  },
+  {
+   "id": 12035,
+   "side": "good",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Supreme Court",
+   "tag": "Aanshik paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "THE GOVT. OF INDIA AND ORS. ETC. versus THE MADRAS RUBBER FACTORY LTD. ETC.",
+   "cite": "1995 INSC 336 · 03.05.1995",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Aanshik paksh mein.",
+   "quote": "“( , { GOVT. OF INDIA'· MADRAS RUBBER FACTORY LTD. (B.P. JEEVAN REDDY,J.) 1185 tyre does not mean that the new tyre is being sold at a discount - nor can A it be suggested that the discount is being given out of the price of the old tyre. The learned Additional Solicitor General brought to our notice that in the judgment dated i;:>ecember 20, 1986 this court has disallowed the said claim and that the assessee has not …”"
+  },
+  {
+   "id": 2530,
+   "side": "good",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "M/S. OUCHTERLONEY VALLEY ESTATES LTD. versus STATE OF KERALA",
+   "cite": "1964 INSC 226 · 23.10.1964",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“A B c D E F G H OUCHTERLONEY ESTATES v. STATE (Gajendragadkar C.J.) 805 Coimbatore. The quantities of tea produced by the appellant were sold by public auction at Fort Cochin; the purchasers paid the consideration at Fort Cochin and obtained from the auc-tioneers delivery notes requesting the godown keepers at Welling-don Island to de! iver the goods. After the goods are produced, they are sent to the godowns at Well…”"
+  },
+  {
+   "id": 89,
+   "side": "bad",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "SRI SANKARI PRASAD SINGH DEO versus UNION OF INDIA AND STATE OF BIHAR",
+   "cite": "1951 INSC 47 · 05.10.1951",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“1951 Sankari Prasad Singh Deo v. Union of India and State of Bihar. Patanjali Sastri f. 96 [1952] High Courts at Allahabad and Nagpur upheld the validity of the corresponding legislation in Uttar Pradesh and Madhya Pradesh respectively. Appeals from those decisions are pending in this Court. Peti-tions filed in this Court by some other zemindars seeking the determination of the same question are also pending. At this…”"
+  },
+  {
+   "id": 33897,
+   "side": "bad",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "ABHISHEK KUMAR SINGH versus G. PATTANAIK & ORS.",
+   "cite": "2021 INSC 305 · 03.06.2021",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“A B C D E F G H 329 and an order to that effect was passed on 11.8.2017. The said order later on came to be set aside vide judgment dated 28.11.2017 of the High Court. 25. Meanwhile, a complaint was received by the U.P. Government (Home Department) in regard to various examinations pertaining to recruitment to several posts (including the present recruitment process). The government forwarded the same to SIT for inve…”"
+  },
+  {
+   "id": 7343,
+   "side": "bad",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WAMAN RAO & ORS. ETC. ETC. versus UNION OF INDIA AND ORS.",
+   "cite": "1980 INSC 216 · 13.11.1980",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“.. ,T ' WAMAN RAO v. UNION (Chandrachud, C.J.) the matter beyond doubt by a clarificatory addition to article 19(6). Another article in regard to which unanticipated difiicultics have arisen is article 31. The validity of agrarian reform measures passed by the State Legislatures in the last three years has, in spite of the provisions of clauses ( 4) and (6) of article 31, formed the subject-matter of dilatory liti-ga…”"
+  },
+  {
+   "id": 261124,
+   "side": "other",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Nainital HC",
+   "tag": "Nipataara · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/1669/2023 of RAM KUMAR Vs STATE OF UTTARAKHAND",
+   "cite": "WPMS/1669/2023 · 20.11.2025",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Nipataara.",
+   "quote": "“SL. No. Date Office Notes, reports, orders or proceedings or directions and Registrar's order with Signatures COURT'S OR JUDGE'S ORDERS WPMS/1669/2023 Hon'ble Manoj Kumar Tiwari, J. Ms. Mamta Bisht, Deputy Advocate General and Mr. Suyash Pant, Standing Counsel for the State of Uttarakhand / respondent nos. 1 & 4. 2. This writ petition was filed on 9.6.2023. Registry has pointed out as many as six defects in the petit…”"
+  },
+  {
+   "id": 147139,
+   "side": "bad",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/2504/2017 of Haridwar Ayurvedic College And Research Centre AND ANOTHER Vs Union Of India AND OTHERS",
+   "cite": "WPMS/2504/2017 · 07.10.2017",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“2 resigned but on inspection, the Committee found this assertion to be incorrect as even for the existing three members i.e. Dr. Rakhi Kulkarni, Dr. Shubhangi and Dr. Shailesh Deshmukh, the petitioners could not give any document (neither originals nor photocopies) in support of these faculty members. There were certain shortcomings pointed out, such as, in the library and in other cases. Moreover, certain deficienci…”"
+  },
+  {
+   "id": 164467,
+   "side": "good",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPSS/3462/2017 of Amar Nath Singh Bisht Vs State Of Uttarakhand AND OTHERS",
+   "cite": "WPSS/3462/2017 · 13.06.2018",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“IN THE HIGH COURT OF UTTARAKHAND AT NAINITAL Writ Petition (S/S) No. 3462 of 2017 Amar Nath Singh Bisht ... Petitioner Versus State of Uttarakhand and others ...Respondents Present: Mr. Bhagwat Mehra, Advocate for the petitioner Mr. C.S. Rawat, Additional Chief Standing Counsel for the State of Uttarakhand/respondent nos. 1 to 4 Hon'ble Sharad Kumar Sharma, J. The petitioner has retired from his service on 30.06.2015…”"
+  },
+  {
+   "id": 137241,
+   "side": "good",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/795/2016 of Harish Chandra Singh Rawat Vs Union Of India AND ANOTHER",
+   "cite": "WPMS/795/2016 · 21.04.2016",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“64 6(a). This morning at about 11 a.m., a closed cover was received at Raj Bhawan from the office of Shri Bahuguna, MLA. The closed cover had a representation addressed to the Governor, by Shri Harak Singh Rawat, MLA, one of the disgruntled Congressmen. The letter also had a pen drive attached with it. The representation indicates threat to the rebel MLAs and their families. Accordingly, the chief Secretary has been …”"
+  },
+  {
+   "id": 130972,
+   "side": "bad",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPCRL/1130/2015 of Ravi Shankar Chaube Vs State Of Uttarakhand AND ANOTHER",
+   "cite": "WPCRL/1130/2015 · 02.11.2015",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“WPCRL No. 1130 of 2015 Hon'ble Alok Singh, J. None is present for the petitioner. Writ petition was filed on 10.09.2015 with defect. Vide order dated 11.09.2015, petitioner was required to remove defects; thereafter, vide order dated 14.09.2015 again petitioner was given liberty to remove the defects; vide order dated 15.09.2015, this Court was further pleased to grant time to remove defects. Petitioner has not remov…”"
+  },
+  {
+   "id": 190014,
+   "side": "bad",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "CRLR/33/2019 of G. B. ENTERPRISES (JASPUR) Vs STATE OF UTTARAKHAND",
+   "cite": "CRLR/33/2019 · 09.01.2020",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“revisionist was granted time to remove the defects. Thereafter, twice the time was taken by the revisionist to remove the defect, i.e. on 29.01.2019 and 27.02.2019 and it is almost now a year has lapsed where the defect has not been removed. In such an eventuality, since the defect as pointed out by the Registry has not been removed, this Court declines to entertain the Revision. Consequently, the Criminal Revision i…”"
+  },
+  {
+   "id": 194984,
+   "side": "good",
+   "q": "(\"defect\" AND \"forward\") OR (\"defect\" AND \"appris\") OR (\"defect\" AND \"remov\") OR (\"defect\" AND \"releas\") OR (\"forward\" AND \"appris\") OR (\"forward\" AND \"remov\") OR (\"forward\" AND \"releas\") OR (\"appris\" AND \"remov\") OR (\"appris\" AND \"releas\") OR (\"remov\" AND \"releas\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/339/2021 of PADMA NEGI Vs STATE OF UTTARKAHAND",
+   "cite": "WPMS/339/2021 · 06.08.2021",
+   "why": "Is case ke orders ke khaas shabd (defect, forward, appris, remov, releas) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“17 memorandum or circulars issued by the State. A similar view as taken by the Hon'ble Apex Court in a judgment reported in (1994) 6 Supreme Court Cases 77 Bhubaneshawar Singh and another vs. Union of India and another, which had dealt with the principles of an effect of a validating act and its retrospective operation though the power of legislature has been upheld to be valid, to apply a law retrospectively and rem…”"
+  }
+ ],
+ "disclaimer": "Is case ke orders mein vishay saaf nahi likha (zyaadatar tareekh / kaam-kaaj). Ye faisle orders ke khaas shabdon se mile hain, isliye milaan kamzor ho sakta hai — advocate jaanch lein. Quote faisle ka asli paragraph hai. Behtar nateeje ke liye Khoj mein case ki baat likhein."
+}

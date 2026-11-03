@@ -1,0 +1,191 @@
+{
+ "auto": true,
+ "free": true,
+ "badge": "Machine vishleshan · shabdon se",
+ "vishay": {
+  "shreni": "Service",
+  "vishay": "Orders ke shabdon se",
+  "upvishay": "inspect, occup, fall, heir",
+  "mudde": [],
+  "aur": []
+ },
+ "shabd": [
+  "inspect",
+  "occup",
+  "fall",
+  "heir",
+  "surviv",
+  "spot"
+ ],
+ "similar": [
+  {
+   "id": 15248,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "SHRIRAM MANDIR SANSTHAN @ SHRI RAM SANSTHAN PUSDA versus VATSALABAI AND OTHERS",
+   "cite": "1998 INSC 483 · 17.12.1998",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“588 [1998] SUPP. 3 S.C.R. · A an end and they were entitled to obtain possession of the lands. In these proceedings, ultimately the Maharashtra Revenue Tribunal in revision held that the tenant of the appellants-trust had not become a statutory purchaser under the Tenancy Act of 1958. However, the heirs of the deceased tenant were entitled to succeed to the tenancy. Hence the revision application of the appellants wa…”"
+  },
+  {
+   "id": 19555,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "JAYAMMA versus MARIA BAI DEAD BY PROPOSED LRS. AND ANR.",
+   "cite": "2004 INSC 407 · 28.07.2004",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“JAYAMMA v. MARIA BAI [SINHA, J.] 183 thus, being opposed to public policy the same shall attract the provisions A of Section 23 of the Indian Contract Act. It is not disputed that in view the purport and object the Legislature sought to achieve by enacting the said provision the expression 'assignment' would include a Will. In this case, there is also no dispute that grant ofagricultural land with occupancy right in …”"
+  },
+  {
+   "id": 279963,
+   "side": "other",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Supreme Court",
+   "tag": "Nateeja ? · shabdon se mila",
+   "verified": false,
+   "title": "H.V.  JAVA RAM versus INDUSTRIAL CREDIT AND INVESTMENT CORPORATION OF INDIA LTD.",
+   "cite": "- · 15.12.1999",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: record mein nahi.",
+   "quote": "“http://JUDIS.NIC.IN SUPREME COURT OF INDIA Page 2 of 6 The respondents in each of the appeals and/or their predecessors-in-title were tenants in respects of the lands belonging to the appellants. On the death of the tenant, the appellants filed an application for summary eviction of the respondents under Section 120 of the Tenancy Act of l98. The appellants contended that o the death of the tenant, the tenancy came t…”"
+  },
+  {
+   "id": 25996,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "ESHWARAPPA @ MAHESHWARAPPA & ANR. versus C.S. GURUSHANTHAPPA & ANR.",
+   "cite": "2010 INSC 524 · 18.08.2010",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“A ESHWARAPPA @ MAHESHWARAPPA & ANR. B v. C.S. GURUSHANTHAPPA & ANR. (Civil. Appeal No. 7049 of 2002) AUGUST 18, 2010 [AFTAB ALAM AND R.M. LODHA, JJ.] Motor Vehicles Act, 1988 - ss. 140 and 166 - N9 fault compensation - Fatal accident - Death of driver and four C occupants, of a private car - Surviving occupant sustained serious injuries - While rejection of claim petition, prayer for no fault compensation a/so reject…”"
+  },
+  {
+   "id": 31383,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "SATISH CHANDER AGGARWAL (D) BY LRS. versus SHYAM LAL OM PRAKASH, ARHTI AND ANR.",
+   "cite": "2017 INSC 278 · 30.03.2017",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“SATISH CHANDER AGGARWAL (D) BY LRS. v. SHYAM LAL OM PRAKASH, ARHTI [KURIAN, J.] action and the same need to be separately established. Therefore, granting liberty to the surviving legal heirs to pursue the eviction in accordance with law, the writ petition was allowed setting aside the order passed by the First Appellate Authority. Aggrieved the uppeal. 5. Heard Mr.A.K. Ganguli, learned senior counsel and Mr. Smtjay …”"
+  },
+  {
+   "id": 13357,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "NARASHIMAHA MURTHY versus SMT. SUSHEELABAI & ORS.",
+   "cite": "1996 INSC 537 · 17.04.1996",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“N. MURTHYv. SUSHEELABAI 415 during the pendency of the suit, which made the plaintiff increase her claim to one-sixth share in the properties. The suit was resisted by the appellant on grounds inter-a/ia that the respondent-Plaintiff could not seek partition of the house, it being a joint dwelling house, as understood under Section 23 of Hindu Succession Act, 1956, which provision was otherwise not attracted, when th…”"
+  },
+  {
+   "id": 5167,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "PHUL RANI & ORS. versus NAUBAT RAI AHLUWALIA",
+   "cite": "1973 INSC 46 · 14.03.1973",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“A B c D E F G H PHUL RANI v. NAUBAT RAJ (Chandrachud, J.) 681 ment application for a decision on merits. These two \"heirs\"' are now appellant 5 and 6. Second ·appeal 107 of 1969 filed by the tenant against the order of remand,; was dismissed by the High Court of Delhi on February 20, 19'70. · As the order of rem~d passed by the Rent Control Tribanal was not stayed during''.the pendency of the Second Appeal, the Addit…”"
+  },
+  {
+   "id": 58932,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/14021/1991 of PRITHVI RAJ NARANY Vs RENT CONTROL and EVICTION O.DE.and ORS.",
+   "cite": "WPMS/14021/1991 · 21.07.2006",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“3 The record reveals that the landlords again moved application intimating the Rent Control and Eviction Officer ( hereinafter referred to as R.C. & E. O.) about the vacancy of the accommodation. The R.C. & E.O. directed the Rent Control Inspector ( for short R.C.I.) to enquire and submit his report. The Rent Control Inspector submitted his report dated 18-7-1989. stating therein that the premises falls under the Ren…”"
+  },
+  {
+   "id": 255715,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/1296/2025 of GUFRAN Vs STATE OF UTTARAKHAND",
+   "cite": "WPMS/1296/2025 · 08.05.2025",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“2 claim over the land belonging to late Jaitoon (m other of respondent no. 3), therefore, coordinate Bench considered and discussed the rival claim s m ade by petitioner and Ms. Rihana. Relevant extract of the judgment rendered in Writ Petition (M/ S) No. 2584 of 2007 is reproduced below: \"According to Sub-clause (b), on its sim ple reading, on a devolvem ent of right on a widow on the death of her husband and if she…”"
+  },
+  {
+   "id": 167388,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "SA/15/2012 of PRADEEP Vs OMPAL SINGH and OTHERS",
+   "cite": "SA/15/2012 · 07.05.2019",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“5 father's mother, son's daughter, sister or half-sister being the daughter of the same father as the deceased]- (a) dies and such bhumidhar [* * *] was on the date immediately before the said date an intermediary of the land comprised in the holding or held the holding as a fixed rate tenant, or an exproprietary or occupancy tenant in Avadh or as a tenant on special terms in Avadh and- (i) she was in accordance with…”"
+  },
+  {
+   "id": 87111,
+   "side": "other",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Nainital HC",
+   "tag": "Nipataara · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/24/2010 of PANKAJ KUMAR MAHESHWARI Vs RADHA KRISHAN and OTHERS",
+   "cite": "WPMS/24/2010 · 31.05.2010",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Nipataara.",
+   "quote": "“or for any damage of use of the said property. It is stated that no one has the right in occupation and ownership against the petitioner. The respondent nos. 2 to 6 have no right to file execution application. The entire execution proceeding is not maintainable and liable to be dismissed. 3. On 07.03.2008, the respondent nos. 2 to 6 filed objection against the application moved by the petitioner with the assertion th…”"
+  },
+  {
+   "id": 231677,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/589/2011 of STATE OF UTTARAKHAND THROUGH COLLECTOR CHAMPAWAT Vs PRESCRIBED AUTHORITY EVICTION/UPZILADHIKARI",
+   "cite": "WPMS/589/2011 · 02.08.2023",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“4 challani report, under Sections 4, 5 of the U.P. Public Premises (Eviction of Unauthorized Occupants) Act, 1972 (hereinafter to be referred as an \"Act of 1972\"), wherein the Patwari and the Naib-Tehsildar, on the basis of the prior inspection being conducted, had issued notices against respondent no.2 observing therein that she is in an unauthorized occupation of a land lying in village Moolakot, Patti Moolakot, Te…”"
+  },
+  {
+   "id": 232261,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/1632/2023 of ROOP VASANT Vs STATE OF UTTARAKHAND",
+   "cite": "WPMS/1632/2023 · 09.06.2023",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“5 7. Learned State counsel would also submit that, in fact, when the Manager of the College was required to vacate the property, he replied that he is not able to do so because, the disputed land has been occupied by the unauthorised occupants. 8. It is true that Section 61-A of the Forest Act provides summary eviction of the unauthorised occupants. This Section has been inserted by Uttaranchal Amendment Act No.10 of…”"
+  },
+  {
+   "id": 50960,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"heir\") OR (\"inspect\" AND \"surviv\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"heir\") OR (\"occup\" AND \"surviv\") OR (\"fall\" AND \"heir\") OR (\"fall\" AND \"surviv\") OR (\"heir\" AND \"surviv\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/25731/1993 of HUKUM CHANDRA Vs D.J. DEHRADUN and ORS",
+   "cite": "WPMS/25731/1993 · 23.09.2004",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, heir, surviv) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“\"If it appears that a court of fact has in substance based its findings on no evidence or that it finding is perverse in the sense that no reasonable person could possibly come to that conclusion or that it erroneously ignores a vital plea or material evidence which affects the result, a manifest error of law apparent o the face of the record leading to failure of justice can be said to be established. But if a court…”"
+  }
+ ],
+ "disclaimer": "Is case ke orders mein vishay saaf nahi likha (zyaadatar tareekh / kaam-kaaj). Ye faisle orders ke khaas shabdon se mile hain, isliye milaan kamzor ho sakta hai — advocate jaanch lein. Quote faisle ka asli paragraph hai. Behtar nateeje ke liye Khoj mein case ki baat likhein."
+}

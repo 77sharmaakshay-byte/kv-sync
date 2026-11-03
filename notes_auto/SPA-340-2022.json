@@ -1,0 +1,189 @@
+{
+ "auto": true,
+ "free": true,
+ "badge": "Machine vishleshan · shabdon se",
+ "vishay": {
+  "shreni": "Service",
+  "vishay": "Orders ke shabdon se",
+  "upvishay": "inspect, occup, fall, spot",
+  "mudde": [],
+  "aur": []
+ },
+ "shabd": [
+  "inspect",
+  "occup",
+  "fall",
+  "spot"
+ ],
+ "similar": [
+  {
+   "id": 34919,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "THE STATE OF RAJASTHAN AND ANOTHER versus ULTRATECH CEMENT LTD",
+   "cite": "2022 INSC 871 · 26.08.2022",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“A B C D E F G H 15 from the Gram Panchayat land and eviction of unauthorized occupants therefrom. The present case does not fall in the above categories for the simple reason that the respondent-Company has applied through proper channel for allotment of land for mining purpose; it has received requisite environment clearances followed by LOIs issued by the appellant-State Government. Armed with the necessary approva…”"
+  },
+  {
+   "id": 26862,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "ASHOK KUMAR LINGALA versus STATE OF KARNATAKA & ORS.",
+   "cite": "2011 INSC 771 · 18.10.2011",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“816 [2011] 14 (ADDL.) S.C.R. A that no part of it is or was at any stage privately owned. What he argued in support of that contention was that the grant of occupancy rights in favour of Pennaiah was not warranted in the facts and circumstances of the case, and if that were so, any such grant could be ignored. We regret our inability to s accept that submission. We say so firstly because, the validity of the grant of…”"
+  },
+  {
+   "id": 23662,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "GOWDARA NANJAPPA versus MATADA BASAIAH & ORS.",
+   "cite": "2008 INSC 205 · 15.02.2008",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“+ I ...,.. GOWDARA NANJAPPA A v. MATADA BASAIAH & ORS. (Civil Appeal No. 8060 of 2001) FEBRUARY 15, 2008 B (DR. ARIJIT PASAYAT AND P. SATHASIVAM, JJ.) .... .... Karnataka Land Reforms Act, 1961: Grant of occupancy rights - Entries in record of rights - c Ignored by High Court and emphasis given on spot inspection • - High Court also ignored finding recorded by Appellate Tribunal - HELD: High Court overlooked the fact…”"
+  },
+  {
+   "id": 26775,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Supreme Court",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "RAGHBIR SINGH SEHRAWAT versus STATE OF HARYANA AND OTHERS",
+   "cite": "2011 INSC 816 · 23.11.2011",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“A B c D E 1132 [2011] 14 (ADDL.) S.C.R. laying down an absolute and inviolable rule that merely going on the spot and making a declaration by beat of dtum or otherwise would be sufficient to constitute taking of possession of land in every case. But here, in our opinion, since the land was lying fallow and there was no crop on it at the material time, the act of the Tahsildar in going on the spot and inspecting the l…”"
+  },
+  {
+   "id": 289792,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "RAM versus STATE OF KARNATAKA .",
+   "cite": "C.A. No.-007431-007431 - 2000 · 17.09.2004",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“http://JUDIS.NIC.IN SUPREME COURT OF INDIA Page 5 of 5 enquiry by spot inspection and had come to the conclusion that the appellants were in possession, that factor should have weighed with the appellate authority............ Presumption arising under Section 133 of the Act in respect of the entries made in the Record of Rights stood displaced by the finding of fact recorded that the appellants were in actual possess…”"
+  },
+  {
+   "id": 25110,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Supreme Court",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "NATIONAL THERMAL POWER CORPORATION LTD. versus MAHESH DUTTA AND OTHERS",
+   "cite": "2009 INSC 916 · 16.07.2009",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“t NATIONAL THERMAL POWER CORPORATION LTD. 1101 v. MAHESH DUTTA AND ORS. [S.B. SINHA, J.] the land in the Government is the taking of actual A possession of the land. How such possession may be taken would depend on the nature of the land. Such possession would have to be taken as the nature of the land admits of. There can be no hard and fast rule laying , down what act would be sufficient to constitute taking of B p…”"
+  },
+  {
+   "id": 29256,
+   "side": "other",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Supreme Court",
+   "tag": "Nipataara · shabdon se mila",
+   "verified": false,
+   "title": "M/S. SEPAL HOTEL PVT. LTD. versus STATE OF PUNJAB & ANR.",
+   "cite": "2014 INSC 309 · 22.04.2014",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Nipataara.",
+   "quote": "“SEPAL HOTEL PVT. LTD. v. STATE OF PUNJAB 633 [A.K. SIKRI, J.] specifically rejected the objections of the appellant. Operative A portion of the minutes of the meeting dated 30.6, 1980 as well as 9.7.1980 are as under: \"Minutes of the Meeting dated 30.6.1980: Shri Som Chand Katia, Writ Petitioner No. 226/79 is B present. He has stated that his total land measuring 31550 sq. yards is covered under the Scheme and his la…”"
+  },
+  {
+   "id": 60325,
+   "side": "other",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Nainital HC",
+   "tag": "Nipataara · shabdon se mila",
+   "verified": false,
+   "title": "SA/470/1982 of ISHWARI DUTT JOHARI Vs BHUWAN CHANDRA MUNGALI and ANOTHER",
+   "cite": "SA/470/1982 · 10.02.2006",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Nipataara.",
+   "quote": "“residential purposes or for purposes of any profession, trade or caling, or where the landlord is the trustee of a public charitable trust, for the objects of the trust; (b) that the building is in a dilapidated condition and is required for purposes of demolition and new construction....................\" 9. It is argued on behalf of the appellant that in the background of the fact that defendant No. 1 made attempts …”"
+  },
+  {
+   "id": 58932,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/14021/1991 of PRITHVI RAJ NARANY Vs RENT CONTROL and EVICTION O.DE.and ORS.",
+   "cite": "WPMS/14021/1991 · 21.07.2006",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“3 The record reveals that the landlords again moved application intimating the Rent Control and Eviction Officer ( hereinafter referred to as R.C. & E. O.) about the vacancy of the accommodation. The R.C. & E.O. directed the Rent Control Inspector ( for short R.C.I.) to enquire and submit his report. The Rent Control Inspector submitted his report dated 18-7-1989. stating therein that the premises falls under the Ren…”"
+  },
+  {
+   "id": 50960,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/25731/1993 of HUKUM CHANDRA Vs D.J. DEHRADUN and ORS",
+   "cite": "WPMS/25731/1993 · 23.09.2004",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“notice was sent to Hari Chand, the person who was shown as illegal applicant in the application for release A perusal of the inspection report shows that the Inspector has reported that neither Hari Chand was available there nor his family members were available on the spot at the time of inspection. According to the submission made by the petitioner the petitioner has no knowledge and, therefore, according to him th…”"
+  },
+  {
+   "id": 59299,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/25892/1990 of S.C ANAND Vs RENT CONTROL and E.O and ORS.",
+   "cite": "WPMS/25892/1990 · 22.04.2006",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“The record shows that on the application for allotment moved by Dinesh Nautiyal, the R.C. & E.O. ordered the Rent Control Inspector to make the spot inspection and report, who visited the premises in question on 17.11.1987 and submitted his report on 20-12-1987. He was accompanied by Dinesh Nautiyal, occupant Sardar Beer Singh , Bhawan Singh and the landlord. In his report he had given the details of the accommodatio…”"
+  },
+  {
+   "id": 259945,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/2056/2023 of KARNAIL SINGH Vs STATE OF UTTARAKHAND",
+   "cite": "WPMS/2056/2023 · 08.10.2025",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“occupation will be counter-productive to the goal of achieving an egalitarian society. Learned State Counsel submits that District Magistrate called report from revenue authorities, who after spot inspection, m entioned in their report that land in question is riverbed/ water body land, over which bhumidhari right cannot be granted to any person 7. Perusal of the report dated 12.07.2021 (Annexure-1 to the writ petiti…”"
+  },
+  {
+   "id": 49359,
+   "side": "good",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Nainital HC",
+   "tag": "Paksh mein · shabdon se mila",
+   "verified": false,
+   "title": "WPMS/267/2002 of SMT. HARSHADA Vs D.J. DEHRADUN  and OTHERS",
+   "cite": "WPMS/267/2002 · 08.12.2004",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Paksh mein.",
+   "quote": "“petitioner's son Mr. Mihir Worah is married person and settled in United States. Her another son is also married and settled in Mumbai It is disputed in the counter affidavit that the petitioner is in occupation of only one room rather it has been stated that she is living in cottage consisting of three rooms. In para 9 of the counter affidavit it has been stated that the family of the contesting respondents are in c…”"
+  },
+  {
+   "id": 225814,
+   "side": "bad",
+   "q": "(\"inspect\" AND \"occup\") OR (\"inspect\" AND \"fall\") OR (\"inspect\" AND \"spot\") OR (\"occup\" AND \"fall\") OR (\"occup\" AND \"spot\") OR (\"fall\" AND \"spot\")",
+   "court": "Nainital HC",
+   "tag": "Khilaf · shabdon se mila",
+   "verified": false,
+   "title": "SPA/288/2023 of VIJAY PRAKASH Vs ADDITIONAL CHIEF ADMINISTRATOR UTTARAKHAND",
+   "cite": "SPA/288/2023 · 11.08.2023",
+   "why": "Is case ke orders ke khaas shabd (inspect, occup, fall, spot) isi faisle ke paragraph mein. Court ka nateeja: Khilaf.",
+   "quote": "“unauthorized construction raised by the appellant. His Statutory Appeal against the demolition order was dism issed on 18.03.2019. I n the Revision preferred by the appellant, against the said order dated 18.03.2019, the MDDA was directed to again make spot inspection, to ascertain whether the said construction amounts to renovation, as according to the appellant, he has merely repaired the tin roof. 7. MDDA carried …”"
+  }
+ ],
+ "disclaimer": "Is case ke orders mein vishay saaf nahi likha (zyaadatar tareekh / kaam-kaaj). Ye faisle orders ke khaas shabdon se mile hain, isliye milaan kamzor ho sakta hai — advocate jaanch lein. Quote faisle ka asli paragraph hai. Behtar nateeje ke liye Khoj mein case ki baat likhein."
+}
