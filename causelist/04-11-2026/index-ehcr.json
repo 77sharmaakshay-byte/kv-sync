@@ -4,6 +4,7 @@
  "source": "ehcr",
  "uploads": [
   "DAILY CAUSE LIST (ADVANCE)|02.11.2026 06:24 PM",
+  "DAILY CAUSELIST II|03.11.2026 06:48 PM",
   "DAILY CAUSELIST|03.11.2026 05:47 PM"
  ],
  "benches": [
@@ -51,6 +52,15 @@
    "source_pdf": "20261104_1001_0.pdf",
    "uploaded": "03.11.2026 05:47 PM",
    "chars": 15597
+  },
+  {
+   "kind": "Daily",
+   "bench": "DAILY CAUSELIST II",
+   "type": "DAILY CAUSELIST II",
+   "file": "ehcr-20261104_1011_0-01.pdf",
+   "source_pdf": "20261104_1011_0.pdf",
+   "uploaded": "03.11.2026 06:48 PM",
+   "chars": 1373
   }
  ]
 }
