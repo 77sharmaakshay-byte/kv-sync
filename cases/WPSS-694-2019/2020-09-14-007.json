@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/694/2019:2020-09-14-007",
+ "title": "VARSHA BISHT versus UNION OF INDIA",
+ "petitioner": "VARSHA BISHT",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/694/2019",
+ "case_type": "WPSS",
+ "decision_date": "2020-09-14",
+ "cnr": "UKHC010044182019",
+ "doc_kind": "order",
+ "order_type": "WPSS/694/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF8yuFLNLR7%2B4hzFYC8RbDkHy7c%2BEXEZkr1WV2uT9Uc2h&caseno=WPSS/694/2019&cCode=1&cino=UKHC010044182019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a139e3219099edcf8825a19f076d348a60697b04555f29d36ba662c4473132b5",
+ "fetched_at": "2026-11-04T13:45:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1007/2026:2026-10-15-006",
+ "title": "AAMIR versus STATE OF UTTARAKHAND",
+ "petitioner": "AAMIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1007/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010098252026",
+ "doc_kind": "order",
+ "order_type": "BA1/1007/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQomFvy%2BFX%2BebzsRjbqH%2BJ4VBiBMNhcTKUMYyPn7pkZal&caseno=BA1/1007/2026&cCode=1&cino=UKHC010098252026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2f2e8e6c9484b5a3bee74e0278d1743dca0938a2518243b061b36a236473e133",
+ "fetched_at": "2026-11-04T14:11:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

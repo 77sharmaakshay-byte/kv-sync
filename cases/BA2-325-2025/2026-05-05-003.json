@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/325/2025:2026-05-05-003",
+ "title": "SUMIT BISHT ALIAS BALI versus STATE OF UTTARAKHAND",
+ "petitioner": "SUMIT BISHT ALIAS BALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/325/2025",
+ "case_type": "BA2",
+ "decision_date": "2026-05-05",
+ "cnr": "UKHC010201262025",
+ "doc_kind": "order",
+ "order_type": "BA2/325/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyRSBNxLqleapibC4OAmhThh56AtF%2Fl7QWMx%2FcM9dIOZ&caseno=BA2/325/2025&cCode=1&cino=UKHC010201262025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d94e84ee1b9829bcc5815cb9df6174db1cf297b4898a92cd652d655ee7cf3a0d",
+ "fetched_at": "2026-11-04T13:44:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

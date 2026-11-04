@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/85/2020:2024-05-22-005",
+ "title": "PRAMOD PURI(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAMOD PURI(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/85/2020",
+ "case_type": "WPSS",
+ "decision_date": "2024-05-22",
+ "cnr": "UKHC010005232020",
+ "doc_kind": "order",
+ "order_type": "IA/7168/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjCCKHsj5wwizoT85HN9OQJOTBUPKrRrmznqIGASaqZ7H&caseno=WPSS/85/2020&cCode=1&cino=UKHC010005232020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "efe231db8d64db0611a8e459b2d2a89d8acd5047adb788c084310c0e9e518744",
+ "fetched_at": "2026-11-04T13:48:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

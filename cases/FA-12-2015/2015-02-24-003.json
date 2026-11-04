@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/12/2015:2015-02-24-003",
+ "title": "Collector Dehradun versus Smt Sudha Gupta",
+ "petitioner": "Collector Dehradun",
+ "respondent": "Smt Sudha Gupta",
+ "case_no": "FA/12/2015",
+ "case_type": "FA",
+ "decision_date": "2015-02-24",
+ "cnr": "UKHC010011882015",
+ "doc_kind": "order",
+ "order_type": "FA/12/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWctno%2FloM82PSIgup3x9nBHL7K6hMvwJ0Pb4bGKLfpfm&caseno=FA/12/2015&cCode=1&cino=UKHC010011882015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a0e812d3a2c409ad5d1a6fd9af74b7b5f7c0eb270ef87bbbd3b64b072a28b174",
+ "fetched_at": "2026-11-04T14:15:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

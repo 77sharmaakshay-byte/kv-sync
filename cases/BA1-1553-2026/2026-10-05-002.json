@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1553/2026:2026-10-05-002",
+ "title": "ASHISH KUMAR GUPTA versus STATE OF UTTARAKHAND",
+ "petitioner": "ASHISH KUMAR GUPTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1553/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010162242026",
+ "doc_kind": "order",
+ "order_type": "BA1/1553/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQl4coUbwl0MBOi9DYlF%2BnPYjRF4Rv1kqsQUaiE1kNmCC&caseno=BA1/1553/2026&cCode=1&cino=UKHC010162242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "92f73ec511273b593724cdc8e6af74b803f5e40a7050160077cd0bd246bc2142",
+ "fetched_at": "2026-11-04T14:13:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

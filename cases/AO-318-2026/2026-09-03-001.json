@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/318/2026:2026-09-03-001",
+ "title": "UNITED INDIA INSURANCE COMPANY LTD versus MAMTA",
+ "petitioner": "UNITED INDIA INSURANCE COMPANY LTD",
+ "respondent": "MAMTA",
+ "case_no": "AO/318/2026",
+ "case_type": "AO",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010149922026",
+ "doc_kind": "order",
+ "order_type": "AO/318/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvcv6bu4BHv2M3DhrTm0tm2UUqwPR26UQ0gYCUHoc0hP&caseno=AO/318/2026&cCode=1&cino=UKHC010149922026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "263ea64e5a1725aca55e24d07ec3b07209664959a0bb81137cb8ef952feeac8d",
+ "fetched_at": "2026-11-04T13:47:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

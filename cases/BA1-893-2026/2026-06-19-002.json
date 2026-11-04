@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/893/2026:2026-06-19-002",
+ "title": "Sohan alias Piyush versus State of Uttarakhand",
+ "petitioner": "Sohan alias Piyush",
+ "respondent": "State of Uttarakhand",
+ "case_no": "BA1/893/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-19",
+ "cnr": "UKHC010088742026",
+ "doc_kind": "order",
+ "order_type": "BA1/893/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg6AB0Yd%2BaDJJG%2BYiDwV%2FARVTroONWo5LoZ5WVlb9kMj&caseno=BA1/893/2026&cCode=1&cino=UKHC010088742026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f3e644a526c566d497be999fda14e971b5a8b6b3018bb2f160d311662d2caa2b",
+ "fetched_at": "2026-11-04T14:10:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

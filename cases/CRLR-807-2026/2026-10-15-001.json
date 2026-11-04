@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/807/2026:2026-10-15-001",
+ "title": "NIKHIL MISHRA versus JITENDRA KUMAR",
+ "petitioner": "NIKHIL MISHRA",
+ "respondent": "JITENDRA KUMAR",
+ "case_no": "CRLR/807/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010185532026",
+ "doc_kind": "order",
+ "order_type": "CRLR/807/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgUxD7kERxCP7CP71ATMBOXodLd%2BKFF3zMjCDBcGI1w6&caseno=CRLR/807/2026&cCode=1&cino=UKHC010185532026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "631a375b42901078dcb238ca0a6df79503f82979b8b4ae4cb1500732920987fe",
+ "fetched_at": "2026-11-04T14:14:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

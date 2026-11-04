@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1711/2026:2026-10-13-001",
+ "title": "SHAHBAJ versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAHBAJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1711/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010181832026",
+ "doc_kind": "order",
+ "order_type": "BA1/1711/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnFyKiEtPh7KpDPZ8S8Gc8el3Sx5hg228YWlM9zpa%2B7M&caseno=BA1/1711/2026&cCode=1&cino=UKHC010181832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1b64c4adc43648b785ade0dc7e4b18dedf26e9ffd6be12d49a40b8faa6d72302",
+ "fetched_at": "2026-11-04T13:59:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

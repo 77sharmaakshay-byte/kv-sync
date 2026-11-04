@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/388/2022:2025-11-18-007",
+ "title": "MOHIT versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHIT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/388/2022",
+ "case_type": "CRLA",
+ "decision_date": "2025-11-18",
+ "cnr": "UKHC010140562022",
+ "doc_kind": "order",
+ "order_type": "CRLA/388/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT016o4FuKMnMkzvnvv2voSgPTX3tg2VSoGsvc4Z0oOpmk&caseno=CRLA/388/2022&cCode=1&cino=UKHC010140562022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "13bd6a14e61eae5ba0308c248ce4a2c8e0231fac0ce224e6167a17d3e9dfea77",
+ "fetched_at": "2026-11-04T14:29:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

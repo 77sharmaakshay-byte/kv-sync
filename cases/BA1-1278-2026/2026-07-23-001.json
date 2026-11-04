@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1278/2026:2026-07-23-001",
+ "title": "KARAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "KARAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1278/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-23",
+ "cnr": "UKHC010127822026",
+ "doc_kind": "order",
+ "order_type": "BA1/1278/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh8eF46oaa6wIuiwFoteSAbw%2FpZRyIiInBCpuLUa5dVl&caseno=BA1/1278/2026&cCode=1&cino=UKHC010127822026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bec153b8781f26cf99627e89ae59f8502ff34ba30766b3c661bb3f95728c9efc",
+ "fetched_at": "2026-11-04T14:08:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

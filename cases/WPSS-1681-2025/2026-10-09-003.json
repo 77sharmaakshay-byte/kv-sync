@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1681/2025:2026-10-09-003",
+ "title": "INDIRA DEVI versus UNION OF INDIA",
+ "petitioner": "INDIRA DEVI",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1681/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010161542025",
+ "doc_kind": "order",
+ "order_type": "IA/3/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2BHdX1OveWX8%2F8L1P1QxtR%2BVqcGdfaXRqiYoXGasVGF%2F&caseno=WPSS/1681/2025&cCode=1&cino=UKHC010161542025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "454aa541cb419fae6bdedbb92e4f731a84a90510aafbd7722141e398eb894efc",
+ "fetched_at": "2026-11-04T13:49:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

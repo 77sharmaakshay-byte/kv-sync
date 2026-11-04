@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/317/2026:2026-10-08-001",
+ "title": "HIMMAT SINGH SAINI versus MANAGER IFFCO TOKIO GENERAL INSURANCE COMPANY LTD",
+ "petitioner": "HIMMAT SINGH SAINI",
+ "respondent": "MANAGER IFFCO TOKIO GENERAL INSURANCE COMPANY LTD",
+ "case_no": "AO/317/2026",
+ "case_type": "AO",
+ "decision_date": "2026-10-08",
+ "cnr": "UKHC010149652026",
+ "doc_kind": "order",
+ "order_type": "AO/317/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgjRRyWd7kSPqhPuJdQPhzLWjn5f4O9HGg3iiHItHfCt&caseno=AO/317/2026&cCode=1&cino=UKHC010149652026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0c52be9d34367313a1a05e7a898c9323062da6789218dab52e99265961e4e857",
+ "fetched_at": "2026-11-04T13:45:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/388/2022:2023-09-05-005",
+ "title": "MOHIT versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHIT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/388/2022",
+ "case_type": "CRLA",
+ "decision_date": "2023-09-05",
+ "cnr": "UKHC010140562022",
+ "doc_kind": "order",
+ "order_type": "CRLA/388/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT016o4FuKMnMkzvnvv2voSgOSa7x9pV2SYjKfPdFpCx8p&caseno=CRLA/388/2022&cCode=1&cino=UKHC010140562022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cc1f86c5604b932bd1cdabbb568ac2c968c40c9780869edf6b6b32f9439bf7fb",
+ "fetched_at": "2026-11-04T14:29:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/77/2026:2026-10-16-006",
+ "title": "SUNIL SAHANI versus STATE OF UTTARAKHAND",
+ "petitioner": "SUNIL SAHANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/77/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-10-16",
+ "cnr": "UKHC010094072026",
+ "doc_kind": "order",
+ "order_type": "BA2/77/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh3R8CZFsOu95fzvnT2vTcSLZT4co%2B%2FVVdRxNu90%2FFVJ&caseno=BA2/77/2026&cCode=1&cino=UKHC010094072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c0b2672d56d3479074e9a01d00942c226d1858ca47d9efcb6bd4651e83186ccc",
+ "fetched_at": "2026-11-04T14:10:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

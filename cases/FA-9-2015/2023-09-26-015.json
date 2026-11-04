@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/9/2015:2023-09-26-015",
+ "title": "Collector, Dehradun versus Akilur Rehman",
+ "petitioner": "Collector, Dehradun",
+ "respondent": "Akilur Rehman",
+ "case_no": "FA/9/2015",
+ "case_type": "FA",
+ "decision_date": "2023-09-26",
+ "cnr": "UKHC010009352015",
+ "doc_kind": "order",
+ "order_type": "FA/9/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWTgldB3csubCMIDmNG5%2BXLWYy0IhmPGS5a6pm7behcb8&caseno=FA/9/2015&cCode=1&cino=UKHC010009352015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "31a1211f6a5d29e6de3dbf14cca1cecd1fa887c1fd3bd4860618953bc16ee399",
+ "fetched_at": "2026-11-04T14:18:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

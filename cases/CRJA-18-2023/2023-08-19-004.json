@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/18/2023:2023-08-19-004",
+ "title": "RAVI SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVI SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/18/2023",
+ "case_type": "CRJA",
+ "decision_date": "2023-08-19",
+ "cnr": "UKHC010006702023",
+ "doc_kind": "order",
+ "order_type": "CRJA/18/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYypJqwazsYch3KruPjdkUeMojCtuF549097a0ehh57H3&caseno=CRJA/18/2023&cCode=1&cino=UKHC010006702023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ddef29fbce0628625eebf6afa2f38dcbd60dccf19013724786aa457bd75550c0",
+ "fetched_at": "2026-11-04T14:33:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

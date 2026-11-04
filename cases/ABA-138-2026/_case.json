@@ -6,7 +6,7 @@
  "registration_number": "ABA /138/2026",
  "registration_date": "2026-04-22",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
  "case_stage": "BAIL ORDER MATTERS (AFTER FRESH) -254",
  "status": "",
@@ -44,6 +44,13 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-10-14",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -154,6 +161,15 @@
    "order_type": "ABA/138/2026",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpAbuoLeOGNvm3nDQx72jIJNktZrNIGlSeAZA5XE0TMF&caseno=ABA/138/2026&cCode=1&cino=UKHC010065612026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-14",
+   "order_type": "ABA/138/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpAbuoLeOGNvm3nDQx72jILUFxlfEyTz28IHfm89GHS9&caseno=ABA/138/2026&cCode=1&cino=UKHC010065612026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

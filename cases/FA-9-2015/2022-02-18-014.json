@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/9/2015:2022-02-18-014",
+ "title": "Collector, Dehradun versus Akilur Rehman",
+ "petitioner": "Collector, Dehradun",
+ "respondent": "Akilur Rehman",
+ "case_no": "FA/9/2015",
+ "case_type": "FA",
+ "decision_date": "2022-02-18",
+ "cnr": "UKHC010009352015",
+ "doc_kind": "order",
+ "order_type": "FA/9/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWTgldB3csubCMIDmNG5%2BXLX2Dv%2B1zTHv8npWqyM9EQg5&caseno=FA/9/2015&cCode=1&cino=UKHC010009352015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "704c12613ccd1377323554c56e77a459b21e952cd6041647dedcc433f94e2cf4",
+ "fetched_at": "2026-11-04T14:18:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

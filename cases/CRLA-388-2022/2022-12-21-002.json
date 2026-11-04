@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/388/2022:2022-12-21-002",
+ "title": "MOHIT versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHIT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/388/2022",
+ "case_type": "CRLA",
+ "decision_date": "2022-12-21",
+ "cnr": "UKHC010140562022",
+ "doc_kind": "order",
+ "order_type": "CRLA/388/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT016o4FuKMnMkzvnvv2voSgNlW40wKQ0CtaBgft%2FIz0mZ&caseno=CRLA/388/2022&cCode=1&cino=UKHC010140562022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "974add845521588a78c8fc9ea72d7c1a4cae970f474bf718b21364e57a1517cd",
+ "fetched_at": "2026-11-04T14:29:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

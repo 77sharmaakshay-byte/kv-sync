@@ -1,0 +1,63 @@
+{
+ "cnr_number": "UKHC010198942026",
+ "case_type": "ABA",
+ "filing_number": "ABA /9601/2026",
+ "filing_date": "2026-11-03",
+ "registration_number": "ABA /456/2026",
+ "registration_date": "2026-11-03",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-05",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "bench_type": "",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "",
+ "district": "",
+ "petitioners": [
+  {
+   "name": "Noor Begum Alias Nasima",
+   "advocate": "SWALEHA HUSSAIN"
+  },
+  {
+   "name": "Aamna",
+   "advocate": "Swaleha Hussain"
+  },
+  {
+   "name": "Natthu",
+   "advocate": "Swaleha Hussain"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "State of Uttarakhand",
+   "advocate": "G.A."
+  },
+  {
+   "name": "Sahil",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "85"
+  },
+  {
+   "act": "Dowry Prohibition Act, 1961 (Act No. 28 of 1961)",
+   "sections": "4"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

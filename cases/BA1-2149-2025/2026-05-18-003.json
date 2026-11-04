@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/2149/2025:2026-05-18-003",
+ "title": "SHASHANK YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "SHASHANK YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/2149/2025",
+ "case_type": "BA1",
+ "decision_date": "2026-05-18",
+ "cnr": "UKHC010176832025",
+ "doc_kind": "order",
+ "order_type": "BA1/2149/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyz0OhbGW1L8dJcaZdoQ9b0TPCvPfWlkDwoQlQ8%2BslGH&caseno=BA1/2149/2025&cCode=1&cino=UKHC010176832025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "64fdbb8e8b0464aab932f3980db7fca84e53162482dbe82b9bebd4ac919d64a1",
+ "fetched_at": "2026-11-04T14:00:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

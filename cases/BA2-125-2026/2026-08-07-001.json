@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/125/2026:2026-08-07-001",
+ "title": "SHAKEEL AHMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAKEEL AHMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/125/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-08-07",
+ "cnr": "UKHC010139492026",
+ "doc_kind": "order",
+ "order_type": "BA2/125/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvalRQ3RmXOO7K%2BjHnjQDzsXIsJc1DSUzl3owCalfJVs&caseno=BA2/125/2026&cCode=1&cino=UKHC010139492026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0bc55e6dfe45e418cc6e07ed0e374db4b3e8e07d3f6c509fd452467dabc4f48f",
+ "fetched_at": "2026-11-04T13:44:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

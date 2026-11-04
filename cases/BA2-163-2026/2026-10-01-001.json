@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/163/2026:2026-10-01-001",
+ "title": "DEEPAK versus STATE OF UTTARAKHAND",
+ "petitioner": "DEEPAK",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/163/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010174232026",
+ "doc_kind": "order",
+ "order_type": "BA2/163/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqXQwBv1LK5DSKqTu%2FO%2F3d1Ge5xWVSVIZEYs42%2FJYc3Y&caseno=BA2/163/2026&cCode=1&cino=UKHC010174232026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a7a90617196266dfedd2e7dce19194f1409a35737b03afff8c3278274698289d",
+ "fetched_at": "2026-11-04T13:45:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

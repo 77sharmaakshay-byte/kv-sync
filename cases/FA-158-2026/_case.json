@@ -1,0 +1,65 @@
+{
+ "cnr_number": "UKHC010149862026",
+ "case_type": "FA",
+ "filing_number": "FA /7749/2026",
+ "filing_date": "2026-08-20",
+ "registration_number": "FA /158/2026",
+ "registration_date": "2026-08-20",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-05",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "MOHD GULSHER",
+   "advocate": "MOHD SAFDAR,KAMALUDDIN,KAMALUDDIN, ,KAMALUDDIN"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "AFSAR JAHAN",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Family Courts Act, 1984 (Act No. 66 of 1984)",
+   "sections": "19(4)"
+  },
+  {
+   "act": "Hindu Marriage Act, 1955 (Act No. 25 of 1955)",
+   "sections": "28"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-21",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-29",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-21",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/27/2026:2026-04-08-002",
+ "title": "VARSHA THAKUR versus MICHEAL VON PADBERG",
+ "petitioner": "VARSHA THAKUR",
+ "respondent": "MICHEAL VON PADBERG",
+ "case_no": "FA/27/2026",
+ "case_type": "FA",
+ "decision_date": "2026-04-08",
+ "cnr": "UKHC010028042026",
+ "doc_kind": "order",
+ "order_type": "FA/27/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtdAonlVOHHUV%2FcmiEZgn5qtNM9PYFA0HvuX3LABoN9o&caseno=FA/27/2026&cCode=1&cino=UKHC010028042026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "db75e8a9c65f07d5e0e9ce2631bb259329167c8ee6b5c4f9cef05d58bd71bc87",
+ "fetched_at": "2026-11-04T14:30:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

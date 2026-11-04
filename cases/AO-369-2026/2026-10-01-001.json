@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/369/2026:2026-10-01-001",
+ "title": "BINTU SINGH versus PARVEEN",
+ "petitioner": "BINTU SINGH",
+ "respondent": "PARVEEN",
+ "case_no": "AO/369/2026",
+ "case_type": "AO",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010169952026",
+ "doc_kind": "order",
+ "order_type": "AO/369/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuX2AEsaPJV7oZTTyINmrUVQXXfv6XmY9TU05neoKZPi&caseno=AO/369/2026&cCode=1&cino=UKHC010169952026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fd61bf73506e3efe123c92a08ba26e5a8563c577dd2095d46479fe3351f58b16",
+ "fetched_at": "2026-11-04T13:50:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1789/2026:2026-10-28-001",
+ "title": "BUNTY KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "BUNTY KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1789/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-28",
+ "cnr": "UKHC010189932026",
+ "doc_kind": "order",
+ "order_type": "BA1/1789/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiYZKfSdefyBHM1RcaZyACvC3TV8VlHorNKA8JBSXyI6&caseno=BA1/1789/2026&cCode=1&cino=UKHC010189932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2f8691b4e369b6f266ff9807571b3db689213b445b818e676d8e6fa3650e9486",
+ "fetched_at": "2026-11-04T14:13:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,92 @@
+{
+ "cnr_number": "UKHC010127012026",
+ "case_type": "FA",
+ "filing_number": "FA /6614/2026",
+ "filing_date": "2026-07-20",
+ "registration_number": "FA /134/2026",
+ "registration_date": "2026-07-20",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-05",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "RAMESH LATA",
+   "advocate": "HITESH CHANDRA SANWAL,VAIBHAV SINGH CHAUHAN,VAIBHAV SINGH CHAUHAN, ,VAIBHAV SINGH CHAUHAN"
+  },
+  {
+   "name": "VICKY ALIAS SHRAVAN KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "MAHESH KUMAR",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "RAJENDRA KUMAR ALIAS RAJAN",
+   "advocate": ""
+  },
+  {
+   "name": "SANJAY KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "VINOD KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "JITENDRA KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDRA MOHAN",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Code of Civil Procedure, 1908 (Act No. 5 of 1908)",
+   "sections": "96"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-07-22",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-29",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-21",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-07-22",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

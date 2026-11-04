@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/1/2021:2021-01-05-001",
+ "title": "RAKESH YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "RAKESH YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/1/2021",
+ "case_type": "CRLA",
+ "decision_date": "2021-01-05",
+ "cnr": "UKHC010000802021",
+ "doc_kind": "order",
+ "order_type": "CRLA/1/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkCEqGR69cGEKjL%2FtZM0nsvYNZmyZV18pV0T%2BSdHF0itj&caseno=CRLA/1/2021&cCode=1&cino=UKHC010000802021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b1353376f7c8aadf5905bf69fa5cb890efc789f9f83c024afa444dbac74c6b2c",
+ "fetched_at": "2026-11-04T14:28:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

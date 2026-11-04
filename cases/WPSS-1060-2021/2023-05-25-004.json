@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1060/2021:2023-05-25-004",
+ "title": "RAVINDER SINGH PUNDIR versus UTTARAKHAND ENVIRONMENT PROTECTION AND POLLUTION CONTROL BOARD",
+ "petitioner": "RAVINDER SINGH PUNDIR",
+ "respondent": "UTTARAKHAND ENVIRONMENT PROTECTION AND POLLUTION CONTROL BOARD",
+ "case_no": "WPSS/1060/2021",
+ "case_type": "WPSS",
+ "decision_date": "2023-05-25",
+ "cnr": "UKHC010098332021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1060/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLVM%2Fhd30J%2BLq0xp4DPBxxPpTuGSStemQ4GjZrVZ21Cj&caseno=WPSS/1060/2021&cCode=1&cino=UKHC010098332021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "24eb49143108c4c84a8b896f8f33447a8f3f7d3539f0606cad1a877099bf9c18",
+ "fetched_at": "2026-11-04T13:47:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

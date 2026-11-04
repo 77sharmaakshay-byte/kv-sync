@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/163/2023:2025-03-19-004",
+ "title": "SANJAY KHANNA versus VIRENDRA KUMAR",
+ "petitioner": "SANJAY KHANNA",
+ "respondent": "VIRENDRA KUMAR",
+ "case_no": "SA/163/2023",
+ "case_type": "SA",
+ "decision_date": "2025-03-19",
+ "cnr": "UKHC010190632023",
+ "doc_kind": "order",
+ "order_type": "SA/163/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6ahyJ%2Bw4mNSvc0L9FuPZoFUqFeU7laoJbNuaut87VGP&caseno=SA/163/2023&cCode=1&cino=UKHC010190632023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "46c78514cd0f3637d6b3ae2532816f82d08179e2fdf80f4546543e1e09caee47",
+ "fetched_at": "2026-11-04T14:14:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

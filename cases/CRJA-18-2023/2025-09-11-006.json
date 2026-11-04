@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/18/2023:2025-09-11-006",
+ "title": "RAVI SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVI SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/18/2023",
+ "case_type": "CRJA",
+ "decision_date": "2025-09-11",
+ "cnr": "UKHC010006702023",
+ "doc_kind": "order",
+ "order_type": "CRJA/18/2023",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYypJqwazsYch3KruPjdkUeP5Ihy6ZSBdbWdBBcDeoAVV&caseno=CRJA/18/2023&cCode=1&cino=UKHC010006702023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3d7a501a1b47270c3b854ed6de56bd80f5870ae8d6133f922a3764d37c7405b3",
+ "fetched_at": "2026-11-04T14:33:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1674/2026:2026-10-16-002",
+ "title": "GOVIND MIMANI versus STATE OF UTTARAKHAND",
+ "petitioner": "GOVIND MIMANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1674/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-16",
+ "cnr": "UKHC010178122026",
+ "doc_kind": "order",
+ "order_type": "BA1/1674/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQspfoduBiVs4lOLq5q5qW02Tbisb4f623beKafAZ08qm&caseno=BA1/1674/2026&cCode=1&cino=UKHC010178122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d75553b63fd370fe3fa745d9e84854cd29b2fafd2afe8ca8c64ff3dd1dff587f",
+ "fetched_at": "2026-11-04T14:10:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

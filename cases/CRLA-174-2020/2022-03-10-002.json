@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/174/2020:2022-03-10-002",
+ "title": "KAMLESH MANDAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KAMLESH MANDAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/174/2020",
+ "case_type": "CRLA",
+ "decision_date": "2022-03-10",
+ "cnr": "UKHC010033802020",
+ "doc_kind": "order",
+ "order_type": "CRLA/174/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjBCvPmad0uCnEZltzjtOnMO3M2sa4VKJ6bHr1vO2rCjx&caseno=CRLA/174/2020&cCode=1&cino=UKHC010033802020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "94742c73c9d704700fe0fcfbb2d0c61c2f0fde2cf27588f50f78499644971445",
+ "fetched_at": "2026-11-04T14:31:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

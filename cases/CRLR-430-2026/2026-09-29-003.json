@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/430/2026:2026-09-29-003",
+ "title": "PRADHUMAN AGARWAL (SINCE DECEASED) versus AMBRISH KUMAR RASTOGI",
+ "petitioner": "PRADHUMAN AGARWAL (SINCE DECEASED)",
+ "respondent": "AMBRISH KUMAR RASTOGI",
+ "case_no": "CRLR/430/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010099832026",
+ "doc_kind": "order",
+ "order_type": "CRLR/430/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsRY0OjIpUYwK98s1ZtJW80WEkq2%2BnN9m6sdPAKUvyPl&caseno=CRLR/430/2026&cCode=1&cino=UKHC010099832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c24c64a92a37dee5f9dda6dcda229824d2bd6f9d06383b534f89da95a4990719",
+ "fetched_at": "2026-11-04T14:18:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

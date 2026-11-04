@@ -1,0 +1,99 @@
+{
+ "cnr_number": "UKHC010151252026",
+ "case_type": "SABA",
+ "filing_number": "SABA /7300/2026",
+ "filing_date": "2026-08-24",
+ "registration_number": "SABA /29/2026",
+ "registration_date": "2026-08-24",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-05",
+ "decision_date": null,
+ "case_stage": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "SAHIL ALIAS SAHIL KHAN",
+   "advocate": "HARSH VARDHAN DHANIK,ALTAF HUSSAIN,ALTAF HUSSAIN, ,JUNAID ALAM,ALTAF HUSSAIN"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A.,"
+  },
+  {
+   "name": "SENIOR SUPERINTENDENT OF POLICE",
+   "advocate": "G.A."
+  },
+  {
+   "name": "STATION HOUSE OFFICER",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Bharatiya Nyaya Sanhita",
+   "sections": "137(2),351(3),352,64,87"
+  },
+  {
+   "act": "Protection of Children from Sexual Offences Act, 2012 (Act No. 32 of 2012)",
+   "sections": "5,6"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-25",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-29",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-11",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-11",
+   "business_date": "2026-08-25",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-08-25",
+   "order_type": "SABA/29/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiVzmIVoFTcOOIwB7CT%2FwYR56q0TwAxrJfpJrwMkTBUC&caseno=SABA/29/2026&cCode=1&cino=UKHC010151252026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-11",
+   "order_type": "SABA/29/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiVzmIVoFTcOOIwB7CT%2FwYSeqSJn5Jw2w%2B9yFJUpy%2F44&caseno=SABA/29/2026&cCode=1&cino=UKHC010151252026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

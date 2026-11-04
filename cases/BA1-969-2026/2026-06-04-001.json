@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/969/2026:2026-06-04-001",
+ "title": "JUBAIR versus STATE OF UTTARAKHAND",
+ "petitioner": "JUBAIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/969/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-04",
+ "cnr": "UKHC010094102026",
+ "doc_kind": "order",
+ "order_type": "BA1/969/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrmdKbCp0x%2F2ITzkCQSas%2B1y884jsLP6RbCH0RXVL%2FSA&caseno=BA1/969/2026&cCode=1&cino=UKHC010094102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d9b575697a0bf0bb420f5e85b067cdd0dff7524bc58ff2f1cffb86a6868dc8eb",
+ "fetched_at": "2026-11-04T14:10:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

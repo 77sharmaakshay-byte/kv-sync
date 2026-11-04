@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1538/2026:2026-10-13-002",
+ "title": "AMAN  KHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "AMAN  KHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1538/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010159392026",
+ "doc_kind": "order",
+ "order_type": "BA1/1538/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsz8k8o6TKBNHqCnh7070%2FpZ1RI6M6R6EVCs1GPzWGVD&caseno=BA1/1538/2026&cCode=1&cino=UKHC010159392026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d61e034e468faa2119cead17a42050741c472fd390ab4afd5836d965ca0b7fa",
+ "fetched_at": "2026-11-04T14:10:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

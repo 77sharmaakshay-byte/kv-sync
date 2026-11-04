@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/430/2026:2026-10-28-006",
+ "title": "PRADHUMAN AGARWAL (SINCE DECEASED) versus AMBRISH KUMAR RASTOGI",
+ "petitioner": "PRADHUMAN AGARWAL (SINCE DECEASED)",
+ "respondent": "AMBRISH KUMAR RASTOGI",
+ "case_no": "CRLR/430/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-10-28",
+ "cnr": "UKHC010099832026",
+ "doc_kind": "order",
+ "order_type": "CRLR/430/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsRY0OjIpUYwK98s1ZtJW80Y7CkKqyGGhQtggAJiDd1N&caseno=CRLR/430/2026&cCode=1&cino=UKHC010099832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "45ebe2714a1483d19a24853a4ca391c4f145251b309bc2aa88418df20b098ae5",
+ "fetched_at": "2026-11-04T14:18:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

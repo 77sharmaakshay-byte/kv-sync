@@ -1,0 +1,75 @@
+{
+ "cnr_number": "UKHC010158722026",
+ "case_type": "CRLA",
+ "filing_number": "CRLA /7665/2026",
+ "filing_date": "2026-09-07",
+ "registration_number": "CRLA /527/2026",
+ "registration_date": "2026-09-07",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-05",
+ "decision_date": null,
+ "case_stage": "ORDERS ON APPLICATIONS -22",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "SHANTI PRAKASH",
+   "advocate": "KETAN JOSHI,HEMANT SINGH MAHRA,HEMANT SINGH MAHRA, ,HEMANT SINGH MAHRA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "452,354A"
+  },
+  {
+   "act": "Protection of Children from Sexual Offences Act, 2012 (Act No. 32 of 2012)",
+   "sections": "9(M)/10"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-09",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-15",
+   "business_date": "2026-09-24",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-24",
+   "business_date": "2026-09-09",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-09",
+   "order_type": "CRLA/527/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmbTOt27ggmOx4mMam5b6Z8qZlcaEjVkH60QxFZ6EkDM&caseno=CRLA/527/2026&cCode=1&cino=UKHC010158722026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

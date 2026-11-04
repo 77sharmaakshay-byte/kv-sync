@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/85/2020:2020-08-14-001",
+ "title": "PRAMOD PURI(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAMOD PURI(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/85/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-08-14",
+ "cnr": "UKHC010005232020",
+ "doc_kind": "order",
+ "order_type": "WPSS/85/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjCCKHsj5wwizoT85HN9OQJPoHIVt9RRNX5sqncMzJM2k&caseno=WPSS/85/2020&cCode=1&cino=UKHC010005232020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "497d6b671524eb85b3b23541e18e26297543c96c4424f6aa45166a68afeb658a",
+ "fetched_at": "2026-11-04T13:48:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

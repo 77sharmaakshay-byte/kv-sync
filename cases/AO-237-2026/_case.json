@@ -1,0 +1,99 @@
+{
+ "cnr_number": "UKHC010113112026",
+ "case_type": "AO",
+ "filing_number": "AO /5883/2026",
+ "filing_date": "2026-07-01",
+ "registration_number": "AO /237/2026",
+ "registration_date": "2026-07-01",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-05",
+ "decision_date": null,
+ "case_stage": "Order on Applications (Time Barred Cases) -250",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "SHRIRAM GENERAL INSURANCE CO LTD",
+   "advocate": "D C S  RAWAT"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "BIJENDRA SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "MANOJ RANA",
+   "advocate": ""
+  },
+  {
+   "name": "BALDEV SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "RAMO DEVI",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Motor Vehicles Act, 1988 (Act No. 59 of 1988)",
+   "sections": "173"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-07-09",
+   "business_date": null,
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-10-29",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-29",
+   "business_date": "2026-09-03",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-20",
+   "business_date": "2026-07-09",
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-07-09",
+   "order_type": "AO/237/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkBCLoVdbBY0I%2B5TQ7ZtsxYzaEStJmS3M6pxeQjyX88O&caseno=AO/237/2026&cCode=1&cino=UKHC010113112026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-03",
+   "order_type": "AO/237/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkBCLoVdbBY0I%2B5TQ7ZtsxYJQcya3Krf%2Bez22w7hgpOI&caseno=AO/237/2026&cCode=1&cino=UKHC010113112026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

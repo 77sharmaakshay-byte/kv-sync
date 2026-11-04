@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1141/2025:2025-08-28-002",
+ "title": "RAMVEER versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMVEER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1141/2025",
+ "case_type": "BA1",
+ "decision_date": "2025-08-28",
+ "cnr": "UKHC010097862025",
+ "doc_kind": "order",
+ "order_type": "BA1/1141/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm8py%2BweBarzl9RlDQIxW3mu4ctpnKMGWNvvME60tgqMk&caseno=BA1/1141/2025&cCode=1&cino=UKHC010097862025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "96bfa678dd7062acae4b4cb44a4ddad0505a2c88f964557f5682362e7a8c3a98",
+ "fetched_at": "2026-11-04T13:58:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

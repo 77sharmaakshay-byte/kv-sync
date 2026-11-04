@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2524/2026:2026-10-27-004",
+ "title": "PRITHVIRAJ CHAUHAN COLLEGE OF NURSING versus STATE OF UTTARAKHAND",
+ "petitioner": "PRITHVIRAJ CHAUHAN COLLEGE OF NURSING",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2524/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010146982026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2524/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvqktOf6Zzo7udVZzAzEQXsNHaJnow1vD0FQriiQ1DTF&caseno=WPMS/2524/2026&cCode=1&cino=UKHC010146982026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "192267266668d065258a7937ad46ce11f89e673bae52c30f09abf91f9bb12372",
+ "fetched_at": "2026-11-04T13:58:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

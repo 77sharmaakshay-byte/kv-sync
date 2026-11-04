@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/55/2015:2015-08-04-002",
+ "title": "SHRI LALIT SINGH(Legal Heir) versus SMT. SANTOSH BALA",
+ "petitioner": "SHRI LALIT SINGH(Legal Heir)",
+ "respondent": "SMT. SANTOSH BALA",
+ "case_no": "SA/55/2015",
+ "case_type": "SA",
+ "decision_date": "2015-08-04",
+ "cnr": "UKHC010021772015",
+ "doc_kind": "order",
+ "order_type": "SA/55/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWTUvaGSx3vjD5SnOS6ucO2iio4zAGLr7FrXd1qO2U9OU&caseno=SA/55/2015&cCode=1&cino=UKHC010021772015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8751cc02f50dbf203edb2bd21b6a4bc524716d8b2bd156a3b2bb57fa642c7bb0",
+ "fetched_at": "2026-11-04T14:17:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

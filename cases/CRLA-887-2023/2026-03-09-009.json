@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/887/2023:2026-03-09-009",
+ "title": "GAURANSH UNIYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "GAURANSH UNIYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/887/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-03-09",
+ "cnr": "UKHC010203322023",
+ "doc_kind": "order",
+ "order_type": "CRLA/887/2023",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3HmHBsgPweoeltZm0EN8AJjtwNJNQbWAysQmAQG3NDX&caseno=CRLA/887/2023&cCode=1&cino=UKHC010203322023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "44ebc3385b3b4d67db82b6af637b77afab9b85a85ee39acbdb4f105648fd2719",
+ "fetched_at": "2026-11-04T14:30:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

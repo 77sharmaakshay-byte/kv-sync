@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/81/2024:2026-02-16-010",
+ "title": "MADAN NARAYAN versus GEETA PANDEY",
+ "petitioner": "MADAN NARAYAN",
+ "respondent": "GEETA PANDEY",
+ "case_no": "SA/81/2024",
+ "case_type": "SA",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010107732024",
+ "doc_kind": "order",
+ "order_type": "SA/81/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJwyaRdKHZ7kjEHjb%2FByEsYcfaMlXqq3Qq2%2F8nMS8AZE&caseno=SA/81/2024&cCode=1&cino=UKHC010107732024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ae9a563d51c1b1d26232a3e423757de13decc27b084d1b94fc5895334ba9f32f",
+ "fetched_at": "2026-11-04T14:26:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

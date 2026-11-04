@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1646/2026:2026-10-01-001",
+ "title": "RAJEEV versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJEEV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1646/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010174992026",
+ "doc_kind": "order",
+ "order_type": "BA1/1646/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu808P2HN9r2VZ4IN8FdiKz2HMZ0IU1L64pIrJ9sZDF7&caseno=BA1/1646/2026&cCode=1&cino=UKHC010174992026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2fac2ba27206837c8f0ec741cc37c76fd7b888fd1925758c4390974f465f0ede",
+ "fetched_at": "2026-11-04T14:11:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

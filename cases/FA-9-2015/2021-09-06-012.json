@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/9/2015:2021-09-06-012",
+ "title": "Collector, Dehradun versus Akilur Rehman",
+ "petitioner": "Collector, Dehradun",
+ "respondent": "Akilur Rehman",
+ "case_no": "FA/9/2015",
+ "case_type": "FA",
+ "decision_date": "2021-09-06",
+ "cnr": "UKHC010009352015",
+ "doc_kind": "order",
+ "order_type": "FA/9/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWTgldB3csubCMIDmNG5%2BXLV4U201EqgaX%2Fc4g3dla7I9&caseno=FA/9/2015&cCode=1&cino=UKHC010009352015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ba47f39a8bfcf7c4f05c26930c78300877cf5ba1332209e1e7c5eec53aea5c34",
+ "fetched_at": "2026-11-04T14:18:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

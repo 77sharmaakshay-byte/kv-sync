@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/8/2026:2026-02-26-001",
+ "title": "STATE OF UTTARAKHAND versus GIRISH CHANDRA SUNDRIYAL",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "GIRISH CHANDRA SUNDRIYAL",
+ "case_no": "SPA/8/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-02-26",
+ "cnr": "UKHC010002922026",
+ "doc_kind": "order",
+ "order_type": "SPA/8/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn4PtEetHvISeFsTmUIZwXsKV5GSP0f17HXCJYeRVboy&caseno=SPA/8/2026&cCode=1&cino=UKHC010002922026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "de4ca38c4f8856a055e1c034bbe8e608b076022ceaf3d4b09b16dc5623640178",
+ "fetched_at": "2026-11-04T14:30:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

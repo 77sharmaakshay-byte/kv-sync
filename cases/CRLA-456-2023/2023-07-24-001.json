@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/456/2023:2023-07-24-001",
+ "title": "FARJAND versus STATE OF UTTARAKHAND",
+ "petitioner": "FARJAND",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/456/2023",
+ "case_type": "CRLA",
+ "decision_date": "2023-07-24",
+ "cnr": "UKHC010116582023",
+ "doc_kind": "order",
+ "order_type": "CRLA/456/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FnKpcphETi0qE9mqkzO8bzDBsmtuZ7VU%2F1ZRzHzfiK6&caseno=CRLA/456/2023&cCode=1&cino=UKHC010116582023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e17bc4820cbeb560ea4da2a3589b6e998368886e99aad909e97c38f17284a13",
+ "fetched_at": "2026-11-04T14:29:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

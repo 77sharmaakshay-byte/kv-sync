@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/18/2026:2026-10-27-011",
+ "title": "PRASANJEET SINGH SANDHU ALIAS SUNNY versus STATE OF UTTARAKHAND",
+ "petitioner": "PRASANJEET SINGH SANDHU ALIAS SUNNY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/18/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010006382026",
+ "doc_kind": "order",
+ "order_type": "CRLA/18/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvfJwM7WwoC5gZnJZv8qnVNswrbho5LrwZnheXKtRS4B&caseno=CRLA/18/2026&cCode=1&cino=UKHC010006382026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0f8c241f26d1cf13b6f196ea850798420e1a991bd8b25d08a857edec1ea61de7",
+ "fetched_at": "2026-11-04T14:33:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

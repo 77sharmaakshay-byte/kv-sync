@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1730/2026:2026-10-15-001",
+ "title": "SANJAY KUMAR VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "SANJAY KUMAR VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1730/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010184222026",
+ "doc_kind": "order",
+ "order_type": "BA1/1730/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlvsMQygxTJJV2s9S8HkUnwOHuCgoSlbcwcayJGIPz7o&caseno=BA1/1730/2026&cCode=1&cino=UKHC010184222026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "825a6d774a958dc09213092339bf8c7b9518ca4d17ccf1082ae5d0b2a9b0eb25",
+ "fetched_at": "2026-11-04T14:11:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SABA/32/2026:2026-09-21-001",
+ "title": "SANGEETA UNIYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SANGEETA UNIYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SABA/32/2026",
+ "case_type": "SABA",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010165852026",
+ "doc_kind": "order",
+ "order_type": "SABA/32/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjpnL7gZOiv6TXMBxcks383ZkjuCywoX8xMUymLK4Z3T&caseno=SABA/32/2026&cCode=1&cino=UKHC010165852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4c689ed3213e06c5f308d4c18605e03d7964e953e8f838f4d52cffb5893bde77",
+ "fetched_at": "2026-11-04T13:58:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

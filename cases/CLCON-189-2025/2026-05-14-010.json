@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/189/2025:2026-05-14-010",
+ "title": "DAYA KISHAN versus DHANANJAY MOHAN",
+ "petitioner": "DAYA KISHAN",
+ "respondent": "DHANANJAY MOHAN",
+ "case_no": "CLCON/189/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-05-14",
+ "cnr": "UKHC010059282025",
+ "doc_kind": "order",
+ "order_type": "CLCON/189/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PART HEARD MATTERS -132",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyPnw0UO9GU3VrwxcZnkmb%2FQAsQRyGTATFaoyfIsoCi8&caseno=CLCON/189/2025&cCode=1&cino=UKHC010059282025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fb9f3b11ec3f74e20d169f1d13f3d9753e29e4e2250ef6de742ec4c9783d2368",
+ "fetched_at": "2026-11-04T13:45:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

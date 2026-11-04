@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/182/2026:2026-09-18-001",
+ "title": "AJAY BISHT ALIAS AJAY SINGH versus LILA BISHT",
+ "petitioner": "AJAY BISHT ALIAS AJAY SINGH",
+ "respondent": "LILA BISHT",
+ "case_no": "FA/182/2026",
+ "case_type": "FA",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010163492026",
+ "doc_kind": "order",
+ "order_type": "FA/182/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQq7IEPrnY8ivzoaPb3h7Gq4QT5bZnaFNO5wnnP7TkNyw&caseno=FA/182/2026&cCode=1&cino=UKHC010163492026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "78b697f375241a9ecead6660479b69c1342c0628e012271a446092580479cafc",
+ "fetched_at": "2026-11-04T14:28:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

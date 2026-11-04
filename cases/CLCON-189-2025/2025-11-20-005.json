@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/189/2025:2025-11-20-005",
+ "title": "DAYA KISHAN versus DHANANJAY MOHAN",
+ "petitioner": "DAYA KISHAN",
+ "respondent": "DHANANJAY MOHAN",
+ "case_no": "CLCON/189/2025",
+ "case_type": "CLCON",
+ "decision_date": "2025-11-20",
+ "cnr": "UKHC010059282025",
+ "doc_kind": "order",
+ "order_type": "CLCON/189/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "PART HEARD MATTERS -132",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyPnw0UO9GU3VrwxcZnkmb9WqMZAnmVqP2Mt7QU81lY2&caseno=CLCON/189/2025&cCode=1&cino=UKHC010059282025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "37b9411b784b36a1a77de276448098154cf9db17bae18cb9e5250604dd91e977",
+ "fetched_at": "2026-11-04T13:45:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

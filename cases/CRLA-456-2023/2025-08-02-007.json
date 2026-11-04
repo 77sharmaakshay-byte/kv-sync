@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/456/2023:2025-08-02-007",
+ "title": "FARJAND versus STATE OF UTTARAKHAND",
+ "petitioner": "FARJAND",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/456/2023",
+ "case_type": "CRLA",
+ "decision_date": "2025-08-02",
+ "cnr": "UKHC010116582023",
+ "doc_kind": "order",
+ "order_type": "CRLA/456/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FnKpcphETi0qE9mqkzO8bwXfeE8yKlHrP4sd2kdMHg0&caseno=CRLA/456/2023&cCode=1&cino=UKHC010116582023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e5caef6c587419d78098a5eba8ccabd13c28e8c412c2953aaf6cd5d464f34dc",
+ "fetched_at": "2026-11-04T14:30:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

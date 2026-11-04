@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1488/2026:2026-09-07-001",
+ "title": "NANDAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "NANDAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1488/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-07",
+ "cnr": "UKHC010153192026",
+ "doc_kind": "order",
+ "order_type": "BA1/1488/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrRukuRe6jmKjkeXWeLJjIzfPlYc9ARzBF8F6v4HAzFA&caseno=BA1/1488/2026&cCode=1&cino=UKHC010153192026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7f91ac01012e080fc71b089c2ba5b81dec94c6e3970eaa3979f8a7865e2d97d2",
+ "fetched_at": "2026-11-04T14:13:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

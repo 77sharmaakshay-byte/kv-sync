@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/80/2026:2026-07-10-001",
+ "title": "PRAKASH CHANDRA versus GANESH DATT",
+ "petitioner": "PRAKASH CHANDRA",
+ "respondent": "GANESH DATT",
+ "case_no": "SA/80/2026",
+ "case_type": "SA",
+ "decision_date": "2026-07-10",
+ "cnr": "UKHC010118122026",
+ "doc_kind": "order",
+ "order_type": "SA/80/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlB5uD87vdxppUOcehLu3tPGX7EZfECvcZ92d2PkkFIi&caseno=SA/80/2026&cCode=1&cino=UKHC010118122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ef13b471da3318841e8af8590492965225db3a9eae9c00cd71d19e4b1b73c694",
+ "fetched_at": "2026-11-04T14:18:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

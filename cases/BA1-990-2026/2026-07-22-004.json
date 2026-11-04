@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/990/2026:2026-07-22-004",
+ "title": "DHANANJAY GIRI versus STATE OF UTTARAKHAND",
+ "petitioner": "DHANANJAY GIRI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/990/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-22",
+ "cnr": "UKHC010096862026",
+ "doc_kind": "order",
+ "order_type": "BA1/990/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrbT0cjKFE5V2zd8INBeQSc%2BAW7%2BpFBlkZQYlG0wVT1e&caseno=BA1/990/2026&cCode=1&cino=UKHC010096862026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a47627c497e252c20314a9d88deaea6b05eaab0458aec677439caf1adca3e6e3",
+ "fetched_at": "2026-11-04T14:09:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

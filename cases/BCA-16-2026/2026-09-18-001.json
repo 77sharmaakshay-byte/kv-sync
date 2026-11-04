@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BCA/16/2026:2026-09-18-001",
+ "title": "ASHOK KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ASHOK KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BCA/16/2026",
+ "case_type": "BCA",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010164322026",
+ "doc_kind": "order",
+ "order_type": "BCA/16/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvwV1ACph5kIryuA43xa55QU5jKKExTd2X6T%2FlDYKnuY&caseno=BCA/16/2026&cCode=1&cino=UKHC010164322026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ba49cb3fd6d0814b4600bea07ef0390e7810c6d2943a6815e5f2e5384d7ecb3f",
+ "fetched_at": "2026-11-04T14:13:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

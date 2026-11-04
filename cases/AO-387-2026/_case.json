@@ -6,9 +6,9 @@
  "registration_number": "AO /387/2026",
  "registration_date": "2026-10-09",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
- "case_stage": "Time Barred (Fresh Cases) -247",
+ "case_stage": "Order on Applications (Time Barred Cases) -250",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -65,7 +65,24 @@
    "purpose": "Time Barred (Fresh Cases) -247",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-13",
+   "purpose": "Time Barred (Fresh Cases) -247",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-13",
+   "order_type": "AO/387/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo%2FIKGcWguanA4yPQuHUNcaTMDNcA8q77larRZrOivZL&caseno=AO/387/2026&cCode=1&cino=UKHC010182262026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

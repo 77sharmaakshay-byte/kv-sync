@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/81/2024:2024-11-04-006",
+ "title": "MADAN NARAYAN versus GEETA PANDEY",
+ "petitioner": "MADAN NARAYAN",
+ "respondent": "GEETA PANDEY",
+ "case_no": "SA/81/2024",
+ "case_type": "SA",
+ "decision_date": "2024-11-04",
+ "cnr": "UKHC010107732024",
+ "doc_kind": "order",
+ "order_type": "SA/81/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJwyaRdKHZ7kjEHjb%2FByEsYVIom27mGSeLBYvMeVlyS%2F&caseno=SA/81/2024&cCode=1&cino=UKHC010107732024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a7f085f6d7e00ae577e51303a771dcd3e879d823c6143ce9123fd6fced8c0959",
+ "fetched_at": "2026-11-04T14:26:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

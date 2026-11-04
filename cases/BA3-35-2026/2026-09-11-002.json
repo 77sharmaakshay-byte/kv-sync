@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA3/35/2026:2026-09-11-002",
+ "title": "FARUKH versus STATE OF UTTARAKHAND",
+ "petitioner": "FARUKH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA3/35/2026",
+ "case_type": "BA3",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010140842026",
+ "doc_kind": "order",
+ "order_type": "BA3/35/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQs0IK%2FcEwh2S7yG3%2BDVwEUjO6uhafrj0H0GvTNl7bqTd&caseno=BA3/35/2026&cCode=1&cino=UKHC010140842026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3901ee0a1966b2d447b7618d883f47f9ddb279e0960ee8360f877e8743082497",
+ "fetched_at": "2026-11-04T13:44:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

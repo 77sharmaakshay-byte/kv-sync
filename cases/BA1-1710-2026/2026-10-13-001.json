@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1710/2026:2026-10-13-001",
+ "title": "JAVED versus STATE OF UTTARAKHAND",
+ "petitioner": "JAVED",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1710/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010181822026",
+ "doc_kind": "order",
+ "order_type": "BA1/1710/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqnF5PaPSqYGzqgTMJlqtan0f5YiyD6s1XxPKm%2B%2BKFkj&caseno=BA1/1710/2026&cCode=1&cino=UKHC010181822026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "742e1b069a8fddfdfc9db7b983a6a682fcf3d2e1f12fd14edaafd90d4f6decb1",
+ "fetched_at": "2026-11-04T14:02:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

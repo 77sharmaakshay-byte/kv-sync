@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/483/2026:2026-09-22-009",
+ "title": "MOHD SHAHWAZ versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD SHAHWAZ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/483/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010049552026",
+ "doc_kind": "order",
+ "order_type": "BA1/483/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgw7tHNSsohLBmc7FWDqXVVjzCekQEXLfyGtybdtU0Tw&caseno=BA1/483/2026&cCode=1&cino=UKHC010049552026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5271a574a4c38c03551d61f2b51954729beb05134c107f83575d9a53af21f20c",
+ "fetched_at": "2026-11-04T14:11:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

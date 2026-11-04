@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/483/2026:2026-05-08-002",
+ "title": "MOHD SHAHWAZ versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD SHAHWAZ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/483/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-08",
+ "cnr": "UKHC010049552026",
+ "doc_kind": "order",
+ "order_type": "BA1/483/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgw7tHNSsohLBmc7FWDqXVWUtadWTRKE5Qjdo%2FpDYSSd&caseno=BA1/483/2026&cCode=1&cino=UKHC010049552026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f5fa31574a505599f9c129acb00510f74cbb711829e62ac4dfb5930ceba132ba",
+ "fetched_at": "2026-11-04T14:11:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

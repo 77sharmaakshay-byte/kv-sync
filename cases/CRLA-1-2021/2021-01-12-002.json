@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/1/2021:2021-01-12-002",
+ "title": "RAKESH YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "RAKESH YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/1/2021",
+ "case_type": "CRLA",
+ "decision_date": "2021-01-12",
+ "cnr": "UKHC010000802021",
+ "doc_kind": "order",
+ "order_type": "CRLA/1/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkCEqGR69cGEKjL%2FtZM0nsvZ4X6C%2FsaBjCpuIFeZ4tqQc&caseno=CRLA/1/2021&cCode=1&cino=UKHC010000802021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d381e811603330cf3731e0b8ad7d8692b9d65461876dc6728ed4615d3fbeb04c",
+ "fetched_at": "2026-11-04T14:28:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

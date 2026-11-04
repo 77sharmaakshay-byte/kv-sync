@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/77/2026:2026-09-08-004",
+ "title": "SUNIL SAHANI versus STATE OF UTTARAKHAND",
+ "petitioner": "SUNIL SAHANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/77/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010094072026",
+ "doc_kind": "order",
+ "order_type": "BA2/77/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh3R8CZFsOu95fzvnT2vTcQVmuOKGTDwoIMQm0RKAoO3&caseno=BA2/77/2026&cCode=1&cino=UKHC010094072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7547152bfc6603d41ea48c8a61fd205fb7488798ab40162c9e7c644d178c5bf4",
+ "fetched_at": "2026-11-04T14:10:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,9 +6,9 @@
  "registration_number": "AO /59/2013",
  "registration_date": "2013-02-18",
  "first_hearing_date": "2017-04-08",
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
- "case_stage": "DIRECTIONS MATTERS -101",
+ "case_stage": "PRONOUNCEMENT OF JUDGMENT -2",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Division Bench",
@@ -65,6 +65,13 @@
    "purpose": "ORDER MATTERS -17",
    "judge": "",
    "cause_list_type": ""
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-26",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2025-10-08",
@@ -295,6 +302,15 @@
    "order_type": "AO/59/2013",
    "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIW3RAaLNr7p1Ux1Mblf3PAu1vYPw5sY5gDvbEji%2BvxrZ&caseno=AO/59/2013&cCode=1&cino=UKHC010016662013&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-26",
+   "order_type": "AO/59/2013",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIW3RAaLNr7p1Ux1Mblf3PAthX65tAnvAJIJIB2dcq0wu&caseno=AO/59/2013&cCode=1&cino=UKHC010016662013&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""
