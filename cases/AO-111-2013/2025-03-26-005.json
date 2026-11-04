@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/111/2013:2025-03-26-005",
+ "title": "KM. RINKI ALIAS SIMRAN versus JASWANT SINGH",
+ "petitioner": "KM. RINKI ALIAS SIMRAN",
+ "respondent": "JASWANT SINGH",
+ "case_no": "AO/111/2013",
+ "case_type": "AO",
+ "decision_date": "2025-03-26",
+ "cnr": "UKHC010008742013",
+ "doc_kind": "order",
+ "order_type": "AO/111/2013",
+ "judges": [
+  "Daily Lok Adalat"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaITW8kydVBb%2BYxFT4Rhm%2FsLJLiM322vq6z1Wylkmuxz46&caseno=AO/111/2013&cCode=1&cino=UKHC010008742013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "35230a59193bc02da32803dad97799449b04bc21d9f90790cb50145ef57ca7a4",
+ "fetched_at": "2026-11-04T07:28:29+00:00",
+ "fetched_by": "fetch_live.py"
+}
