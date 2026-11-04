@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1999/2021:2025-01-08-004",
+ "title": "UTTARAKHAND TRANSPORT CORPORATION DEHRADUN versus SHRI RAJKUMAR",
+ "petitioner": "UTTARAKHAND TRANSPORT CORPORATION DEHRADUN",
+ "respondent": "SHRI RAJKUMAR",
+ "case_no": "WPMS/1999/2021",
+ "case_type": "WPMS",
+ "decision_date": "2025-01-08",
+ "cnr": "UKHC010116912021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1999/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLq6XHEW%2BJF%2B3rKrpnCOHfQbXPIKMXZnZ6eOl398LQNF&caseno=WPMS/1999/2021&cCode=1&cino=UKHC010116912021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f2a800bcdd8fe0776138fa9ac343047a9b2afa634279789371ec1e7bbd07107d",
+ "fetched_at": "2026-11-04T14:37:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

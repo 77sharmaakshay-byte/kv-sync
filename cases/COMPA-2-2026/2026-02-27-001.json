@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:COMPA/2/2026:2026-02-27-001",
+ "title": "BHUWAN CHANDRA SUYAL versus THE REGISTRAR CUM OFFICIAL LIQUIDATOR",
+ "petitioner": "BHUWAN CHANDRA SUYAL",
+ "respondent": "THE REGISTRAR CUM OFFICIAL LIQUIDATOR",
+ "case_no": "COMPA/2/2026",
+ "case_type": "COMPA",
+ "decision_date": "2026-02-27",
+ "cnr": "UKHC010031892026",
+ "doc_kind": "order",
+ "order_type": "COMPA/2/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtDAk%2BEcXgBSXycESwDhmeB6eovEV5ZdlJG4xku0qf3q&caseno=COMPA/2/2026&cCode=1&cino=UKHC010031892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1df02503ec46afe8e420e7b400db296b62c10703eb70a5a89e6bc00130caffa6",
+ "fetched_at": "2026-11-04T14:36:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

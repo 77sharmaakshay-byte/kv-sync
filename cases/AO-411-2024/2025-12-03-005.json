@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/411/2024:2025-12-03-005",
+ "title": "PINKI versus AMIT KUMAR",
+ "petitioner": "PINKI",
+ "respondent": "AMIT KUMAR",
+ "case_no": "AO/411/2024",
+ "case_type": "AO",
+ "decision_date": "2025-12-03",
+ "cnr": "UKHC010159402024",
+ "doc_kind": "order",
+ "order_type": "AO/411/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcIkTsCmUINClKGAMbkmbIRvRfm5Prr2OzQ0c%2Fpw2kkwY&caseno=AO/411/2024&cCode=1&cino=UKHC010159402024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9a7176205bfb9167b0feaf660696b500fd30001d0237ef10bf8aa92e5c124191",
+ "fetched_at": "2026-11-04T14:36:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

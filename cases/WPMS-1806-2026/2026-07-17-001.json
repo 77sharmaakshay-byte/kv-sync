@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1806/2026:2026-07-17-001",
+ "title": "MS HITACHI PAYMENT SERVICES PVT LTD versus ASHOK KUMAR",
+ "petitioner": "MS HITACHI PAYMENT SERVICES PVT LTD",
+ "respondent": "ASHOK KUMAR",
+ "case_no": "WPMS/1806/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-17",
+ "cnr": "UKHC010102442026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1806/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgZ3tPFYAKJf7fGKyRkZGosVknpeX7PKMb9I9aeCy0M3&caseno=WPMS/1806/2026&cCode=1&cino=UKHC010102442026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fc19a6941d30107a52a0a7f5e5a04eb43d7a919de0d8736f3c60234630b4f4c9",
+ "fetched_at": "2026-11-04T14:36:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

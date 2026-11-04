@@ -1,0 +1,562 @@
+{
+ "cnr_number": "UKHC010144952026",
+ "case_type": "COMPA",
+ "filing_number": "COMPA /7511/2026",
+ "filing_date": "2026-08-13",
+ "registration_number": "COMPA /4/2026",
+ "registration_date": "2026-08-13",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-06",
+ "decision_date": null,
+ "case_stage": "Order on Applications (Time Barred Cases) -250",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "BAHADUR SINGH",
+   "advocate": "ALOK DALAKOTI"
+  },
+  {
+   "name": "RAM CHANDRA PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "CHANRA MANI GARWAL",
+   "advocate": ""
+  },
+  {
+   "name": "KUNDAN SINGH NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "NANDAN SINGH BORA",
+   "advocate": ""
+  },
+  {
+   "name": "MOHAN CHANDRA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "AMBA DUTT BAMETHA",
+   "advocate": ""
+  },
+  {
+   "name": "UMESH CHANDRA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "HEERA SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "GIRISH CHANDRA LOSHALI",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDRA BALLABH FULARA",
+   "advocate": ""
+  },
+  {
+   "name": "GOPAL SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH CHANDRA FULARA",
+   "advocate": ""
+  },
+  {
+   "name": "BHAIRAV DUTT JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "LEELA DHAR KABADWAL",
+   "advocate": ""
+  },
+  {
+   "name": "CHINTAMANI JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "LAXMAN SINGH RAIKWAL",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "LOKPAL SINGH QUEERA",
+   "advocate": ""
+  },
+  {
+   "name": "INDRA MANI PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH RAM",
+   "advocate": ""
+  },
+  {
+   "name": "TIKAM SINGH RANA",
+   "advocate": ""
+  },
+  {
+   "name": "MOHAN CHANDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "MOHAN SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "DINESH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "DEEP CHANDRA BAMETHA",
+   "advocate": ""
+  },
+  {
+   "name": "JEEWAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "TULSI DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "JAGMOHAN",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA ITANI",
+   "advocate": ""
+  },
+  {
+   "name": "HEERA SINGH JEENA",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH PALARIYA",
+   "advocate": ""
+  },
+  {
+   "name": "BALAM SINGH BORA",
+   "advocate": ""
+  },
+  {
+   "name": "MEENAKSHI",
+   "advocate": ""
+  },
+  {
+   "name": "GANGA DURGAPAL",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA KANDPAL",
+   "advocate": ""
+  },
+  {
+   "name": "LAKSHMI DUTT JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "MOHAN SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "MOHAN CHANDRA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "RAJENDRA FULARA",
+   "advocate": ""
+  },
+  {
+   "name": "KHYALI RAM BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "HEERA BALLABH NOTIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "GOPAL SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "INDRA SINGH RAUTELA",
+   "advocate": ""
+  },
+  {
+   "name": "VIMAL KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "RAMESH CHANDRA SHARMA",
+   "advocate": ""
+  },
+  {
+   "name": "LAXMAN GIRI GOSWAMI",
+   "advocate": ""
+  },
+  {
+   "name": "JAGMOHAN KABADWAL",
+   "advocate": ""
+  },
+  {
+   "name": "BAL KISHAN BELWAL",
+   "advocate": ""
+  },
+  {
+   "name": "RAJ MANGAL GUPTA",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA FULARA",
+   "advocate": ""
+  },
+  {
+   "name": "ANAND SINGH JAGGI",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDRA PRAKASH BARSHILIA",
+   "advocate": ""
+  },
+  {
+   "name": "NANDA BALLABH BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "DINESH CHANDRA NAGILA",
+   "advocate": ""
+  },
+  {
+   "name": "PURAN CHANDRA PALADIYA",
+   "advocate": ""
+  },
+  {
+   "name": "MAHENDRA SINGH NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "VINOD CHANDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "DEVENDRA SINGH KIROLA",
+   "advocate": ""
+  },
+  {
+   "name": "BALA DUTT LOSHALI",
+   "advocate": ""
+  },
+  {
+   "name": "SHIV SAGAR BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "DIWAN SINGH CHADDA",
+   "advocate": ""
+  },
+  {
+   "name": "GANESH DUTT",
+   "advocate": ""
+  },
+  {
+   "name": "TULSI DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "PURSHOTTAM JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "ANIL KUMAR PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "LEELADHAR PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "SHANKAR DUTT BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "MAHESH CHANDRA UNIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "TARA DUTT BAJETHA",
+   "advocate": ""
+  },
+  {
+   "name": "LALIT SHARMA",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "LAXMI DUTT TIWARI",
+   "advocate": ""
+  },
+  {
+   "name": "OM PRAKASH",
+   "advocate": ""
+  },
+  {
+   "name": "RAVINDER",
+   "advocate": ""
+  },
+  {
+   "name": "JEEWAN CHANDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "BHEEM YADAV",
+   "advocate": ""
+  },
+  {
+   "name": "NEEMA DURGAPAL",
+   "advocate": ""
+  },
+  {
+   "name": "ASHOK KUMAR SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "NAVEEN CHANDRA BHATT",
+   "advocate": ""
+  },
+  {
+   "name": "MUNNA LAL",
+   "advocate": ""
+  },
+  {
+   "name": "BASANT BALLABH PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "KUNDAN SINGH NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "BIPIN CHANDRA PAUDIWAL",
+   "advocate": ""
+  },
+  {
+   "name": "VIMLA DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "SUNIL JAISWAL",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA KANDPAL",
+   "advocate": ""
+  },
+  {
+   "name": "CHURAMANI SHARMA",
+   "advocate": ""
+  },
+  {
+   "name": "RAM NIWAS SHARMA",
+   "advocate": ""
+  },
+  {
+   "name": "VIR KISHAN BANGROO",
+   "advocate": ""
+  },
+  {
+   "name": "YAMUNA DUTT JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "JAGMOHAN SINGH KULORA",
+   "advocate": ""
+  },
+  {
+   "name": "LACHHI NATH GOSWAMI",
+   "advocate": ""
+  },
+  {
+   "name": "TARA DUTT PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "NAVEEN CHANDRA SATI",
+   "advocate": ""
+  },
+  {
+   "name": "TRILOK SINGH BAGADWAL",
+   "advocate": ""
+  },
+  {
+   "name": "GHANSHYAM JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "VINOD CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "DINESH CHANDRA GUNWANT",
+   "advocate": ""
+  },
+  {
+   "name": "NARAIN DUTT PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "NIRANJAN KUMAR JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "RAJ KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "KUNDAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "CHANDRA BALLABH",
+   "advocate": ""
+  },
+  {
+   "name": "BASANT BALLABH PANDEY",
+   "advocate": ""
+  },
+  {
+   "name": "DIWAN SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "NAVEEN CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "GANGA DURGAPAL",
+   "advocate": ""
+  },
+  {
+   "name": "RAJESHWAI DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "KAILASH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "HARISH CHANDRA",
+   "advocate": ""
+  },
+  {
+   "name": "JEEVANAND NAINWAL",
+   "advocate": ""
+  },
+  {
+   "name": "KAMLA DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "SHRIKRISHNA JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "DALIP SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "RUKMANI NEGI",
+   "advocate": ""
+  },
+  {
+   "name": "MOHAN SINGH BISHT",
+   "advocate": ""
+  },
+  {
+   "name": "KAMLA PAITHANI",
+   "advocate": ""
+  },
+  {
+   "name": "NARAYAN DATT",
+   "advocate": ""
+  },
+  {
+   "name": "NAND KISHOR",
+   "advocate": ""
+  },
+  {
+   "name": "PRAKASH CHANDRA",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "THE REGISTRAR CUM OFFICIAL LIQUIDATOR",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Companies Act, 2013 (Act No. 18 of 2013)",
+   "sections": "164"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-14",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-06",
+   "business_date": "2026-10-09",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-03",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-14",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-03",
+   "order_type": "COMPA/4/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsuyNW0rCFVLXMLcl7esxYMz0J%2Bwt8fKHmY1fP7VyCuH&caseno=COMPA/4/2026&cCode=1&cino=UKHC010144952026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

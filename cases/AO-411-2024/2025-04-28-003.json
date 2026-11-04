@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/411/2024:2025-04-28-003",
+ "title": "PINKI versus AMIT KUMAR",
+ "petitioner": "PINKI",
+ "respondent": "AMIT KUMAR",
+ "case_no": "AO/411/2024",
+ "case_type": "AO",
+ "decision_date": "2025-04-28",
+ "cnr": "UKHC010159402024",
+ "doc_kind": "order",
+ "order_type": "AO/411/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcIkTsCmUINClKGAMbkmbIRtboqIYpjUaALzCGNRK6Cn8&caseno=AO/411/2024&cCode=1&cino=UKHC010159402024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bb767ac7b6aad19223cc84645e194a27615a25c2695b405a8801850dc64b1345",
+ "fetched_at": "2026-11-04T14:36:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

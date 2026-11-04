@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:COMP/4/2012:2021-12-08-032",
+ "title": "Ms/ Jalpac India Ltd. versus ASSET RECONSTRUCTION COMPANY   Advocate- PRADEEP KUMAR CHAUHAN,MENKA TRIPATHI 1123",
+ "petitioner": "Ms/ Jalpac India Ltd.",
+ "respondent": "ASSET RECONSTRUCTION COMPANY   Advocate- PRADEEP KUMAR CHAUHAN,MENKA TRIPATHI 1123",
+ "case_no": "COMP/4/2012",
+ "case_type": "COMP",
+ "decision_date": "2021-12-08",
+ "cnr": "UKHC010010912012",
+ "doc_kind": "order",
+ "order_type": "COMP/4/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHHtFmU2JaDAl2sSyYLfQ%2FUM1%2F2MyjcGus7pDHYcx5B7&caseno=COMP/4/2012&cCode=1&cino=UKHC010010912012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bafd336612725d8f2dfc67698f5eb38a5f34a4dc2a94edd3255360a8f070ce8e",
+ "fetched_at": "2026-11-04T14:37:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

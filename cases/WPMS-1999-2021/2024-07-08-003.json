@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1999/2021:2024-07-08-003",
+ "title": "UTTARAKHAND TRANSPORT CORPORATION DEHRADUN versus SHRI RAJKUMAR",
+ "petitioner": "UTTARAKHAND TRANSPORT CORPORATION DEHRADUN",
+ "respondent": "SHRI RAJKUMAR",
+ "case_no": "WPMS/1999/2021",
+ "case_type": "WPMS",
+ "decision_date": "2024-07-08",
+ "cnr": "UKHC010116912021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1999/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkLq6XHEW%2BJF%2B3rKrpnCOHfSrQZldCCBCTs%2BpC4ocwypy&caseno=WPMS/1999/2021&cCode=1&cino=UKHC010116912021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ecedddbfb61ec265a0ee650c6ed42cfa68d3231547bfb5bacc0e3dafa14dc7ab",
+ "fetched_at": "2026-11-04T14:37:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

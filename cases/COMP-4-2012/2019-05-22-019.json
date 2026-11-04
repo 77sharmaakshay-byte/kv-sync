@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:COMP/4/2012:2019-05-22-019",
+ "title": "Ms/ Jalpac India Ltd. versus ASSET RECONSTRUCTION COMPANY   Advocate- PRADEEP KUMAR CHAUHAN,MENKA TRIPATHI 1123",
+ "petitioner": "Ms/ Jalpac India Ltd.",
+ "respondent": "ASSET RECONSTRUCTION COMPANY   Advocate- PRADEEP KUMAR CHAUHAN,MENKA TRIPATHI 1123",
+ "case_no": "COMP/4/2012",
+ "case_type": "COMP",
+ "decision_date": "2019-05-22",
+ "cnr": "UKHC010010912012",
+ "doc_kind": "order",
+ "order_type": "COMP/4/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrHHtFmU2JaDAl2sSyYLfQ%2FVbwtyELFRPvKbnEXN0t4ou&caseno=COMP/4/2012&cCode=1&cino=UKHC010010912012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9131c6164f6f0bd9262a30656b078e9afc55a35e18adb0b2ca6239eed4d72e9f",
+ "fetched_at": "2026-11-04T14:37:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

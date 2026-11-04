@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1523/2023:2024-05-01-020",
+ "title": "JODHA RAM versus RAMESH CHANDRA SHARMA",
+ "petitioner": "JODHA RAM",
+ "respondent": "RAMESH CHANDRA SHARMA",
+ "case_no": "WPMS/1523/2023",
+ "case_type": "WPMS",
+ "decision_date": "2024-05-01",
+ "cnr": "UKHC010079892023",
+ "doc_kind": "order",
+ "order_type": "IA/4/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY1ILvm0oH5Fl%2BEXbn8VOj%2FWCl%2BoJRk3p6oQk7%2BRQkGjU&caseno=WPMS/1523/2023&cCode=1&cino=UKHC010079892023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3617db46fcdff9d00cd79627a58e37aa5096e251882dd43b8e87a516754ecf69",
+ "fetched_at": "2026-11-04T14:37:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

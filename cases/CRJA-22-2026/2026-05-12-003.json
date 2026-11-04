@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/22/2026:2026-05-12-003",
+ "title": "AASHA versus STATE OF UTTARAKHAND",
+ "petitioner": "AASHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/22/2026",
+ "case_type": "CRJA",
+ "decision_date": "2026-05-12",
+ "cnr": "UKHC010046252026",
+ "doc_kind": "order",
+ "order_type": "CRJA/22/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg0ihGhiX6rVijj%2Fl8ytGl7LHIOU1gQ5iQ%2BWhWhHiWLG&caseno=CRJA/22/2026&cCode=1&cino=UKHC010046252026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f47696961758d3e45034a151c60a0c8a443335baa2b5d692c726a4bfffd06245",
+ "fetched_at": "2026-11-04T14:34:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

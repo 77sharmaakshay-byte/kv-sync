@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/411/2024:2024-10-08-001",
+ "title": "PINKI versus AMIT KUMAR",
+ "petitioner": "PINKI",
+ "respondent": "AMIT KUMAR",
+ "case_no": "AO/411/2024",
+ "case_type": "AO",
+ "decision_date": "2024-10-08",
+ "cnr": "UKHC010159402024",
+ "doc_kind": "order",
+ "order_type": "AO/411/2024",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcIkTsCmUINClKGAMbkmbIRuTu4l4SdgmpW2QOY9pMfpc&caseno=AO/411/2024&cCode=1&cino=UKHC010159402024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c5e647c08a611acfaf042d866380968b569fcf3d51af20d75e19cdebdd53d894",
+ "fetched_at": "2026-11-04T14:36:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1523/2023:2023-07-27-008",
+ "title": "JODHA RAM versus RAMESH CHANDRA SHARMA",
+ "petitioner": "JODHA RAM",
+ "respondent": "RAMESH CHANDRA SHARMA",
+ "case_no": "WPMS/1523/2023",
+ "case_type": "WPMS",
+ "decision_date": "2023-07-27",
+ "cnr": "UKHC010079892023",
+ "doc_kind": "order",
+ "order_type": "WPMS/1523/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY1ILvm0oH5Fl%2BEXbn8VOj%2FVAyc4z3e%2F%2BxMx2m04K%2B%2B%2B4&caseno=WPMS/1523/2023&cCode=1&cino=UKHC010079892023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bf5f56a0444b2ae1c0be51b8ddb4beb5001e29f07f368afd89de08a4ce0a4319",
+ "fetched_at": "2026-11-04T14:37:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/411/2024:2026-09-03-007",
+ "title": "PINKI versus AMIT KUMAR",
+ "petitioner": "PINKI",
+ "respondent": "AMIT KUMAR",
+ "case_no": "AO/411/2024",
+ "case_type": "AO",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010159402024",
+ "doc_kind": "order",
+ "order_type": "AO/411/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcIkTsCmUINClKGAMbkmbIRt7lagG15cBIG2%2FldX0Q5he&caseno=AO/411/2024&cCode=1&cino=UKHC010159402024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "149e8327007bc057688f485b8cb9c4c9ffbc5d3395e2704ac4fb68c10dafd492",
+ "fetched_at": "2026-11-04T14:36:50+00:00",
+ "fetched_by": "fetch_live.py"
+}
