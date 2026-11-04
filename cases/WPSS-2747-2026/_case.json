@@ -6,7 +6,7 @@
  "registration_number": "WPSS /2747/2026",
  "registration_date": "2026-10-26",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-30",
+ "next_hearing_date": "2026-11-05",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
@@ -50,6 +50,20 @@
   {
    "hearing_date": "2026-10-30",
    "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-11-03",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-03",
+   "business_date": "2026-10-30",
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
