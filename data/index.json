@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T07:28+00:00",
+ "generated_at": "2026-11-04T07:38+00:00",
  "dates": [
   "2026-11-05",
   "2026-11-04",
@@ -825,6 +825,18 @@
    ],
    "next_date": "2026-10-31",
    "a": 1
+  },
+  {
+   "id": "AO-111-2013",
+   "case_no": "AO/111/2013",
+   "title": "KM. RINKI ALIAS SIMRAN v. JASWANT SINGH",
+   "advocates": [
+    "KARAN ANAND, ,PAWAN MISHRA",
+    "NARESH PANT",
+    "P C MAULEKHI"
+   ],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "AO-115-2013",
@@ -2723,6 +2735,18 @@
    ],
    "next_date": "2026-11-02",
    "a": 1
+  },
+  {
+   "id": "AO-77-2013",
+   "case_no": "AO/77/2013",
+   "title": "THE NEW INDIA ASSURANCE COMPANY LTD v. KM. RINKY ALIAS SIMRAN",
+   "advocates": [
+    "KARAN ANAND,",
+    "NARESH PANT",
+    "P C MAULEKHI"
+   ],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "AO-81-2022",
@@ -24683,6 +24707,18 @@
    "advocates": [
     "G.A.",
     "GAURAV SINGH"
+   ],
+   "next_date": "2026-11-04",
+   "a": 2
+  },
+  {
+   "id": "WPCRL-2275-2026",
+   "case_no": "WPCRL/2275/2026",
+   "title": "GURPAL SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "G.A.",
+    "KARAN ANAND (FOR CAVEATOR)",
+    "VANDANA SINGH MEHRA"
    ],
    "next_date": "2026-11-04",
    "a": 2
