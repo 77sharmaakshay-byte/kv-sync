@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/543/2025:2025-11-13-002",
+ "title": "GIRISH CHANDRA BASOLA versus RAMJI SHARAN SHARMA",
+ "petitioner": "GIRISH CHANDRA BASOLA",
+ "respondent": "RAMJI SHARAN SHARMA",
+ "case_no": "CLCON/543/2025",
+ "case_type": "CLCON",
+ "decision_date": "2025-11-13",
+ "cnr": "UKHC010163262025",
+ "doc_kind": "order",
+ "order_type": "CLCON/543/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4WP0hZxyBuJ%2BwwDmBApkje4j2%2F5z6xzTC4Y0BhmdvK9&caseno=CLCON/543/2025&cCode=1&cino=UKHC010163262025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "90cccdc776db5d26b514f7111e018fee97a1c9f506bc2e04a6eadffaf50793ed",
+ "fetched_at": "2026-11-05T14:52:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

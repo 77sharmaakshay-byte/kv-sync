@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3094/2024:2026-07-10-006",
+ "title": "SMT MANJIRA DEVI AYURVEDIC MEDICAL COLLEGE versus UTTARAKHAND AYURVEDA UNIVERSITY",
+ "petitioner": "SMT MANJIRA DEVI AYURVEDIC MEDICAL COLLEGE",
+ "respondent": "UTTARAKHAND AYURVEDA UNIVERSITY",
+ "case_no": "WPMS/3094/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-10",
+ "cnr": "UKHC010177342024",
+ "doc_kind": "order",
+ "order_type": "WPMS/3094/2024",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcN5HIQ5zMjAV3b1TqOwhyUvfe0rbbSVFB7XK2e7nkoOS&caseno=WPMS/3094/2024&cCode=1&cino=UKHC010177342024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "256140ce65b9131969aa420b75a9d2b518e2f3771586460ae6edf68b003df4f3",
+ "fetched_at": "2026-11-05T14:37:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

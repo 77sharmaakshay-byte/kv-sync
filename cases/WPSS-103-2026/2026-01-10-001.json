@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/103/2026:2026-01-10-001",
+ "title": "MOHD ASHRAF versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD ASHRAF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/103/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-01-10",
+ "cnr": "UKHC010007042026",
+ "doc_kind": "order",
+ "order_type": "WPSS/103/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpdzCmaF3n0dUW6UlsmJBKNIl3jirJ6yjxJ2Jw9CbyOr&caseno=WPSS/103/2026&cCode=1&cino=UKHC010007042026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bd5ca375821217622ae2301198e386204e876123ce032fea59352b12a71cb582",
+ "fetched_at": "2026-11-05T14:44:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

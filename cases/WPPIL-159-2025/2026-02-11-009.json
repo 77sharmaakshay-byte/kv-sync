@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/159/2025:2026-02-11-009",
+ "title": "VANSHIKA PANDEY versus STATE OF UTTARAKHAND",
+ "petitioner": "VANSHIKA PANDEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/159/2025",
+ "case_type": "WPPIL",
+ "decision_date": "2026-02-11",
+ "cnr": "UKHC010111142025",
+ "doc_kind": "order",
+ "order_type": "WPPIL/159/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3PWq5AO%2BwEqvqNJcdSuKU73FVSbFhQGVHYKbOz9%2Fobm&caseno=WPPIL/159/2025&cCode=1&cino=UKHC010111142025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "73bfc54621f5ca5fc21069bb3bc50dba28cbf34494da336aa97c240e949b8899",
+ "fetched_at": "2026-11-05T14:37:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

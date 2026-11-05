@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/100/2022:2023-07-27-005",
+ "title": "HARGOVIND SINGH versus PRATIBHA CHANDRA",
+ "petitioner": "HARGOVIND SINGH",
+ "respondent": "PRATIBHA CHANDRA",
+ "case_no": "CLR/100/2022",
+ "case_type": "CLR",
+ "decision_date": "2023-07-27",
+ "cnr": "UKHC010169882022",
+ "doc_kind": "order",
+ "order_type": "CLR/100/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07y4U%2BM2hWShIqZzCVx1NmSXJrllUo58UacnYowW3Nqf&caseno=CLR/100/2022&cCode=1&cino=UKHC010169882022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6ba31558353df9a0729a14c8f5d3e3d264816f15c425e9e85bf9e7ddb06f6815",
+ "fetched_at": "2026-11-05T15:05:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

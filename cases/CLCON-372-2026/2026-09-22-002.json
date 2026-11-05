@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/372/2026:2026-09-22-002",
+ "title": "RAJ KUMAR versus GITENDRA SAINI",
+ "petitioner": "RAJ KUMAR",
+ "respondent": "GITENDRA SAINI",
+ "case_no": "CLCON/372/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010112742026",
+ "doc_kind": "order",
+ "order_type": "CLCON/372/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvaeUiNl%2FnqeWWvnSlEkgJJrXTk0wGTnFCIbuw%2FKMudm&caseno=CLCON/372/2026&cCode=1&cino=UKHC010112742026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "14f5f606b83e54cd43faf6817f0abbf3f6bd6449d038b28cf9d9dccd999cd0f6",
+ "fetched_at": "2026-11-05T15:06:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/91/2019:2020-09-24-003",
+ "title": "RAMCHANDRA ALIAS RAJU VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMCHANDRA ALIAS RAJU VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/91/2019",
+ "case_type": "WPPIL",
+ "decision_date": "2020-09-24",
+ "cnr": "UKHC010106072019",
+ "doc_kind": "order",
+ "order_type": "WPPIL/91/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF8YgXStxsHIftyWD7vk%2FQvbe8S%2Fo7umMgYvh4%2Fvi3bBY&caseno=WPPIL/91/2019&cCode=1&cino=UKHC010106072019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ca9b717696d212201caf544dc932af2a04fd82426820f7d2140b18c4c69089c1",
+ "fetched_at": "2026-11-05T14:38:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

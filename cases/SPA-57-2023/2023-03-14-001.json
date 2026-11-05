@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/57/2023:2023-03-14-001",
+ "title": "PUSHPA BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "PUSHPA BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/57/2023",
+ "case_type": "SPA",
+ "decision_date": "2023-03-14",
+ "cnr": "UKHC010035962023",
+ "doc_kind": "order",
+ "order_type": "SPA/57/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY5yUZlfzW1LoB0ImZu3dzl5QOsAtNhKXyr2kfRVQQF8L&caseno=SPA/57/2023&cCode=1&cino=UKHC010035962023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e36178a3ee323e6e16f8b8ff4280f3a68a693dfa5af09b48587a35f2655d8a52",
+ "fetched_at": "2026-11-05T14:35:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

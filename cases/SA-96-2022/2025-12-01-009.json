@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/96/2022:2025-12-01-009",
+ "title": "QAMAR JAHAN versus BUA DUTTA",
+ "petitioner": "QAMAR JAHAN",
+ "respondent": "BUA DUTTA",
+ "case_no": "SA/96/2022",
+ "case_type": "SA",
+ "decision_date": "2025-12-01",
+ "cnr": "UKHC010119062022",
+ "doc_kind": "order",
+ "order_type": "SA/96/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06VIMydxoWzwOxxu1R2z1t5xAU9VMlRVaPcbn6jcFeZ%2B&caseno=SA/96/2022&cCode=1&cino=UKHC010119062022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c3affebeec8ce4c5723cd4bf2af123fcfb737fb280b454778af733b9c1585711",
+ "fetched_at": "2026-11-05T15:11:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

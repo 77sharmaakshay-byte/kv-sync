@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/790/2026:2026-10-09-001",
+ "title": "CHARAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "CHARAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/790/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010180432026",
+ "doc_kind": "order",
+ "order_type": "CRLR/790/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtuCozyoYsHOKjZPVUWjFYCTtWM2TbiM8bh1rHMU3rXX&caseno=CRLR/790/2026&cCode=1&cino=UKHC010180432026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e6f43489c4843cd994b804353f1ed649b077298b51abe780bcc6797ecb92060",
+ "fetched_at": "2026-11-05T15:13:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

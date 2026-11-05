@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/33/2024:2025-11-11-006",
+ "title": "STATE OF UTTARAKHAND versus BALWANT SINGH BHAKUNI",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "BALWANT SINGH BHAKUNI",
+ "case_no": "SPA/33/2024",
+ "case_type": "SPA",
+ "decision_date": "2025-11-11",
+ "cnr": "UKHC010018092024",
+ "doc_kind": "order",
+ "order_type": "SPA/33/2024",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcI1n4TYY0X6m8oSDsRkRhDj0dhEtTxOZxlaVoFAR6dO5&caseno=SPA/33/2024&cCode=1&cino=UKHC010018092024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a40ed2ad88e481ef55690bc4109238d1961e3ed2051aa1f267dfa39a134ea89f",
+ "fetched_at": "2026-11-05T14:37:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

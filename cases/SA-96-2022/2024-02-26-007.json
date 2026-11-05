@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/96/2022:2024-02-26-007",
+ "title": "QAMAR JAHAN versus BUA DUTTA",
+ "petitioner": "QAMAR JAHAN",
+ "respondent": "BUA DUTTA",
+ "case_no": "SA/96/2022",
+ "case_type": "SA",
+ "decision_date": "2024-02-26",
+ "cnr": "UKHC010119062022",
+ "doc_kind": "order",
+ "order_type": "SA/96/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06VIMydxoWzwOxxu1R2z1t7jpA6EPcy%2BmOuNoSMozo6p&caseno=SA/96/2022&cCode=1&cino=UKHC010119062022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "69a15597e388714571b450cc0d3605b2928bc44521b034a90bd17f37d9a70614",
+ "fetched_at": "2026-11-05T15:11:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

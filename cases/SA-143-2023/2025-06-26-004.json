@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/143/2023:2025-06-26-004",
+ "title": "HARISHANKAR versus RAKESH",
+ "petitioner": "HARISHANKAR",
+ "respondent": "RAKESH",
+ "case_no": "SA/143/2023",
+ "case_type": "SA",
+ "decision_date": "2025-06-26",
+ "cnr": "UKHC010180322023",
+ "doc_kind": "order",
+ "order_type": "SA/143/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY5Wp1lVx9Uur5Q3x8mqidWyspmeX18yxTk6eX0ttVOzu&caseno=SA/143/2023&cCode=1&cino=UKHC010180322023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8fca1cfae4b8fb409f8e46e7409bd7f0ab6af141dbdea08f4935c3eb6d0ed724",
+ "fetched_at": "2026-11-05T15:13:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/280/2026:2026-08-06-005",
+ "title": "ANSHU RAJ versus STATE OF UTTARAKHAND",
+ "petitioner": "ANSHU RAJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/280/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-06",
+ "cnr": "UKHC010017642026",
+ "doc_kind": "order",
+ "order_type": "WPMS/280/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQupEIn4k1bScoROqOsLuhcrxJ9txbSbM0WIIucZABuWS&caseno=WPMS/280/2026&cCode=1&cino=UKHC010017642026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ba4c798cd099b75c8aab173b5ec028d54e9287d69b112dc4f356fd7250c2b31",
+ "fetched_at": "2026-11-05T14:37:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

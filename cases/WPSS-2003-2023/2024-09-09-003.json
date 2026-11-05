@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2003/2023:2024-09-09-003",
+ "title": "MANOJ JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "MANOJ JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2003/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-09-09",
+ "cnr": "UKHC010175912023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2003/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY54wkPvb6cA0jx%2F%2BLxJyyPcbMn42sX6az1ho56DcvJoX&caseno=WPSS/2003/2023&cCode=1&cino=UKHC010175912023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6a5544e48b3ce20f9d5980f0ff4e58ed216bfc474762bcec14a6360209cceb2e",
+ "fetched_at": "2026-11-05T14:34:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

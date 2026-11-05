@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/329/2026:2026-05-06-001",
+ "title": "SUO MOTU WRIT PETITION IN RE MONITORING OF COMPLIANCE OF DIRECTIONS OF HONBLE SUPREME COURT versus STATE OF UTTARAKHAND",
+ "petitioner": "SUO MOTU WRIT PETITION IN RE MONITORING OF COMPLIANCE OF DIRECTIONS OF HONBLE SUPREME COURT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/329/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-05-06",
+ "cnr": "UKHC010070582026",
+ "doc_kind": "order",
+ "order_type": "WPMB/329/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtiLttDOe8NGj0zu9IwAKAafRwWQQquIOL5d3W7JSOPL&caseno=WPMB/329/2026&cCode=1&cino=UKHC010070582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "58d5867a9b6fcf3900eb9456605316deb6f5a9a5e0cd169453e0b824c068eff0",
+ "fetched_at": "2026-11-05T14:39:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

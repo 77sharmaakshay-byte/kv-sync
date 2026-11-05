@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/136/2020:2024-02-27-023",
+ "title": "SANTOSH UPADHYAY versus STATE OF UTTARAKHAND",
+ "petitioner": "SANTOSH UPADHYAY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/136/2020",
+ "case_type": "WPPIL",
+ "decision_date": "2024-02-27",
+ "cnr": "UKHC010070292020",
+ "doc_kind": "order",
+ "order_type": "WPPIL/136/2020",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjM9zC4HvHUTiy%2FhuLhOsvOTlm4rblAIg7heLLnce6bwk&caseno=WPPIL/136/2020&cCode=1&cino=UKHC010070292020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "addcf18a358a32d76d279d15f73bed785148c63f6f784ff4d377659a9ee88167",
+ "fetched_at": "2026-11-05T14:38:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

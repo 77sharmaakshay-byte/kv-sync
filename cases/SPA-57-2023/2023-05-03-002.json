@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/57/2023:2023-05-03-002",
+ "title": "PUSHPA BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "PUSHPA BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/57/2023",
+ "case_type": "SPA",
+ "decision_date": "2023-05-03",
+ "cnr": "UKHC010035962023",
+ "doc_kind": "order",
+ "order_type": "SPA/57/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY5yUZlfzW1LoB0ImZu3dzl5%2FXcGMaZr4Arl9QjpmX4pO&caseno=SPA/57/2023&cCode=1&cino=UKHC010035962023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a006f89511f0b34599baa441b3745ed9b5d5b2e5acee44ae041e3d2626613283",
+ "fetched_at": "2026-11-05T14:35:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

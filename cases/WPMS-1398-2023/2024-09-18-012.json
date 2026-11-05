@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1398/2023:2024-09-18-012",
+ "title": "RENU RATURI versus STATE OF UTTARAKHAND",
+ "petitioner": "RENU RATURI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1398/2023",
+ "case_type": "WPMS",
+ "decision_date": "2024-09-18",
+ "cnr": "UKHC010072922023",
+ "doc_kind": "order",
+ "order_type": "IA/7/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY5of1kIdysj1c%2BWv5QvqGF890vMpgZO5fVQXIkqmGXdn&caseno=WPMS/1398/2023&cCode=1&cino=UKHC010072922023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b4cf76f5d65056d0b8c6f92ed05c95deee346426e173eeaecb36c1cab5a5f3ab",
+ "fetched_at": "2026-11-05T15:11:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

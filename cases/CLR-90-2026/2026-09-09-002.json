@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/90/2026:2026-09-09-002",
+ "title": "SAROJBALA GAUR versus SANJAY NEGI DECEASED",
+ "petitioner": "SAROJBALA GAUR",
+ "respondent": "SANJAY NEGI DECEASED",
+ "case_no": "CLR/90/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010134462026",
+ "doc_kind": "order",
+ "order_type": "CLR/90/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQob0KxrosCa10wpaPbA0r%2BcJm9%2BIBXLH4Un3qsgDnVif&caseno=CLR/90/2026&cCode=1&cino=UKHC010134462026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b7a01ea3d842e1e50d46c293065df177c1089b2f34b8f754853eed8463543fa7",
+ "fetched_at": "2026-11-05T15:06:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

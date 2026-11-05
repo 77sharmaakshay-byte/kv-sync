@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1020/2026:2026-09-23-001",
+ "title": "RAJKUMAR ALIAS ANIL ALIAS BABLU versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJKUMAR ALIAS ANIL ALIAS BABLU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1020/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-23",
+ "cnr": "UKHC010099012026",
+ "doc_kind": "order",
+ "order_type": "BA1/1020/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkWxDNjuV7p2DAD2Rc9ePCoR2fRsGNtv2WhNXlvJV1Fv&caseno=BA1/1020/2026&cCode=1&cino=UKHC010099012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "851bfee2cd26d2119482ad5a75fd7927f191a27e20c66eeea41ed9be19e59ba1",
+ "fetched_at": "2026-11-05T15:01:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/840/2025:2026-10-15-003",
+ "title": "GAURAV VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "GAURAV VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/840/2025",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010155792025",
+ "doc_kind": "order",
+ "order_type": "WPMB/840/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxt0U2i9z29SAobIJvL7enkdL2Sph8fRGnMGc56mypmg&caseno=WPMB/840/2025&cCode=1&cino=UKHC010155792025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5955a4764e28f7724f2218fe906932826ed47d3410dc4c947f75611b9ef4b334",
+ "fetched_at": "2026-11-05T14:37:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

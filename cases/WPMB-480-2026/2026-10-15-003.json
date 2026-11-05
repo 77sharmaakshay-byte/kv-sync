@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/480/2026:2026-10-15-003",
+ "title": "GUNJAN KUMARI versus UNION OF INDIA",
+ "petitioner": "GUNJAN KUMARI",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMB/480/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010099952026",
+ "doc_kind": "order",
+ "order_type": "WPMB/480/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkM1oHmTRJAxmiSSnZODRsgWkeT%2BHJUZ55DvUw1rVaEd&caseno=WPMB/480/2026&cCode=1&cino=UKHC010099952026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5955a4764e28f7724f2218fe906932826ed47d3410dc4c947f75611b9ef4b334",
+ "fetched_at": "2026-11-05T14:37:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

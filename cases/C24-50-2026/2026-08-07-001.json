@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C24/50/2026:2026-08-07-001",
+ "title": "ZINAT versus MOHD UDAY",
+ "petitioner": "ZINAT",
+ "respondent": "MOHD UDAY",
+ "case_no": "C24/50/2026",
+ "case_type": "C24",
+ "decision_date": "2026-08-07",
+ "cnr": "UKHC010134742026",
+ "doc_kind": "order",
+ "order_type": "C24/50/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuq%2F00HbScVWEten3SQhCBUcXqWCtogpTmFS5FdwwVeJ&caseno=C24/50/2026&cCode=1&cino=UKHC010134742026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d8853c03ebb025f2954939f3070b1b4856aa86a279ad19cc3553a5cd642cf65c",
+ "fetched_at": "2026-11-05T15:09:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

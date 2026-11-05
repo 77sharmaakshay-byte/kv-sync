@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/147/2025:2025-08-08-001",
+ "title": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY versus STATE OF UTTARAKHAND",
+ "petitioner": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/147/2025",
+ "case_type": "WPPIL",
+ "decision_date": "2025-08-08",
+ "cnr": "UKHC010119482025",
+ "doc_kind": "order",
+ "order_type": "WPPIL/147/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmytMv3SRvE4L6EJhiUkhhsdWSHYIzuyzwN9T%2BGcIo2Dg&caseno=WPPIL/147/2025&cCode=1&cino=UKHC010119482025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "282172d022c49499773b7719656af6324cf6f9097b8ff4a53f07dad7dfd4bd74",
+ "fetched_at": "2026-11-05T14:39:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

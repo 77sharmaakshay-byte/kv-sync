@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/486/2026:2026-08-19-001",
+ "title": "AMEER UDDIN versus RAJESH CHADRA SHARMA",
+ "petitioner": "AMEER UDDIN",
+ "respondent": "RAJESH CHADRA SHARMA",
+ "case_no": "CLCON/486/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010147032026",
+ "doc_kind": "order",
+ "order_type": "CLCON/486/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS (AFTER FRESH) -30",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg7X3nist5bQ6WxoBYlH0WxpiDNo7HBoDzGgpVBsAiEg&caseno=CLCON/486/2026&cCode=1&cino=UKHC010147032026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ae5c029ec342fc0c5fe4ff0063188d4132b06a81389676bd7d5dadcee65cdb38",
+ "fetched_at": "2026-11-05T14:51:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

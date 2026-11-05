@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/143/2023:2024-01-08-001",
+ "title": "HARISHANKAR versus RAKESH",
+ "petitioner": "HARISHANKAR",
+ "respondent": "RAKESH",
+ "case_no": "SA/143/2023",
+ "case_type": "SA",
+ "decision_date": "2024-01-08",
+ "cnr": "UKHC010180322023",
+ "doc_kind": "order",
+ "order_type": "SA/143/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY5Wp1lVx9Uur5Q3x8mqidWzlkq8MvQlW%2BskaVyPVhb8Q&caseno=SA/143/2023&cCode=1&cino=UKHC010180322023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3863aba408bd64d1835e2c93127b21f5dd396b92e81db87544188aaa02f4ea82",
+ "fetched_at": "2026-11-05T15:13:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

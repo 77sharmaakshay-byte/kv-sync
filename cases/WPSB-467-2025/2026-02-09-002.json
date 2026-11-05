@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/467/2025:2026-02-09-002",
+ "title": "ANOOP SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ANOOP SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/467/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-09",
+ "cnr": "UKHC010169242025",
+ "doc_kind": "order",
+ "order_type": "WPSB/467/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3%2BtTTe4ZuzEYP4JF%2Bg1eVX4tcQfgXmv%2FjZqzWYsRSfs&caseno=WPSB/467/2025&cCode=1&cino=UKHC010169242025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "190253fe179470d49093bb0a8440377b182b248f29b1be7727d65287fb8a23cf",
+ "fetched_at": "2026-11-05T14:35:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/840/2025:2025-10-10-001",
+ "title": "GAURAV VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "GAURAV VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/840/2025",
+ "case_type": "WPMB",
+ "decision_date": "2025-10-10",
+ "cnr": "UKHC010155792025",
+ "doc_kind": "order",
+ "order_type": "WPMB/840/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxt0U2i9z29SAobIJvL7enmuM8Ksd8Tafl7Bu%2BUS9h2O&caseno=WPMB/840/2025&cCode=1&cino=UKHC010155792025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a66b0d59127a80420f4a15f93fc8a2b52b3b52e4edd3bb365f496169ef7f6faf",
+ "fetched_at": "2026-11-05T14:37:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

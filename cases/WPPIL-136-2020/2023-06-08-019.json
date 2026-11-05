@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/136/2020:2023-06-08-019",
+ "title": "SANTOSH UPADHYAY versus STATE OF UTTARAKHAND",
+ "petitioner": "SANTOSH UPADHYAY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/136/2020",
+ "case_type": "WPPIL",
+ "decision_date": "2023-06-08",
+ "cnr": "UKHC010070292020",
+ "doc_kind": "order",
+ "order_type": "WPPIL/136/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjM9zC4HvHUTiy%2FhuLhOsvORKXXpUEmxya7y2jDFDOgYc&caseno=WPPIL/136/2020&cCode=1&cino=UKHC010070292020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "66505e0a46fc588195f8bc697a36d70e20570769a8beccf7a8659d85d60c4ad9",
+ "fetched_at": "2026-11-05T14:38:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

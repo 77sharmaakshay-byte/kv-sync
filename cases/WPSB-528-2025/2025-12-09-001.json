@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/528/2025:2025-12-09-001",
+ "title": "SUNITA KUSHWAHA versus STATE OF UTTARAKHAND",
+ "petitioner": "SUNITA KUSHWAHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/528/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-12-09",
+ "cnr": "UKHC010192812025",
+ "doc_kind": "order",
+ "order_type": "WPSB/528/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxD2ycGc6WJ7dm4CN3ItBld3fYDNkEuQPOZN2Kn9hxeQ&caseno=WPSB/528/2025&cCode=1&cino=UKHC010192812025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5dc96d9867ee1cd3adc074e37a9d49dbf232fada9c53f14f48d7b26da5f9403d",
+ "fetched_at": "2026-11-05T14:37:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

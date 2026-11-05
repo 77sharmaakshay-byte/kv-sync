@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2498/2026:2026-10-05-003",
+ "title": "RAMESH RAM versus UNION OF INDIA",
+ "petitioner": "RAMESH RAM",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/2498/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010171222026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2498/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhCbBzYFq7ECOuxAbISwVUABwz5iUU%2BwnAZq7jawUXEl&caseno=WPSS/2498/2026&cCode=1&cino=UKHC010171222026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "419d837211adba6672a51dfb3aa075b5dc8f1afc57f0c89abaefaacabef4d074",
+ "fetched_at": "2026-11-05T14:42:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

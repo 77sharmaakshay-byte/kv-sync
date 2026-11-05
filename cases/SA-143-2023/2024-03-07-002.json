@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/143/2023:2024-03-07-002",
+ "title": "HARISHANKAR versus RAKESH",
+ "petitioner": "HARISHANKAR",
+ "respondent": "RAKESH",
+ "case_no": "SA/143/2023",
+ "case_type": "SA",
+ "decision_date": "2024-03-07",
+ "cnr": "UKHC010180322023",
+ "doc_kind": "order",
+ "order_type": "SA/143/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY5Wp1lVx9Uur5Q3x8mqidWypeDrN5DyYe13HWEBxcoGo&caseno=SA/143/2023&cCode=1&cino=UKHC010180322023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "81cd5abeacd7a4ead694bb5e3d9e572b39887f4fe69557629e9d4ec938434790",
+ "fetched_at": "2026-11-05T15:13:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

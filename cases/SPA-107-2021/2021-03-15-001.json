@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/107/2021:2021-03-15-001",
+ "title": "ASHISH CHAUHAN versus STATE OF UTTARAKHAND THROUGH SECRETARY KARMIK,",
+ "petitioner": "ASHISH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND THROUGH SECRETARY KARMIK,",
+ "case_no": "SPA/107/2021",
+ "case_type": "SPA",
+ "decision_date": "2021-03-15",
+ "cnr": "UKHC010029502021",
+ "doc_kind": "order",
+ "order_type": "SPA/107/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkK7BwYdWbmWmKxvlvXkeOsp8UK%2BGfOeVLTtSlEcIrqki&caseno=SPA/107/2021&cCode=1&cino=UKHC010029502021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a91970bb89085409a4ff95fab77f22af624a5a924aafa870577bcd5e30a48eac",
+ "fetched_at": "2026-11-05T14:34:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

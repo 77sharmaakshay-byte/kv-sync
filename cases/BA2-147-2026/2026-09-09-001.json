@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/147/2026:2026-09-09-001",
+ "title": "ADNAN versus STATE OF UTTARAKHAND",
+ "petitioner": "ADNAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/147/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010158022026",
+ "doc_kind": "order",
+ "order_type": "BA2/147/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQitlD%2FNzschxdMz5VDZGFKJ2VCgNei8lSze6R9fF6IQO&caseno=BA2/147/2026&cCode=1&cino=UKHC010158022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "619b0ec5b9f411c62e357f79fbb611194a597378ecf2d94a6715a913b1bbe2f1",
+ "fetched_at": "2026-11-05T14:41:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

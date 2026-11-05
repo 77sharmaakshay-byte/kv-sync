@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/2029/2026:2026-10-01-001",
+ "title": "SHAHRUKH KHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAHRUKH KHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/2029/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010175232026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/2029/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvkwd05584S4ELgGOyK9XuLYVOSTA81O6liuH1DmczK6&caseno=WPCRL/2029/2026&cCode=1&cino=UKHC010175232026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "493983efdc270ea60b856d6ed36f534cdff54fe6b7be86ae9d0e524de668ca49",
+ "fetched_at": "2026-11-05T14:51:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

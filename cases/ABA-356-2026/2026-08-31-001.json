@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/356/2026:2026-08-31-001",
+ "title": "KALEEM versus STATE OF UTTARAKHAND",
+ "petitioner": "KALEEM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/356/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010152102026",
+ "doc_kind": "order",
+ "order_type": "ABA/356/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjoVxHNENUkxaWf95ewc6uaFIgWkkVrqStk2m%2FnPVIi9&caseno=ABA/356/2026&cCode=1&cino=UKHC010152102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e8579c205cf24803df146fabb60380a6107682a94bea060a771ed0a9f41d8ad2",
+ "fetched_at": "2026-11-05T14:49:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2003/2023:2025-07-21-004",
+ "title": "MANOJ JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "MANOJ JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2003/2023",
+ "case_type": "WPSS",
+ "decision_date": "2025-07-21",
+ "cnr": "UKHC010175912023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2003/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY54wkPvb6cA0jx%2F%2BLxJyyPfQmzwOI05hX0bX3EMaHgjz&caseno=WPSS/2003/2023&cCode=1&cino=UKHC010175912023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fc23ab830baa836f1ff02c42a965fc6c06761c506ee538cf783b1466ec83453a",
+ "fetched_at": "2026-11-05T14:34:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

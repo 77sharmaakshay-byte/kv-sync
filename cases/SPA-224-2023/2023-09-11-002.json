@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/224/2023:2023-09-11-002",
+ "title": "KUSUMLATA UNIYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KUSUMLATA UNIYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/224/2023",
+ "case_type": "SPA",
+ "decision_date": "2023-09-11",
+ "cnr": "UKHC010099622023",
+ "doc_kind": "order",
+ "order_type": "SPA/224/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYwXIQCWGm2i9HN12PluyHKSzFGVV6Nm0s2v2yoyugE%2F7&caseno=SPA/224/2023&cCode=1&cino=UKHC010099622023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1e3c13ac2ea92f023eeb46fce0cef9cd8a980dd5a4a464175d26717354e31b25",
+ "fetched_at": "2026-11-05T14:36:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

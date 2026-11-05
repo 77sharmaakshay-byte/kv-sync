@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/101/2022:2022-09-08-003",
+ "title": "QAMAR JAHAN versus BUADUTTA",
+ "petitioner": "QAMAR JAHAN",
+ "respondent": "BUADUTTA",
+ "case_no": "SA/101/2022",
+ "case_type": "SA",
+ "decision_date": "2022-09-08",
+ "cnr": "UKHC010124862022",
+ "doc_kind": "order",
+ "order_type": "SA/101/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0yueNznSCEjne1JZ06U8ZXrQyIKMyWJx6UiO%2Bnl7ktV7&caseno=SA/101/2022&cCode=1&cino=UKHC010124862022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "612d60f4b3669b499c5b18695940442334c913592dfdda3bf3f4cb87bfc36567",
+ "fetched_at": "2026-11-05T15:14:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

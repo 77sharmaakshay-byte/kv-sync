@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1390/2026:2026-08-11-001",
+ "title": "BOBY versus STATE OF UTTARAKHAND",
+ "petitioner": "BOBY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1390/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010141532026",
+ "doc_kind": "order",
+ "order_type": "BA1/1390/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv4a9bxh%2FwO9dlopsGSTvmLc6%2BzQNNmGKHE5Uo%2F4n4bh&caseno=BA1/1390/2026&cCode=1&cino=UKHC010141532026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "aaa47ceb4ad3456084e18d0c3e48f5ebf14411efc662ef96a9002407158a2dbe",
+ "fetched_at": "2026-11-05T14:59:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

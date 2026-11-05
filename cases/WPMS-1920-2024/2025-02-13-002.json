@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1920/2024:2025-02-13-002",
+ "title": "BHARTI versus STATE OF UTTARAKHAND",
+ "petitioner": "BHARTI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1920/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-02-13",
+ "cnr": "UKHC010108242024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1920/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBuiIUiVyrKiVBSYDyFoqEYbGOLV%2BolVDMaf9Nxq6GDs&caseno=WPMS/1920/2024&cCode=1&cino=UKHC010108242024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5b8633dbe935c33a435757d528baac717d96b4d4c97389b1dc4267cbeb671e54",
+ "fetched_at": "2026-11-05T14:33:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

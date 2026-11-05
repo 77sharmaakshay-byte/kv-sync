@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/1062/2025:2025-12-17-002",
+ "title": "MOHD ASIM versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD ASIM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/1062/2025",
+ "case_type": "WPMB",
+ "decision_date": "2025-12-17",
+ "cnr": "UKHC010197272025",
+ "doc_kind": "order",
+ "order_type": "WPMB/1062/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxr58%2B1xAkS1g2kz77aqkTNvX%2BDLm7ICdQiRvmZoPMyb&caseno=WPMB/1062/2025&cCode=1&cino=UKHC010197272025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2e2051009e542bcea00b990c1f877241e2baed8a0d5759327b7aaaaa90367a9c",
+ "fetched_at": "2026-11-05T14:38:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

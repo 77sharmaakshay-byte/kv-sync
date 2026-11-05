@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C24/58/2026:2026-10-01-002",
+ "title": "RUBY versus FAHEEM SABRI",
+ "petitioner": "RUBY",
+ "respondent": "FAHEEM SABRI",
+ "case_no": "C24/58/2026",
+ "case_type": "C24",
+ "decision_date": "2026-10-01",
+ "cnr": "UKHC010148602026",
+ "doc_kind": "order",
+ "order_type": "C24/58/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhHPD62Mbf%2FCh0POcJYvJ9bP%2F1QQuyU%2BXKV7TusqPujT&caseno=C24/58/2026&cCode=1&cino=UKHC010148602026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8d4b4872cf013c4ad6ec8e8745200736c68874a4c11b6bf676da299232ed5973",
+ "fetched_at": "2026-11-05T15:08:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

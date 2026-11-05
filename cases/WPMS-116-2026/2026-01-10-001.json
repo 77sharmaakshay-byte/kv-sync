@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/116/2026:2026-01-10-001",
+ "title": "MARIYAM INSTITUTE FOR HIGHER STUDIES AND ALLIED COURSES versus THE STATE OF UTTARAKHAND",
+ "petitioner": "MARIYAM INSTITUTE FOR HIGHER STUDIES AND ALLIED COURSES",
+ "respondent": "THE STATE OF UTTARAKHAND",
+ "case_no": "WPMS/116/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-10",
+ "cnr": "UKHC010006352026",
+ "doc_kind": "order",
+ "order_type": "WPMS/116/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrB6REXw9iWm4ozYiRh94dAOz2y3ORMroxI31hlt7%2Fj9&caseno=WPMS/116/2026&cCode=1&cino=UKHC010006352026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2890a07bb04f2850e3691d66754ca2e83a0844d503b384436a8c41ccb3dbf967",
+ "fetched_at": "2026-11-05T15:10:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

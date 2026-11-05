@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2299/2026:2026-08-07-001",
+ "title": "NISAR versus STATE OF UTTARAKHAND",
+ "petitioner": "NISAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2299/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-07",
+ "cnr": "UKHC010133582026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2299/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkuJOZ9rg3mr9XM7nH7G2Yw9%2B8uQJCtu5CnEQoKwFW9M&caseno=WPMS/2299/2026&cCode=1&cino=UKHC010133582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "355cd61d18e85c7b23d4a71488dc4f26d130216a440b9b40e95c444a7d1c1016",
+ "fetched_at": "2026-11-05T14:52:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

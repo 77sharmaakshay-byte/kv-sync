@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2012/2026:2026-07-27-002",
+ "title": "MOHINI DEVI versus POONAM AGARWAL",
+ "petitioner": "MOHINI DEVI",
+ "respondent": "POONAM AGARWAL",
+ "case_no": "WPMS/2012/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-27",
+ "cnr": "UKHC010113972026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2012/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhTkj0nXbefdmONGyP175CEKdcokwcHNCf4SPHAOLAsK&caseno=WPMS/2012/2026&cCode=1&cino=UKHC010113972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c6f0541cb4e4a2b58cf8e41946fd07a254e00728a47510fffe4aa700f366ff5c",
+ "fetched_at": "2026-11-05T14:40:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

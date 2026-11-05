@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/132/2023:2023-08-17-004",
+ "title": "KAMAL SINGH BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "KAMAL SINGH BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/132/2023",
+ "case_type": "SPA",
+ "decision_date": "2023-08-17",
+ "cnr": "UKHC010078132023",
+ "doc_kind": "order",
+ "order_type": "SPA/132/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYx21%2Fy5I4LFnetPr4utTwcn9LWOS62duQLBlUk9HbC8E&caseno=SPA/132/2023&cCode=1&cino=UKHC010078132023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "84849da3ff946c86018e0e40638e2d5d9ea2e3819fcca2bc36dab580f637bd8b",
+ "fetched_at": "2026-11-05T14:35:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

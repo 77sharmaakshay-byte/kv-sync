@@ -6,11 +6,11 @@
  "registration_number": "WPMS /1827/2026",
  "registration_date": "2026-06-11",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-06",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
- "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -44,6 +44,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-06",
+   "business_date": "2026-10-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -122,6 +129,15 @@
    "order_type": "WPMS/1827/2026",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmvsG96VJ101fOhpJoTGPo%2B1XLCRs%2FiEpfgEYuVQustK&caseno=WPMS/1827/2026&cCode=1&cino=UKHC010103812026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPMS/1827/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmvsG96VJ101fOhpJoTGPo8ByrJaTwHTRnSuOJJaNSY2&caseno=WPMS/1827/2026&cCode=1&cino=UKHC010103812026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1431/2026:2026-08-19-001",
+ "title": "MEENA KUMARI versus STATE OF UTTARAKHAND",
+ "petitioner": "MEENA KUMARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1431/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010146812026",
+ "doc_kind": "order",
+ "order_type": "BA1/1431/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgTojF9MV8t3DOaR3qAZ2qqLOpFgSMBefPQAFwuPKCld&caseno=BA1/1431/2026&cCode=1&cino=UKHC010146812026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "34f048f16c9fe3ddfd0bdb4ec6b3efcb665b16432c0f2ba8faefa51073797cd1",
+ "fetched_at": "2026-11-05T15:00:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

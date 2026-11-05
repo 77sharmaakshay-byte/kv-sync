@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/101/2022:2026-05-22-022",
+ "title": "QAMAR JAHAN versus BUADUTTA",
+ "petitioner": "QAMAR JAHAN",
+ "respondent": "BUADUTTA",
+ "case_no": "SA/101/2022",
+ "case_type": "SA",
+ "decision_date": "2026-05-22",
+ "cnr": "UKHC010124862022",
+ "doc_kind": "order",
+ "order_type": "SA/101/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0yueNznSCEjne1JZ06U8ZXpf%2Fs9r2%2Fi4K%2BHTgwnfgLC1&caseno=SA/101/2022&cCode=1&cino=UKHC010124862022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "835128f75596c030b8b755a7b8339759c1003bf552708f4d2e354b8bfa5c7444",
+ "fetched_at": "2026-11-05T15:14:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

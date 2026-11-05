@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1836/2024:2025-11-21-002",
+ "title": "GOLDMAN DISTILLERY versus STATE OF UTTARAKHAND",
+ "petitioner": "GOLDMAN DISTILLERY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1836/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-21",
+ "cnr": "UKHC010102112024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1836/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcEkKfFKQIMK03tjnGVbPWjgu5Jgc5nyfNTvYhvEFp9yw&caseno=WPMS/1836/2024&cCode=1&cino=UKHC010102112024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f4112c446b74f975432131f944ce038c04948fd01e186c229c58d05a2366ffab",
+ "fetched_at": "2026-11-05T14:34:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

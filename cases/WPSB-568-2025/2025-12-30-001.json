@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/568/2025:2025-12-30-001",
+ "title": "DEVENDRA PRATAP versus STATE OF UTTARAKHAND",
+ "petitioner": "DEVENDRA PRATAP",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/568/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-12-30",
+ "cnr": "UKHC010208882025",
+ "doc_kind": "order",
+ "order_type": "WPSB/568/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7B4nZTuUtMmOILmStgOufGY4XrG%2F00eTIxUEuYK34bn&caseno=WPSB/568/2025&cCode=1&cino=UKHC010208882025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "76f4168531040c925d61be1c575f76db947b6113e75c8b6fb6df5b02459d6cb1",
+ "fetched_at": "2026-11-05T14:36:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

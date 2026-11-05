@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/147/2025:2026-05-06-003",
+ "title": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY versus STATE OF UTTARAKHAND",
+ "petitioner": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/147/2025",
+ "case_type": "WPPIL",
+ "decision_date": "2026-05-06",
+ "cnr": "UKHC010119482025",
+ "doc_kind": "order",
+ "order_type": "WPPIL/147/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmytMv3SRvE4L6EJhiUkhhse0%2BkI3Kx3uL5tI6gJUXMx7&caseno=WPPIL/147/2025&cCode=1&cino=UKHC010119482025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2a09d8e42bcee16e2d0733d255da49f2c21919204d7c3e8e53975b06c38018ff",
+ "fetched_at": "2026-11-05T14:39:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

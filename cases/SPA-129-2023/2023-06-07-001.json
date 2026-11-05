@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/129/2023:2023-06-07-001",
+ "title": "KAVITA KARAKOTI versus STATE OF UTTARAKHAND",
+ "petitioner": "KAVITA KARAKOTI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/129/2023",
+ "case_type": "SPA",
+ "decision_date": "2023-06-07",
+ "cnr": "UKHC010076112023",
+ "doc_kind": "order",
+ "order_type": "SPA/129/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY49lSJ%2B1PMKRmHCFY8stwJKVj02kmfXN8147FHK0y%2B%2FM&caseno=SPA/129/2023&cCode=1&cino=UKHC010076112023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "26f68e21749011f55e88c791e951f1f5cc891dcbe13c7cdfd422ff9342eea79a",
+ "fetched_at": "2026-11-05T14:34:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

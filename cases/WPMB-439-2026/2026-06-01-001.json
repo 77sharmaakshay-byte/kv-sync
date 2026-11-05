@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/439/2026:2026-06-01-001",
+ "title": "GYANTI KUMARI versus UNION OF INDIA",
+ "petitioner": "GYANTI KUMARI",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMB/439/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-06-01",
+ "cnr": "UKHC010093602026",
+ "doc_kind": "order",
+ "order_type": "WPMB/439/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlWtkGtV%2BJkFfKS%2F1qdSYQgpJ5ZlsjhSylRSd53nKDzo&caseno=WPMB/439/2026&cCode=1&cino=UKHC010093602026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "911aa07d9c67c18e9241f4be0dd9aa19a49dc362bcf7257934f4fb9cd9a4ae76",
+ "fetched_at": "2026-11-05T14:37:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

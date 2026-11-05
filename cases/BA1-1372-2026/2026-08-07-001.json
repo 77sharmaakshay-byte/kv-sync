@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1372/2026:2026-08-07-001",
+ "title": "RAM SINGH DHAMI versus STATE OF UTTARAKHAND",
+ "petitioner": "RAM SINGH DHAMI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1372/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-07",
+ "cnr": "UKHC010139662026",
+ "doc_kind": "order",
+ "order_type": "BA1/1372/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkLjgZikJ6vKqyEN3hsKQoB9oMFypqhwpjP8t7a6YqDm&caseno=BA1/1372/2026&cCode=1&cino=UKHC010139662026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "34818431c776225be425cc11b27600ac885bd5a4767802e1fe3d338a69ae3e3a",
+ "fetched_at": "2026-11-05T15:02:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

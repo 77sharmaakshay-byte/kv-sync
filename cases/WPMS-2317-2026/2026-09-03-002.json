@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2317/2026:2026-09-03-002",
+ "title": "STATE OF UTTARAKHAND versus RAJESH SAH",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "RAJESH SAH",
+ "case_no": "WPMS/2317/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010134992026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2317/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiRNhdW6EMVIZ12zB8yQbre8acBQTEIS5gArafhhkiCl&caseno=WPMS/2317/2026&cCode=1&cino=UKHC010134992026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a9b449d636c591fc9842872562ad5e4f767cb10fc039aee46bc7187a63de0ce1",
+ "fetched_at": "2026-11-05T14:35:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

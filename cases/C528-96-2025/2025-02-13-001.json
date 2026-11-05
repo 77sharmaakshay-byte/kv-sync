@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/96/2025:2025-02-13-001",
+ "title": "MOHD FIROZ AHMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD FIROZ AHMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/96/2025",
+ "case_type": "C528",
+ "decision_date": "2025-02-13",
+ "cnr": "UKHC010013862025",
+ "doc_kind": "order",
+ "order_type": "C528/96/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm19o124VBoZLHGRX2kj6AZf3TkaQGJEq3NFNaAMcTw%2BN&caseno=C528/96/2025&cCode=1&cino=UKHC010013862025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e5f7b7a544acc1b24ae8196b374512572ddd6aaa2726f95ae9a680fc74ad6697",
+ "fetched_at": "2026-11-05T15:01:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

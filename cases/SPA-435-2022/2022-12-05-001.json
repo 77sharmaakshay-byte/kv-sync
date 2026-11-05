@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/435/2022:2022-12-05-001",
+ "title": "RIZVAN KHAN versus MAAHI JOSHI ALIAS MAHEEN KHAN (MINOR)",
+ "petitioner": "RIZVAN KHAN",
+ "respondent": "MAAHI JOSHI ALIAS MAHEEN KHAN (MINOR)",
+ "case_no": "SPA/435/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-12-05",
+ "cnr": "UKHC010175052022",
+ "doc_kind": "order",
+ "order_type": "SPA/435/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08EImZNm8vsABTBoRwfH3PvBXEcojRXZQJZdxsdFljVy&caseno=SPA/435/2022&cCode=1&cino=UKHC010175052022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d6a59b479ef464df88750674e98515354b316a19550ae895112fcdab4725374e",
+ "fetched_at": "2026-11-05T14:36:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

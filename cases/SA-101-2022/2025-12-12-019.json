@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/101/2022:2025-12-12-019",
+ "title": "QAMAR JAHAN versus BUADUTTA",
+ "petitioner": "QAMAR JAHAN",
+ "respondent": "BUADUTTA",
+ "case_no": "SA/101/2022",
+ "case_type": "SA",
+ "decision_date": "2025-12-12",
+ "cnr": "UKHC010124862022",
+ "doc_kind": "order",
+ "order_type": "SA/101/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0yueNznSCEjne1JZ06U8ZXq1EXJ3idiP1TFSypEqw7G0&caseno=SA/101/2022&cCode=1&cino=UKHC010124862022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ae814a60dddfdf0d68347e9d311c3208c24b76c07d1a5e6cced25e5fd2631c9b",
+ "fetched_at": "2026-11-05T15:14:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

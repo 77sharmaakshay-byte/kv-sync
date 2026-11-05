@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1388/2026:2026-08-11-001",
+ "title": "BIJAY PRASAD versus STATE OF UTTARAKHAND",
+ "petitioner": "BIJAY PRASAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1388/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010141252026",
+ "doc_kind": "order",
+ "order_type": "BA1/1388/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtveT2Et69K2WQZ%2FJE2%2F0SqhhtPW2%2BCah9%2B05KPYN3I8&caseno=BA1/1388/2026&cCode=1&cino=UKHC010141252026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7b36b20030e30840c2fde3b6a0111382827fb07fc4280cb3bc59bdf20ef0a996",
+ "fetched_at": "2026-11-05T15:00:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

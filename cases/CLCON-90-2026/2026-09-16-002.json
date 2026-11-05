@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/90/2026:2026-09-16-002",
+ "title": "INDRA BHUSHAN versus SMT SWATI S BHADAURIA MAGISTRATE",
+ "petitioner": "INDRA BHUSHAN",
+ "respondent": "SMT SWATI S BHADAURIA MAGISTRATE",
+ "case_no": "CLCON/90/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-16",
+ "cnr": "UKHC010041212026",
+ "doc_kind": "order",
+ "order_type": "CLCON/90/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoQMMFCyze7u3ueZgYZLP%2FF5wpEvh86Gksbj%2BJP4t2j%2B&caseno=CLCON/90/2026&cCode=1&cino=UKHC010041212026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1553352e9b5e918c635dddd75d490d82e64544300ae4244e1aedd69156edb790",
+ "fetched_at": "2026-11-05T15:06:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

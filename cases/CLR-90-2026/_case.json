@@ -1,0 +1,124 @@
+{
+ "cnr_number": "UKHC010134462026",
+ "case_type": "CLR",
+ "filing_number": "CLR /6972/2026",
+ "filing_date": "2026-07-29",
+ "registration_number": "CLR /90/2026",
+ "registration_date": "2026-07-29",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-06",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pauri Garhwal",
+ "petitioners": [
+  {
+   "name": "SAROJBALA GAUR",
+   "advocate": "VIPUL SHARMA,KHUSHBOO TIWARI SHARMA,KHUSHBOO TIWARI SHARMA, ,MANEESH BISHT,NIVESH BAHUGUNA,KHUSHBOO TIWARI SHARMA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SANJAY NEGI DECEASED",
+   "advocate": ""
+  },
+  {
+   "name": "SANGEETA NEGI",
+   "advocate": "TEJAS AGARRWAL1."
+  },
+  {
+   "name": "NEHA NEGI",
+   "advocate": "TEJAS AGARRWAL1."
+  },
+  {
+   "name": "YASH NEGI",
+   "advocate": "TEJAS AGARRWAL"
+  },
+  {
+   "name": "RAMKUMAR UNIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "RAJKUMAR UNIYAL(Legal Heir)",
+   "advocate": ""
+  },
+  {
+   "name": "KALAWATI UNIYAL",
+   "advocate": ""
+  },
+  {
+   "name": "DHEERAJ UNIYAL",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Code of Civil Procedure, 1908 (Act No. 5 of 1908)",
+   "sections": "115"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-07-30",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-06",
+   "business_date": "2026-09-25",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-09",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-07-30",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-07-30",
+   "order_type": "CLR/90/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQob0KxrosCa10wpaPbA0r%2Bfh6B2rlGiqGNvwBMRiE9ie&caseno=CLR/90/2026&cCode=1&cino=UKHC010134462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-09",
+   "order_type": "CLR/90/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQob0KxrosCa10wpaPbA0r%2BcJm9%2BIBXLH4Un3qsgDnVif&caseno=CLR/90/2026&cCode=1&cino=UKHC010134462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-25",
+   "order_type": "CLR/90/2026",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQob0KxrosCa10wpaPbA0r%2Be98%2Be1B3Gnrx6NDiKL18TS&caseno=CLR/90/2026&cCode=1&cino=UKHC010134462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

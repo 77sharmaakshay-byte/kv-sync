@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/159/2025:2026-04-21-010",
+ "title": "VANSHIKA PANDEY versus STATE OF UTTARAKHAND",
+ "petitioner": "VANSHIKA PANDEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/159/2025",
+ "case_type": "WPPIL",
+ "decision_date": "2026-04-21",
+ "cnr": "UKHC010111142025",
+ "doc_kind": "order",
+ "order_type": "WPPIL/159/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3PWq5AO%2BwEqvqNJcdSuKU6qXZBzBWN8SLCHiB%2FKCGjt&caseno=WPPIL/159/2025&cCode=1&cino=UKHC010111142025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e0042b0b0b37d16e399c0138d2ba49c7425643e133357aa560eeee7111586452",
+ "fetched_at": "2026-11-05T14:37:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

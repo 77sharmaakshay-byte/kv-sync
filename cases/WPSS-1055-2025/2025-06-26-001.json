@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1055/2025:2025-06-26-001",
+ "title": "ANITA BADOLA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANITA BADOLA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1055/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-06-26",
+ "cnr": "UKHC010092692025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1055/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmzg4eC3bwygNGV1C0WPx5qBCVDGW3lhGoDDOz8UCqz37&caseno=WPSS/1055/2025&cCode=1&cino=UKHC010092692025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "34f2034fd4157fc497b52d8879f4768acbf134cd368c8e63632c50f052bcb3b6",
+ "fetched_at": "2026-11-05T14:41:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

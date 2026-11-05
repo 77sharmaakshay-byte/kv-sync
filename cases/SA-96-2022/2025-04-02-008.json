@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/96/2022:2025-04-02-008",
+ "title": "QAMAR JAHAN versus BUA DUTTA",
+ "petitioner": "QAMAR JAHAN",
+ "respondent": "BUA DUTTA",
+ "case_no": "SA/96/2022",
+ "case_type": "SA",
+ "decision_date": "2025-04-02",
+ "cnr": "UKHC010119062022",
+ "doc_kind": "order",
+ "order_type": "SA/96/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06VIMydxoWzwOxxu1R2z1t4PWiQYfEIjLI9iAJGF3gTh&caseno=SA/96/2022&cCode=1&cino=UKHC010119062022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f56857e2bda1a96f59500be52c1535254664583b7468b0517e4b681758506087",
+ "fetched_at": "2026-11-05T15:11:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/91/2019:2019-10-16-002",
+ "title": "RAMCHANDRA ALIAS RAJU VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMCHANDRA ALIAS RAJU VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/91/2019",
+ "case_type": "WPPIL",
+ "decision_date": "2019-10-16",
+ "cnr": "UKHC010106072019",
+ "doc_kind": "order",
+ "order_type": "WPPIL/91/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Ranganathan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF8YgXStxsHIftyWD7vk%2FQvYwX9dmPCv5%2BOp4YMzKMIo%2B&caseno=WPPIL/91/2019&cCode=1&cino=UKHC010106072019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2dbba450b7eadeee14fc011069c07e3fca6df465d26148ba2b3983f214ba396a",
+ "fetched_at": "2026-11-05T14:38:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

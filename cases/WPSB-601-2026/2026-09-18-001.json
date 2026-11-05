@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/601/2026:2026-09-18-001",
+ "title": "RAM CHARAN PAL versus STATE OF UTTARAKHAND",
+ "petitioner": "RAM CHARAN PAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/601/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010162022026",
+ "doc_kind": "order",
+ "order_type": "WPSB/601/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm7JrcVj59K%2BGYYzU3oZ0gXutogzoj8QsoBBp97lj18e&caseno=WPSB/601/2026&cCode=1&cino=UKHC010162022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fe0a8cc8db909e7da7b6866344b8108aa74a8a90824ed8a7e0d03ff74178134b",
+ "fetched_at": "2026-11-05T14:32:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

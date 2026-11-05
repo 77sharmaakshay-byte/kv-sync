@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/467/2025:2026-02-23-003",
+ "title": "ANOOP SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ANOOP SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/467/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-23",
+ "cnr": "UKHC010169242025",
+ "doc_kind": "order",
+ "order_type": "WPSB/467/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3%2BtTTe4ZuzEYP4JF%2Bg1eVWl4xaLrvIWPwRgQXfS7y11&caseno=WPSB/467/2025&cCode=1&cino=UKHC010169242025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "35c7a8a2cb5c44ee6e2664f06f625a0fc0ce3c563a8001ede7ef60567cf2b4a1",
+ "fetched_at": "2026-11-05T14:35:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

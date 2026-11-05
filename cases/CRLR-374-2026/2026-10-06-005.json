@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/374/2026:2026-10-06-005",
+ "title": "GURUDAYAL SINGH versus POOJA",
+ "petitioner": "GURUDAYAL SINGH",
+ "respondent": "POOJA",
+ "case_no": "CRLR/374/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-10-06",
+ "cnr": "UKHC010082842026",
+ "doc_kind": "order",
+ "order_type": "CRLR/374/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtLWMee3ErTjO5JoP6NiHfGhSsk2M0vGppPPTd%2F6sGRu&caseno=CRLR/374/2026&cCode=1&cino=UKHC010082842026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bc8612701d52327d14a9c0bd0e33f69eeba90011e3e5256836377252d0710d49",
+ "fetched_at": "2026-11-05T15:10:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

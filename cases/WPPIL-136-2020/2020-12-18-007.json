@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/136/2020:2020-12-18-007",
+ "title": "SANTOSH UPADHYAY versus STATE OF UTTARAKHAND",
+ "petitioner": "SANTOSH UPADHYAY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/136/2020",
+ "case_type": "WPPIL",
+ "decision_date": "2020-12-18",
+ "cnr": "UKHC010070292020",
+ "doc_kind": "order",
+ "order_type": "WPPIL/136/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjM9zC4HvHUTiy%2FhuLhOsvORRVstnBz6rLZW6Lj1cfu8i&caseno=WPPIL/136/2020&cCode=1&cino=UKHC010070292020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e81eaeff52c5d24f7b36078d31c7d23965d337e661b9426c81af5cba52c080bb",
+ "fetched_at": "2026-11-05T14:38:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

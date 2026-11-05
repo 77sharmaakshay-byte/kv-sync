@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/544/2026:2026-09-21-001",
+ "title": "DR RAKESH SINHA(Legal Heir) versus VINAY SHANKAR PANDEY",
+ "petitioner": "DR RAKESH SINHA(Legal Heir)",
+ "respondent": "VINAY SHANKAR PANDEY",
+ "case_no": "CLCON/544/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010166012026",
+ "doc_kind": "order",
+ "order_type": "CLCON/544/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoR9y7C353IyA3w3OnvIWcFeEpT0aOOn7YZFVJc4VKqb&caseno=CLCON/544/2026&cCode=1&cino=UKHC010166012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fe76f0bb2fbb7cd7e6f52fe7dc7e0dc47d156940ea886a1f26267251d8e966d9",
+ "fetched_at": "2026-11-05T15:09:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

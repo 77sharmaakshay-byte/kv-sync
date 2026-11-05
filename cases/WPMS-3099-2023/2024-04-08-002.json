@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3099/2023:2024-04-08-002",
+ "title": "ATUL KUMAR CHAUDHARY versus MUSSOORIE DEHRADUN DEVELOPMENT AUTHORITY",
+ "petitioner": "ATUL KUMAR CHAUDHARY",
+ "respondent": "MUSSOORIE DEHRADUN DEVELOPMENT AUTHORITY",
+ "case_no": "WPMS/3099/2023",
+ "case_type": "WPMS",
+ "decision_date": "2024-04-08",
+ "cnr": "UKHC010177732023",
+ "doc_kind": "order",
+ "order_type": "WPMS/3099/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8aKZnWFXV%2Bo9vwDTIkQMFK1vHTUjoq%2F7hgbpLVtvBBv&caseno=WPMS/3099/2023&cCode=1&cino=UKHC010177732023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c582e2139df6d38ea4f48328658e444691fcb86acedb8b885351caf5b43d542b",
+ "fetched_at": "2026-11-05T15:07:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

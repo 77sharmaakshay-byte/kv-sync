@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/159/2025:2025-07-23-001",
+ "title": "VANSHIKA PANDEY versus STATE OF UTTARAKHAND",
+ "petitioner": "VANSHIKA PANDEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/159/2025",
+ "case_type": "WPPIL",
+ "decision_date": "2025-07-23",
+ "cnr": "UKHC010111142025",
+ "doc_kind": "order",
+ "order_type": "WPPIL/159/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3PWq5AO%2BwEqvqNJcdSuKU7CN1Ge3AiBl7nppwWLIUbA&caseno=WPPIL/159/2025&cCode=1&cino=UKHC010111142025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c0c5400d9e295f45ccf5d2710f713ecdd9d6579aec75df2b20eb409018742e9f",
+ "fetched_at": "2026-11-05T14:37:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

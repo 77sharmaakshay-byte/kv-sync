@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/64/2026:2026-06-12-001",
+ "title": "SHIVAM versus PREM CHAND",
+ "petitioner": "SHIVAM",
+ "respondent": "PREM CHAND",
+ "case_no": "CLR/64/2026",
+ "case_type": "CLR",
+ "decision_date": "2026-06-12",
+ "cnr": "UKHC010102192026",
+ "doc_kind": "order",
+ "order_type": "CLR/64/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnoOo6QjijwBHMHW1ns1gzbQRnfdblNyKVvEpAi9xhX9&caseno=CLR/64/2026&cCode=1&cino=UKHC010102192026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b3590290bd743028363c783201bfb54cb5d5025da1023ecd5b03463d0fca7a8f",
+ "fetched_at": "2026-11-05T15:03:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

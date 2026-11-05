@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1836/2024:2026-02-16-004",
+ "title": "GOLDMAN DISTILLERY versus STATE OF UTTARAKHAND",
+ "petitioner": "GOLDMAN DISTILLERY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1836/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010102112024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1836/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcEkKfFKQIMK03tjnGVbPWjiNB7MrVEtrtee2QkqP4zBT&caseno=WPMS/1836/2024&cCode=1&cino=UKHC010102112024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "db69c36491f4b03386486dd01a4a419b48e684048f6376a99d970811dc7af28d",
+ "fetched_at": "2026-11-05T14:34:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

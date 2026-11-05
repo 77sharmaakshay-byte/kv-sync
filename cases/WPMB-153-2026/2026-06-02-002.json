@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/153/2026:2026-06-02-002",
+ "title": "DR GAUTAM VIR versus STATE OF UTTARAKHAND",
+ "petitioner": "DR GAUTAM VIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/153/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-06-02",
+ "cnr": "UKHC010036522026",
+ "doc_kind": "order",
+ "order_type": "WPMB/153/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpAUO67DdtcwtRuMPuYAgyFdji84BxOpyI71n87gDcDN&caseno=WPMB/153/2026&cCode=1&cino=UKHC010036522026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c07d5dc8778a547f65d65654dba5d68d3df33e5abbb52ec091b2fd4b7771713f",
+ "fetched_at": "2026-11-05T14:38:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

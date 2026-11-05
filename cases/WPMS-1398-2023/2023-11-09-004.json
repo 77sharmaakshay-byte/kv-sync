@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1398/2023:2023-11-09-004",
+ "title": "RENU RATURI versus STATE OF UTTARAKHAND",
+ "petitioner": "RENU RATURI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1398/2023",
+ "case_type": "WPMS",
+ "decision_date": "2023-11-09",
+ "cnr": "UKHC010072922023",
+ "doc_kind": "order",
+ "order_type": "WPMS/1398/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY5of1kIdysj1c%2BWv5QvqGF9x4angULN9CHcmxit%2BODgJ&caseno=WPMS/1398/2023&cCode=1&cino=UKHC010072922023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0e8695c45ff1f070d5650556c9b2ddf070643f33eafdb065a31bc8a48adf0a96",
+ "fetched_at": "2026-11-05T15:11:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

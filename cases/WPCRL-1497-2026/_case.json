@@ -6,11 +6,11 @@
  "registration_number": "WPCRL /1497/2026",
  "registration_date": "2026-07-28",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-06",
  "decision_date": null,
- "case_stage": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
- "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -55,6 +55,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-06",
+   "business_date": "2026-10-13",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-13",
    "business_date": "2026-09-29",
    "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
@@ -91,6 +98,15 @@
    "order_type": "WPCRL/1497/2026",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrhijFJQN2gz1aLYj7qtHnIhQzrDVVEbCH3WsJbDRz2k&caseno=WPCRL/1497/2026&cCode=1&cino=UKHC010133842026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPCRL/1497/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrhijFJQN2gz1aLYj7qtHnLqnzL9f7bBg6PTTlyEoj%2B1&caseno=WPCRL/1497/2026&cCode=1&cino=UKHC010133842026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

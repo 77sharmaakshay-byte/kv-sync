@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1566/2026:2026-09-18-001",
+ "title": "SUMIT SINGH DHAMI versus STATE OF UTTARAKHAND",
+ "petitioner": "SUMIT SINGH DHAMI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1566/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010164162026",
+ "doc_kind": "order",
+ "order_type": "BA1/1566/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsrbNBPuz49hXdqSu8nL%2Fo1tiBUwvUez33Kpk8ZOchmm&caseno=BA1/1566/2026&cCode=1&cino=UKHC010164162026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7549a8393a1da1868ce03d3bdd91659fe26f8ccadbec4f53fb3d90b34d35d3f7",
+ "fetched_at": "2026-11-05T14:59:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

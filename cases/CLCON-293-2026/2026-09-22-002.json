@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/293/2026:2026-09-22-002",
+ "title": "SHUBHRA MAHANT versus MUKESH SHARMA",
+ "petitioner": "SHUBHRA MAHANT",
+ "respondent": "MUKESH SHARMA",
+ "case_no": "CLCON/293/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010086272026",
+ "doc_kind": "order",
+ "order_type": "CLCON/293/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrMtqagPkGcfro4q4CdYEjbnuI3BtcdBPrZ4lEK7zDCl&caseno=CLCON/293/2026&cCode=1&cino=UKHC010086272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "36163730c43efef0ffe75ce445f97aaab735c2cdabb588682c4020734cc6d7ff",
+ "fetched_at": "2026-11-05T15:09:24+00:00",
+ "fetched_by": "fetch_live.py"
+}
