@@ -1,11 +1,12 @@
 {
  "date": "05-11-2026",
- "fetched": "04-11-2026",
+ "fetched": "05-11-2026",
  "source": "ehcr",
  "uploads": [
   "DAILY CAUSE LIST (ADVANCE)|03.11.2026 07:08 PM",
   "DAILY CAUSELIST|04.11.2026 06:15 PM",
   "DAILY LIST REGISTRAR JUDICIAL|04.11.2026 06:43 PM",
+  "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1|05.11.2026 11:43 AM",
   "HON'BLE MR. JUSTICE RAKESH THAPLIYAL   SUPPLEMENTARY 1|04.11.2026 06:41 PM"
  ],
  "benches": [
@@ -80,6 +81,15 @@
    "source_pdf": "20261105_1003_1172.pdf",
    "uploaded": "04.11.2026 06:41 PM",
    "chars": 1032
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "Court 04",
+   "type": "HON'BLE MR. JUSTICE PANKAJ PUROHIT   SUPPLEMENTARY 1",
+   "file": "ehcr-20261105_1003_1173-01-court-04.pdf",
+   "source_pdf": "20261105_1003_1173.pdf",
+   "uploaded": "05.11.2026 11:43 AM",
+   "chars": 4721
   }
  ]
 }
