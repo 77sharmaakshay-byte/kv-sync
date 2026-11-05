@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1081/2024:2024-06-26-001",
+ "title": "RAJPAL SINGH NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJPAL SINGH NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1081/2024",
+ "case_type": "WPSS",
+ "decision_date": "2024-06-26",
+ "cnr": "UKHC010096002024",
+ "doc_kind": "order",
+ "order_type": "WPSS/1081/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcNhiFgnmwMW22F1zeXEWzaR0sFaiCkhH9lluikqKaobS&caseno=WPSS/1081/2024&cCode=1&cino=UKHC010096002024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "090d3808ebb6d6cc4621b5329447864961681cd818731090bec94b0f0f9a6f7e",
+ "fetched_at": "2026-11-05T07:52:54+00:00",
+ "fetched_by": "fetch_live.py"
+}
