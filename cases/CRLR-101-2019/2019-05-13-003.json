@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/101/2019:2019-05-13-003",
+ "title": "PRAMOD KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAMOD KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/101/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-05-13",
+ "cnr": "UKHC010032092019",
+ "doc_kind": "order",
+ "order_type": "CRLR/101/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF2Qp5iWaTeDvCROJ1veEqkizDJaLpsODKEREb6Q8cpb5&caseno=CRLR/101/2019&cCode=1&cino=UKHC010032092019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d3267ad91ccac4acfc59f56d131cd3824964d2e0acef74f9500ebf123e30f8f1",
+ "fetched_at": "2026-11-05T14:26:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

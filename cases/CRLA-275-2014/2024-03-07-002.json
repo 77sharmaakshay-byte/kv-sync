@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/275/2014:2024-03-07-002",
+ "title": "BABU versus THE STATE OF UTTARAKHAND   Advocate- ,G.A. 1123",
+ "petitioner": "BABU",
+ "respondent": "THE STATE OF UTTARAKHAND   Advocate- ,G.A. 1123",
+ "case_no": "CRLA/275/2014",
+ "case_type": "CRLA",
+ "decision_date": "2024-03-07",
+ "cnr": "UKHC010018922014",
+ "doc_kind": "order",
+ "order_type": "CRLA/275/2014",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobMhBphGVeeBc%2Bc2eihmRlNhJECVj9vuwAoy7HUVu4mHd&caseno=CRLA/275/2014&cCode=1&cino=UKHC010018922014&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2abeca84f9bdaf1f5bb463ab841251710a395a359e239bfabfacf43f2cf726dd",
+ "fetched_at": "2026-11-05T14:21:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

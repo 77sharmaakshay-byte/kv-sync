@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/181/2019:2019-05-03-001",
+ "title": "MOHIT KUMAR versus SHIVANI KARNWAL",
+ "petitioner": "MOHIT KUMAR",
+ "respondent": "SHIVANI KARNWAL",
+ "case_no": "CRLR/181/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-05-03",
+ "cnr": "UKHC010056112019",
+ "doc_kind": "order",
+ "order_type": "CRLR/181/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF2BlltXe6SOjYP5Rzj3GfyPqNGD8riWND0warZ%2BdNVI8&caseno=CRLR/181/2019&cCode=1&cino=UKHC010056112019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "93880779f84c73a1b50f1394a83c70c379ce4a9d38ff93d92651d19c7f6d8afd",
+ "fetched_at": "2026-11-05T14:25:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

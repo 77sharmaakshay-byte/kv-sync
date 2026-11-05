@@ -1,0 +1,618 @@
+{
+ "cnr_number": "UKHC010204942019",
+ "case_type": "CRLA",
+ "filing_number": "CRLA /10038/2019",
+ "filing_date": "2019-12-17",
+ "registration_number": "CRLA /690/2019",
+ "registration_date": "2019-12-17",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-16",
+ "decision_date": null,
+ "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "NEETU",
+   "advocate": "SANDEEP KOTHARI,ADITYA PANDEY,ADITYA PANDEY, ,PRITISH ARYA,SHASHWAT SIDHANT,MANISHA BHANDARI,ALOK KUMAR,CHETNA LATWAL,ADITYA PANDEY"
+  },
+  {
+   "name": "BABLU",
+   "advocate": "SANDEEP KOTHARI,AKSHAY PRADHAN"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A.,"
+  }
+ ],
+ "acts": [
+  {
+   "act": "OTHER",
+   "sections": "374(2)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2019-12-18",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-14",
+   "business_date": "2026-09-29",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-29",
+   "business_date": "2026-09-22",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-22",
+   "business_date": "2026-08-17",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-17",
+   "business_date": "2026-08-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-05",
+   "business_date": "2026-07-01",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-07-01",
+   "business_date": "2026-05-25",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-05-25",
+   "business_date": "2026-04-27",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-04-27",
+   "business_date": "2026-04-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-06-18",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-06-12",
+   "business_date": "2025-05-02",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-05-02",
+   "business_date": "2025-03-21",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-03-21",
+   "business_date": "2025-01-10",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-01-10",
+   "business_date": "2024-12-20",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-12-20",
+   "business_date": "2024-11-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-11-22",
+   "business_date": "2024-11-08",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-15",
+   "business_date": "2024-10-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-03",
+   "business_date": "2024-10-01",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-09-18",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-18",
+   "business_date": "2024-09-12",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-12",
+   "business_date": "2024-09-10",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-10",
+   "business_date": "2024-09-03",
+   "purpose": "ORDERS ON APPLICATIONS (AFTER FRESH) -23",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-01",
+   "business_date": "2024-08-08",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-08-08",
+   "business_date": "2024-07-16",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-16",
+   "business_date": "2024-05-07",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-24",
+   "business_date": "2023-12-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-12-28",
+   "business_date": "2023-10-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-10-13",
+   "business_date": "2023-08-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-08-28",
+   "business_date": "2023-06-19",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-19",
+   "business_date": "2023-05-18",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-05-18",
+   "business_date": "2023-04-13",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-04-13",
+   "business_date": "2023-03-02",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-03-01",
+   "business_date": "2023-02-15",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-02-15",
+   "business_date": "2023-01-04",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-01-04",
+   "business_date": "2023-01-03",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-01-03",
+   "business_date": "2022-12-20",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-12-20",
+   "business_date": "2022-11-22",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-06-16",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-03-29",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-03-29",
+   "business_date": "2022-03-15",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2022-02-18",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-02-18",
+   "business_date": "2022-02-15",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-01-04",
+   "business_date": "2021-12-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-11-09",
+   "purpose": "FOR FINAL HEARING -100",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-11-09",
+   "business_date": "2021-10-26",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-10-26",
+   "business_date": "2021-10-05",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2021-04-13",
+   "business_date": "2021-03-18",
+   "purpose": "ORDERS ON APPLICATIONS -24",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-06-29",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-06-29",
+   "business_date": "2020-06-25",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-01-08",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-12-18",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2020-01-08",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqrLdlwL9xZVAuihvCM3THVw&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-06-25",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravi Malimath,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqrt3929biHXwJAHYT4p8fMJ&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-06-29",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravi Malimath,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqqDw9pwqRg2PnDKdIEyOlvQ&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-02-15",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqpLMVusf4O93fwV62tY8StO&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-03-15",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqrVl9VqmtJiTanY0Yb1jrDW&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-06-16",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqrsOs93Ho%2FsgE37Y6DWlfR7&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-01-04",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqrRTA5167mVv4Hk3Kv9EvDz&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-03-02",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma,Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqpFSo5gAKgHPNYhpFr%2BBSbG&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-04-13",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma,Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqpuzZ0YBGUIs%2FniD6J7vXdK&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-05-07",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqqSzKN1FLIUeVFS6ryhi85h&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-07-16",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqqnhUdQgRBYZxSuGTOmjeGr&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-03",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqoWVxsC4H%2BJe8wLCy9rq8qe&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-09-18",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqp0Fz4Lv6gP6pmrJEd2H4wf&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-10-03",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqq3HqmRNGGycU5gZmyup3Cr&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-10-01",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqozXoKzzmYq4fnx16w1BSyx&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-11-08",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqo7Mqrw68kHGvK%2FXr9eT0gn&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-01-10",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqrq%2B%2FsVtl%2FMhTJqPgYzPQ4w&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-03-21",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqpnW71xgqVijbC%2FD3EFt%2BUW&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-04-22",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqowjF%2BIS0pgCmb4cVmU8jTq&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-25",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqqiL%2F7jQEPugrW9SWpjLFAO&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-05",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqpkK4sH1tDXHFqlvV5fvLFw&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-17",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqoVmNBkmEMn26zE8AwTwxyv&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-22",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqpYaQL8AbkL%2FM4%2FlHVc3W38&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-29",
+   "order_type": "CRLA/690/2019",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqqFQpbDDfA1bN%2Fwdz9m8eqT&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

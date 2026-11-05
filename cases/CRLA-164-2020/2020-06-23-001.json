@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/164/2020:2020-06-23-001",
+ "title": "NARESH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/164/2020",
+ "case_type": "CRLA",
+ "decision_date": "2020-06-23",
+ "cnr": "UKHC010031502020",
+ "doc_kind": "order",
+ "order_type": "CRLA/164/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravi Malimath,Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjD19RUme%2F6DquYSbsMtk200fRN1P7c7hLKBAMV3m%2BL8v&caseno=CRLA/164/2020&cCode=1&cino=UKHC010031502020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "df9e203433386a6090f440aeda8b13115b635e3f28a25f830621fc22c257db0a",
+ "fetched_at": "2026-11-05T14:21:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

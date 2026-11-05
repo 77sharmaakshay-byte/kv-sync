@@ -1,0 +1,65 @@
+{
+ "cnr_number": "UKHC010150782026",
+ "case_type": "ARBAP",
+ "filing_number": "ARBAP /7811/2026",
+ "filing_date": "2026-08-21",
+ "registration_number": "ARBAP /36/2026",
+ "registration_date": "2026-08-21",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-06",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Pauri Garhwal",
+ "petitioners": [
+  {
+   "name": "LAKSHMI PRASAD UNIYAL",
+   "advocate": "ANURAG BHATT,SAURABH KUMAR,SAURABH KUMAR, ,NIVESH BAHUGUNA,SAURABH KUMAR"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "GB PANT INSTITUTE OF ENGENEERING AND TECHNOLOGY",
+   "advocate": ""
+  },
+  {
+   "name": "DIRECTOR GB PANT INSTITUTE OF ENGENEERING AND TECHNOLOGY",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Section 11(6) of the Arbitration and Conciliation Act",
+   "sections": "11(6)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-24",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-30",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-24",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

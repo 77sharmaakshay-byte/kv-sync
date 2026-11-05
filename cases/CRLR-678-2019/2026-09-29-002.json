@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/678/2019:2026-09-29-002",
+ "title": "MEGHRAJ versus STATE OF UTTARAKHAND",
+ "petitioner": "MEGHRAJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/678/2019",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010188642019",
+ "doc_kind": "order",
+ "order_type": "CRLR/678/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF1UXiEhTy23oEICgIdQgWyUFyWcJ%2FbYOr9CI4rgRk81j&caseno=CRLR/678/2019&cCode=1&cino=UKHC010188642019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "654d8add7ae6ffcf252ee3c78aeb0596ed6a810832558228e5e36ae5d62c6b3b",
+ "fetched_at": "2026-11-05T14:26:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1550/2023:2023-06-05-001",
+ "title": "VIJAY PAL SINGH NEGI versus ANIL CHANDOLA",
+ "petitioner": "VIJAY PAL SINGH NEGI",
+ "respondent": "ANIL CHANDOLA",
+ "case_no": "WPMS/1550/2023",
+ "case_type": "WPMS",
+ "decision_date": "2023-06-05",
+ "cnr": "UKHC010081012023",
+ "doc_kind": "order",
+ "order_type": "WPMS/1550/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9XVi6LgKqPHsAAc6xzJQgPdA%2BJseQrn2ykseRWmMgPe&caseno=WPMS/1550/2023&cCode=1&cino=UKHC010081012023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "05598ebc3527ed64d2a05e7c8384728f87c51cef42522ac34ee7f739c40dde95",
+ "fetched_at": "2026-11-05T14:24:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

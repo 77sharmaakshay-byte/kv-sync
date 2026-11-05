@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/164/2020:2024-09-03-019",
+ "title": "NARESH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/164/2020",
+ "case_type": "CRLA",
+ "decision_date": "2024-09-03",
+ "cnr": "UKHC010031502020",
+ "doc_kind": "order",
+ "order_type": "CRLA/164/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjD19RUme%2F6DquYSbsMtk200L29kKPNJZizGTc0k2Wdho&caseno=CRLA/164/2020&cCode=1&cino=UKHC010031502020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a0d69fb3085aa5ea08e2d7050aa2b78aa9e7b1419dd5a25bfdf937f3ee176d91",
+ "fetched_at": "2026-11-05T14:21:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

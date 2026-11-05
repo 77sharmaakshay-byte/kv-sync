@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3261/2019:2021-10-20-003",
+ "title": "MAHENDRA PAL SINGH versus WAQF KHUDA BAN TALA MAUSIYA WAQF HUSHAN JAHAN BEGUM",
+ "petitioner": "MAHENDRA PAL SINGH",
+ "respondent": "WAQF KHUDA BAN TALA MAUSIYA WAQF HUSHAN JAHAN BEGUM",
+ "case_no": "WPMS/3261/2019",
+ "case_type": "WPMS",
+ "decision_date": "2021-10-20",
+ "cnr": "UKHC010171362019",
+ "doc_kind": "order",
+ "order_type": "WPMS/3261/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFxdKDma8%2BnJNwMVNy8TGNj6X0sKcmB28Tnb%2BUmzjg%2FRM&caseno=WPMS/3261/2019&cCode=1&cino=UKHC010171362019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bcad81e3bf4509373d0f335c3033e67700b4dc5df1f1cf972fb07e854fb948a1",
+ "fetched_at": "2026-11-05T14:22:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

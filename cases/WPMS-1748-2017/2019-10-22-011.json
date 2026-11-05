@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1748/2017:2019-10-22-011",
+ "title": "UTTARAKHAND TRANSPORT CORPORATION versus USMAN ALI",
+ "petitioner": "UTTARAKHAND TRANSPORT CORPORATION",
+ "respondent": "USMAN ALI",
+ "case_no": "WPMS/1748/2017",
+ "case_type": "WPMS",
+ "decision_date": "2019-10-22",
+ "cnr": "UKHC010060722017",
+ "doc_kind": "order",
+ "order_type": "WPMS/1748/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShzvjYX9wxczYZdsxFbLfy4eMdrHSXymnqrVBB50J74UR&caseno=WPMS/1748/2017&cCode=1&cino=UKHC010060722017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d9281cf856600edc7bed7b7443581dd6ec11cb81da52d9e5dcff3972a5c73fb8",
+ "fetched_at": "2026-11-05T14:24:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

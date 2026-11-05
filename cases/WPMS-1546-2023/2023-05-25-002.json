@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1546/2023:2023-05-25-002",
+ "title": "VIJAY PAL SINGH NEGI versus JAYANTI PRASAD BENJWAL",
+ "petitioner": "VIJAY PAL SINGH NEGI",
+ "respondent": "JAYANTI PRASAD BENJWAL",
+ "case_no": "WPMS/1546/2023",
+ "case_type": "WPMS",
+ "decision_date": "2023-05-25",
+ "cnr": "UKHC010081092023",
+ "doc_kind": "order",
+ "order_type": "WPMS/1546/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2F6dILN6Jiui0kK5Bw16W0yYJPNUS91H3pyLK5pt8gNH&caseno=WPMS/1546/2023&cCode=1&cino=UKHC010081092023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6c4044fe9723fba345d0a14b53f5c4e1cab18eea294b829fa5828a444ff7d2f7",
+ "fetched_at": "2026-11-05T14:25:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

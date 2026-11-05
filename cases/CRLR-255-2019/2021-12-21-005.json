@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/255/2019:2021-12-21-005",
+ "title": "UMAKANT SHARMA versus SUSHMA SHARMA",
+ "petitioner": "UMAKANT SHARMA",
+ "respondent": "SUSHMA SHARMA",
+ "case_no": "CRLR/255/2019",
+ "case_type": "CRLR",
+ "decision_date": "2021-12-21",
+ "cnr": "UKHC010071782019",
+ "doc_kind": "order",
+ "order_type": "CRLR/255/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFz1p282QTekz%2BQV2Re4iR%2BCki4ZXr5J8Sk9j77%2BhLRff&caseno=CRLR/255/2019&cCode=1&cino=UKHC010071782019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2de39fb23001a4840009cb74c9706fb7f749abb42ede7b859c200e0629186a4c",
+ "fetched_at": "2026-11-05T14:26:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

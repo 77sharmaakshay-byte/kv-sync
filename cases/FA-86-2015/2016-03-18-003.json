@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/86/2015:2016-03-18-003",
+ "title": "Smt. Soniya Vatsa Bhardwaj versus Nitin Bhardwaj",
+ "petitioner": "Smt. Soniya Vatsa Bhardwaj",
+ "respondent": "Nitin Bhardwaj",
+ "case_no": "FA/86/2015",
+ "case_type": "FA",
+ "decision_date": "2016-03-18",
+ "cnr": "UKHC010025532015",
+ "doc_kind": "order",
+ "order_type": "FA/86/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWScIlaekwvOHDTaskPIl8OwqheJM9foa3ahwpT6oi2I9&caseno=FA/86/2015&cCode=1&cino=UKHC010025532015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a6fec2f445affe62abf49b939b406a64345bfdd08189e69f104e3e6e53edf531",
+ "fetched_at": "2026-11-05T14:26:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

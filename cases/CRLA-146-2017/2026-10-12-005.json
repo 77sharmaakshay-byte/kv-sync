@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/146/2017:2026-10-12-005",
+ "title": "RANJEET RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "RANJEET RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/146/2017",
+ "case_type": "CRLA",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010019352017",
+ "doc_kind": "order",
+ "order_type": "CRLA/146/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh66UTpW0Fz1ANSf%2F0CBhXvJlyAyOAMYAQ9RU4e8KobIr&caseno=CRLA/146/2017&cCode=1&cino=UKHC010019352017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d181fa6b321b5e51236fcaf60ae8f41bf3d9a401124fc277d413dc54b00689b5",
+ "fetched_at": "2026-11-05T14:22:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

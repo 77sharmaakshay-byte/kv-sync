@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/164/2020:2026-07-01-028",
+ "title": "NARESH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/164/2020",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-01",
+ "cnr": "UKHC010031502020",
+ "doc_kind": "order",
+ "order_type": "CRLA/164/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjD19RUme%2F6DquYSbsMtk20195nQAeDH2XXFyQY0J%2FQMG&caseno=CRLA/164/2020&cCode=1&cino=UKHC010031502020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7588311d7b3c69f3232b1daadd189ead9fd18e2f73d4313f72695c9758915342",
+ "fetched_at": "2026-11-05T14:21:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

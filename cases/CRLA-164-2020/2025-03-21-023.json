@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/164/2020:2025-03-21-023",
+ "title": "NARESH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/164/2020",
+ "case_type": "CRLA",
+ "decision_date": "2025-03-21",
+ "cnr": "UKHC010031502020",
+ "doc_kind": "order",
+ "order_type": "CRLA/164/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjD19RUme%2F6DquYSbsMtk202a%2FDpzbL901u6a6umSeu0j&caseno=CRLA/164/2020&cCode=1&cino=UKHC010031502020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b49968bcb5538d2ca7b8b9311a82d7fc72bb756d7b054ca5087bef782403e641",
+ "fetched_at": "2026-11-05T14:21:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

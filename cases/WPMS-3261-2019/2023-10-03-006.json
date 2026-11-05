@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3261/2019:2023-10-03-006",
+ "title": "MAHENDRA PAL SINGH versus WAQF KHUDA BAN TALA MAUSIYA WAQF HUSHAN JAHAN BEGUM",
+ "petitioner": "MAHENDRA PAL SINGH",
+ "respondent": "WAQF KHUDA BAN TALA MAUSIYA WAQF HUSHAN JAHAN BEGUM",
+ "case_no": "WPMS/3261/2019",
+ "case_type": "WPMS",
+ "decision_date": "2023-10-03",
+ "cnr": "UKHC010171362019",
+ "doc_kind": "order",
+ "order_type": "WPMS/3261/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFxdKDma8%2BnJNwMVNy8TGNj5qo8hdd3VGx2l7ecHauKej&caseno=WPMS/3261/2019&cCode=1&cino=UKHC010171362019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "039fbf25644f227049bea7a5b9979f5ccaa6e839e529381d7ba6bd19f50e0542",
+ "fetched_at": "2026-11-05T14:22:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/86/2015:2018-03-07-006",
+ "title": "Smt. Soniya Vatsa Bhardwaj versus Nitin Bhardwaj",
+ "petitioner": "Smt. Soniya Vatsa Bhardwaj",
+ "respondent": "Nitin Bhardwaj",
+ "case_no": "FA/86/2015",
+ "case_type": "FA",
+ "decision_date": "2018-03-07",
+ "cnr": "UKHC010025532015",
+ "doc_kind": "order",
+ "order_type": "FA/86/2015",
+ "judges": [
+  "Hon'ble Mr. Justice V. K. Bist,Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWScIlaekwvOHDTaskPIl8OzjSkMBi9AiRjI63IzRsQEg&caseno=FA/86/2015&cCode=1&cino=UKHC010025532015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5e648c7d90eec1ad75b930555018518c84c62bec05d0c05055f46404f89593f7",
+ "fetched_at": "2026-11-05T14:26:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

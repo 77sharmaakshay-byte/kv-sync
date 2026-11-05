@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/690/2019:2023-01-04-007",
+ "title": "NEETU versus STATE OF UTTARAKHAND",
+ "petitioner": "NEETU",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/690/2019",
+ "case_type": "CRLA",
+ "decision_date": "2023-01-04",
+ "cnr": "UKHC010204942019",
+ "doc_kind": "order",
+ "order_type": "CRLA/690/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4oy%2F9ERN6NBT1jDAvRDgqrRTA5167mVv4Hk3Kv9EvDz&caseno=CRLA/690/2019&cCode=1&cino=UKHC010204942019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3f657d41525b7f43fa2648d306e319cbf1a8a83abb579ccbda02e3b54b98b5d9",
+ "fetched_at": "2026-11-05T14:21:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

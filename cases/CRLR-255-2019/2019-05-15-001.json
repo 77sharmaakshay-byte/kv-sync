@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/255/2019:2019-05-15-001",
+ "title": "UMAKANT SHARMA versus SUSHMA SHARMA",
+ "petitioner": "UMAKANT SHARMA",
+ "respondent": "SUSHMA SHARMA",
+ "case_no": "CRLR/255/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-05-15",
+ "cnr": "UKHC010071782019",
+ "doc_kind": "order",
+ "order_type": "CRLR/255/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFz1p282QTekz%2BQV2Re4iR%2BAXfjOTaIlYpTwVyjcoIMWN&caseno=CRLR/255/2019&cCode=1&cino=UKHC010071782019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f568747faa5a543b89af35663d1461d84d6551383bb48821301dcfda19435659",
+ "fetched_at": "2026-11-05T14:26:29+00:00",
+ "fetched_by": "fetch_live.py"
+}
