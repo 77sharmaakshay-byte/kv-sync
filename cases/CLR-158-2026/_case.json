@@ -6,7 +6,7 @@
  "registration_number": "CLR /158/2026",
  "registration_date": "2026-10-30",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-31",
+ "next_hearing_date": "2026-11-06",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
@@ -49,7 +49,24 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-06",
+   "business_date": "2026-10-31",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-31",
+   "order_type": "CLR/158/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuUStW09rXxVJZtwkoKU5C4gYXv0JLFg301Lxgqn%2BCtX&caseno=CLR/158/2026&cCode=1&cino=UKHC010195462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

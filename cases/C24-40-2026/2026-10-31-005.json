@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C24/40/2026:2026-10-31-005",
+ "title": "RAJKUMAR versus VIJAY KUMAR",
+ "petitioner": "RAJKUMAR",
+ "respondent": "VIJAY KUMAR",
+ "case_no": "C24/40/2026",
+ "case_type": "C24",
+ "decision_date": "2026-10-31",
+ "cnr": "UKHC010119012026",
+ "doc_kind": "order",
+ "order_type": "C24/40/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQigLjrpz3%2Bj1anJYBpnv7OKbIoB8AM61kB7MtV9W16H0&caseno=C24/40/2026&cCode=1&cino=UKHC010119012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "298ef2f307d759bc900b91052749e1208df9e3ed5bddeaceb2426764c74375b0",
+ "fetched_at": "2026-11-06T07:21:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/625/2026:2026-10-30-001",
+ "title": "XXX (CHILD IN CONFLICT WITH LAW) versus STATE OF UTTARAKHAND",
+ "petitioner": "XXX (CHILD IN CONFLICT WITH LAW)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/625/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010191182026",
+ "doc_kind": "order",
+ "order_type": "CRLA/625/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQufGGAvDsBSpUlqQWhy%2Bf1FpIff8y0kNNiN5Fp%2FQlupN&caseno=CRLA/625/2026&cCode=1&cino=UKHC010191182026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c8226f5c6090f6dc1c8c223ec8ee270c9f49ab4af3f0b8081bf3acac4abd5f4d",
+ "fetched_at": "2026-11-06T07:18:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

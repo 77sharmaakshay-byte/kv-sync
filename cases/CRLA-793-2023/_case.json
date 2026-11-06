@@ -6,11 +6,11 @@
  "registration_number": "CRLA /793/2023",
  "registration_date": "2023-11-07",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-31",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
  "status": "",
- "coram": "Registrar (Judicial)",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -44,6 +44,20 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-06",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-31",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Registrar (Judicial)",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {

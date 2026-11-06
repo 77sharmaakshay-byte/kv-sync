@@ -6,11 +6,11 @@
  "registration_number": "C528 /2426/2026",
  "registration_date": "2026-10-29",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-31",
+ "next_hearing_date": "2026-11-06",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -45,7 +45,24 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-31",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-31",
+   "order_type": "C528/2426/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtP3LtrrQnObTyxshntocBDt4NEhRB3uzvWcmwjM%2FBnl&caseno=C528/2426/2026&cCode=1&cino=UKHC010194482026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

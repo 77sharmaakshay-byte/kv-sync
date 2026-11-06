@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3352/2026:2026-10-30-001",
+ "title": "UPENDRA KUMAR SHARMA ALIAS BHAGAT versus ANIRUDH KUMAR",
+ "petitioner": "UPENDRA KUMAR SHARMA ALIAS BHAGAT",
+ "respondent": "ANIRUDH KUMAR",
+ "case_no": "WPMS/3352/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010193682026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3352/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmvSynuZQK6NphI9yGD46Qi0tjP1TuG1KgFzZSaD0fZL&caseno=WPMS/3352/2026&cCode=1&cino=UKHC010193682026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1e53c04215a4b097a9e046a54b19c278d447edf1f92af0785e7c0f8f7a0c4570",
+ "fetched_at": "2026-11-06T07:18:49+00:00",
+ "fetched_by": "fetch_live.py"
+}
