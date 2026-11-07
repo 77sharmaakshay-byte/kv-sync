@@ -56,12 +56,9 @@ jobs:
           UPTO: ${{ inputs.upto }}
         run: |
           mkdir -p d && cd d
-          kaggle datasets download "krishivlaw/$DATA" -f index.json -p . && for z in *.zip; do [ -f "$z" ] && unzip -o -q "$z" && rm "$z"; done
-          n=$(( (UPTO + 19999) / 20000 ))
-          for i in $(seq 1 "$n"); do
-            f=$(printf 'padhai-%05d.jsonl.gz' "$i")
-            kaggle datasets download "krishivlaw/$DATA" -f "$f" -p . && for z in *.zip; do [ -f "$z" ] && unzip -o -q "$z" && rm "$z"; done
-          done
+          kaggle datasets files "krishivlaw/$DATA" | head -20 || true
+          kaggle datasets download "krishivlaw/$DATA" -p . --unzip   # alag file ka download 404 deta hai; poora (~kuch sau MB)
+          find . -name 'padhai-*.jsonl.gz' | sort | head; du -sh .
           ls -la
       - name: Khoj
         env:
@@ -74,7 +71,7 @@ jobs:
           upto = int(os.environ["UPTO"])
           must = re.compile(os.environ["MUST"], re.I); anyp = re.compile(os.environ["ANY"], re.I)
           hits = collections.OrderedDict(); n = 0
-          for f in sorted(glob.glob("d/padhai-*.jsonl.gz")):
+          for f in sorted(glob.glob("d/**/padhai-*.jsonl.gz", recursive=True), key=lambda x: x.rsplit("/", 1)[-1]):
               for line in gzip.open(f, "rt", encoding="utf-8"):
                   if n >= upto:
                       break
