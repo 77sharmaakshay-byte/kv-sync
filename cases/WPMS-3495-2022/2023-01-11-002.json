@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3495/2022:2023-01-11-002",
+ "title": "EDELWEISS ASSET RECONSTRUCTION COMPANY versus THE PRESIDING OFFICER CONSUMER DISPUTES REDRESSAL FORUM HARIDWAR",
+ "petitioner": "EDELWEISS ASSET RECONSTRUCTION COMPANY",
+ "respondent": "THE PRESIDING OFFICER CONSUMER DISPUTES REDRESSAL FORUM HARIDWAR",
+ "case_no": "WPMS/3495/2022",
+ "case_type": "WPMS",
+ "decision_date": "2023-01-11",
+ "cnr": "UKHC010194232022",
+ "doc_kind": "order",
+ "order_type": "WPMS/3495/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT04DTKWXyDIb%2F7jGnn2O79WDik4Zv48zu156bNaxU1W8a&caseno=WPMS/3495/2022&cCode=1&cino=UKHC010194232022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9bb867f3a20ae34a17f06ae8b6d0147d70c2ef0bbb0b88fbe682cdec4f29811a",
+ "fetched_at": "2026-11-07T07:58:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

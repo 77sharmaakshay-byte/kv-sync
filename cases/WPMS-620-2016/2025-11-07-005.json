@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/620/2016:2025-11-07-005",
+ "title": "M/s Uttam Sugar Mills Ltd. versus Aditya Kumar AND ANOTHER   Advocate- M.C.PANT 1123",
+ "petitioner": "M/s Uttam Sugar Mills Ltd.",
+ "respondent": "Aditya Kumar AND ANOTHER   Advocate- M.C.PANT 1123",
+ "case_no": "WPMS/620/2016",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-07",
+ "cnr": "UKHC010021432016",
+ "doc_kind": "order",
+ "order_type": "WPMS/620/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBbQBsgH3Ud4ffwP2AyVql1fMGXda1Txm1Yv2RLu0igoz&caseno=WPMS/620/2016&cCode=1&cino=UKHC010021432016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "242233e0f865cc42827b1010b64133067573dbc6e804f2ce8d57759afa3df823",
+ "fetched_at": "2026-11-07T08:29:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

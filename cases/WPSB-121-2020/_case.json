@@ -6,9 +6,9 @@
  "registration_number": "WPSB /121/2020",
  "registration_date": "2020-06-17",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-17",
  "decision_date": null,
- "case_stage": "FOR FINAL HEARING -40",
+ "case_stage": "FOR FINAL HEARING (AFTER FRESH) -45",
  "status": "",
  "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
  "bench_type": "Division Bench",
@@ -63,6 +63,13 @@
    "hearing_date": "2020-06-18",
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-17",
+   "business_date": "2026-10-26",
+   "purpose": "FOR FINAL HEARING -40",
    "judge": "",
    "cause_list_type": "DAILY CAUSE LIST"
   },
@@ -519,6 +526,15 @@
    "order_type": "WPSB/121/2020",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvHUh0MqTSbzg4Gnev%2Fh2Zbq&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-26",
+   "order_type": "WPSB/121/2020",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjNMxamr8rjajHttNrGuaDvH3xgVzS1vexWgdduEP6ODc&caseno=WPSB/121/2020&cCode=1&cino=UKHC010052602020&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

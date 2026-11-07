@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/88/2017:2017-05-08-002",
+ "title": "Ayyub Mistri versus Smt. Anwari",
+ "petitioner": "Ayyub Mistri",
+ "respondent": "Smt. Anwari",
+ "case_no": "CRLR/88/2017",
+ "case_type": "CRLR",
+ "decision_date": "2017-05-08",
+ "cnr": "UKHC010061852017",
+ "doc_kind": "order",
+ "order_type": "CRLR/88/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh3QW5lgNgEPojirOgQpLhpHkVNlR4R9sp3wUIkczotgB&caseno=CRLR/88/2017&cCode=1&cino=UKHC010061852017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ad3e01d8262db399544460818f565e8a4d13785166db57cfe498e43e62b9ee6d",
+ "fetched_at": "2026-11-07T08:28:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

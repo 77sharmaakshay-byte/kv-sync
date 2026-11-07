@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1709/2025:2025-10-17-001",
+ "title": "HAYAT SINGH versus UNION OF INDIA",
+ "petitioner": "HAYAT SINGH",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1709/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-10-17",
+ "cnr": "UKHC010164662025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1709/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9KkF3wTjP%2FgzaM2NL5gDBqts%2FH%2FJ2O7q%2FOwfFtYQusE&caseno=WPSS/1709/2025&cCode=1&cino=UKHC010164662025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cc58dc7d713e13834d38549d4e1b841e974cd6589fb44b16fc020d29c6afc164",
+ "fetched_at": "2026-11-07T07:48:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

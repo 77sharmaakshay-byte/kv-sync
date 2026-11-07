@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/97/2012:2023-11-24-005",
+ "title": "LALIT VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "LALIT VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/97/2012",
+ "case_type": "CRLR",
+ "decision_date": "2023-11-24",
+ "cnr": "UKHC010004792012",
+ "doc_kind": "order",
+ "order_type": "CRLR/97/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrBtU5La3tG9ZbBmbjtze8u9a1Yzy6IgiiwV8s6Zd44fc&caseno=CRLR/97/2012&cCode=1&cino=UKHC010004792012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0f363dce1a10a6ca2df7892b8435d61f44559597e619964a5d32e3119d39ea88",
+ "fetched_at": "2026-11-07T08:12:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

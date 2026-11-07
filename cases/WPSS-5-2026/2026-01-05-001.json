@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/5/2026:2026-01-05-001",
+ "title": "SHAMIM AHMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAMIM AHMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/5/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-01-05",
+ "cnr": "UKHC010000112026",
+ "doc_kind": "order",
+ "order_type": "WPSS/5/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjA%2Fd9c0q7lEcvD9JJkw4mEQOCgL%2FiM8gZJvEn8tnQYV&caseno=WPSS/5/2026&cCode=1&cino=UKHC010000112026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "99cd89a2536f8e6f366eb1242802b0882a5816afcf0b4e6393f3470f1d9aee4d",
+ "fetched_at": "2026-11-07T07:49:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

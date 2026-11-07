@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/100/2026:2026-01-10-001",
+ "title": "BHARTI BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "BHARTI BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/100/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-01-10",
+ "cnr": "UKHC010006812026",
+ "doc_kind": "order",
+ "order_type": "WPSS/100/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn8%2BWGrsnw2am3iQlI7BZfYnmcZ4pXstC2LzHCKcqRzd&caseno=WPSS/100/2026&cCode=1&cino=UKHC010006812026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc7c8a08151b42b2a551db3a1f9f85761ccaf2c2f10d66e85a1bf84584e65d65",
+ "fetched_at": "2026-11-07T07:51:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

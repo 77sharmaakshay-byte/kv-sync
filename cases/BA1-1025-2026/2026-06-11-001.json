@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1025/2026:2026-06-11-001",
+ "title": "YOGESH RAMESH NAYAK versus STATE OF UTTARAKHAND",
+ "petitioner": "YOGESH RAMESH NAYAK",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1025/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-11",
+ "cnr": "UKHC010100402026",
+ "doc_kind": "order",
+ "order_type": "BA1/1025/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnz25Wc3eUvN1kAUS3W5dNcOIKsz7jpyPccj9nohxXV9&caseno=BA1/1025/2026&cCode=1&cino=UKHC010100402026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b2141b9536971252c66609258f7cb4a83b6d57fd253d42f4195dbe9ba93f7b07",
+ "fetched_at": "2026-11-07T08:06:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

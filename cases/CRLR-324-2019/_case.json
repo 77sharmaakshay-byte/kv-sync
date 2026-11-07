@@ -1,0 +1,91 @@
+{
+ "cnr_number": "UKHC010088722019",
+ "case_type": "CRLR",
+ "filing_number": "CRLR /3970/2019",
+ "filing_date": "2019-06-15",
+ "registration_number": "CRLR /324/2019",
+ "registration_date": "2019-06-15",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-17",
+ "decision_date": null,
+ "case_stage": "ORDER MATTERS -17",
+ "status": "",
+ "coram": "Registrar",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "ASHISH RAJENDRA PRASAD",
+   "advocate": "RAJ KUMAR SINGH,RADHA ARYA,RADHA ARYA, ,RADHA ARYA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  },
+  {
+   "name": "KHUSHBU SHARMA",
+   "advocate": "D BARTHWAL"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Code of Criminal Procedure, 1973 (Act No. 2 of 1974)",
+   "sections": "125(1)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2019-06-17",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-23",
+   "purpose": "FOR REFERRAL TO THE SPECIAL MEDIATION DRIVE-MEDIATION FOR NATION -256",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-06-18",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-06-17",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2019-06-18",
+   "order_type": "CRLR/324/2019",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2FxF3EjgAEfFKdQhUVrBlvIGVlbN27akiBATr0oaJ84E&caseno=CRLR/324/2019&cCode=1&cino=UKHC010088722019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-23",
+   "order_type": "CRLR/324/2019",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2FxF3EjgAEfFKdQhUVrBlvKZRgkJBtR0BxiTNhNtxPBZ&caseno=CRLR/324/2019&cCode=1&cino=UKHC010088722019&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

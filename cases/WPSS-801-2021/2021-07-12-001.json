@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/801/2021:2021-07-12-001",
+ "title": "ANIL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/801/2021",
+ "case_type": "WPSS",
+ "decision_date": "2021-07-12",
+ "cnr": "UKHC010078042021",
+ "doc_kind": "order",
+ "order_type": "WPSS/801/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkMIJ%2BW77spBxEoapR9Yn7CEWQJgVln305ma%2FyEFSQ2G0&caseno=WPSS/801/2021&cCode=1&cino=UKHC010078042021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4b7eb3ca5f0aab44ec4f12e0b2c11f80170ac359e0bcb1e16441d33f89c62569",
+ "fetched_at": "2026-11-07T07:50:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

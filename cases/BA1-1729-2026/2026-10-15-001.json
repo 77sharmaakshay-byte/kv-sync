@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1729/2026:2026-10-15-001",
+ "title": "ASKENDER versus STATE OF UTTARAKHAND",
+ "petitioner": "ASKENDER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1729/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010184092026",
+ "doc_kind": "order",
+ "order_type": "BA1/1729/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrqPoQ1bHizlzE%2BTc1QyMWlpBnSNZpl%2Fm05PzhF4ZMcn&caseno=BA1/1729/2026&cCode=1&cino=UKHC010184092026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "96acd81fa66118829184939428f12737165f02622c17e19bbafb5179ab2472d0",
+ "fetched_at": "2026-11-07T08:06:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

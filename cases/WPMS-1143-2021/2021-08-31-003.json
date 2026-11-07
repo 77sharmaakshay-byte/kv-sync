@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1143/2021:2021-08-31-003",
+ "title": "DR FAUZIA SHAUKAT versus STATE OF UTTARAKHAND",
+ "petitioner": "DR FAUZIA SHAUKAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1143/2021",
+ "case_type": "WPMS",
+ "decision_date": "2021-08-31",
+ "cnr": "UKHC010067292021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1143/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkBYG72KZkNOCbds5NSdxAB6ziJauC7zdchW77Wou9CcE&caseno=WPMS/1143/2021&cCode=1&cino=UKHC010067292021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "beaa6d0c64c7e2e0159708fe0109224111461fb179dd8e008dd505d4626da451",
+ "fetched_at": "2026-11-07T08:00:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/97/2012:2026-10-12-010",
+ "title": "LALIT VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "LALIT VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/97/2012",
+ "case_type": "CRLR",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010004792012",
+ "doc_kind": "order",
+ "order_type": "CRLR/97/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrBtU5La3tG9ZbBmbjtze8u%2FMfXbWBEkoUSTt1Gk80HsN&caseno=CRLR/97/2012&cCode=1&cino=UKHC010004792012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6fc30c455a86111c180658e61f232706967958a703b6c05d64edd64b663a767b",
+ "fetched_at": "2026-11-07T08:12:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

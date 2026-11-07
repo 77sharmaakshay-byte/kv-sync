@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/416/2026:2026-06-02-001",
+ "title": "CHANDRAPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDRAPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/416/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-06-02",
+ "cnr": "UKHC010094222026",
+ "doc_kind": "order",
+ "order_type": "CRLR/416/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhnHle44LRKN0qw4hprCJHfrO0RC95p2YIOg5p2E%2B%2B9l&caseno=CRLR/416/2026&cCode=1&cino=UKHC010094222026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "71ebea43e269c5ca4eb5982fd9b8a24e94cb339a7ad54bf34f111b33126ffb5d",
+ "fetched_at": "2026-11-07T08:09:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

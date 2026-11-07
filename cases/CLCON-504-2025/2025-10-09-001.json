@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/504/2025:2025-10-09-001",
+ "title": "RAJENDRA SINGH versus GAJENDRA SINGH SAUN",
+ "petitioner": "RAJENDRA SINGH",
+ "respondent": "GAJENDRA SINGH SAUN",
+ "case_no": "CLCON/504/2025",
+ "case_type": "CLCON",
+ "decision_date": "2025-10-09",
+ "cnr": "UKHC010154482025",
+ "doc_kind": "order",
+ "order_type": "CLCON/504/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2Brz6JCkrboFdwOHVeSTrYoLrhFRIRYdXS0PXnNoKVDm&caseno=CLCON/504/2025&cCode=1&cino=UKHC010154482025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "345b279439e3654b0701da98d21c68e644bbd05247d7acfc18ef90c783c532da",
+ "fetched_at": "2026-11-07T07:58:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

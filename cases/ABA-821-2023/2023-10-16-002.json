@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/821/2023:2023-10-16-002",
+ "title": "ANIL PANT versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL PANT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/821/2023",
+ "case_type": "ABA",
+ "decision_date": "2023-10-16",
+ "cnr": "UKHC010149362023",
+ "doc_kind": "order",
+ "order_type": "ABA/821/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9CTi%2FaAsXDf4noXFVfXPr4Bgy7u0sJRfCklFWzFbbeF&caseno=ABA/821/2023&cCode=1&cino=UKHC010149362023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fbb53fe505e94cec9c383323dc89fcb7d7ff9dfb416466e89ade608b6d553a2e",
+ "fetched_at": "2026-11-07T07:55:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

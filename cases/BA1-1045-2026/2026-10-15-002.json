@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1045/2026:2026-10-15-002",
+ "title": "RAJNANDAN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJNANDAN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1045/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010103022026",
+ "doc_kind": "order",
+ "order_type": "BA1/1045/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkSAUsrLlrUlXQYqGrqG%2Fxgw5VyijM87uPD6PQk3XtHG&caseno=BA1/1045/2026&cCode=1&cino=UKHC010103022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1262a4a3bcc2e94c220e5afb949c6b153e8ec68edb388e0c0ec6e6b2bcbb4d5d",
+ "fetched_at": "2026-11-07T08:06:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

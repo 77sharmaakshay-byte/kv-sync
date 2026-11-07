@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1143/2021:2023-02-24-007",
+ "title": "DR FAUZIA SHAUKAT versus STATE OF UTTARAKHAND",
+ "petitioner": "DR FAUZIA SHAUKAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1143/2021",
+ "case_type": "WPMS",
+ "decision_date": "2023-02-24",
+ "cnr": "UKHC010067292021",
+ "doc_kind": "order",
+ "order_type": "WPMS/1143/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkBYG72KZkNOCbds5NSdxAB5Y9nnttnZKr7ScZPj4hGZe&caseno=WPMS/1143/2021&cCode=1&cino=UKHC010067292021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ad4839a33f4f9568e3f42e74086060ac9b14bf1973243c6b2288cb273860fd26",
+ "fetched_at": "2026-11-07T08:00:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

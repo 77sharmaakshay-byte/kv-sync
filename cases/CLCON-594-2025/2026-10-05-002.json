@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/594/2025:2026-10-05-002",
+ "title": "HIKMAT SINGH versus PANKAJ KUMAR PANDEY",
+ "petitioner": "HIKMAT SINGH",
+ "respondent": "PANKAJ KUMAR PANDEY",
+ "case_no": "CLCON/594/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010180482025",
+ "doc_kind": "order",
+ "order_type": "CLCON/594/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxEM2RW7de6I26W7tPTScr39jmlLTV9dCSMZrlMQ0x4U&caseno=CLCON/594/2025&cCode=1&cino=UKHC010180482025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "191ec3664c0da6e2ab27f869af50e49d7af5fe9962367cca295a8672652ba230",
+ "fetched_at": "2026-11-07T07:59:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA3/46/2026:2026-10-15-001",
+ "title": "MURAD ANSARI versus STATE OF UTTARAKHAND",
+ "petitioner": "MURAD ANSARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA3/46/2026",
+ "case_type": "BA3",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010184512026",
+ "doc_kind": "order",
+ "order_type": "BA3/46/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv70FwgMPW9gEGuUF7IUGJ27g8%2BhYYnInHEV%2BpmHgfd7&caseno=BA3/46/2026&cCode=1&cino=UKHC010184512026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a9a0b9f40852f2ca94a338223d64bfdd284709b66ad67a498af2bedc0928b85b",
+ "fetched_at": "2026-11-07T07:49:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1847/2026:2026-09-15-001",
+ "title": "PRINCE AND ORS versus STATE OF UTTARAKHAND",
+ "petitioner": "PRINCE AND ORS",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1847/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010159972026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1847/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn55dBAZSkJSjVL1yx6cna23RzcOuKGINxSymLFcVT6V&caseno=WPCRL/1847/2026&cCode=1&cino=UKHC010159972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "46960e887f9562e68049c4f3203898acc22482ed80785146b4c2ee370bbb60eb",
+ "fetched_at": "2026-11-07T08:00:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

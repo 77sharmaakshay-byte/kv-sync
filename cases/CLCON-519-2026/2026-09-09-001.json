@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/519/2026:2026-09-09-001",
+ "title": "MUNNI DEVI versus MR PRAKASH CHANDRA DUMKA SACHIV BHAVAN EVAM SANNIRMAN KARMAKAR BOARD",
+ "petitioner": "MUNNI DEVI",
+ "respondent": "MR PRAKASH CHANDRA DUMKA SACHIV BHAVAN EVAM SANNIRMAN KARMAKAR BOARD",
+ "case_no": "CLCON/519/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010157832026",
+ "doc_kind": "order",
+ "order_type": "CLCON/519/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuzByCcW1T%2BoMuKqOej73awjYEkCBCAr8hugdN233chN&caseno=CLCON/519/2026&cCode=1&cino=UKHC010157832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cfc4b11b70863c6524857c85858db3de4defe0900605481a6296331bf5762f9b",
+ "fetched_at": "2026-11-07T07:59:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2325/2024:2026-09-08-002",
+ "title": "PRADEEP KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PRADEEP KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2325/2024",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010194142024",
+ "doc_kind": "order",
+ "order_type": "WPSS/2325/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcPSBExaQ4clpCpKY61H9lvRdkvapexrmSdV7SgmOTq8W&caseno=WPSS/2325/2024&cCode=1&cino=UKHC010194142024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3c686721877ba48185bd492cf92a61e1bd02608a1cde963c5a94314696beed18",
+ "fetched_at": "2026-11-07T07:50:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

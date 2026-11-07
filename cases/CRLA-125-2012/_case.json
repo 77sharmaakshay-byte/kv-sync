@@ -1,0 +1,613 @@
+{
+ "cnr_number": "UKHC010017682012",
+ "case_type": "CRLA",
+ "filing_number": "CRLA /1004477/2012",
+ "filing_date": "2012-04-27",
+ "registration_number": "CRLA /125/2012",
+ "registration_date": "2012-04-27",
+ "first_hearing_date": "2013-07-01",
+ "next_hearing_date": "2026-11-16",
+ "decision_date": null,
+ "case_stage": "FOR FINAL HEARING -40",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "GHANSHYAM MEENA AND OTHERS",
+   "advocate": "V K KAPARUWAN,VIKRAM SINGH DHAPOLA,VIKRAM SINGH DHAPOLA, ,HARSHPAL SEKHON,HARSHPAL SEKHON,SANDEEP KOTHARI,RAMJI SHRIVASTAVA,VIKRAM SINGH DHAPOLA"
+  },
+  {
+   "name": "VIRENDRA BAHADUR SINGH",
+   "advocate": "V K KAPARUWAN,SANDEEP KOTHARI"
+  },
+  {
+   "name": "ADESH MISHRA",
+   "advocate": "V K KAPARUWAN,SANDEEP KOTHARI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "C.B.I.",
+   "advocate": "ARVIND VASHISHTA,"
+  }
+ ],
+ "acts": [
+  {
+   "act": "OTHER",
+   "sections": "120BIPC,7,13,1,D R/W13(2)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-03-12",
+   "business_date": "2026-02-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-02-16",
+   "business_date": "2026-02-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-02-10",
+   "business_date": "2025-12-16",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-12-16",
+   "business_date": "2025-11-26",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-08-07",
+   "business_date": "2025-07-11",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-07-11",
+   "business_date": "2025-06-04",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-12-12",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-10-08",
+   "business_date": "2024-07-15",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-15",
+   "business_date": "2024-06-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-06-05",
+   "business_date": "2024-04-19",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-19",
+   "business_date": "2023-12-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-12-05",
+   "business_date": "2023-09-01",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-09-01",
+   "business_date": "2023-05-12",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-05-12",
+   "business_date": "2023-03-23",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-03-23",
+   "business_date": "2023-01-12",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-03-15",
+   "business_date": null,
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-01-12",
+   "business_date": "2022-11-28",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-11-19",
+   "business_date": "2022-09-24",
+   "purpose": "OLD MATTERS -253",
+   "judge": "Hon'ble Mr. Justice Sharad Kumar Sharma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2021-03-23",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2020-09-10",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-09-10",
+   "business_date": "2020-08-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-08-06",
+   "business_date": "2020-07-21",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-03-26",
+   "business_date": "2020-03-12",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-03-12",
+   "business_date": "2020-03-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-03-05",
+   "business_date": "2020-02-27",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-02-27",
+   "business_date": "2020-01-08",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2020-01-08",
+   "business_date": "2019-12-11",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-12-11",
+   "business_date": "2019-11-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-08-06",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-08-06",
+   "business_date": "2019-07-02",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-07-02",
+   "business_date": "2019-04-24",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Singh",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-02-25",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2019-01-09",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2019-01-09",
+   "business_date": "2018-12-19",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2018-10-26",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-10-11",
+   "business_date": "2018-07-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-07-18",
+   "business_date": "2018-07-03",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-07-03",
+   "business_date": "2018-06-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-06-13",
+   "business_date": "2018-04-26",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-04-26",
+   "business_date": "2017-07-12",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-07-12",
+   "business_date": "2017-07-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-07-05",
+   "business_date": "2017-05-08",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-05-08",
+   "business_date": "2017-03-15",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2017-03-15",
+   "business_date": "2016-12-14",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-12-14",
+   "business_date": "2016-01-04",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2016-01-04",
+   "business_date": "2015-12-03",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2015-12-03",
+   "business_date": "2015-10-05",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2015-10-05",
+   "business_date": "2015-06-29",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2015-06-29",
+   "business_date": "2014-11-12",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2014-11-12",
+   "business_date": "2013-07-01",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2013-07-01",
+   "business_date": "2012-04-27",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2012-04-27",
+   "order_type": "CRLA/125/2012",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0RjZm9cgRTg7kHHHW0qR6Hz&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2013-07-01",
+   "order_type": "CRLA/125/2012",
+   "judge": "Daily Lok Adalat",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0SW1wb5mvSHyBdDVVc7qVak&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-07-05",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Rajiv Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0QDVQq3sB32DvXsW%2Fv0%2BTnl&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2017-07-12",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0TRfMjoXMS7amqqFkyHcn8t&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-04-26",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Sudhanshu Dhulia",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0T5T%2Fp7%2FbjmVrL65l0Zm1yZ&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-06-13",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Lok Pal Singh",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0QFdxizIKK4Q4KUc%2FxIQ0%2Ft&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2018-12-19",
+   "order_type": "CRLA/125/2012",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0QECyx%2BT8fCJRU25IDY5giD&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-01-09",
+   "order_type": "CRLA/125/2012",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0Qf7iYRVdj2HPUbL0cLbJg8&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-02-25",
+   "order_type": "CRLA/125/2012",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0R0KPEW6HosnVhGcIBGlIMD&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-04-24",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Alok Singh",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0T5jumXr5iyk7%2FbfhQ8ATP9&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-07-02",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0QFKyguuePgsOotYNjc%2BALK&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-11-06",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0Tx8E4or5S5EZgaU0o2CfE%2B&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2019-12-11",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0TtCdKDsIZclX2CPIvGDMUg&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-01-08",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Ramesh Chandra Khulbe",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0TFBLMO6utm8g%2FDbPqlim9x&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-03-12",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0ROZXFTPy%2B5YgAg%2FLFAQWBe&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-07-21",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0QkZhSgOpbC1Et31lte2IUl&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2020-09-10",
+   "order_type": "CRLA/125/2012",
+   "judge": "Sri Narayan Singh Dhanik, J.",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0Qqxic79ff7UaW77%2BBiVpqZ&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-09-01",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0TmDRWq0JDfRdBIZ8w%2BLQDN&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-12-08",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0QEFwS5v6tAI7KQUpV8%2BciB&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-06-04",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0R1SdULX62sXq8iOwdBwOtj&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2025-12-16",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0Ta%2BSYFTho3fIHsWySFyEfP&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-02-10",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0Q7qMksEUZAFNM%2BDhU68abw&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-02-16",
+   "order_type": "CRLA/125/2012",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrEGiD9jj%2F5xwlS6Y4AEtY0QjC9uz350QWsE0THOl3Vxf&caseno=CRLA/125/2012&cCode=1&cino=UKHC010017682012&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

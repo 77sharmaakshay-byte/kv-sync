@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1331/2026:2026-10-15-001",
+ "title": "ABDUL KADIR versus STATE OF UTTARAKHAND",
+ "petitioner": "ABDUL KADIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1331/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010134182026",
+ "doc_kind": "order",
+ "order_type": "BA1/1331/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr6y4FHeVqcuB1bHSvib0cOIpopwKiNyQPNEqTg1%2BUJl&caseno=BA1/1331/2026&cCode=1&cino=UKHC010134182026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3ee43f865a29c0b94bf37f439f607cd30279f26d760129af86d7058294ce3ba5",
+ "fetched_at": "2026-11-07T08:06:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

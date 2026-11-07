@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/524/2026:2026-09-11-001",
+ "title": "HARISH MITTAL versus CHANDRA SHEKHAR SHIMAL",
+ "petitioner": "HARISH MITTAL",
+ "respondent": "CHANDRA SHEKHAR SHIMAL",
+ "case_no": "CLCON/524/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-11",
+ "cnr": "UKHC010158892026",
+ "doc_kind": "order",
+ "order_type": "CLCON/524/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvIyG%2FVl6tEaOQ9r91tfX8GjV8zc%2Bjc0uPM5j6SS46w7&caseno=CLCON/524/2026&cCode=1&cino=UKHC010158892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c4533833dfc1b4a15ceb4e889dc56075d686dc9ac7f8cff7756619c1364c8f32",
+ "fetched_at": "2026-11-07T07:59:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/840/2026:2026-05-13-003",
+ "title": "ALI MOHAMMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "ALI MOHAMMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/840/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-05-13",
+ "cnr": "UKHC010076072026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/840/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlG7RLlQiHYoKbAiXw%2F9SYOnJd2%2BFSzS3t9ybCc8iQTH&caseno=WPCRL/840/2026&cCode=1&cino=UKHC010076072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3dd4bb6a3cf95f3a1720b47f70a105095c45876e23c40994692a4ab4683bac65",
+ "fetched_at": "2026-11-07T08:00:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

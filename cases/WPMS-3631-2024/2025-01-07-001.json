@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3631/2024:2025-01-07-001",
+ "title": "BHARAT SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BHARAT SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3631/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-01-07",
+ "cnr": "UKHC010205822024",
+ "doc_kind": "order",
+ "order_type": "WPMS/3631/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKxAOIX82MepXFhZ4cA45jUlwhlCCAB5nLtiTH2Z4ek8&caseno=WPMS/3631/2024&cCode=1&cino=UKHC010205822024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8a45eebc606c3eb238c0c753ca15111f0775c766fa13ac4839da8db169bf13a1",
+ "fetched_at": "2026-11-07T07:56:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

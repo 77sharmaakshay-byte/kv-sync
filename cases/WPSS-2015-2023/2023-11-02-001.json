@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2015/2023:2023-11-02-001",
+ "title": "SUBHAM KUMAR versus UTTARAKHAND TRANSPORT CORPORATION DEHRADUN",
+ "petitioner": "SUBHAM KUMAR",
+ "respondent": "UTTARAKHAND TRANSPORT CORPORATION DEHRADUN",
+ "case_no": "WPSS/2015/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-11-02",
+ "cnr": "UKHC010176572023",
+ "doc_kind": "order",
+ "order_type": "WPSS/2015/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY4qK9%2Bpi7G36oKA6Ya0bVj1OLfZ1e6V1ZwVDEkQvoIdn&caseno=WPSS/2015/2023&cCode=1&cino=UKHC010176572023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e16885296c62673ff23489e59a7fc32a9d8efdc6af2e04d87e549c4fb4bded71",
+ "fetched_at": "2026-11-07T07:50:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

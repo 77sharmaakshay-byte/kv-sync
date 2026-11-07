@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/920/2025:2025-10-13-002",
+ "title": "RAHUL SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/920/2025",
+ "case_type": "WPCRL",
+ "decision_date": "2025-10-13",
+ "cnr": "UKHC010131822025",
+ "doc_kind": "order",
+ "order_type": "WPCRL/920/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxE2%2Fhvks5H5zJpqMbb9KP5a3XfVRbftcOz80A94Fk22&caseno=WPCRL/920/2025&cCode=1&cino=UKHC010131822025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "48bd3b400dfefc7b99d428215eefd85de7236a8eb7d572d28e448fd501121f0c",
+ "fetched_at": "2026-11-07T07:59:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

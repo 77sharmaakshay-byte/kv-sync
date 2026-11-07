@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/157/2023:2026-03-17-005",
+ "title": "ANKUSH versus STATE OF UTTARAKHAND",
+ "petitioner": "ANKUSH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/157/2023",
+ "case_type": "CRJA",
+ "decision_date": "2026-03-17",
+ "cnr": "UKHC010203532023",
+ "doc_kind": "order",
+ "order_type": "CRJA/157/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9MmGwUPbS7E9FBqFwgUEzYPSgAbxwqfS%2BRrwKHeqwOf&caseno=CRJA/157/2023&cCode=1&cino=UKHC010203532023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8e5d0bc4cb301f2b1b4881ee6306450d134ebf144b04df17434f68d25dc1905a",
+ "fetched_at": "2026-11-07T08:09:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

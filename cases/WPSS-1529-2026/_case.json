@@ -6,9 +6,9 @@
  "registration_number": "WPSS /1529/2026",
  "registration_date": "2026-06-08",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-16",
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "ADMISSION MATTERS -35",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -19,7 +19,7 @@
  "petitioners": [
   {
    "name": "VINEET KUMAR",
-   "advocate": "PRADEEP KUMAR CHAUHAN,NAVEEN SINGH MER,NAVEEN SINGH MER, ,NAVEEN SINGH MER"
+   "advocate": "CHANDRA SHEKHAR DALAKOTI,CHANDRA SHEKHAR DALAKOTI,CHANDRA SHEKHAR DALAKOTI, ,CHANDRA SHEKHAR DALAKOTI"
   }
  ],
  "respondents": [
@@ -55,6 +55,13 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Daily Lok Adalat",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-16",
+   "business_date": "2026-10-26",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {

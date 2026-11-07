@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/615/2016:2018-10-24-002",
+ "title": "M/s Uttam Sugar Mills Ltd. versus Anuj Kumar AND ANOTHER   Advocate- M C  PANT 1123",
+ "petitioner": "M/s Uttam Sugar Mills Ltd.",
+ "respondent": "Anuj Kumar AND ANOTHER   Advocate- M C  PANT 1123",
+ "case_no": "WPMS/615/2016",
+ "case_type": "WPMS",
+ "decision_date": "2018-10-24",
+ "cnr": "UKHC010034092016",
+ "doc_kind": "order",
+ "order_type": "WPMS/615/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBVw98h8SmM2wXTvqIsqqQs%2Fy3ywlIj1dAztiksuNjImm&caseno=WPMS/615/2016&cCode=1&cino=UKHC010034092016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "40c27837a4d3f14d8eac2237aa84d8125a1c8d107c06ce88d5d3f43ef31b9046",
+ "fetched_at": "2026-11-07T08:28:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

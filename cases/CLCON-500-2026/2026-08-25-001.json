@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/500/2026:2026-08-25-001",
+ "title": "DEEPA JOSHI versus RANVEER SINGH CHAUHAN",
+ "petitioner": "DEEPA JOSHI",
+ "respondent": "RANVEER SINGH CHAUHAN",
+ "case_no": "CLCON/500/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-08-25",
+ "cnr": "UKHC010150812026",
+ "doc_kind": "order",
+ "order_type": "CLCON/500/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg%2Fch0evfarvvPqBsca0SrP%2FiLwGFJqAdJhUO%2FqFJf2l&caseno=CLCON/500/2026&cCode=1&cino=UKHC010150812026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a83fb4dcb7b5028ca32702a2a837ebf774b2bde014184f4a56bec70acfd5d3a6",
+ "fetched_at": "2026-11-07T07:59:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

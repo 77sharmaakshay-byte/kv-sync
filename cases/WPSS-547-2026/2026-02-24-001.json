@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/547/2026:2026-02-24-001",
+ "title": "ANKESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ANKESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/547/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-02-24",
+ "cnr": "UKHC010026722026",
+ "doc_kind": "order",
+ "order_type": "WPSS/547/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn3y28qBGmroC97HtnX3hKkD6u83HA1JAmg5UBTF8F38&caseno=WPSS/547/2026&cCode=1&cino=UKHC010026722026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ced82ce73bb928e48dcc8c952e020505f424926f4c9fa3d515f51709e32cc91d",
+ "fetched_at": "2026-11-07T07:49:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

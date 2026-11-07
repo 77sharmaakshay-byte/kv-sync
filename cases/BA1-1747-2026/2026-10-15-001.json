@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1747/2026:2026-10-15-001",
+ "title": "AVNESH ALIAS HANUMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "AVNESH ALIAS HANUMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1747/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010184762026",
+ "doc_kind": "order",
+ "order_type": "BA1/1747/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiGdyhQzth4mWxh0R5urYl5jE5i7Zc50qYe1SJNxfRUM&caseno=BA1/1747/2026&cCode=1&cino=UKHC010184762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d6f185ed5c5c94a66e86e45c0dd041c3d61d236be33928badfd88d192679b504",
+ "fetched_at": "2026-11-07T08:07:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1470/2026:2026-08-31-001",
+ "title": "PAPPU LAL versus STATE OF UTTARAKHAND",
+ "petitioner": "PAPPU LAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1470/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010151852026",
+ "doc_kind": "order",
+ "order_type": "BA1/1470/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh5pWgU%2FVjFDBOLTlvuRCtsuRerV%2F%2FRxOWcSHFXCTFo%2B&caseno=BA1/1470/2026&cCode=1&cino=UKHC010151852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1aaeb94156f4d28d6e8388f762fdb62a78869626983943c1382654979b69cbb2",
+ "fetched_at": "2026-11-07T08:06:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

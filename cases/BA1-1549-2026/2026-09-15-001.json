@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1549/2026:2026-09-15-001",
+ "title": "RAJAT versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1549/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010161372026",
+ "doc_kind": "order",
+ "order_type": "BA1/1549/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkblhl%2FrbpJ09wH%2BM4anwdaJMcYYroO%2F69WQcGZrMYdG&caseno=BA1/1549/2026&cCode=1&cino=UKHC010161372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "249f404e2da35a93e4d1a3ee3586f31edce4eb3e7a3d0b7d63cc7967eed234d6",
+ "fetched_at": "2026-11-07T08:06:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

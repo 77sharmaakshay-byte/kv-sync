@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3217/2025:2026-04-28-003",
+ "title": "POONAM ARYA versus UNION OF INDIA",
+ "petitioner": "POONAM ARYA",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMS/3217/2025",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-28",
+ "cnr": "UKHC010183222025",
+ "doc_kind": "order",
+ "order_type": "WPMS/3217/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyfXr1QcsliuYqSkklvK5FjsIRGhqtBYK7lXONu2fLOe&caseno=WPMS/3217/2025&cCode=1&cino=UKHC010183222025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b25e6b4058de022388de91bdeb2a2143838ccaf760de1d11b41623c53a89445e",
+ "fetched_at": "2026-11-07T08:00:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/176/2016:2018-04-10-001",
+ "title": "Lakkha Singh versus Smt. Surjeet Kaur",
+ "petitioner": "Lakkha Singh",
+ "respondent": "Smt. Surjeet Kaur",
+ "case_no": "CRLR/176/2016",
+ "case_type": "CRLR",
+ "decision_date": "2018-04-10",
+ "cnr": "UKHC010035252016",
+ "doc_kind": "order",
+ "order_type": "CRLR/176/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBb5bgFY6KFQzC67QbJ%2F5Mni9z5xO8aU2kOPwOokBGtLv&caseno=CRLR/176/2016&cCode=1&cino=UKHC010035252016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ceea4190d44f6ced02134802d21feff3c15e83b2056514142250e9d173ce52b2",
+ "fetched_at": "2026-11-07T08:29:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/284/2025:2026-09-01-005",
+ "title": "RAKESH KUMAR versus S N PANDEY",
+ "petitioner": "RAKESH KUMAR",
+ "respondent": "S N PANDEY",
+ "case_no": "CLCON/284/2025",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-01",
+ "cnr": "UKHC010093122025",
+ "doc_kind": "order",
+ "order_type": "CLCON/284/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmy6zGvSOv%2BxHUMD%2BVaZWbm%2Fr1C%2FN%2B2HMjmVt9RCCSWns&caseno=CLCON/284/2025&cCode=1&cino=UKHC010093122025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "452b4c41a7449b53a30fab538a7bc677d8178aa8f6d448bad63853a806cada09",
+ "fetched_at": "2026-11-07T07:58:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

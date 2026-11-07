@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/801/2021:2026-08-05-006",
+ "title": "ANIL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/801/2021",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-05",
+ "cnr": "UKHC010078042021",
+ "doc_kind": "order",
+ "order_type": "WPSS/801/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkMIJ%2BW77spBxEoapR9Yn7CGwQzdpOmgumaA%2Bo0vBmVbl&caseno=WPSS/801/2021&cCode=1&cino=UKHC010078042021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4ca531c456999f6fd5112c755376f49dde53c2544ceab92230afd2bee7d94fcd",
+ "fetched_at": "2026-11-07T07:50:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

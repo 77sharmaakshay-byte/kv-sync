@@ -1,0 +1,77 @@
+{
+ "cnr_number": "UKHC010151462026",
+ "case_type": "WPMS",
+ "filing_number": "WPMS /7835/2026",
+ "filing_date": "2026-08-24",
+ "registration_number": "WPMS /2609/2026",
+ "registration_date": "2026-08-24",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-16",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "RAKESH GOYAL",
+   "advocate": "PANKAJ KUMAR,YASHPAL SINGH,YASHPAL SINGH, ,RAJENDRA ARYA,YASHPAL SINGH"
+  },
+  {
+   "name": "DINESH GUPTA",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SUBHASH GUPTA",
+   "advocate": ""
+  },
+  {
+   "name": "RAJKUMAR GUPTA",
+   "advocate": ""
+  },
+  {
+   "name": "SMT SHANTI DEVI",
+   "advocate": ""
+  },
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 227 of the Constituion of India",
+   "sections": "227"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-08-25",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-01",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-25",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

@@ -6,9 +6,9 @@
  "registration_number": "WPMS /3562/2024",
  "registration_date": "2024-12-21",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-17",
  "decision_date": null,
- "case_stage": "ORDERS ON APPLICATIONS -22",
+ "case_stage": "FOR FINAL HEARING -40",
  "status": "",
  "coram": "Hon'ble Mr. Justice Ravindra Maithani",
  "bench_type": "Single Bench",
@@ -44,6 +44,20 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-11-17",
+   "business_date": "2026-10-28",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-28",
+   "business_date": "2026-10-13",
+   "purpose": "FOR FINAL HEARING -100",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2026-10-13",
@@ -280,6 +294,24 @@
    "order_type": "WPMS/3562/2024",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcM9PSvGRCviv8FnvDKrL8zyoUxYDrPZeXADKmJz4Ei6Y&caseno=WPMS/3562/2024&cCode=1&cino=UKHC010202862024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPMS/3562/2024",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcM9PSvGRCviv8FnvDKrL8zyisiT07DQCqveSvc3aqF6p&caseno=WPMS/3562/2024&cCode=1&cino=UKHC010202862024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-28",
+   "order_type": "WPMS/3562/2024",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcM9PSvGRCviv8FnvDKrL8zwI3BlRcV2bcrjX6Vavc%2F4m&caseno=WPMS/3562/2024&cCode=1&cino=UKHC010202862024&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

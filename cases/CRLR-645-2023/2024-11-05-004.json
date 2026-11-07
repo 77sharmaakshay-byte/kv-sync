@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/645/2023:2024-11-05-004",
+ "title": "ANIL PANT versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL PANT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/645/2023",
+ "case_type": "CRLR",
+ "decision_date": "2024-11-05",
+ "cnr": "UKHC010149602023",
+ "doc_kind": "order",
+ "order_type": "CRLR/645/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY1u3YAwRhAlk4i%2BxnEus12DOnEErDFB7ZRE7z9uaTFVY&caseno=CRLR/645/2023&cCode=1&cino=UKHC010149602023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "97d618e099168cd940167dc263631b5d053cef997c768b4696c8ef6316cf7762",
+ "fetched_at": "2026-11-07T07:56:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

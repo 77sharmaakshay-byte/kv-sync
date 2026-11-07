@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/801/2021:2026-03-27-004",
+ "title": "ANIL SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "ANIL SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/801/2021",
+ "case_type": "WPSS",
+ "decision_date": "2026-03-27",
+ "cnr": "UKHC010078042021",
+ "doc_kind": "order",
+ "order_type": "WPSS/801/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkMIJ%2BW77spBxEoapR9Yn7CHA7lmeAK2THWztRxMuYX%2FC&caseno=WPSS/801/2021&cCode=1&cino=UKHC010078042021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8de0982a3e71f28ee8b799b5d9fcbc27c3cbbbc14fa784a86ca031f0d5c0ae03",
+ "fetched_at": "2026-11-07T07:50:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

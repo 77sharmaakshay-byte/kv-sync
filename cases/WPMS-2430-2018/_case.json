@@ -6,7 +6,7 @@
  "registration_number": "WPMS /2430/2018",
  "registration_date": "2018-08-13",
  "first_hearing_date": "2018-10-12",
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-17",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
@@ -59,6 +59,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-17",
+   "business_date": "2026-10-26",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-26",
    "business_date": "2026-09-15",
@@ -198,6 +205,15 @@
    "order_type": "WPMS/2430/2018",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL3ab34tidb3SP5mlESvFbANkxJPO0BObWQXWrUOh7O2C&caseno=WPMS/2430/2018&cCode=1&cino=UKHC010083012018&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-26",
+   "order_type": "WPMS/2430/2018",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL3ab34tidb3SP5mlESvFbAOHJEdm%2FSOIdoXgJaOmyv%2B%2B&caseno=WPMS/2430/2018&cCode=1&cino=UKHC010083012018&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

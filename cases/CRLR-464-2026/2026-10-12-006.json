@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/464/2026:2026-10-12-006",
+ "title": "PYARA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "PYARA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/464/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010106772026",
+ "doc_kind": "order",
+ "order_type": "CRLR/464/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu3weJPq%2BAfOreKhivWYR27hjYDeFfiCJDlGYJtL6q3o&caseno=CRLR/464/2026&cCode=1&cino=UKHC010106772026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "852aa25126382133d04e2d72e99f68297b6b9abd0ab87fb99add4108cd0e077c",
+ "fetched_at": "2026-11-07T08:10:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:GA/16/2020:2025-11-18-004",
+ "title": "STATE OF UTTARAKHAND versus SATYENDRA KUMAR",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "SATYENDRA KUMAR",
+ "case_no": "GA/16/2020",
+ "case_type": "GA",
+ "decision_date": "2025-11-18",
+ "cnr": "UKHC010022362020",
+ "doc_kind": "order",
+ "order_type": "GA/16/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjJcLyqgdlOGK5relKCs9aiYmHrScUXLR8B%2BP2O%2FHxTxc&caseno=GA/16/2020&cCode=1&cino=UKHC010022362020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "126c3046243ffdcbb1d0870921154d21a3b6809d67a92b1c1e54c54790648c51",
+ "fetched_at": "2026-11-07T08:06:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

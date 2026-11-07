@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/518/2026:2026-09-09-001",
+ "title": "KAILASH CHANDRA versus JYOTI YADAV",
+ "petitioner": "KAILASH CHANDRA",
+ "respondent": "JYOTI YADAV",
+ "case_no": "CLCON/518/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-09",
+ "cnr": "UKHC010157752026",
+ "doc_kind": "order",
+ "order_type": "CLCON/518/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhxBbmuUxBZSNPRtfQrtvnyL0kTPpamVwj4maPX%2BYEur&caseno=CLCON/518/2026&cCode=1&cino=UKHC010157752026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "df581e4e0941ded85243c534db252509e7f5b4afbb1cf5280edf78cf86e4059a",
+ "fetched_at": "2026-11-07T07:59:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

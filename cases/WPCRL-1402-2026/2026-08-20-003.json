@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1402/2026:2026-08-20-003",
+ "title": "MUSRRAT versus STATE OF UTTARAKHAND",
+ "petitioner": "MUSRRAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1402/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010126762026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1402/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsYFzuMvToXTOhJ7v4Mi7LaJmGH4D7Ab5wxf616rKx1a&caseno=WPCRL/1402/2026&cCode=1&cino=UKHC010126762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c138d4b036a1e11a4b521fc0899360051ddbdbafbe8aacdc3b877ef621e62292",
+ "fetched_at": "2026-11-07T08:00:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/40/2026:2026-04-09-002",
+ "title": "VIJAY KUMAR TAMTA versus SANJAY KUMAR",
+ "petitioner": "VIJAY KUMAR TAMTA",
+ "respondent": "SANJAY KUMAR",
+ "case_no": "FA/40/2026",
+ "case_type": "FA",
+ "decision_date": "2026-04-09",
+ "cnr": "UKHC010040362026",
+ "doc_kind": "order",
+ "order_type": "FA/40/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr0%2BScWZ1QIzBFOkZZFxlaMbyXl%2Fs2w9Da12jV%2Fc9iKM&caseno=FA/40/2026&cCode=1&cino=UKHC010040362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "448a04f17f6559de2b72981544a1c40935dfa657b784c59abf2828e734baeedc",
+ "fetched_at": "2026-11-07T08:10:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

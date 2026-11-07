@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/88/2017:2026-09-08-005",
+ "title": "Ayyub Mistri versus Smt. Anwari",
+ "petitioner": "Ayyub Mistri",
+ "respondent": "Smt. Anwari",
+ "case_no": "CRLR/88/2017",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010061852017",
+ "doc_kind": "order",
+ "order_type": "CRLR/88/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWSh3QW5lgNgEPojirOgQpLhpFnCC7qOJ8IABVdkIu4hGid&caseno=CRLR/88/2017&cCode=1&cino=UKHC010061852017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4b7efb9478871474e1adcedb304874f1308e038e3b05b5f84a57d656cc391576",
+ "fetched_at": "2026-11-07T08:29:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2600/2021:2021-12-08-001",
+ "title": "IRSHAD versus STATE OF UTTARAKHAND",
+ "petitioner": "IRSHAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2600/2021",
+ "case_type": "WPMS",
+ "decision_date": "2021-12-08",
+ "cnr": "UKHC010152492021",
+ "doc_kind": "order",
+ "order_type": "WPMS/2600/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkMF2zEnpR3vIsu%2FWP36Wqb1Mc5vm5l9awCZcSFn5Q%2BMN&caseno=WPMS/2600/2021&cCode=1&cino=UKHC010152492021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0924530ebc85e41bdf436caf4db454bfb8851f4eeb7f96238fd9fd07ded49646",
+ "fetched_at": "2026-11-07T08:28:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

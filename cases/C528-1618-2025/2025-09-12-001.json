@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1618/2025:2025-09-12-001",
+ "title": "DHARMENDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "DHARMENDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/1618/2025",
+ "case_type": "C528",
+ "decision_date": "2025-09-12",
+ "cnr": "UKHC010143262025",
+ "doc_kind": "order",
+ "order_type": "C528/1618/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmzhFJmto7owR%2BBtPXCynevj18EJVwEoo3QSz76aCglBm&caseno=C528/1618/2025&cCode=1&cino=UKHC010143262025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "278222f0a2d1744b83d1fbd830a685f3c1c2b7d688606137a95ec6ca2c33377d",
+ "fetched_at": "2026-11-07T08:05:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1204/2026:2026-09-21-003",
+ "title": "BUNTY SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BUNTY SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1204/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010118862026",
+ "doc_kind": "order",
+ "order_type": "IA/1/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk%2FRxOeRfItSBtpg6%2FtlOnpzwDzDPMtNVlegbuOnRewv&caseno=BA1/1204/2026&cCode=1&cino=UKHC010118862026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "92f6a47762e561946a90d28008d124f3c6e2256e070125d43bf8a6d7488741e0",
+ "fetched_at": "2026-11-07T08:06:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

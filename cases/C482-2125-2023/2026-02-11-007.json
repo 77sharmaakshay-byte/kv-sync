@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/2125/2023:2026-02-11-007",
+ "title": "PAWAN RAJ SINGH versus CENTRAL BUREAU OF INVESTIGATION CBI",
+ "petitioner": "PAWAN RAJ SINGH",
+ "respondent": "CENTRAL BUREAU OF INVESTIGATION CBI",
+ "case_no": "C482/2125/2023",
+ "case_type": "C482",
+ "decision_date": "2026-02-11",
+ "cnr": "UKHC010174822023",
+ "doc_kind": "order",
+ "order_type": "C482/2125/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYxeTi2UCGzv2NYM8jXGWRPyDe7RA4GxQX76Ik9Su1aWD&caseno=C482/2125/2023&cCode=1&cino=UKHC010174822023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a120a4701388a6bea04c8b82931c5a277ec2fa0dd00de71f6600ef836c9237a3",
+ "fetched_at": "2026-11-07T08:07:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/432/2025:2025-09-04-002",
+ "title": "NIDHI SAXENA versus CHANDRESH KUMAR YADAV",
+ "petitioner": "NIDHI SAXENA",
+ "respondent": "CHANDRESH KUMAR YADAV",
+ "case_no": "CLCON/432/2025",
+ "case_type": "CLCON",
+ "decision_date": "2025-09-04",
+ "cnr": "UKHC010137612025",
+ "doc_kind": "order",
+ "order_type": "CLCON/432/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyBEBwBJ1IcOF50f%2Fz6caKPeF6%2FKPs73aGxgVj8BfUuF&caseno=CLCON/432/2025&cCode=1&cino=UKHC010137612025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ef8e924e015a7a34852981392f048f6616c19628af7575f7c1cb77650623ff87",
+ "fetched_at": "2026-11-07T07:58:49+00:00",
+ "fetched_by": "fetch_live.py"
+}
