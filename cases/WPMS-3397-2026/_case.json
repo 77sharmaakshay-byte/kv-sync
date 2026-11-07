@@ -6,11 +6,11 @@
  "registration_number": "WPMS /3397/2026",
  "registration_date": "2026-10-31",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-02",
+ "next_hearing_date": "2026-11-16",
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "Registrar (Judicial)",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -38,6 +38,13 @@
   {
    "hearing_date": "2026-11-02",
    "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-02",
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
    "cause_list_type": "DAILY CAUSE LIST"

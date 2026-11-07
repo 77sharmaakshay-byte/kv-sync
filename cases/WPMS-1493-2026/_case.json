@@ -6,7 +6,7 @@
  "registration_number": "WPMS /1493/2026",
  "registration_date": "2026-05-20",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-02",
+ "next_hearing_date": "2026-11-16",
  "decision_date": null,
  "case_stage": "ADMISSION MATTERS -25",
  "status": "",
@@ -48,6 +48,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-16",
+   "business_date": "2026-11-02",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -126,6 +133,15 @@
    "order_type": "WPMS/1493/2026",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp6XBUk%2FVijGhdeEELk4N0ew3Ph%2BWw0fWIdXT4a7JmXJ&caseno=WPMS/1493/2026&cCode=1&cino=UKHC010086422026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-02",
+   "order_type": "WPMS/1493/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp6XBUk%2FVijGhdeEELk4N0f2h5u6daeN0X%2FuzWV4LnQO&caseno=WPMS/1493/2026&cCode=1&cino=UKHC010086422026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""
