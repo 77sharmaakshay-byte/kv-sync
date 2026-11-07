@@ -71,8 +71,8 @@ jobs:
           upto = int(os.environ["UPTO"])
           must = re.compile(os.environ["MUST"], re.I); anyp = re.compile(os.environ["ANY"], re.I)
           hits = collections.OrderedDict(); n = 0
-          for f in sorted(glob.glob("d/**/padhai-*.jsonl.gz", recursive=True), key=lambda x: x.rsplit("/", 1)[-1]):
-              for line in gzip.open(f, "rt", encoding="utf-8"):
+          for f in sorted(glob.glob("d/**/padhai-*.jsonl*", recursive=True), key=lambda x: x.rsplit("/", 1)[-1]):
+              for line in (gzip.open(f, "rt", encoding="utf-8") if f.endswith(".gz") else open(f, encoding="utf-8")):
                   if n >= upto:
                       break
                   n += 1
