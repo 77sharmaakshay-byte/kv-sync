@@ -1,0 +1,104 @@
+# Model ne jo padha (Kaggle training data, padhai ke kram mein pehle UPTO tukde) usme kisi kanooni mudde ke faisle dhoondo.
+# Sirf asli text: har faisle ka naam/saal/bench aur milte hisse (jaise padhe gaye) — kuch bhi apni taraf se nahi.
+name: Padhai mein khoj
+
+on:
+  workflow_dispatch:
+    inputs:
+      data:
+        description: 'Kaunsa data'
+        type: choice
+        options: [nyay-padhai-hc-v2, nyay-padhai-sc-v2]
+        default: nyay-padhai-hc-v2
+      upto:
+        description: 'Model ne kitne tukde padhe (models/nyay round json ka "to")'
+        default: '47951'
+      must:
+        description: 'Tukde mein yeh zaroor ho (regex, chhote-bade akshar barabar)'
+        default: 'compassionate'
+      any:
+        description: 'Aur inmein se koi (regex)'
+        default: 'date of death|retrospective|retrospectively|prevailing (on|at) the (date|time)|at the time of (the )?death|policy in force'
+
+permissions:
+  contents: read
+
+jobs:
+  khoj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install --quiet kaggle six
+      - name: Kaggle token
+        env:
+          SECRET: ${{ secrets.KRISHIVLAW }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          s = (os.environ.get("SECRET") or "").strip().strip('"').strip("'")
+          try:
+              d = json.loads(s); env = {"KAGGLE_USERNAME": d["username"], "KAGGLE_KEY": d["key"]}
+          except (ValueError, KeyError, TypeError):
+              env = {"KAGGLE_KEY": s} if re.fullmatch(r"[0-9a-f]{32}", s) else {"KAGGLE_API_TOKEN": s}
+              env["KAGGLE_USERNAME"] = "krishivlaw"
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              for k, v in env.items():
+                  if k != "KAGGLE_USERNAME":
+                      print(f"::add-mask::{v}")
+                  f.write(f"{k}={v}\n")
+          PY
+      - name: Padhe hue tukde
+        env:
+          DATA: ${{ inputs.data }}
+          UPTO: ${{ inputs.upto }}
+        run: |
+          mkdir -p d && cd d
+          kaggle datasets download "krishivlaw/$DATA" -f index.json -p . && for z in *.zip; do [ -f "$z" ] && unzip -o -q "$z" && rm "$z"; done
+          n=$(( (UPTO + 19999) / 20000 ))
+          for i in $(seq 1 "$n"); do
+            f=$(printf 'padhai-%05d.jsonl.gz' "$i")
+            kaggle datasets download "krishivlaw/$DATA" -f "$f" -p . && for z in *.zip; do [ -f "$z" ] && unzip -o -q "$z" && rm "$z"; done
+          done
+          ls -la
+      - name: Khoj
+        env:
+          UPTO: ${{ inputs.upto }}
+          MUST: ${{ inputs.must }}
+          ANY: ${{ inputs.any }}
+        run: |
+          python3 - <<'PY'
+          import collections, glob, gzip, json, os, re
+          upto = int(os.environ["UPTO"])
+          must = re.compile(os.environ["MUST"], re.I); anyp = re.compile(os.environ["ANY"], re.I)
+          hits = collections.OrderedDict(); n = 0
+          for f in sorted(glob.glob("d/padhai-*.jsonl.gz")):
+              for line in gzip.open(f, "rt", encoding="utf-8"):
+                  if n >= upto:
+                      break
+                  n += 1
+                  r = json.loads(line); t = r["text"]
+                  if not (must.search(t) and anyp.search(t)):
+                      continue
+                  head, _, body = t.partition("\n")
+                  h = hits.setdefault(r["key"], {"key": r["key"], "head": head, "parts": 0, "snips": []})
+                  h["parts"] += 1
+                  for m in anyp.finditer(body):
+                      a, b = max(0, m.start() - 450), min(len(body), m.end() + 450)
+                      s = re.sub(r"\s+", " ", body[a:b])
+                      if not any(s[:120] in x for x in h["snips"]):
+                          h["snips"].append(s)
+          print(f"padhe tukde: {n}; milte faisle: {len(hits)}")
+          json.dump(list(hits.values()), open("khoj.json", "w"), ensure_ascii=False, indent=1)
+          for h in hits.values():
+              print("\n=====", h["key"], "|", h["head"], "| tukde:", h["parts"])
+              for s in h["snips"][:6]:
+                  print("  >>", s)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: khoj
+          path: khoj.json
+          retention-days: 7
