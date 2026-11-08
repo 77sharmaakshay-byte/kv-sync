@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3356/2026:2026-11-03-001",
+ "title": "PUSHPA SHAH RANA versus STATE OF UTTARAKHAND",
+ "petitioner": "PUSHPA SHAH RANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3356/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-03",
+ "cnr": "UKHC010193782026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3356/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrLYcljjhfCJVMwRDe61DOaUhzsTXYu7IB8R3ZuHj%2Fw0&caseno=WPMS/3356/2026&cCode=1&cino=UKHC010193782026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c4ff29e0f05ff7063bbacb2ebc627254d820ef7643be52ce2db7034a72351533",
+ "fetched_at": "2026-11-08T20:51:55+00:00",
+ "fetched_by": "fetch_live.py"
+}
