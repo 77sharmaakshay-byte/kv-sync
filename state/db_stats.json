@@ -1,5 +1,5 @@
 {
- "kab": "2026-11-07T20:30+00:00",
+ "kab": "2026-11-08T01:12+00:00",
  "courts": {
   "SC": {
    "faisle": 57374,
@@ -336,84 +336,84 @@
    ]
   },
   "UKHC": {
-   "faisle": 241795,
-   "vishay_mila": 138223,
+   "faisle": 243769,
+   "vishay_mila": 139527,
    "shreni": {
-    "Criminal": 110333,
-    "Service": 51922,
-    "Writ": 39163,
-    "Civil": 15757,
-    "Contempt": 7425,
+    "Criminal": 111524,
+    "Service": 52149,
+    "Writ": 39423,
+    "Civil": 15830,
+    "Contempt": 7593,
     "Special Appeal": 4787,
-    "Tax": 3307,
-    "PIL": 2252,
-    "Constitutional": 1934,
-    "Land": 1688,
-    "Commercial": 1343,
-    "Labour": 911,
-    "null": 775,
-    "Family": 198
+    "Tax": 3319,
+    "PIL": 2266,
+    "Constitutional": 1948,
+    "Land": 1695,
+    "Commercial": 1347,
+    "Labour": 912,
+    "null": 777,
+    "Family": 199
    },
    "nateeja": {
-    "Khilaf": 69513,
+    "Khilaf": 69684,
     "Nipataara": 64122,
-    "Paksh mein": 59503,
+    "Paksh mein": 59789,
     "Wapas / bekaar": 27591,
-    "Nirdesh: vibhag vichaar kare": 12215,
+    "Nirdesh: vibhag vichaar kare": 12270,
+    "null": 5489,
     "Default mein khaarij": 4199,
-    "null": 4027,
     "Aanshik paksh mein": 625
    },
    "upvishay": [
     [
      "Criminal",
      "Regular bail",
-     42111
+     42686
     ],
     [
      "Criminal",
      "FIR quashing / arrest stay (writ)",
-     26329
+     26463
     ],
     [
      "Criminal",
      "Quashing (482 CrPC / 528 BNSS)",
-     24826
+     25228
     ],
     [
      "Criminal",
      "Cheating / fraud (420)",
-     7359
+     7373
     ],
     [
      "Criminal",
      "Dowry / 498A",
-     5198
+     5217
     ],
     [
      "Criminal",
      "Murder (302 IPC / 103 BNS)",
-     4929
+     4933
     ],
     [
      "Criminal",
      "Anticipatory bail",
-     4758
+     4840
     ],
     [
      "Criminal",
      "NDPS",
-     4686
+     4710
     ],
     [
      "Service",
      "Regularisation",
-     4072
+     4075
     ],
     [
      "Criminal",
      "POCSO",
-     3760
+     3804
     ],
     [
      "Service",
@@ -423,32 +423,32 @@
     [
      "Service",
      "Transfer",
-     3292
+     3300
     ],
     [
      "Service",
      "Termination / dismissal",
-     3287
+     3290
     ],
     [
      "Service",
      "Gratuity / leave encashment",
-     2600
+     2612
     ],
     [
      "Criminal",
      "Cheque bounce (138 NI)",
-     2068
+     2087
     ],
     [
      "Criminal",
      "Dowry death (304B)",
-     2050
+     2052
     ],
     [
      "Service",
      "Pay scale / equal pay",
-     1895
+     1900
     ],
     [
      "Tax",
@@ -458,87 +458,87 @@
     [
      "Civil",
      "Injunction",
-     1754
+     1756
     ],
     [
      "Labour",
      "Industrial dispute / retrenchment",
-     1674
+     1676
     ],
     [
      "Service",
      "Compassionate appointment",
-     1576
+     1580
     ],
     [
      "Service",
      "Pension",
-     1547
+     1554
     ],
     [
      "Commercial",
      "Arbitration",
-     1384
+     1403
     ],
     [
      "Land",
      "Mutation / revenue entries",
-     1369
+     1375
     ],
     [
      "Criminal",
      "Circumstantial evidence",
-     1270
+     1274
     ],
     [
      "Land",
      "Zamindari / bhumidhari",
-     1189
+     1194
     ],
     [
      "Criminal",
      "SC/ST Atrocities Act",
-     1151
+     1157
     ],
     [
      "Civil",
      "Motor accident claim (MACT)",
-     1134
+     1136
     ],
     [
      "Service",
      "Selection / merit list",
-     1089
+     1090
     ],
     [
      "Tax",
      "GST / VAT",
-     1068
+     1080
     ],
     [
      "Family",
      "Maintenance (125 CrPC / 144 BNSS)",
-     1056
+     1058
     ],
     [
      "Civil",
      "Eviction / rent",
-     1028
+     1031
     ],
     [
      "Service",
      "Suspension",
-     1024
+     1028
     ],
     [
      "Service",
      "Promotion",
-     1020
+     1021
     ],
     [
      "Commercial",
      "Bank recovery / SARFAESI",
-     1014
+     1017
     ],
     [
      "Service",
@@ -558,17 +558,17 @@
     [
      "Criminal",
      "Cancellation of bail",
-     653
+     654
     ],
     [
      "Service",
      "Recovery of excess payment",
-     649
+     651
     ],
     [
      "Family",
      "Divorce",
-     621
+     624
     ],
     [
      "Criminal",
@@ -578,12 +578,12 @@
     [
      "Constitutional",
      "Admission / education",
-     526
+     530
     ],
     [
      "Constitutional",
      "Tender / government contract",
-     480
+     491
     ],
     [
      "Constitutional",
@@ -596,14 +596,14 @@
      368
     ],
     [
-     "Service",
-     "Compulsory / voluntary retirement",
-     348
-    ],
-    [
      "Criminal",
      "Suspension of sentence",
-     344
+     350
+    ],
+    [
+     "Service",
+     "Compulsory / voluntary retirement",
+     349
     ],
     [
      "Service",
@@ -623,32 +623,32 @@
     [
      "Civil",
      "Specific performance",
-     247
+     249
     ],
     [
      "Constitutional",
      "Environment / forest",
-     241
+     242
     ],
     [
      "Land",
      "Land acquisition compensation",
-     222
+     224
     ],
     [
      "Commercial",
      "Company / insolvency",
-     204
+     205
     ],
     [
      "Family",
      "Child custody",
-     179
+     182
     ],
     [
      "Constitutional",
      "Article 14 / 21",
-     170
+     171
     ],
     [
      "Civil",
