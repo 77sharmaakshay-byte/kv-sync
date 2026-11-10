@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:51+00:00",
+ "generated_at": "2026-11-10T17:59+00:00",
  "dates": [
   "2026-11-17",
   "2026-11-16",
@@ -15586,6 +15586,14 @@
    "a": 1
   },
   {
+   "id": "CLCON-43-2012",
+   "case_no": "CLCON/43/2012",
+   "title": "PRATAP SINGH BISHT v. MUKUL SATI and OTHERS   Advocate- A.K.JOSHI,ANIL KUMAR JOSHI 1123",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "CLCON-432-2025",
    "case_no": "CLCON/432/2025",
    "title": "NIDHI SAXENA v. CHANDRESH KUMAR YADAV",
@@ -27876,6 +27884,14 @@
    "a": 1
   },
   {
+   "id": "SPA-336-2015",
+   "case_no": "SPA/336/2015",
+   "title": "Pratap Singh Bisht v. State Of Uttarakhand AND OTHERS   Advocate- C.S.C.,ANIL KUMAR JOSHI 1123",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "SPA-338-2022",
    "case_no": "SPA/338/2022",
    "title": "JONU DEVI v. STATE OF UTTARAKHAND",
@@ -28572,6 +28588,24 @@
    ],
    "next_date": "2026-11-03",
    "a": 1
+  },
+  {
+   "id": "SPA-635-2018",
+   "case_no": "SPA/635/2018",
+   "title": "SMT. HEMA DEVI v. STATE OF UTTARAKHAND   Advocate- ,C.S.C. 1123",
+   "advocates": [
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
+   "id": "SPA-636-2018",
+   "case_no": "SPA/636/2018",
+   "title": "Bhopal Singh v. State Of Uttarakhand AND OTHERS   Advocate- C.S.C. 1123",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "SPA-65-2023",
@@ -42511,6 +42545,14 @@
    "a": 2
   },
   {
+   "id": "WPSB-203-2003",
+   "case_no": "WPSB/203/2003",
+   "title": "MOHAN CHANDRA BHATT v. C.A.T. and ORS.",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSB-207-2021",
    "case_no": "WPSB/207/2021",
    "title": "KHAGENDRA JOSHI v. STATE OF UTTARAKHAND",
@@ -44132,6 +44174,14 @@
    "a": 2
   },
   {
+   "id": "WPSS-1041-2013",
+   "case_no": "WPSS/1041/2013",
+   "title": "Smt Meena Lohani v. State Of Uttarakhand AND OTHERS   Advocate- C.S.C. 1123",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1055-2025",
    "case_no": "WPSS/1055/2025",
    "title": "ANITA BADOLA v. STATE OF UTTARAKHAND",
@@ -44397,6 +44447,17 @@
    "a": 1
   },
   {
+   "id": "WPSS-1093-2020",
+   "case_no": "WPSS/1093/2020",
+   "title": "BIMLA DEVI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1096-2024",
    "case_no": "WPSS/1096/2024",
    "title": "KAMAL SINGH NEGI v. STATE OF UTTARAKHAND",
@@ -44406,6 +44467,17 @@
    ],
    "next_date": "2026-11-04",
    "a": 1
+  },
+  {
+   "id": "WPSS-1098-2020",
+   "case_no": "WPSS/1098/2020",
+   "title": "NATH SINGH BORA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-1100-2020",
@@ -44428,6 +44500,14 @@
    ],
    "next_date": "2026-10-14",
    "a": 1
+  },
+  {
+   "id": "WPSS-1103-2012",
+   "case_no": "WPSS/1103/2012",
+   "title": "AMRITA DOBHAL v. STATE OF UTTARAKHAND and ORS.",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-1104-2024",
@@ -44543,6 +44623,17 @@
    "a": 2
   },
   {
+   "id": "WPSS-1138-2020",
+   "case_no": "WPSS/1138/2020",
+   "title": "MOHAN SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-114-2023",
    "case_no": "WPSS/114/2023",
    "title": "PAVITRA SINGH v. GOVIND BALLABH PANT UNIVRSITY OF AGRICULATURE AND TECHNOLOGY PANTNAGAR   Advocate- ,VIPUL SHARMA 1123",
@@ -44603,6 +44694,17 @@
    "a": 2
   },
   {
+   "id": "WPSS-1146-2020",
+   "case_no": "WPSS/1146/2020",
+   "title": "KHYALI RAM JOSHI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HARENDRA BELWAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1146-2025",
    "case_no": "WPSS/1146/2025",
    "title": "RAJKUMARI v. UTTARAKHAND SUBORDINATE SERVICE SELECTION COMMISSION",
@@ -44636,6 +44738,14 @@
     "VIRENDRA SINGH RAWAT"
    ],
    "next_date": "2026-11-03",
+   "a": 2
+  },
+  {
+   "id": "WPSS-117-2007",
+   "case_no": "WPSS/117/2007",
+   "title": "AMIT SAH v. UNION OF INDIA and ORS",
+   "advocates": [],
+   "next_date": null,
    "a": 2
   },
   {
@@ -44996,6 +45106,17 @@
    ],
    "next_date": "2026-11-16",
    "a": 1
+  },
+  {
+   "id": "WPSS-1243-2020",
+   "case_no": "WPSS/1243/2020",
+   "title": "GEETA DEVI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-1244-2026",
@@ -45522,6 +45643,14 @@
    "a": 2
   },
   {
+   "id": "WPSS-1352-2012",
+   "case_no": "WPSS/1352/2012",
+   "title": "MANOJ KUMAR v. STATE OF UTTARAKHAND and ORS.",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1352-2024",
    "case_no": "WPSS/1352/2024",
    "title": "CHANDRA MOHAN PANDEY v. STATE OF UTTARAKHAND",
@@ -45569,6 +45698,17 @@
    "a": 2
   },
   {
+   "id": "WPSS-1363-2020",
+   "case_no": "WPSS/1363/2020",
+   "title": "DHYAN SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1363-2021",
    "case_no": "WPSS/1363/2021",
    "title": "ANOOP SINGH v. STATE OF UTTARAKHAND",
@@ -45580,6 +45720,61 @@
    "a": 1
   },
   {
+   "id": "WPSS-1364-2020",
+   "case_no": "WPSS/1364/2020",
+   "title": "SHANTI DEVI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
+   "id": "WPSS-1366-2020",
+   "case_no": "WPSS/1366/2020",
+   "title": "BACHEY SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
+   "id": "WPSS-1367-2020",
+   "case_no": "WPSS/1367/2020",
+   "title": "BALPA DEVI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
+   "id": "WPSS-1369-2020",
+   "case_no": "WPSS/1369/2020",
+   "title": "PREMA DEVI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
+   "id": "WPSS-1374-2020",
+   "case_no": "WPSS/1374/2020",
+   "title": "DURGA DEVI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1384-2024",
    "case_no": "WPSS/1384/2024",
    "title": "ASHOK KUMAR SINGH v. STATE OF UTTARAKHAND",
@@ -45589,6 +45784,28 @@
    ],
    "next_date": "2026-11-04",
    "a": 1
+  },
+  {
+   "id": "WPSS-1386-2020",
+   "case_no": "WPSS/1386/2020",
+   "title": "MOHD YUSUF v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HEM CHANDRA JOSHI"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
+   "id": "WPSS-1388-2020",
+   "case_no": "WPSS/1388/2020",
+   "title": "MALKHAN SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HEM CHANDRA JOSHI"
+   ],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-1389-2026",
@@ -45784,6 +46001,14 @@
    "a": 1
   },
   {
+   "id": "WPSS-1407-2013",
+   "case_no": "WPSS/1407/2013",
+   "title": "Pratap Singh Bisht v. State Of Uttarakhand AND OTHERS   Advocate- ANIL KUMAR JOSHI,A.K. JOSHI,C.S.C. 1123",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1407-2026",
    "case_no": "WPSS/1407/2026",
    "title": "MAHIPAL SINGH v. STATE OF UTTARAKHAND",
@@ -45949,6 +46174,14 @@
    ],
    "next_date": "2026-10-31",
    "a": 1
+  },
+  {
+   "id": "WPSS-1430-2004",
+   "case_no": "WPSS/1430/2004",
+   "title": "MANOJ SINGH RAUTELA v. M.D., K.M.V.N. and ORS.",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-1430-2023",
@@ -47325,6 +47558,14 @@
    "a": 2
   },
   {
+   "id": "WPSS-1715-2005",
+   "case_no": "WPSS/1715/2005",
+   "title": "VINITA KOTNALA v. STATE and ORS.",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1715-2026",
    "case_no": "WPSS/1715/2026",
    "title": "KARAN SINGH v. STATE OF UTTARAKHAND",
@@ -48117,6 +48358,17 @@
    "a": 2
   },
   {
+   "id": "WPSS-1856-2020",
+   "case_no": "WPSS/1856/2020",
+   "title": "KESHAR SINGH v. STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY FOREST",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-1857-2020",
    "case_no": "WPSS/1857/2020",
    "title": "CHAUNDARI DEVI v. STATE OF UTTARAKHAND",
@@ -48791,6 +49043,14 @@
    ],
    "next_date": "2026-10-13",
    "a": 1
+  },
+  {
+   "id": "WPSS-19474-1999",
+   "case_no": "WPSS/19474/1999",
+   "title": "SMT. DEOKI DEVI v. MANAGING DIRECTOR U.P. FOREST CORP. and OT",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-195-2019",
@@ -51370,6 +51630,16 @@
    "a": 2
   },
   {
+   "id": "WPSS-2294-2018",
+   "case_no": "WPSS/2294/2018",
+   "title": "PRATAP SINGH v. STATE OF UTTARAKHAND THROUGH THE PRINCIPAL SECRETARY, FOREST DEPARTMENT   Advocate- ,C.S.C. 1123",
+   "advocates": [
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-2294-2026",
    "case_no": "WPSS/2294/2026",
    "title": "MAHAVIR SINGH NEGI v. STATE OF UTTARAKHAND",
@@ -52079,6 +52349,14 @@
    "a": 1
   },
   {
+   "id": "WPSS-243-2004",
+   "case_no": "WPSS/243/2004",
+   "title": "RAHUL BAGHEL v. EXECUTIVE DIRECTOR and ORS",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-2431-2026",
    "case_no": "WPSS/2431/2026",
    "title": "RAM PRASAD ARYA v. STATE OF UTTARAKHAND   Advocate- VIKAS PANDE (FOR CAVEATOR) 1123",
@@ -52711,6 +52989,14 @@
    ],
    "next_date": "2026-10-16",
    "a": 1
+  },
+  {
+   "id": "WPSS-2574-2015",
+   "case_no": "WPSS/2574/2015",
+   "title": "Devendra Kumar v. State Of Uttarakhand AND OTHERS   Advocate- C.S.C 1123",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-2581-2026",
@@ -56402,6 +56688,14 @@
    "a": 2
   },
   {
+   "id": "WPSS-3084-2001",
+   "case_no": "WPSS/3084/2001",
+   "title": "SMT. MAHESHWARI SANWAL v. STATE and ORS.",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-309-2017",
    "case_no": "WPSS/309/2017",
    "title": "RAGHUBAR SINGH GARIYA v. UNION OF INDIA THROUGH SECRETARY, MINISTRY OF DEFENCE   Advocate- ,VINOD TIWARI,DEPUTY  S.G. 1123",
@@ -56787,6 +57081,17 @@
    "a": 2
   },
   {
+   "id": "WPSS-3726-2018",
+   "case_no": "WPSS/3726/2018",
+   "title": "SMT. MAMTA BANOLA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-373-2026",
    "case_no": "WPSS/373/2026",
    "title": "MEHARBAN ALI v. STATE OF UTTARAKHAND",
@@ -56944,6 +57249,14 @@
    ],
    "next_date": "2026-10-13",
    "a": 1
+  },
+  {
+   "id": "WPSS-40963-1996",
+   "case_no": "WPSS/40963/1996",
+   "title": "KUNDAN SINGH v. STATE and ORS",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-410-2026",
@@ -57939,6 +58252,14 @@
    "a": 1
   },
   {
+   "id": "WPSS-594-2011",
+   "case_no": "WPSS/594/2011",
+   "title": "LUXMI DUTT v. STATE OF UTTARAKHAND and OTHERS",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-597-2023",
    "case_no": "WPSS/597/2023",
    "title": "MAMTA MEHTA v. STATE OF UTTARAKHAND",
@@ -58188,6 +58509,17 @@
    "a": 1
   },
   {
+   "id": "WPSS-680-2021",
+   "case_no": "WPSS/680/2021",
+   "title": "KAILASH CHANDRA JOSHI v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-685-2023",
    "case_no": "WPSS/685/2023",
    "title": "SANDEEP KUMAR v. UNION OF INDIA",
@@ -58362,6 +58694,17 @@
    ],
    "next_date": "2026-10-26",
    "a": 1
+  },
+  {
+   "id": "WPSS-722-2021",
+   "case_no": "WPSS/722/2021",
+   "title": "RATAN SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-722-2024",
@@ -58558,6 +58901,14 @@
     "SHUBHANG DOBHAL"
    ],
    "next_date": "2026-11-02",
+   "a": 2
+  },
+  {
+   "id": "WPSS-762-2012",
+   "case_no": "WPSS/762/2012",
+   "title": "MANOJ KUMAR v. STATE OF UTTARAKHAND and OTHERS",
+   "advocates": [],
+   "next_date": null,
    "a": 2
   },
   {
@@ -59301,6 +59652,14 @@
    "a": 2
   },
   {
+   "id": "WPSS-828-2001",
+   "case_no": "WPSS/828/2001",
+   "title": "RAJ KUMAR v. STATE and OTHERS",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-831-2026",
    "case_no": "WPSS/831/2026",
    "title": "MAHESH KUMAR v. STATE OF UTTARAKHAND",
@@ -59574,6 +59933,17 @@
    "a": 1
   },
   {
+   "id": "WPSS-866-2020",
+   "case_no": "WPSS/866/2020",
+   "title": "CHANDAN SINGH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HARENDRA BELWAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-866-2023",
    "case_no": "WPSS/866/2023",
    "title": "AMARDEEP GARG v. STATE OF UTTARAKHAND",
@@ -59584,6 +59954,28 @@
    ],
    "next_date": "2026-10-14",
    "a": 1
+  },
+  {
+   "id": "WPSS-867-2020",
+   "case_no": "WPSS/867/2020",
+   "title": "PRAYAG DUTT KANDPAL v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HARENDRA BELWAL"
+   ],
+   "next_date": null,
+   "a": 2
+  },
+  {
+   "id": "WPSS-869-2020",
+   "case_no": "WPSS/869/2020",
+   "title": "CHANAR SINGH GAIRA v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "HARENDRA BELWAL"
+   ],
+   "next_date": null,
+   "a": 2
   },
   {
    "id": "WPSS-874-2021",
@@ -59844,6 +60236,14 @@
    "a": 2
   },
   {
+   "id": "WPSS-933-2009",
+   "case_no": "WPSS/933/2009",
+   "title": "DIWAN SINGH and OTHERS v. STATE OF UTTARAKHAND and  OTHERS",
+   "advocates": [],
+   "next_date": null,
+   "a": 2
+  },
+  {
    "id": "WPSS-934-2023",
    "case_no": "WPSS/934/2023",
    "title": "ANJALI KATARIYA v. UNION OF INDIA",
@@ -59854,6 +60254,17 @@
     "PRABHA NAITHANI,VIKAS KUMAR GUGLANI"
    ],
    "next_date": "2026-11-03",
+   "a": 2
+  },
+  {
+   "id": "WPSS-936-2021",
+   "case_no": "WPSS/936/2021",
+   "title": "GAURI DUTT v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "C.S.C.",
+    "CHITRARTH KANDPAL"
+   ],
+   "next_date": null,
    "a": 2
   },
   {
