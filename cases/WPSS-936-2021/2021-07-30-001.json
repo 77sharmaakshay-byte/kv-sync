@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/936/2021:2021-07-30-001",
+ "title": "GAURI DUTT versus STATE OF UTTARAKHAND",
+ "petitioner": "GAURI DUTT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/936/2021",
+ "case_type": "WPSS",
+ "decision_date": "2021-07-30",
+ "cnr": "UKHC010087982021",
+ "doc_kind": "order",
+ "order_type": "WPSS/936/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkPH31qI0boSQeALJqMnwnJhWvUZG3RVomwWDCM4meHTY&caseno=WPSS/936/2021&cCode=1&cino=UKHC010087982021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "93108bc34bfd9f304d7c40c0cacdd9716082ba21e3323742e25ca2f181782b1f",
+ "fetched_at": "2026-11-10T17:44:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/866/2020:2021-03-17-002",
+ "title": "CHANDAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/866/2020",
+ "case_type": "WPSS",
+ "decision_date": "2021-03-17",
+ "cnr": "UKHC010076022020",
+ "doc_kind": "order",
+ "order_type": "WPSS/866/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjC2opkILU4D73y41di58GDGUCtkrtcmRiqGyllZKqiim&caseno=WPSS/866/2020&cCode=1&cino=UKHC010076022020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a51eb2ecd2621f6377aab2068cd41294d335addf6def9801abf7aade7ca5e8c9",
+ "fetched_at": "2026-11-10T17:45:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

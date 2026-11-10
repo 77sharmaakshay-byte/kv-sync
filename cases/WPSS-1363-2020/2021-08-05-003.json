@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1363/2020:2021-08-05-003",
+ "title": "DHYAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "DHYAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1363/2020",
+ "case_type": "WPSS",
+ "decision_date": "2021-08-05",
+ "cnr": "UKHC010110722020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1363/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjPsKG4h7MsBDqWwIkscPMBjJ5WFPeNZL%2B86JPjp%2FxKsO&caseno=WPSS/1363/2020&cCode=1&cino=UKHC010110722020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "658adf2818e9fd45fa64482156761756fc3a3799688be17809131643c5fb2545",
+ "fetched_at": "2026-11-10T17:45:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

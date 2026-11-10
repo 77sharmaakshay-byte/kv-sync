@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1243/2020:2023-03-20-004",
+ "title": "GEETA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "GEETA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1243/2020",
+ "case_type": "WPSS",
+ "decision_date": "2023-03-20",
+ "cnr": "UKHC010103232020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1243/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjAGqPBUQlv402i1mguzqkEz%2Fbt5N8D0etABYzT4hIa2A&caseno=WPSS/1243/2020&cCode=1&cino=UKHC010103232020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "95e1fdd4c4e0db175725ed3a75bbfa7e24c43e0ee0b9e7e49a34d58f6fcf9faa",
+ "fetched_at": "2026-11-10T17:42:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

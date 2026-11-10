@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1093/2020:2020-09-25-001",
+ "title": "BIMLA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "BIMLA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1093/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-09-25",
+ "cnr": "UKHC010093292020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1093/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjK3c7RKidFd9DPtds0%2BF79cCz5MnP1Gz6ebEecFq0C%2FQ&caseno=WPSS/1093/2020&cCode=1&cino=UKHC010093292020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7dbdce03e06e203d31b543bbcedb8ea172ee6baa56d95628aaefd29a7e249897",
+ "fetched_at": "2026-11-10T17:45:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

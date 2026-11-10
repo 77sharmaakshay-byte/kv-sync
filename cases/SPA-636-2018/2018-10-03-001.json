@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/636/2018:2018-10-03-001",
+ "title": "Bhopal Singh versus State Of Uttarakhand AND OTHERS   Advocate- C.S.C. 1123",
+ "petitioner": "Bhopal Singh",
+ "respondent": "State Of Uttarakhand AND OTHERS   Advocate- C.S.C. 1123",
+ "case_no": "SPA/636/2018",
+ "case_type": "SPA",
+ "decision_date": "2018-10-03",
+ "cnr": "UKHC010075272018",
+ "doc_kind": "judgment",
+ "order_type": "SPA/636/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL8vb9WToZc1aoKWdskUFOnxzeNbCMktVodafKL7oOdGT&caseno=SPA/636/2018&cCode=1&cino=UKHC010075272018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "30a633f33219d14bc35ac49865d0d39033df67513a558dc521f685fe1a3e5d8c",
+ "fetched_at": "2026-11-10T17:47:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1366/2020:2021-08-05-003",
+ "title": "BACHEY SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BACHEY SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1366/2020",
+ "case_type": "WPSS",
+ "decision_date": "2021-08-05",
+ "cnr": "UKHC010110712020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1366/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjMmr0REPLMvEl5KgwC84NGBLS4pAqJUuPwN%2FJ87sump8&caseno=WPSS/1366/2020&cCode=1&cino=UKHC010110712020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "80d5aa4563c0711fb792798600e821eaf02ad8773ffc30bc355493fb86790f9d",
+ "fetched_at": "2026-11-10T17:46:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

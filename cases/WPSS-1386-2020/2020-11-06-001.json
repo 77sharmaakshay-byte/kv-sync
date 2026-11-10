@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1386/2020:2020-11-06-001",
+ "title": "MOHD YUSUF versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD YUSUF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1386/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-11-06",
+ "cnr": "UKHC010112322020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1386/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjLQ5ZefyRHmXXcrsn4r2eNkYsWFB3Rl%2F5ipZi96xyEHJ&caseno=WPSS/1386/2020&cCode=1&cino=UKHC010112322020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1f7d968c43ff2324eaef16520e146705fcf07be6b4ceb180f7c8032c8287c46c",
+ "fetched_at": "2026-11-10T17:43:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

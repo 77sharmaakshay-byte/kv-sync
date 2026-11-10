@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1364/2020:2020-12-02-001",
+ "title": "SHANTI DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "SHANTI DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1364/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-12-02",
+ "cnr": "UKHC010110702020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1364/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjBRTjmaPexjZXSxx0jc4iRkXvZxyfLf6B4z2cExGe5eV&caseno=WPSS/1364/2020&cCode=1&cino=UKHC010110702020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d15395a081a4ca8f5c9fc656293c0657cd4e525f811bc7a3892ba914dc09e15",
+ "fetched_at": "2026-11-10T17:43:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

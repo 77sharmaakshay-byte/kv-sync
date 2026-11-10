@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1243/2020:2020-10-16-001",
+ "title": "GEETA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "GEETA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1243/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-10-16",
+ "cnr": "UKHC010103232020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1243/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjAGqPBUQlv402i1mguzqkExqKlw5iOVoYbOn5Jbw0iDu&caseno=WPSS/1243/2020&cCode=1&cino=UKHC010103232020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "be3372a857ce585b3b72d4cbdc8fc750ab4bf45d4430503909716088c9be361e",
+ "fetched_at": "2026-11-10T17:42:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

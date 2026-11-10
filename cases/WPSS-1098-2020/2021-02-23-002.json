@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1098/2020:2021-02-23-002",
+ "title": "NATH SINGH BORA versus STATE OF UTTARAKHAND",
+ "petitioner": "NATH SINGH BORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1098/2020",
+ "case_type": "WPSS",
+ "decision_date": "2021-02-23",
+ "cnr": "UKHC010093302020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1098/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjBL6bG7SUKBvkT6BSPcNO21DYOUtTWKzlEwUww2BEA%2FG&caseno=WPSS/1098/2020&cCode=1&cino=UKHC010093302020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "17f5ccf90b64418ca2f10eef339e325391403390c011863922f4d257a246f61c",
+ "fetched_at": "2026-11-10T17:44:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1374/2020:2020-11-06-001",
+ "title": "DURGA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "DURGA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1374/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-11-06",
+ "cnr": "UKHC010110942020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1374/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjPBfS0hgZrg%2F5KyMgz3fija0uaeBhraAaO9sIMSpt5PT&caseno=WPSS/1374/2020&cCode=1&cino=UKHC010110942020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c5e14a5f07462dae8be05eae7181ed5f6ebb0d5af5810c3ef67d98d02036068f",
+ "fetched_at": "2026-11-10T17:43:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

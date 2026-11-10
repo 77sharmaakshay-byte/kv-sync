@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1388/2020:2021-08-05-003",
+ "title": "MALKHAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MALKHAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1388/2020",
+ "case_type": "WPSS",
+ "decision_date": "2021-08-05",
+ "cnr": "UKHC010112342020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1388/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjMSOLROql%2FSZIT2AX0zgagB8vEMEaPeIXxHyhYID5C6x&caseno=WPSS/1388/2020&cCode=1&cino=UKHC010112342020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "39f8fbf870e2e26738a64f5a0a8ce291a7570df1a771ab93f44c663fc361261f",
+ "fetched_at": "2026-11-10T17:44:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

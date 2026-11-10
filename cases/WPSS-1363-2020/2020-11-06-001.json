@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1363/2020:2020-11-06-001",
+ "title": "DHYAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "DHYAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1363/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-11-06",
+ "cnr": "UKHC010110722020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1363/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjPsKG4h7MsBDqWwIkscPMBhHiSnwQslhigT0Bj7Abz%2Bs&caseno=WPSS/1363/2020&cCode=1&cino=UKHC010110722020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c41b98a834b49e06810848e7b122fa82a2de601a4726ff87f4a9f531257a9558",
+ "fetched_at": "2026-11-10T17:45:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

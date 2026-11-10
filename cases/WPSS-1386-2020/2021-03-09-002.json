@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1386/2020:2021-03-09-002",
+ "title": "MOHD YUSUF versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD YUSUF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1386/2020",
+ "case_type": "WPSS",
+ "decision_date": "2021-03-09",
+ "cnr": "UKHC010112322020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1386/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjLQ5ZefyRHmXXcrsn4r2eNkIA7oYECNZllkHKNh5JoMH&caseno=WPSS/1386/2020&cCode=1&cino=UKHC010112322020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "df95961ef50a821cd458873c46504d69cab2c6ccc35e70b5698ca483526b0b28",
+ "fetched_at": "2026-11-10T17:43:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

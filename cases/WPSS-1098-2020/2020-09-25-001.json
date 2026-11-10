@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1098/2020:2020-09-25-001",
+ "title": "NATH SINGH BORA versus STATE OF UTTARAKHAND",
+ "petitioner": "NATH SINGH BORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1098/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-09-25",
+ "cnr": "UKHC010093302020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1098/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjBL6bG7SUKBvkT6BSPcNO22m8XauWPdwlvRKLKXH6NAh&caseno=WPSS/1098/2020&cCode=1&cino=UKHC010093302020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d1e7936f381fd9d66c0e3fab65a4ca71cbc3aa25d1db5a92bdb6473fbb7db189",
+ "fetched_at": "2026-11-10T17:44:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

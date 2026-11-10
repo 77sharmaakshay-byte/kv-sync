@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1138/2020:2020-10-07-001",
+ "title": "MOHAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1138/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-10-07",
+ "cnr": "UKHC010096552020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1138/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjOGZ1QJml9YFRHjxjhIeA5GbU7ZKGjpSypD5xGgx6Nq%2F&caseno=WPSS/1138/2020&cCode=1&cino=UKHC010096552020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "063b8a24c5ae4fea3195e2b3292a179477bede004b1d5d9e4ca766bc77543d07",
+ "fetched_at": "2026-11-10T17:46:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

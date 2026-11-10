@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1146/2020:2020-12-28-001",
+ "title": "KHYALI RAM JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "KHYALI RAM JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1146/2020",
+ "case_type": "WPSS",
+ "decision_date": "2020-12-28",
+ "cnr": "UKHC010096562020",
+ "doc_kind": "order",
+ "order_type": "WPSS/1146/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjN71ixuR9xxgFjdn3K4Ny0P0owFjWZsdhUbYQbn1Dk7S&caseno=WPSS/1146/2020&cCode=1&cino=UKHC010096562020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5c13bc2984b7339addc38e69ae28d6b9d560f444024fc2724d91d1fec10ea59b",
+ "fetched_at": "2026-11-10T17:44:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

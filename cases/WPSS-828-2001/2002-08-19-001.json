@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/828/2001:2002-08-19-001",
+ "title": "RAJ KUMAR versus STATE and OTHERS",
+ "petitioner": "RAJ KUMAR",
+ "respondent": "STATE and OTHERS",
+ "case_no": "WPSS/828/2001",
+ "case_type": "WPSS",
+ "decision_date": "2002-08-19",
+ "cnr": "UKHC010012852001",
+ "doc_kind": "judgment",
+ "order_type": "WPSS/828/2001",
+ "judges": [
+  "Hon'ble Mr. Justice Irshad Hussain,Hon'ble Mr. Justice Ashok A. Desai"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=d7dAH0ZhLK3DqPbaawu9oyHpssAsTo2fqFazuBIoH6X9ri0YYfK1B7R5xCYPX4pR&caseno=WPSS/828/2001&cCode=1&cino=UKHC010012852001&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d197050fb2c36abe89447a2895757d44dad9aff4e42c41fb09698f04f2dbd3a",
+ "fetched_at": "2026-11-10T17:51:17+00:00",
+ "fetched_by": "fetch_live.py"
+}
