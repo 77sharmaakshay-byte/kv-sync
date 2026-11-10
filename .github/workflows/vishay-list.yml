@@ -14,6 +14,9 @@ on:
         type: choice
         options: [UKHC, SC, Dono]
         default: UKHC
+      shabd:
+        description: 'Vishay ke shabd (regex, jaanch ke liye; khaali = jaanch nahi)'
+        default: 'compassion|dying.in.harness|mritak|अनुकम्पा|अनुकंपा|मृतक आश्रित'
 
 permissions:
   contents: write
@@ -68,9 +71,10 @@ jobs:
         env:
           UPVISHAY: ${{ inputs.upvishay }}
           COURT: ${{ inputs.court }}
+          SHABD: ${{ inputs.shabd }}
         run: |
           c=(); [ "$COURT" != "Dono" ] && c=(--court "$COURT")
-          python scripts/export_vishay.py --db "$RUNNER_TEMP/db/krishivlaw.db" --upvishay "$UPVISHAY" "${c[@]}" --out "$RUNNER_TEMP/lists"
+          python scripts/export_vishay.py --db "$RUNNER_TEMP/db/krishivlaw.db" --upvishay "$UPVISHAY" "${c[@]}" ${SHABD:+--shabd "$SHABD"} --out "$RUNNER_TEMP/lists"
           cat "$RUNNER_TEMP"/lists/*.md >> "$GITHUB_STEP_SUMMARY"
       - name: Data branch par save
         run: |
