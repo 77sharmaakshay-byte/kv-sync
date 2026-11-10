@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2473/2026:2026-11-04-001",
+ "title": "AMIT KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "AMIT KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/2473/2026",
+ "case_type": "C528",
+ "decision_date": "2026-11-04",
+ "cnr": "UKHC010198082026",
+ "doc_kind": "order",
+ "order_type": "C528/2473/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS (TOP) -97",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlOU19y6ej4IQj1SDw%2Ba24q%2BoSdHSTy5ok3Lw2MrF2tc&caseno=C528/2473/2026&cCode=1&cino=UKHC010198082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "82160579bb47ddc07f3ef1f4595e93509e17f79c35bcfb5408b31d43d713e209",
+ "fetched_at": "2026-11-10T15:15:40+00:00",
+ "fetched_by": "fetch_live.py"
+}
