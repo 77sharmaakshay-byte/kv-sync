@@ -27,7 +27,11 @@ COLS = ["court", "case_no", "cite", "title", "date", "judges", "disposal", "nate
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--db", required=True, type=Path)
-    ap.add_argument("--upvishay", required=True)
+    ap.add_argument("--upvishay", default="", help="khaali = database ke saare faisle (phir --shabd zaroori)")
+    ap.add_argument("--shabd", help="vishay ke shabd (regex), jaise compassion|dying in harness; saare faislon mein "
+                                    "pehle inse chhaanto (full-text + Hindi), phir mudda")
+    ap.add_argument("--fts", help="paragraphs_fts MATCH query (pehli chhanni), jaise: compassionate OR \"dying in harness\"")
+    ap.add_argument("--hindi", default="", help="'|' se alag Hindi shabd jo poore text mein dhoondhe jaayein")
     ap.add_argument("--mudda", required=True, help="regex")
     ap.add_argument("--naam", required=True, help="file ke naam ke liye chhota naam")
     ap.add_argument("--court", choices=["SC", "UKHC"])
@@ -37,19 +41,38 @@ def main():
     con = sqlite3.connect(f"file:{args.db}?mode=ro", uri=True)
     pat = re.compile(args.mudda, re.I)
 
-    sql = ("SELECT DISTINCT j.id, j.court, j.case_no, j.neutral_citation, j.title, j.decision_date, j.judges, j.disposal, "
-           "c.outcome FROM labels l JOIN judgments j ON j.id = l.judgment_id LEFT JOIN categories c ON c.judgment_id = j.id "
-           "WHERE l.upvishay = ?")
-    params = [args.upvishay]
-    if not args.zikr:
-        sql += " AND l.strength = 'mukhya'"
+    base = ("SELECT DISTINCT j.id, j.court, j.case_no, j.neutral_citation, j.title, j.decision_date, j.judges, j.disposal, "
+            "c.outcome FROM judgments j LEFT JOIN categories c ON c.judgment_id = j.id ")
+    if args.upvishay:
+        sql = base + "JOIN labels l ON l.judgment_id = j.id WHERE l.upvishay = ?"
+        params = [args.upvishay]
+        if not args.zikr:
+            sql += " AND l.strength = 'mukhya'"
+    else:
+        if not args.shabd:
+            raise SystemExit("--upvishay khaali ho to --shabd do")
+        ids = set()
+        if args.fts:
+            ids |= {r[0] for r in con.execute("SELECT DISTINCT p.judgment_id FROM paragraphs_fts f JOIN paragraphs p "
+                                              "ON p.id = f.rowid WHERE paragraphs_fts MATCH ?", (args.fts,))}
+            print(f"full-text se {len(ids)} faisle", flush=True)
+        for w in filter(None, args.hindi.split("|")):
+            ids |= {r[0] for r in con.execute("SELECT judgment_id FROM texts WHERE instr(clean, ?) > 0", (w,))}
+            print(f"'{w}' ke baad {len(ids)}", flush=True)
+        con.execute("CREATE TEMP TABLE pick (id INTEGER PRIMARY KEY)")
+        con.executemany("INSERT INTO pick VALUES (?)", [(i,) for i in ids])
+        sql = base + "JOIN pick ON pick.id = j.id WHERE 1"
+        params = []
     if args.court:
         sql += " AND j.court = ?"
         params.append(args.court)
+    shabd = re.compile(args.shabd, re.I) if args.shabd else None
     rows, blocks = [], []
     for jid, court, case_no, cite, title, date, jud, disp, nat in con.execute(sql, params).fetchall():
         t = con.execute("SELECT clean FROM texts WHERE judgment_id = ?", (jid,)).fetchone()
         text = re.sub(r"\s+", " ", t[0]) if t else ""
+        if shabd and not shabd.search(text):
+            continue
         hits = list(pat.finditer(text))
         if not hits:
             continue
@@ -64,19 +87,19 @@ def main():
                 continue
             quotes.append(text[max(0, m.start() - 450):m.end() + 450])
             last = m.start()
-            if len(quotes) >= 3:
+            if len(quotes) >= 4:
                 break
         blocks.append((r, quotes, text[-1200:]))
 
     rows.sort(key=lambda r: (r["court"], r["date"]), reverse=True)
     blocks.sort(key=lambda b: (b[0]["court"], b[0]["date"]), reverse=True)
     args.out.mkdir(parents=True, exist_ok=True)
-    name = f"{slug(args.upvishay)}-{slug(args.naam)}" + (f"-{args.court.lower()}" if args.court else "")
+    name = f"{slug(args.upvishay or 'sab')}-{slug(args.naam)}" + (f"-{args.court.lower()}" if args.court else "")
     with open(args.out / f"{name}.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, COLS)
         w.writeheader()
         w.writerows(rows)
-    L = [f"# {args.upvishay} · mudda: {args.naam}", "", f"Regex: `{args.mudda}` · {len(rows)} faisle. Quote faisle ka asli "
+    L = [f"# {args.upvishay or 'Saare faisle (' + args.shabd + ')'} · mudda: {args.naam}", "", f"Regex: `{args.mudda}` · {len(rows)} faisle. Quote faisle ka asli "
          "text hai; nateeja aur vakil machine ke — padh kar pakka karein.", ""]
     for r, quotes, tail in blocks:
         L += [f"## {r['court']} · {r['case_no'] or r['cite']} · {r['date']}", "",

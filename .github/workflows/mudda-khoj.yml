@@ -6,14 +6,23 @@ on:
   workflow_dispatch:
     inputs:
       upvishay:
-        description: 'Upvishay'
-        default: 'Compassionate appointment'
+        description: 'Upvishay (khaali = database ke saare faisle, shabd se chhaant kar)'
+        default: ''
+      shabd:
+        description: 'Vishay ke shabd (regex) — saare faislon mein pehle inse chhaanto'
+        default: 'compassion|dying.in.harness|मृतक आश्रित|अनुकम्पा|अनुकंपा|मृतक आश्रित'
+      fts:
+        description: 'Full-text pehli chhanni'
+        default: 'compassionate OR "dying in harness" OR "dying-in-harness"'
+      hindi:
+        description: "Hindi shabd ('|' se alag)"
+        default: 'मृतक आश्रित|अनुकम्पा|अनुकंपा'
       mudda:
         description: 'Mudda (regex)'
-        default: 'retrospect|prospectiv|(?:scheme|policy|rules?|G\\.?O\\.?|regulations?)[^.]{0,80}date of (?:the )?(?:death|(?:his |her |their )?application)|date of (?:the )?(?:death|(?:his |her |their )?application)[^.]{0,80}(?:scheme|policy|rules?|G\\.?O|regulations?)|(?:scheme|policy|rules?|G\.?O\.?)\W+(?:which was |as )?(?:prevalent|in force|existing|applicable) (?:at|on) the (?:time|date)|existing on the date|subsequent (?:scheme|policy|rules?|amendment|G\.?O)|cut.?off date'
+        default: 'retrospect|prospectiv|then existing|then prevailing|in vogue|vested right|pending (?:application|claim)s?|12[./-]0?6[./-]2018|05[./-]0?4[./-]2019|ban on (?:the )?compassionate|(?:scheme|policy|rules?|G\.?O\.?|regulations?|circular|government order)[^.]{0,80}(?:date of (?:the )?(?:death|demise|(?:his |her |their )?application)|prevalent|in force|existing|applicable at the time)|date of (?:the )?(?:death|demise|(?:his |her |their )?application)[^.]{0,80}(?:scheme|policy|rules?|G\.?O|regulations?|circular)|existing on the date|subsequent (?:scheme|policy|rules?|amendment|G\.?O|circular)|new (?:scheme|policy)|amended (?:rules|scheme|policy)|cut.?off date|w\.?e\.?f\.?'
       naam:
         description: 'Chhota naam (file ke liye)'
-        default: 'retrospective'
+        default: 'retrospective-sab'
       court:
         type: choice
         options: [Dono, UKHC, SC]
@@ -73,10 +82,13 @@ jobs:
           UPVISHAY: ${{ inputs.upvishay }}
           MUDDA: ${{ inputs.mudda }}
           NAAM: ${{ inputs.naam }}
+          SHABD: ${{ inputs.shabd }}
+          FTS: ${{ inputs.fts }}
+          HINDI: ${{ inputs.hindi }}
           COURT: ${{ inputs.court }}
         run: |
           c=(); [ "$COURT" != "Dono" ] && c=(--court "$COURT")
-          python scripts/export_mudda.py --db "$RUNNER_TEMP/db/krishivlaw.db" --upvishay "$UPVISHAY" --mudda "$MUDDA" \
+          python scripts/export_mudda.py --db "$RUNNER_TEMP/db/krishivlaw.db" --upvishay "$UPVISHAY" --shabd "$SHABD" --fts "$FTS" --hindi "$HINDI" --mudda "$MUDDA" \
             --naam "$NAAM" --zikr "${c[@]}" --out "$RUNNER_TEMP/lists"
           head -c 60000 "$RUNNER_TEMP"/lists/*.md >> "$GITHUB_STEP_SUMMARY"
       - name: Data branch par save
