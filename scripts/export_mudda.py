@@ -43,6 +43,10 @@ def main():
     args = ap.parse_args()
     con = sqlite3.connect(f"file:{args.db}?mode=ro", uri=True)
     pat = re.compile(args.mudda, re.I)
+    if args.court:   # kitne faislon mein text hi nahi (scan PDF) — unmein koi khoj kaam nahi karti
+        tot, notext = con.execute("SELECT count(*), sum(t.judgment_id IS NULL OR length(t.clean) < 300) FROM judgments j "
+                                  "LEFT JOIN texts t ON t.judgment_id = j.id WHERE j.court = ?", (args.court,)).fetchone()
+        print(f"{args.court}: kul {tot} faisle, jinmein text nahi / bahut chhota: {notext}", flush=True)
 
     base = ("SELECT DISTINCT j.id, j.court, j.case_no, j.neutral_citation, j.title, j.decision_date, j.judges, j.disposal, "
             "c.outcome FROM judgments j LEFT JOIN categories c ON c.judgment_id = j.id ")
