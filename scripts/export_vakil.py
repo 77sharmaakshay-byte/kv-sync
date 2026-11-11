@@ -29,6 +29,24 @@ def same(a, words):
     return all(re.search(rf"\b{w}\b", a) for w in words)
 
 
+SIDE_AFTER = re.compile(r"^[^;]{0,140}?\bfor\s+(?:the\s+)?(?:writ\s+)?(petitioner|appellant|applicant|revisionist|"
+                        r"respondent|opposite\s+part|State|Union|caveator|complainant|accused)", re.I)
+SIDE_BEFORE = re.compile(r"Counsel\s+for\s+(?:the\s+)?(petitioner|appellant|applicant|respondent)s?\s*:?[^:]{0,80}$", re.I)
+PET_WORDS = ("petitioner", "appellant", "applicant", "revisionist", "accused")
+
+
+def taraf_from_text(text, name_re):
+    """Naam ke theek baad 'for the petitioner / respondent no.4 / State' (ya pehle 'Counsel for the X :')."""
+    t = re.sub(r"\s+", " ", text[:60000])
+    for m in name_re.finditer(t):
+        a = SIDE_AFTER.search(t[m.end():m.end() + 160])
+        b = SIDE_BEFORE.search(t[max(0, m.start() - 120):m.start()])
+        w = (a.group(1) if a else b.group(1) if b else "").lower()
+        if w:
+            return "petitioner" if w.startswith(PET_WORDS) else "respondent"
+    return ""
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--db", required=True, type=Path)
@@ -64,7 +82,8 @@ def main():
         if not name_re.search(text):
             continue
         pv, rv = advocates(text, case_no or "")
-        taraf = "petitioner" if same(pv, words) else "respondent" if same(rv, words) else "naam aaya"
+        taraf = ("petitioner" if same(pv, words) else "respondent" if same(rv, words)
+                 else taraf_from_text(text, name_re) or "naam aaya")
         lab = con.execute("SELECT category, vishay, upvishay FROM labels WHERE judgment_id = ? AND mudda = '' "
                           "AND strength = 'mukhya' ORDER BY hits DESC LIMIT 1", (jid,)).fetchone() or ("", "", "")
         key = cnr or case_no or f"id-{jid}"
