@@ -6,11 +6,11 @@
  "registration_number": "FA /106/2026",
  "registration_date": "2026-06-09",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-05",
+ "next_hearing_date": "2026-11-16",
  "decision_date": null,
  "case_stage": "FRESH CASES AS DEFECTIVE -236",
  "status": "",
- "coram": "Registrar (Judicial)",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -46,6 +46,13 @@
   {
    "hearing_date": "2026-06-15",
    "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-05",
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
    "cause_list_type": "DAILY CAUSE LIST"
