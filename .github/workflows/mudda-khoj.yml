@@ -23,6 +23,12 @@ on:
       naam:
         description: 'Chhota naam (file ke liye)'
         default: 'retrospective-sab'
+      label:
+        description: 'Is chhantai (upvishay) ke saare faisle bhi jodo (khaali = nahi)'
+        default: ''
+      quotes:
+        description: 'Har faisle ke kitne ansh'
+        default: '4'
       court:
         type: choice
         options: [Dono, UKHC, SC]
@@ -85,12 +91,14 @@ jobs:
           SHABD: ${{ inputs.shabd }}
           FTS: ${{ inputs.fts }}
           HINDI: ${{ inputs.hindi }}
+          LABEL: ${{ inputs.label }}
+          QUOTES: ${{ inputs.quotes }}
           COURT: ${{ inputs.court }}
         run: |
           c=(); [ "$COURT" != "Dono" ] && c=(--court "$COURT")
-          python scripts/export_mudda.py --db "$RUNNER_TEMP/db/krishivlaw.db" --upvishay "$UPVISHAY" --shabd "$SHABD" --fts "$FTS" --hindi "$HINDI" --mudda "$MUDDA" \
+          python scripts/export_mudda.py --db "$RUNNER_TEMP/db/krishivlaw.db" --upvishay "$UPVISHAY" --shabd "$SHABD" --fts "$FTS" --hindi "$HINDI" --mudda "$MUDDA" --label "$LABEL" --quotes "$QUOTES" \
             --naam "$NAAM" --zikr "${c[@]}" --out "$RUNNER_TEMP/lists"
-          head -c 60000 "$RUNNER_TEMP"/lists/*.md >> "$GITHUB_STEP_SUMMARY"
+          head -c 60000 "$RUNNER_TEMP"/lists/*.md | head -c 60000 >> "$GITHUB_STEP_SUMMARY"
       - name: Data branch par save
         run: |
           git config --global user.name "krishivlaw-bot"

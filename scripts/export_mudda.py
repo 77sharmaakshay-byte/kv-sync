@@ -21,7 +21,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from export_vishay import advocates, judges, slug  # noqa: E402
 
 COLS = ["court", "case_no", "cite", "title", "date", "judges", "disposal", "nateeja", "vakil_pet", "vakil_res",
-        "hits", "judgment_id"]
+        "hits", "chhantai", "judgment_id"]
 
 
 def main():
@@ -36,6 +36,9 @@ def main():
     ap.add_argument("--naam", required=True, help="file ke naam ke liye chhota naam")
     ap.add_argument("--court", choices=["SC", "UKHC"])
     ap.add_argument("--zikr", action="store_true", help="zikr wale faisle bhi (warna sirf mukhya)")
+    ap.add_argument("--label", default="", help="is upvishay (machine ki chhantai, mukhya + zikr) ke saare faisle bhi "
+                                               "jodo, chahe shabd na milein — taaki koi na chhoote")
+    ap.add_argument("--quotes", type=int, default=4, help="har faisle ke kitne ansh")
     ap.add_argument("--out", required=True, type=Path)
     args = ap.parse_args()
     con = sqlite3.connect(f"file:{args.db}?mode=ro", uri=True)
@@ -59,6 +62,12 @@ def main():
         for w in filter(None, args.hindi.split("|")):
             ids |= {r[0] for r in con.execute("SELECT judgment_id FROM texts WHERE instr(clean, ?) > 0", (w,))}
             print(f"'{w}' ke baad {len(ids)}", flush=True)
+        label_ids = set()
+        if args.label:
+            label_ids = {r[0] for r in con.execute("SELECT DISTINCT judgment_id FROM labels WHERE upvishay = ?",
+                                                   (args.label,))}
+            ids |= label_ids
+            print(f"'{args.label}' chhantai ke saath {len(ids)}", flush=True)
         con.execute("CREATE TEMP TABLE pick (id INTEGER PRIMARY KEY)")
         con.executemany("INSERT INTO pick VALUES (?)", [(i,) for i in ids])
         sql = base + "JOIN pick ON pick.id = j.id WHERE 1"
@@ -67,19 +76,22 @@ def main():
         sql += " AND j.court = ?"
         params.append(args.court)
     shabd = re.compile(args.shabd, re.I) if args.shabd else None
+    label_ids = locals().get("label_ids", set())
     rows, blocks = [], []
     for jid, court, case_no, cite, title, date, jud, disp, nat in con.execute(sql, params).fetchall():
         t = con.execute("SELECT clean FROM texts WHERE judgment_id = ?", (jid,)).fetchone()
         text = re.sub(r"\s+", " ", t[0]) if t else ""
-        if shabd and not shabd.search(text):
+        keep = jid in label_ids
+        if shabd and not shabd.search(text) and not keep:
             continue
         hits = list(pat.finditer(text))
-        if not hits:
+        if not hits and not keep:
             continue
         pv, rv = advocates(text, case_no or "")
         r = dict(court=court, case_no=case_no or "", cite=cite or "", title=(title or "")[:150], date=date or "",
                  judges=judges(jud), disposal=disp or "", nateeja=nat or "", vakil_pet=pv, vakil_res=rv,
-                 hits=len(hits), judgment_id=jid)
+                 hits=len(hits), judgment_id=jid,
+                 chhantai="haan" if keep else "")
         rows.append(r)
         quotes, last = [], -10_000
         for m in hits:
@@ -87,7 +99,7 @@ def main():
                 continue
             quotes.append(text[max(0, m.start() - 450):m.end() + 450])
             last = m.start()
-            if len(quotes) >= 4:
+            if len(quotes) >= args.quotes:
                 break
         blocks.append((r, quotes, text[-1200:]))
 
