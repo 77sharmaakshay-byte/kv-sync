@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/206/2025:2025-06-06-001",
+ "title": "MONA VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "MONA VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/206/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-06-06",
+ "cnr": "UKHC010080412025",
+ "doc_kind": "judgment",
+ "order_type": "WPSB/206/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2B1uRbBHBf00k45U5IivVbKcDe%2F%2F54wGflC24QtZvQ6z&caseno=WPSB/206/2025&cCode=1&cino=UKHC010080412025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d0e1cd8eb268bc65a9c17b0cfa7e080d7da3ebdde368ee27e8f1c6805c610143",
+ "fetched_at": "2026-11-11T08:20:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

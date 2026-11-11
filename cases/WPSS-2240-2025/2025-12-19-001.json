@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2240/2025:2025-12-19-001",
+ "title": "MUKUL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MUKUL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2240/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-12-19",
+ "cnr": "UKHC010203092025",
+ "doc_kind": "order",
+ "order_type": "WPSS/2240/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6g%2Fqo7%2FM0BP7Y4co8qH3ExbuUNjKVFDwXKrcNY4pFz%2B&caseno=WPSS/2240/2025&cCode=1&cino=UKHC010203092025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f89e47be9b4fced7d4ab3800613405a4e8907c4e74db113f96ed987bde74d1ce",
+ "fetched_at": "2026-11-11T08:20:32+00:00",
+ "fetched_by": "fetch_live.py"
+}
