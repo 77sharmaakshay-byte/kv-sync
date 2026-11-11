@@ -5,7 +5,7 @@
 # Token: ~/nyay-search/timer/gh_token (GitHub secret DISPATCH_TOKEN; is repo ka Contents + Actions likhna).
 set -u
 D="$HOME/nyay-search/timer"
-REPO=$(cat "$D/repo" 2>/dev/null || echo "77sharmaakshay-byte/krishivlaw")   # mac-timer.yml likhta hai
+REPO=$(cat "$D/repo" 2>/dev/null || echo "77sharmaakshay-byte/kv-sync")   # mac-timer.yml likhta hai
 cd "$D" || exit 1
 log() { echo "$(date '+%F %T') $*" >> "$D/timer.log"; }
 TOKEN=$(cat "$D/gh_token" 2>/dev/null) || { log "gh_token nahi"; exit 1; }
