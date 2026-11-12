@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/87/2025:2025-06-09-002",
+ "title": "PRADEEP KUMAR versus DISTRICT MAGISTRATE",
+ "petitioner": "PRADEEP KUMAR",
+ "respondent": "DISTRICT MAGISTRATE",
+ "case_no": "SPA/87/2025",
+ "case_type": "SPA",
+ "decision_date": "2025-06-09",
+ "cnr": "UKHC010059822025",
+ "doc_kind": "order",
+ "order_type": "SPA/87/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1byX2U0bymvzpjCWa1ayGQ5wZNuP%2BohPJoC4h2Jdc1E&caseno=SPA/87/2025&cCode=1&cino=UKHC010059822025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "45c85f577bb6bb86fec8f3e40a629af2af4c4a641379461dda2c694be4f94a30",
+ "fetched_at": "2026-11-12T19:57:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

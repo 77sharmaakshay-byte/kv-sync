@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/45/2026:2026-10-31-001",
+ "title": "UTTARAKHAND PARA MEDICAL COUNCIL versus BHASKAR SINGH BISHT",
+ "petitioner": "UTTARAKHAND PARA MEDICAL COUNCIL",
+ "respondent": "BHASKAR SINGH BISHT",
+ "case_no": "SPA/45/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-10-31",
+ "cnr": "UKHC010029892026",
+ "doc_kind": "order",
+ "order_type": "SPA/45/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES AS DEFECTIVE -236",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQityEOwpzAbKLdTP7xNe%2FpgETupsMe2qmxRhhnZGdW1V&caseno=SPA/45/2026&cCode=1&cino=UKHC010029892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0c6483cd131d6f12784d132e9532d85815d4580b6a9ca7ee759742fd96ab5454",
+ "fetched_at": "2026-11-12T19:54:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

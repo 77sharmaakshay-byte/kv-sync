@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/60/2025:2025-03-11-001",
+ "title": "KULDEEP SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "KULDEEP SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/60/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-03-11",
+ "cnr": "UKHC010031912025",
+ "doc_kind": "order",
+ "order_type": "WPSB/60/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmyO8E9VS%2FJF3Aiu2QHyP6ytUymPBefPW6Grm0aYyJnv8&caseno=WPSB/60/2025&cCode=1&cino=UKHC010031912025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e24703add8e5141b8c9e3bf0dd17c57bc6f849088591ca0ef625aa9594dcec1",
+ "fetched_at": "2026-11-12T19:55:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/158/2025:2025-09-09-004",
+ "title": "PATANJALI FOOD AND HARBAL PARK PVT. LTD. versus M/S OM ENTERPRISES",
+ "petitioner": "PATANJALI FOOD AND HARBAL PARK PVT. LTD.",
+ "respondent": "M/S OM ENTERPRISES",
+ "case_no": "AO/158/2025",
+ "case_type": "AO",
+ "decision_date": "2025-09-09",
+ "cnr": "UKHC010069552025",
+ "doc_kind": "order",
+ "order_type": "AO/158/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm8DBGpdD6lDV0WLZnj2SNJsxl3ZpqXMNQEjlUZwHUdth&caseno=AO/158/2025&cCode=1&cino=UKHC010069552025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c294bb33ccac9e372caf9f6a740e94ca56eb1a42cb3d435bd472fa637699c4a1",
+ "fetched_at": "2026-11-12T19:56:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

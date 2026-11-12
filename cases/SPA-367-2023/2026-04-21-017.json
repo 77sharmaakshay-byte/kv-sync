@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/367/2023:2026-04-21-017",
+ "title": "SATEY SINGH RANA versus GARHWAL MANDAL VIKAS NIGAM LIMITED",
+ "petitioner": "SATEY SINGH RANA",
+ "respondent": "GARHWAL MANDAL VIKAS NIGAM LIMITED",
+ "case_no": "SPA/367/2023",
+ "case_type": "SPA",
+ "decision_date": "2026-04-21",
+ "cnr": "UKHC010184782023",
+ "doc_kind": "order",
+ "order_type": "SPA/367/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY48nEaZyb5dj3oa6ztgw2HyzGgRanj6PVnI5WE4ZSBvb&caseno=SPA/367/2023&cCode=1&cino=UKHC010184782023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "030bea46d708c45adc828d111f6df8c1ca24fcf11be4068a968988186081fa2b",
+ "fetched_at": "2026-11-12T19:56:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

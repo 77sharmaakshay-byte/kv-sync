@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/556/2026:2026-07-08-002",
+ "title": "M/S ECOTECH ENGINEERING COMPANY LTD versus UTTARAKHAND JAL SANSTHAN",
+ "petitioner": "M/S ECOTECH ENGINEERING COMPANY LTD",
+ "respondent": "UTTARAKHAND JAL SANSTHAN",
+ "case_no": "WPMB/556/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010115512026",
+ "doc_kind": "order",
+ "order_type": "WPMB/556/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQj0WBNhsc%2Fx3Ikc6%2BHMtlxGBndIpkJ6sz9Cuc3ODCRqb&caseno=WPMB/556/2026&cCode=1&cino=UKHC010115512026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9042ddfad87987bf3397854ce31961e9fb2217c2be0c88377d22cbb4c5d907a1",
+ "fetched_at": "2026-11-12T19:56:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

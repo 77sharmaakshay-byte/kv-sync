@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/386/2021:2026-04-07-012",
+ "title": "SHOBHA versus PRINCIPAL, HIGHER SECONDARY SCHOOL, HARIPUR KALAN (RAIWALA)",
+ "petitioner": "SHOBHA",
+ "respondent": "PRINCIPAL, HIGHER SECONDARY SCHOOL, HARIPUR KALAN (RAIWALA)",
+ "case_no": "SPA/386/2021",
+ "case_type": "SPA",
+ "decision_date": "2026-04-07",
+ "cnr": "UKHC010140122021",
+ "doc_kind": "order",
+ "order_type": "SPA/386/2021",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkFo87d2VO1a4krFO3dhEfZGwiIn4EmFllXLuW7l5SmKw&caseno=SPA/386/2021&cCode=1&cino=UKHC010140122021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "78ea9d16be7ccfa10a51a7d738021316b97c6cdbb080922c10da0aae2374b153",
+ "fetched_at": "2026-11-12T19:58:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

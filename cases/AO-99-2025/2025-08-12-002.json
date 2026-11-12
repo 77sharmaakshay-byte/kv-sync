@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/99/2025:2025-08-12-002",
+ "title": "M/S KOHLI ENTERPRISES THROUGH PROPRIETOR versus M/S ROOTS MULTICLEAN LTD",
+ "petitioner": "M/S KOHLI ENTERPRISES THROUGH PROPRIETOR",
+ "respondent": "M/S ROOTS MULTICLEAN LTD",
+ "case_no": "AO/99/2025",
+ "case_type": "AO",
+ "decision_date": "2025-08-12",
+ "cnr": "UKHC010046352025",
+ "doc_kind": "order",
+ "order_type": "AO/99/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2BbyCBPspby0186jJlBPdxiVXHeNYz6EACp%2BEwADIcVk&caseno=AO/99/2025&cCode=1&cino=UKHC010046352025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e9ac3a0948439d0790643eef429f788e46e8b1bee32ca87d0494c06188f8abe",
+ "fetched_at": "2026-11-12T19:57:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

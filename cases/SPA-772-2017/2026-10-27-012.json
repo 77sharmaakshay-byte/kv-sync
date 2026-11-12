@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/772/2017:2026-10-27-012",
+ "title": "State Of Uttarakhand AND OTHERS versus Manoj Kumar AND OTHERS",
+ "petitioner": "State Of Uttarakhand AND OTHERS",
+ "respondent": "Manoj Kumar AND OTHERS",
+ "case_no": "SPA/772/2017",
+ "case_type": "SPA",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010047572017",
+ "doc_kind": "order",
+ "order_type": "SPA/772/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShxCw0Im0XKv8pqltLCJ%2F93VXz0HXaQoszfrDrwYrkVpa&caseno=SPA/772/2017&cCode=1&cino=UKHC010047572017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d5ee38b0f005f45f8ff5375bdc5dd3ad3c7342d48565090db6c25cb988b86a3d",
+ "fetched_at": "2026-11-12T19:57:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

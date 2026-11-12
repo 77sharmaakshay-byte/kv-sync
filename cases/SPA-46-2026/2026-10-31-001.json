@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/46/2026:2026-10-31-001",
+ "title": "UTTARAKHAND PARA MEDICAL COUNCIL versus PRASHANT NAUTIYAL",
+ "petitioner": "UTTARAKHAND PARA MEDICAL COUNCIL",
+ "respondent": "PRASHANT NAUTIYAL",
+ "case_no": "SPA/46/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-10-31",
+ "cnr": "UKHC010030032026",
+ "doc_kind": "order",
+ "order_type": "SPA/46/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES AS DEFECTIVE -236",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtcrY4pzEVLfTyYM0llm%2BoRDzvF5lTfYb1hZVoAeG2fM&caseno=SPA/46/2026&cCode=1&cino=UKHC010030032026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7f692e62a5cdfe2bd24a5886a27d36e5c040bf5c6ca7d7bded7636171723c505",
+ "fetched_at": "2026-11-12T19:53:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/403/2025:2025-09-19-002",
+ "title": "MAHENDRA KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHENDRA KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/403/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-09-19",
+ "cnr": "UKHC010148352025",
+ "doc_kind": "order",
+ "order_type": "WPSB/403/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm6YsysW0JxONEHpBrnqI3uqYQtJ14ZlGbg5QM5Oh8lwq&caseno=WPSB/403/2025&cCode=1&cino=UKHC010148352025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8f2da13f718c6c78409e86813828a69ca181aebf59f0c7cd252cd0951bb944ee",
+ "fetched_at": "2026-11-12T19:55:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

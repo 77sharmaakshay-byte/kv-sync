@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/150/2025:2025-05-13-001",
+ "title": "RAMESH CHANDRA TRIPATHI versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMESH CHANDRA TRIPATHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/150/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-05-13",
+ "cnr": "UKHC010065772025",
+ "doc_kind": "order",
+ "order_type": "WPSB/150/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3CbPwIMXjFHtZddG2vZGUhbpfskJcNWE1UP3lT3tZdO&caseno=WPSB/150/2025&cCode=1&cino=UKHC010065772025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cccee442ab2b85d29f06423662b0e335f4699cf3795ad13792942093da39fee5",
+ "fetched_at": "2026-11-12T19:54:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

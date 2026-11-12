@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/341/2024:2024-09-18-002",
+ "title": "JABAR SINGH versus GARHWAL MANDAL VIKAS NIGAM LTD",
+ "petitioner": "JABAR SINGH",
+ "respondent": "GARHWAL MANDAL VIKAS NIGAM LTD",
+ "case_no": "AO/341/2024",
+ "case_type": "AO",
+ "decision_date": "2024-09-18",
+ "cnr": "UKHC010130722024",
+ "doc_kind": "order",
+ "order_type": "AO/341/2024",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcPpgntR5S%2B%2BC9ntQF0wNYuec1xLmSlyB9N9VevpIJF5e&caseno=AO/341/2024&cCode=1&cino=UKHC010130722024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "03eb70bc763aacb5eb9b4e8dd749c28d30be890bb829744ff761575484706bf2",
+ "fetched_at": "2026-11-12T19:56:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

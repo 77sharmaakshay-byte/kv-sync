@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/382/2023:2024-02-13-001",
+ "title": "MUNICIPAL CORPORATION HARIDWAR versus MS CASA GREEN BKNSSS PRIVATE LIMITED GALI HIMGIRL",
+ "petitioner": "MUNICIPAL CORPORATION HARIDWAR",
+ "respondent": "MS CASA GREEN BKNSSS PRIVATE LIMITED GALI HIMGIRL",
+ "case_no": "AO/382/2023",
+ "case_type": "AO",
+ "decision_date": "2024-02-13",
+ "cnr": "UKHC010154002023",
+ "doc_kind": "order",
+ "order_type": "AO/382/2023",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYwU4gTpvxyWX5nv6e5L9HvkfeFRgzmqM1AMdUbaMyLzg&caseno=AO/382/2023&cCode=1&cino=UKHC010154002023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1f448da5ec67f429cea0a72b2548fb95f27e7cec01c185d0a435ad9511eedbbc",
+ "fetched_at": "2026-11-12T19:56:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

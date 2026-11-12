@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/705/2026:2026-11-05-001",
+ "title": "STATE OF UTTARAKHAND versus ARVIND KUMAR SATAVARIYA",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "ARVIND KUMAR SATAVARIYA",
+ "case_no": "WPSB/705/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-11-05",
+ "cnr": "UKHC010197432026",
+ "doc_kind": "order",
+ "order_type": "WPSB/705/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrTLlZxGxIiYRn0%2FyuBxZNuvXe0qe9k4FRx2dFEfPaC6&caseno=WPSB/705/2026&cCode=1&cino=UKHC010197432026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1250b246a4dfbf844126ccc964d7f8df87f6ce65ef99f44af55f8be843fa6720",
+ "fetched_at": "2026-11-12T19:53:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

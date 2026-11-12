@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/174/2026:2026-05-21-001",
+ "title": "ANUJ SINGH CHAUHAN versus COMMITTEE OF MANAGEMENT RASHTRIYA INTER COLLEGE ROHALKI",
+ "petitioner": "ANUJ SINGH CHAUHAN",
+ "respondent": "COMMITTEE OF MANAGEMENT RASHTRIYA INTER COLLEGE ROHALKI",
+ "case_no": "SPA/174/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-05-21",
+ "cnr": "UKHC010082582026",
+ "doc_kind": "order",
+ "order_type": "SPA/174/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp9DFsNzDnMeTYfwmKkaVeumL9la6ZVT2CpurQqQ1wR5&caseno=SPA/174/2026&cCode=1&cino=UKHC010082582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3f060b46b6bcd2ab4c90ad61fc65e6ba468c7d0e05a9b4579360974a82fa9482",
+ "fetched_at": "2026-11-12T19:57:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

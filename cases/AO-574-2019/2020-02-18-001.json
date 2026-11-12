@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/574/2019:2020-02-18-001",
+ "title": "M/S COMBINED TRADERS(Legal Heir) versus UNION OF INDIA",
+ "petitioner": "M/S COMBINED TRADERS(Legal Heir)",
+ "respondent": "UNION OF INDIA",
+ "case_no": "AO/574/2019",
+ "case_type": "AO",
+ "decision_date": "2020-02-18",
+ "cnr": "UKHC010209812019",
+ "doc_kind": "order",
+ "order_type": "AO/574/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia,Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4TwCuJO8ZBbW2o%2Bcur%2FnrOnLZA5y1Eq%2FbVAN3%2F0rViy&caseno=AO/574/2019&cCode=1&cino=UKHC010209812019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "39c457e93596c2452bfade96797627e1d5c6134d404f91447e1ce19655217b02",
+ "fetched_at": "2026-11-12T19:56:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

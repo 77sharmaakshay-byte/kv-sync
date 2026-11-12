@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/216/2020:2023-03-29-003",
+ "title": "EXECUTIVE ENGINEER CIVIL WORKS UNIT versus M/S GOSAIN COINSTRUCTION COMPANY",
+ "petitioner": "EXECUTIVE ENGINEER CIVIL WORKS UNIT",
+ "respondent": "M/S GOSAIN COINSTRUCTION COMPANY",
+ "case_no": "AO/216/2020",
+ "case_type": "AO",
+ "decision_date": "2023-03-29",
+ "cnr": "UKHC010107582020",
+ "doc_kind": "order",
+ "order_type": "AO/216/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjA1%2Fj3nm8LmYOfamgfSt8yLPsE1rjCU0LPE3QlyRHvzq&caseno=AO/216/2020&cCode=1&cino=UKHC010107582020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb0cc60bb7ec271ebc1692f95e4ce8e8d492145f15c945e4bc62bcc032fb9d88",
+ "fetched_at": "2026-11-12T19:55:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

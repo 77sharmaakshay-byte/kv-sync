@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/950/2026:2026-11-06-001",
+ "title": "M/S PARWATIYA CONSTRUCTIONS versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S PARWATIYA CONSTRUCTIONS",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/950/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-11-06",
+ "cnr": "UKHC010202382026",
+ "doc_kind": "order",
+ "order_type": "WPMB/950/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQl7exBJ4CxX0wNU3%2FBc2HMshuEyn9Frba85Nqg225f7l&caseno=WPMB/950/2026&cCode=1&cino=UKHC010202382026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a6c7e975059395b6931769f4794dbfe34111c85f721eb84d84e2cee3a044b4b9",
+ "fetched_at": "2026-11-12T19:53:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

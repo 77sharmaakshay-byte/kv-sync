@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/136/2023:2026-05-06-009",
+ "title": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY versus UNION OF INDIA",
+ "petitioner": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPPIL/136/2023",
+ "case_type": "WPPIL",
+ "decision_date": "2026-05-06",
+ "cnr": "UKHC010137872023",
+ "doc_kind": "order",
+ "order_type": "WPPIL/136/2023",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYyaR2j2BYUIJeHWPocIlK1j4VW0pWHU9UjRe8j3QtAvw&caseno=WPPIL/136/2023&cCode=1&cino=UKHC010137872023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "18c09010c469c1daec796fcd40d5f74009499495fd31716162fd027b489ae69a",
+ "fetched_at": "2026-11-12T19:54:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

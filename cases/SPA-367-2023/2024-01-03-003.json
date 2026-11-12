@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/367/2023:2024-01-03-003",
+ "title": "SATEY SINGH RANA versus GARHWAL MANDAL VIKAS NIGAM LIMITED",
+ "petitioner": "SATEY SINGH RANA",
+ "respondent": "GARHWAL MANDAL VIKAS NIGAM LIMITED",
+ "case_no": "SPA/367/2023",
+ "case_type": "SPA",
+ "decision_date": "2024-01-03",
+ "cnr": "UKHC010184782023",
+ "doc_kind": "order",
+ "order_type": "SPA/367/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY48nEaZyb5dj3oa6ztgw2HyhzUBvdkkyWXiLEB6URF9c&caseno=SPA/367/2023&cCode=1&cino=UKHC010184782023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "26ef4a189260cc54cbbab2af1889766f8e78d02ca85c7a43a6a084787cf3a12b",
+ "fetched_at": "2026-11-12T19:56:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

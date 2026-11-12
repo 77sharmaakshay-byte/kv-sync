@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/47/2026:2026-10-31-001",
+ "title": "UTTARAKHAND PARA MEDICAL COUNCIL versus PAWAN CHANDRA JOSHI",
+ "petitioner": "UTTARAKHAND PARA MEDICAL COUNCIL",
+ "respondent": "PAWAN CHANDRA JOSHI",
+ "case_no": "SPA/47/2026",
+ "case_type": "SPA",
+ "decision_date": "2026-10-31",
+ "cnr": "UKHC010030002026",
+ "doc_kind": "order",
+ "order_type": "SPA/47/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FRESH CASES AS DEFECTIVE -236",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpPnqj9tYWw7x5B4Fxu8vHoZAE1VwkUtCFTWYTH4g7Ar&caseno=SPA/47/2026&cCode=1&cino=UKHC010030002026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7f69a8fc382a7fc571068c4f455cdf498a5ce074bb066e03d1f0caf74de7ab52",
+ "fetched_at": "2026-11-12T19:54:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

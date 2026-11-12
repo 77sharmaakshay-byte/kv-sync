@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/122/2025:2026-06-01-004",
+ "title": "RICHA PANWAR versus CHIEF GENERAL MANAGER",
+ "petitioner": "RICHA PANWAR",
+ "respondent": "CHIEF GENERAL MANAGER",
+ "case_no": "WPSB/122/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-01",
+ "cnr": "UKHC010048152025",
+ "doc_kind": "order",
+ "order_type": "WPSB/122/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9deRgEfRYZrdMJJjb8PUxj1r5HGVf1xFa7uQGEkSDrP&caseno=WPSB/122/2025&cCode=1&cino=UKHC010048152025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "06730dec48d6b6f856c1d19f9f90c3752ab33410f11cb861b55e7fce1a71714c",
+ "fetched_at": "2026-11-12T19:55:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/177/2022:2026-11-04-006",
+ "title": "KIRTI SHARAN AGARWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KIRTI SHARAN AGARWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/177/2022",
+ "case_type": "SPA",
+ "decision_date": "2026-11-04",
+ "cnr": "UKHC010086732022",
+ "doc_kind": "order",
+ "order_type": "SPA/177/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0w9F34XuAA9FndyknI52VJK6d6hx4ivIyV2t1f20afTz&caseno=SPA/177/2022&cCode=1&cino=UKHC010086732022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "19e3d3e4a6e254c8f73fa6a730b16decc60f44cf3c48b2accd4fa453ab617daf",
+ "fetched_at": "2026-11-12T19:55:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

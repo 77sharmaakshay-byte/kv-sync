@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/286/2024:2024-07-30-001",
+ "title": "M/S SHRIPATI BEVERAGE PVT. LTD. versus M/S B.K. AQUA ENTERPRISES",
+ "petitioner": "M/S SHRIPATI BEVERAGE PVT. LTD.",
+ "respondent": "M/S B.K. AQUA ENTERPRISES",
+ "case_no": "AO/286/2024",
+ "case_type": "AO",
+ "decision_date": "2024-07-30",
+ "cnr": "UKHC010111572024",
+ "doc_kind": "order",
+ "order_type": "AO/286/2024",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcEkJgUtnAQbaUe%2F3a4TaPkuh%2FYHBdj%2B571Z0hkYI7AaQ&caseno=AO/286/2024&cCode=1&cino=UKHC010111572024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c38a5d87132e3e08f49d36f3274e5fdb01bd0f94d4974c8648a03cf7288a367e",
+ "fetched_at": "2026-11-12T19:56:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

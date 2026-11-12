@@ -6,11 +6,11 @@
  "registration_number": "SPA /247/2026",
  "registration_date": "2026-06-05",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-31",
+ "next_hearing_date": "2026-11-17",
  "decision_date": null,
- "case_stage": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
- "coram": "Registrar (Judicial)",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -72,6 +72,13 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-31",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Registrar (Judicial)",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {

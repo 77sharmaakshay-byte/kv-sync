@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/446/2025:2026-01-05-001",
+ "title": "STATE OF UTTARAKHAND versus COMMITTEE OF MANAGEMENT DRONA JUNIOR HIGH SCHOOL",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "COMMITTEE OF MANAGEMENT DRONA JUNIOR HIGH SCHOOL",
+ "case_no": "SPA/446/2025",
+ "case_type": "SPA",
+ "decision_date": "2026-01-05",
+ "cnr": "UKHC010209122025",
+ "doc_kind": "order",
+ "order_type": "SPA/446/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm4HdlVIQro%2BiagShhtwXR61Ngr1zNL41FvYlOCcBrNT6&caseno=SPA/446/2025&cCode=1&cino=UKHC010209122025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f27e8da5716d95f5ce405ae4bc18b53bed671813f2cf05094b0d258b1af1648c",
+ "fetched_at": "2026-11-12T19:56:50+00:00",
+ "fetched_by": "fetch_live.py"
+}
