@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/7/2026:2026-10-06-004",
+ "title": "SANJAY KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SANJAY KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/7/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-10-06",
+ "cnr": "UKHC010001342026",
+ "doc_kind": "order",
+ "order_type": "WPSB/7/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuVHe6OdVZQ5uWCdp9%2FhyZJGt9BOjPOTTvRAHaZE3oTT&caseno=WPSB/7/2026&cCode=1&cino=UKHC010001342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "be30c6db4d8153549c7b0b7e1a99b4235d7d79811703992dc0040a5bdb63b7bf",
+ "fetched_at": "2026-11-12T02:47:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

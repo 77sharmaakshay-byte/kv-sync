@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/906/2026:2026-10-30-001",
+ "title": "FAKHRUDDIN ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "FAKHRUDDIN ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/906/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010191092026",
+ "doc_kind": "order",
+ "order_type": "WPMB/906/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiHAdkW21Eo21bdFHPeC7sZ1SRcudc5z%2BaEQWJxMeIF5&caseno=WPMB/906/2026&cCode=1&cino=UKHC010191092026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3f7c1e8eed61e804d86ba5ca783f230276834cb1250275560ab0361d41e00411",
+ "fetched_at": "2026-11-12T02:43:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

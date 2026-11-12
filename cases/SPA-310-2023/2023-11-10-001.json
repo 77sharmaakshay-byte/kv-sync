@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/310/2023:2023-11-10-001",
+ "title": "UTTARAKHAND AYURVEDA UNIVERSITY versus HARIDWAR AYURVEDIC MEDICAL COLLEGE AND RESEARCH CENTRE",
+ "petitioner": "UTTARAKHAND AYURVEDA UNIVERSITY",
+ "respondent": "HARIDWAR AYURVEDIC MEDICAL COLLEGE AND RESEARCH CENTRE",
+ "case_no": "SPA/310/2023",
+ "case_type": "SPA",
+ "decision_date": "2023-11-10",
+ "cnr": "UKHC010131452023",
+ "doc_kind": "order",
+ "order_type": "SPA/310/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY6lOBy1dFt1uHawj5g6ax%2BRJJQSrCZz%2FfKjYnnfSgmsL&caseno=SPA/310/2023&cCode=1&cino=UKHC010131452023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c874aaf694f256cc86737e8b9da60f02dc59d97824cdaa590e5b2895c67f18a3",
+ "fetched_at": "2026-11-12T02:43:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

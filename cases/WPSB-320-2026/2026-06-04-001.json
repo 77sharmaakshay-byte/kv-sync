@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/320/2026:2026-06-04-001",
+ "title": "KESHAR SINGH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "KESHAR SINGH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/320/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-04",
+ "cnr": "UKHC010096052026",
+ "doc_kind": "order",
+ "order_type": "WPSB/320/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiC5LZ7yYwnKOpdDXByQ1am3BGD5irBaZKqHqKaEBPvy&caseno=WPSB/320/2026&cCode=1&cino=UKHC010096052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dae859aa7909fd02cc14c81c7e2d9322e13fd2f3691b4b1f5115c21303a64253",
+ "fetched_at": "2026-11-12T02:46:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

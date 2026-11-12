@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/29/2026:2026-02-18-001",
+ "title": "KEDAR DUTT versus UNION OF INDIA",
+ "petitioner": "KEDAR DUTT",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSB/29/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-18",
+ "cnr": "UKHC010006902026",
+ "doc_kind": "order",
+ "order_type": "WPSB/29/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjiOmLEegiN5llz1gS6LAdx%2BgF2KJY%2FDVF1MRFFiRza1&caseno=WPSB/29/2026&cCode=1&cino=UKHC010006902026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ba3c193c13d67ccf336124ad01bf10eae573d1f1b6a8b3661f116bfc1aea8c20",
+ "fetched_at": "2026-11-12T02:45:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

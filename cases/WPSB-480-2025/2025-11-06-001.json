@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/480/2025:2025-11-06-001",
+ "title": "GANESH SINGH JYALA versus STATE OF UTTARAKHAND",
+ "petitioner": "GANESH SINGH JYALA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/480/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-11-06",
+ "cnr": "UKHC010174082025",
+ "doc_kind": "order",
+ "order_type": "WPSB/480/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmw57mvzDLHrCTRB72Pp4k56rGcoEvbR8kMKX8FmFgfv5&caseno=WPSB/480/2025&cCode=1&cino=UKHC010174082025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f73090f72db5d5af0c01269f719366003543bc4a822c26485ca8c62735fc2691",
+ "fetched_at": "2026-11-12T02:46:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

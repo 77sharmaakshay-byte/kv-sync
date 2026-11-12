@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/756/2024:2026-09-24-015",
+ "title": "KESHVA NAND versus UNION OF INDIA",
+ "petitioner": "KESHVA NAND",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSB/756/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010190692024",
+ "doc_kind": "order",
+ "order_type": "WPSB/756/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcEjHnAe81jf7%2BMMmsEVQ9JFFfHoO8qg3SIJZe99ODUnQ&caseno=WPSB/756/2024&cCode=1&cino=UKHC010190692024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "eab07dde7b08272a9445036275f5daa14d1564bddf2353e215de137c8ff06d26",
+ "fetched_at": "2026-11-12T02:46:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

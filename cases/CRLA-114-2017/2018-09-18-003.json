@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/114/2017:2018-09-18-003",
+ "title": "RAVISH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVISH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/114/2017",
+ "case_type": "CRLA",
+ "decision_date": "2018-09-18",
+ "cnr": "UKHC010047012017",
+ "doc_kind": "order",
+ "order_type": "CRLA/114/2017",
+ "judges": [
+  "Hon'ble Mr. Justice V. K. Bist,Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShymhgahhAuPXU0tW8iGRxSvDzEubIMEa83dirsRkwoii&caseno=CRLA/114/2017&cCode=1&cino=UKHC010047012017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8f328023013e420a6548c16544356a5a9e380b808db5c0292f15bf2959abfca7",
+ "fetched_at": "2026-11-12T02:54:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/15/2026:2026-01-07-001",
+ "title": "RAHUL BAHUGUNA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL BAHUGUNA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/15/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-01-07",
+ "cnr": "UKHC010002202026",
+ "doc_kind": "order",
+ "order_type": "WPSB/15/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlRrBxLSVv4jroJjECUj21xcUwUKof4AL%2BKjpGlVBExM&caseno=WPSB/15/2026&cCode=1&cino=UKHC010002202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "35099f32f631797c04348f27215e98f1789c2869ca3adca480675dada2182824",
+ "fetched_at": "2026-11-12T02:47:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

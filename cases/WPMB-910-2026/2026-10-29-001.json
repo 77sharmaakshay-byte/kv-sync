@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/910/2026:2026-10-29-001",
+ "title": "ASHA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "ASHA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/910/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010191102026",
+ "doc_kind": "order",
+ "order_type": "WPMB/910/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpTBWTz6gtWdF8rNoz7VknTd78g%2FVm2X60iaXYQDNVlZ&caseno=WPMB/910/2026&cCode=1&cino=UKHC010191102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3906e8272295966f93fb97f48e933eda5b819f3c8647e836825ce943330674a5",
+ "fetched_at": "2026-11-12T02:43:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

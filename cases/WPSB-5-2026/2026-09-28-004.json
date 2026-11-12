@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/5/2026:2026-09-28-004",
+ "title": "MOHD SAAQIB versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD SAAQIB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/5/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010001382026",
+ "doc_kind": "order",
+ "order_type": "WPSB/5/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmQvvpPhoA0an8DxFcezAD%2F%2BLKYa10vnGMViVIEoPX60&caseno=WPSB/5/2026&cCode=1&cino=UKHC010001382026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "11803b778cb3c83a309da1f90369479668d1459a58bbb8c8c380b04e4629a75f",
+ "fetched_at": "2026-11-12T02:46:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/24/2026:2026-08-24-007",
+ "title": "SUNITA PANDEY versus STATE OF UTTARAKHAND",
+ "petitioner": "SUNITA PANDEY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/24/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-24",
+ "cnr": "UKHC010004422026",
+ "doc_kind": "order",
+ "order_type": "WPSB/24/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL DISPOSAL -48",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhv4yHcygFo79AkDnUnqY0ulTfrYufPRdZFP3zlRpkFp&caseno=WPSB/24/2026&cCode=1&cino=UKHC010004422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "59697d5577397a0b5d7ef12dd49994f61843369ac58e8785185f764e8a98eaa0",
+ "fetched_at": "2026-11-12T02:44:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

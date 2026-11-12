@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/13/2026:2026-02-16-003",
+ "title": "MONIKA GUPTA versus STATE OF UTTARAKHAND",
+ "petitioner": "MONIKA GUPTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/13/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010002092026",
+ "doc_kind": "order",
+ "order_type": "IA/1/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnUfrzMup4uscUOu9cGtwg5n1XOHs%2FIockjFOwmEGO79&caseno=WPSB/13/2026&cCode=1&cino=UKHC010002092026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4277d1290bbccf1c659e3afeca3090741c9c7631ebe69be5fa60ef5ce1422943",
+ "fetched_at": "2026-11-12T02:48:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/435/2026:2026-07-13-001",
+ "title": "Shivendra Pratap Singh versus State of Uttarakhand",
+ "petitioner": "Shivendra Pratap Singh",
+ "respondent": "State of Uttarakhand",
+ "case_no": "WPSB/435/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-07-13",
+ "cnr": "UKHC010120122026",
+ "doc_kind": "order",
+ "order_type": "WPSB/435/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL DISPOSAL -48",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgoPv%2BSsxHFqTBm8wJ6Yj68Fvj36wKwLcNERgGYWJFS3&caseno=WPSB/435/2026&cCode=1&cino=UKHC010120122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9c5119c739b617ff5bc6585ebcd3965c2d5668e5409661299bc1e14e09c94161",
+ "fetched_at": "2026-11-12T02:45:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

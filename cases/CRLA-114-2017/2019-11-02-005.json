@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/114/2017:2019-11-02-005",
+ "title": "RAVISH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVISH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/114/2017",
+ "case_type": "CRLA",
+ "decision_date": "2019-11-02",
+ "cnr": "UKHC010047012017",
+ "doc_kind": "order",
+ "order_type": "CRLA/114/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShymhgahhAuPXU0tW8iGRxSsoNpb1Px8LfXzbaoZWmEG7&caseno=CRLA/114/2017&cCode=1&cino=UKHC010047012017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c79ca9ea0eba2f18679ded52f972375ea68c5f8a3f3d56ebc5816f4387333370",
+ "fetched_at": "2026-11-12T02:54:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/908/2026:2026-10-30-001",
+ "title": "RADHA DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "RADHA DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/908/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010191122026",
+ "doc_kind": "order",
+ "order_type": "WPMB/908/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgflynXShFAfz6PXVNAlnN%2FqzhzjLCnViZGDF1j%2BDHFy&caseno=WPMB/908/2026&cCode=1&cino=UKHC010191122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2f4d12e475ae243e3b8200836167fede0da373343b4a70f390f51710f7a3c022",
+ "fetched_at": "2026-11-12T02:45:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

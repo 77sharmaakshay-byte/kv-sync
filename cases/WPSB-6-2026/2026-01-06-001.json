@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/6/2026:2026-01-06-001",
+ "title": "ANSHIKA GOYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "ANSHIKA GOYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/6/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-01-06",
+ "cnr": "UKHC010001362026",
+ "doc_kind": "order",
+ "order_type": "WPSB/6/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsox562mdrZwD8Fhwfk5YReDiu6cMeVe1k4CTGaBX9xM&caseno=WPSB/6/2026&cCode=1&cino=UKHC010001362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c9c68dd63378f9c2c4bc77bf200744fc4c805b56440fd1346590850893702847",
+ "fetched_at": "2026-11-12T02:47:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

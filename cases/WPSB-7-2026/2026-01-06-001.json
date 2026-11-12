@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/7/2026:2026-01-06-001",
+ "title": "SANJAY KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SANJAY KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/7/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-01-06",
+ "cnr": "UKHC010001342026",
+ "doc_kind": "order",
+ "order_type": "WPSB/7/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuVHe6OdVZQ5uWCdp9%2FhyZKWlVp7bIMR3r3on6apgAA9&caseno=WPSB/7/2026&cCode=1&cino=UKHC010001342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a4b72ebbc8a1cf535a5ebcbf8cba02b6136c73b6b8a27e3c3f27dc5ac39dcfcb",
+ "fetched_at": "2026-11-12T02:47:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

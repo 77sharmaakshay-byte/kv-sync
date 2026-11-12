@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2820/2026:2026-09-21-001",
+ "title": "MADAN LAL versus SATPAL @ SATYAPAL",
+ "petitioner": "MADAN LAL",
+ "respondent": "SATPAL @ SATYAPAL",
+ "case_no": "WPMS/2820/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010164762026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2820/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQquLmaHgY2U3C6MXXZEwf543KWjdQrGsQIjnCOOYdm8R&caseno=WPMS/2820/2026&cCode=1&cino=UKHC010164762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6f4eef3d1b856ef338fcdce7c5f5da8e8be635a74f994f6cc76bf049a7c1fb13",
+ "fetched_at": "2026-11-12T02:52:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

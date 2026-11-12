@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/12/2023:2023-01-12-001",
+ "title": "POONAM TIWARI versus STATE OF UTTARAKHAND",
+ "petitioner": "POONAM TIWARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/12/2023",
+ "case_type": "SPA",
+ "decision_date": "2023-01-12",
+ "cnr": "UKHC010006552023",
+ "doc_kind": "order",
+ "order_type": "SPA/12/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3YBRD%2B9U1N4lIHTQdKRQ%2BhDTcFNqNlf9P8PFQk%2F71n%2B&caseno=SPA/12/2023&cCode=1&cino=UKHC010006552023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f5b7c3dccee97729d38d4e55ecc0cf4ecdd1971878b2f2fa07accd76b0b0d387",
+ "fetched_at": "2026-11-12T02:43:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

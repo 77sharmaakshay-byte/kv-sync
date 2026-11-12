@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/505/2025:2025-12-01-001",
+ "title": "ANUPRIYA RAI versus UNION PUBLIC SERVICE COMMISSION",
+ "petitioner": "ANUPRIYA RAI",
+ "respondent": "UNION PUBLIC SERVICE COMMISSION",
+ "case_no": "WPSB/505/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-12-01",
+ "cnr": "UKHC010186592025",
+ "doc_kind": "order",
+ "order_type": "WPSB/505/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2k3sa8Rte0MCII2Nju0sxl5XyxE9YuEgns%2BoQJQ4QHu&caseno=WPSB/505/2025&cCode=1&cino=UKHC010186592025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "917fc81a5e6ffaa75cd40a7edf3ae2141d93131e698550bbb7669273f5605a86",
+ "fetched_at": "2026-11-12T02:47:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/14/2026:2026-02-16-003",
+ "title": "VIKAS CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "VIKAS CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/14/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010002082026",
+ "doc_kind": "order",
+ "order_type": "IA/1/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQukPX93RogQIj4FWJKT7bTy5LHjBtW3LnQ4iDPWCm7wZ&caseno=WPSB/14/2026&cCode=1&cino=UKHC010002082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6729b932bcd134fc7de6f36233f2c79cb326b333895800bad37a0e271933490a",
+ "fetched_at": "2026-11-12T02:47:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/505/2025:2026-08-31-005",
+ "title": "ANUPRIYA RAI versus UNION PUBLIC SERVICE COMMISSION",
+ "petitioner": "ANUPRIYA RAI",
+ "respondent": "UNION PUBLIC SERVICE COMMISSION",
+ "case_no": "WPSB/505/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010186592025",
+ "doc_kind": "order",
+ "order_type": "IA/4/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm2k3sa8Rte0MCII2Nju0sxmjaooerJHGVcD3A8z1L29U&caseno=WPSB/505/2025&cCode=1&cino=UKHC010186592025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dbe131f1ad94eac0d5bca7dc0febf5af67715782cefa405889f6700b8574308d",
+ "fetched_at": "2026-11-12T02:47:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

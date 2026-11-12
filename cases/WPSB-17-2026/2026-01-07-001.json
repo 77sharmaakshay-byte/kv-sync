@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/17/2026:2026-01-07-001",
+ "title": "VIJAY SINGH BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY SINGH BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/17/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-01-07",
+ "cnr": "UKHC010002182026",
+ "doc_kind": "order",
+ "order_type": "WPSB/17/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtOAVPbm4vAIsmDLuSRR8WimoypmRnQepstda8FVUfLC&caseno=WPSB/17/2026&cCode=1&cino=UKHC010002182026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0060f57c5863284b1c94a69bc62c9f81bdd27355d59324a58b1cfbc9ad62ac6f",
+ "fetched_at": "2026-11-12T02:48:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

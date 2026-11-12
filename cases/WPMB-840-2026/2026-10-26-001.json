@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/840/2026:2026-10-26-001",
+ "title": "M/S IRCON INTERNATIONAL LIMITED versus JOINT COMMISSIONER",
+ "petitioner": "M/S IRCON INTERNATIONAL LIMITED",
+ "respondent": "JOINT COMMISSIONER",
+ "case_no": "WPMB/840/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-26",
+ "cnr": "UKHC010174032026",
+ "doc_kind": "order",
+ "order_type": "WPMB/840/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjK5dcZQAZStHZBr9ynP4ZHLUS3w2CrVOjiVlXSG1C7V&caseno=WPMB/840/2026&cCode=1&cino=UKHC010174032026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4fbc5413fc662a962df16a896932cd2fa1d5a64c1587e3950c54a4d55b267f85",
+ "fetched_at": "2026-11-12T02:48:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

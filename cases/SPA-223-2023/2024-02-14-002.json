@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/223/2023:2024-02-14-002",
+ "title": "VIPIN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "VIPIN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/223/2023",
+ "case_type": "SPA",
+ "decision_date": "2024-02-14",
+ "cnr": "UKHC010099592023",
+ "doc_kind": "order",
+ "order_type": "SPA/223/2023",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY05fwLf%2BU0EWNj7YxiTmoOei%2Fii2Kn5tXExk3sf5fML6&caseno=SPA/223/2023&cCode=1&cino=UKHC010099592023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "10f789468865012bc5f2f01d0ed85e495f923d711d2c75b2dda411d064375081",
+ "fetched_at": "2026-11-12T02:43:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

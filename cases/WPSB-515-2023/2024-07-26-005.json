@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/515/2023:2024-07-26-005",
+ "title": "RAJNEESH BHUTANI versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJNEESH BHUTANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/515/2023",
+ "case_type": "WPSB",
+ "decision_date": "2024-07-26",
+ "cnr": "UKHC010185202023",
+ "doc_kind": "order",
+ "order_type": "WPSB/515/2023",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY5A6qfCmbuNBHc9GOCaSP8cXQX3fGOsq4BMRhd%2FmCK4B&caseno=WPSB/515/2023&cCode=1&cino=UKHC010185202023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b84a1380ad181eab5ac034b007d5d8a7b569d3ebb14dfd69a5601e01650573fe",
+ "fetched_at": "2026-11-12T02:43:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

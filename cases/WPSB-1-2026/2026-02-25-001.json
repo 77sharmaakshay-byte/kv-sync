@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/1/2026:2026-02-25-001",
+ "title": "RAHUL JUGRAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL JUGRAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/1/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-25",
+ "cnr": "UKHC010000102026",
+ "doc_kind": "order",
+ "order_type": "WPSB/1/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkO0sQVxtXNrsIzFAJJnBKX%2FwLVDCkaq6LApY9XulvBN&caseno=WPSB/1/2026&cCode=1&cino=UKHC010000102026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "426396b48f37b81251f261476def7631fd9ed3fa1147e16c1ea18ca259e9d167",
+ "fetched_at": "2026-11-12T02:47:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

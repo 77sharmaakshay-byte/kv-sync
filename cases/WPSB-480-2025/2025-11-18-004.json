@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/480/2025:2025-11-18-004",
+ "title": "GANESH SINGH JYALA versus STATE OF UTTARAKHAND",
+ "petitioner": "GANESH SINGH JYALA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/480/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-11-18",
+ "cnr": "UKHC010174082025",
+ "doc_kind": "order",
+ "order_type": "WPSB/480/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmw57mvzDLHrCTRB72Pp4k55OxtVViUsyXztvYepg2Gs7&caseno=WPSB/480/2025&cCode=1&cino=UKHC010174082025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8d4da1fac54568387fc9a412a5d08142cee74b8d82c7e6dbda7d59f2c6740a06",
+ "fetched_at": "2026-11-12T02:46:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

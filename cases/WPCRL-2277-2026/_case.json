@@ -6,11 +6,11 @@
  "registration_number": "WPCRL /2277/2026",
  "registration_date": "2026-11-04",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-06",
+ "next_hearing_date": "2026-11-16",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -51,6 +51,13 @@
    "cause_list_type": "SUPPLEMENTARY CAUSE LIST 2"
   },
   {
+   "hearing_date": "2026-11-16",
+   "business_date": "2026-11-06",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
    "hearing_date": "2026-11-06",
    "business_date": "2026-11-05",
    "purpose": "FRESH CASES FOR ADMISSION -3",
@@ -58,5 +65,15 @@
    "cause_list_type": "SUPPLEMENTARY CAUSE LIST 2"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-11-06",
+   "order_type": "WPCRL/2277/2026",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQon%2B5rhsiHeCihI3q51Ezzozpwvl3mxKmY4R5m0JWiMu&caseno=WPCRL/2277/2026&cCode=1&cino=UKHC010200372026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

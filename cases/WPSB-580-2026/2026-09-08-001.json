@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/580/2026:2026-09-08-001",
+ "title": "VAIBHAV RAI versus STATE OF UTTARAKHAND",
+ "petitioner": "VAIBHAV RAI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/580/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010156972026",
+ "doc_kind": "order",
+ "order_type": "WPSB/580/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmeWQEimlqgu7uHnnCmhWG%2BwTtIhUVyV%2B3yWf26Dsd3K&caseno=WPSB/580/2026&cCode=1&cino=UKHC010156972026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "908d3f57b8f4892f2f005c19155d477afdc5ab099dc9d7078c4e0fad450c0a6e",
+ "fetched_at": "2026-11-12T02:46:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

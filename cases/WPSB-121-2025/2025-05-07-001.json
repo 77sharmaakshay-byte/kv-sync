@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/121/2025:2025-05-07-001",
+ "title": "SURENDRA DUTT BIJALWAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SURENDRA DUTT BIJALWAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/121/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-05-07",
+ "cnr": "UKHC010056652025",
+ "doc_kind": "order",
+ "order_type": "WPSB/121/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1gnnO5jTttUXOfNRFX2QGT0gx1ekRo4ugZpZYRrZM1o&caseno=WPSB/121/2025&cCode=1&cino=UKHC010056652025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2a40d3a16f7a6e1d598c98ba613d95c4d546152b39c95a50629e306851dac85e",
+ "fetched_at": "2026-11-12T02:46:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

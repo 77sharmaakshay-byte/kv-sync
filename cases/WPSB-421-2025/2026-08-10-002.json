@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/421/2025:2026-08-10-002",
+ "title": "BANWARI LAL KOTHARI versus UNION OF INDIA",
+ "petitioner": "BANWARI LAL KOTHARI",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSB/421/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-10",
+ "cnr": "UKHC010154882025",
+ "doc_kind": "order",
+ "order_type": "WPSB/421/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm3ylZDaeDvwuED0kRGAlBz0LnX9FdWuZBqvpMRN0z14R&caseno=WPSB/421/2025&cCode=1&cino=UKHC010154882025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d5a25c758a28197c170fb53a23bdaff2875e1922f472593a8510927538f95d2c",
+ "fetched_at": "2026-11-12T02:45:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

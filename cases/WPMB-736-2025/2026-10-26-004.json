@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/736/2025:2026-10-26-004",
+ "title": "IRSAAD versus STATE OF UTTARAKHAND",
+ "petitioner": "IRSAAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/736/2025",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-26",
+ "cnr": "UKHC010134492025",
+ "doc_kind": "order",
+ "order_type": "WPMB/736/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwfdpv0neTPZYMEQgRFmZ6jfHFIyZXAFEmX7OaZDo2EF&caseno=WPMB/736/2025&cCode=1&cino=UKHC010134492025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0112bc92d100f70db4b9b13d742f3034641e9ca8edcd3744deaf711b502322c2",
+ "fetched_at": "2026-11-12T02:45:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

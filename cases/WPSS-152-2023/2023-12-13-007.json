@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/152/2023:2023-12-13-007",
+ "title": "NEERAJ KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "NEERAJ KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/152/2023",
+ "case_type": "WPSS",
+ "decision_date": "2023-12-13",
+ "cnr": "UKHC010013962023",
+ "doc_kind": "order",
+ "order_type": "IA/6/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FE1KlHPqYEgATYznfzg9Aa0cRL5r2OQDcBmLj82h2Os&caseno=WPSS/152/2023&cCode=1&cino=UKHC010013962023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb0449d8639ba03672cec67f5ae6dd6eb1e87c268f1972f2734897418e8510d2",
+ "fetched_at": "2026-11-12T02:49:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

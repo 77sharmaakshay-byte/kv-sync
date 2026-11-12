@@ -6,11 +6,11 @@
  "registration_number": "CRLA /377/2016",
  "registration_date": "2016-11-19",
  "first_hearing_date": "2017-02-27",
- "next_hearing_date": "2026-10-31",
+ "next_hearing_date": "2026-11-16",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
- "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -30,6 +30,13 @@
  ],
  "acts": [],
  "history": [
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-31",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-29",
    "business_date": "2026-10-01",
@@ -212,6 +219,15 @@
    "order_type": "CRLA/377/2016",
    "judge": "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBdee6NC19krYt0tSxmLUTyvEUSeROaFMpVA0jU42ytQz&caseno=CRLA/377/2016&cCode=1&cino=UKHC010040772016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-31",
+   "order_type": "CRLA/377/2016",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBdee6NC19krYt0tSxmLUTyuyG%2ButAfgxjDVdgCAsh3I2&caseno=CRLA/377/2016&cCode=1&cino=UKHC010040772016&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

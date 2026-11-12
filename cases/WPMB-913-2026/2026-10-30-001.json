@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/913/2026:2026-10-30-001",
+ "title": "TEJPAL versus STATE OF UTTARAKHAND",
+ "petitioner": "TEJPAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/913/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010192582026",
+ "doc_kind": "order",
+ "order_type": "WPMB/913/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnDQ7bW1sz%2FfjGkYN160ozKuO9xodf2MDqso6yL%2BC58F&caseno=WPMB/913/2026&cCode=1&cino=UKHC010192582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fa66323d2a02392b3da3a53e87a5d7cf0865d8f5ba2503ef9b7f0ae4a21c0ca7",
+ "fetched_at": "2026-11-12T02:45:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

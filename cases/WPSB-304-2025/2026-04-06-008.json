@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/304/2025:2026-04-06-008",
+ "title": "THAKUR RANVEER SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "THAKUR RANVEER SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/304/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-04-06",
+ "cnr": "UKHC010111552025",
+ "doc_kind": "order",
+ "order_type": "WPSB/304/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL DISPOSAL -48",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0nxkwHA4x1olGe5N6pVFXSv9UCtyiDzyjvHlro%2BY1ek&caseno=WPSB/304/2025&cCode=1&cino=UKHC010111552025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "89dfeddb6e8e199de7ea5a2f3dac2ca4b41478a1153d75b90d90f8a0e9f65e7b",
+ "fetched_at": "2026-11-12T02:44:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

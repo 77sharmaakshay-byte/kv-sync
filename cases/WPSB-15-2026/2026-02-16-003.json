@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/15/2026:2026-02-16-003",
+ "title": "RAHUL BAHUGUNA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAHUL BAHUGUNA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/15/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010002202026",
+ "doc_kind": "order",
+ "order_type": "IA/1/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlRrBxLSVv4jroJjECUj21wesGlPxeYqhucPSEG5tbPM&caseno=WPSB/15/2026&cCode=1&cino=UKHC010002202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cf33174c015cc9e02e9b918c6147861c44b50835a84e2e0f095dfe56c2525c45",
+ "fetched_at": "2026-11-12T02:47:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

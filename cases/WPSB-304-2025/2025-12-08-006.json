@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/304/2025:2025-12-08-006",
+ "title": "THAKUR RANVEER SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "THAKUR RANVEER SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/304/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-12-08",
+ "cnr": "UKHC010111552025",
+ "doc_kind": "order",
+ "order_type": "WPSB/304/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL DISPOSAL -48",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm0nxkwHA4x1olGe5N6pVFXTK9i54Xp%2FrcN1zXG4bpzty&caseno=WPSB/304/2025&cCode=1&cino=UKHC010111552025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5ff64c6ac0e11f1bf01f6c428ccdc153a913c585b3dd88304f8ed578b7dcb4c9",
+ "fetched_at": "2026-11-12T02:44:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

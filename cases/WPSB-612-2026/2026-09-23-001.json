@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/612/2026:2026-09-23-001",
+ "title": "DEV SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "DEV SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/612/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-23",
+ "cnr": "UKHC010165592026",
+ "doc_kind": "order",
+ "order_type": "WPSB/612/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQupYw5jqDL33sRbIvlCYzIEJKNg1bhGoB7oPyxDPcnE%2F&caseno=WPSB/612/2026&cCode=1&cino=UKHC010165592026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e5df6f2003133cce974ba3a14919e959a92b0438ab8b13e39ed76082d3b83ab8",
+ "fetched_at": "2026-11-12T02:47:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

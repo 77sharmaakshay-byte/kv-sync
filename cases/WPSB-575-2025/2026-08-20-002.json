@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/575/2025:2026-08-20-002",
+ "title": "PIYOOSH RATUTELA versus STATE OF UTTARAKHAND",
+ "petitioner": "PIYOOSH RATUTELA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/575/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010213112025",
+ "doc_kind": "order",
+ "order_type": "WPSB/575/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwohAqNjkg0YpUnGlGmUB2TkGJVHUGCVAU6Cg7JbAyvu&caseno=WPSB/575/2025&cCode=1&cino=UKHC010213112025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2c3b4f8f3a00c75e04dad210fa51e8e2f8464396afed3546768937b8210c9048",
+ "fetched_at": "2026-11-12T02:46:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

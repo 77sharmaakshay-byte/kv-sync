@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/17/2026:2026-02-16-003",
+ "title": "VIJAY SINGH BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY SINGH BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/17/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010002182026",
+ "doc_kind": "order",
+ "order_type": "IA/1/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtOAVPbm4vAIsmDLuSRR8WgcIBR5UJLb6ZDjm2PpjhiY&caseno=WPSB/17/2026&cCode=1&cino=UKHC010002182026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "51bab7b5d750fadc3962f1b77d88c7ee532312fb81cb22bfee43ca106dd2181b",
+ "fetched_at": "2026-11-12T02:48:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

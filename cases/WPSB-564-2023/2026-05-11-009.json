@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/564/2023:2026-05-11-009",
+ "title": "HARISH CHANDRA SINGH BISHT versus UNION OF INDIA",
+ "petitioner": "HARISH CHANDRA SINGH BISHT",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSB/564/2023",
+ "case_type": "WPSB",
+ "decision_date": "2026-05-11",
+ "cnr": "UKHC010208472023",
+ "doc_kind": "order",
+ "order_type": "WPSB/564/2023",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYxUh7gVL24JXVp9y6CRmYuw9MYND%2FtmrRSyFGS9w7ZdR&caseno=WPSB/564/2023&cCode=1&cino=UKHC010208472023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5b30ef2b7466ac3be0838c8ac84bf8de9e89955400d84a3fb334b4d3bcde9bff",
+ "fetched_at": "2026-11-12T02:46:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/307/2023:2024-08-07-003",
+ "title": "UTTARAKHAND AYURVEDA UNIVERSITY versus QUADRA INSTITUTE OF AYURVEDA",
+ "petitioner": "UTTARAKHAND AYURVEDA UNIVERSITY",
+ "respondent": "QUADRA INSTITUTE OF AYURVEDA",
+ "case_no": "SPA/307/2023",
+ "case_type": "SPA",
+ "decision_date": "2024-08-07",
+ "cnr": "UKHC010131282023",
+ "doc_kind": "order",
+ "order_type": "SPA/307/2023",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY0rWbHLq0JYJYSLCKl052I2e74zLxooeFtiFgs9Azi79&caseno=SPA/307/2023&cCode=1&cino=UKHC010131282023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d5b1c72380242f7077903e6caa504a23a07ca54c8d63413282335ec254d01073",
+ "fetched_at": "2026-11-12T02:43:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

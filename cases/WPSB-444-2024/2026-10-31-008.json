@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/444/2024:2026-10-31-008",
+ "title": "STATE OF UTTARAKHAND versus KAILASH CHANDRA BHATT",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "KAILASH CHANDRA BHATT",
+ "case_no": "WPSB/444/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-10-31",
+ "cnr": "UKHC010113302024",
+ "doc_kind": "order",
+ "order_type": "WPSB/444/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKn567TigTvHgZNIHygbrLI%2FFg3NUIIpEIZMuUQ7yWXG&caseno=WPSB/444/2024&cCode=1&cino=UKHC010113302024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b8997286c1618989c39732a44d671c99805d2695fd0e1eb11461ee41cee8aeb9",
+ "fetched_at": "2026-11-12T02:58:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

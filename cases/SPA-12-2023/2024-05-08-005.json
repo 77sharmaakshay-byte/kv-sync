@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/12/2023:2024-05-08-005",
+ "title": "POONAM TIWARI versus STATE OF UTTARAKHAND",
+ "petitioner": "POONAM TIWARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/12/2023",
+ "case_type": "SPA",
+ "decision_date": "2024-05-08",
+ "cnr": "UKHC010006552023",
+ "doc_kind": "order",
+ "order_type": "IA/4/2024",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3YBRD%2B9U1N4lIHTQdKRQ%2Bi6h8cogruTpy0OD3ingGle&caseno=SPA/12/2023&cCode=1&cino=UKHC010006552023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dfd461bbff32c4653515e0b28ec6e05255d085408eaac1f05edc064874be2f71",
+ "fetched_at": "2026-11-12T02:43:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

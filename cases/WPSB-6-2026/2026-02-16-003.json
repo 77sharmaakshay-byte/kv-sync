@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/6/2026:2026-02-16-003",
+ "title": "ANSHIKA GOYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "ANSHIKA GOYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/6/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-02-16",
+ "cnr": "UKHC010001362026",
+ "doc_kind": "order",
+ "order_type": "IA/1/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsox562mdrZwD8Fhwfk5YRfIDpFIkttirSbjdyhh1%2BLg&caseno=WPSB/6/2026&cCode=1&cino=UKHC010001362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "766c3570810d95ec8c1d108e69224f96892f7492047887d9066b8d7630b3a762",
+ "fetched_at": "2026-11-12T02:47:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

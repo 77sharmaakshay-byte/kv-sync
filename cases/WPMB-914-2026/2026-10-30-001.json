@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/914/2026:2026-10-30-001",
+ "title": "ASHOK KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ASHOK KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/914/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010192592026",
+ "doc_kind": "order",
+ "order_type": "WPMB/914/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoUbB7Z2NLY6b1LDVfhcklusbTSowCfm%2FpTOoNpRw%2BH3&caseno=WPMB/914/2026&cCode=1&cino=UKHC010192592026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "87bff5a9819fc58806097b83e3f3a02e8d7395619f2e8765b0d226732552b2b6",
+ "fetched_at": "2026-11-12T02:43:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

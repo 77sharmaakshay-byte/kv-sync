@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/736/2025:2025-09-15-002",
+ "title": "IRSAAD versus STATE OF UTTARAKHAND",
+ "petitioner": "IRSAAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/736/2025",
+ "case_type": "WPMB",
+ "decision_date": "2025-09-15",
+ "cnr": "UKHC010134492025",
+ "doc_kind": "order",
+ "order_type": "WPMB/736/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwfdpv0neTPZYMEQgRFmZ6gplfOfIb5HLpt3RfNMv6Gv&caseno=WPMB/736/2025&cCode=1&cino=UKHC010134492025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "590c1bf7180c94302d1f61d59499e0927778b8aa845723680c40153698deb0ca",
+ "fetched_at": "2026-11-12T02:45:12+00:00",
+ "fetched_by": "fetch_live.py"
+}
