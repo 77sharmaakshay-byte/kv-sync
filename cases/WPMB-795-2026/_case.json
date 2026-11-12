@@ -6,9 +6,9 @@
  "registration_number": "WPMB /795/2026",
  "registration_date": "2026-09-18",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-05",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "ORDERS ON APPLICATIONS -22",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
  "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Division Bench",
@@ -59,6 +59,13 @@
    "hearing_date": "2026-09-22",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-05",
+   "purpose": "ADMISSION MATTERS -25",
    "judge": "",
    "cause_list_type": "DAILY CAUSE LIST"
   },

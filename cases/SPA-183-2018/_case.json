@@ -6,7 +6,7 @@
  "registration_number": "SPA /183/2018",
  "registration_date": "2018-03-28",
  "first_hearing_date": "2018-04-09",
- "next_hearing_date": "2026-10-30",
+ "next_hearing_date": "2026-11-19",
  "decision_date": null,
  "case_stage": "JUST AFTER FRESH MATTERS -252",
  "status": "",
@@ -63,6 +63,20 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-19",
+   "business_date": "2026-11-04",
+   "purpose": "JUST AFTER FRESH MATTERS -252",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-10-30",
+   "purpose": "JUST AFTER FRESH MATTERS -252",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2024-12-11",
    "business_date": "2024-08-14",
@@ -156,6 +170,24 @@
    "order_type": "SPA/183/2018",
    "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL%2BN3bnjqwSEf4YrRWs51hGyskUnMZOa%2Bn0QqjuEQTXv8&caseno=SPA/183/2018&cCode=1&cino=UKHC010073182018&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-30",
+   "order_type": "SPA/183/2018",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL%2BN3bnjqwSEf4YrRWs51hGxKS7bgVehKwZr5%2Bwua%2BQ9s&caseno=SPA/183/2018&cCode=1&cino=UKHC010073182018&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-04",
+   "order_type": "SPA/183/2018",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL%2BN3bnjqwSEf4YrRWs51hGwbBw%2FGLrF99XFPmQz8azJa&caseno=SPA/183/2018&cCode=1&cino=UKHC010073182018&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""
