@@ -1,24 +1,327 @@
 {
  "cnr_number": "UKHC010012962014",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
- "first_hearing_date": null,
- "next_hearing_date": null,
+ "case_type": "CRLA",
+ "filing_number": "CRLA /1008829/2014",
+ "filing_date": "2014-08-26",
+ "registration_number": "CRLA /267/2014",
+ "registration_date": "2014-08-26",
+ "first_hearing_date": "2018-10-01",
+ "next_hearing_date": "2026-11-17",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "FOR FINAL HEARING -40",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "MOHD. GALIB",
+   "advocate": "BIRENDRA SINGH ADHIKARI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND AND OTHERS   Advocate- ,G.A. 1123",
+   "advocate": ""
+  },
+  {
+   "name": "HUKAM SINGH",
+   "advocate": "AMIT KAPRI,SAURAV ADHIKARI"
+  },
+  {
+   "name": "MANGE RAM",
+   "advocate": "AMIT KAPRI,SAURAV ADHIKARI"
+  },
+  {
+   "name": "VEERBHAN",
+   "advocate": "AMIT KAPRI,SAURAV ADHIKARI"
+  },
+  {
+   "name": "SADHU RAM",
+   "advocate": "AMIT KAPRI,SAURAV ADHIKARI"
+  },
+  {
+   "name": "PRADEEP",
+   "advocate": "AMIT KAPRI,SAURAV ADHIKARI"
+  },
+  {
+   "name": "RAKESH",
+   "advocate": "AMIT KAPRI,SAURAV ADHIKARI"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Code of Criminal Procedure, 1973 (Act No. 2 of 1974)",
+   "sections": "147,148,323/149,307/149,324/149,325/149,504,506 IPC"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-15",
+   "business_date": "2026-09-17",
+   "purpose": "FOR FINAL HEARING -100",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2024-09-24",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-09-24",
+   "business_date": "2024-07-12",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-07-12",
+   "business_date": "2024-04-18",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-18",
+   "business_date": "2024-03-21",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-21",
+   "business_date": "2024-03-14",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-03-14",
+   "business_date": "2024-03-07",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-04-08",
+   "business_date": "2023-12-14",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-12-14",
+   "business_date": "2023-09-04",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-09-04",
+   "business_date": "2023-08-17",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-07-17",
+   "business_date": null,
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-08-17",
+   "business_date": "2023-06-28",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-06-28",
+   "business_date": "2023-05-02",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-05-02",
+   "business_date": "2023-02-28",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-02-28",
+   "business_date": "2023-01-03",
+   "purpose": "OLD MATTERS -253",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2023-01-03",
+   "business_date": "2022-11-29",
+   "purpose": "OLD MATTERS -253",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-11-29",
+   "business_date": "2022-11-22",
+   "purpose": "OLD MATTERS -253",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-11-22",
+   "business_date": "2022-10-18",
+   "purpose": "OLD MATTERS -253",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-10-18",
+   "business_date": "2022-10-11",
+   "purpose": "OLD MATTERS -253",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-10-11",
+   "business_date": "2022-09-13",
+   "purpose": "OLD MATTERS -253",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2022-09-13",
+   "business_date": "2022-09-07",
+   "purpose": "OLD MATTERS -253",
+   "judge": "",
+   "cause_list_type": "WEEKLY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2018-10-01",
+   "business_date": "2014-08-27",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": ""
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2014-08-27",
+   "order_type": "CRLA/267/2014",
+   "judge": "",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3ENieT%2BW63Q9s1AtYX8lDfA&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-09-07",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3HE88slgvxEJkvE%2FDl8jpS%2B&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-09-13",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3EYpysa9P7W2imocntjuaID&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-10-18",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3FPsSw4L6IuTBW5dPQFDLsR&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2022-11-29",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3HLwAoE137c4lIRK2cVtJMI&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-01-03",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3GtaKIqvJYJ%2F78b2d0mgVAM&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-05-02",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3Ew450MrdDdWlEVQ9jpsDV5&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-06-28",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3FP9Q1xTvJeNZOQCQwPQsNe&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2023-08-17",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3GDn%2F1GAWmTx%2FaTWN7c2uVU&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-03-21",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3Edp4JgfNz4jGbQGuY7UU7D&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2024-04-18",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Alok Kumar Verma",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3FUZwoDLyAxqmXVckVW%2BhvI&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-17",
+   "order_type": "CRLA/267/2014",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobFWHTHN7FpEJT0bSml%2FZH3GxlDtdoK%2B5qtHVVKJkpckh&caseno=CRLA/267/2014&cCode=1&cino=UKHC010012962014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

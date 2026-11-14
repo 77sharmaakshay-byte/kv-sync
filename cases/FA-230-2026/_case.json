@@ -1,24 +1,47 @@
 {
  "cnr_number": "UKHC010202452026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "FA",
+ "filing_number": "FA /10459/2026",
+ "filing_date": "2026-11-06",
+ "registration_number": "FA /230/2026",
+ "registration_date": "2026-11-06",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-11-16",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "DEEPIKA CHAUHAN",
+   "advocate": "NALIN SAUN"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SURENDRA SINGH CHAUHAN",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Family Courts Act, 1984 (Act No. 66 of 1984)",
+   "sections": "19(4)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-11-16",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
  "orders": []
 }

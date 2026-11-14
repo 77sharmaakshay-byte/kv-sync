@@ -1,24 +1,92 @@
 {
  "cnr_number": "UKHC010100712026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "WPSS",
+ "filing_number": "WPSS /5260/2026",
+ "filing_date": "2026-06-08",
+ "registration_number": "WPSS /1532/2026",
+ "registration_date": "2026-06-08",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-11-16",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "ADMISSION MATTERS -35",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Uttarkashi",
+ "petitioners": [
+  {
+   "name": "SRI PRAHALAD BHATNAGAR",
+   "advocate": "JAI KRISHNA PANDEY,D C S  RAWAT,D C S  RAWAT, ,D C S  RAWAT"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  },
+  {
+   "name": "DIRECTOR GENERAL",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "DEPARTMENTAL TRANSFER COMMITTEE",
+   "advocate": ""
+  },
+  {
+   "name": "SRI RAJENDRA SINGH",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-06-10",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-16",
+   "business_date": "2026-08-24",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-24",
+   "business_date": "2026-06-10",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-06-10",
+   "order_type": "WPSS/1532/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlyCedCFy2wQ7eGss%2B09QnzexgwuO5%2FpTOrpj8ZLp8om&caseno=WPSS/1532/2026&cCode=1&cino=UKHC010100712026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-08-24",
+   "order_type": "WPSS/1532/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlyCedCFy2wQ7eGss%2B09Qnwm1EbD%2FcskDJsxaFhQYX7Z&caseno=WPSS/1532/2026&cCode=1&cino=UKHC010100712026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }
