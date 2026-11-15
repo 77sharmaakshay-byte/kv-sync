@@ -1,5 +1,5 @@
 {
- "kab": "2026-11-14T17:46+00:00",
+ "kab": "2026-11-15T01:30+00:00",
  "courts": {
   "SC": {
    "faisle": 57374,
@@ -336,16 +336,16 @@
    ]
   },
   "UKHC": {
-   "faisle": 243769,
-   "vishay_mila": 139527,
+   "faisle": 244274,
+   "vishay_mila": 139683,
    "shreni": {
-    "Criminal": 111524,
-    "Service": 52149,
+    "Criminal": 111942,
+    "Service": 52152,
     "Writ": 39423,
-    "Civil": 15830,
+    "Civil": 15878,
     "Contempt": 7593,
-    "Special Appeal": 4787,
-    "Tax": 3319,
+    "Special Appeal": 4797,
+    "Tax": 3345,
     "PIL": 2266,
     "Constitutional": 1948,
     "Land": 1695,
@@ -355,12 +355,12 @@
     "Family": 199
    },
    "nateeja": {
-    "Khilaf": 69684,
+    "Khilaf": 69732,
     "Nipataara": 64122,
-    "Paksh mein": 59789,
+    "Paksh mein": 59836,
     "Wapas / bekaar": 27591,
     "Nirdesh: vibhag vichaar kare": 12270,
-    "null": 5489,
+    "null": 5899,
     "Default mein khaarij": 4199,
     "Aanshik paksh mein": 625
    },
@@ -373,7 +373,7 @@
     [
      "Criminal",
      "FIR quashing / arrest stay (writ)",
-     26463
+     26474
     ],
     [
      "Criminal",
@@ -383,42 +383,42 @@
     [
      "Criminal",
      "Cheating / fraud (420)",
-     7373
+     7374
     ],
     [
      "Criminal",
      "Dowry / 498A",
-     5217
+     5220
     ],
     [
      "Criminal",
      "Murder (302 IPC / 103 BNS)",
-     4933
+     4934
     ],
     [
      "Criminal",
      "Anticipatory bail",
-     4840
+     4845
     ],
     [
      "Criminal",
      "NDPS",
-     4710
+     4716
     ],
     [
      "Service",
      "Regularisation",
-     4075
+     4076
     ],
     [
      "Criminal",
      "POCSO",
-     3804
+     3812
     ],
     [
      "Service",
      "Daily wage / contractual",
-     3720
+     3722
     ],
     [
      "Service",
@@ -438,7 +438,7 @@
     [
      "Criminal",
      "Cheque bounce (138 NI)",
-     2087
+     2102
     ],
     [
      "Criminal",
@@ -468,12 +468,12 @@
     [
      "Service",
      "Compassionate appointment",
-     1580
+     1583
     ],
     [
      "Service",
      "Pension",
-     1554
+     1555
     ],
     [
      "Commercial",
@@ -483,7 +483,7 @@
     [
      "Land",
      "Mutation / revenue entries",
-     1375
+     1376
     ],
     [
      "Criminal",
@@ -498,7 +498,7 @@
     [
      "Criminal",
      "SC/ST Atrocities Act",
-     1157
+     1159
     ],
     [
      "Civil",
@@ -511,14 +511,14 @@
      1090
     ],
     [
-     "Tax",
-     "GST / VAT",
-     1080
-    ],
-    [
      "Family",
      "Maintenance (125 CrPC / 144 BNSS)",
-     1058
+     1083
+    ],
+    [
+     "Tax",
+     "GST / VAT",
+     1082
     ],
     [
      "Civil",
@@ -553,12 +553,12 @@
     [
      "Civil",
      "Will / succession",
-     720
+     724
     ],
     [
      "Criminal",
      "Cancellation of bail",
-     654
+     656
     ],
     [
      "Service",
@@ -566,14 +566,14 @@
      651
     ],
     [
-     "Family",
-     "Divorce",
-     624
-    ],
-    [
      "Criminal",
      "Habeas corpus",
-     567
+     640
+    ],
+    [
+     "Family",
+     "Divorce",
+     625
     ],
     [
      "Constitutional",
@@ -598,7 +598,7 @@
     [
      "Criminal",
      "Suspension of sentence",
-     350
+     352
     ],
     [
      "Service",
@@ -623,7 +623,7 @@
     [
      "Civil",
      "Specific performance",
-     249
+     250
     ],
     [
      "Constitutional",
@@ -643,7 +643,7 @@
     [
      "Family",
      "Child custody",
-     182
+     187
     ],
     [
      "Constitutional",
@@ -653,7 +653,7 @@
     [
      "Civil",
      "Adverse possession",
-     162
+     163
     ],
     [
      "Criminal",
