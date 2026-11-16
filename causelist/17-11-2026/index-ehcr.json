@@ -4,7 +4,7 @@
  "source": "ehcr",
  "uploads": [
   "DAILY CAUSE LIST (ADVANCE)|06.11.2026 06:30 PM",
-  "DAILY CAUSELIST|16.11.2026 05:44 PM",
+  "DAILY CAUSELIST|16.11.2026 06:25 PM",
   "DAILY LIST REGISTRAR JUDICIAL|16.11.2026 05:59 PM"
  ],
  "benches": [
@@ -19,11 +19,20 @@
   },
   {
    "kind": "Daily",
+   "bench": "DAILY LIST REGISTRAR JUDICIAL",
+   "type": "DAILY LIST REGISTRAR JUDICIAL",
+   "file": "ehcr-20261117_1013_0-01.pdf",
+   "source_pdf": "20261117_1013_0.pdf",
+   "uploaded": "16.11.2026 05:59 PM",
+   "chars": 7783
+  },
+  {
+   "kind": "Daily",
    "bench": "Court 02",
    "type": "DAILY CAUSELIST",
    "file": "ehcr-20261117_1001_0-01-court-02.pdf",
    "source_pdf": "20261117_1001_0.pdf",
-   "uploaded": "16.11.2026 05:44 PM",
+   "uploaded": "16.11.2026 06:25 PM",
    "chars": 3746
   },
   {
@@ -32,7 +41,7 @@
    "type": "DAILY CAUSELIST",
    "file": "ehcr-20261117_1001_0-02-court-03.pdf",
    "source_pdf": "20261117_1001_0.pdf",
-   "uploaded": "16.11.2026 05:44 PM",
+   "uploaded": "16.11.2026 06:25 PM",
    "chars": 32950
   },
   {
@@ -41,7 +50,7 @@
    "type": "DAILY CAUSELIST",
    "file": "ehcr-20261117_1001_0-03-court-04.pdf",
    "source_pdf": "20261117_1001_0.pdf",
-   "uploaded": "16.11.2026 05:44 PM",
+   "uploaded": "16.11.2026 06:25 PM",
    "chars": 15289
   },
   {
@@ -50,7 +59,7 @@
    "type": "DAILY CAUSELIST",
    "file": "ehcr-20261117_1001_0-04-court-05.pdf",
    "source_pdf": "20261117_1001_0.pdf",
-   "uploaded": "16.11.2026 05:44 PM",
+   "uploaded": "16.11.2026 06:25 PM",
    "chars": 16033
   },
   {
@@ -59,17 +68,8 @@
    "type": "DAILY CAUSELIST",
    "file": "ehcr-20261117_1001_0-05-court-07.pdf",
    "source_pdf": "20261117_1001_0.pdf",
-   "uploaded": "16.11.2026 05:44 PM",
+   "uploaded": "16.11.2026 06:25 PM",
    "chars": 8675
-  },
-  {
-   "kind": "Daily",
-   "bench": "DAILY LIST REGISTRAR JUDICIAL",
-   "type": "DAILY LIST REGISTRAR JUDICIAL",
-   "file": "ehcr-20261117_1013_0-01.pdf",
-   "source_pdf": "20261117_1013_0.pdf",
-   "uploaded": "16.11.2026 05:59 PM",
-   "chars": 7783
   }
  ]
 }
