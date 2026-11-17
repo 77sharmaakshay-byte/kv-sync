@@ -1,11 +1,13 @@
 {
  "date": "17-11-2026",
- "fetched": "16-11-2026",
+ "fetched": "17-11-2026",
  "source": "ehcr",
  "uploads": [
   "DAILY CAUSE LIST (ADVANCE)|06.11.2026 06:30 PM",
   "DAILY CAUSELIST|16.11.2026 06:25 PM",
-  "DAILY LIST REGISTRAR JUDICIAL|16.11.2026 05:59 PM"
+  "DAILY LIST REGISTRAR JUDICIAL|16.11.2026 05:59 PM",
+  "HON'BLE MR. JUSTICE RAVINDRA MAITHANI HON'BLE MR. JUSTICE SIDDHARTHA SAH   SUPPLEMENTARY 2|17.11.2026 10:04 AM",
+  "HON'BLE MR. JUSTICE RAVINDRA MAITHANI HON'BLE MR. JUSTICE SIDDHARTHA SAH   SUPPLEMENTARY 3|17.11.2026 10:47 AM"
  ],
  "benches": [
   {
@@ -70,6 +72,24 @@
    "source_pdf": "20261117_1001_0.pdf",
    "uploaded": "16.11.2026 06:25 PM",
    "chars": 8675
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "Court 02",
+   "type": "HON'BLE MR. JUSTICE RAVINDRA MAITHANI HON'BLE MR. JUSTICE SIDDHARTHA SAH   SUPPLEMENTARY 2",
+   "file": "ehcr-20261117_1004_1249-01-court-02.pdf",
+   "source_pdf": "20261117_1004_1249.pdf",
+   "uploaded": "17.11.2026 10:04 AM",
+   "chars": 1020
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "Court 02",
+   "type": "HON'BLE MR. JUSTICE RAVINDRA MAITHANI HON'BLE MR. JUSTICE SIDDHARTHA SAH   SUPPLEMENTARY 3",
+   "file": "ehcr-20261117_1007_1249-01-court-02.pdf",
+   "source_pdf": "20261117_1007_1249.pdf",
+   "uploaded": "17.11.2026 10:47 AM",
+   "chars": 1037
   }
  ]
 }
