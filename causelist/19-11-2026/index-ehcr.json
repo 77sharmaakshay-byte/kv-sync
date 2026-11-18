@@ -1,9 +1,13 @@
 {
  "date": "19-11-2026",
- "fetched": "17-11-2026",
+ "fetched": "18-11-2026",
  "source": "ehcr",
  "uploads": [
-  "DAILY CAUSE LIST (ADVANCE)|17.11.2026 06:42 PM"
+  "DAILY CAUSE LIST (ADVANCE)|17.11.2026 06:42 PM",
+  "DAILY CAUSELIST|18.11.2026 05:50 PM",
+  "DAILY LIST REGISTRAR JUDICIAL|18.11.2026 06:45 PM",
+  "HON'BLE MR. JUSTICE SIDDHARTHA SAH   SUPPLEMENTARY 1|18.11.2026 06:27 PM",
+  "SUPPLEMENTARY 1|18.11.2026 04:45 PM"
  ],
  "benches": [
   {
@@ -14,6 +18,78 @@
    "source_pdf": "20261119_990_0.pdf",
    "uploaded": "17.11.2026 06:42 PM",
    "chars": 16421
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 02",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261119_1001_0-01-court-02.pdf",
+   "source_pdf": "20261119_1001_0.pdf",
+   "uploaded": "18.11.2026 05:50 PM",
+   "chars": 1146
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 03",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261119_1001_0-02-court-03.pdf",
+   "source_pdf": "20261119_1001_0.pdf",
+   "uploaded": "18.11.2026 05:50 PM",
+   "chars": 43414
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 04",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261119_1001_0-03-court-04.pdf",
+   "source_pdf": "20261119_1001_0.pdf",
+   "uploaded": "18.11.2026 05:50 PM",
+   "chars": 13939
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 05",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261119_1001_0-04-court-05.pdf",
+   "source_pdf": "20261119_1001_0.pdf",
+   "uploaded": "18.11.2026 05:50 PM",
+   "chars": 16043
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 07",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261119_1001_0-05-court-07.pdf",
+   "source_pdf": "20261119_1001_0.pdf",
+   "uploaded": "18.11.2026 05:50 PM",
+   "chars": 7647
+  },
+  {
+   "kind": "Daily",
+   "bench": "DAILY LIST REGISTRAR JUDICIAL",
+   "type": "DAILY LIST REGISTRAR JUDICIAL",
+   "file": "ehcr-20261119_1013_0-01.pdf",
+   "source_pdf": "20261119_1013_0.pdf",
+   "uploaded": "18.11.2026 06:45 PM",
+   "chars": 6043
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "SUPPLEMENTARY 1",
+   "type": "SUPPLEMENTARY 1",
+   "file": "ehcr-20261119_1003_1001-01.pdf",
+   "source_pdf": "20261119_1003_1001.pdf",
+   "uploaded": "18.11.2026 04:45 PM",
+   "chars": 15945
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "Court 07",
+   "type": "HON'BLE MR. JUSTICE SIDDHARTHA SAH   SUPPLEMENTARY 1",
+   "file": "ehcr-20261119_1003_1242-01-court-07.pdf",
+   "source_pdf": "20261119_1003_1242.pdf",
+   "uploaded": "18.11.2026 06:27 PM",
+   "chars": 980
   }
  ]
 }
