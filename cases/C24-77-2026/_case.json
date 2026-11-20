@@ -6,7 +6,7 @@
  "registration_number": "C24 /77/2026",
  "registration_date": "2026-10-31",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-06",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
@@ -34,6 +34,24 @@
    "sections": "24"
   }
  ],
- "history": [],
- "orders": []
+ "history": [
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-11-06",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-11-06",
+   "order_type": "C24/77/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqFOh4Jwd3%2Bv%2FP%2FAHLchjdQPzGkdaNt%2Bbjt2UazfTnT1&caseno=C24/77/2026&cCode=1&cino=UKHC010196752026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

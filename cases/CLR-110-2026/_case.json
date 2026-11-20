@@ -1,0 +1,96 @@
+{
+ "cnr_number": "UKHC010152802026",
+ "case_type": "CLR",
+ "filing_number": "CLR /7896/2026",
+ "filing_date": "2026-08-25",
+ "registration_number": "CLR /110/2026",
+ "registration_date": "2026-08-25",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-20",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "AKHIL KUMAR",
+   "advocate": "SURYAKANT MAITHANI"
+  },
+  {
+   "name": "NITIN KUMAR",
+   "advocate": ""
+  },
+  {
+   "name": "SHRI ARUN KUMAR GOYAL",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "GULSHARAN KAUR",
+   "advocate": "ADITYA SINGH"
+  },
+  {
+   "name": "SHRI VIRENDER PAL SINGH",
+   "advocate": "ADITYA SINGH"
+  },
+  {
+   "name": "SHRI GUNEET SINGH",
+   "advocate": "ADITYA SINGH"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Code of Civil Procedure, 1908 (Act No. 5 of 1908)",
+   "sections": "115"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-09",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-09-25",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-09-25",
+   "business_date": "2026-09-09",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-09-09",
+   "order_type": "CLR/110/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvxcOEN7PI3SdNFuc%2FkMwHkDg%2Bb5zCVnEehiFdWWDMOX&caseno=CLR/110/2026&cCode=1&cino=UKHC010152802026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-25",
+   "order_type": "CLR/110/2026",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvxcOEN7PI3SdNFuc%2FkMwHlOhjTEItkSAcZdBYj8osgd&caseno=CLR/110/2026&cCode=1&cino=UKHC010152802026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

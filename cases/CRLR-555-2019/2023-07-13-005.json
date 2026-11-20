@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/555/2019:2023-07-13-005",
+ "title": "MEERA ARORA versus RAMESH ARORA",
+ "petitioner": "MEERA ARORA",
+ "respondent": "RAMESH ARORA",
+ "case_no": "CRLR/555/2019",
+ "case_type": "CRLR",
+ "decision_date": "2023-07-13",
+ "cnr": "UKHC010154542019",
+ "doc_kind": "order",
+ "order_type": "CRLR/555/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF0NRUqDU1G8skkxjwV7tzZ0hNKWQGkIBsCulnGi%2Fjvmb&caseno=CRLR/555/2019&cCode=1&cino=UKHC010154542019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d841a3c61cb9991cd5b3cbebb4149f5639758fac274d1ee5f67916021a273dd",
+ "fetched_at": "2026-11-20T06:18:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,24 +1,237 @@
 {
  "cnr_number": "UKHC010055812026",
  "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "filing_number": "BA1 /2616/2026",
+ "filing_date": "2026-04-08",
+ "registration_number": "BA1 /560/2026",
+ "registration_date": "2026-04-08",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "BAIL MATTERS -98",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "RAHUL KUMAR",
+   "advocate": "AMREEN BANO,AAKIB AHMED,AAKIB AHMED, ,SPARSH GUPTA,LALIT MIGLANI,AAKIB AHMED"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "NARCOTICS CONTROL BUREAU",
+   "advocate": "SHOBHIT SAHARIA"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Narcotic Drugs and Psychotropic Substances Act, 1985 (Act No. 61 of 1985)",
+   "sections": "8/22(C)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-04-10",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-12-03",
+   "business_date": "2026-11-06",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-18",
+   "business_date": "2026-10-14",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-08",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-08",
+   "business_date": "2026-10-01",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-01",
+   "business_date": "2026-09-29",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-29",
+   "business_date": "2026-09-11",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-11",
+   "business_date": "2026-09-03",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-03",
+   "business_date": "2026-08-24",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-24",
+   "business_date": "2026-08-18",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-18",
+   "business_date": "2026-08-13",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-08-13",
+   "business_date": "2026-07-23",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-07-23",
+   "business_date": "2026-07-21",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-07-20",
+   "business_date": "2026-07-20",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-29",
+   "purpose": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-10",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-06-02",
+   "business_date": "2026-05-08",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-05-08",
+   "business_date": "2026-04-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-28",
+   "business_date": "2026-04-10",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-04-10",
+   "order_type": "BA1/560/2026",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhB1sr3z9k8G3Dc9b3KdcrkgaZ2TBoVbF1Ot%2FWN5YFyF&caseno=BA1/560/2026&cCode=1&cino=UKHC010055812026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-04-28",
+   "order_type": "BA1/560/2026",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhB1sr3z9k8G3Dc9b3KdcrnJAULKEn1l2qslm9OEAJao&caseno=BA1/560/2026&cCode=1&cino=UKHC010055812026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-05-08",
+   "order_type": "BA1/560/2026",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhB1sr3z9k8G3Dc9b3KdcrlrdZfMpazFqGt%2FbxuxdQ7s&caseno=BA1/560/2026&cCode=1&cino=UKHC010055812026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-10",
+   "order_type": "BA1/560/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhB1sr3z9k8G3Dc9b3KdcrkB78iptCz2ConLVpkQZOkF&caseno=BA1/560/2026&cCode=1&cino=UKHC010055812026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-11",
+   "order_type": "BA1/560/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhB1sr3z9k8G3Dc9b3KdcrkWnOD9ESy9DhcTOMxD4qcY&caseno=BA1/560/2026&cCode=1&cino=UKHC010055812026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-09-29",
+   "order_type": "BA1/560/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhB1sr3z9k8G3Dc9b3Kdcrnq26LIvNIWqkHX4MMJgTR7&caseno=BA1/560/2026&cCode=1&cino=UKHC010055812026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-06",
+   "order_type": "BA1/560/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhB1sr3z9k8G3Dc9b3KdcrlvASoIfiEOQhMdUKDfGam%2B&caseno=BA1/560/2026&cCode=1&cino=UKHC010055812026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

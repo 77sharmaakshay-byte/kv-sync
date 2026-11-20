@@ -6,9 +6,9 @@
  "registration_number": "CLR /137/2024",
  "registration_date": "2024-12-31",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-30",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "case_stage": "Order on Applications (Time Barred Cases) -250",
  "status": "",
  "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Single Bench",
@@ -40,6 +40,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-30",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {

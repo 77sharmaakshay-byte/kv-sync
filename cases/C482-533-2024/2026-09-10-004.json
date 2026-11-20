@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/533/2024:2026-09-10-004",
+ "title": "SURAJ KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SURAJ KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/533/2024",
+ "case_type": "C482",
+ "decision_date": "2026-09-10",
+ "cnr": "UKHC010041752024",
+ "doc_kind": "order",
+ "order_type": "C482/533/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "PRIORITY STAYED MATTERS -270",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcO2qrF5CLQI4rg339GS%2FhZShwr9fhjG9JLSMLH2LR5ge&caseno=C482/533/2024&cCode=1&cino=UKHC010041752024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0058a94443a768fa3c301c002bed228ae978b5995bd47e41bff803b5e6bfb7e6",
+ "fetched_at": "2026-11-20T05:48:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

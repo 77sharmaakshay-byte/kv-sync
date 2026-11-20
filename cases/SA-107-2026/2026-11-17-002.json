@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/107/2026:2026-11-17-002",
+ "title": "MAHIPAL KUMAR versus KISHAN SINGH",
+ "petitioner": "MAHIPAL KUMAR",
+ "respondent": "KISHAN SINGH",
+ "case_no": "SA/107/2026",
+ "case_type": "SA",
+ "decision_date": "2026-11-17",
+ "cnr": "UKHC010170772026",
+ "doc_kind": "order",
+ "order_type": "SA/107/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpK2K7d8NM%2FKQcZiGoEr2aVCgh6vhwCC2vfovt7Y3ZZ%2F&caseno=SA/107/2026&cCode=1&cino=UKHC010170772026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "801f0e644e72d8fcd3dcd19abd05ffeb05f99dd053e5f98eb52e4fd4082875ce",
+ "fetched_at": "2026-11-20T06:00:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

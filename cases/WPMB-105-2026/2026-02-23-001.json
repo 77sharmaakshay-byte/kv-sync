@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/105/2026:2026-02-23-001",
+ "title": "M/S SAI RAM STONE CRUSHER versus UNION OF INDIA",
+ "petitioner": "M/S SAI RAM STONE CRUSHER",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMB/105/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-02-23",
+ "cnr": "UKHC010024732026",
+ "doc_kind": "order",
+ "order_type": "WPMB/105/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt1gVEiesRp4oz8m2fIoIC0a674IxsN5B3BTp9x7Am5L&caseno=WPMB/105/2026&cCode=1&cino=UKHC010024732026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0ac1209018d21c0c00b63ff59a54746158def3ffb4c8ae48fe58a1bc1a8e6d0f",
+ "fetched_at": "2026-11-20T06:14:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

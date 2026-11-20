@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C447/16/2026:2026-09-10-002",
+ "title": "SALMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SALMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C447/16/2026",
+ "case_type": "C447",
+ "decision_date": "2026-09-10",
+ "cnr": "UKHC010053412026",
+ "doc_kind": "order",
+ "order_type": "C447/16/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqdI6PkXCj9%2B1XxKMY9FRYl%2FJr1sZ3QaRHANg12lOYoT&caseno=C447/16/2026&cCode=1&cino=UKHC010053412026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2fb2bd5ca2157369ced1e16ec2b759eedebfe746946d643a6659d4c83dad019d",
+ "fetched_at": "2026-11-20T05:59:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/501/2019:2026-09-28-002",
+ "title": "SAJID versus STATE OF UTTARAKHAND",
+ "petitioner": "SAJID",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/501/2019",
+ "case_type": "CRLR",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010138352019",
+ "doc_kind": "order",
+ "order_type": "CRLR/501/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF5va4Ws9mzeTevEzHoJ5MRfqK4FnKlL98D%2FH%2F3BuxA8M&caseno=CRLR/501/2019&cCode=1&cino=UKHC010138352019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "930112233b651986b6a731120fb5e3075542c3982279975c2167366811d60309",
+ "fetched_at": "2026-11-20T06:15:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

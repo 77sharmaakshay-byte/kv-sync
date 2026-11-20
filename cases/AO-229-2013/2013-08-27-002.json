@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/229/2013:2013-08-27-002",
+ "title": "SMT. ANITA versus HARI OM SHARMA",
+ "petitioner": "SMT. ANITA",
+ "respondent": "HARI OM SHARMA",
+ "case_no": "AO/229/2013",
+ "case_type": "AO",
+ "decision_date": "2013-08-27",
+ "cnr": "UKHC010009712013",
+ "doc_kind": "order",
+ "order_type": "AO/229/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIchQQpGbmFBJqrmepsgLs8IsmuTTEfIheNjmC8mWXAIS&caseno=AO/229/2013&cCode=1&cino=UKHC010009712013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5ebb9e3d1b653ba9639824b73779fdb6d93568b022d0ea4e1eeb94463af7bdf7",
+ "fetched_at": "2026-11-20T05:58:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

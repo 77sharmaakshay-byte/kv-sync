@@ -6,7 +6,7 @@
  "registration_number": "AO /324/2016",
  "registration_date": "2016-06-13",
  "first_hearing_date": "2016-10-03",
- "next_hearing_date": "2026-10-30",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
  "case_stage": "ORDER MATTERS -17",
  "status": "",
@@ -43,6 +43,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-10-30",
+   "purpose": "ORDER MATTERS -17",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-30",
    "business_date": "2026-10-09",
@@ -158,6 +165,15 @@
    "order_type": "AO/324/2016",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBTZCnrBRrDPHtfyxx%2BKzhsWWpgyaqpjSXhLsTfYUpjUz&caseno=AO/324/2016&cCode=1&cino=UKHC010044022016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-30",
+   "order_type": "AO/324/2016",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBTZCnrBRrDPHtfyxx%2BKzhsXXBtGC8rqHgRy9SeczxpoG&caseno=AO/324/2016&cCode=1&cino=UKHC010044022016&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

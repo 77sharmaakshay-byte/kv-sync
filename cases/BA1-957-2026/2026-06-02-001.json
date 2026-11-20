@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/957/2026:2026-06-02-001",
+ "title": "NAVEEN SINGH MEHRA versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "NAVEEN SINGH MEHRA",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA1/957/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-02",
+ "cnr": "UKHC010093652026",
+ "doc_kind": "order",
+ "order_type": "BA1/957/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi85v7neog%2Bf2p2P%2F0jo2yXySdl4avg37if4daQt8aTM&caseno=BA1/957/2026&cCode=1&cino=UKHC010093652026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7103138f89c08eb69537cc246aac17c1b9d1e66a65056a2459cf3031f769033a",
+ "fetched_at": "2026-11-20T05:47:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

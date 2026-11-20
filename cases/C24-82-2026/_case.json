@@ -1,24 +1,57 @@
 {
  "cnr_number": "UKHC010196922026",
  "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "filing_number": "C24 /10191/2026",
+ "filing_date": "2026-10-31",
+ "registration_number": "C24 /82/2026",
+ "registration_date": "2026-10-31",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
+ "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "RAHUL KUMAR GUPTA",
+   "advocate": "SAGAR KOTHARI,SUNAYNA KOHLI KOTHARI,SUNAYNA KOHLI KOTHARI, ,VAIBHAV SINGH CHAUHAN,SUNAYNA KOHLI KOTHARI"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "SAIF ULLAH ALIAS SAIFUDDIN",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Code of Civil Procedure, 1908 (Act No. 5 of 1908)",
+   "sections": "24"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-11-06",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-11-06",
+   "order_type": "C24/82/2026",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpZF%2BZMRuOWQKqjextw7OTbiepe49jGNSrkQrYslZYT9&caseno=C24/82/2026&cCode=1&cino=UKHC010196922026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

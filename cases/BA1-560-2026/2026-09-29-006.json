@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/560/2026:2026-09-29-006",
+ "title": "RAHUL KUMAR versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "RAHUL KUMAR",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA1/560/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010055812026",
+ "doc_kind": "order",
+ "order_type": "BA1/560/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhB1sr3z9k8G3Dc9b3Kdcrnq26LIvNIWqkHX4MMJgTR7&caseno=BA1/560/2026&cCode=1&cino=UKHC010055812026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6bba11ca483fc96ea7793c5ee21c64d47798e815d8aae02898e4755169796733",
+ "fetched_at": "2026-11-20T05:47:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

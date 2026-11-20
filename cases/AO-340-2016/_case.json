@@ -6,9 +6,9 @@
  "registration_number": "AO /340/2016",
  "registration_date": "2016-06-23",
  "first_hearing_date": "2016-07-19",
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "case_stage": "FOR FINAL HEARING -40",
  "status": "",
  "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
  "bench_type": "Single Bench",
@@ -48,67 +48,74 @@
  ],
  "history": [
   {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-10-16",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Subhash Upadhyay",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2019-05-10",
    "business_date": "2018-06-27",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "",
-   "cause_list_type": ""
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2018-06-27",
    "business_date": "2018-06-22",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "",
-   "cause_list_type": ""
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2018-06-22",
    "business_date": "2018-05-10",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "",
-   "cause_list_type": ""
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2018-05-10",
    "business_date": "2018-04-19",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "",
-   "cause_list_type": ""
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2018-04-19",
    "business_date": "2018-01-02",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "",
-   "cause_list_type": ""
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2018-01-02",
    "business_date": "2017-10-11",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "",
-   "cause_list_type": ""
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2017-10-11",
    "business_date": "2016-07-29",
    "purpose": "Order on Applications (Time Barred Cases) -250",
    "judge": "",
-   "cause_list_type": ""
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2016-07-29",
    "business_date": "2016-07-19",
    "purpose": "Order on Applications (Time Barred Cases) -250",
    "judge": "",
-   "cause_list_type": ""
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": "2016-07-19",
    "business_date": "2016-06-24",
    "purpose": "Time Barred (Fresh Cases) -247",
    "judge": "",
-   "cause_list_type": ""
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
  "orders": [

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/229/2013:2026-05-22-004",
+ "title": "SMT. ANITA versus HARI OM SHARMA",
+ "petitioner": "SMT. ANITA",
+ "respondent": "HARI OM SHARMA",
+ "case_no": "AO/229/2013",
+ "case_type": "AO",
+ "decision_date": "2026-05-22",
+ "cnr": "UKHC010009712013",
+ "doc_kind": "order",
+ "order_type": "AO/229/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIchQQpGbmFBJqrmepsgLs8JZp2VVCCmetoKiXqSAM93m&caseno=AO/229/2013&cCode=1&cino=UKHC010009712013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d1cbe508aa49c15a74c794f96a5a1439e2f9005d8371d42847f9ea833be8d353",
+ "fetched_at": "2026-11-20T05:58:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/105/2026:2026-09-29-006",
+ "title": "M/S SAI RAM STONE CRUSHER versus UNION OF INDIA",
+ "petitioner": "M/S SAI RAM STONE CRUSHER",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMB/105/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010024732026",
+ "doc_kind": "order",
+ "order_type": "WPMB/105/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt1gVEiesRp4oz8m2fIoIC2bRtzY%2FY8FgxEWh0cqaMpN&caseno=WPMB/105/2026&cCode=1&cino=UKHC010024732026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a878d0da5f5afec67ee9ecb70a5aa8d9ed3b37b6569c4fd9234bdf7fb83aeaee",
+ "fetched_at": "2026-11-20T06:14:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

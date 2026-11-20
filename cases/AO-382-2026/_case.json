@@ -1,0 +1,66 @@
+{
+ "cnr_number": "UKHC010180222026",
+ "case_type": "AO",
+ "filing_number": "AO /9378/2026",
+ "filing_date": "2026-10-07",
+ "registration_number": "AO /382/2026",
+ "registration_date": "2026-10-07",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-20",
+ "decision_date": null,
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "status": "",
+ "coram": "Registrar (Judicial)",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "LAKHVINDER SINGH",
+   "advocate": "BALVINDER SINGH"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "KARNAIL SINGH",
+   "advocate": ""
+  },
+  {
+   "name": "SATNAM KAUR",
+   "advocate": ""
+  },
+  {
+   "name": "NATIONAL INSURANCE COMPANY LTD",
+   "advocate": ""
+  },
+  {
+   "name": "IFCO TOKIO GENERAL INSURANCE CO LTD",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Motor Vehicles Act, 1988 (Act No. 59 of 1988)",
+   "sections": "173"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-08",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-08",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

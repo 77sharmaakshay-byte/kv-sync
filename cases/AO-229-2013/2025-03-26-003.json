@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/229/2013:2025-03-26-003",
+ "title": "SMT. ANITA versus HARI OM SHARMA",
+ "petitioner": "SMT. ANITA",
+ "respondent": "HARI OM SHARMA",
+ "case_no": "AO/229/2013",
+ "case_type": "AO",
+ "decision_date": "2025-03-26",
+ "cnr": "UKHC010009712013",
+ "doc_kind": "order",
+ "order_type": "AO/229/2013",
+ "judges": [
+  "Daily Lok Adalat"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIchQQpGbmFBJqrmepsgLs8L1mLWk7ju19HF2pbsntM%2Fa&caseno=AO/229/2013&cCode=1&cino=UKHC010009712013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "65182bee6dc295362c76938a074b70182d5a1db3ff734fa1657e15fe201a1dc9",
+ "fetched_at": "2026-11-20T05:58:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

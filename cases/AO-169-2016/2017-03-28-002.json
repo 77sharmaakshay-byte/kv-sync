@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/169/2016:2017-03-28-002",
+ "title": "AJAY PRASAD UNIYAL versus SHRI VIRENDRA PRASAD BAHUGUNA",
+ "petitioner": "AJAY PRASAD UNIYAL",
+ "respondent": "SHRI VIRENDRA PRASAD BAHUGUNA",
+ "case_no": "AO/169/2016",
+ "case_type": "AO",
+ "decision_date": "2017-03-28",
+ "cnr": "UKHC010009072016",
+ "doc_kind": "order",
+ "order_type": "AO/169/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBTZMQAIus8OYB5JcGFaXh1L77qtX4xxIe6XrPlFxYa1B&caseno=AO/169/2016&cCode=1&cino=UKHC010009072016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b92d8104369b85b82c0781209f4aec7afe3c98a6643789078ac3894d95379f9a",
+ "fetched_at": "2026-11-20T05:53:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

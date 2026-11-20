@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/53/2018:2026-02-13-012",
+ "title": "HARIKRISHNA CHAUHAN versus SWAMI OMKARANAND SARASWATI CHARITABLE TRUST",
+ "petitioner": "HARIKRISHNA CHAUHAN",
+ "respondent": "SWAMI OMKARANAND SARASWATI CHARITABLE TRUST",
+ "case_no": "CLR/53/2018",
+ "case_type": "CLR",
+ "decision_date": "2026-02-13",
+ "cnr": "UKHC010020992018",
+ "doc_kind": "order",
+ "order_type": "CLR/53/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGL3MT3Tt2wEQB3URTZA098wQZI3gWQ%2BN%2B3MuIDaTmqLj8&caseno=CLR/53/2018&cCode=1&cino=UKHC010020992018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fa8f8c92b097143b7cc48b3970f8c983a44b8d1494c634c09509d54ad03b4895",
+ "fetched_at": "2026-11-20T05:56:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/555/2019:2021-10-25-003",
+ "title": "MEERA ARORA versus RAMESH ARORA",
+ "petitioner": "MEERA ARORA",
+ "respondent": "RAMESH ARORA",
+ "case_no": "CRLR/555/2019",
+ "case_type": "CRLR",
+ "decision_date": "2021-10-25",
+ "cnr": "UKHC010154542019",
+ "doc_kind": "order",
+ "order_type": "CRLR/555/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF0NRUqDU1G8skkxjwV7tzZ3z9YmsJAUSztWUULe7g%2Fmw&caseno=CRLR/555/2019&cCode=1&cino=UKHC010154542019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "200319c11ba77a04e183f9cf734efdbb3c37f39964bfc52a1a9bb39da1f5dbde",
+ "fetched_at": "2026-11-20T06:18:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

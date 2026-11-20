@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/480/2019:2019-11-19-002",
+ "title": "SUNIL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SUNIL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/480/2019",
+ "case_type": "CRLR",
+ "decision_date": "2019-11-19",
+ "cnr": "UKHC010131692019",
+ "doc_kind": "order",
+ "order_type": "CRLR/480/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BZSD4Rl6iz%2BsyRbPAwjOQQzkCF%2FOhYEU3PEI37fVStY&caseno=CRLR/480/2019&cCode=1&cino=UKHC010131692019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c1d54beacb89c1834f183ccd5bb81054f83d7a5adfcbc3c874ae329d1137bf45",
+ "fetched_at": "2026-11-20T06:18:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

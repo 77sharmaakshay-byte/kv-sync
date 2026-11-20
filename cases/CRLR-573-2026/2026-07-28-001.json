@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/573/2026:2026-07-28-001",
+ "title": "RAM KUMAR versus MAMTA",
+ "petitioner": "RAM KUMAR",
+ "respondent": "MAMTA",
+ "case_no": "CRLR/573/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-07-28",
+ "cnr": "UKHC010131242026",
+ "doc_kind": "order",
+ "order_type": "CRLR/573/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo9g3Yy7yrr8rHKN3OchB%2FuQNWQLK2nCGhWmlOJfJOnZ&caseno=CRLR/573/2026&cCode=1&cino=UKHC010131242026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e2246cceedaff005e7c79e6e1bd6406880f6292736e65902d448c3f1355cc406",
+ "fetched_at": "2026-11-20T05:55:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

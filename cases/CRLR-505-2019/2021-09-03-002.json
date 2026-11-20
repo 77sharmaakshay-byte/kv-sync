@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/505/2019:2021-09-03-002",
+ "title": "RAMESH ARORA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMESH ARORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/505/2019",
+ "case_type": "CRLR",
+ "decision_date": "2021-09-03",
+ "cnr": "UKHC010139432019",
+ "doc_kind": "order",
+ "order_type": "CRLR/505/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF2iXoMy%2BR%2B4ZiZEm%2B%2BVwo452ca2hNsSZhq7vXveK6iu3&caseno=CRLR/505/2019&cCode=1&cino=UKHC010139432019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "17b26c52e8b9578f4a4d9d5d424050662ef90544711bffea9425e43fc2c74cc5",
+ "fetched_at": "2026-11-20T06:19:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLR/44/2021:2023-03-01-006",
+ "title": "SURESH RATHOR versus MAHANT PEER PARAS NATH",
+ "petitioner": "SURESH RATHOR",
+ "respondent": "MAHANT PEER PARAS NATH",
+ "case_no": "CLR/44/2021",
+ "case_type": "CLR",
+ "decision_date": "2023-03-01",
+ "cnr": "UKHC010057992021",
+ "doc_kind": "order",
+ "order_type": "CLR/44/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkJhAF5q0Tns%2FmkkFIFXyw9PnZewysCMm9A9nS37ucBTZ&caseno=CLR/44/2021&cCode=1&cino=UKHC010057992021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9e39f10ad8c1ef7200bec56224b191d607ca6954174c600dbbc4e8329d6d5b73",
+ "fetched_at": "2026-11-20T05:56:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

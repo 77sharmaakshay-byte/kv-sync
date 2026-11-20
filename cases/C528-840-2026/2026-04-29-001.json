@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/840/2026:2026-04-29-001",
+ "title": "NARESH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/840/2026",
+ "case_type": "C528",
+ "decision_date": "2026-04-29",
+ "cnr": "UKHC010068572026",
+ "doc_kind": "order",
+ "order_type": "C528/840/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuoxfOGXDUFGH7ayeyRHxcani9ATRMhpJWX7pvdGzQ8b&caseno=C528/840/2026&cCode=1&cino=UKHC010068572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4431049ad2d8cb9330219ea19db14c8121b70aaa7d2855182346338472149735",
+ "fetched_at": "2026-11-20T05:48:16+00:00",
+ "fetched_by": "fetch_live.py"
+}
