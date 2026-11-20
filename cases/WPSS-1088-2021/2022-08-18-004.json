@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1088/2021:2022-08-18-004",
+ "title": "ASHWINI KUMAR versus UNION OF INDIA THROUGH SECRETARY HOMSE",
+ "petitioner": "ASHWINI KUMAR",
+ "respondent": "UNION OF INDIA THROUGH SECRETARY HOMSE",
+ "case_no": "WPSS/1088/2021",
+ "case_type": "WPSS",
+ "decision_date": "2022-08-18",
+ "cnr": "UKHC010102012021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1088/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkBACHwyPMDpjrls%2FG%2BRc%2F%2FZFpvz8QTYHOSMjVzlmvzf6&caseno=WPSS/1088/2021&cCode=1&cino=UKHC010102012021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "98f5f08fea9856d660084abd0fb8a5f4e124e3679ef4bf930d24021043634d7f",
+ "fetched_at": "2026-11-20T08:29:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

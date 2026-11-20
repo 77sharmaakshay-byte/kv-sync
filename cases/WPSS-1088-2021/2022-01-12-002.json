@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1088/2021:2022-01-12-002",
+ "title": "ASHWINI KUMAR versus UNION OF INDIA THROUGH SECRETARY HOMSE",
+ "petitioner": "ASHWINI KUMAR",
+ "respondent": "UNION OF INDIA THROUGH SECRETARY HOMSE",
+ "case_no": "WPSS/1088/2021",
+ "case_type": "WPSS",
+ "decision_date": "2022-01-12",
+ "cnr": "UKHC010102012021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1088/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkBACHwyPMDpjrls%2FG%2BRc%2F%2Fby%2FZZg8XG8lJU8IcarUfRB&caseno=WPSS/1088/2021&cCode=1&cino=UKHC010102012021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d62d890944feb1a2b23a604ce70f109dec2b97dbd6d530f3c46647041903fcb1",
+ "fetched_at": "2026-11-20T08:29:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

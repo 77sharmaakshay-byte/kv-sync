@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3145/2024:2024-11-14-001",
+ "title": "RAM MAHESH versus STATE OF UTTARAKHAND",
+ "petitioner": "RAM MAHESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3145/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-11-14",
+ "cnr": "UKHC010179822024",
+ "doc_kind": "order",
+ "order_type": "WPMS/3145/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcEH4O8RYHVYRjwBnpdU%2F5BlczGayouJ3eqI2bYvfhDGj&caseno=WPMS/3145/2024&cCode=1&cino=UKHC010179822024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "159a5470206d00b80e8d3fbe8bd346d95094e188f8e58281bafb6952d3ec4c77",
+ "fetched_at": "2026-11-20T08:27:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

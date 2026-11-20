@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3500/2019:2022-12-20-001",
+ "title": "GOPAL KRISHNA BARTHWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "GOPAL KRISHNA BARTHWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3500/2019",
+ "case_type": "WPMS",
+ "decision_date": "2022-12-20",
+ "cnr": "UKHC010184662019",
+ "doc_kind": "order",
+ "order_type": "WPMS/3500/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2FGxzcxk9L6d1TvLcrk3sgQW0SJ0hr9LqtWU0Zmixh%2FV&caseno=WPMS/3500/2019&cCode=1&cino=UKHC010184662019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "adfb599a23607f433ec290bf8ff90b32ecd71b04242d5b81dc36f5f85340dc14",
+ "fetched_at": "2026-11-20T08:27:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

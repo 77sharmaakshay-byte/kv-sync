@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1088/2021:2026-09-30-016",
+ "title": "ASHWINI KUMAR versus UNION OF INDIA THROUGH SECRETARY HOMSE",
+ "petitioner": "ASHWINI KUMAR",
+ "respondent": "UNION OF INDIA THROUGH SECRETARY HOMSE",
+ "case_no": "WPSS/1088/2021",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010102012021",
+ "doc_kind": "order",
+ "order_type": "WPSS/1088/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkBACHwyPMDpjrls%2FG%2BRc%2F%2FbOuxD%2FF7lqXzGss6vX8sHv&caseno=WPSS/1088/2021&cCode=1&cino=UKHC010102012021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f2e09786a3a37d4c83e72677d1b2306e8060f76fabc73d0b2537b0fc7efcdf31",
+ "fetched_at": "2026-11-20T08:29:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/140/2024:2025-11-24-005",
+ "title": "SUMIT AGARWAL versus DIVYA AGARWAL",
+ "petitioner": "SUMIT AGARWAL",
+ "respondent": "DIVYA AGARWAL",
+ "case_no": "FA/140/2024",
+ "case_type": "FA",
+ "decision_date": "2025-11-24",
+ "cnr": "UKHC010114002024",
+ "doc_kind": "order",
+ "order_type": "FA/140/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJxqGfeXalR1GpZYdBA2V64kuBhQ3n2bitpJnCVZYVLe&caseno=FA/140/2024&cCode=1&cino=UKHC010114002024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ce34ceed75d24703880cd659de2674c367205fbfd3010b412e597e5f79757926",
+ "fetched_at": "2026-11-20T08:27:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

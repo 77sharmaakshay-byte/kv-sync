@@ -6,10 +6,10 @@
  "registration_number": "WPCRL /780/2025",
  "registration_date": "2025-07-21",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
- "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
- "status": "",
+ "next_hearing_date": null,
+ "decision_date": "2026-11-20",
+ "case_stage": "",
+ "status": "Case disposed",
  "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
@@ -67,6 +67,27 @@
    "hearing_date": "2025-07-23",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-20",
+   "purpose": "Disposed",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-17",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-17",
+   "business_date": "2026-10-13",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
@@ -130,6 +151,33 @@
    "order_type": "WPCRL/780/2025",
    "judge": "Hon'ble Mr. Justice Ashish Naithani",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7m75%2BKxkz7VNVkaWNoL1SXiL8r4%2FnSRYU1kA7lmWEiO&caseno=WPCRL/780/2025&cCode=1&cino=UKHC010112012025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPCRL/780/2025",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7m75%2BKxkz7VNVkaWNoL1SVelGqsEEDD6jBb%2Bs%2FoYgCL&caseno=WPCRL/780/2025&cCode=1&cino=UKHC010112012025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-17",
+   "order_type": "WPCRL/780/2025",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7m75%2BKxkz7VNVkaWNoL1SUMWSqsnwNfpI8Ip%2FTj3txu&caseno=WPCRL/780/2025&cCode=1&cino=UKHC010112012025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-17",
+   "order_type": "WPCRL/780/2025",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7m75%2BKxkz7VNVkaWNoL1SXSYHGL6r%2FfjFPpYoKZfj2a&caseno=WPCRL/780/2025&cCode=1&cino=UKHC010112012025&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""
