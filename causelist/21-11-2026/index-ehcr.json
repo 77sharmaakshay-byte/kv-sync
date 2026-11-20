@@ -1,9 +1,12 @@
 {
  "date": "21-11-2026",
- "fetched": "19-11-2026",
+ "fetched": "20-11-2026",
  "source": "ehcr",
  "uploads": [
-  "DAILY CAUSE LIST (ADVANCE)|19.11.2026 07:02 PM"
+  "DAILY CAUSE LIST (ADVANCE)|19.11.2026 07:02 PM",
+  "DAILY CAUSELIST|20.11.2026 05:37 PM",
+  "DAILY LIST REGISTRAR JUDICIAL|20.11.2026 06:31 PM",
+  "HON'BLE MR. JUSTICE RAKESH THAPLIYAL   SUPPLEMENTARY 1|20.11.2026 06:34 PM"
  ],
  "benches": [
   {
@@ -14,6 +17,51 @@
    "source_pdf": "20261121_990_0.pdf",
    "uploaded": "19.11.2026 07:02 PM",
    "chars": 6295
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 03",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261121_1001_0-01-court-03.pdf",
+   "source_pdf": "20261121_1001_0.pdf",
+   "uploaded": "20.11.2026 05:37 PM",
+   "chars": 26139
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 05",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261121_1001_0-02-court-05.pdf",
+   "source_pdf": "20261121_1001_0.pdf",
+   "uploaded": "20.11.2026 05:37 PM",
+   "chars": 10391
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 07",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261121_1001_0-03-court-07.pdf",
+   "source_pdf": "20261121_1001_0.pdf",
+   "uploaded": "20.11.2026 05:37 PM",
+   "chars": 8375
+  },
+  {
+   "kind": "Daily",
+   "bench": "DAILY LIST REGISTRAR JUDICIAL",
+   "type": "DAILY LIST REGISTRAR JUDICIAL",
+   "file": "ehcr-20261121_1013_0-01.pdf",
+   "source_pdf": "20261121_1013_0.pdf",
+   "uploaded": "20.11.2026 06:31 PM",
+   "chars": 8389
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "Court 03",
+   "type": "HON'BLE MR. JUSTICE RAKESH THAPLIYAL   SUPPLEMENTARY 1",
+   "file": "ehcr-20261121_1003_1172-01-court-03.pdf",
+   "source_pdf": "20261121_1003_1172.pdf",
+   "uploaded": "20.11.2026 06:34 PM",
+   "chars": 1742
   }
  ]
 }
