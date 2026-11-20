@@ -1,15 +1,119 @@
 {
  "date": "21-11-2026",
- "fetched": "20-11-2026",
+ "fetched": "21-11-2026",
  "benches": [
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Manoj Kumar Tiwari, Hon'ble Mr. Justice Subhash Upadhyay",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-01-Hon_ble_Mr._Justice_Manoj_Kumar_Tiwari_Hon_ble_Mr._Justice_Subhash_Upadhyay-DAILY_CAUSE_LIST.pdf",
+   "pages": 7,
+   "chars": 10300
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Manoj Kumar Tiwari, Hon'ble Mr. Justice Subhash Upadhyay",
+   "type": "SUPPLEMENTARY CAUSE LIST I",
+   "file": "civil-02-Hon_ble_Mr._Justice_Manoj_Kumar_Tiwari_Hon_ble_Mr._Justice_Subhash_Upadhyay-SUPPLEMENTARY_CAUSE_LIST_I.pdf",
+   "pages": 2,
+   "chars": 2124
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Manoj Kumar Tiwari, Hon'ble Mr. Justice Subhash Upadhyay",
+   "type": "DAILY CAUSE LIST II",
+   "file": "civil-03-Hon_ble_Mr._Justice_Manoj_Kumar_Tiwari_Hon_ble_Mr._Justice_Subhash_Upadhyay-DAILY_CAUSE_LIST_II.pdf",
+   "pages": 2,
+   "chars": 2518
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-04-Hon_ble_Mr._Justice_Manoj_Kumar_Tiwari-DAILY_CAUSE_LIST.pdf",
+   "pages": 4,
+   "chars": 5089
+  },
+  {
+   "kind": "civil",
+   "bench": "Registrar (Judicial)",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-05-Registrar_Judicial_-DAILY_CAUSE_LIST.pdf",
+   "pages": 7,
+   "chars": 8899
+  },
+  {
+   "kind": "civil",
+   "bench": "Registrar",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-06-Registrar-DAILY_CAUSE_LIST.pdf",
+   "pages": 2,
+   "chars": 2041
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "type": "SUPPLEMENTARY CAUSE LIST I",
+   "file": "civil-07-Hon_ble_Mr._Justice_Rakesh_Thapliyal-SUPPLEMENTARY_CAUSE_LIST_I.pdf",
+   "pages": 2,
+   "chars": 1809
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-08-Hon_ble_Mr._Justice_Rakesh_Thapliyal-DAILY_CAUSE_LIST.pdf",
+   "pages": 18,
+   "chars": 26987
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Alok Mahra, Hon'ble Mr. Justice Subhash Upadhyay",
+   "type": "DAILY CAUSE LIST (Eliminated)",
+   "file": "civil-09-Hon_ble_Mr._Justice_Alok_Mahra_Hon_ble_Mr._Justice_Subhash_Upadhyay-DAILY_CAUSE_LIST_Eliminated.pdf",
+   "pages": 3,
+   "chars": 3930
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Alok Mahra",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-10-Hon_ble_Mr._Justice_Alok_Mahra-DAILY_CAUSE_LIST.pdf",
+   "pages": 5,
+   "chars": 6348
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Alok Mahra",
+   "type": "DAILY CAUSE LIST II",
+   "file": "civil-11-Hon_ble_Mr._Justice_Alok_Mahra-DAILY_CAUSE_LIST_II.pdf",
+   "pages": 3,
+   "chars": 4415
+  },
   {
    "kind": "civil",
    "bench": "Hon'ble Mr. Justice Alok Mahra, Hon'ble Mr. Justice Subhash Upadhyay",
    "type": "DAILY CAUSE LIST",
    "file": "civil-12-Hon_ble_Mr._Justice_Alok_Mahra_Hon_ble_Mr._Justice_Subhash_Upadhyay-DAILY_CAUSE_LIST.pdf",
-   "pages": 3,
-   "chars": 3930
+   "pages": 4,
+   "chars": 4407
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Siddhartha Sah",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-13-Hon_ble_Mr._Justice_Siddhartha_Sah-DAILY_CAUSE_LIST.pdf",
+   "pages": 4,
+   "chars": 4774
+  },
+  {
+   "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Siddhartha Sah",
+   "type": "DAILY CAUSE LIST II",
+   "file": "civil-14-Hon_ble_Mr._Justice_Siddhartha_Sah-DAILY_CAUSE_LIST_II.pdf",
+   "pages": 1,
+   "chars": 1404
   }
  ],
- "errors": 26
+ "errors": 0
 }
