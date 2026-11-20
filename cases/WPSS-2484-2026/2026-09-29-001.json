@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2484/2026:2026-09-29-001",
+ "title": "RAJIV LOCHAN versus UNION OF INDIA",
+ "petitioner": "RAJIV LOCHAN",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/2484/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010169962026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2484/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmdZ6oI7cZ2kfhwqHsQWwCqj6biSZtHWoT0U5fOSYsXT&caseno=WPSS/2484/2026&cCode=1&cino=UKHC010169962026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "84afc2085b6e582003a81abe5d774b6a78f11f9a014dbee45f0261ab89498981",
+ "fetched_at": "2026-11-20T05:11:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

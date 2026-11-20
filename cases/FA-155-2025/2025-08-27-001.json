@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/155/2025:2025-08-27-001",
+ "title": "MANEESHA ALIAS MONA versus VARDAN",
+ "petitioner": "MANEESHA ALIAS MONA",
+ "respondent": "VARDAN",
+ "case_no": "FA/155/2025",
+ "case_type": "FA",
+ "decision_date": "2025-08-27",
+ "cnr": "UKHC010132822025",
+ "doc_kind": "order",
+ "order_type": "FA/155/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5aXyQyNCcPbIwKEkxPMaCrT4kw7REVVgtelQ%2BzULEeo&caseno=FA/155/2025&cCode=1&cino=UKHC010132822025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b2c8a1ea16212f68100c6a856e10cb362282428dd5d5784795280ef8b348c678",
+ "fetched_at": "2026-11-20T04:57:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

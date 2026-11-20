@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/52/2026:2026-08-20-003",
+ "title": "POOJA SHARMA versus UTTARAKHAND OPEN UNIVERSITY",
+ "petitioner": "POOJA SHARMA",
+ "respondent": "UTTARAKHAND OPEN UNIVERSITY",
+ "case_no": "WPSB/52/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010016532026",
+ "doc_kind": "order",
+ "order_type": "WPSB/52/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvmEu96mZn8pk0bPmscxo5JpWQhAeegDuNA5lNwfaC1L&caseno=WPSB/52/2026&cCode=1&cino=UKHC010016532026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c265c4aa0481a9ccdcee191d5a579a5c3f9d4b74b5b6f63dce47808974feb033",
+ "fetched_at": "2026-11-20T04:48:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

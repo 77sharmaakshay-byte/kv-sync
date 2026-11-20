@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1192/2024:2025-07-07-003",
+ "title": "MOHANI DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHANI DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1192/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-07-07",
+ "cnr": "UKHC010068022024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1192/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcHLyu1Hg8XjWLYfyNvkvWzAdqcWxtpzl3fZuIEXRayBB&caseno=WPMS/1192/2024&cCode=1&cino=UKHC010068022024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ed352ed93a84481ca2d059408b30729da847dca3008f4f7545a6c202757e1be3",
+ "fetched_at": "2026-11-20T04:46:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

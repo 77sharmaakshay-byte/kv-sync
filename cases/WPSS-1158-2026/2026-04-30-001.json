@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1158/2026:2026-04-30-001",
+ "title": "SEEMA versus STATE OF UTTARAKHAND",
+ "petitioner": "SEEMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1158/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-04-30",
+ "cnr": "UKHC010070372026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1158/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjcJyWPhPbNqQ3NsBYEjHahzI4fUkKRdBEthgo1%2BbQgj&caseno=WPSS/1158/2026&cCode=1&cino=UKHC010070372026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bbe6cc51f151e9d9ff78560f16646ee4674e8944f740021b4c3ac921e0ed7aca",
+ "fetched_at": "2026-11-20T05:21:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

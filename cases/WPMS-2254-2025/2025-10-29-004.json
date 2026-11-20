@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2254/2025:2025-10-29-004",
+ "title": "SHUBHAM SAINI versus STATE OF UTTARAKHAND",
+ "petitioner": "SHUBHAM SAINI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2254/2025",
+ "case_type": "WPMS",
+ "decision_date": "2025-10-29",
+ "cnr": "UKHC010115382025",
+ "doc_kind": "order",
+ "order_type": "WPMS/2254/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwW7sJ%2BbLzbhTK7aWG6Bx94o6lqgqRDJExO6fWfyJFAn&caseno=WPMS/2254/2025&cCode=1&cino=UKHC010115382025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "65891121104f39879cfd22eca3c92e0ef96c50c75f28aeb68882e51566773d6c",
+ "fetched_at": "2026-11-20T04:48:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

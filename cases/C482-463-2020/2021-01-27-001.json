@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/463/2020:2021-01-27-001",
+ "title": "ROHIT VERMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ROHIT VERMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/463/2020",
+ "case_type": "C482",
+ "decision_date": "2021-01-27",
+ "cnr": "UKHC010040192020",
+ "doc_kind": "order",
+ "order_type": "C482/463/2020",
+ "judges": [
+  "Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjCiUbPDVxNPw7hoEdb3rRZLvv2nga2Lprk15EqsKzWdV&caseno=C482/463/2020&cCode=1&cino=UKHC010040192020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4f9ec9171eb45b722321fbb3195a9498c94458af18844deb1d372d9306c122b3",
+ "fetched_at": "2026-11-20T04:51:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

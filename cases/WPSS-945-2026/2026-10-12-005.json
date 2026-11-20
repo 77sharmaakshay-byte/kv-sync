@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/945/2026:2026-10-12-005",
+ "title": "DEEPAK KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DEEPAK KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/945/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010050832026",
+ "doc_kind": "order",
+ "order_type": "WPSS/945/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmhbwM6Xt5lq0wWgAOkuybzLhCFNPpzXzY4OMY4l7XCb&caseno=WPSS/945/2026&cCode=1&cino=UKHC010050832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "da979d59c0abd4e09d266219286228007f588b6456211cd9a73365503f9383ff",
+ "fetched_at": "2026-11-20T05:10:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

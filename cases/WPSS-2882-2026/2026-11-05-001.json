@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2882/2026:2026-11-05-001",
+ "title": "DEVENDRA PANDEY versus UNION OF INDIA",
+ "petitioner": "DEVENDRA PANDEY",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/2882/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-11-05",
+ "cnr": "UKHC010198342026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2882/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuXBOQBULtkYqgkYWmUGT0O8P5z3SdGgRSYsTOyzcvcJ&caseno=WPSS/2882/2026&cCode=1&cino=UKHC010198342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a2f9d083a428f20f6f1e7b11da4367710e24d45ed57178dcd2099fb736847291",
+ "fetched_at": "2026-11-20T05:11:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

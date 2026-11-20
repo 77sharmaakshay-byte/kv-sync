@@ -1,0 +1,83 @@
+{
+ "cnr_number": "UKHC010175622026",
+ "case_type": "ARBAP",
+ "filing_number": "ARBAP /9142/2026",
+ "filing_date": "2026-09-30",
+ "registration_number": "ARBAP /47/2026",
+ "registration_date": "2026-09-30",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-20",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "UP RAJKIYA NIRMAN NIGAM LIMITED",
+   "advocate": "ANIL KUMAR JOSHI"
+  },
+  {
+   "name": "ADDITIONAL PROJECT MANAGER",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "THE MANAGING DIRECTOR",
+   "advocate": "VIPUL SHARMA"
+  },
+  {
+   "name": "THE GENERAL MANAGER",
+   "advocate": "VIPUL SHARMA"
+  },
+  {
+   "name": "THE REGIONAL MANAGER",
+   "advocate": "VIPUL SHARMA"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Arbitration and Conciliation Act, 1996 (Act No. 26 of 1996)",
+   "sections": "11(6)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-01",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-10-16",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-01",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-10-16",
+   "order_type": "ARBAP/47/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtdaBT9%2BQ7rxAowGVhgRiSOYHTK0P%2B0skPTs4P%2FfPEpJ&caseno=ARBAP/47/2026&cCode=1&cino=UKHC010175622026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

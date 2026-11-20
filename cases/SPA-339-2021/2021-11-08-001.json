@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/339/2021:2021-11-08-001",
+ "title": "UTTARAKHAND STATE CO-OPERATIVE BANK LTD. versus THE DISTRICT MAGISTRATE",
+ "petitioner": "UTTARAKHAND STATE CO-OPERATIVE BANK LTD.",
+ "respondent": "THE DISTRICT MAGISTRATE",
+ "case_no": "SPA/339/2021",
+ "case_type": "SPA",
+ "decision_date": "2021-11-08",
+ "cnr": "UKHC010124362021",
+ "doc_kind": "order",
+ "order_type": "SPA/339/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Sri Narayan Singh Dhanik, J."
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkNBcRMfOKyhIQbW2lOmMkCWTzu784I80cbemdIxVaEov&caseno=SPA/339/2021&cCode=1&cino=UKHC010124362021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "25918238ec1630639cf0427c95c24c30f58d3ccbc88b2b17cbdae18c67cd5d3c",
+ "fetched_at": "2026-11-20T04:44:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

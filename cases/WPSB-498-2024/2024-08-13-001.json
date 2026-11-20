@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/498/2024:2024-08-13-001",
+ "title": "VINOD CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "VINOD CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/498/2024",
+ "case_type": "WPSB",
+ "decision_date": "2024-08-13",
+ "cnr": "UKHC010126242024",
+ "doc_kind": "order",
+ "order_type": "WPSB/498/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcNtEDUMJTYWoO4PFeszlnlr0hikmEoe84da6AHHQ%2Fc%2BH&caseno=WPSB/498/2024&cCode=1&cino=UKHC010126242024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f7473446017f210d8723da56b7a35586e0112ad16391e969a9bf64b7945b3dc1",
+ "fetched_at": "2026-11-20T04:45:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

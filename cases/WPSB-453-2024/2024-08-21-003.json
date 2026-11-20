@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/453/2024:2024-08-21-003",
+ "title": "DR MEGHNA PARWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "DR MEGHNA PARWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/453/2024",
+ "case_type": "WPSB",
+ "decision_date": "2024-08-21",
+ "cnr": "UKHC010113882024",
+ "doc_kind": "order",
+ "order_type": "WPSB/453/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJlSU2Ro3BPVcFMMpzumHIFELnksPA4%2F0EpoEkScSkE2&caseno=WPSB/453/2024&cCode=1&cino=UKHC010113882024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a6aaf5ab0ad51b9135fdf00e516671f7749de7d20518b4681ed3acf5e9907953",
+ "fetched_at": "2026-11-20T04:47:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

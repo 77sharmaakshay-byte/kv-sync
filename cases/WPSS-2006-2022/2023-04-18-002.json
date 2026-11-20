@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2006/2022:2023-04-18-002",
+ "title": "PRIYANK SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "PRIYANK SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2006/2022",
+ "case_type": "WPSS",
+ "decision_date": "2023-04-18",
+ "cnr": "UKHC010153032022",
+ "doc_kind": "order",
+ "order_type": "WPSS/2006/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07jarw0fbhiUcsa%2FBr0c8fV2%2B1gEZ30F4UYOlt8LYzvG&caseno=WPSS/2006/2022&cCode=1&cino=UKHC010153032022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ebaadcb55ed26c64dca46e3ec28fed5c227cbdac46dbb7619c09a329da8c597f",
+ "fetched_at": "2026-11-20T05:20:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

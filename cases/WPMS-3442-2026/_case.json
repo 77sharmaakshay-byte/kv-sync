@@ -6,7 +6,7 @@
  "registration_number": "WPMS /3442/2026",
  "registration_date": "2026-11-03",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-05",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
@@ -25,7 +25,7 @@
  "respondents": [
   {
    "name": "UNION OF INDIA",
-   "advocate": "DEPUTY  S.G."
+   "advocate": "DEPUTY  S.G.,"
   },
   {
    "name": "REGIONAL PASSPORT OFFICER",
@@ -61,7 +61,33 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-11-05",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-11-05",
+   "order_type": "WPMS/3442/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqSGWfWsTPCVqKeebxNTB2hYLQoEwKstqzjSqwjBDJDC&caseno=WPMS/3442/2026&cCode=1&cino=UKHC010199742026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-05",
+   "order_type": "WPMS/3442/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqSGWfWsTPCVqKeebxNTB2jVYFKsIJiawGHDSVRK18rW&caseno=WPMS/3442/2026&cCode=1&cino=UKHC010199742026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

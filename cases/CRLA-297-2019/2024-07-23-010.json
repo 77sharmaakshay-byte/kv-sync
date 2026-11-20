@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/297/2019:2024-07-23-010",
+ "title": "ARUN versus STATE OF UTTARAKHAND",
+ "petitioner": "ARUN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/297/2019",
+ "case_type": "CRLA",
+ "decision_date": "2024-07-23",
+ "cnr": "UKHC010092282019",
+ "doc_kind": "order",
+ "order_type": "CRLA/297/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFxNZSkZ6PonvyYcjLolL%2BXCcsjipsVfyQKoI3ZyA00hj&caseno=CRLA/297/2019&cCode=1&cino=UKHC010092282019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7c7aa32d42cb5412dc3c8f202b14acbfe1bdcc0c1b6374f970b3316650a11102",
+ "fetched_at": "2026-11-20T04:56:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

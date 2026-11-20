@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/458/2024:2024-07-30-001",
+ "title": "BHAGWAT PATNI versus STATE OF UTTARAKHAND",
+ "petitioner": "BHAGWAT PATNI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/458/2024",
+ "case_type": "WPSB",
+ "decision_date": "2024-07-30",
+ "cnr": "UKHC010117452024",
+ "doc_kind": "order",
+ "order_type": "WPSB/458/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcOwQIRepurmwufLGyU1Mn6xY%2FMaMBOdDN4pDTkCTONQO&caseno=WPSB/458/2024&cCode=1&cino=UKHC010117452024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4fac8e20eb5f6795caec5a86ddd0fc9acc7f03c85e03821265268472cc96d1c8",
+ "fetched_at": "2026-11-20T04:45:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/128/2023:2024-05-08-003",
+ "title": "SATYA PRAKASH KUREEL versus STATE OF UTTARAKHAND",
+ "petitioner": "SATYA PRAKASH KUREEL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/128/2023",
+ "case_type": "SPA",
+ "decision_date": "2024-05-08",
+ "cnr": "UKHC010074752023",
+ "doc_kind": "order",
+ "order_type": "SPA/128/2023",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzFHA%2FAJlSigRrb54bzyff3eBQzacIj2BS%2Blet3LvKEw&caseno=SPA/128/2023&cCode=1&cino=UKHC010074752023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e1701c97006073badee284cf9b3e6c71a54b430d68acf3a21628d69c6bb9e6c4",
+ "fetched_at": "2026-11-20T04:59:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

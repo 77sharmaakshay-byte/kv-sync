@@ -6,9 +6,9 @@
  "registration_number": "WPMS /2127/2024",
  "registration_date": "2024-08-05",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-30",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "ORDERS ON APPLICATIONS -22",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
  "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
  "bench_type": "Single Bench",
@@ -48,6 +48,13 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-10-30",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -328,6 +335,15 @@
    "order_type": "WPMS/2127/2024",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcMa%2FqE1qdNnU9UaKCkSyijf82%2Fu%2BcyQ2nEXMV9xbeiel&caseno=WPMS/2127/2024&cCode=1&cino=UKHC010121862024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-30",
+   "order_type": "WPMS/2127/2024",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcMa%2FqE1qdNnU9UaKCkSyijcJCQKerxN2Qq3%2BONH1yWPp&caseno=WPMS/2127/2024&cCode=1&cino=UKHC010121862024&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

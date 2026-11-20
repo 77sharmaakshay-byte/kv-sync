@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3085/2026:2026-10-12-001",
+ "title": "SAURABH SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "SAURABH SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3085/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010176842026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3085/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvBBTM77zmbmnMGqfUgUDxYrOnbOZEFxNRpmJY7fRpL4&caseno=WPMS/3085/2026&cCode=1&cino=UKHC010176842026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c1877ff55c906d802d20059b45c21776151ef04490db2ef0847cd30508217360",
+ "fetched_at": "2026-11-20T05:19:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

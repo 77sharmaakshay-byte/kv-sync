@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/128/2023:2025-04-01-006",
+ "title": "SATYA PRAKASH KUREEL versus STATE OF UTTARAKHAND",
+ "petitioner": "SATYA PRAKASH KUREEL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "SPA/128/2023",
+ "case_type": "SPA",
+ "decision_date": "2025-04-01",
+ "cnr": "UKHC010074752023",
+ "doc_kind": "order",
+ "order_type": "SPA/128/2023",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzFHA%2FAJlSigRrb54bzyff1qGa%2Fhf%2BCI%2FNJiHdQN9eOO&caseno=SPA/128/2023&cCode=1&cino=UKHC010074752023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7f2a909b23f3865113845db764fb965d4fe531e8de0303f131aedc632eee6f6d",
+ "fetched_at": "2026-11-20T04:59:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

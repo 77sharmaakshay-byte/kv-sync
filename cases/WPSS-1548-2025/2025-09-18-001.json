@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1548/2025:2025-09-18-001",
+ "title": "TAMAN THAPA versus UNION OF INDIA",
+ "petitioner": "TAMAN THAPA",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1548/2025",
+ "case_type": "WPSS",
+ "decision_date": "2025-09-18",
+ "cnr": "UKHC010147332025",
+ "doc_kind": "order",
+ "order_type": "WPSS/1548/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmzlYTBawadsEZ3or9cPC3TDoyoIciDtlC3xy1Fvhy3ZM&caseno=WPSS/1548/2025&cCode=1&cino=UKHC010147332025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8e8bd3ab5c41a5b823b72ee5b531fb1a5dcdc10dae10d21a342d85447dd5b0e8",
+ "fetched_at": "2026-11-20T05:09:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

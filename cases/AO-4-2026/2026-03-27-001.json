@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/4/2026:2026-03-27-001",
+ "title": "NEESA versus UTTARAKHAND TRANSPORT CORPORATION",
+ "petitioner": "NEESA",
+ "respondent": "UTTARAKHAND TRANSPORT CORPORATION",
+ "case_no": "AO/4/2026",
+ "case_type": "AO",
+ "decision_date": "2026-03-27",
+ "cnr": "UKHC010003502026",
+ "doc_kind": "order",
+ "order_type": "AO/4/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQh9yA2tkN4hb%2FecmYJsY9XcIXKev%2BGOqKL89PuZaVZuw&caseno=AO/4/2026&cCode=1&cino=UKHC010003502026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c3f956823689f48743db6c2c774bec7b28ce3644cd02189f9bab698b240a2f58",
+ "fetched_at": "2026-11-20T05:21:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,11 +6,11 @@
  "registration_number": "C528 /1852/2026",
  "registration_date": "2026-08-19",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-05",
- "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
- "status": "",
- "coram": "Registrar (Judicial)",
+ "next_hearing_date": null,
+ "decision_date": "2026-11-20",
+ "case_stage": "",
+ "status": "Case disposed",
+ "coram": "Hon'ble Mr. Justice Alok Mahra",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -38,6 +38,20 @@
   {
    "hearing_date": "2026-08-21",
    "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-20",
+   "purpose": "Disposed",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-05",
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
    "cause_list_type": "DAILY CAUSE LIST"

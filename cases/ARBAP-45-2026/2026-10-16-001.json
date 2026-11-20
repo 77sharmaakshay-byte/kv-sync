@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ARBAP/45/2026:2026-10-16-001",
+ "title": "M/S MVM INFRATECH versus SUPERINTENDING ENGINEER 3RD CIRCLE PUBLIC WORKS DEPARTMENT",
+ "petitioner": "M/S MVM INFRATECH",
+ "respondent": "SUPERINTENDING ENGINEER 3RD CIRCLE PUBLIC WORKS DEPARTMENT",
+ "case_no": "ARBAP/45/2026",
+ "case_type": "ARBAP",
+ "decision_date": "2026-10-16",
+ "cnr": "UKHC010171322026",
+ "doc_kind": "order",
+ "order_type": "ARBAP/45/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrqvgxyGDo8qO14dsp3XnA3ey5UkROyKB2K7%2BA3MNLfa&caseno=ARBAP/45/2026&cCode=1&cino=UKHC010171322026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "27114f776d8b4ef4b49406ed8996081983ce0520335c0c3f83fd6cb29cee77df",
+ "fetched_at": "2026-11-20T05:02:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

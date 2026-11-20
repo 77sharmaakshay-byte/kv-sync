@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/312/2021:2021-09-27-001",
+ "title": "NARAYAN SINGH MEHTA versus DISTRICT MAGISTRATE COLLECTOR BAGESHWAR",
+ "petitioner": "NARAYAN SINGH MEHTA",
+ "respondent": "DISTRICT MAGISTRATE COLLECTOR BAGESHWAR",
+ "case_no": "SPA/312/2021",
+ "case_type": "SPA",
+ "decision_date": "2021-09-27",
+ "cnr": "UKHC010118882021",
+ "doc_kind": "order",
+ "order_type": "SPA/312/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkOVA%2B2c%2BsMkABgCrN8W83%2BT2cUgAlQ244Qz%2FrcikCQd8&caseno=SPA/312/2021&cCode=1&cino=UKHC010118882021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "933809cfeb0fb7c69354e817912d8ea0ff904eb3675e7edd3e2ac3329eaa5824",
+ "fetched_at": "2026-11-20T04:43:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

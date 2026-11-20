@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3528/2026:2026-11-18-001",
+ "title": "KAMAL SINGH versus MANJU PANDEY",
+ "petitioner": "KAMAL SINGH",
+ "respondent": "MANJU PANDEY",
+ "case_no": "WPMS/3528/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-18",
+ "cnr": "UKHC010203862026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3528/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhfUeRPZP5JDW%2FUDyipnsQuovufOtc2ZCI9ddGQiWYFS&caseno=WPMS/3528/2026&cCode=1&cino=UKHC010203862026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8d678ccd40c802be8b864cf0f7dd36a0a482683e818c86534f24a7388da49b32",
+ "fetched_at": "2026-11-20T05:09:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

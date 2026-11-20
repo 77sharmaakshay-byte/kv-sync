@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3500/2026:2026-11-06-001",
+ "title": "SRI ASHOK GOYAL versus PRAFULL SHARMA",
+ "petitioner": "SRI ASHOK GOYAL",
+ "respondent": "PRAFULL SHARMA",
+ "case_no": "WPMS/3500/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-06",
+ "cnr": "UKHC010202352026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3500/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsCDQuG7y%2BH9GUCDhy6Sp%2FBzoWLMW9MjPof0%2F3ckXZNJ&caseno=WPMS/3500/2026&cCode=1&cino=UKHC010202352026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5962b848efe792fc986c7f44fe145bffdc827d7a290b147054af596450647153",
+ "fetched_at": "2026-11-20T05:08:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

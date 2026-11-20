@@ -1,24 +1,160 @@
 {
  "cnr_number": "UKHC010050832026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "WPSS",
+ "filing_number": "WPSS /2702/2026",
+ "filing_date": "2026-04-01",
+ "registration_number": "WPSS /945/2026",
+ "registration_date": "2026-04-01",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "ADMISSION MATTERS -35",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "DEEPAK KUMAR",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "UTTARAKHAND SUBORDINATE SERVICE SELECTION COMMISSION",
+   "advocate": "SHAILENDRA NAURIYAL"
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-04-08",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-11-18",
+   "purpose": "ADMISSION MATTERS -35",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-18",
+   "business_date": "2026-11-02",
+   "purpose": "ADMISSION MATTERS -35",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-24",
+   "business_date": "2026-10-28",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-28",
+   "business_date": "2026-10-12",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-09-11",
+   "business_date": "2026-08-05",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-07-20",
+   "business_date": "2026-06-08",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-06-04",
+   "business_date": "2026-04-16",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-04-16",
+   "business_date": "2026-04-15",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-04-15",
+   "business_date": "2026-04-08",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-04-08",
+   "order_type": "WPSS/945/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmhbwM6Xt5lq0wWgAOkuybyHyMEFCDue%2BtJ7ir5jpdki&caseno=WPSS/945/2026&cCode=1&cino=UKHC010050832026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-04-15",
+   "order_type": "WPSS/945/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmhbwM6Xt5lq0wWgAOkuybxTi9Gi7k6lK%2FbOOpt67d5F&caseno=WPSS/945/2026&cCode=1&cino=UKHC010050832026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-04-16",
+   "order_type": "WPSS/945/2026",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmhbwM6Xt5lq0wWgAOkuybz2vEB9bU%2FoegZJ%2FYdz%2FWrR&caseno=WPSS/945/2026&cCode=1&cino=UKHC010050832026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-06-08",
+   "order_type": "WPSS/945/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmhbwM6Xt5lq0wWgAOkuybxnBhmcs2EEHpn4enOgwiaQ&caseno=WPSS/945/2026&cCode=1&cino=UKHC010050832026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-12",
+   "order_type": "WPSS/945/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmhbwM6Xt5lq0wWgAOkuybzLhCFNPpzXzY4OMY4l7XCb&caseno=WPSS/945/2026&cCode=1&cino=UKHC010050832026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

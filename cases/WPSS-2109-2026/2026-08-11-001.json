@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2109/2026:2026-08-11-001",
+ "title": "DEVI PRASAD LAKHERA versus HNB GARHWAL CENTRAL UNIVERSITY",
+ "petitioner": "DEVI PRASAD LAKHERA",
+ "respondent": "HNB GARHWAL CENTRAL UNIVERSITY",
+ "case_no": "WPSS/2109/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-11",
+ "cnr": "UKHC010139362026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2109/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsgVt2xdkouZkFyABhfVSKdBWKpY3DLLLnrAMTEM9w9V&caseno=WPSS/2109/2026&cCode=1&cino=UKHC010139362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "90a6bf206095b0c412ab8495c5d2f3f781930e22b9dcae3e402ce1258d3e2ea0",
+ "fetched_at": "2026-11-20T05:15:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

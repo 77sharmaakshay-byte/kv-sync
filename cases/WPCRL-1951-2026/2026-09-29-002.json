@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1951/2026:2026-09-29-002",
+ "title": "VAREESH versus STATE OF UTTARAKHAND",
+ "petitioner": "VAREESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1951/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010169662026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1951/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjHOFP8vPWRY5IpSzdJS04LmxU%2FZBd1klml9yUIXDyLV&caseno=WPCRL/1951/2026&cCode=1&cino=UKHC010169662026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1d9da42a832a5357c4be837550c9f70c430a0167850ce76c6d1c4754c436cb04",
+ "fetched_at": "2026-11-20T05:25:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

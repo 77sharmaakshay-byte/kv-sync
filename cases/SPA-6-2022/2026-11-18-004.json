@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/6/2022:2026-11-18-004",
+ "title": "NIDHI UNIYAL versus STATE OF UTTARAKHAND, THROUGH SECRETARY, MEDICAL,",
+ "petitioner": "NIDHI UNIYAL",
+ "respondent": "STATE OF UTTARAKHAND, THROUGH SECRETARY, MEDICAL,",
+ "case_no": "SPA/6/2022",
+ "case_type": "SPA",
+ "decision_date": "2026-11-18",
+ "cnr": "UKHC010006362022",
+ "doc_kind": "order",
+ "order_type": "SPA/6/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06s9MJG2iwsv8VGNBBjOSth1vwTDcWOZYZKYKbx6OA9V&caseno=SPA/6/2022&cCode=1&cino=UKHC010006362022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "34675f2e8d93afa83a9bc92e04769275b74c04ccf96c2bfb3d8a840010300ef9",
+ "fetched_at": "2026-11-20T04:45:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,7 +6,7 @@
  "registration_number": "BA2 /147/2026",
  "registration_date": "2026-09-07",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-06",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
  "case_stage": "BAIL MATTERS -98",
  "status": "",
@@ -39,6 +39,20 @@
    "hearing_date": "2026-09-09",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-26",
+   "business_date": "2026-11-06",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": null,
+   "purpose": "BAIL MATTERS -98",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2483/2026:2026-09-29-001",
+ "title": "YASHVEER SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "YASHVEER SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2483/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-29",
+ "cnr": "UKHC010169882026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2483/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrTi92owvHSHVfe3fLhjP1g09O7JDE5y0421ONfF1MzV&caseno=WPSS/2483/2026&cCode=1&cino=UKHC010169882026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "89f11ee07755e834823dc43d00d4b903c8a8a67f2432c1d50de87dc13f49c5e7",
+ "fetched_at": "2026-11-20T05:13:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

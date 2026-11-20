@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/358/2009:2014-11-11-003",
+ "title": "NATIONAL INSURANCE COMPANY LTD versus HARI SHANKAR GUPTA and OTHERS",
+ "petitioner": "NATIONAL INSURANCE COMPANY LTD",
+ "respondent": "HARI SHANKAR GUPTA and OTHERS",
+ "case_no": "AO/358/2009",
+ "case_type": "AO",
+ "decision_date": "2014-11-11",
+ "cnr": "UKHC010095562009",
+ "doc_kind": "order",
+ "order_type": "AO/358/2009",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "DIRECTIONS MATTERS -101",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=MGXjNlhHc3b4Zkl4Zse2fuBrdbC2lvmIiTjvsryw8CQr3pTyTME%2B8s9zmvkTHOuw&caseno=AO/358/2009&cCode=1&cino=UKHC010095562009&state_code=15&court_code=1&&appFlag=",
+ "sha256": "28687e8777d117ea55340841d1dd0bbf6d31a5abf02ca8f08f41b396e7f38ded",
+ "fetched_at": "2026-11-20T05:15:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

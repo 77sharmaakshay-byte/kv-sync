@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/288/2026:2026-02-03-001",
+ "title": "SHIVA versus STATE OF UTTARAKHAND",
+ "petitioner": "SHIVA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/288/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-02-03",
+ "cnr": "UKHC010015742026",
+ "doc_kind": "order",
+ "order_type": "WPSS/288/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqeMbLRCX%2Boj8NW%2FujYdCXCGgC14vUO8F3jbmMO6VnNu&caseno=WPSS/288/2026&cCode=1&cino=UKHC010015742026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0ad94b2f44ef7419c1e84522f3482119f6cf2b2495abd260652072145395b6b7",
+ "fetched_at": "2026-11-20T05:16:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

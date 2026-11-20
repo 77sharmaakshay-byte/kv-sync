@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1810/2026:2026-10-05-004",
+ "title": "BANI DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "BANI DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1810/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-10-05",
+ "cnr": "UKHC010157872026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1810/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgaikcsfRrSDa1oY53EGtcMzzPMFFpNela89GU6W4Hsz&caseno=WPCRL/1810/2026&cCode=1&cino=UKHC010157872026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d6f360153ec66926caf591faa78749b2e5961915ccfb5d93545850ee11d7e929",
+ "fetched_at": "2026-11-20T05:30:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,11 +6,11 @@
  "registration_number": "WPMS /3500/2026",
  "registration_date": "2026-11-05",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-06",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "AFTER FRESH MATTERS -128",
  "status": "",
- "coram": "Hon'ble Mr. Justice Ravindra Maithani",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -73,7 +73,40 @@
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-06",
+   "purpose": "",
+   "judge": "",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-11-06",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-11-06",
+   "order_type": "WPMS/3500/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsCDQuG7y%2BH9GUCDhy6Sp%2FBzoWLMW9MjPof0%2F3ckXZNJ&caseno=WPMS/3500/2026&cCode=1&cino=UKHC010202352026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-06",
+   "order_type": "WPMS/3500/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsCDQuG7y%2BH9GUCDhy6Sp%2FAukSOd5GLx73e%2FGUvQza31&caseno=WPMS/3500/2026&cCode=1&cino=UKHC010202352026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

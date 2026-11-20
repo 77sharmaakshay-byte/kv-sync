@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/242/2026:2026-02-02-002",
+ "title": "RUCHI YADAV versus STATE OF UTTARAKHAND",
+ "petitioner": "RUCHI YADAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/242/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-02-02",
+ "cnr": "UKHC010014812026",
+ "doc_kind": "order",
+ "order_type": "IA/1/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjl3QfulRSFKpMqxuI63qIp0AkTV%2FXUFLb6FvkFhgHdB&caseno=WPSS/242/2026&cCode=1&cino=UKHC010014812026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "36628b462a594696b5966c446065384130761be0685bcda98030919d3f444c26",
+ "fetched_at": "2026-11-20T05:18:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2488/2026:2026-11-04-002",
+ "title": "MANISHA versus STATE OF UTTARAKHAND",
+ "petitioner": "MANISHA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2488/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-11-04",
+ "cnr": "UKHC010170402026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2488/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQltomXiPrrpAbCQ1XVqxV5WsCbClXTcJIr22m%2BkwLH8Q&caseno=WPSS/2488/2026&cCode=1&cino=UKHC010170402026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b2593db9552878a0942c7bb741669eca743aba895cdcab9deff2a8374c91daf3",
+ "fetched_at": "2026-11-20T05:18:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

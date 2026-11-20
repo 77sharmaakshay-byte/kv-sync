@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1951/2026:2026-09-24-001",
+ "title": "VAREESH versus STATE OF UTTARAKHAND",
+ "petitioner": "VAREESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1951/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010169662026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1951/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjHOFP8vPWRY5IpSzdJS04IjzQE%2FpwkdcilLUdYHbAZC&caseno=WPCRL/1951/2026&cCode=1&cino=UKHC010169662026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2266f2eaf28fdbdd516ded024c2e17edc71ca4f6768c4ad76631a60927a0c6c4",
+ "fetched_at": "2026-11-20T05:25:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

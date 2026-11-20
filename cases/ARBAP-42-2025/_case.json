@@ -1,24 +1,114 @@
 {
  "cnr_number": "UKHC010113632025",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "ARBAP",
+ "filing_number": "ARBAP /5616/2025",
+ "filing_date": "2025-07-23",
+ "registration_number": "ARBAP /42/2025",
+ "registration_date": "2025-07-23",
  "first_hearing_date": null,
- "next_hearing_date": null,
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
- "coram": "",
- "bench_type": "",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+ "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
- "orders": []
+ "state": "UTTARAKHAND",
+ "district": "Haridwar",
+ "petitioners": [
+  {
+   "name": "MS ZANEKA DRUGS",
+   "advocate": "ESHAN SACHDEVA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "MS AMBROSIA DRUGS P LTD",
+   "advocate": ""
+  },
+  {
+   "name": "SUNIL ARORA",
+   "advocate": ""
+  },
+  {
+   "name": "ANUJ KUMAR",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Arbitration and Conciliation Act, 1996 (Act No. 26 of 1996)",
+   "sections": "11(6)"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2025-07-29",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr Justice G. Narendar",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-10-30",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-02-27",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2025-10-16",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr Justice G. Narendar",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-10-16",
+   "business_date": "2025-09-25",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr Justice G. Narendar",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-09-25",
+   "business_date": "2025-09-15",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr Justice G. Narendar",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-09-15",
+   "business_date": "2025-08-01",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr Justice G. Narendar",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2025-08-01",
+   "business_date": "2025-07-29",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr Justice G. Narendar",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-02-27",
+   "order_type": "ARBAP/42/2025",
+   "judge": "Hon'ble Shri Justice Manoj Kumar Gupta",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1G28cvrmepdSbUpqh%2FDZLhumcW4nBgWF7wm%2FspCPTIq&caseno=ARBAP/42/2025&cCode=1&cino=UKHC010113632025&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

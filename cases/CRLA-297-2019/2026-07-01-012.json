@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/297/2019:2026-07-01-012",
+ "title": "ARUN versus STATE OF UTTARAKHAND",
+ "petitioner": "ARUN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/297/2019",
+ "case_type": "CRLA",
+ "decision_date": "2026-07-01",
+ "cnr": "UKHC010092282019",
+ "doc_kind": "order",
+ "order_type": "CRLA/297/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFxNZSkZ6PonvyYcjLolL%2BXAC2nOUWkCRtxPyE0Qqtp25&caseno=CRLA/297/2019&cCode=1&cino=UKHC010092282019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "97b7f6bf528742d3fe5c17d46f287bd2c06178f5a2ed0a12687decd30caad9b1",
+ "fetched_at": "2026-11-20T04:56:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

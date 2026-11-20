@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/745/2019:2022-06-09-005",
+ "title": "SANDEEP KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SANDEEP KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/745/2019",
+ "case_type": "CRLR",
+ "decision_date": "2022-06-09",
+ "cnr": "UKHC010198752019",
+ "doc_kind": "order",
+ "order_type": "CRLR/745/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF7CNwl0f8oLownLkmyIvW2LH9uVP67LGFDdoqK6bvkdk&caseno=CRLR/745/2019&cCode=1&cino=UKHC010198752019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "51a2111c2846b932efb1efe0ac0af9b54db1e0968f11197a377f3eb4dd38033a",
+ "fetched_at": "2026-11-20T04:58:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

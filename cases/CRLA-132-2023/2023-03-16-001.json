@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/132/2023:2023-03-16-001",
+ "title": "MEHTAB versus STATE OF UTTARAKHAND",
+ "petitioner": "MEHTAB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/132/2023",
+ "case_type": "CRLA",
+ "decision_date": "2023-03-16",
+ "cnr": "UKHC010037402023",
+ "doc_kind": "order",
+ "order_type": "CRLA/132/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8lDzsqv4nCbgRafrCplg4mSZIsTFKc08iWyNHNka6HB&caseno=CRLA/132/2023&cCode=1&cino=UKHC010037402023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a118b5e59c68ea065e8b70c5ccf59294b4ec646512b6c6e6a6129efc9f5e5fe4",
+ "fetched_at": "2026-11-20T04:54:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2337/2026:2026-09-08-001",
+ "title": "SOHAN LAL versus STATE OF UTTARAKHAND",
+ "petitioner": "SOHAN LAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2337/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010157342026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2337/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQl9QO4jxuSJ5%2FgQfbTgEd7H3piKIX7T%2Bg1b%2F8YQbcpoM&caseno=WPSS/2337/2026&cCode=1&cino=UKHC010157342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6a1805789ced41fd7d3c7a98d17d47dce8f9ec279d084e064fc16b7f9a752796",
+ "fetched_at": "2026-11-20T05:17:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

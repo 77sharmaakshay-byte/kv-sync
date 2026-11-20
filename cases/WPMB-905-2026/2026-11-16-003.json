@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/905/2026:2026-11-16-003",
+ "title": "NAZAKAT ALI versus STATE OF UTTARAKHAND",
+ "petitioner": "NAZAKAT ALI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/905/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-11-16",
+ "cnr": "UKHC010191082026",
+ "doc_kind": "order",
+ "order_type": "WPMB/905/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnRysW%2ByHUL6kT%2FUSaEQEsZPdBZrsMZkI1w2FITDzBwo&caseno=WPMB/905/2026&cCode=1&cino=UKHC010191082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f834c1d5e29d2515368b09c1f8e2f11f39c2f969e988e887f747eba9ca8eae71",
+ "fetched_at": "2026-11-20T04:44:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

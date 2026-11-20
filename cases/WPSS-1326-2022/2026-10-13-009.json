@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1326/2022:2026-10-13-009",
+ "title": "SONI BHANDARI(Legal Heir) versus STATE OF UTTARAKHAND",
+ "petitioner": "SONI BHANDARI(Legal Heir)",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1326/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010099952022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1326/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT04mZVqFWA3%2BhPqzMQ20rzECMrRKvQj6KTx1WxXd1ELlp&caseno=WPSS/1326/2022&cCode=1&cino=UKHC010099952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "78194e576d29e7cd4ee5fb90d71145cfc786f413ce78b9cec2e15d9044f5db7f",
+ "fetched_at": "2026-11-20T05:10:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

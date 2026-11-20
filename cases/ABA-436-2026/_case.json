@@ -6,9 +6,9 @@
  "registration_number": "ABA /436/2026",
  "registration_date": "2026-10-14",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-26",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "BAIL ORDER MATTERS (AFTER FRESH) -254",
  "status": "",
  "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
@@ -47,6 +47,27 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-10-30",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-30",
+   "business_date": "2026-10-28",
+   "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-28",
+   "business_date": "2026-10-26",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-26",
    "business_date": "2026-10-15",
    "purpose": "FRESH CASES FOR ADMISSION -3",
@@ -60,6 +81,24 @@
    "order_type": "ABA/436/2026",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnTO90d3wecqRtLLqIkRe2knkeguUmf3MIMN7he1CcHx&caseno=ABA/436/2026&cCode=1&cino=UKHC010187202026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-26",
+   "order_type": "ABA/436/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnTO90d3wecqRtLLqIkRe2m8LFRiV2wR9vk2xSoeaXkp&caseno=ABA/436/2026&cCode=1&cino=UKHC010187202026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-28",
+   "order_type": "ABA/436/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnTO90d3wecqRtLLqIkRe2leFzEpBoYfD3IOl46LDxV4&caseno=ABA/436/2026&cCode=1&cino=UKHC010187202026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

@@ -6,9 +6,9 @@
  "registration_number": "WPMS /2935/2026",
  "registration_date": "2026-09-22",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "ADMISSION MATTERS -25",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
  "coram": "Hon'ble Mr. Justice Alok Mahra",
  "bench_type": "Single Bench",
@@ -48,6 +48,20 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-10-15",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-15",
+   "business_date": "2026-10-13",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -103,6 +117,24 @@
    "order_type": "WPMS/2935/2026",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkgDR3kJcRZC8ic3Rmf%2BNC7Jcv30o%2F82R%2F7xiNW0gjQs&caseno=WPMS/2935/2026&cCode=1&cino=UKHC010168992026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPMS/2935/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkgDR3kJcRZC8ic3Rmf%2BNC7DZ9HHcYUIVpaaBuNE377b&caseno=WPMS/2935/2026&cCode=1&cino=UKHC010168992026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-15",
+   "order_type": "WPMS/2935/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkgDR3kJcRZC8ic3Rmf%2BNC5%2B7M%2BzeD0EiZoERD%2BP6n7N&caseno=WPMS/2935/2026&cCode=1&cino=UKHC010168992026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

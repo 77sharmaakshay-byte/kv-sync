@@ -1,0 +1,86 @@
+{
+ "cnr_number": "UKHC010200472026",
+ "case_type": "SPLA",
+ "filing_number": "SPLA /9676/2026",
+ "filing_date": "2026-11-04",
+ "registration_number": "SPLA /288/2026",
+ "registration_date": "2026-11-04",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-20",
+ "decision_date": null,
+ "case_stage": "Time Barred (Fresh Cases) -247",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani , Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Division Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Udham Singh Nagar",
+ "petitioners": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  }
+ ],
+ "respondents": [
+  {
+   "name": "RASHMI CHAUDHARY",
+   "advocate": ""
+  },
+  {
+   "name": "PARAMJEET KAUR",
+   "advocate": ""
+  },
+  {
+   "name": "MAHENDRA KAUR ALIAS MINDRO ALIAS VINDRO",
+   "advocate": ""
+  },
+  {
+   "name": "SEEMA KAUR",
+   "advocate": ""
+  },
+  {
+   "name": "LAXMI KAUR",
+   "advocate": ""
+  },
+  {
+   "name": "PINKI JOSHI",
+   "advocate": ""
+  },
+  {
+   "name": "TIKAM ALIAS TINKAL TYAGI",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "370, 120B"
+  },
+  {
+   "act": "Protection of Children from Sexual Offences Act, 2012 (Act No. 32 of 2012)",
+   "sections": "5/6, 17"
+  },
+  {
+   "act": "Prohibition of Child Marriage Act, 2007 (Act No. 6 of 2007)",
+   "sections": "9/10"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-11-17",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-17",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

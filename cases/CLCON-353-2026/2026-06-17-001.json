@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/353/2026:2026-06-17-001",
+ "title": "PARVIND KUMAR versus C RAVI SHANKAR",
+ "petitioner": "PARVIND KUMAR",
+ "respondent": "C RAVI SHANKAR",
+ "case_no": "CLCON/353/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-06-17",
+ "cnr": "UKHC010106572026",
+ "doc_kind": "order",
+ "order_type": "CLCON/353/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjVKxj75845tmFkYv0CJ9hSsAp8F5qmaBo8WbIS6UqKX&caseno=CLCON/353/2026&cCode=1&cino=UKHC010106572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8efd640129caeb08a6e09558ff63a7b599c8652c6d792e903bfcfd933a872dfd",
+ "fetched_at": "2026-11-20T05:24:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

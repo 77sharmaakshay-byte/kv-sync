@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/358/2026:2026-09-24-001",
+ "title": "POOJA THAKUR versus AJAY THAKUR",
+ "petitioner": "POOJA THAKUR",
+ "respondent": "AJAY THAKUR",
+ "case_no": "AO/358/2026",
+ "case_type": "AO",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010166422026",
+ "doc_kind": "order",
+ "order_type": "AO/358/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmsocACdGwW654iF%2FcqnL44EbwVnFk4WNm0EVjJQydKH&caseno=AO/358/2026&cCode=1&cino=UKHC010166422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "45692a0488192429d99f7cbd3c56c86cf75007f72719cbf9ab7eaf9097c2a131",
+ "fetched_at": "2026-11-20T04:56:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

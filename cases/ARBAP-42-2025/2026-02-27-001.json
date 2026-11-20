@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ARBAP/42/2025:2026-02-27-001",
+ "title": "MS ZANEKA DRUGS versus MS AMBROSIA DRUGS P LTD",
+ "petitioner": "MS ZANEKA DRUGS",
+ "respondent": "MS AMBROSIA DRUGS P LTD",
+ "case_no": "ARBAP/42/2025",
+ "case_type": "ARBAP",
+ "decision_date": "2026-02-27",
+ "cnr": "UKHC010113632025",
+ "doc_kind": "order",
+ "order_type": "ARBAP/42/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm1G28cvrmepdSbUpqh%2FDZLhumcW4nBgWF7wm%2FspCPTIq&caseno=ARBAP/42/2025&cCode=1&cino=UKHC010113632025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "153faaf0bd97bf496d80c3f19d5fe3fa2af5fbdb5964e6790a05c75257cee3bb",
+ "fetched_at": "2026-11-20T05:04:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

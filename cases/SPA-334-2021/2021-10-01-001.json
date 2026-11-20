@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/334/2021:2021-10-01-001",
+ "title": "AASIM HUSSAIN versus EXECUTIVE ENGINEER ELECTRICITY DISTRIBUTION DIVISION",
+ "petitioner": "AASIM HUSSAIN",
+ "respondent": "EXECUTIVE ENGINEER ELECTRICITY DISTRIBUTION DIVISION",
+ "case_no": "SPA/334/2021",
+ "case_type": "SPA",
+ "decision_date": "2021-10-01",
+ "cnr": "UKHC010121572021",
+ "doc_kind": "order",
+ "order_type": "SPA/334/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkDU7btF4v%2B5rDpE4bFgMJ%2BQAxyd2Zqsx%2F20nCYYJUmdR&caseno=SPA/334/2021&cCode=1&cino=UKHC010121572021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f5a659fceb939aaec4c73509f9c21e3c12d98a1911709340f904ec33fe6b9c94",
+ "fetched_at": "2026-11-20T04:44:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

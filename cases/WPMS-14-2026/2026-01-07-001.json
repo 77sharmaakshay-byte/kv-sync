@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/14/2026:2026-01-07-001",
+ "title": "MAHENDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MAHENDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/14/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-01-07",
+ "cnr": "UKHC010000502026",
+ "doc_kind": "order",
+ "order_type": "WPMS/14/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgGAvMPYs1h5Uf04aH2cHUBYASQTzStQjDrUJ73Dv7mF&caseno=WPMS/14/2026&cCode=1&cino=UKHC010000502026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "480a48153801631b21d92711aee9e53628ae121eeceb8881f81894ca84378a7b",
+ "fetched_at": "2026-11-20T04:48:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

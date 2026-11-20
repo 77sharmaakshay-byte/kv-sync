@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1640/2026:2026-11-17-004",
+ "title": "PANKAJ JOSHI versus STATE OF UTTARAKHAND",
+ "petitioner": "PANKAJ JOSHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1640/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-11-17",
+ "cnr": "UKHC010109392026",
+ "doc_kind": "order",
+ "order_type": "WPSS/1640/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp%2FwVf%2BJQGDWVBGZWr7KUyNy%2BotFz8xM7%2BoP%2FSFOEgKW&caseno=WPSS/1640/2026&cCode=1&cino=UKHC010109392026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a63418bd14f8eb80f633aaabfcb9245e931103c3f0dc65647c7f860e31ce1148",
+ "fetched_at": "2026-11-20T05:12:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

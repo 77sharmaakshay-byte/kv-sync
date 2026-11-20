@@ -6,7 +6,7 @@
  "registration_number": "WPMB /926/2026",
  "registration_date": "2026-10-31",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-16",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
  "case_stage": "AFTER FRESH MATTERS -128",
  "status": "",
@@ -89,6 +89,13 @@
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "",
    "cause_list_type": "SUPPLEMENTARY CAUSE LIST 2"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-11-16",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": null,

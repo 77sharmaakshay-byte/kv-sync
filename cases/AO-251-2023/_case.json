@@ -6,9 +6,9 @@
  "registration_number": "AO /251/2023",
  "registration_date": "2023-06-26",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-31",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
  "coram": "Hon'ble Mr. Justice Ravindra Maithani",
  "bench_type": "Single Bench",
@@ -62,17 +62,24 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2026-10-29",
-   "business_date": "2025-11-27",
-   "purpose": "Restored",
-   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
-   "cause_list_type": ""
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-10-31",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
   },
   {
    "hearing_date": null,
    "business_date": "2025-11-27",
    "purpose": "Disposed",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": ""
+  },
+  {
+   "hearing_date": "2026-10-29",
+   "business_date": "2025-11-27",
+   "purpose": "Restored",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
    "cause_list_type": ""
   },
   {
@@ -231,6 +238,15 @@
    "order_type": "AO/251/2023",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2BoH4kgQX1E8WY9UNP6tRdyViihQ6foyP9FGK1ufV%2Bci&caseno=AO/251/2023&cCode=1&cino=UKHC010099752023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-31",
+   "order_type": "AO/251/2023",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2BoH4kgQX1E8WY9UNP6tRdzGc7cvH7lXE1ZSoel%2F7mBa&caseno=AO/251/2023&cCode=1&cino=UKHC010099752023&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

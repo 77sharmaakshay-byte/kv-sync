@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/279/2011:2023-06-19-012",
+ "title": "NAINITAL HOTEL CO. PVT. LTD versus STATE OF UTTARAKHAND, THROUGH THE SECRETARY, CIVIL SECRETARIAT",
+ "petitioner": "NAINITAL HOTEL CO. PVT. LTD",
+ "respondent": "STATE OF UTTARAKHAND, THROUGH THE SECRETARY, CIVIL SECRETARIAT",
+ "case_no": "WPMS/279/2011",
+ "case_type": "WPMS",
+ "decision_date": "2023-06-19",
+ "cnr": "UKHC010002572011",
+ "doc_kind": "order",
+ "order_type": "WPMS/279/2011",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYoYNyWfMNI9m5so7OrHA7RGwWno06gWb1Wbugh9I9D9NW&caseno=WPMS/279/2011&cCode=1&cino=UKHC010002572011&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b5292a5adbc4c2a05d990a8c4296c8ac9967d326e0cabe5feda9d708ffd9b01e",
+ "fetched_at": "2026-11-20T05:05:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

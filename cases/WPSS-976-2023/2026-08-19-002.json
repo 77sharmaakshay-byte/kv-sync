@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/976/2023:2026-08-19-002",
+ "title": "VIJAY versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/976/2023",
+ "case_type": "WPSS",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010101202023",
+ "doc_kind": "order",
+ "order_type": "WPSS/976/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY9Xh6jI8QWcmVK7XfyyVw%2F55zNlgkTZw%2B2UCztY4VUV5&caseno=WPSS/976/2023&cCode=1&cino=UKHC010101202023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6d842cae219825b920ab33a770e6b2b62267da74e0d60f2b22bf94e9f67a17d2",
+ "fetched_at": "2026-11-20T05:09:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

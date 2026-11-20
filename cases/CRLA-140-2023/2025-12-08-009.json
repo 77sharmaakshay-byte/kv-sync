@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/140/2023:2025-12-08-009",
+ "title": "SAJID versus STATE OF UTTARAKHAND",
+ "petitioner": "SAJID",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/140/2023",
+ "case_type": "CRLA",
+ "decision_date": "2025-12-08",
+ "cnr": "UKHC010041132023",
+ "doc_kind": "order",
+ "order_type": "CRLA/140/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY57d2xgtg9RP5MqalPhVtSdwwhtm7DZglx4LmpD5EOrC&caseno=CRLA/140/2023&cCode=1&cino=UKHC010041132023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "48fdac4d4c752972b16ec3cfebeaba34377569421be93f25e70d60d1f0547cac",
+ "fetched_at": "2026-11-20T04:55:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

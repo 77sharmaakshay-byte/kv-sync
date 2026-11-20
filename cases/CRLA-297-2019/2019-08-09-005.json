@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/297/2019:2019-08-09-005",
+ "title": "ARUN versus STATE OF UTTARAKHAND",
+ "petitioner": "ARUN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/297/2019",
+ "case_type": "CRLA",
+ "decision_date": "2019-08-09",
+ "cnr": "UKHC010092282019",
+ "doc_kind": "order",
+ "order_type": "CRLA/297/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFxNZSkZ6PonvyYcjLolL%2BXCMLvesZtojgc43uIuybTXZ&caseno=CRLA/297/2019&cCode=1&cino=UKHC010092282019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a4ab7332e45d6b6d7cf28c36c58df601e5126537d5bab2fc575fd8c1b904d08a",
+ "fetched_at": "2026-11-20T04:56:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

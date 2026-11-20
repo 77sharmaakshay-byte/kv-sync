@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2472/2026:2026-11-04-001",
+ "title": "JAYRAM versus STATE OF UTTARAKHAND",
+ "petitioner": "JAYRAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/2472/2026",
+ "case_type": "C528",
+ "decision_date": "2026-11-04",
+ "cnr": "UKHC010197852026",
+ "doc_kind": "order",
+ "order_type": "C528/2472/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoluiBWX3rWwpc90xO4xJ9gbcqpzx4Ow%2BBjZZnE6dYLJ&caseno=C528/2472/2026&cCode=1&cino=UKHC010197852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "03f821d3c063254f812ab540952d274361da6dfd1b0843d14c1097904bf35304",
+ "fetched_at": "2026-11-20T05:34:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

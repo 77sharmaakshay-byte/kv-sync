@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3501/2026:2026-11-06-002",
+ "title": "ASHOK GOYAL versus SHRI PRAFULL SHARMA   Advocate- ,AJAY JOSHI 1123",
+ "petitioner": "ASHOK GOYAL",
+ "respondent": "SHRI PRAFULL SHARMA   Advocate- ,AJAY JOSHI 1123",
+ "case_no": "WPMS/3501/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-06",
+ "cnr": "UKHC010202342026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3501/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtTvCRfKYe0blb0obBLryByxcbY6pttvHJC%2FalrjvAo8&caseno=WPMS/3501/2026&cCode=1&cino=UKHC010202342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ddaf3fd768b0ab497eaa86d808cfcd3cf1109a0415d3bc2caaf4618c4f992090",
+ "fetched_at": "2026-11-20T05:13:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

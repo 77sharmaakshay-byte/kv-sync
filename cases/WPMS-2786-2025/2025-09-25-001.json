@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2786/2025:2025-09-25-001",
+ "title": "RENU GOYAL versus STATE OF UTTARAKHAND",
+ "petitioner": "RENU GOYAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/2786/2025",
+ "case_type": "WPMS",
+ "decision_date": "2025-09-25",
+ "cnr": "UKHC010152852025",
+ "doc_kind": "order",
+ "order_type": "WPMS/2786/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2B1p7t9HpHfi4RO29uZVMMX23YkaQyTSqZQYWPWjNW1P&caseno=WPMS/2786/2025&cCode=1&cino=UKHC010152852025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "43cfd52ef23666bb33942fe4869f0b62ccf686946a5e61a811655599b43aa72c",
+ "fetched_at": "2026-11-20T04:51:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

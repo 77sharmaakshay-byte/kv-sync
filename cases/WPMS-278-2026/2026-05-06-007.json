@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/278/2026:2026-05-06-007",
+ "title": "MS APIS INDIA LIMITED versus PRESIDING OFFICER LABOUR COURT",
+ "petitioner": "MS APIS INDIA LIMITED",
+ "respondent": "PRESIDING OFFICER LABOUR COURT",
+ "case_no": "WPMS/278/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-05-06",
+ "cnr": "UKHC010017062026",
+ "doc_kind": "order",
+ "order_type": "WPMS/278/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiekruKRaLzsqXIUfWY8vfAN%2Bzr97xZEP0tS7sZgRsAE&caseno=WPMS/278/2026&cCode=1&cino=UKHC010017062026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b582a6e92d9c983fd6732ff653047a1248037ce56f1f4f393c2765bb90f30346",
+ "fetched_at": "2026-11-20T04:49:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

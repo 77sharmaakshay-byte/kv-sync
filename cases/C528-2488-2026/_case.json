@@ -6,7 +6,7 @@
  "registration_number": "C528 /2488/2026",
  "registration_date": "2026-11-03",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-05",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
  "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
@@ -53,7 +53,24 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-11-05",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-11-05",
+   "order_type": "C528/2488/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoj4kEUOTNfUnOnkA8NufACYeKJ%2FuL3N%2BpJ8iZkXWBcW&caseno=C528/2488/2026&cCode=1&cino=UKHC010198602026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

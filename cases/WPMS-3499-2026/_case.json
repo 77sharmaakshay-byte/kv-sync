@@ -6,9 +6,9 @@
  "registration_number": "WPMS /3499/2026",
  "registration_date": "2026-11-05",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-16",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
  "coram": "Hon'ble Mr. Justice Ravindra Maithani",
  "bench_type": "Single Bench",
@@ -197,7 +197,24 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-11-16",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-11-16",
+   "order_type": "WPMS/3499/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhIlvat9MpxHAy2DKsVvEM9qmOlS60q78nRTQTLN8689&caseno=WPMS/3499/2026&cCode=1&cino=UKHC010202072026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

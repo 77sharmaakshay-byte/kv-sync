@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/151/2026:2026-09-18-004",
+ "title": "SATISH KUMAR versus MOHIT AGARWAL",
+ "petitioner": "SATISH KUMAR",
+ "respondent": "MOHIT AGARWAL",
+ "case_no": "AO/151/2026",
+ "case_type": "AO",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010069842026",
+ "doc_kind": "order",
+ "order_type": "AO/151/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrOvzWScyytJzxlZ%2FYvaRPu1cqYtsuV0gKXfeJXFI7bn&caseno=AO/151/2026&cCode=1&cino=UKHC010069842026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "18717fce26eda367d324df60e2f4bba14098441f5a7e8721921317732e2f05e8",
+ "fetched_at": "2026-11-20T05:18:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

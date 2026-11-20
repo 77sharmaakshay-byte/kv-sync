@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/688/2026:2026-11-05-002",
+ "title": "DEEPAK KUMAR versus MANAGING DIRECTOR",
+ "petitioner": "DEEPAK KUMAR",
+ "respondent": "MANAGING DIRECTOR",
+ "case_no": "WPSB/688/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-11-05",
+ "cnr": "UKHC010177802026",
+ "doc_kind": "order",
+ "order_type": "WPSB/688/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn%2BCnZPtUUfnu05VQ0XrcnVVz6qGwLIsUFeq%2FflQYerm&caseno=WPSB/688/2026&cCode=1&cino=UKHC010177802026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9912b6fdfa29dd0d300425a5d75727c969794712988174e9b142344c0830b03a",
+ "fetched_at": "2026-11-20T04:41:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

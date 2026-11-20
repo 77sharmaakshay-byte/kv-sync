@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/356/2026:2026-06-17-001",
+ "title": "SEEMA versus C RAVI SHANKAR",
+ "petitioner": "SEEMA",
+ "respondent": "C RAVI SHANKAR",
+ "case_no": "CLCON/356/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-06-17",
+ "cnr": "UKHC010107552026",
+ "doc_kind": "order",
+ "order_type": "CLCON/356/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmmhJmtzCr5h1diB5B811E44I3kAr9W4IBfsvTMc8dHc&caseno=CLCON/356/2026&cCode=1&cino=UKHC010107552026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bd480875861b92e6eb849bb2354fda318cbc4f5720e2cfaf72ac769f506204fe",
+ "fetched_at": "2026-11-20T05:23:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

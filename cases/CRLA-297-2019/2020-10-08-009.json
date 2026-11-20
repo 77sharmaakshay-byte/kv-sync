@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/297/2019:2020-10-08-009",
+ "title": "ARUN versus STATE OF UTTARAKHAND",
+ "petitioner": "ARUN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/297/2019",
+ "case_type": "CRLA",
+ "decision_date": "2020-10-08",
+ "cnr": "UKHC010092282019",
+ "doc_kind": "order",
+ "order_type": "IA/9579/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sudhanshu Dhulia,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFxNZSkZ6PonvyYcjLolL%2BXC6CjXXxEBajUjeBVeelMCG&caseno=CRLA/297/2019&cCode=1&cino=UKHC010092282019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a829d107f5105590850c5283dc146758c4110f1472673a0627ce76b378d5adb7",
+ "fetched_at": "2026-11-20T04:56:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1986/2026:2026-10-07-002",
+ "title": "ANCHAL KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ANCHAL KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1986/2026",
+ "case_type": "WPCRL",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010171932026",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1986/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQma02aST53LTSpTNqh4okP6fcSl9mcrUateAc8riW7Iw&caseno=WPCRL/1986/2026&cCode=1&cino=UKHC010171932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ee45a29d4ae8ed5b683ca50bc8868c016254fcdcd149f8c6597dad35c5d8c377",
+ "fetched_at": "2026-11-20T05:23:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

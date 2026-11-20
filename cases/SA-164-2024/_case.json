@@ -6,11 +6,11 @@
  "registration_number": "SA /164/2024",
  "registration_date": "2024-12-23",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-30",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
- "case_stage": "ORDERS ON APPLICATIONS -22",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
- "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "coram": "Hon'ble Mr. Justice Ravindra Maithani",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -40,6 +40,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-30",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -118,6 +125,15 @@
    "order_type": "SA/164/2024",
    "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcIRhzyzkuOZt1wSN3fEdzBgUad20fzuMsFrbk9N59VCF&caseno=SA/164/2024&cCode=1&cino=UKHC010202982024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-30",
+   "order_type": "SA/164/2024",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcIRhzyzkuOZt1wSN3fEdzBhbcDhpy6LP2%2B7qjBKBGGf3&caseno=SA/164/2024&cCode=1&cino=UKHC010202982024&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

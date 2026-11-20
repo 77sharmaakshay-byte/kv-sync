@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/945/2026:2026-04-08-001",
+ "title": "DEEPAK KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DEEPAK KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/945/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-04-08",
+ "cnr": "UKHC010050832026",
+ "doc_kind": "order",
+ "order_type": "WPSS/945/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmhbwM6Xt5lq0wWgAOkuybyHyMEFCDue%2BtJ7ir5jpdki&caseno=WPSS/945/2026&cCode=1&cino=UKHC010050832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "345533a852c2872f6ac254a0f853b7a4115cc66cbb628652640ee949e621c5b2",
+ "fetched_at": "2026-11-20T05:10:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

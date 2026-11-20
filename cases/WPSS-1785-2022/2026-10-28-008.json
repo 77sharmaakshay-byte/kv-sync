@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1785/2022:2026-10-28-008",
+ "title": "POOJA versus STATE OF UTTARAKHAND",
+ "petitioner": "POOJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/1785/2022",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-28",
+ "cnr": "UKHC010134982022",
+ "doc_kind": "order",
+ "order_type": "WPSS/1785/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07UEUGMEwiGt5I3OUG%2Bu2C37cfW%2BLf4KQEJSabYP4ASv&caseno=WPSS/1785/2022&cCode=1&cino=UKHC010134982022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "692d3e39750b4b0922b96fee5fed34833b6f3de924c94f9473c76f1b26811dbe",
+ "fetched_at": "2026-11-20T05:16:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

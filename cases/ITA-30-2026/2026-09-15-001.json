@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ITA/30/2026:2026-09-15-001",
+ "title": "Commissioner of Income Tax versus Sime Darby Engineering SDN BHD",
+ "petitioner": "Commissioner of Income Tax",
+ "respondent": "Sime Darby Engineering SDN BHD",
+ "case_no": "ITA/30/2026",
+ "case_type": "ITA",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010119342026",
+ "doc_kind": "order",
+ "order_type": "ITA/30/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQs9j6HVx4jQtUz9FZNfKw9xvx4QrvbV9a7Gcdodf89oO&caseno=ITA/30/2026&cCode=1&cino=UKHC010119342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "41e8126dab272afc26f8e31af326e8398f44d2f5b44c28adbd4444570d26590c",
+ "fetched_at": "2026-11-20T04:47:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/123/2025:2025-07-01-001",
+ "title": "NISHAT PRAVEEN versus MOHD NASEEM   Advocate- ,VINAY BHATT 1123",
+ "petitioner": "NISHAT PRAVEEN",
+ "respondent": "MOHD NASEEM   Advocate- ,VINAY BHATT 1123",
+ "case_no": "FA/123/2025",
+ "case_type": "FA",
+ "decision_date": "2025-07-01",
+ "cnr": "UKHC010095882025",
+ "doc_kind": "order",
+ "order_type": "FA/123/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm7ARP09UwUjAUJ%2BhVHg1l0lUTwsnRboNZaQ15mwKyY86&caseno=FA/123/2025&cCode=1&cino=UKHC010095882025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1fa4226e7b14aeec8858ddd0f990a40080305edf366f675c0dfca73e83a75f1d",
+ "fetched_at": "2026-11-20T04:53:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

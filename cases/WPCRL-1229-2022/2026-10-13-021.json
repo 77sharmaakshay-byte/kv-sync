@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/1229/2022:2026-10-13-021",
+ "title": "RAMAN KUMAR SHAH versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMAN KUMAR SHAH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPCRL/1229/2022",
+ "case_type": "WPCRL",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010087952022",
+ "doc_kind": "order",
+ "order_type": "WPCRL/1229/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00YlxaOwqFj5c%2F4QyiGCMPeKH32tBE0eOxBoyAUpxYql&caseno=WPCRL/1229/2022&cCode=1&cino=UKHC010087952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "71eb657b22d15eb18fa6927bad026f38975bd49c4c2a42489229120937ecd572",
+ "fetched_at": "2026-11-20T05:31:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,7 +6,7 @@
  "registration_number": "WPCRL /1229/2022",
  "registration_date": "2022-06-24",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING -40",
  "status": "",
@@ -64,6 +64,13 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-19",
+   "business_date": "2026-10-13",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -152,6 +159,13 @@
   },
   {
    "hearing_date": null,
+   "business_date": null,
+   "purpose": "ORDER MATTERS - 106",
+   "judge": "Hon'ble Mr. Justice Ashish Naithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
    "business_date": "2025-09-09",
    "purpose": "ORDER MATTERS - 106",
    "judge": "Hon'ble Mr. Justice Ashish Naithani",
@@ -159,7 +173,7 @@
   },
   {
    "hearing_date": null,
-   "business_date": null,
+   "business_date": "2025-08-28",
    "purpose": "ORDER MATTERS - 106",
    "judge": "Hon'ble Mr. Justice Ashish Naithani",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -167,13 +181,6 @@
   {
    "hearing_date": "2025-09-09",
    "business_date": null,
-   "purpose": "ORDER MATTERS - 106",
-   "judge": "Hon'ble Mr. Justice Ashish Naithani",
-   "cause_list_type": "DAILY CAUSE LIST"
-  },
-  {
-   "hearing_date": null,
-   "business_date": "2025-08-28",
    "purpose": "ORDER MATTERS - 106",
    "judge": "Hon'ble Mr. Justice Ashish Naithani",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -447,6 +454,15 @@
    "order_type": "WPCRL/1229/2022",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00YlxaOwqFj5c%2F4QyiGCMPeh2v%2FkxF87X7JqWG8RiZmK&caseno=WPCRL/1229/2022&cCode=1&cino=UKHC010087952022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPCRL/1229/2022",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT00YlxaOwqFj5c%2F4QyiGCMPeKH32tBE0eOxBoyAUpxYql&caseno=WPCRL/1229/2022&cCode=1&cino=UKHC010087952022&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

@@ -6,7 +6,7 @@
  "registration_number": "WPSS /1785/2022",
  "registration_date": "2022-09-14",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-13",
+ "next_hearing_date": "2026-11-20",
  "decision_date": null,
  "case_stage": "ADMISSION MATTERS -35",
  "status": "",
@@ -56,6 +56,20 @@
    "business_date": null,
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-20",
+   "business_date": "2026-10-28",
+   "purpose": "ADMISSION MATTERS -35",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-28",
+   "business_date": "2026-10-13",
+   "purpose": "ADMISSION MATTERS -35",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -215,6 +229,24 @@
    "order_type": "WPSS/1785/2022",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07UEUGMEwiGt5I3OUG%2Bu2C34SEYTf0j7bEXjpONkbtE6&caseno=WPSS/1785/2022&cCode=1&cino=UKHC010134982022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-13",
+   "order_type": "WPSS/1785/2022",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07UEUGMEwiGt5I3OUG%2Bu2C3hEO%2BBJxxGeVn5ZUUdKTUP&caseno=WPSS/1785/2022&cCode=1&cino=UKHC010134982022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-28",
+   "order_type": "WPSS/1785/2022",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT07UEUGMEwiGt5I3OUG%2Bu2C37cfW%2BLf4KQEJSabYP4ASv&caseno=WPSS/1785/2022&cCode=1&cino=UKHC010134982022&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

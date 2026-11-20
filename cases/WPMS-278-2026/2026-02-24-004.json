@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/278/2026:2026-02-24-004",
+ "title": "MS APIS INDIA LIMITED versus PRESIDING OFFICER LABOUR COURT",
+ "petitioner": "MS APIS INDIA LIMITED",
+ "respondent": "PRESIDING OFFICER LABOUR COURT",
+ "case_no": "WPMS/278/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-24",
+ "cnr": "UKHC010017062026",
+ "doc_kind": "order",
+ "order_type": "WPMS/278/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiekruKRaLzsqXIUfWY8vfDD9WMscQ8k%2FM%2FmF%2FYPC5PL&caseno=WPMS/278/2026&cCode=1&cino=UKHC010017062026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fea46301a36c0b60d2695fe603a8fc52e5a4a1b1e38b21f9df9dfbca7b45aa5e",
+ "fetched_at": "2026-11-20T04:49:17+00:00",
+ "fetched_by": "fetch_live.py"
+}
