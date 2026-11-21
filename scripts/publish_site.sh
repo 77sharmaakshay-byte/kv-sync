@@ -22,6 +22,7 @@ fi
 find "$OUT" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
 cp -R "$SRC/app/." "$OUT"/
 rm -rf "$OUT/notes"
+touch "$OUT/.nojekyll"   # GitHub Pages: Jekyll mat chalao, files jaisi hain waisi do
 python3 "$SRC/scripts/build_app_data.py" --data-branch "$DATA" --out "$OUT/data"
 cat > "$OUT/README.md" <<'TXT'
 # site branch — apne aap banti hai, haath se mat badlo

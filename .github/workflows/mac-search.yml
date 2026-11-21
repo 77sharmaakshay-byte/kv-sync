@@ -83,7 +83,7 @@ jobs:
             [ -f "$S/server.pid" ] && kill "$(cat "$S/server.pid")" 2>/dev/null || true
             lsof -ti "tcp:$PORT" | xargs kill 2>/dev/null || true   # purana server port pakde na rahe
             sleep 2
-            cd "$S" && DATA_DIR="$S" PORT="$PORT" ORIGINS="https://nyay-sahayak-jn1t.onrender.com" \
+            cd "$S" && DATA_DIR="$S" PORT="$PORT" ORIGINS="https://nyay-sahayak-jn1t.onrender.com,https://77sharmaakshay-byte.github.io" \
               RUNNER_TRACKING_ID="" nohup "$PY" app.py >> server.log 2>&1 < /dev/null &
             pid=$!; echo $pid > "$S/server.pid"; rm -f "$S/restart"
             RUNNER_TRACKING_ID="" nohup caffeinate -i -w "$pid" > /dev/null 2>&1 < /dev/null &   # Mac na soye

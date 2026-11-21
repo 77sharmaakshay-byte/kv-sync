@@ -27,7 +27,7 @@ from urllib.parse import parse_qs, urlparse
 DB_REPO = os.environ.get("DB_REPO", "")
 TOKEN = os.environ.get("HF_TOKEN", "")
 ADMIN_KEY = hashlib.sha256(TOKEN.encode()).hexdigest()[:32] if TOKEN else ""
-ORIGINS = [o.strip() for o in os.environ.get("ORIGINS", "https://nyay-sahayak-jn1t.onrender.com").split(",") if o.strip()]
+ORIGINS = [o.strip() for o in os.environ.get("ORIGINS", "https://nyay-sahayak-jn1t.onrender.com,https://77sharmaakshay-byte.github.io").split(",") if o.strip()]
 DATA = os.environ.get("DATA_DIR", "/tmp/nyay")
 DB = os.path.join(DATA, "krishivlaw.db")
 PAGE, CANDIDATES, MAX_TEXT = 20, 3000, 120000
