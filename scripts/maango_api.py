@@ -21,7 +21,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 REPO = os.environ.get("REPO", "77sharmaakshay-byte/kv-sync")
 WORKFLOW = "case-lookup.yml"
-ORIGINS = [o.strip() for o in os.environ.get("ORIGINS", "https://nyay-sahayak-jn1t.onrender.com,https://77sharmaakshay-byte.github.io").split(",") if o.strip()]
+ORIGINS = [o.strip() for o in os.environ.get("ORIGINS", "https://77sharmaakshay-byte.github.io").split(",") if o.strip()]
 CASE_RE = re.compile(r"^[A-Z][A-Z0-9]{1,11}/\d{1,6}/(19|20)\d{2}$")
 SAME_CASE_SEC, HOUR_LIMIT, BATCH_SEC = 6 * 3600, 40, 45
 

@@ -1,11 +1,11 @@
 name: App site check
-# Render par app ka link GitHub ke server se khol ke dekhna (DNS, status, kya page aata hai).
+# GitHub Pages par app ka link GitHub ke server se khol ke dekhna (DNS, status, kya page aata hai).
 on:
   workflow_dispatch:
     inputs:
       url:
         description: "App ka link"
-        default: "https://nyay-sahayak-jn1t.onrender.com"
+        default: "https://77sharmaakshay-byte.github.io/kv-sync/"
       paths:
         description: "Kaunse page dekhne hain (space se alag)"
         default: "/ /data/index.json /app.js"

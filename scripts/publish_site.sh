@@ -1,5 +1,5 @@
 #!/bin/sh
-# App (app/) + data branch se bana data -> 'site' branch. Render (Static Site) usi branch ko chalata hai.
+# App (app/) + data branch se bana data -> 'site' branch. GitHub Pages (Settings > Pages: branch site, / root) usi branch ko chalata hai.
 #   sh scripts/publish_site.sh <data branch checkout>
 # GitHub Actions mein chalta hai (daily-court aur case-lookup ke baad).
 set -eu
@@ -26,7 +26,7 @@ touch "$OUT/.nojekyll"   # GitHub Pages: Jekyll mat chalao, files jaisi hain wai
 python3 "$SRC/scripts/build_app_data.py" --data-branch "$DATA" --out "$OUT/data"
 cat > "$OUT/README.md" <<'TXT'
 # site branch — apne aap banti hai, haath se mat badlo
-Render Static Site: branch `site`, Build Command khaali, Publish Directory `.`
+GitHub Pages: branch `site`, folder / (root) — https://77sharmaakshay-byte.github.io/kv-sync/
 TXT
 cd "$OUT"
 git add -A
