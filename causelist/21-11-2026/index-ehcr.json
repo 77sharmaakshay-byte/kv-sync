@@ -1,11 +1,12 @@
 {
  "date": "21-11-2026",
- "fetched": "20-11-2026",
+ "fetched": "21-11-2026",
  "source": "ehcr",
  "uploads": [
   "DAILY CAUSE LIST (ADVANCE)|19.11.2026 07:02 PM",
   "DAILY CAUSELIST|20.11.2026 05:37 PM",
   "DAILY LIST REGISTRAR JUDICIAL|20.11.2026 06:31 PM",
+  "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI HON'BLE MR. JUSTICE SUBHASH UPADHYAY   SUPPLEMENTARY 2|21.11.2026 10:04 AM",
   "HON'BLE MR. JUSTICE RAKESH THAPLIYAL   SUPPLEMENTARY 1|20.11.2026 06:34 PM"
  ],
  "benches": [
@@ -53,6 +54,15 @@
    "source_pdf": "20261121_1013_0.pdf",
    "uploaded": "20.11.2026 06:31 PM",
    "chars": 8389
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI HON'BLE MR. JUSTICE SUBHASH UPADHYAY   SUPPLEMENTARY 2",
+   "type": "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI HON'BLE MR. JUSTICE SUBHASH UPADHYAY   SUPPLEMENTARY 2",
+   "file": "ehcr-20261121_1004_1236-01.pdf",
+   "source_pdf": "20261121_1004_1236.pdf",
+   "uploaded": "21.11.2026 10:04 AM",
+   "chars": 1388
   },
   {
    "kind": "Supplementary",
