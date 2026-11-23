@@ -5,11 +5,21 @@
 #   gcp.sh start N LAUNCH DATASETS... -> GPU machine banao (spot L4; pehle India, phir US/Europe ke zone)
 #   gcp.sh hours N           -> is round ki machine kitne ghante chali (andaza, 'started' se ab tak / nateeja tak)
 #   gcp.sh clean N           -> bucket se round ka saaman hatao (Kaggle par model chadh gaya to)
+#   gcp.sh natoff            -> NAT (internet ka darwaza) hatao — machine na chal rahi ho to (khaali NAT ka IP bhi paisa leta)
+# Project par niyam: machine ko public IP nahi (constraints/compute.vmExternalIpAccess). Isliye machine --no-address,
+# aur internet (Kaggle, Hugging Face, pip) us region ke Cloud NAT se — round ke liye banta hai, round ke baad hatta hai.
 # Kharcha: machine round ke baad khud delete hoti hai (gcp_vm.sh); --max-run-duration 12h; workflow ghante ginta hai.
 set -euo pipefail
 P=$(gcloud config get-value project 2>/dev/null)
 B="nyay-train-$P"
 VM() { echo "nyay-train-$1"; }
+nat_on() {   # region mein router + NAT (pehle se ho to kuch nahi)
+  gcloud compute routers describe nyay-nat-router --region "$1" >/dev/null 2>&1 \
+    || gcloud compute routers create nyay-nat-router --network default --region "$1" -q
+  gcloud compute routers nats describe nyay-nat --router nyay-nat-router --region "$1" >/dev/null 2>&1 \
+    || gcloud compute routers nats create nyay-nat --router nyay-nat-router --region "$1" \
+         --auto-allocate-nat-external-ips --nat-all-subnet-ip-ranges -q
+}
 cmd=$1; shift
 case "$cmd" in
   status)
@@ -31,6 +41,11 @@ case "$cmd" in
     [ -n "$s" ] && python3 -c "import sys;print(round((int(sys.argv[2])-int(sys.argv[1]))/3600+0.3,2))" "$s" "$e" || echo 0.3 ;;
   clean)
     gcloud storage rm -r "gs://$B/round-$1" >/dev/null 2>&1 || true ;;
+  natoff)
+    { gcloud compute routers list --filter="name=nyay-nat-router" --format='value(name,region.basename())' \
+      | while read -r n r; do [ -n "$r" ] && gcloud compute routers delete "$n" --region "$r" -q && echo "NAT hataya: $r"; done; } \
+      || echo "NAT hatane mein dikkat (permission?)" >&2
+    true ;;
   start)
     N=$1; LAUNCH=$2; shift 2
     gcloud storage buckets describe "gs://$B" >/dev/null 2>&1 || gcloud storage buckets create "gs://$B" --location=US
@@ -48,7 +63,8 @@ case "$cmd" in
     d=$(dirname "$0")
     for Z in ${GCP_ZONES:-asia-south1-a asia-south1-b asia-south1-c us-central1-a us-central1-b us-central1-c us-east4-a us-east1-b europe-west4-a}; do
       echo "zone $Z ..."
-      if gcloud compute instances create "$(VM "$N")" --zone "$Z" --machine-type g2-standard-8 \
+      nat_on "${Z%-*}" || { echo "NAT nahi bana: ${Z%-*}"; continue; }
+      if gcloud compute instances create "$(VM "$N")" --zone "$Z" --machine-type g2-standard-8 --no-address \
           --accelerator type=nvidia-l4,count=1 --maintenance-policy TERMINATE \
           --provisioning-model SPOT --instance-termination-action DELETE --max-run-duration 12h \
           --image "$IMG" --image-project deeplearning-platform-release --boot-disk-size 200GB --boot-disk-type pd-balanced \
@@ -58,6 +74,7 @@ case "$cmd" in
         grep -qi "error" /tmp/gcp-create.log || { echo "machine bani: $Z"; exit 0; }
       fi
     done
+    bash "$0" natoff
     echo "kisi zone mein GPU machine nahi bani"; exit 1 ;;
   *) echo "gcp.sh: $cmd?"; exit 2 ;;
 esac

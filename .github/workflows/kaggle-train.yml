@@ -117,7 +117,9 @@ jobs:
           if [ "$runner" = gcp ] && [ -n "$pushed" ]; then
             [ "$GCP_ON" = 1 ] || { echo "::error::Round $pushed Google Cloud par hai par Google Cloud se jud nahi paye"; exit 1; }
             st=$(bash kaggle/train/gcp.sh status "$pushed"); echo "google cloud round $pushed: $st"
+            [ "$st" = running ] || bash kaggle/train/gcp.sh natoff || true   # machine nahi to NAT bhi nahi (khaali IP ka paisa)
           else
+            { [ "$GCP_ON" = 1 ] && bash kaggle/train/gcp.sh natoff; } || true   # Kaggle par chal raha: Google Cloud mein kuch khula na rahe
             s=$(kaggle kernels status "$KERNEL" 2>&1 | tr 'A-Z' 'a-z' || true); echo "kernel: $s"
             case "$s" in   # Kaggle CLI hi toote (traceback) to round ki galti mat gino — 1-3 Nov isi se round 13 'fail' gina gaya
               *traceback*) echo "::error::Kaggle CLI nahi chala (upar dekho) — round fail nahi gina"; exit 1;;
