@@ -98,9 +98,12 @@ jobs:
         env:
           GCP_ON: ${{ steps.gcp.outputs.on }}
           GCP_SA: nyay-train@cs-project-bllkpmrc.iam.gserviceaccount.com
-          # Google Cloud ka kharcha: ₹28,569 credit mein se ~₹20,000 tak (L4 spot machine; mehngi on-demand daam par bhi
-          # 250 ghante ~ $215). Itne ghante ho gaye to apne aap sirf Kaggle. Rokna ho to data branch mein models/nyay/gcp_off.
-          GCP_MAX_HOURS: '250'
+          # Google Cloud ka kharcha $300 (₹28,569) ke free credit se kabhi upar nahi: 200 GPU ghante (L4 spot; on-demand ke
+          # mehnge daam ~$0.85/ghanta par bhi ~$170) aur credit ki expiry se pehle hi band (expiry ke baad card se katta).
+          # Ek baar mein ek hi machine (GPU quota 1; har machine 12 ghante mein khud delete). Rokna: data branch mein
+          # models/nyay/gcp_off.
+          GCP_MAX_HOURS: '200'
+          GCP_UNTIL: '2026-12-31'   # credit ki asli expiry se ek hafta pehle (user se pakki date aane tak andaza)
         run: |
           pushed=$(cat "$M/pushed" 2>/dev/null || true)       # jo round bheja (Kaggle ya Google Cloud), uska number
           runner=$(cat "$M/runner" 2>/dev/null || echo kaggle) # woh round kahan chal raha
@@ -223,7 +226,8 @@ jobs:
           META
             if [ "$runner" = gcp ] && [ "$st" = error ]; then gcp_count "$pushed"; fi
             sources="$DATA"; [ "$next" -gt 1 ] && sources="$sources $MODEL"
-            if [ "$GCP_ON" = 1 ] && [ ! -f "$M/gcp_off" ] && python3 -c "import sys;sys.exit(float(sys.argv[1])>=float(sys.argv[2]))" "$gh_hours" "$GCP_MAX_HOURS"; then
+            if [ "$GCP_ON" = 1 ] && [ ! -f "$M/gcp_off" ] && [ "$(date -u +%F)" \< "$GCP_UNTIL" ] \
+               && python3 -c "import sys;sys.exit(float(sys.argv[1])>=float(sys.argv[2]))" "$gh_hours" "$GCP_MAX_HOURS"; then
               if bash kaggle/train/gcp.sh start "$next" kt/launch.py $sources; then
                 echo "$next" > "$M/pushed"; echo gcp > "$M/runner"; rm -f "$M/failed"
                 echo "Round $next Google Cloud par shuru ($DATA, lr $LR)"; echo "app=1" >> "$GITHUB_OUTPUT"
@@ -232,7 +236,7 @@ jobs:
                 echo "Google Cloud par machine nahi bani — is baar Kaggle"
               fi
             elif [ "$GCP_ON" = 1 ]; then
-              echo "Google Cloud ki seema ($gh_hours / $GCP_MAX_HOURS ghante) ya gcp_off — sirf Kaggle"
+              echo "Google Cloud band: seema ($gh_hours / $GCP_MAX_HOURS ghante), expiry ($GCP_UNTIL) ya gcp_off — sirf Kaggle"
             fi
           fi
           if [ -n "$next" ]; then

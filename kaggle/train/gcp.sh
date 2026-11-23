@@ -16,10 +16,10 @@ case "$cmd" in
     if gcloud storage ls "gs://$B/round-$1/rc" >/dev/null 2>&1; then
       rc=$(gcloud storage cat "gs://$B/round-$1/rc" | tr -dc 0-9)
       if [ "$rc" = 0 ] && gcloud storage ls "gs://$B/round-$1/adapter/state.json" >/dev/null 2>&1; then echo complete; else echo error; fi
-    elif [ -n "$(gcloud compute instances list --filter="name=$(VM "$1")" --format='value(name)' 2>/dev/null)" ]; then
-      echo running
     else
-      echo gone
+      # list hi na chale to 'gone' mat kaho (warna doosri machine ban jaati) — galti do, agle ghante phir
+      vms=$(gcloud compute instances list --filter="name=$(VM "$1")" --format='value(name)') || { echo "instances list nahi chali" >&2; exit 1; }
+      if [ -n "$vms" ]; then echo running; else echo gone; fi
     fi ;;
   fetch)
     mkdir -p "$2"
