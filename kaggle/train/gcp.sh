@@ -1,5 +1,5 @@
 #!/bin/bash
-# Google Cloud par training round (kaggle-train.yml se; gcloud pehle se login — secret GCP_SA_KEY).
+# Google Cloud par training round (kaggle-train.yml se; gcloud pehle se login — Workload Identity, bina chaabi).
 #   gcp.sh status N          -> running | complete | error | gone  (gone = machine nahi, nateeja nahi: spot cheen li / bani hi nahi)
 #   gcp.sh fetch N DIR       -> nateeja DIR mein (adapter/, eval.json, *.log) — Kaggle 'kernels output' jaisa
 #   gcp.sh start N LAUNCH DATASETS... -> GPU machine banao (spot L4; pehle India, phir US/Europe ke zone)
@@ -35,7 +35,7 @@ case "$cmd" in
     N=$1; LAUNCH=$2; shift 2
     gcloud storage buckets describe "gs://$B" >/dev/null 2>&1 || gcloud storage buckets create "gs://$B" --location=US
     gcloud storage rm -r "gs://$B/round-$N" >/dev/null 2>&1 || true
-    SA=$(gcloud config get-value account 2>/dev/null)
+    SA=${GCP_SA:-$(gcloud config get-value account 2>/dev/null)}
     IMG=$(gcloud compute images list --project deeplearning-platform-release --no-standard-images \
           --filter="family~pytorch AND family~cu12 AND family~ubuntu AND status=READY" \
           --sort-by=~creationTimestamp --limit=1 --format='value(name)')

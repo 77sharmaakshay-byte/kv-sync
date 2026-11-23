@@ -25,6 +25,7 @@ on:
 permissions:
   contents: write
   actions: write   # workflow ko chalu rakhna (keepalive)
+  id-token: write  # Google Cloud se bina chaabi pehchaan (Workload Identity)
 
 concurrency:
   group: kaggle-train
@@ -65,17 +66,22 @@ jobs:
                       print(f"::add-mask::{v}")
                   f.write(f"{k}={v}\n")
           PY
-      - name: Google Cloud (secret GCP_SA_KEY ho to; warna sirf Kaggle)
+      # Google Cloud (project cs-project-bllkpmrc): bina chaabi — GitHub ka OIDC token, sirf is repo ko ijazat
+      # (Workload Identity pool 'github', provider 'kv-sync'; service account nyay-train). Na jude to sirf Kaggle.
+      - name: Google Cloud login
+        id: gcpauth
+        continue-on-error: true
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: projects/422782385271/locations/global/workloadIdentityPools/github/providers/kv-sync
+          service_account: nyay-train@cs-project-bllkpmrc.iam.gserviceaccount.com
+      - name: Google Cloud
         id: gcp
-        env:
-          K: ${{ secrets.GCP_SA_KEY }}
+        if: steps.gcpauth.outcome == 'success'
         run: |
-          [ -n "$K" ] || { echo "GCP_SA_KEY nahi — sirf Kaggle"; exit 0; }
-          printf '%s' "$K" > "$RUNNER_TEMP/gcp.json"
-          gcloud auth activate-service-account --key-file "$RUNNER_TEMP/gcp.json" -q
-          gcloud config set project "$(python3 -c "import json,sys;print(json.load(open(sys.argv[1]))['project_id'])" "$RUNNER_TEMP/gcp.json")" -q
-          rm -f "$RUNNER_TEMP/gcp.json"
-          echo "on=1" >> "$GITHUB_OUTPUT"
+          gcloud config set project cs-project-bllkpmrc -q
+          gcloud compute zones list --limit 1 --format='value(name)' && echo "on=1" >> "$GITHUB_OUTPUT" \
+            || echo "::warning::Google Cloud se jud nahi paye — is baar sirf Kaggle"
       - name: Schedule chalu rakho (60 din wali band-shudgi na ho)
         env:
           GH_TOKEN: ${{ github.token }}
@@ -91,6 +97,7 @@ jobs:
         id: step
         env:
           GCP_ON: ${{ steps.gcp.outputs.on }}
+          GCP_SA: nyay-train@cs-project-bllkpmrc.iam.gserviceaccount.com
           # Google Cloud ka kharcha: ₹28,569 credit mein se ~₹20,000 tak (L4 spot machine; mehngi on-demand daam par bhi
           # 250 ghante ~ $215). Itne ghante ho gaye to apne aap sirf Kaggle. Rokna ho to data branch mein models/nyay/gcp_off.
           GCP_MAX_HOURS: '250'
@@ -105,7 +112,7 @@ jobs:
             echo "$gh_hours" > "$M/gcp_hours"; echo "round $1: Google Cloud $h ghante (kul $gh_hours)"
           }
           if [ "$runner" = gcp ] && [ -n "$pushed" ]; then
-            [ "$GCP_ON" = 1 ] || { echo "::error::Round $pushed Google Cloud par hai par GCP_SA_KEY secret nahi"; exit 1; }
+            [ "$GCP_ON" = 1 ] || { echo "::error::Round $pushed Google Cloud par hai par Google Cloud se jud nahi paye"; exit 1; }
             st=$(bash kaggle/train/gcp.sh status "$pushed"); echo "google cloud round $pushed: $st"
           else
             s=$(kaggle kernels status "$KERNEL" 2>&1 | tr 'A-Z' 'a-z' || true); echo "kernel: $s"
