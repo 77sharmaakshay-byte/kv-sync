@@ -13,7 +13,7 @@ name: Kaggle training
 
 on:
   schedule:
-    - cron: '17 */3 * * *'
+    - cron: '17 * * * *'   # har ghante (Google Cloud ka round khatam hote hi agla; Kaggle ke liye bas haal dekhna)
   workflow_dispatch:
     inputs:
       action:
@@ -65,6 +65,17 @@ jobs:
                       print(f"::add-mask::{v}")
                   f.write(f"{k}={v}\n")
           PY
+      - name: Google Cloud (secret GCP_SA_KEY ho to; warna sirf Kaggle)
+        id: gcp
+        env:
+          K: ${{ secrets.GCP_SA_KEY }}
+        run: |
+          [ -n "$K" ] || { echo "GCP_SA_KEY nahi — sirf Kaggle"; exit 0; }
+          printf '%s' "$K" > "$RUNNER_TEMP/gcp.json"
+          gcloud auth activate-service-account --key-file "$RUNNER_TEMP/gcp.json" -q
+          gcloud config set project "$(python3 -c "import json,sys;print(json.load(open(sys.argv[1]))['project_id'])" "$RUNNER_TEMP/gcp.json")" -q
+          rm -f "$RUNNER_TEMP/gcp.json"
+          echo "on=1" >> "$GITHUB_OUTPUT"
       - name: Schedule chalu rakho (60 din wali band-shudgi na ho)
         env:
           GH_TOKEN: ${{ github.token }}
@@ -78,13 +89,31 @@ jobs:
           mkdir -p "$M"
       - name: Haal aur agla kadam
         id: step
+        env:
+          GCP_ON: ${{ steps.gcp.outputs.on }}
+          # Google Cloud ka kharcha: ₹28,569 credit mein se ~₹20,000 tak (L4 spot machine; mehngi on-demand daam par bhi
+          # 250 ghante ~ $215). Itne ghante ho gaye to apne aap sirf Kaggle. Rokna ho to data branch mein models/nyay/gcp_off.
+          GCP_MAX_HOURS: '250'
         run: |
-          s=$(kaggle kernels status "$KERNEL" 2>&1 | tr 'A-Z' 'a-z' || true); echo "kernel: $s"
-          case "$s" in   # Kaggle CLI hi toote (traceback) to round ki galti mat gino — 1-3 Nov isi se round 13 'fail' gina gaya
-            *traceback*) echo "::error::Kaggle CLI nahi chala (upar dekho) — round fail nahi gina"; exit 1;;
-            *running*|*queued*) st=running;; *complete*) st=complete;; *error*|*cancel*) st=error;; *) st=none;;
-          esac
-          pushed=$(cat "$M/pushed" 2>/dev/null || true)       # jo round Kaggle par bheja, uska number
+          pushed=$(cat "$M/pushed" 2>/dev/null || true)       # jo round bheja (Kaggle ya Google Cloud), uska number
+          runner=$(cat "$M/runner" 2>/dev/null || echo kaggle) # woh round kahan chal raha
+          gh_hours=$(cat "$M/gcp_hours" 2>/dev/null || echo 0)
+          echo "Google Cloud ab tak: $gh_hours ghante (seema $GCP_MAX_HOURS)"
+          gcp_count() {   # round ki machine ke ghante jodo (ek round ek hi baar)
+            h=$(bash kaggle/train/gcp.sh hours "$1" || echo 0.5)
+            gh_hours=$(python3 -c "import sys;print(round(float(sys.argv[1])+float(sys.argv[2]),2))" "$gh_hours" "$h")
+            echo "$gh_hours" > "$M/gcp_hours"; echo "round $1: Google Cloud $h ghante (kul $gh_hours)"
+          }
+          if [ "$runner" = gcp ] && [ -n "$pushed" ]; then
+            [ "$GCP_ON" = 1 ] || { echo "::error::Round $pushed Google Cloud par hai par GCP_SA_KEY secret nahi"; exit 1; }
+            st=$(bash kaggle/train/gcp.sh status "$pushed"); echo "google cloud round $pushed: $st"
+          else
+            s=$(kaggle kernels status "$KERNEL" 2>&1 | tr 'A-Z' 'a-z' || true); echo "kernel: $s"
+            case "$s" in   # Kaggle CLI hi toote (traceback) to round ki galti mat gino — 1-3 Nov isi se round 13 'fail' gina gaya
+              *traceback*) echo "::error::Kaggle CLI nahi chala (upar dekho) — round fail nahi gina"; exit 1;;
+              *running*|*queued*) st=running;; *complete*) st=complete;; *error*|*cancel*) st=error;; *) st=none;;
+            esac
+          fi
           done_r=$(cat "$M/done_round" 2>/dev/null || echo 0)  # jis round ka nateeja aa chuka
           phase=$(cat "$M/phase" 2>/dev/null || echo 0)        # plan ka kaunsa data
           plan() { python3 -c "import json,sys;p=json.load(open('kaggle/train/plan.json'))['phases'];i=int(sys.argv[1]);print(p[i].get(sys.argv[2], '') if i<len(p) else '')" "$@"; }
@@ -97,8 +126,15 @@ jobs:
             echo "Koi round nahi chal raha (shuru karne ke liye: Run workflow -> start)"; exit 0
           elif [ "$st" = running ] || [ "$st" = none ]; then
             echo "Round $pushed: $st"; exit 0
+          elif [ "$st" = gone ]; then   # spot machine Google ne waapas le li (ya bani hi nahi): fail nahi, phir bhejo
+            gcp_count "$pushed"; echo "Round $pushed: Google Cloud machine beech mein chali gayi — dobara"; next=$pushed
           elif [ "$st" = error ]; then
-            mkdir -p out && kaggle kernels output "$KERNEL" -p out --file-pattern '.*\.log' >/dev/null 2>&1 || true
+            if [ "$runner" = gcp ]; then
+              mkdir -p out && bash kaggle/train/gcp.sh fetch "$pushed" out >/dev/null 2>&1 || true
+              tail -c 3000 out/vm.log 2>/dev/null || true; tail -c 6000 out/nyay-train.log 2>/dev/null || true
+            else
+              mkdir -p out && kaggle kernels output "$KERNEL" -p out --file-pattern '.*\.log' >/dev/null 2>&1 || true
+            fi
             tail -c 6000 out/*.log 2>/dev/null | tr ',' '\n' | grep '"data"' | tail -40 || true
             n=0; last=0; [ -f "$M/fails" ] && read -r n last < "$M/fails"
             now=$(date +%s)
@@ -115,7 +151,7 @@ jobs:
               echo "Round $pushed fail ($n baar); agli koshish $(date -d @$((last + 86400)) '+%d-%m %H:%M') UTC ke baad"; exit 0
             fi
           else  # complete
-            mkdir -p out && kaggle kernels output "$KERNEL" -p out
+            if [ "$runner" = gcp ]; then mkdir -p out && bash kaggle/train/gcp.sh fetch "$pushed" out; else mkdir -p out && kaggle kernels output "$KERNEL" -p out; fi
             st_file=$(find out -name state.json | head -1)
             r=$(python3 -c "import json,sys;print(json.load(open(sys.argv[1]))['round'])" "$st_file" 2>/dev/null || echo 0)
             if [ "$r" = "$pushed" ] && [ "$r" -gt "$done_r" ]; then
@@ -139,6 +175,7 @@ jobs:
               cp "$(find out -name eval.json | head -1)" "$M/round-$r.json"
               python3 -c "import json,sys;d=json.load(open(sys.argv[1]));print({k:d[k] for k in d if k!='samples'})" "$M/round-$r.json"
               echo "$r" > "$M/done_round"; done_r=$r; rm -f "$M/fails"; echo "app=1" >> "$GITHUB_OUTPUT"
+              [ "$runner" = gcp ] && { gcp_count "$r"; bash kaggle/train/gcp.sh clean "$r"; }
               cp "$M/round-$r.json" up/eval.json; echo "saved=$r" >> "$GITHUB_OUTPUT"
             fi
             if [ "$done_r" -ge "$pushed" ]; then
@@ -177,8 +214,23 @@ jobs:
            "kernel_type": "script", "is_private": true, "enable_gpu": true, "enable_internet": true,
            "dataset_sources": [$src], "competition_sources": [], "kernel_sources": []}
           META
+            if [ "$runner" = gcp ] && [ "$st" = error ]; then gcp_count "$pushed"; fi
+            sources="$DATA"; [ "$next" -gt 1 ] && sources="$sources $MODEL"
+            if [ "$GCP_ON" = 1 ] && [ ! -f "$M/gcp_off" ] && python3 -c "import sys;sys.exit(float(sys.argv[1])>=float(sys.argv[2]))" "$gh_hours" "$GCP_MAX_HOURS"; then
+              if bash kaggle/train/gcp.sh start "$next" kt/launch.py $sources; then
+                echo "$next" > "$M/pushed"; echo gcp > "$M/runner"; rm -f "$M/failed"
+                echo "Round $next Google Cloud par shuru ($DATA, lr $LR)"; echo "app=1" >> "$GITHUB_OUTPUT"
+                next=""
+              else
+                echo "Google Cloud par machine nahi bani — is baar Kaggle"
+              fi
+            elif [ "$GCP_ON" = 1 ]; then
+              echo "Google Cloud ki seema ($gh_hours / $GCP_MAX_HOURS ghante) ya gcp_off — sirf Kaggle"
+            fi
+          fi
+          if [ -n "$next" ]; then
             o=$(kaggle kernels push -p kt 2>&1 || true); echo "$o"
-            echo "$next" > "$M/pushed"; rm -f "$M/failed"
+            echo "$next" > "$M/pushed"; echo kaggle > "$M/runner"; rm -f "$M/failed"
             if echo "$o" | grep -qi "error"; then   # jaise hafte ka 30 ghante GPU khatam: agle check par phir bhejta hai
               echo "Round $next Kaggle ne abhi nahi liya (upar dekho) — agle check par phir"
             else
