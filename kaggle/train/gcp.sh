@@ -36,10 +36,12 @@ case "$cmd" in
     gcloud storage buckets describe "gs://$B" >/dev/null 2>&1 || gcloud storage buckets create "gs://$B" --location=US
     gcloud storage rm -r "gs://$B/round-$N" >/dev/null 2>&1 || true
     SA=${GCP_SA:-$(gcloud config get-value account 2>/dev/null)}
+    # Deep Learning VM ki sabse nayi PyTorch + CUDA 12 + Ubuntu image (--filter ka regex gcloud mana karta hai: shell mein chhanto)
     IMG=$(gcloud compute images list --project deeplearning-platform-release --no-standard-images \
-          --filter="family~pytorch AND family~cu12 AND family~ubuntu AND status=READY" \
-          --sort-by=~creationTimestamp --limit=1 --format='value(name)')
+          --sort-by=~creationTimestamp --format='value(name,family)' \
+          | awk '!f && $2 ~ /pytorch/ && $2 ~ /cu12/ && $2 ~ /ubuntu/ {f=$1} END {print f}')   # exit nahi: pipefail mein gcloud SIGPIPE se rukta
     echo "image: $IMG"
+    [ -n "$IMG" ] || { echo "Deep Learning VM ki image nahi mili"; exit 1; }
     md="bucket=$B,round=$N,datasets=$*,kaggle_user=${KAGGLE_USERNAME:-krishivlaw},install-nvidia-driver=True"
     [ -n "${KAGGLE_KEY:-}" ] && md="$md,kaggle_key=$KAGGLE_KEY"
     [ -n "${KAGGLE_API_TOKEN:-}" ] && md="$md,kaggle_token=$KAGGLE_API_TOKEN"
