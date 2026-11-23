@@ -1,9 +1,10 @@
 {
  "date": "23-11-2026",
- "fetched": "21-11-2026",
+ "fetched": "23-11-2026",
  "source": "ehcr",
  "uploads": [
   "DAILY CAUSE LIST (ADVANCE)|20.11.2026 06:31 PM",
+  "DAILY CAUSELIST II|23.11.2026 10:10 AM",
   "DAILY CAUSELIST|21.11.2026 05:37 PM",
   "DAILY LIST REGISTRAR JUDICIAL|21.11.2026 05:41 PM"
  ],
@@ -61,6 +62,15 @@
    "source_pdf": "20261123_1013_0.pdf",
    "uploaded": "21.11.2026 05:41 PM",
    "chars": 6905
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 05",
+   "type": "DAILY CAUSELIST II",
+   "file": "ehcr-20261123_1011_0-01-court-05.pdf",
+   "source_pdf": "20261123_1011_0.pdf",
+   "uploaded": "23.11.2026 10:10 AM",
+   "chars": 2590
   }
  ]
 }
