@@ -11,8 +11,9 @@ B=$(get attributes/bucket); R=$(get attributes/round)
 NAME=$(get name); ZONE=$(get zone | sed 's#.*/##')
 D="gs://$B/round-$R"
 bye() {   # nateeja / log bucket mein, phir machine delete
-  cp /var/log/nyay.log /kaggle/working/vm.log 2>/dev/null
-  for f in /kaggle/working/adapter /kaggle/working/eval.json /kaggle/working/nyay-train.log /kaggle/working/vm.log; do
+  echo "bye $1"
+  gcloud storage cp /var/log/nyay.log "$D/vm.log"   # log hamesha (shuru mein hi atke to bhi)
+  for f in /kaggle/working/adapter /kaggle/working/eval.json /kaggle/working/nyay-train.log; do
     [ -e "$f" ] && gcloud storage cp -r "$f" "$D/"
   done
   echo "$1" | gcloud storage cp - "$D/rc"

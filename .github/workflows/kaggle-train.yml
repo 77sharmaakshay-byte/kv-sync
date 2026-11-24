@@ -143,7 +143,8 @@ jobs:
           elif [ "$st" = error ]; then
             if [ "$runner" = gcp ]; then
               mkdir -p out && bash kaggle/train/gcp.sh fetch "$pushed" out >/dev/null 2>&1 || true
-              tail -c 3000 out/vm.log 2>/dev/null || true; tail -c 6000 out/nyay-train.log 2>/dev/null || true
+              echo "rc: $(cat out/rc 2>/dev/null)"; ls -la out || true
+              tail -c 4000 out/vm.log 2>/dev/null || true; tail -c 6000 out/nyay-train.log 2>/dev/null || true
             else
               mkdir -p out && kaggle kernels output "$KERNEL" -p out --file-pattern '.*\.log' >/dev/null 2>&1 || true
             fi
