@@ -32,9 +32,16 @@ nvidia-smi -L || bye 90
 export KAGGLE_USERNAME=$(get attributes/kaggle_user)
 k=$(get attributes/kaggle_key); [ -n "$k" ] && export KAGGLE_KEY="$k"
 t=$(get attributes/kaggle_token); [ -n "$t" ] && export KAGGLE_API_TOKEN="$t"
-export PATH="/opt/conda/bin:/usr/local/bin:$PATH"   # Deep Learning VM ka python
-PY=$(command -v python3)
-$PY -m pip install -q -U kaggle six transformers accelerate datasets || bye 91
+# Apna alag Python (venv): Ubuntu 24.04 wali image system Python mein pip install mana karti hai (rc 91 isi se).
+# torch bhi venv mein (PyPI wala CUDA 12 build; driver image ka) — image kaunsi bhi ho, ek jaisa chale.
+V=/opt/nyay
+if [ ! -x "$V/bin/python" ]; then
+  python3 -m venv "$V" || { apt-get update -q && apt-get install -y -q python3-venv python3-pip && python3 -m venv "$V"; } || bye 93
+fi
+PY="$V/bin/python"; export PATH="$V/bin:$PATH"
+$PY -m pip install -q -U pip || bye 91
+$PY -m pip install -q torch transformers accelerate datasets peft bitsandbytes rouge-score kaggle six || bye 91
+$PY -c "import torch;print('torch', torch.__version__, 'cuda', torch.cuda.is_available())"
 mkdir -p /kaggle/input /kaggle/working
 for ds in $(get attributes/datasets); do
   kaggle datasets download -d "$ds" -p "/kaggle/input/${ds#*/}" --unzip || bye 92
