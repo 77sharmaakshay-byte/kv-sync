@@ -34,7 +34,7 @@ concurrency:
 jobs:
   loop:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120   # nateeja upload (~50 min tak) + Google Cloud nazar (40 min)
     env:
       KERNEL: krishivlaw/nyay-train
       MODEL: krishivlaw/nyay-model
@@ -137,7 +137,7 @@ jobs:
           elif [ -z "$pushed" ]; then
             echo "Koi round nahi chal raha (shuru karne ke liye: Run workflow -> start)"; exit 0
           elif [ "$st" = running ] || [ "$st" = none ]; then
-            echo "Round $pushed: $st"; exit 0
+            echo "Round $pushed: $st"; [ "$runner" = gcp ] && echo "watch=1" >> "$GITHUB_OUTPUT"; exit 0
           elif [ "$st" = gone ]; then   # spot machine Google ne waapas le li (ya bani hi nahi): fail nahi, phir bhejo
             gcp_count "$pushed"; echo "Round $pushed: Google Cloud machine beech mein chali gayi — dobara"; next=$pushed
           elif [ "$st" = error ]; then
@@ -233,7 +233,7 @@ jobs:
                && python3 -c "import sys;sys.exit(float(sys.argv[1])>=float(sys.argv[2]))" "$gh_hours" "$GCP_MAX_HOURS"; then
               if bash kaggle/train/gcp.sh start "$next" kt/launch.py $sources; then
                 echo "$next" > "$M/pushed"; echo gcp > "$M/runner"; rm -f "$M/failed"
-                echo "Round $next Google Cloud par shuru ($DATA, lr $LR)"; echo "app=1" >> "$GITHUB_OUTPUT"
+                echo "Round $next Google Cloud par shuru ($DATA, lr $LR)"; echo "app=1" >> "$GITHUB_OUTPUT"; echo "watch=1" >> "$GITHUB_OUTPUT"
                 next=""
               else
                 echo "Google Cloud par machine nahi bani — is baar Kaggle"
@@ -281,6 +281,15 @@ jobs:
       - name: App mein naya haal (Main > Apna model)
         if: steps.step.outputs.app == '1'
         run: sh scripts/publish_site.sh databranch || echo "Site abhi update nahi hui; agle court data ke saath ho jayegi"
+      # GitHub ka cron asal mein 6-8 ghante mein ek baar chalta hai; Google Cloud ka round (ya spot machine chhin jaaye)
+      # tab tak bekaar pada rahe aur ghante kate. Isliye machine chal rahi ho to 40 minute baad yahi workflow khud dobara.
+      - name: Google Cloud round par nazar (40 minute baad phir)
+        if: steps.step.outputs.watch == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 2400
+          gh workflow run kaggle-train.yml -R "${{ github.repository }}" -f action=auto
       - name: Round fail
         if: steps.step.outputs.fail == '1'
         run: |

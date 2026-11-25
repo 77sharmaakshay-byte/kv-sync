@@ -57,7 +57,7 @@ case "$cmd" in
           | awk '!f && $2 ~ /pytorch/ && $2 ~ /cu12/ && $2 ~ /ubuntu/ {f=$1} END {print f}')   # exit nahi: pipefail mein gcloud SIGPIPE se rukta
     echo "image: $IMG"
     [ -n "$IMG" ] || { echo "Deep Learning VM ki image nahi mili"; exit 1; }
-    md="bucket=$B,round=$N,datasets=$*,kaggle_user=${KAGGLE_USERNAME:-krishivlaw},install-nvidia-driver=True"
+    md="bucket=$B,round=$N,datasets=$*,kaggle_user=${KAGGLE_USERNAME:-krishivlaw},install-nvidia-driver=True,train_hours=${GCP_TRAIN_HOURS:-4}"
     [ -n "${KAGGLE_KEY:-}" ] && md="$md,kaggle_key=$KAGGLE_KEY"
     [ -n "${KAGGLE_API_TOKEN:-}" ] && md="$md,kaggle_token=$KAGGLE_API_TOKEN"
     d=$(dirname "$0")

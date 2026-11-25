@@ -48,5 +48,7 @@ for ds in $(get attributes/datasets); do
 done
 find /kaggle/input -maxdepth 3 | head -50
 get attributes/launch > /tmp/launch.py
+# Spot machine Google kabhi bhi waapas le sakta hai (24 Nov: 6.5 ghante baad, poora round gaya) — chhote round
+th=$(get attributes/train_hours); [ -n "$th" ] && export NYAY_TRAIN_HOURS="$th"
 cd /kaggle/working && $PY /tmp/launch.py > /kaggle/working/nyay-train.log 2>&1
 bye $?
