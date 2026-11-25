@@ -1,0 +1,74 @@
+# Saare vakil A-Z (Nainital HC database ke saare faisle): data branch ke lists/vakil-sab/ mein
+# index.md / index.csv (har vakil: kul, taraf, jeet, haar, mukhya vishay), vishay.csv, cases.csv.gz.
+# Actions > "Saare vakil A-Z" > Run workflow. Nateeja machine ka — jaanch baaki. Vakil ke apne kaam ke liye, public ranking nahi.
+name: Saare vakil A-Z
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      PYTHONUNBUFFERED: '1'
+      DATASET: krishivlaw/sc-data-set
+    steps:
+      - name: Disk khaali karo (database ~9 GB)
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Kaggle CLI
+        run: pip install --quiet kaggle six
+      - name: Kaggle token
+        env:
+          SECRET: ${{ secrets.KRISHIVLAW }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          s = (os.environ.get("SECRET") or "").strip().strip('"').strip("'")
+          try:
+              d = json.loads(s); env = {"KAGGLE_USERNAME": d["username"], "KAGGLE_KEY": d["key"]}
+          except (ValueError, KeyError, TypeError):
+              if not s:
+                  raise SystemExit("KRISHIVLAW secret khaali hai")
+              env = {"KAGGLE_KEY": s} if re.fullmatch(r"[0-9a-f]{32}", s) else {"KAGGLE_API_TOKEN": s}
+              env["KAGGLE_USERNAME"] = "krishivlaw"
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              for k, v in env.items():
+                  if k != "KAGGLE_USERNAME":
+                      print(f"::add-mask::{v}")
+                  f.write(f"{k}={v}\n")
+          PY
+      - name: Kaggle se database
+        run: |
+          mkdir -p "$RUNNER_TEMP/db" && cd "$RUNNER_TEMP/db"
+          kaggle datasets download "$DATASET" -f krishivlaw.db -p . || kaggle datasets download "$DATASET" -p .
+          for z in *.zip; do [ -f "$z" ] && unzip -q "$z" && rm "$z"; done
+          g=$(ls -S *.gz 2>/dev/null | head -1 || true)
+          [ -n "$g" ] && gunzip -c "$g" > krishivlaw.db.tmp && rm "$g" && mv krishivlaw.db.tmp krishivlaw.db
+          [ -f krishivlaw.db ] || { d=$(ls -S *.db *.sqlite 2>/dev/null | head -1 || true); [ -n "$d" ] && mv "$d" krishivlaw.db; }
+          test -f krishivlaw.db
+      - name: List banao
+        run: |
+          python scripts/export_vakil_sab.py --db "$RUNNER_TEMP/db/krishivlaw.db" --out "$RUNNER_TEMP/vakil-sab"
+          gzip -9 "$RUNNER_TEMP/vakil-sab/cases.csv"
+          ls -la "$RUNNER_TEMP/vakil-sab"
+          head -60 "$RUNNER_TEMP/vakil-sab/index.md" >> "$GITHUB_STEP_SUMMARY"
+      - name: Data branch par save
+        run: |
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin data:data
+          git worktree add databranch data
+          rm -rf databranch/lists/vakil-sab && mkdir -p databranch/lists/vakil-sab
+          cp "$RUNNER_TEMP"/vakil-sab/* databranch/lists/vakil-sab/
+          cd databranch && git add -A lists/vakil-sab
+          git diff --cached --quiet || git commit -qm "Saare vakil A-Z"
+          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }
