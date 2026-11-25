@@ -1,0 +1,90 @@
+# Database se kuch faislon ka poora saaf text: data branch ke lists/faisle/<case>-<id>.txt mein (padh kar saar banane ke liye).
+# Actions > "Faisle nikalo" > Run workflow > ids (database id ya HC case number, space se alag).
+name: Faisle nikalo
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: 'Database id ya case number (space se alag), jaise 52256 WPSS/226/2003'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      PYTHONUNBUFFERED: '1'
+      DATASET: krishivlaw/sc-data-set
+    steps:
+      - name: Disk khaali karo (database ~9 GB)
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Kaggle CLI
+        run: pip install --quiet kaggle six
+      - name: Kaggle token
+        env:
+          SECRET: ${{ secrets.KRISHIVLAW }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          s = (os.environ.get("SECRET") or "").strip().strip('"').strip("'")
+          try:
+              d = json.loads(s); env = {"KAGGLE_USERNAME": d["username"], "KAGGLE_KEY": d["key"]}
+          except (ValueError, KeyError, TypeError):
+              if not s:
+                  raise SystemExit("KRISHIVLAW secret khaali hai")
+              env = {"KAGGLE_KEY": s} if re.fullmatch(r"[0-9a-f]{32}", s) else {"KAGGLE_API_TOKEN": s}
+              env["KAGGLE_USERNAME"] = "krishivlaw"
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              for k, v in env.items():
+                  if k != "KAGGLE_USERNAME":
+                      print(f"::add-mask::{v}")
+                  f.write(f"{k}={v}\n")
+          PY
+      - name: Kaggle se database
+        run: |
+          mkdir -p "$RUNNER_TEMP/db" && cd "$RUNNER_TEMP/db"
+          kaggle datasets download "$DATASET" -f krishivlaw.db -p . || kaggle datasets download "$DATASET" -p .
+          for z in *.zip; do [ -f "$z" ] && unzip -q "$z" && rm "$z"; done
+          g=$(ls -S *.gz 2>/dev/null | head -1 || true)
+          [ -n "$g" ] && gunzip -c "$g" > krishivlaw.db.tmp && rm "$g" && mv krishivlaw.db.tmp krishivlaw.db
+          [ -f krishivlaw.db ] || { d=$(ls -S *.db *.sqlite 2>/dev/null | head -1 || true); [ -n "$d" ] && mv "$d" krishivlaw.db; }
+          test -f krishivlaw.db
+      - name: Text nikalo
+        env:
+          IDS: ${{ inputs.ids }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/faisle"
+          python3 - "$RUNNER_TEMP/db/krishivlaw.db" "$RUNNER_TEMP/faisle" <<'PY'
+          import os, re, sqlite3, sys
+          con = sqlite3.connect(f"file:{sys.argv[1]}?mode=ro", uri=True)
+          for spec in os.environ["IDS"].split():
+              q = ("j.id = ?", int(spec)) if spec.isdigit() else ("j.case_no = ? AND j.court = 'UKHC'", spec)
+              rows = con.execute("SELECT j.id, j.case_no, j.title, j.decision_date, j.disposal, t.clean FROM judgments j "
+                                 f"JOIN texts t ON t.judgment_id = j.id WHERE {q[0]} ORDER BY j.decision_date", (q[1],)).fetchall()
+              if not rows:
+                  print(f"{spec}: nahi mila")
+              for jid, cn, title, date, disp, text in rows:
+                  name = re.sub(r"[^A-Za-z0-9]+", "-", cn or "x").strip("-") + f"-{jid}.txt"
+                  with open(os.path.join(sys.argv[2], name), "w", encoding="utf-8") as f:
+                      f.write(f"{title}\n{cn} · {date} · {disp}\n\n{text}\n")
+                  print(f"{spec} -> {name} ({len(text)} akshar)")
+          PY
+      - name: Data branch par save
+        run: |
+          git config --global user.name "krishivlaw-bot"
+          git config --global user.email "krishivlaw-bot@users.noreply.github.com"
+          git fetch --depth 1 origin data:data
+          git worktree add databranch data
+          mkdir -p databranch/lists/faisle && cp "$RUNNER_TEMP"/faisle/* databranch/lists/faisle/
+          cd databranch && git add lists/faisle
+          git diff --cached --quiet || git commit -qm "Faisle nikale"
+          git push -q origin data || { git pull -q --rebase origin data && git push -q origin data; }
