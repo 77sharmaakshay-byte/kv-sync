@@ -2,7 +2,7 @@
 # Google Cloud par training round (kaggle-train.yml se; gcloud pehle se login — Workload Identity, bina chaabi).
 #   gcp.sh status N          -> running | complete | error | gone  (gone = machine nahi, nateeja nahi: spot cheen li / bani hi nahi)
 #   gcp.sh fetch N DIR       -> nateeja DIR mein (adapter/, eval.json, *.log) — Kaggle 'kernels output' jaisa
-#   gcp.sh start N LAUNCH DATASETS... -> GPU machine banao (spot L4; pehle India, phir US/Europe ke zone)
+#   gcp.sh start N LAUNCH DATASETS... -> GPU machine banao (L4: pehle normal, na mile to spot; pehle India, phir US/Europe)
 #   gcp.sh hours N           -> is round ki machine kitne ghante chali (andaza, 'started' se ab tak / nateeja tak)
 #   gcp.sh clean N           -> bucket se round ka saaman hatao (Kaggle par model chadh gaya to)
 #   gcp.sh natoff            -> NAT (internet ka darwaza) hatao — machine na chal rahi ho to (khaali NAT ka IP bhi paisa leta)
@@ -61,18 +61,22 @@ case "$cmd" in
     [ -n "${KAGGLE_KEY:-}" ] && md="$md,kaggle_key=$KAGGLE_KEY"
     [ -n "${KAGGLE_API_TOKEN:-}" ] && md="$md,kaggle_token=$KAGGLE_API_TOKEN"
     d=$(dirname "$0")
+    # Pehle normal (on-demand) machine: spot wali 3-3.5 ghante mein chhin rahi thi (25-26 Nov, ~19 ghante bekaar).
+    # Normal na mile (quota / stock) to spot. GCP_MODES="SPOT" se sirf spot.
+    for MODE in ${GCP_MODES:-STANDARD SPOT}; do
     for Z in ${GCP_ZONES:-asia-south1-a asia-south1-b asia-south1-c us-central1-a us-central1-b us-central1-c us-east4-a us-east1-b europe-west4-a}; do
-      echo "zone $Z ..."
+      echo "zone $Z ($MODE) ..."
       nat_on "${Z%-*}" || { echo "NAT nahi bana: ${Z%-*}"; continue; }
       if gcloud compute instances create "$(VM "$N")" --zone "$Z" --machine-type g2-standard-8 --no-address \
           --accelerator type=nvidia-l4,count=1 --maintenance-policy TERMINATE \
-          --provisioning-model SPOT --instance-termination-action DELETE --max-run-duration 12h \
+          --provisioning-model "$MODE" --instance-termination-action DELETE --max-run-duration 12h \
           --image "$IMG" --image-project deeplearning-platform-release --boot-disk-size 200GB --boot-disk-type pd-balanced \
           --service-account "$SA" --scopes cloud-platform \
           --metadata "^|^$(echo "$md" | tr ',' '|')" \
           --metadata-from-file "startup-script=$d/gcp_vm.sh,launch=$LAUNCH" 2>&1 | tee /tmp/gcp-create.log; then
-        grep -qi "error" /tmp/gcp-create.log || { echo "machine bani: $Z"; exit 0; }
+        grep -qi "error" /tmp/gcp-create.log || { echo "machine bani: $Z ($MODE)"; exit 0; }
       fi
+    done
     done
     bash "$0" natoff
     echo "kisi zone mein GPU machine nahi bani"; exit 1 ;;
