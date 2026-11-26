@@ -1,9 +1,10 @@
 {
  "date": "26-11-2026",
- "fetched": "25-11-2026",
+ "fetched": "26-11-2026",
  "source": "ehcr",
  "uploads": [
-  "DAILY CAUSELIST|25.11.2026 05:57 PM"
+  "DAILY CAUSELIST|25.11.2026 05:57 PM",
+  "DAILY LIST REGISTRAR JUDICIAL|26.11.2026 09:18 AM"
  ],
  "benches": [
   {
@@ -32,6 +33,15 @@
    "source_pdf": "20261126_1001_0.pdf",
    "uploaded": "25.11.2026 05:57 PM",
    "chars": 23054
+  },
+  {
+   "kind": "Daily",
+   "bench": "DAILY LIST REGISTRAR JUDICIAL",
+   "type": "DAILY LIST REGISTRAR JUDICIAL",
+   "file": "ehcr-20261126_1013_0-01.pdf",
+   "source_pdf": "20261126_1013_0.pdf",
+   "uploaded": "26.11.2026 09:18 AM",
+   "chars": 10271
   }
  ]
 }
