@@ -1,31 +1,23 @@
 {
  "date": "28-11-2026",
- "fetched": "26-11-2026",
+ "fetched": "27-11-2026",
  "benches": [
   {
    "kind": "civil",
    "bench": "Hon'ble Mr. Justice Manoj Kumar Tiwari, Hon'ble Mr. Justice Pankaj Purohit",
    "type": "DAILY CAUSE LIST",
-   "file": "civil-01-Hon_ble_Mr._Justice_Manoj_Kumar_Tiwari_Hon_ble_Mr._Justice_Pankaj_Purohit-DAILY_CAUSE_LIST.pdf",
+   "file": "civil-02-Hon_ble_Mr._Justice_Manoj_Kumar_Tiwari_Hon_ble_Mr._Justice_Pankaj_Purohit-DAILY_CAUSE_LIST.pdf",
    "pages": 8,
    "chars": 13161
   },
   {
    "kind": "civil",
-   "bench": "Hon'ble Mr. Justice Manoj Kumar Tiwari, Hon'ble Mr. Justice Pankaj Purohit",
-   "type": "DAILY CAUSE LIST II",
-   "file": "civil-02-Hon_ble_Mr._Justice_Manoj_Kumar_Tiwari_Hon_ble_Mr._Justice_Pankaj_Purohit-DAILY_CAUSE_LIST_II.pdf",
-   "pages": 2,
-   "chars": 2087
-  },
-  {
-   "kind": "civil",
    "bench": "Registrar",
    "type": "DAILY CAUSE LIST",
-   "file": "civil-03-Registrar-DAILY_CAUSE_LIST.pdf",
+   "file": "civil-05-Registrar-DAILY_CAUSE_LIST.pdf",
    "pages": 2,
    "chars": 1569
   }
  ],
- "errors": 0
+ "errors": 6
 }
