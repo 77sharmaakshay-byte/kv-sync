@@ -36,6 +36,35 @@ Party: Mera case · Khoj · Cause list · Main
 6. Party ke liye bahut saral: badi likhai, Hindi/Hinglish, "agli tareekh" sabse upar.
 7. Bharosa: har AI jawab ke saath asli faisle ka link; "machine ka nateeja — jaanch karein".
 
+## Naye section (user ne tay kiye, 27 Nov)
+1. **Live court** (pehle se hai): kaunsa item chal raha hai — ise aur saaf, "mera item kitna door".
+2. **Apna matter likho → research**: vakil apne case ke tathya / mudda likhe. App de:
+   - **Paksh ke faisle** — jitne zyada mil sakein (har ek: case no., tareekh, judge, ek line kyun kaam ka, asli ansh + PDF)
+   - **Khilaf ke faisle** — wahi format, aur kis aadhar par khilaf gaye
+   - **Aakhir mein conclusion** — kaunsi dalil mazboot, kaunsa faisla sabse kareeb, kya dhyan rakhein (appeal/SLP ho to woh bhi)
+   - Har baat ke saath asli faisle ka link; koi faisla ya quote banaya hua nahi
+3. **Case search**: case number (jaise WPSS/557/2023) daalo → parties, vakil, judge, poori history, har order, agli tareekh, **PDF download**.
+4. **Category section**: Bail, Criminal, Service, Land, Compassionate… har category mein:
+   - us vishay ke faisle, nateeje ke hisaab se (paksh / khilaf / nipataara)
+   - vakil ka record: kitne case, kitne paksh mein, kitne khilaf, kitne nipataara / vibhag vichaar
+   - (Bar Council Rule 36: vakil ka record "best vakil" ranking ya prachaar jaisa na dikhe — design mein dhyan)
+
+## Claude ke sujhav (aur section)
+- **Meri diary / calendar**: mere saare case ki agli tareekhein ek calendar mein; ek din pehle aur subah reminder
+- **Order aate hi suchna**: mere case mein naya order upload ho to notification + AI saar
+- **Bench ka rukh**: is judge ne isi vishay (jaise bail, compassionate) mein pehle kya kiya — numbers + faisle
+- **Drafting madad**: bail application, delay condonation, urgency application ke dhaanche (vakil khud bharega; tathya kabhi khud se nahi)
+- **Limitation / court fee calculator**: appeal / revision ki aakhri tareekh, court fee
+- **Saathi faisle**: ek faisla khola to "isse milte-julte faisle" aur "isko kisne follow / overrule kiya"
+- **WhatsApp share**: case ka haal ya agli tareekh party ko ek tap mein
+- **Awaaz se likhna (Hindi)**: matter bol kar likhna
+- **Offline**: aaj ki list aur mere case bina internet bhi
+
+## Takneeki zaroorat (Claude ka note)
+- Section 2 (matter → paksh/khilaf/conclusion) ke liye ek search server + apna AI model chalana padega (abhi app bina server ke hai) — sabse sasta raasta Claude dhoondhega
+- Section 3: eCourts se live case + PDF (kv-relay / case-lookup pehle se hain)
+- Section 4: vakil A-Z aur vishay list pehle se ban chuki hai (data branch lists/vakil-sab/)
+
 ## Seemayein (design inke andar ho)
 - Phone pehle (360 px chaudai), dhoop mein padhne layak contrast, light + dark mode
 - Kamzor internet: offline cache, halka page (abhi koi framework nahi — plain HTML/CSS/JS)
