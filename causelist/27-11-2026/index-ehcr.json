@@ -1,11 +1,12 @@
 {
  "date": "27-11-2026",
- "fetched": "26-11-2026",
+ "fetched": "27-11-2026",
  "source": "ehcr",
  "uploads": [
   "DAILY CAUSE LIST (ADVANCE)|26.11.2026 12:57 PM",
   "DAILY CAUSELIST|26.11.2026 06:39 PM",
-  "DAILY LIST REGISTRAR JUDICIAL|26.11.2026 06:57 PM"
+  "DAILY LIST REGISTRAR JUDICIAL|26.11.2026 06:57 PM",
+  "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI   SUPPLEMENTARY 1|27.11.2026 10:05 AM"
  ],
  "benches": [
   {
@@ -52,6 +53,15 @@
    "source_pdf": "20261127_1013_0.pdf",
    "uploaded": "26.11.2026 06:57 PM",
    "chars": 9681
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI   SUPPLEMENTARY 1",
+   "type": "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI   SUPPLEMENTARY 1",
+   "file": "ehcr-20261127_1003_1033-01.pdf",
+   "source_pdf": "20261127_1003_1033.pdf",
+   "uploaded": "27.11.2026 10:05 AM",
+   "chars": 730
   }
  ]
 }
