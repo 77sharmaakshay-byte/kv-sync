@@ -1,9 +1,12 @@
 {
  "date": "28-11-2026",
- "fetched": "26-11-2026",
+ "fetched": "27-11-2026",
  "source": "ehcr",
  "uploads": [
-  "DAILY CAUSE LIST (ADVANCE)|26.11.2026 06:58 PM"
+  "DAILY CAUSE LIST (ADVANCE)|26.11.2026 06:58 PM",
+  "DAILY CAUSELIST|27.11.2026 05:47 PM",
+  "DAILY LIST REGISTRAR JUDICIAL|27.11.2026 06:16 PM",
+  "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI   SUPPLEMENTARY 1|27.11.2026 06:17 PM"
  ],
  "benches": [
   {
@@ -14,6 +17,60 @@
    "source_pdf": "20261128_990_0.pdf",
    "uploaded": "26.11.2026 06:58 PM",
    "chars": 16195
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 02",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261128_1001_0-01-court-02.pdf",
+   "source_pdf": "20261128_1001_0.pdf",
+   "uploaded": "27.11.2026 05:47 PM",
+   "chars": 18362
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 03",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261128_1001_0-02-court-03.pdf",
+   "source_pdf": "20261128_1001_0.pdf",
+   "uploaded": "27.11.2026 05:47 PM",
+   "chars": 35704
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 04",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261128_1001_0-03-court-04.pdf",
+   "source_pdf": "20261128_1001_0.pdf",
+   "uploaded": "27.11.2026 05:47 PM",
+   "chars": 12986
+  },
+  {
+   "kind": "Daily",
+   "bench": "Court 07",
+   "type": "DAILY CAUSELIST",
+   "file": "ehcr-20261128_1001_0-04-court-07.pdf",
+   "source_pdf": "20261128_1001_0.pdf",
+   "uploaded": "27.11.2026 05:47 PM",
+   "chars": 9911
+  },
+  {
+   "kind": "Daily",
+   "bench": "DAILY LIST REGISTRAR JUDICIAL",
+   "type": "DAILY LIST REGISTRAR JUDICIAL",
+   "file": "ehcr-20261128_1013_0-01.pdf",
+   "source_pdf": "20261128_1013_0.pdf",
+   "uploaded": "27.11.2026 06:16 PM",
+   "chars": 5995
+  },
+  {
+   "kind": "Supplementary",
+   "bench": "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI   SUPPLEMENTARY 1",
+   "type": "HON'BLE MR. JUSTICE MANOJ KUMAR TIWARI   SUPPLEMENTARY 1",
+   "file": "ehcr-20261128_1003_1033-01.pdf",
+   "source_pdf": "20261128_1003_1033.pdf",
+   "uploaded": "27.11.2026 06:17 PM",
+   "chars": 792
   }
  ]
 }
