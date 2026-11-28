@@ -6,11 +6,11 @@
  "registration_number": "WPSS /111/2016",
  "registration_date": "2016-01-13",
  "first_hearing_date": "2016-04-27",
- "next_hearing_date": "2026-11-06",
+ "next_hearing_date": null,
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING -40",
  "status": "",
- "coram": "Hon'ble Mr. Justice Subhash Upadhyay",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -47,6 +47,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-21",
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-11-06",
    "business_date": "2026-10-31",

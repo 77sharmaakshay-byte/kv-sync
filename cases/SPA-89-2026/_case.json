@@ -1,24 +1,98 @@
 {
  "cnr_number": "UKHC010049042026",
- "case_type": "",
- "filing_number": "",
- "filing_date": null,
- "registration_number": "",
- "registration_date": null,
+ "case_type": "SPA",
+ "filing_number": "SPA /2606/2026",
+ "filing_date": "2026-03-27",
+ "registration_number": "SPA /89/2026",
+ "registration_date": "2026-03-27",
  "first_hearing_date": null,
  "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "",
+ "case_stage": "FRESH CASES AS DEFECTIVE -236",
  "status": "",
  "coram": "",
- "bench_type": "",
+ "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "",
- "district": "",
- "petitioners": [],
- "respondents": [],
- "acts": [],
- "history": [],
+ "state": "UTTARAKHAND",
+ "district": "Chamoli",
+ "petitioners": [
+  {
+   "name": "OM PRAKASH",
+   "advocate": "BHAGWAT MEHRA"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": ""
+  },
+  {
+   "name": "DIRECTOR",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "CHIEF EDUCATION OFFICER",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "DISTRICT EDUCATION OFFICER",
+   "advocate": "C.S.C."
+  },
+  {
+   "name": "SRI GULZAR AHMAD",
+   "advocate": "CHANDRAMAULI SHAH"
+  }
+ ],
+ "acts": [
+  {
+   "act": "UNDER RULE 5, CHAPTER VIII OF THE HIGH COURT RULE",
+   "sections": "VIII"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-06-01",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-16",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-15",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-08-07",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-07-08",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-06-01",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
  "orders": []
 }

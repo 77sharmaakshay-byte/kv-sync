@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/16/2019:2026-11-21-002",
+ "title": "RAVINDER SINGH PANWAR versus UNION OF INDIA",
+ "petitioner": "RAVINDER SINGH PANWAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSB/16/2019",
+ "case_type": "WPSB",
+ "decision_date": "2026-11-21",
+ "cnr": "UKHC010003662019",
+ "doc_kind": "judgment",
+ "order_type": "WPSB/16/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2BOO%2FkJ1O6K%2Felei7pI3z%2ByHdi4RHahyxxPASYjur4yv&caseno=WPSB/16/2019&cCode=1&cino=UKHC010003662019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "28fd25539298a18afe2c7687ae4972a1866b37c80a9d4eb157601592d5a75809",
+ "fetched_at": "2026-11-28T08:25:52+00:00",
+ "fetched_by": "fetch_live.py"
+}
