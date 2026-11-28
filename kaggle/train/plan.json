@@ -1,5 +1,5 @@
 {
- "_": "Training ka poora plan, kram se. Ek daur khatam (data ya 'upto' tak) -> agla apne aap (.github/workflows/kaggle-train.yml). 'upto' = data mein yahan tak; 'from' = daur shuru mein yahan se (warna jahan pichhli baar ruka). Data: .github/workflows/kaggle-data.yml.",
+ "_": "Training ka poora plan, kram se. Ek daur khatam (data ya 'upto' tak) -> agla apne aap (.github/workflows/kaggle-train.yml). 'upto' = data mein yahan tak; 'from' = daur shuru mein yahan se (warna jahan pichhli baar ruka). Data: .github/workflows/kaggle-data.yml. 'gcp': 'no' = woh daur sirf Kaggle par.",
  "phases": [
   {
    "data": "krishivlaw/nyay-padhai-sc-v2",
@@ -18,15 +18,16 @@
    "naam": "Kaam: shreni/vishay/nateeja (Nainital HC + SC) + headnote dohrana"
   },
   {
-   "data": "krishivlaw/nyay-padhai-sc-v2",
-   "lr": "5e-5",
-   "naam": "Supreme Court padhai baaki: 3-4 → 2 → 1 judge"
-  },
-  {
    "data": "krishivlaw/nyay-kaam-v2",
    "lr": "3e-5",
    "from": 0,
-   "naam": "Kaam dobara (padhai ke baad pakka karna)"
+   "naam": "Kaam dobara (pakka karna, dheemi raftaar)"
+  },
+  {
+   "data": "krishivlaw/nyay-padhai-sc-v2",
+   "lr": "5e-5",
+   "naam": "Supreme Court padhai baaki: 3-4 → 2 → 1 judge (sirf Kaggle, muft)",
+   "gcp": "no"
   }
  ]
 }

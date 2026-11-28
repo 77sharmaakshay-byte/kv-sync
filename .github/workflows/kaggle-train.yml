@@ -229,7 +229,8 @@ jobs:
           META
             if [ "$runner" = gcp ] && [ "$st" = error ]; then gcp_count "$pushed"; fi
             sources="$DATA"; [ "$next" -gt 1 ] && sources="$sources $MODEL"
-            if [ "$GCP_ON" = 1 ] && [ ! -f "$M/gcp_off" ] && [ "$(date -u +%F)" \< "$GCP_UNTIL" ] \
+            # plan mein "gcp": "no" wala daur sirf Kaggle par (muft) — Google Cloud ke ghante chhantai / kaam ke liye bachein
+            if [ "$GCP_ON" = 1 ] && [ "$(plan "$phase" gcp)" != no ] && [ ! -f "$M/gcp_off" ] && [ "$(date -u +%F)" \< "$GCP_UNTIL" ] \
                && python3 -c "import sys;sys.exit(float(sys.argv[1])>=float(sys.argv[2]))" "$gh_hours" "$GCP_MAX_HOURS"; then
               if bash kaggle/train/gcp.sh start "$next" kt/launch.py $sources; then
                 echo "$next" > "$M/pushed"; echo gcp > "$M/runner"; rm -f "$M/failed"
@@ -238,6 +239,8 @@ jobs:
               else
                 echo "Google Cloud par machine nahi bani — is baar Kaggle"
               fi
+            elif [ "$GCP_ON" = 1 ] && [ "$(plan "$phase" gcp)" = no ]; then
+              echo "Plan: yeh daur ($(plan "$phase" naam)) sirf Kaggle par"
             elif [ "$GCP_ON" = 1 ]; then
               echo "Google Cloud band: seema ($gh_hours / $GCP_MAX_HOURS ghante), expiry ($GCP_UNTIL) ya gcp_off — sirf Kaggle"
             fi
