@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/1908/2019:2021-11-11-005",
+ "title": "ANUPAM SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANUPAM SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/1908/2019",
+ "case_type": "C482",
+ "decision_date": "2021-11-11",
+ "cnr": "UKHC010146282019",
+ "doc_kind": "order",
+ "order_type": "C482/1908/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF2zEzfadEURA4aEM29QMgZiNvlW1h2fb2HVqEgzcZcVr&caseno=C482/1908/2019&cCode=1&cino=UKHC010146282019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cacbd4aca7d7cc611f7c5b924ec9a4465a520cf88305d3657f451927f7a92cae",
+ "fetched_at": "2026-11-28T02:00:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

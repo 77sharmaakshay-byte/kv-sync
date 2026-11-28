@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1475/2024:2024-09-25-001",
+ "title": "KUSUMLATA versus STATE OF UTTARAKHAND",
+ "petitioner": "KUSUMLATA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1475/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-09-25",
+ "cnr": "UKHC010083972024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1475/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcKzBgtHlCIy7WHtbaVNLqx6NgZYpu02VijgfrF3iMLdh&caseno=WPMS/1475/2024&cCode=1&cino=UKHC010083972024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "add25888ea2339803459d1c57b09a079dd69b92a8abcc80528b43c146c7fb32f",
+ "fetched_at": "2026-11-28T01:35:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

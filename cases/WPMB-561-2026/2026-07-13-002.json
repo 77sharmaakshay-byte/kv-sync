@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/561/2026:2026-07-13-002",
+ "title": "TYBROS INFRATECH PRIVATE LIMITED versus RITU MAHNA",
+ "petitioner": "TYBROS INFRATECH PRIVATE LIMITED",
+ "respondent": "RITU MAHNA",
+ "case_no": "WPMB/561/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-07-13",
+ "cnr": "UKHC010109382026",
+ "doc_kind": "order",
+ "order_type": "WPMB/561/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmLtEptlw3OYZfXOIDF%2B2Q5hnNUNM53hP%2FnhKoC0N8q%2B&caseno=WPMB/561/2026&cCode=1&cino=UKHC010109382026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1df424bf513686bd679f8098e51b25088b22c6c8957319a019b337afc7719b92",
+ "fetched_at": "2026-11-28T01:39:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

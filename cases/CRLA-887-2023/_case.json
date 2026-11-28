@@ -6,7 +6,7 @@
  "registration_number": "CRLA /887/2023",
  "registration_date": "2023-12-20",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-06",
+ "next_hearing_date": "2026-11-28",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
@@ -47,6 +47,13 @@
    "hearing_date": "2023-12-21",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-28",
+   "business_date": "2026-11-06",
+   "purpose": "ORDERS ON APPLICATIONS -22",
    "judge": "",
    "cause_list_type": "DAILY CAUSE LIST"
   },
@@ -464,6 +471,15 @@
    "order_type": "CRLA/887/2023",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3HmHBsgPweoeltZm0EN8AIWevgeQEOcQzC%2BZz8Qsm4m&caseno=CRLA/887/2023&cCode=1&cino=UKHC010203322023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-06",
+   "order_type": "CRLA/887/2023",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3HmHBsgPweoeltZm0EN8ALTmH1UHoKiK5q%2BzYZJqZHO&caseno=CRLA/887/2023&cCode=1&cino=UKHC010203322023&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

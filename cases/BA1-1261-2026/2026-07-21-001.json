@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1261/2026:2026-07-21-001",
+ "title": "RAJEEV ALIAS RAJEEV SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJEEV ALIAS RAJEEV SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1261/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-21",
+ "cnr": "UKHC010126362026",
+ "doc_kind": "order",
+ "order_type": "BA1/1261/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmxl3Z56QrLTCHl4lkc87apZrta3OZSe5c1pvi1KG9bG&caseno=BA1/1261/2026&cCode=1&cino=UKHC010126362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "219faa5bf5c43a0d151d3324e8c1661a39e292b1dd32764fb78d25aeb298ad46",
+ "fetched_at": "2026-11-28T01:56:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/912/2025:2025-12-01-001",
+ "title": "ESPIRE HOSPITALITY LIMITED versus ASSISTANT COMMISSIONER STATE TAX",
+ "petitioner": "ESPIRE HOSPITALITY LIMITED",
+ "respondent": "ASSISTANT COMMISSIONER STATE TAX",
+ "case_no": "WPMB/912/2025",
+ "case_type": "WPMB",
+ "decision_date": "2025-12-01",
+ "cnr": "UKHC010169092025",
+ "doc_kind": "order",
+ "order_type": "WPMB/912/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmzW57HRda%2BRaEq6e8FqfBsL30RbriaBd9W44p74h2VJw&caseno=WPMB/912/2025&cCode=1&cino=UKHC010169092025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ebce3feebdca6192c64ed63f5713974fb786c2d56cf21fd798a5e68c7cd7cfa1",
+ "fetched_at": "2026-11-28T01:39:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/2505/2023:2026-09-18-008",
+ "title": "TRILOK versus STATE OF UTTARAKHAND",
+ "petitioner": "TRILOK",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/2505/2023",
+ "case_type": "C482",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010209032023",
+ "doc_kind": "order",
+ "order_type": "C482/2505/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYy1YkSUrPvGMRrYdj%2FJ%2FxgOAicf6fr0PbfiqECUFHsCb&caseno=C482/2505/2023&cCode=1&cino=UKHC010209032023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "215fb1a97a50a01fb81c0641097c855e0a740e358b60f53b938d29bc60ffc4dc",
+ "fetched_at": "2026-11-28T01:55:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

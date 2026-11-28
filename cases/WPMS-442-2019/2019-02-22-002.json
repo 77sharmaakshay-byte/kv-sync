@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/442/2019:2019-02-22-002",
+ "title": "M/S TEJASH STONE CRUSHER versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S TEJASH STONE CRUSHER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/442/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-02-22",
+ "cnr": "UKHC010023392019",
+ "doc_kind": "order",
+ "order_type": "WPMS/442/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhFzAOx80IQwrM%2Bxwc%2B7UmoYZesbvL3FlRN%2F6prvnrpl6n&caseno=WPMS/442/2019&cCode=1&cino=UKHC010023392019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6747b2615752f52e6a004e9b62cd2d9ee09685f058084acc8e9b180932ee95b7",
+ "fetched_at": "2026-11-28T01:34:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

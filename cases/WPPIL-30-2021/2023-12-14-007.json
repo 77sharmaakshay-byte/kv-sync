@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/30/2021:2023-12-14-007",
+ "title": "AJEET SINGH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "AJEET SINGH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/30/2021",
+ "case_type": "WPPIL",
+ "decision_date": "2023-12-14",
+ "cnr": "UKHC010027102021",
+ "doc_kind": "order",
+ "order_type": "WPPIL/30/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkClvvmL8DWRTL%2Fv%2FTYlEegHkxy5JOM7ZcClCA6eLpVJg&caseno=WPPIL/30/2021&cCode=1&cino=UKHC010027102021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1e4902865f3477a9fc4b75ca8fb7b6e5f61abc20a569ba5366d039aee21f5b67",
+ "fetched_at": "2026-11-28T01:40:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

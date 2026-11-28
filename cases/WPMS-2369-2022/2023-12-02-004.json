@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2369/2022:2023-12-02-004",
+ "title": "SURENDRA NATH CHAUBEY versus AYUSH TIWARI",
+ "petitioner": "SURENDRA NATH CHAUBEY",
+ "respondent": "AYUSH TIWARI",
+ "case_no": "WPMS/2369/2022",
+ "case_type": "WPMS",
+ "decision_date": "2023-12-02",
+ "cnr": "UKHC010141902022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2369/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT05PHTch%2BwECarSUoYqb6DDQMvnFl5XZWsixId9bk2wCe&caseno=WPMS/2369/2022&cCode=1&cino=UKHC010141902022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "434ab3c0208e747a09a87b96f8a451a95762d2c94e67e73784e7717361690fc6",
+ "fetched_at": "2026-11-28T01:43:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

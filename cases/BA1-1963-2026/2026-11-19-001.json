@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1963/2026:2026-11-19-001",
+ "title": "AARIF versus STATE OF UTTARAKHAND",
+ "petitioner": "AARIF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1963/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-11-19",
+ "cnr": "UKHC010204292026",
+ "doc_kind": "order",
+ "order_type": "BA1/1963/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmFnt6IChEOAyrft37gXzFaL2CdajMb0DCc%2Bojk%2FNo0Y&caseno=BA1/1963/2026&cCode=1&cino=UKHC010204292026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "19f38f9de3ac6cd89d443c37412d7843906bd839220ee1698a5a3fd1f64c391a",
+ "fetched_at": "2026-11-28T01:57:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

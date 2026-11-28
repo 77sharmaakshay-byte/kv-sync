@@ -6,9 +6,9 @@
  "registration_number": "WPSS /2413/2026",
  "registration_date": "2026-09-11",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": "2026-11-28",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "case_stage": "ADMISSION MATTERS -35",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -79,6 +79,20 @@
    "cause_list_type": "DAILY CAUSE LIST II"
   },
   {
+   "hearing_date": "2026-11-28",
+   "business_date": "2026-11-26",
+   "purpose": "ADMISSION MATTERS -35",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-26",
+   "business_date": "2026-10-16",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-07",
    "business_date": "2026-09-15",
    "purpose": "FRESH CASES FOR ADMISSION -3",
@@ -92,6 +106,15 @@
    "order_type": "WPSS/2413/2026",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvO4v761BUyhJqW%2FTVKY%2BElEJ87%2FBj1A%2BJFYuemFwLas&caseno=WPSS/2413/2026&cCode=1&cino=UKHC010162092026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-16",
+   "order_type": "WPSS/2413/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvO4v761BUyhJqW%2FTVKY%2BEl1XU8p%2FiZoDEN33qSNtnDA&caseno=WPSS/2413/2026&cCode=1&cino=UKHC010162092026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

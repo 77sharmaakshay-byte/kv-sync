@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/605/2026:2026-09-17-001",
+ "title": "ADITYA SHARMA versus MINISTRY OF HIGHER EDUCATION",
+ "petitioner": "ADITYA SHARMA",
+ "respondent": "MINISTRY OF HIGHER EDUCATION",
+ "case_no": "WPSB/605/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010163582026",
+ "doc_kind": "order",
+ "order_type": "WPSB/605/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsUiwt9E2UAi1CtWOnIC9qdOejevEIKH%2BGp4bdW7r4%2BH&caseno=WPSB/605/2026&cCode=1&cino=UKHC010163582026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4fd26645f808541786e5287d018cda3909aafd59f89590cf0080f8ac58fa913f",
+ "fetched_at": "2026-11-28T01:40:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

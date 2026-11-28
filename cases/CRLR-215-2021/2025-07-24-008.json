@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/215/2021:2025-07-24-008",
+ "title": "ANUJ versus STATE OF UTTARAKHAND",
+ "petitioner": "ANUJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/215/2021",
+ "case_type": "CRLR",
+ "decision_date": "2025-07-24",
+ "cnr": "UKHC010107162021",
+ "doc_kind": "order",
+ "order_type": "CRLR/215/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkEjNpuLwGDHewZvnoKm3zLNdQdElrLqSSkAI4a8K%2FMPR&caseno=CRLR/215/2021&cCode=1&cino=UKHC010107162021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bb6bc5957d88618ad52331a32691efbad0992c6543062bd7ea2ba99611557433",
+ "fetched_at": "2026-11-28T01:59:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

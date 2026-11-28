@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/731/2026:2026-11-27-001",
+ "title": "DEEPENDRA LAL versus STATE OF UTTARAKHAND",
+ "petitioner": "DEEPENDRA LAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/731/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-11-27",
+ "cnr": "UKHC010209132026",
+ "doc_kind": "order",
+ "order_type": "WPSB/731/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQggHC6BO2TiCtCZTLNrI5DIvhgVHbc6Jq4aDYvfb5paq&caseno=WPSB/731/2026&cCode=1&cino=UKHC010209132026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "70d0295811eeecc430ef8fe9707fd69ed33c4bdce7b9d8ba1aa88cd81a9eb8ea",
+ "fetched_at": "2026-11-28T01:40:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

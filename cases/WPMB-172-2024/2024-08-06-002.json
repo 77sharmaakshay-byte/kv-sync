@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/172/2024:2024-08-06-002",
+ "title": "NEELAM versus STATE OF UTTARAKHAND",
+ "petitioner": "NEELAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/172/2024",
+ "case_type": "WPMB",
+ "decision_date": "2024-08-06",
+ "cnr": "UKHC010071002024",
+ "doc_kind": "order",
+ "order_type": "WPMB/172/2024",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcOvaHl%2BzmNT3ozD%2FdJjLY6zdbt4U0rxOntojmB6pSSYG&caseno=WPMB/172/2024&cCode=1&cino=UKHC010071002024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7c8957981661c1f5dd01fabc86caa251df92b2dad869e73ef9fe69e4d7d22932",
+ "fetched_at": "2026-11-28T01:39:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

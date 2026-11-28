@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/799/2023:2026-08-18-006",
+ "title": "POOJA versus STATE OF UTTARAKHAND",
+ "petitioner": "POOJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/799/2023",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010182892023",
+ "doc_kind": "order",
+ "order_type": "CRLA/799/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2B%2BK9dakxAQIfLOLuV%2FhtujoNsii9M4Ud%2FEKudGlQRsD&caseno=CRLA/799/2023&cCode=1&cino=UKHC010182892023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4ccf75ce5351ec10952b12aabc9cc9ab6151c717284f3cfadd8a1ce180f69bc7",
+ "fetched_at": "2026-11-28T01:47:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

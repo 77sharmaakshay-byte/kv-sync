@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2902/2026:2026-09-23-001",
+ "title": "SANDEEP KUMAR MISHRA versus FACTORY MANAGER",
+ "petitioner": "SANDEEP KUMAR MISHRA",
+ "respondent": "FACTORY MANAGER",
+ "case_no": "WPMS/2902/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-09-23",
+ "cnr": "UKHC010167822026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2902/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQu39Z7Mda7ftcolL5aJiC2U3%2BBUL3zdU8JRaHahXp1lK&caseno=WPMS/2902/2026&cCode=1&cino=UKHC010167822026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "95ce4bcaf25a2670c43ce36c6ea8e5ab246f228747bd02c91d98d3161cf3a0e2",
+ "fetched_at": "2026-11-28T01:42:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

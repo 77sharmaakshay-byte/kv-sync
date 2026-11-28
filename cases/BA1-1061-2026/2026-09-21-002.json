@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1061/2026:2026-09-21-002",
+ "title": "PRAVEZ versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAVEZ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1061/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-21",
+ "cnr": "UKHC010104132026",
+ "doc_kind": "order",
+ "order_type": "BA1/1061/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpfbksjh7%2Fb%2Ff7GZBUPaGKDD%2Br6lB1acICWHBAoafLy0&caseno=BA1/1061/2026&cCode=1&cino=UKHC010104132026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b21019795ac4e5b9325508063aa0674baf64ca7720239dd50fb6f0f8d9104d77",
+ "fetched_at": "2026-11-28T01:55:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

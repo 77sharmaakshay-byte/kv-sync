@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1457/2024:2024-06-24-003",
+ "title": "MS GURUKUL KANGRI PHARMACY versus VIKRAM SINGH",
+ "petitioner": "MS GURUKUL KANGRI PHARMACY",
+ "respondent": "VIKRAM SINGH",
+ "case_no": "WPMS/1457/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-06-24",
+ "cnr": "UKHC010083392024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1457/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcAh75mt6GD8lWebdaXP8LZr5d4gpDwuPunnTREeWx85w&caseno=WPMS/1457/2024&cCode=1&cino=UKHC010083392024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "64c49b92e0bef40173e923a511b9dacbe8c428371a0a53a6b5756b7e5ac842ad",
+ "fetched_at": "2026-11-28T01:35:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/30/2021:2024-07-23-010",
+ "title": "AJEET SINGH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "AJEET SINGH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/30/2021",
+ "case_type": "WPPIL",
+ "decision_date": "2024-07-23",
+ "cnr": "UKHC010027102021",
+ "doc_kind": "order",
+ "order_type": "WPPIL/30/2021",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkClvvmL8DWRTL%2Fv%2FTYlEegFFSyL%2FNgk25UCsPmyJQe2k&caseno=WPPIL/30/2021&cCode=1&cino=UKHC010027102021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5cc72a4d597f3270683740c710c9675f9e14fdf3d7e727d17e8072dd43dfed1b",
+ "fetched_at": "2026-11-28T01:40:29+00:00",
+ "fetched_by": "fetch_live.py"
+}

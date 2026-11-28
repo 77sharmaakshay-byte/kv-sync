@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/31/2021:2026-02-09-007",
+ "title": "PRAMOD SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAMOD SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/31/2021",
+ "case_type": "CRJA",
+ "decision_date": "2026-02-09",
+ "cnr": "UKHC010056722021",
+ "doc_kind": "order",
+ "order_type": "CRJA/31/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkKOrZ2f4U4cM7bZHSYRSrJJUBO5iHt%2BCh65mnswlOKLA&caseno=CRJA/31/2021&cCode=1&cino=UKHC010056722021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9c4fe7a6b123754a2c4dc7a02875f2d1daf7e9c05c6eb4a6fbaabcee06c60e1c",
+ "fetched_at": "2026-11-28T01:45:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

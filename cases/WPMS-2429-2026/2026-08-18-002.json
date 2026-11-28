@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2429/2026:2026-08-18-002",
+ "title": "EXECUTIVE ENGINEERS INFRASTRUCTURE DIVISION versus RAJESH KUMAR SHARMA",
+ "petitioner": "EXECUTIVE ENGINEERS INFRASTRUCTURE DIVISION",
+ "respondent": "RAJESH KUMAR SHARMA",
+ "case_no": "WPMS/2429/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010141112026",
+ "doc_kind": "order",
+ "order_type": "WPMS/2429/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjnOi7QHoryCM5UIDXQwphQedA787P8Civfq1QEpu9pi&caseno=WPMS/2429/2026&cCode=1&cino=UKHC010141112026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ae5c07e39737193799bb9c915e21676768e4bc456309f294e54d71d254f6baaf",
+ "fetched_at": "2026-11-28T01:44:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2246/2019:2021-12-01-006",
+ "title": "SAPNA NEGI versus VIRENDRA SINGH NEGI",
+ "petitioner": "SAPNA NEGI",
+ "respondent": "VIRENDRA SINGH NEGI",
+ "case_no": "WPMS/2246/2019",
+ "case_type": "WPMS",
+ "decision_date": "2021-12-01",
+ "cnr": "UKHC010120672019",
+ "doc_kind": "order",
+ "order_type": "WPMS/2246/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra"
+ ],
+ "case_status": "URGENCY APPLICATIONS -140",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2F0S7Yj%2F0dxYJIFgRvAsCLcNdeM%2BX8xto4fXPzZ9h%2F5G&caseno=WPMS/2246/2019&cCode=1&cino=UKHC010120672019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f816bfc27bd157e5e0e17e611aad26cc465cedc961c219becb298820b48e5b4b",
+ "fetched_at": "2026-11-28T01:45:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

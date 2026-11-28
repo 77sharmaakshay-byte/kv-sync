@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/676/2019:2019-05-06-001",
+ "title": "SARDAR SINGH CHAUHAN versus STATE INFORMATION COMMISSION",
+ "petitioner": "SARDAR SINGH CHAUHAN",
+ "respondent": "STATE INFORMATION COMMISSION",
+ "case_no": "WPMS/676/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-05-06",
+ "cnr": "UKHC010034932019",
+ "doc_kind": "order",
+ "order_type": "WPMS/676/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF5WYnpCkUV9DpH8LhaiV%2B5H7SlnQC49AiBUeSDSY5mhD&caseno=WPMS/676/2019&cCode=1&cino=UKHC010034932019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3d4ca61393f542e619705b0015c3b050fb2b0ec5a639a915d5514ec3e737dde9",
+ "fetched_at": "2026-11-28T01:35:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

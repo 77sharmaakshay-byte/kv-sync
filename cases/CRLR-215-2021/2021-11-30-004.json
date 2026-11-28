@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/215/2021:2021-11-30-004",
+ "title": "ANUJ versus STATE OF UTTARAKHAND",
+ "petitioner": "ANUJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/215/2021",
+ "case_type": "CRLR",
+ "decision_date": "2021-11-30",
+ "cnr": "UKHC010107162021",
+ "doc_kind": "order",
+ "order_type": "CRLR/215/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkEjNpuLwGDHewZvnoKm3zLPqDWCPAWTDeGwnFUK0kJVG&caseno=CRLR/215/2021&cCode=1&cino=UKHC010107162021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4575c690a624f96b8423ff6bb85df8832cb20fae7f3ef067c2b7c3560d86959c",
+ "fetched_at": "2026-11-28T01:59:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/34/2023:2024-04-23-003",
+ "title": "DEV ASHISH SARKAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DEV ASHISH SARKAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/34/2023",
+ "case_type": "WPMB",
+ "decision_date": "2024-04-23",
+ "cnr": "UKHC010055852023",
+ "doc_kind": "order",
+ "order_type": "WPMB/34/2023",
+ "judges": [
+  "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYxj6dSd5a%2BA2pozz%2Fg9x2q6fzgkTQqoiBceOYNI9vo4i&caseno=WPMB/34/2023&cCode=1&cino=UKHC010055852023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d8d98f66d7a371f4da8a634ed876ad715d3053e7c2fb18bcac59aeeece8293e",
+ "fetched_at": "2026-11-28T01:38:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/317/2021:2024-11-12-012",
+ "title": "SONU KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SONU KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/317/2021",
+ "case_type": "CRLA",
+ "decision_date": "2024-11-12",
+ "cnr": "UKHC010130952021",
+ "doc_kind": "order",
+ "order_type": "CRLA/317/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkKC2iIQPAQyPfUYQ85tzY319GLJPbBCpPFbs9CfYY4xF&caseno=CRLA/317/2021&cCode=1&cino=UKHC010130952021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2e6b66031067a9a9f4d00c5f7468c0cc759b280475c5703436c57ad37f62587c",
+ "fetched_at": "2026-11-28T01:57:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

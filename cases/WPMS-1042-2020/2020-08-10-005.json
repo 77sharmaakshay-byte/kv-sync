@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1042/2020:2020-08-10-005",
+ "title": "JAMILA versus NASIM AHMAD",
+ "petitioner": "JAMILA",
+ "respondent": "NASIM AHMAD",
+ "case_no": "WPMS/1042/2020",
+ "case_type": "WPMS",
+ "decision_date": "2020-08-10",
+ "cnr": "UKHC010060512020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1042/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjLPFkasAAUI5HL43GqQDsDY8TGgAfO5%2BDLd9JI0tz0XC&caseno=WPMS/1042/2020&cCode=1&cino=UKHC010060512020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6cd7afde59500677e0bf1803dcb636a8bc133f008a39034ada38dc2e08b07c41",
+ "fetched_at": "2026-11-28T01:41:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

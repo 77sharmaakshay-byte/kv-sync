@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/750/2026:2026-09-15-001",
+ "title": "M/S ARMOR VENUE versus COMMISSIONER CENTRAL GOODS AND SERVICES TAX COMMISSIONER DEHRADUN",
+ "petitioner": "M/S ARMOR VENUE",
+ "respondent": "COMMISSIONER CENTRAL GOODS AND SERVICES TAX COMMISSIONER DEHRADUN",
+ "case_no": "WPMB/750/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010161192026",
+ "doc_kind": "order",
+ "order_type": "WPMB/750/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqeWt%2BvwKh%2Fm9GfnnCkGeMgWxf8bn4OR4nKx9KXZ52%2FA&caseno=WPMB/750/2026&cCode=1&cino=UKHC010161192026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "300bab2a5370f3ed74db441134b013f48f9cd2c10beb17a1ec2fa2a3a8358e8e",
+ "fetched_at": "2026-11-28T01:38:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

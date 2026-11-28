@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/30/2021:2022-09-15-003",
+ "title": "AJEET SINGH CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "AJEET SINGH CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPPIL/30/2021",
+ "case_type": "WPPIL",
+ "decision_date": "2022-09-15",
+ "cnr": "UKHC010027102021",
+ "doc_kind": "order",
+ "order_type": "WPPIL/30/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkClvvmL8DWRTL%2Fv%2FTYlEegGsFJpYtGL3guDUkghYGZmh&caseno=WPPIL/30/2021&cCode=1&cino=UKHC010027102021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e98a24c8f3a118b09e19eb0e34ab6df5b4666ad820e7e9ad77d1fdda3835609b",
+ "fetched_at": "2026-11-28T01:40:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

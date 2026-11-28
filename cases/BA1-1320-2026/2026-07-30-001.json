@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1320/2026:2026-07-30-001",
+ "title": "MOHD. JABIR versus UNION OF INDIA",
+ "petitioner": "MOHD. JABIR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "BA1/1320/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-30",
+ "cnr": "UKHC010133402026",
+ "doc_kind": "order",
+ "order_type": "BA1/1320/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQj8dIX1FeaTTJRUT01X%2BSVJ0r9Ah0cdWFYck1Jy%2FtGBV&caseno=BA1/1320/2026&cCode=1&cino=UKHC010133402026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c19b816bae7ec13f3a5e635de006898d69f8786d47b729884249efde4e46f6d8",
+ "fetched_at": "2026-11-28T01:53:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

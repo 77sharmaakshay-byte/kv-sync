@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1463/2025:2025-09-08-002",
+ "title": "SUKHPAL AND ORS versus STATE OF UTTARAKHAND",
+ "petitioner": "SUKHPAL AND ORS",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1463/2025",
+ "case_type": "WPMS",
+ "decision_date": "2025-09-08",
+ "cnr": "UKHC010071092025",
+ "doc_kind": "order",
+ "order_type": "WPMS/1463/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm8MBriJgOE5lUN8BCp9esAjem9l2oitqNzdfaRnS%2F1xn&caseno=WPMS/1463/2025&cCode=1&cino=UKHC010071092025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "528067f5dfde03ee79a9868a259ee85b73a4b7fb9138770cf137e830e72ab88a",
+ "fetched_at": "2026-11-28T01:43:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

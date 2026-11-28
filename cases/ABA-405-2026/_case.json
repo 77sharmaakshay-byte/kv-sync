@@ -6,11 +6,11 @@
  "registration_number": "ABA /405/2026",
  "registration_date": "2026-09-21",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-20",
+ "next_hearing_date": "2026-11-28",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "case_stage": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
  "status": "",
- "coram": "Hon'ble Mr. Justice Pankaj Purohit",
+ "coram": "Registrar (Judicial)",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -40,6 +40,13 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-12-22",
+   "business_date": "2026-11-20",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -111,6 +118,15 @@
    "order_type": "ABA/405/2026",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo4IbkGI8GdEOLMAOhnBru7cF%2B6DiIbDvVwW7zRHAr1M&caseno=ABA/405/2026&cCode=1&cino=UKHC010168052026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-20",
+   "order_type": "ABA/405/2026",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQo4IbkGI8GdEOLMAOhnBru7BCpIglXW08vSeysie9Svv&caseno=ABA/405/2026&cCode=1&cino=UKHC010168052026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

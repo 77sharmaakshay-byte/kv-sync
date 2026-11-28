@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/172/2024:2026-09-18-005",
+ "title": "NEELAM versus STATE OF UTTARAKHAND",
+ "petitioner": "NEELAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/172/2024",
+ "case_type": "WPMB",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010071002024",
+ "doc_kind": "order",
+ "order_type": "WPMB/172/2024",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcOvaHl%2BzmNT3ozD%2FdJjLY6xl9wb16ktfB94XDqnyXjOq&caseno=WPMB/172/2024&cCode=1&cino=UKHC010071002024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bb6a5d53f8c14a2bb0eabf824e7a2d55f1cc3bf6d9d2fba47141311207b9d811",
+ "fetched_at": "2026-11-28T01:39:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

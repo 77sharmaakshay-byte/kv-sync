@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/134/2026:2026-11-04-002",
+ "title": "MUNAZIR versus STATE OF UTTARAKHAND",
+ "petitioner": "MUNAZIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/134/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-11-04",
+ "cnr": "UKHC010144392026",
+ "doc_kind": "order",
+ "order_type": "BA2/134/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvcPYLsZm0x17GxEshowmsWZ5OVrFj1Y5W4SDXRYaez0&caseno=BA2/134/2026&cCode=1&cino=UKHC010144392026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dc3e6aab59883391feee44c3ba3c27b29929821bb8715bf155a751e3b12f9b07",
+ "fetched_at": "2026-11-28T02:04:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

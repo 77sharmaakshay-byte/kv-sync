@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/1746/2023:2024-06-10-002",
+ "title": "ANIL RAJ versus UNION OF INDIA",
+ "petitioner": "ANIL RAJ",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSS/1746/2023",
+ "case_type": "WPSS",
+ "decision_date": "2024-06-10",
+ "cnr": "UKHC010149882023",
+ "doc_kind": "order",
+ "order_type": "WPSS/1746/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzDgXujJxHUrN9Ylv%2BJFc3bvuCtdeYVwGRj7%2Fz2Y%2FEoV&caseno=WPSS/1746/2023&cCode=1&cino=UKHC010149882023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "70a9985237e587e2e173d8050fddf6af3eb96e7a9aeda7734ca914b14f3317a0",
+ "fetched_at": "2026-11-28T02:05:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2246/2019:2023-08-08-010",
+ "title": "SAPNA NEGI versus VIRENDRA SINGH NEGI",
+ "petitioner": "SAPNA NEGI",
+ "respondent": "VIRENDRA SINGH NEGI",
+ "case_no": "WPMS/2246/2019",
+ "case_type": "WPMS",
+ "decision_date": "2023-08-08",
+ "cnr": "UKHC010120672019",
+ "doc_kind": "order",
+ "order_type": "WPMS/2246/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS -140",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2F0S7Yj%2F0dxYJIFgRvAsCLdDU5vFpW9ePd2KLCHz3mdE&caseno=WPMS/2246/2019&cCode=1&cino=UKHC010120672019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7e5d2b325298a78f209a5d4371ef618285a202533bfc3b9d50a41ada84b9ea59",
+ "fetched_at": "2026-11-28T01:45:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

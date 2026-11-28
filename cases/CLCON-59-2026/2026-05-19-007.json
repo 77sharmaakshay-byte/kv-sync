@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/59/2026:2026-05-19-007",
+ "title": "RAKVINDER SINGH versus MANI KANT MISRA",
+ "petitioner": "RAKVINDER SINGH",
+ "respondent": "MANI KANT MISRA",
+ "case_no": "CLCON/59/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-05-19",
+ "cnr": "UKHC010032422026",
+ "doc_kind": "order",
+ "order_type": "CLCON/59/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "PART HEARD MATTERS -132",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn2%2FBMa1DQyfbh1qpJweb6EJ3cM1xia8dh%2B1TRpuxYqo&caseno=CLCON/59/2026&cCode=1&cino=UKHC010032422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "66579c4dd45fd9c629b4fce89cbb7057238d5256bb1ace57e87fbdbbc93ec5d2",
+ "fetched_at": "2026-11-28T02:05:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

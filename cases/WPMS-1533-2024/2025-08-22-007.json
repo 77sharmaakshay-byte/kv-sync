@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1533/2024:2025-08-22-007",
+ "title": "SANJEEV KUMAR SINGH versus KISHAN SINGH",
+ "petitioner": "SANJEEV KUMAR SINGH",
+ "respondent": "KISHAN SINGH",
+ "case_no": "WPMS/1533/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-08-22",
+ "cnr": "UKHC010087402024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1533/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJTeqXtmpRv2ywpPF%2BQCcgazk3mAOA3zfL1IJJsMWybB&caseno=WPMS/1533/2024&cCode=1&cino=UKHC010087402024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6ebb6ec3311e12471427c32199e8c128725121f281f048f102a3c12ef21033c8",
+ "fetched_at": "2026-11-28T01:36:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

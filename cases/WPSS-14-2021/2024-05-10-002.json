@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/14/2021:2024-05-10-002",
+ "title": "KAMAL KUMAR versus STATE OF UTTA PRADESH",
+ "petitioner": "KAMAL KUMAR",
+ "respondent": "STATE OF UTTA PRADESH",
+ "case_no": "WPSS/14/2021",
+ "case_type": "WPSS",
+ "decision_date": "2024-05-10",
+ "cnr": "UKHC010000242021",
+ "doc_kind": "order",
+ "order_type": "WPSS/14/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkPkyBdaI8GBMSF0SfwpUwhRxnjCb%2BEMDQji1odF%2FPXy0&caseno=WPSS/14/2021&cCode=1&cino=UKHC010000242021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c78af6e3079f2488ba4a58d0d31b234ee237ec5f2d6373e72881a6de8aee0cf7",
+ "fetched_at": "2026-11-28T02:06:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

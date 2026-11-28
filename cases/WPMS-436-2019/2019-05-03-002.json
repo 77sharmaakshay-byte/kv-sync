@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/436/2019:2019-05-03-002",
+ "title": "DR. KRITI SINGH BISHT versus DISTRICT MAGISTRATE",
+ "petitioner": "DR. KRITI SINGH BISHT",
+ "respondent": "DISTRICT MAGISTRATE",
+ "case_no": "WPMS/436/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-05-03",
+ "cnr": "UKHC010023192019",
+ "doc_kind": "order",
+ "order_type": "WPMS/436/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF6QApOsZhVtebMO1Pt6a592dlGIMYJAtcTflRivVdUCK&caseno=WPMS/436/2019&cCode=1&cino=UKHC010023192019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "af12a0c565540db63c6e418c7046a0a63468cc3ba7c765de1d571b69f46e2ba8",
+ "fetched_at": "2026-11-28T01:35:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

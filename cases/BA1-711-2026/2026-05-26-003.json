@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/711/2026:2026-05-26-003",
+ "title": "SAKUR KHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SAKUR KHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/711/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-26",
+ "cnr": "UKHC010070312026",
+ "doc_kind": "order",
+ "order_type": "BA1/711/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiYVBn4jXFEkkqeegp3eDkpxCtN9gNqPoQu%2B5N7wlYA3&caseno=BA1/711/2026&cCode=1&cino=UKHC010070312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f18fd273f74f962a1730ab8b3779aefe075e03b06c7a46021aa0f4ffa253b8f7",
+ "fetched_at": "2026-11-28T01:53:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

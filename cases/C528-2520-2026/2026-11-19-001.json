@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2520/2026:2026-11-19-001",
+ "title": "MOHD ADIL versus RAJIYA",
+ "petitioner": "MOHD ADIL",
+ "respondent": "RAJIYA",
+ "case_no": "C528/2520/2026",
+ "case_type": "C528",
+ "decision_date": "2026-11-19",
+ "cnr": "UKHC010201072026",
+ "doc_kind": "order",
+ "order_type": "C528/2520/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt%2FT1O1WqJT9EkQf795xN3u3FHiD4ttioWmcyjlLEbgk&caseno=C528/2520/2026&cCode=1&cino=UKHC010201072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ee49eb191d20da68479e0faa6250c22af851a3eb8659abfba2f0ea5bad394d07",
+ "fetched_at": "2026-11-28T02:00:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

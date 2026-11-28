@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/136/2026:2026-08-19-004",
+ "title": "PANKAJ SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "PANKAJ SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/136/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-19",
+ "cnr": "UKHC010045502026",
+ "doc_kind": "order",
+ "order_type": "CRLA/136/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvS5mOVlXUUSZSMty0d6SUc2O68021kZPfBS7c7gbFON&caseno=CRLA/136/2026&cCode=1&cino=UKHC010045502026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "cb59b6596a8f48f82a014216de3df1b9afb6084632ebc98a5e579c6ba7367cdf",
+ "fetched_at": "2026-11-28T02:00:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

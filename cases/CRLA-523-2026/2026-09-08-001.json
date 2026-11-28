@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/523/2026:2026-09-08-001",
+ "title": "JATIN versus STATE OF UTTARAKHAND",
+ "petitioner": "JATIN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/523/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-08",
+ "cnr": "UKHC010157232026",
+ "doc_kind": "order",
+ "order_type": "CRLA/523/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrZvRqP9i%2BTcd8ND4QldvPj0UR5OzNo%2Bsts9BDTJIdTm&caseno=CRLA/523/2026&cCode=1&cino=UKHC010157232026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1ac24bc1d5c6c00fde963c21da1eddf6a01a763b919d342eb66dc3f479d2a98c",
+ "fetched_at": "2026-11-28T01:56:23+00:00",
+ "fetched_by": "fetch_live.py"
+}

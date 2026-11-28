@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/2505/2023:2025-06-04-004",
+ "title": "TRILOK versus STATE OF UTTARAKHAND",
+ "petitioner": "TRILOK",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/2505/2023",
+ "case_type": "C482",
+ "decision_date": "2025-06-04",
+ "cnr": "UKHC010209032023",
+ "doc_kind": "order",
+ "order_type": "C482/2505/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYy1YkSUrPvGMRrYdj%2FJ%2FxgPYdSlnD9lVQskGV%2F2V%2FbF2&caseno=C482/2505/2023&cCode=1&cino=UKHC010209032023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "54a615bf2bf547435b5d19717c8243734773991a9b0f7d977d88e70d2e5dc111",
+ "fetched_at": "2026-11-28T01:54:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

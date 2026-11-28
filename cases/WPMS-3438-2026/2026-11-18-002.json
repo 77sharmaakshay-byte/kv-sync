@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3438/2026:2026-11-18-002",
+ "title": "MUDIT KAMAL GHILDIYAL versus DEEPAK JYOTI GHILDIYAL",
+ "petitioner": "MUDIT KAMAL GHILDIYAL",
+ "respondent": "DEEPAK JYOTI GHILDIYAL",
+ "case_no": "WPMS/3438/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-18",
+ "cnr": "UKHC010199072026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3438/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjM7qKD7jcNzwF1vocgm8W3IGsSWkJx5givMszth0TJ8&caseno=WPMS/3438/2026&cCode=1&cino=UKHC010199072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d758024394fee51d486d96f3f7a9339f72a17a3eea0201b7e0647d1811d9092b",
+ "fetched_at": "2026-11-28T02:08:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

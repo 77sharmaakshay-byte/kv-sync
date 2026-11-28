@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3481/2024:2024-12-17-001",
+ "title": "MS PRABHU DAYAL RAMCHANDRA versus MS KARUNAMAI ENTERPRISES",
+ "petitioner": "MS PRABHU DAYAL RAMCHANDRA",
+ "respondent": "MS KARUNAMAI ENTERPRISES",
+ "case_no": "WPMS/3481/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-12-17",
+ "cnr": "UKHC010198132024",
+ "doc_kind": "order",
+ "order_type": "WPMS/3481/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcPkq9RFQLRDnven%2FI3oTglLchBFtVAMiPvd7cbzH%2FfaB&caseno=WPMS/3481/2024&cCode=1&cino=UKHC010198132024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4b2ae9cbf84ee9bea5800678345ac70534351b831ec60f4d17d0bf5aa1348fba",
+ "fetched_at": "2026-11-28T01:42:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

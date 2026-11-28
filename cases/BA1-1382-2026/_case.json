@@ -6,11 +6,11 @@
  "registration_number": "BA1 /1382/2026",
  "registration_date": "2026-08-06",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-02",
+ "next_hearing_date": "2026-11-28",
  "decision_date": null,
- "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "case_stage": "BAIL MATTERS -98",
  "status": "",
- "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -35,6 +35,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-28",
+   "business_date": "2026-11-02",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-14",
    "business_date": "2026-10-06",
@@ -93,6 +100,15 @@
    "order_type": "BA1/1382/2026",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvKcHIWBgFzWpP%2Fn5tMpTs8b6lug2r6oXeZnsjDR%2FoGM&caseno=BA1/1382/2026&cCode=1&cino=UKHC010140342026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-02",
+   "order_type": "BA1/1382/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvKcHIWBgFzWpP%2Fn5tMpTs9fw338CFwltdrY3VO4H5f2&caseno=BA1/1382/2026&cCode=1&cino=UKHC010140342026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

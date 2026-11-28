@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/370/2026:2026-06-18-001",
+ "title": "MAMTA PANT versus STATE OF UTTARAKHAND",
+ "petitioner": "MAMTA PANT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/370/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-18",
+ "cnr": "UKHC010105322026",
+ "doc_kind": "order",
+ "order_type": "WPSB/370/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmOs3iCCC9iUglnSrrus%2BfLOFZdqENFaw%2FTYVg0JNnj0&caseno=WPSB/370/2026&cCode=1&cino=UKHC010105322026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c9dc2d4dcd9f5d2b45de61ae6cb4fdd588cb66238bd98928b5b63960dfe8a7a6",
+ "fetched_at": "2026-11-28T01:39:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

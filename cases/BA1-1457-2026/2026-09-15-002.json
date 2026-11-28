@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1457/2026:2026-09-15-002",
+ "title": "BILAL versus STATE OF UTTARAKHAND",
+ "petitioner": "BILAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1457/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-15",
+ "cnr": "UKHC010150312026",
+ "doc_kind": "order",
+ "order_type": "BA1/1457/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr9l8JfpIMcGt1B6DG9cBAE%2BxKOXuADRdMSs4j9cvWmI&caseno=BA1/1457/2026&cCode=1&cino=UKHC010150312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b7cb2ab21ad08dcbabe428dad18691936c475415622775c31caace620d3b5bc6",
+ "fetched_at": "2026-11-28T01:54:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

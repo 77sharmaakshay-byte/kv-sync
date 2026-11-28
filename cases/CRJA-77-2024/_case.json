@@ -6,7 +6,7 @@
  "registration_number": "CRJA /77/2024",
  "registration_date": "2024-09-26",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-14",
+ "next_hearing_date": "2026-11-28",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
@@ -43,6 +43,20 @@
    "hearing_date": "2024-10-08",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-23",
+   "business_date": "2026-11-02",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": "2026-11-02",
+   "business_date": "2026-10-14",
+   "purpose": "ORDERS ON APPLICATIONS -22",
    "judge": "",
    "cause_list_type": "DAILY CAUSE LIST"
   },
@@ -182,6 +196,15 @@
    "order_type": "CRJA/77/2024",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcDYROTH1kard5CYXOovxIbXMd5Dbi5g2RvIUoWzwOjgv&caseno=CRJA/77/2024&cCode=1&cino=UKHC010154602024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-14",
+   "order_type": "CRJA/77/2024",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcDYROTH1kard5CYXOovxIbWAN1zENBZ5c8HwGMkTb0W1&caseno=CRJA/77/2024&cCode=1&cino=UKHC010154602024&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

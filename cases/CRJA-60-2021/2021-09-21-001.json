@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/60/2021:2021-09-21-001",
+ "title": "PURUSHOTTAM MEENA ALIAS TERAJ versus STATE OF UTTARAKHAND",
+ "petitioner": "PURUSHOTTAM MEENA ALIAS TERAJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/60/2021",
+ "case_type": "CRJA",
+ "decision_date": "2021-09-21",
+ "cnr": "UKHC010115822021",
+ "doc_kind": "order",
+ "order_type": "CRJA/60/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkNF2IH4xNzMHlNqd1ozf5krJsNMwyL3ugdib6UYBvXPD&caseno=CRJA/60/2021&cCode=1&cino=UKHC010115822021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dad0d8cd1c47287bbbd482983be4e8d5eb75d2a16087d2f2e2a4311d1543e9ca",
+ "fetched_at": "2026-11-28T01:45:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

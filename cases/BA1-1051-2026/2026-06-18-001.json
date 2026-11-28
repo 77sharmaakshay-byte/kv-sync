@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1051/2026:2026-06-18-001",
+ "title": "NAJMUDDIN versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "NAJMUDDIN",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA1/1051/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-18",
+ "cnr": "UKHC010103652026",
+ "doc_kind": "order",
+ "order_type": "BA1/1051/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkdrch1jLTTZGrfdUp3cv4H7dL9J%2BUib0jnwcDeYD9AU&caseno=BA1/1051/2026&cCode=1&cino=UKHC010103652026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2afff605b4280271ec3df7984042a94d6b16cb3395608b26827cf746f2022a6f",
+ "fetched_at": "2026-11-28T01:54:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/578/2019:2019-04-27-003",
+ "title": "NISHA AGARWAL versus TARA SINGH",
+ "petitioner": "NISHA AGARWAL",
+ "respondent": "TARA SINGH",
+ "case_no": "WPMS/578/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-04-27",
+ "cnr": "UKHC010030532019",
+ "doc_kind": "order",
+ "order_type": "WPMS/578/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF40XvX6PPxKzrZa0o69AYc0n47s6fswcHdXlqtgdrqNB&caseno=WPMS/578/2019&cCode=1&cino=UKHC010030532019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "041653b7abc81c0314fa15246e09c64df2ee3792940ae585eac20ebb3ea92347",
+ "fetched_at": "2026-11-28T01:35:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/240/2024:2026-10-30-005",
+ "title": "SUSHIL KUMAR versus DISTRICT MAGISTRATE HARIDWAR",
+ "petitioner": "SUSHIL KUMAR",
+ "respondent": "DISTRICT MAGISTRATE HARIDWAR",
+ "case_no": "SPA/240/2024",
+ "case_type": "SPA",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010116312024",
+ "doc_kind": "order",
+ "order_type": "SPA/240/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcL%2Bl5UjyU%2FdcF7RhYykaAT7difm0hWLolhAlMnIIx8%2BS&caseno=SPA/240/2024&cCode=1&cino=UKHC010116312024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2f406d57e806e3074dac03eab89982076bdce8d8b30c78ac9d06a048f3265f4c",
+ "fetched_at": "2026-11-28T01:54:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

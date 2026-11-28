@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/59/2026:2026-04-17-002",
+ "title": "RAKVINDER SINGH versus MANI KANT MISRA",
+ "petitioner": "RAKVINDER SINGH",
+ "respondent": "MANI KANT MISRA",
+ "case_no": "CLCON/59/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-04-17",
+ "cnr": "UKHC010032422026",
+ "doc_kind": "order",
+ "order_type": "CLCON/59/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "PART HEARD MATTERS -132",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn2%2FBMa1DQyfbh1qpJweb6FnaiKJRUHQn9hpOte6IELa&caseno=CLCON/59/2026&cCode=1&cino=UKHC010032422026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4e6bc061faec4fdcd0ff34c4d181811c1683ae97eb014e5b032f8e6d0a791a96",
+ "fetched_at": "2026-11-28T02:05:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

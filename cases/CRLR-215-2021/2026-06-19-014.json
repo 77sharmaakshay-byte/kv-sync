@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/215/2021:2026-06-19-014",
+ "title": "ANUJ versus STATE OF UTTARAKHAND",
+ "petitioner": "ANUJ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/215/2021",
+ "case_type": "CRLR",
+ "decision_date": "2026-06-19",
+ "cnr": "UKHC010107162021",
+ "doc_kind": "order",
+ "order_type": "CRLR/215/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkEjNpuLwGDHewZvnoKm3zLNeVzci%2FpnMm1COm95BBBUs&caseno=CRLR/215/2021&cCode=1&cino=UKHC010107162021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "32a4460dbfca84f59a4ce16a5d7291ce37ea9a474bc2412d417e6132364a08b2",
+ "fetched_at": "2026-11-28T01:59:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/16/2018:2022-09-08-003",
+ "title": "Uttarakhand Vidyut Savinda Karamchari Sangathan AND ANOTHER versus Uttarakhand Power Corporation Ltd AND OTHERS",
+ "petitioner": "Uttarakhand Vidyut Savinda Karamchari Sangathan AND ANOTHER",
+ "respondent": "Uttarakhand Power Corporation Ltd AND OTHERS",
+ "case_no": "WPMS/16/2018",
+ "case_type": "WPMS",
+ "decision_date": "2022-09-08",
+ "cnr": "UKHC010001282018",
+ "doc_kind": "order",
+ "order_type": "WPMS/16/2018",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=7yYHzYY%2BHBdF9fmx9reGLw8J8OyEAajn5TRhYuAwn3MzhokcTdppts9JTZsG3Fba&caseno=WPMS/16/2018&cCode=1&cino=UKHC010001282018&state_code=15&court_code=1&&appFlag=",
+ "sha256": "13fc6558682652f8a79cadf128641e6a71414f4ea7cf09e52b5a6db222cac1ba",
+ "fetched_at": "2026-11-28T02:06:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

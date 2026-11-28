@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/1908/2019:2026-10-13-009",
+ "title": "ANUPAM SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "ANUPAM SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/1908/2019",
+ "case_type": "C482",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010146282019",
+ "doc_kind": "order",
+ "order_type": "C482/1908/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF2zEzfadEURA4aEM29QMgZgYqTt5NYA%2FILEE93eirFq2&caseno=C482/1908/2019&cCode=1&cino=UKHC010146282019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9692764d46faacf506ea7649da88e8d60bba2285595e6789d449471681518d02",
+ "fetched_at": "2026-11-28T02:00:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

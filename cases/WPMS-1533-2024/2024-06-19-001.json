@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1533/2024:2024-06-19-001",
+ "title": "SANJEEV KUMAR SINGH versus KISHAN SINGH",
+ "petitioner": "SANJEEV KUMAR SINGH",
+ "respondent": "KISHAN SINGH",
+ "case_no": "WPMS/1533/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-06-19",
+ "cnr": "UKHC010087402024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1533/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJTeqXtmpRv2ywpPF%2BQCcgY9ZKn7cxM4ySHnUPf8ZItz&caseno=WPMS/1533/2024&cCode=1&cino=UKHC010087402024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d5bcd6d4e1487f5466916b23ddc78048e046b4787f35c1c6991ecdd008738d80",
+ "fetched_at": "2026-11-28T01:36:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

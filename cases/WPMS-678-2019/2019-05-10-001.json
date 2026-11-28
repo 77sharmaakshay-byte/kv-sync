@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/678/2019:2019-05-10-001",
+ "title": "GEETA DEVI versus STATE INFORMATION COMMISSIONER LADPUR",
+ "petitioner": "GEETA DEVI",
+ "respondent": "STATE INFORMATION COMMISSIONER LADPUR",
+ "case_no": "WPMS/678/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-05-10",
+ "cnr": "UKHC010034862019",
+ "doc_kind": "order",
+ "order_type": "WPMS/678/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF8YaHU%2F8OnIanMFXvIJPnkNmvbNEPk8lDz%2FbenOeJSer&caseno=WPMS/678/2019&cCode=1&cino=UKHC010034862019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "639a37a0ebe40ffb9dfbbb3264f5253194c39019ffdc85eae1247909463ef01d",
+ "fetched_at": "2026-11-28T01:35:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

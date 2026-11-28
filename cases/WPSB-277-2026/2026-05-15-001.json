@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/277/2026:2026-05-15-001",
+ "title": "KARAMVEER versus STATE OF UTTARAKHAND",
+ "petitioner": "KARAMVEER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/277/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-05-15",
+ "cnr": "UKHC010080272026",
+ "doc_kind": "order",
+ "order_type": "WPSB/277/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQs5LajLPWSnMe6VcBu4EwZOjdP1Zcg2bnfJJcbhmK3UZ&caseno=WPSB/277/2026&cCode=1&cino=UKHC010080272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2d6e90e07b42cfd1f1b6fc8ac122c2dfd402d4ceb1956a50e6d5fd1f0efacc16",
+ "fetched_at": "2026-11-28T01:39:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

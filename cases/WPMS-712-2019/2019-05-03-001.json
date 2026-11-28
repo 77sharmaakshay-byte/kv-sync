@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/712/2019:2019-05-03-001",
+ "title": "CHANDRAVEER SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "CHANDRAVEER SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/712/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-05-03",
+ "cnr": "UKHC010037592019",
+ "doc_kind": "order",
+ "order_type": "WPMS/712/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF%2FDqJQ0Li02YXLmknZauNyovZzTNbbDRRegg7d6GWhoe&caseno=WPMS/712/2019&cCode=1&cino=UKHC010037592019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9d20d44d10ac3b59551e4382681cb0cb5ddffe4c7b073c8f9f24f8e2f0e01ae8",
+ "fetched_at": "2026-11-28T01:35:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

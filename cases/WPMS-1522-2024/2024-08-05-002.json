@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1522/2024:2024-08-05-002",
+ "title": "NARESH KUMAR THAPLIYAL versus DIVISIONAL FOREST OFFICER",
+ "petitioner": "NARESH KUMAR THAPLIYAL",
+ "respondent": "DIVISIONAL FOREST OFFICER",
+ "case_no": "WPMS/1522/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-08-05",
+ "cnr": "UKHC010085922024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1522/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJGvfFI2CWZx70ut4N3bl%2BaGQJJOyuVW4zqtFemYgcym&caseno=WPMS/1522/2024&cCode=1&cino=UKHC010085922024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0525881c25ac72c06d024e47c8351fad98b6c4883d9a16077922c35b1ba64069",
+ "fetched_at": "2026-11-28T01:35:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

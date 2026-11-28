@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1050/2026:2026-06-18-001",
+ "title": "NAEEM AHAMAD versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "NAEEM AHAMAD",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA1/1050/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-18",
+ "cnr": "UKHC010103662026",
+ "doc_kind": "order",
+ "order_type": "BA1/1050/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhfrLusx43PrNurcOOayWg3ULVyRltl2UlKlV4nQYjEM&caseno=BA1/1050/2026&cCode=1&cino=UKHC010103662026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "52be7347ad44579b807f63295d28dd2984468704a9c5ce0ae05fdbfe4598566e",
+ "fetched_at": "2026-11-28T01:55:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

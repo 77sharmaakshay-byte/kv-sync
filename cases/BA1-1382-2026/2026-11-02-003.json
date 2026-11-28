@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1382/2026:2026-11-02-003",
+ "title": "GARJA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "GARJA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1382/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-11-02",
+ "cnr": "UKHC010140342026",
+ "doc_kind": "order",
+ "order_type": "BA1/1382/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvKcHIWBgFzWpP%2Fn5tMpTs9fw338CFwltdrY3VO4H5f2&caseno=BA1/1382/2026&cCode=1&cino=UKHC010140342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d1d6c239697228eb1defb84f51f5b9e10b55fb200409f3cfc7d6ea6a06a381e4",
+ "fetched_at": "2026-11-28T01:54:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

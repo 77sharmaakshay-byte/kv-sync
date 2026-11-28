@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1574/2026:2026-09-18-001",
+ "title": "ROHIT versus STATE OF UTTARAKHAND",
+ "petitioner": "ROHIT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1574/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-18",
+ "cnr": "UKHC010164672026",
+ "doc_kind": "order",
+ "order_type": "BA1/1574/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm011A0w08e%2BhpwYSNFk%2Fk%2B%2B5jyNE37Suc%2B41Llq1V2o&caseno=BA1/1574/2026&cCode=1&cino=UKHC010164672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5dd1c44294c346bada417a50e341eb1ee64df71b79cdb003c46b2f005fc9c948",
+ "fetched_at": "2026-11-28T01:54:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

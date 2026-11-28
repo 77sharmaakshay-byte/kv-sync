@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1384/2026:2026-08-10-001",
+ "title": "BHAGWAT versus STATE OF UTTARAKHAND",
+ "petitioner": "BHAGWAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1384/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-10",
+ "cnr": "UKHC010140632026",
+ "doc_kind": "order",
+ "order_type": "BA1/1384/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvxCZwh3d5K3gPf1N3%2FbKeKG17pDqDlmSE0tRQHmRmV0&caseno=BA1/1384/2026&cCode=1&cino=UKHC010140632026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7cf5b824ea228d61660e67e4021ac68c40fc30b16ffa57ca8d0bb045e2808d99",
+ "fetched_at": "2026-11-28T01:56:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

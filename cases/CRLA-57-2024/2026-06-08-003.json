@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/57/2024:2026-06-08-003",
+ "title": "ABHINAV versus STATE OF UTTARAKHAND",
+ "petitioner": "ABHINAV",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/57/2024",
+ "case_type": "CRLA",
+ "decision_date": "2026-06-08",
+ "cnr": "UKHC010016992024",
+ "doc_kind": "order",
+ "order_type": "CRLA/57/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcES%2BgMaj%2FqH0yx%2FrhGQ3Fie2Pc%2BTiKHCCZuVmf2kOCJU&caseno=CRLA/57/2024&cCode=1&cino=UKHC010016992024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7cafc28504f91566d601d6f3248f50a0b0742fecdb118d73578d48f546c774a6",
+ "fetched_at": "2026-11-28T01:47:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

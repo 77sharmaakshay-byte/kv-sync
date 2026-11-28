@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2641/2015:2016-03-29-003",
+ "title": "SMT. AKHTARI versus SHRI ASHWANI KUMAR",
+ "petitioner": "SMT. AKHTARI",
+ "respondent": "SHRI ASHWANI KUMAR",
+ "case_no": "WPMS/2641/2015",
+ "case_type": "WPMS",
+ "decision_date": "2016-03-29",
+ "cnr": "UKHC010018052015",
+ "doc_kind": "order",
+ "order_type": "WPMS/2641/2015",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=INbse7hXUgbFZEsTtCWBWYTH%2Bsc6DA4xmjm8ATz3PHxwRi7pZYmuF2c9K36FOi1j&caseno=WPMS/2641/2015&cCode=1&cino=UKHC010018052015&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f40af5ca03af851df216179a8db2f28caca5b09486c2e67932565171597018ed",
+ "fetched_at": "2026-11-28T01:43:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

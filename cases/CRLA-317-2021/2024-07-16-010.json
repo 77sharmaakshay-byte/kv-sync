@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/317/2021:2024-07-16-010",
+ "title": "SONU KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SONU KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/317/2021",
+ "case_type": "CRLA",
+ "decision_date": "2024-07-16",
+ "cnr": "UKHC010130952021",
+ "doc_kind": "order",
+ "order_type": "CRLA/317/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkKC2iIQPAQyPfUYQ85tzY33R7PJ6ktNLahV8GRz8NOgi&caseno=CRLA/317/2021&cCode=1&cino=UKHC010130952021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f55e0e5df7bc44f5a70d6e13f96620689ea620385e39dbd792b0ed60c3f228ce",
+ "fetched_at": "2026-11-28T01:57:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/799/2023:2024-03-06-005",
+ "title": "POOJA versus STATE OF UTTARAKHAND",
+ "petitioner": "POOJA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/799/2023",
+ "case_type": "CRLA",
+ "decision_date": "2024-03-06",
+ "cnr": "UKHC010182892023",
+ "doc_kind": "order",
+ "order_type": "CRLA/799/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2B%2BK9dakxAQIfLOLuV%2FhtuhIHouNTyS1l%2Bpry7X7B6B3&caseno=CRLA/799/2023&cCode=1&cino=UKHC010182892023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ac3f88edd52371d074858c0c2eb2ed62a4864b04f763b5f08918ff845bb0d0cf",
+ "fetched_at": "2026-11-28T01:47:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

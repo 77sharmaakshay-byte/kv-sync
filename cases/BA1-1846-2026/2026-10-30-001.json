@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1846/2026:2026-10-30-001",
+ "title": "SAMEER CHAUDHARY ALIAS CHAUDHARY SAMEER SOHI versus STATE OF UTTARAKHAND",
+ "petitioner": "SAMEER CHAUDHARY ALIAS CHAUDHARY SAMEER SOHI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1846/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010193712026",
+ "doc_kind": "order",
+ "order_type": "BA1/1846/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoQlGwYYptKpvEGnelWJYNEmqWXxDWJl9lIsp1aVSXUA&caseno=BA1/1846/2026&cCode=1&cino=UKHC010193712026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a54744f99b4bc4f89e85413ccd96ae1720774dfe9656df44e5d02f85cfe3cc96",
+ "fetched_at": "2026-11-28T01:55:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

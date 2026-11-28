@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1320/2026:2026-10-15-002",
+ "title": "MOHD. JABIR versus UNION OF INDIA",
+ "petitioner": "MOHD. JABIR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "BA1/1320/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010133402026",
+ "doc_kind": "order",
+ "order_type": "BA1/1320/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQj8dIX1FeaTTJRUT01X%2BSVK9ZJakP8lKVYKakyQp42T4&caseno=BA1/1320/2026&cCode=1&cino=UKHC010133402026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "62c80516469f82774ad1d6f856f6011083804c0f59f4e59adb4b3c3062cd19e0",
+ "fetched_at": "2026-11-28T01:53:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

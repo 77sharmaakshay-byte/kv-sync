@@ -1,0 +1,20 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1042/2020:2020-07-22-003",
+ "title": "JAMILA versus NASIM AHMAD",
+ "petitioner": "JAMILA",
+ "respondent": "NASIM AHMAD",
+ "case_no": "WPMS/1042/2020",
+ "case_type": "WPMS",
+ "decision_date": "2020-07-22",
+ "cnr": "UKHC010060512020",
+ "doc_kind": "order",
+ "order_type": "WPMS/1042/2020",
+ "judges": null,
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjLPFkasAAUI5HL43GqQDsDZDbshqWOlOoDyXVUMLpgaw&caseno=WPMS/1042/2020&cCode=1&cino=UKHC010060512020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0e45b3f8b030d1fa5ef69b28b61ad3c20b4a46a5cf1a9d93f7bd0c64842ff412",
+ "fetched_at": "2026-11-28T01:41:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

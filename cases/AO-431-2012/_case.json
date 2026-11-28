@@ -6,7 +6,7 @@
  "registration_number": "AO /431/2012",
  "registration_date": "2012-08-29",
  "first_hearing_date": "2013-04-22",
- "next_hearing_date": "2026-11-03",
+ "next_hearing_date": "2026-11-28",
  "decision_date": null,
  "case_stage": "DIRECTIONS MATTERS -101",
  "status": "",
@@ -55,6 +55,13 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-28",
+   "business_date": "2026-11-03",
+   "purpose": "DIRECTIONS MATTERS -101",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": null,
    "business_date": "2026-10-09",

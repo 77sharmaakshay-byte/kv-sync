@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/31/2021:2021-06-15-005",
+ "title": "PRAMOD SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "PRAMOD SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/31/2021",
+ "case_type": "CRJA",
+ "decision_date": "2021-06-15",
+ "cnr": "UKHC010056722021",
+ "doc_kind": "order",
+ "order_type": "CRJA/31/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkKOrZ2f4U4cM7bZHSYRSrJIDVOKS4alOp9a3o60lzPBm&caseno=CRJA/31/2021&cCode=1&cino=UKHC010056722021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fae3a76631d75b9de018988e8c8322e9ccb40559c7183f9f96e1cd92df6b7c24",
+ "fetched_at": "2026-11-28T01:45:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

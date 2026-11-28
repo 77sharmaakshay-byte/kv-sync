@@ -6,7 +6,7 @@
  "registration_number": "WPMS /1806/2026",
  "registration_date": "2026-06-10",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-06",
+ "next_hearing_date": "2026-11-28",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
@@ -47,15 +47,22 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2026-11-06",
-   "business_date": null,
+   "hearing_date": null,
+   "business_date": "2026-11-06",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-26",
+   "business_date": "2026-10-15",
    "purpose": "ORDERS ON APPLICATIONS -22",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
   },
   {
-   "hearing_date": "2026-11-26",
-   "business_date": "2026-10-15",
+   "hearing_date": "2026-11-06",
+   "business_date": null,
    "purpose": "ORDERS ON APPLICATIONS -22",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
@@ -175,6 +182,24 @@
    "order_type": "WPMS/1806/2026",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgZ3tPFYAKJf7fGKyRkZGotQ2EBcshWTTub4oTRazj7H&caseno=WPMS/1806/2026&cCode=1&cino=UKHC010102442026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-06",
+   "order_type": "WPMS/1806/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgZ3tPFYAKJf7fGKyRkZGovY0GmlNGFQT%2FUre5diRy%2FL&caseno=WPMS/1806/2026&cCode=1&cino=UKHC010102442026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-23",
+   "order_type": "WPMS/1806/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgZ3tPFYAKJf7fGKyRkZGouBA8TpmpCeIjCxehI2Fqt%2F&caseno=WPMS/1806/2026&cCode=1&cino=UKHC010102442026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

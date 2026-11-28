@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1399/2019:2019-05-22-001",
+ "title": "VINITA KUMAR versus MEENU SODD",
+ "petitioner": "VINITA KUMAR",
+ "respondent": "MEENU SODD",
+ "case_no": "WPMS/1399/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-05-22",
+ "cnr": "UKHC010073002019",
+ "doc_kind": "order",
+ "order_type": "WPMS/1399/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF4yVkpnUv06m2FmtL8A2rqEPxCsFVXy8%2BeVzYsFW3S54&caseno=WPMS/1399/2019&cCode=1&cino=UKHC010073002019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "ffbf1c742fcd059ce150a5726a8752693c689d6c9f8e812ebf20d26afc003869",
+ "fetched_at": "2026-11-28T01:35:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

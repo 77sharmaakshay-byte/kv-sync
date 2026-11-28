@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2132/2008:2021-08-24-012",
+ "title": "OIL and NATURAL GAS COMMISSION LTD versus SHRI GOVIND RAM BAHUGUNA",
+ "petitioner": "OIL and NATURAL GAS COMMISSION LTD",
+ "respondent": "SHRI GOVIND RAM BAHUGUNA",
+ "case_no": "WPMS/2132/2008",
+ "case_type": "WPMS",
+ "decision_date": "2021-08-24",
+ "cnr": "UKHC010002322008",
+ "doc_kind": "order",
+ "order_type": "WPMS/2132/2008",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=FwQOg3skvbQQFLqpuCrwFGxIoQ4rrrOno2ZgzL3vHtwFRU9byEBvJvP6%2Fm05I6MO&caseno=WPMS/2132/2008&cCode=1&cino=UKHC010002322008&state_code=15&court_code=1&&appFlag=",
+ "sha256": "81571c478475095bab08a197f731a1938a47189ddd57d370dd7246bf05c8c6ee",
+ "fetched_at": "2026-11-28T01:34:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

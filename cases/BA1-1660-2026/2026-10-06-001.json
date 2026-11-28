@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1660/2026:2026-10-06-001",
+ "title": "DANISH versus STATE OF UTTARAKHAND",
+ "petitioner": "DANISH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1660/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-06",
+ "cnr": "UKHC010176622026",
+ "doc_kind": "order",
+ "order_type": "BA1/1660/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnGetigOU2vsDQOYAI2%2B8zySUdTQLhRTh3T2m1Ozav4N&caseno=BA1/1660/2026&cCode=1&cino=UKHC010176622026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9c427b1605bc7465af7dff5b4dbd102cc176e074cca6dc49978e716039ccf847",
+ "fetched_at": "2026-11-28T01:57:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

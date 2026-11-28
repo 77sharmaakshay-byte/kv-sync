@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1762/2026:2026-11-04-002",
+ "title": "GANESH NISHAR versus STATE OF UTTARAKHAND",
+ "petitioner": "GANESH NISHAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1762/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-11-04",
+ "cnr": "UKHC010186362026",
+ "doc_kind": "order",
+ "order_type": "BA1/1762/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQirx2OwrXbwI237nhc6OmZSOtW4zNiTsdCxcRv%2FHyN0x&caseno=BA1/1762/2026&cCode=1&cino=UKHC010186362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "68f695cf578e8e860b3a8f5227d719428510619033b48e4f1480a61db010bce7",
+ "fetched_at": "2026-11-28T01:56:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

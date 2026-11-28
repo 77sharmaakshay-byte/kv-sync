@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/611/2019:2019-03-08-001",
+ "title": "SIBTE HASAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SIBTE HASAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/611/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-03-08",
+ "cnr": "UKHC010032112019",
+ "doc_kind": "order",
+ "order_type": "WPMS/611/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF9md5TklOlL7hQ4n%2FH71%2FKbc1j0u1GcO5ep4SQHTd9%2FS&caseno=WPMS/611/2019&cCode=1&cino=UKHC010032112019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "63b7773786444543ecd879c4f6c18de6d7f11405d21cea645cfded85164019d1",
+ "fetched_at": "2026-11-28T01:34:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

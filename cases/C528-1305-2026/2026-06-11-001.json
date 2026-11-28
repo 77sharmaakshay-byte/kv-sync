@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1305/2026:2026-06-11-001",
+ "title": "VANDANA versus STATE OF UTTARAKHAND",
+ "petitioner": "VANDANA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/1305/2026",
+ "case_type": "C528",
+ "decision_date": "2026-06-11",
+ "cnr": "UKHC010101702026",
+ "doc_kind": "order",
+ "order_type": "C528/1305/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmP2OG%2FZXRoIziu9huyDRZszkWa5ICyFsO1K0Wbkjcwa&caseno=C528/1305/2026&cCode=1&cino=UKHC010101702026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1293d3e180753ee8a8da467b74417bd9c3639f176a8cc410aa6f1bdd95c2126a",
+ "fetched_at": "2026-11-28T01:58:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

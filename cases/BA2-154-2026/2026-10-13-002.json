@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/154/2026:2026-10-13-002",
+ "title": "HEMLATA versus STATE OF UTTARAKHAND",
+ "petitioner": "HEMLATA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/154/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-10-13",
+ "cnr": "UKHC010166022026",
+ "doc_kind": "order",
+ "order_type": "BA2/154/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvC2hNmfHhUBkS7z0%2B424l3CE0%2B6m1kCRXicoJn1mLFI&caseno=BA2/154/2026&cCode=1&cino=UKHC010166022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a07828b3426f6f96d453e92d53c6697caeca044491bbffdc2310a851029955b9",
+ "fetched_at": "2026-11-28T01:53:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/543/2024:2026-08-18-001",
+ "title": "MUKARRAM versus STATE OF UTTARAKHAND",
+ "petitioner": "MUKARRAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/543/2024",
+ "case_type": "CRLA",
+ "decision_date": "2026-08-18",
+ "cnr": "UKHC010150942024",
+ "doc_kind": "order",
+ "order_type": "CRLA/543/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcGU9TMds0h9tRLUX1%2FFNDhgtlDw1OcjbuuU5Ev0I%2FT07&caseno=CRLA/543/2024&cCode=1&cino=UKHC010150942024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4ccf75ce5351ec10952b12aabc9cc9ab6151c717284f3cfadd8a1ce180f69bc7",
+ "fetched_at": "2026-11-28T01:44:38+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/479/2019:2019-05-27-003",
+ "title": "RAMA PATANI versus STATE OF UTTARAKHAND",
+ "petitioner": "RAMA PATANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/479/2019",
+ "case_type": "WPMS",
+ "decision_date": "2019-05-27",
+ "cnr": "UKHC010025542019",
+ "doc_kind": "order",
+ "order_type": "WPMS/479/2019",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Singh"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=OLxd8ALUuCdEyg6JKuZhF3rpkcbYIlrcCT4yrjq14391ITGSP3o7HMkVayUMLnWc&caseno=WPMS/479/2019&cCode=1&cino=UKHC010025542019&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3e5b9d3ffda8678e1ae7e976b207f0f652a16cfdf910f8f2dd146825b5ed2c83",
+ "fetched_at": "2026-11-28T01:34:43+00:00",
+ "fetched_by": "fetch_live.py"
+}
