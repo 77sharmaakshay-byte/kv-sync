@@ -1,0 +1,846 @@
+{
+ "round": 40,
+ "data": "krishivlaw/nyay-kaam-v2",
+ "mode": "kaam",
+ "base_model": "Qwen/Qwen2.5-7B-Instruct",
+ "trained": 5648,
+ "from": 17088,
+ "to": 22736,
+ "total": 26875,
+ "n_eval": 20,
+ "rougeL_base": 0.1789,
+ "rougeL_ours": 0.2308,
+ "gpus": 1,
+ "seconds": 16151,
+ "sahi_shreni_ours": 0.9,
+ "sahi_vishay_ours": 0.873,
+ "sahi_nateeja_ours": 0.807,
+ "sahi_shreni_base": 0.013,
+ "sahi_vishay_base": 0.0,
+ "sahi_nateeja_base": 0.0,
+ "n_eval_v": 150,
+ "samples": [
+  {
+   "key": "S_1996_7_117_127",
+   "title": "PUREWAL ASSOCIATES LTD. ETC. versus COLLECTOR OF CENTRAL EXCISE",
+   "court": "..... PUREWAL ASSOCIATES LTD. ETC. v. COLLECTOR OF CENTRAL EXCISE OCTOBER 1, 1996 [S.P. BHARUCHA AND K. VENKATASWAMI, JJ.] Central Excises and Salt Act, 1944: Tariff Items 52 and 68. Excise duty-Watch manufacturer--Specified articles-Lid screw, barrel axle screw, Bridge screw and Dial key screw-Classification of-Held classifiable under item 68 and not under Item 52---Trade evidence adduced by manuf acture~naction of Revenue to adduce counter evidence-Schedule-Entries-lnterpretation of-Predominant test-Must be constnted in common parlance-Trade notice-Legal effect of Excise duty-Motor vehicles-Use of different kinds of connecting rod bolts (Bolt rear wheel, bolt from wheel etc.}-Classification of-Evidence produced by Revenue and Manufacturer-Finding based thereon by Tribunal that these items were classifiable under item 52 and not under item 68-Held valid. The appellants were manufacturing watches. In the course of manufacture of watches they inter alia, manufactured four specified articles, namely, Lid screw, Barrel axle screw, Bridge screw and Dial key screw. They claimed that these four items were classifiable under Tariff Item 68 of the Schedule as 'all other goods not elsewhere specified' and not under Item 52 as 'bolts, nuts and screws'. To substantiate their case they adduced evidence from the trade by way of affidavits giving a detailed description of the functions of each of the four articles with the object of showing that they did not perform the basic function of f",
+   "ours": "PUREWAL ASSOCIATES LTD. AND ANR. v. COLLECTOR OF CENTRAL EXCISE, CALCUTTA AND ORS. SEPTEMBER 19, 1995 [K. VENKATASWAMI AND S.P. BHARUCHA, JJ.) Central Excise Tariff Act, 1985-Schedule-Tariff Item 52 and 68-'Bolts, nuts and screws'-Whether includes screws used in watches. The appellants were manufacturers of watches. In the course of manufacture of watches, the appellants inter alia manufactured four specified articles with which we are concerned, namely Lid screw, Barrel axle screw, Bridge screw and the Dial key screw. The controversy between the Revenue and the appellants with regard to these four specified items was whether these four specified items are classifiable under Item 52 of the Schedule as 'bolts, nuts and screws' or Item 68 as 'all other goods hot elsewhere specified'. The Assistant Collector decided that the said items fall under Tariff Item 52. On appeal, the Collector (Appeals) held in favour of the appellants by deciding that the specified items will fall under Tariff Item 68. On further appeal by the Revenue, the Customs, Excise and Gold (Control) Appellate Tribunal in its elaborate order while upsetting the order of the Collector (Appeals) restored the order of the Assistant Collector. Aggrieved by the order of the Tribunal, the present appeal has been preferred under Section 35(L)(b) of the Central Excise and Salt Act, 1944. Dismissing the appeal, this Court HELD : 1.1. The Tribunal has misdirected itself while reaching the conclusion. The Tribunal having ",
+   "base": "**Headnote:**\n\nCentral Excise Tariff - Classification of Articles - Tariff Item 52 (Bolts, Nuts and Screws) vs Tariff Item 68 (Residuary Item) - Common Parlance Test - Connecting Rod Bolts - Trade Notices - Misdirection of Tribunal - Central Excise and Salt Act, 1944 (Section 35(L)(b)).\n\n*Facts:* The appeals concern the classification of four specified articles (lid screw, barrel axle screw, bridge screw, and dial key screw) manufactured by the appellants (watch manufacturers) under either Tariff Item 52 (bolts, nuts, and screws) or Tariff Item 68 (residuary item).\n\n*Issue:* Whether the articles fall under Tariff Item 52 or Tariff Item 68.\n\n*Held:* \n1. The Tribunal misdirected itself by failing to apply the common parlance test, which requires understanding the entries as they would be understood in trade and common parlance.\n2. Evidence from the trade, including affidavits and descriptions by engineers, supports the appellants' claim that the articles are not primarily used for fastening but serve different functions.\n3. Trade notices issued by the Bombay and Punjab Collectorates supporting the appellants' case were not considered appropriately by the Tribunal.\n4. The end-use of the articles and the functions for which they are manufactured do not determine their classification.\n5. The Tribunal's decision is not perverse or arbitrary, and the appeal is dismissed.\n\n*Relied on/ Distinguished:* \n1. **Western Coalfields Limited, Bilaspur case (C.A. No. 325/78.C.E.)** - The view ",
+   "rougeL_ours": 0.323,
+   "rougeL_base": 0.176
+  },
+  {
+   "key": "S_2001_5_575_587",
+   "title": "FAKIR MOHD. (DEAD) BY LRS. versus SITA RAM",
+   "court": "FAKIR MOHD. (DEAD) BY LRS. v. SITA RAM DECEMBER 10, 2001 [R.C. LAHOTI AND BRIJESH KUMAR, JJ.] Rent and Eviction : Rajas!han Premises (Control Qf Rent and Evie/ion) Act, 1950: Sections 13 and 19A: Eviction of tenant-De.fault in payment of rent-Validity of deposit of rent in Court under Clause (c)-Clauses (a) and (b) Qf sub-section (3) of Section 19 are separated by the word 'or' which is disjunctive-When payment in person c or by postal money order is refused or landlord fails to comply with tenants notice under clause (b) in either case tenant is entitled to deposit rent in the Court. Section 19-A(J)(b)-Service of Notice to landlord to specify Bank Ac-count Number for depositing rent-Jn the absence of provision on mode of service most common and usual mode of sending notice by registered post should be .followed-When tenant has failed to sent the notice by Registered post, presumption under Section 1141.f) could not be drawn. Eviction Act, 1872 : Section 114 : Presumption drawn under is pennissive-On .facts and circumstances of given case Court may re.fuse to draw such presumption-Notice sent under certificate Qfposting-Onfacts, presumption as to service re.fused to be drawn. Words and Phrases : 'or' and 'and'-Meaning of. in the context of Section 19 of the Rajasthan premises (Control Qf Rent and Eviction) Act, 1950: The appellant-tenant was in occupation of a portion of the premises A owned by respondent-landlord. Earlier a suit was filed for eviction of the tenant for his f",
+   "ours": "FAKIR MOHAMMED AND ANOTHER v. SITA RAM SEPTEMBER 11, 2001 [R.C. LAHOTI AND B.N. AGRA WAL, JJ.] Rent Control and Eviction : Rajasthan Premises (Control of Rent and Eviction) Act, 1950-Sections 13(1)(a) and 19-A-Tenant's default in payment of rent-Deposit of rent under Section 19-A of the Act-Validity of-Held, deposit of rent under Section 19-A of the Act is not valid deposit-It does not absolve the tenant from the liability to pay rent-Deposit of rent under Section 19-A of the Act is not a valid ground for eviction of tenant. Evidence Act, 1872-Section 114(1)-Presumption regarding service of notice-Drawn in favour of tenant-Held, not safe to draw presumption in favour of tenant. The respondent-landlord filed a suit for ejectment of the appellant-tenant from a shop on the ground available under clause (a) of sub-section (1) of Section 13 of Rajasthan Premises (Control of Rent and Eviction) Act, 1950. The trial court dismissed the suit holding that the deposits made by the tenant under Section 19-A of the Act were valid deposits. The first appellate court and the High Court reversed the decision of the trial court and decreed the suit holding that the deposits made by the tenant under Section 19-A of the Act were not valid and hence the tenant was a defaulter. Hence this appeal. Dismissing the appeal, the Court HELD : 1.1. The deposit of rent under Section 19-A of the Act is not a valid ground for eviction of the tenant. The deposit of rent under Section 19-A of the Act is not a",
+   "base": "**Headnote:**\n\nRajasthan Premises (Control of Rent and Eviction) Act, 1950 (Act), Section 13, Section 19A - Validity of deposits under Section 19A - Provisions for provisional determination of rent - Tenant's right to relief under Section 13(6) - Burden of proof regarding notice - Presumption under Section 114(1) of Evidence Act - Held:  \n1. Deposits made by the tenant under Section 19A of the Act are valid and constitute a defense against eviction under Section 13(5) of the Act.\n2. The tenant is entitled to relief under Section 13(6) of the Act if he makes a deposit or payment as required by Section 13(4).\n3. The burden of proving the service of notice under Section 19-A(3)(b) lies on the landlord, and the tenant's failure to raise this plea in the written statement does not preclude the court from considering it.\n4. The presumption under Section 114(1) of the Evidence Act cannot be drawn in favor of the tenant where the totality of facts and circumstances do not support the service of the notice.\n5. The tenant has defaulted in the payment of rent and a ground for eviction under Section 13(1)(a) of the Act is made out.\n6. The appeal by special leave is dismissed with costs, and the tenant is allowed time till 31.3.2002 for vacating the premises subject to certain conditions.\n\n**Relied on / Distinguished:**  \n1. **Kamal Singh v. State of U.P.** - On the validity of deposits under Section 19A of the Act.\n2. **State of M.P. v. Kailash Chandra** - On the interpretation of Sectio",
+   "rougeL_ours": 0.232,
+   "rougeL_base": 0.156
+  },
+  {
+   "key": "2014_7_956_977",
+   "title": "RAMESH versus STATE THROUGH INSPECTOR OF POLICE",
+   "court": "RAMESH v. STATE THROUGH INSPECTOR OF POLICE (Criminal Appeal No. 592 of 2010) . AUGUST 1, 2014 [DIPAK MISRA AND V. GOPALA GOWDA, JJ.] Penal Code, 1860 -· ss. 376, 302 and 201 - Rape and murder - Prosecution case that accused committed rape of C 8 year old girl and she died due to neurogenic shock - On the basis of evidence on record, accused convicted uls. 376, 302 and 201 and sentenced accordingly - Justification of - Held: Order passed by the courts below does not call for interference - Non-mentioning of the name of the accused o in the initial FIR not fatal to the prosecution case - Last seen theory proved - Confessional statement of the accused corroborated - Circumstantial evidence indicate towards th,e guilt of the accused and the evidence sufficient to establish the guilt of the accused - Evidence - Circumstantial evidence E - Last seen theory. According to the prosecution case, the appellant committed rape of an 8 year old girl and due to neurogenic shock, the girl died. FIR was lodged. Investigations were carried out. The appellant was F arrested. The appellant made confessional statement voluntarily and the shawl worn by the child at the time of occurrence was recovered. The trial court on basis of evidence on record convicted the appellant under Sections 376, 302 and 201 IPC and sentenced accor<lingly, G . All sentences were to run concurrently. The High Court upheld the order passed by the trial court. Hence, the instant appeal. The questions which arose for cons",
+   "ours": "RAMESH v. STATE THROUGH INSPECTOR OF POLICE (Criminal Appeal No. 1055 of 2008) JULY 11, 2011 [V. GOPALA GOWDA AND H.L. DATTU, JJ.] Penal Code, 1860: ss. 376, 302 and 201 - Rape and murder of 8 years old girl - Conviction by courts below - Held: The evidence of PW-3, the grandmother of the deceased, is reliable and trustworthy - The evidence of PW-1, the father of the deceased, is also reliable and trustworthy - The evidence of PW-12, the employee of the mill, is also reliable and trustworthy - The recovery of the body of the deceased child from the same well where PW-8 had seen the accused appellant the previous night throwing something in the well provides for a strong circumstantial evidence - The unusual behaviour of the accused in taking the deceased child to the backyard of the mill, sending of his employee for lunch at the same time and also the opening the mill in the odd hours of the night the very same evening points towards the guilt of the accused - The charges u/ss. 376, 302 and 201 are proved against the accused - Sentence of life imprisonment and fine of Rs.5000/- and in default one year rigorous imprisonment uls. 376, life imprisonment and fine of Rs.5000/- and on default, one year rigorous imprisonment uls. 302 and also 3 years rigorous imprisonment and fine of Rs.1000/- and on default, rigorous imprisonment of six months uls. 201 is confirmed - All sentences are to run concurrently. Evidence: Circumstantial evidence - Appreciation of - Held: The 955 A evidenc",
+   "base": "**Headnote:**\n\nIndian Penal Code (IPC) - Sections 376, 302, 201 - Conviction and Sentence - Circumstantial Evidence - Unusual Behaviour - Opening of Mill in Odd Hours - Recovery of Body from Well - Held: The High Court was correct in upholding the decision of the Sessions Judge in convicting the accused of rape and murder of the deceased child. The charges under Sections 376, 302, and 201 of IPC are proved. The sentence of life imprisonment and fine of Rs.5000/- and in default one year rigorous imprisonment under Section 376, life imprisonment and fine of Rs.5000/- and on default, one year rigorous imprisonment under Section 302, and 3 years rigorous imprisonment and fine of Rs.1000/- and on default, rigorous imprisonment of six months under Section 201 of IPC is confirmed to run concurrently. Appeal dismissed.\n\n**Relied on/Distinguished:**\n- Govinda Reddy & Anr. v. State of Mysore, AIR 1960 SC 29\n- Hanumant Govind Nargundkar v. State of Madhya Pradesh",
+   "rougeL_ours": 0.203,
+   "rougeL_base": 0.145
+  },
+  {
+   "key": "S_1990_3_48_54",
+   "title": "MAJOR SURESH CHAND MEHRA versus DEFENCE SECRETARY (U.0.1.) AND OTHERS",
+   "court": "c MAJOR SURESH CHAND MEHRA v. DEFENCE SECRETARY (U.0.1.) AND OTHERS NOVEMBER 13, 1990 [RANGANATH MISRA, CJ. AND M.H. KANIA, JJ.] Army Act, 1950/Army Rules, 1954-Sections 80, 83, 84, 85/Rules 22, 25, 53, 177-Commanding Officer directing disciplinary action against a Major-Proceedings initiated and summary trial ordered-Major opting to accept the award of Court Martial reprimand recom-mended-Affecting promotion-Validity of proceedings. The petitioner was commissioned in the Indian Army in Jannary 1959 and was promoted to the substantive rank of Major on March II, 1983. In January 1986, the petitioner joined 63rd Fd. Regiment. The 24th Rising Day of the Unit fell on September 1, 1986. In connection D with the celebrations of the said Day, the petitioner went to respondent No. 2, Regimental Medical officer of the Unit, at about 10.30 p.m. on 29.8.86 to pursuade him loan his steel almirah, for two or three days. Respondent No. 2 refused to loan the Almirah to the Petitioner which led to hot exchange of words between them at about 11.00 p.m. There-upon Respondent No. 2 lodged a complaint with the Commanding E Officer that he had been beaten by the petitioner. The Commanding Officer visited the quarters of the Respondent No. 2 at about 15 minutes past midnight of 29 /30th August 1986. He made some sort of inquiries at that time and made a noting that the accusation made by respondent No. 2 _against the petitioner was unsubstantiated. It appears Respon-dent No. 2 at that point of tim",
+   "ours": "MAJOR S.C. MEHRA v. UNION OF INDIA & ORS. AUGUST 27, 1990 [M.H. KANIA AND R.M. SAHA!, JJ.] Army Act, 1950: Sections 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, JOO, JOI, JO2, JO3, JO4, JO5, JO6, JO7, JO8, JO9, JOI0, JOI I, JOI2, JOI3, JOI4, JOI5, JOI6, JOI7, JOI8, JOI9, JO20, JO2I, JO22, JO23, JO24, JO25, JO26",
+   "base": "**Headnote:**\n\nSupreme Court of India, *Y. Lal v. Union of India*, (1990) 3 SCC 11\n\n*Act:* Army Act, 1950 (Sections 37, 38, 40, 41)\n\n*Fact:* The petitioner, a commissioned officer in the Indian Army, was given a severe reprimand and attached to the 4th Field Regiment following an altercation with the Regimental Medical Officer (respondent No. 2). The petitioner challenged the severity of the punishment and alleged that the proceedings were tainted by malafide.\n\n*Issue:* Whether the severe reprimand awarded to the petitioner was justified and whether the proceedings were marred by malafide.\n\n*Held:* \n1. The petition failed to establish that the proceedings were tainted by malafide.\n2. The petitioner's allegations of malafide were found to be vague and without foundation.\n3. The court dismissed the petition and upheld the award of severe reprimand.\n4. The petitioner's chances of promotion were not rendered nugatory by the punishment.\n5. The army authorities could still consider the petitioner for promotion after a reasonable time.\n\n*Relied on/Distinguished:* None.",
+   "rougeL_ours": 0.039,
+   "rougeL_base": 0.152
+  },
+  {
+   "key": "S_2000_5_584_595",
+   "title": "M.NARSINGA RAO versus STATE OF ANDHRA PRADESH",
+   "court": "A M. NARSINGA RAO v. STATE OF ANDHRA PRADESH DECEMBER 12, 2000 B [K.T. THOMAS, U.C. BANERJEE AND R.P. SETHI. JJ.] Prevention of Corruption Act, 1988 Section JU legal presumption Held. can be drawn if it is proved that the accused has accepted or agreed C to accept any gratification, the same need not be proved through direct evidence- -Inferences drawn from facts produced or proved are akin to presumptions in law Evidence Act, 1872 Section 114. Words and Phrases - 'Shall be presumed' and 'proof' Meaning of--ln the context of Prevention of Corruption Act, 1988 -Section 20(/). Appellant was charged for offences under Section 7 and 13 (2) read with Section 13(1)(d) of the Prevention of Corruption Act, being caught red handed in a trap arranged by the officials of the Anti Corruption Bureau. Evidence of prosecution started after four years. PWI, from whom the E bribe was demanded and PW2, who was witness for the trap turned hostile and PWI for the first time stated that he had acted at the behest of K. Appellant in his written statement submitted that K bore grudge against him and therefore had organised false trap against him employing PWI and PW2. F Trial Court held that PWI and PW2 were won over by the appellant and hence convicted the appellant for the offence and ordered the two witnesses to be prosecuted for perjury. High Court concurred with the judgment of the Trial Court holding that from the rest of the evidence it was established that the appellant had accepted the amo",
+   "ours": "MADHU NARA YANA RAO v. STATE OF ANDHRA PRADESH AND ORS. SEPTEMBER 29, 2000 [K.T. THOMAS AND Y.K. SABHARWAL, JJ.] Prevention of Corruption Act, 1988-Section 20-Gratification-Received by public servant-Proof of-By inference-Permissibility of-Held, permissible. Words and Phrases : \"Presumption\"-Meaning of-In the context of Section 20 of the Prevention of Corruption Act, 1988. The appellant, Manager of a Milk Chilling Centre attached to Andhra Pradesh Dairy Development Co-operative Federation, was charged with offences under Sections 7 and 13(2) read with Section 13(l)(d) of the Prevention of Corruption Act, 1988. The prosecution case was that PW-1, a milk-transporting contractor, approached the appellant for taking prompt steps so as to enable him to get the money disbursed. But appellant demanded Rs.500 for sending the recommendation in favour of payment of the amount due to PW-1. PW-1 yielded to the demand but before handing over the money to the appellant lodged a complaint with the DSP of Anti Corruption Bureau. On the basis of the said complaint PW-7 (DSP) registered Ex.P-1 FIR and then made all arrangements for a trap to catch the corrupt public servant red handed. PW-1 brought the currency notes to the office of the ACB for making up the demanded bribe amount. The said currency notes were treated with phenolphthalein powder by or at the direction of PW-7 as preparation for the trap. PW-1 and the already arranged witness PW-2 together went to the house of the appellant. Wh",
+   "base": "**Headnote:**\n\nPrevention of Corruption Act, 1988 (Section 20); Legal presumption; Factual presumption; Direct evidence; Presumption of acceptance of gratification; Rebuttal of presumption; Reliance on earlier decision (Madhukar Bhaskarrao Joshi v. State of Maharashtra, JT 2000 (suppl.) SC 458).\n\n*Tathya:* In Vishwanath Narayan M. M. Rao v. State of Andhra Pradesh, the Supreme Court held that a legal presumption under Section 20 of the Prevention of Corruption Act, 1988 can be based on a factual presumption. The Court stated that when there is no direct evidence for establishing the primary fact, an inference drawn from other facts can be used as a premise for the compulsory presumption under Section 20. The Court rejected the appellant's argument that direct evidence is required to establish the acceptance of gratification, relying on its earlier decision in Madhukar Bhaskarrao Joshi v. State of Maharashtra. The Court upheld the findings of the trial court and the High Court that the appellant had received gratification, and hence, the legal presumption under Section 20 applied. The appeal was dismissed.\n\n*Held:* The legal presumption under Section 20 of the Prevention of Corruption Act, 1988 can be based on an inference drawn from other facts, provided the factual presumption is established. The Court held that the presumption of acceptance of gratification is compulsory once the premise of payment or acceptance of gratification is established. The Court also noted that the",
+   "rougeL_ours": 0.161,
+   "rougeL_base": 0.149
+  },
+  {
+   "key": "1969_2_635_648",
+   "title": "PUSHKAR MUKHERJEE & ORS.  versus THE STATE OF WEST BENGAL",
+   "court": "• A PUSHKAR MUKHERJEE & ORS. v • THE STATE OF WEST BENGAL November 7, 1968 B [J. C. SHAH, V. RAMASWAMI AND A. N. GROVER, JJ.] c Preventive Detention Act, s. 3(1)-\"Public order'', meaning of-Whether takes in assau!t on solitary individuals-One of the grounds ir-relevant or vague-If detention sustainable. Jn petitions for the writ of habeas corpus under Art. 32 of the Consti-tution for release from detention under orders passed under s. 3(2) of the Prevention of Detention Act, HELD : The reasonableness of the satisfaction of the detaining autho-rity cannot be questioned in a Court of law; the adequacy of the mate-rial on which the said satisfaction purports to rest also cannot be examined in a Court of law. But if any of the grounds furnished to the detenu are found to be irrelevant while considering the application of els. (i) to (iii) of s. 3(1) (a) of the Act and in that sense are foreign to the Act, the satisfaction of the detaining authority on which the order of detention is based is open to challenge and the detention order liable to be quashed. [640 H-641 CJ Even if any one of the grounds or reasons that led to the satisfaction was irrelevant, the order of detention would be invalid even if there were other relevant grounds, because it could never be certain to what extent the bad reasons operated on the mind of the authority concerned or whether the detention order would have been made at all if only one or two good reasons had been before them. Similarly, if some of t",
+   "ours": "• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •",
+   "base": "**Headnote:**\n\nP. Mukherjee v. West Bengal  \nSupreme Court of India  \n1969  \n[1969] 2 S.C.R. 636  \n\n**Vishay (Act, Section):**  \nPreventive Detention Act, 1950 (Act IV of 1950), Sections 3(2) and 10; Constitution of India, Article 22(1); Article 32  \n\n**Tathya:**  \nThe petitioners sought issuance of a writ of habeas corpus under Article 32 of the Constitution to challenge their detention under the Preventive Detention Act, 1950.  \n\n**Mudda:**  \nThe Court held that the detention orders against certain petitioners were illegal and ultra vires due to the failure to provide specific grounds for detention as required by law. The petitioners Pushkar Mukherjee, Barun Kumar Hore, Kartick Dey, Ajit Basak, Sk. Idris, Sham-suddin Khan, Khokan Mitra, and Ranjit Kumar Ghosal were granted relief. The petitioners Nos. 8, 9, and 21 were denied habeas corpus as no illegality was found in their detention orders.  \n\n**Held:**  \n1. The detention order against Pushkar Mukherjee and others was illegal and ultra vires because the grounds of detention were vague and did not comply with the procedure established by law.\n2. The orders of detention and subsequent confirmations by the State Government were illegal and ultra vires for the petitioners Barun Kumar Hore, Kartick Dey, Ajit Basak, Sk. Idris, Sham-suddin Khan, Khokan Mitra, and Ranjit Kumar Ghosal.\n3. No illegality was found in the detention orders of petitioners Nos. 8, 9, and 21, hence habeas corpus applications were rejected.\n\n**Relied on /",
+   "rougeL_ours": 0,
+   "rougeL_base": 0.139
+  },
+  {
+   "key": "S_2006_6_772_784",
+   "title": "RITESH CHAKARVARTI versus STATE OF MADHYA PRADESH",
+   "court": "A RITESH CHAKARVARTI v. ST ATE OF MAD HY A PRADESH SEPTEMBER 29, 2006 B (S.B. SINHA AND DAL VEER BHANDARI, JJ.] Narcotic Drugs and Psychotropic Substances Act, 1985-Sections 8, 42 & 50-Recovery of opium on receipt of secret information by Inspector-Raiding team included said Inspector besides another Inspector and a Sub-C Inspector-The Sub-Inspector apprehended the accused and conducted search-Witnesses to the search turned hostile-Both Inspectors not examined-Entire prosecution case resting on testimony of the Sub-Inspector-Conviction by Courts be/ow-Sustainability of-Held, not sustainable-Appel/ant was gravely prejudiced by non-examination of the O two Inspectors-Evidence of the Sub-Inspector inconsistent and full of contradictions in material particulars-Further material witnesses not examined-Appellant entitled to benefit of doubt as prosecution case not proved beyond all reasonable doubt. Inspector 'S' in the Central Bureau of Narcotics received secret E information and recorded the same as Ex P/16. Subsequently a raiding team was constituted which included Inspectors 'B' & 'S' and Sub-Inspector PWS. PWS apprehended Appellant-accused and conducted search on which opium weighing 1,300 Kgs was allegedly recovered. Inspector 'S' was not examined. Inspector 'B' too was not examined. Both PWl, an autorickshaw driver and PW2, owner of Pan shop in front of the Narcotics Bureau, who were witnesses F to the search, were declared hostile. The entire prosecution case rested on the ",
+   "ours": "RITESH CHAKRAVORTY v. STATE OF MADHYA PRADESH DECEMBER 15, 2006 [S.B. SINHA AND DAL VEER BHANDARI, JJ.] Narcotic Drugs and Psychotropic Substances Act, 1985: s. 50-Search and seizure-By police officers-Of accused-appellant-Conviction by courts below-On the basis of testimony of one police officer-Held: The prosecution case rests on the sole testimony of one police officer-There is nothing to show that he was competent to conduct the search-He was not examined by the prosecution-He was not declared hostile-He was not cross-examined by the defence-He was not examined by the trial court-He was not examined by the High Court-He was not examined by the Supreme Court-Therefore, the testimony of such a witness cannot be relied upon-Appellant is entitled to benefit of doubt. The appellant was arrested while he was proceeding to catch a bus. He was seen having a bag in his hand. The appellant was interrogated. He disclosed his name. He was given an option of search by a magistrate or a gazetted officer in terms of Section 50 of the Narcotic Drugs and Psychotropic Substances Act, 1985 or by the police officer. The search was conducted and opium weighing 1.300 kgs. was recovered. A currency note of Rs. 100 was also found on his person. The entire prosecution case rested on the testimony of one police officer. The informer in his statement named the appellant. The appellant was convicted and sentenced to undergo RI for life and to pay fine of Rs. 50,000/- u/s 8 of the Act. The conviction",
+   "base": "**Headnote:**\n\nNarcotics Drugs and Psychotropic Substances Act, 1985 (NDPS Act) - Section 50 - Search Conducted by Narcotics Department Officers - Presence of Independent Witnesses Required - Benefit of Doubt - Capital Sentence - State of Madhya Pradesh v. Ritesh Chakravorty, (2006) 6 SCC 776\n\n*Facts:*  \nAppellant was arrested based on an informant's tip-off that he would carry 15 kg of opium from Indore to Mhow. The search was conducted by Narcotics Department officers without the presence of independent witnesses, and the identity of the accused was not disclosed to the witnesses involved in the search.\n\n*Issue:*  \nWhether the search conducted by Narcotics Department officers without the presence of independent witnesses violated the provisions of Section 50 of the NDPS Act.\n\n*Held:*  \n1. The requirement of conducting a search in the presence of independent persons is a fundamental principle of criminal jurisprudence.\n2. The more serious the offense, the stricter the degree of proof required, and a higher degree of assurance is needed to convict the accused.\n3. The Court must move cautiously in cases involving capital sentences due to the gravity of the offense.\n4. Given the lack of independent witnesses and the failure to disclose the identity of the accused to the witnesses involved in the search, the benefit of doubt must be given to the accused.\n\n*Relied on/Disdained:*  \n1. State of Punjab v. Babir Singh, [1994] 3 SCC 299\n2. Mousam Singha Roy and Ors v. State of West Be",
+   "rougeL_ours": 0.164,
+   "rougeL_base": 0.161
+  },
+  {
+   "key": "2018_14_456_458",
+   "title": "OMVEER SINGH versus STATE OF UTTAR PRADESH & ANR.",
+   "court": "OMVEER SINGH v. STATE OF UTTAR PRADESH & ANR. (Criminal Appeal No. 1541 of 2018) DECEMBER 03, 2018 [ABHAY MANOHAR SAPRE AND INDU MALHOTRA, JJ.] Code of Criminal Procedure, 1973: s. 482 - Quashing of proceedings - Complaint filed against the appellant under ss.498A, 323, 376 IPC and ss. 3 and 4 of Dowry Prohibition Act, 1961 - Application for quashing of proceeding dismissed by High Court - On appeal, held: Single Judge of High Court quoted the principles of law laid down in several decisions relating to powers of the High Court under s.482 of the Code but did not refer to the facts of the case to appreciate the controversy of the case - Matter remitted to High Court for consideration afresh - Penal Code, 1860 - ss.498A, 323, 376 - Dowry Prohibition Act, 1961 - ss. 3 and 4. Allowing the appeal and remanding the matter to High Court, the Court HELD : The Single Judge ought to have first set out the brief facts of the case with a view to understand the factual matrix and then examined the challenge made to the proceedings in the light of the principles of law laid down by this Court with a view to record the findings on the grounds urged by the appellant as to whether any interference therein is called for or not. This exercise was not done by the High Court while passing the impugned order. [Paras 10 and 11][458-B-C]",
+   "ours": "JAGDISH PRASAD v. MAMTA & ORS. (Criminal Appeal No. 1414 of 2019) SEPTEMBER 16, 2019 [ABHAY MANOHAR SAPRE AND INDU MALHOTRA, JJ.] Code of Criminal Procedure, 1973 - s.482 - Application u/s.482 - Dismissed by High Court - On appeal, held: The Single Judge of High Court quoted the principles of law laid down by Supreme Court in several decisions relating to powers of the High Court on the issue of interference in cases filed u/s.482 CrPC from Para 2 to the concluding para but did not refer to the facts of the case to appreciate the controversy of the case - Thus, the factual matrix of the case could not be known after reading the impugned judgment - The Single Judge ought to have first set out the brief facts of the case with a view to understand the factual matrix and then examined the challenge made to the proceedings in the light of the principles of law laid down by Supreme Court with a view to record the findings on the grounds urged by the appellant as to whether any interference therein is called for or not - However, the aforementioned exercise was not done by the High Court while passing the impugned order - Therefore, the case is remanded to the High Court for its decision on merits. Remitting the matter to High Court, the Court HELD : 1. The Single Judge of High Court quoted the principles of law laid down by Supreme Court in several decisions relating to powers of the High Court on the issue of interference in cases filed under Section 482 of the Code of Criminal Pr",
+   "base": "**Headnote:**\n\n**Vishay:** Code of Criminal Procedure, 1973 (Section 482); Indian Penal Code, 1860 (Sections 498A, 323, 376); Dowry Prohibition Act, 1961\n\n**Tathya:** The appeal was filed against the dismissal of an application under Section 482 of the Code of Criminal Procedure, 1973 by the High Court of Judicature at Allahabad.\n\n**Mudda:** The appellant challenged the order dated 21/09/2017 and the entire proceedings in a complaint case under Sections 498A, 323, 376 of the Indian Penal Code and Sections 3 and 4 of the Dowry Prohibition Act.\n\n**Held:** \n1. The Supreme Court held that the High Court was not justified in dismissing the appellant's application under Section 482 of the Code.\n2. The Single Judge did not refer to the facts of the case to appreciate the controversy, instead only quoted legal principles without understanding the factual matrix.\n3. The Supreme Court directed the case be remanded to the High Court for a fresh decision on the merits, keeping in view the observations made in this order.\n4. The appeal is allowed, and the impugned order is set aside.\n\n**Relied on / Distinguished:** \n1. Several decisions of the Supreme Court on the powers of the High Court under Section 482 of the Code were relied upon.",
+   "rougeL_ours": 0.496,
+   "rougeL_base": 0.314
+  },
+  {
+   "key": "1997_1_1056_1079",
+   "title": "RAJENDRA KUMAR GUPTA AND ANR. versus STATE OF U.P. AND ORS.",
+   "court": ").-. , A RAJENDRA KUMAR GUPTA AND ANR. ),-. v. STATE OF U.P. AND ORS. FEBRUARY 10, 1997 - B [DR. A.S. ANAND AND S.B. MAJMUDAR, JJ.] Defence and Internal Security of India Act, 1971: Section 23. ...... \"t' Immovable property-Requisitioning of-Order requisitioning land is-c sued for U.P. ·State Handloom and Powerloom Finance and Development Corporation. Ltd. to enable it to nm a handloom showroom for promoting sale of handloom products manufactured by weavers working in rnral areas-Held: Requisitioning power could be exercised only in emergent situa-tions for the purposes set out in S.23--0rder of requisitioning could be issued D if it was found that but for such order the community would be deprived of supplies and services essential for its lif e---/n the circumstances of the case, ).. order ultra vires S.23. . lmmovable property--Requisitioning of-Order requisitioning land is- 'sued for U.P. State Handloom and Powerloom Finance Development Car-E poration Ltd. for opening handloom showroom--Held.· Could not be resorted to for any permanent public purpose but must be of limited duration com-mensurate with continuance of the emergent situation-After a passage of more than two decades such indefinite requisitioning was contrary to the scheme of S.23-lmmovable property-Requisitioning of-Order requisi-tioning land issued in 1976-Such order continued for more than two decades ... F when the Act ceased to operate and emergency withdrawn-Held: Such order ' amounted to acquisition by ",
+   "ours": "c RAM KISHORE GUPTA AND ORS. v. STATE OF U.P. AND ORS. MAY 1, 1996 [S.B. MAJMUDAR AND N.P. SINGH, JJ.] Defence and Internal Security of India Act, 1971 : Sections 23 and 30-Requisition of property-Validity of requisition order-Whether requisition order was validly passed under Section 23 of the Act-Whether requisition order had outlived its existence and its continuance any further would amount to colourable exercise of power and would be unreasonable-Whether the appellants had locus standi to challenge the said order. The appellants challenged an order dated 29th October 1976 passed by the second respondent, District Magistrate-cum-Competent Authority, Kanpur, requisitioning 777 sq. yards and 71/3 sq. ft. of lands comprising of plot Nos. 36 and 36-A situated on The Mall, Kanpur in exercise of the powers of the second respondent under Section 23 of Defence and Internal Security of India Act, 1971. The appellants were called upon by the said order to deliver by 15th November 1976 possession of the said immovable property to the Director, Handlooms and Managing Director of U.P. State Handloom and Power-loom Finance and Development Corporation Ltd., Kanpur, respondent no. 3. The appellants contended before the High Court that the purpose of requisition was dehors the provisions of Section 23 of the Act; that as it was a permanent purpose power of requisition under the Act would not be invoked for fructifying the said purpose and in any case such a requisition order could not con",
+   "base": "**Headnote:**\n\nR.K. Gupta v. State of Uttar Pradesh (S.B. MAJMUDAR, J.)  \nSupreme Court of India, 1987  \n(1987) 3 SCC 1063  \n\n**Vishay (Act, Section):**  \nDefence and Internal Security of India Act, 1971 (Section 23)  \n\n**Tathya:**  \n- Appellants challenged an order of requisition of lands under Section 23 of the Defence and Internal Security of India Act, 1971.\n- The High Court dismissed the writ petition challenging the requisition order.\n- The Supreme Court allowed the appeal, held the requisition order invalid, and directed the respondents to restore possession of the lands to the appellants.\n\n**Mudda:**  \n- The case involved a challenge to a requisition order issued under Section 23 of the Defence and Internal Security of India Act, 1971.\n- The appellants argued that the purpose of the requisition was beyond the scope of the Act and that the order had outlived its validity.\n- The respondents contended that the requisition was within the scope of the Act and that the lands were no longer under lease.\n- The Supreme Court held that the requisition order was invalid and directed the restoration of possession to the appellants.\n\n**Held:**  \n1. The impugned requisition order dated 29th October 1976 was not validly passed under Section 23 of the Defence and Internal Security of India Act, 1971.\n2. The appellants had locus standi to challenge the said order.\n3. The requisition order had outlived its existence and its continuance any further would amount to a colourable exercise ",
+   "rougeL_ours": 0.126,
+   "rougeL_base": 0.132
+  },
+  {
+   "key": "2013_7_45_68",
+   "title": "S. IYYAPAN versus M/S UNITED INDIA INSURANCE COMPANY LTD. AND ANOTHER",
+   "court": "S. IYYAPAN v. M/S UNITED INDIA INSURANCE COMPANY LTD. AND ANOTHER (Civil Appeal No. 4834 of 2013) JULY 1, 2013. [SURINDER SINGH NIJJAR AND M.Y. EQBAL, JJ.] MOTOR VEHICLES ACT, 1988: c ss.149 read with ss.146 and 147Insurer to satisfy awards against third party risk - Fatal accident - Held: It is the statutory right of a third party to recover the amount of compensation from the insurer - Insurer cannot disown its liability on the ground that although the driver was holding a licence to drive a light motor vehicle,it contained no endorsement to drive commercial vehicle - It is for the insurer to proceed against the insured for recovery of the amount in the event there has been violation of any condition of insurance policy - In the instant case, driver was holding a valid driving licence to drive light motor vehicle - Merely because he did not get any endorsement in the driving licence to drive the Maxi Cab, which is a light motor vehicle, High Court has committed grave error of law in holding that insurer is not liable to pay compensation because driver was not holding licence to drive commercial vehicle - Judgment of High Court set aside -- Insurer is liable to pay compensation awarded. The husband of respondent no. 2-claimant died as a result of the accident caused by a Maxi Cab. The Tribunal held that the driver possessing licence to drive light motor vehicle was entitled to drive the said Maxi Cab, and awarded compensation to be paid by the respondents before it. In the a",
+   "ours": "S. IYYAPAN v. UNITED INDIA INSURANCE COMPANY LTD. AND ANOTHER (Civil Appeal No. 1006 of 2009) FEBRUARY 17, 2009 [M.Y. EQBAL AND AFTAB ALAM, JJ.] Motor Vehicles Act, 1988 - ss. 94, 146, 147 and 149 - Compulsory insurance of motor vehicle - Right of victim to claim compensation - Driver of vehicle having licence to drive light motor vehicle - But no endorsement in the licence to drive light motor vehicle used as commercial vehicle - Held: The right of the victim of a road accident to claim compensation is a statutory one - The object of making the insurance compulsory is to protect the members of the community travelling in vehicles or using the roads from the risk attendant upon the user of motor vehicles on the roads - The insurer cannot disown its liability on the ground that although the driver was holding a licence to drive a light motor vehicle but before driving light motor vehicle used as commercial vehicle, no endorsement to drive commercial vehicle was obtained in the driving licence - In any case, it is the statutory right of a third party to recover the amount of compensation so awarded from the insurer - It is for the insurer to proceed against the insured for recovery of the amount in the event there has been violation of any condition of the insurance policy - In the instant case, the driver was holding a valid driving licence to drive light motor vehicle - Merely because the driver did not get any endorsement in the driving licence to drive the commercial vehicl",
+   "base": "**Headnote:**\n\nMotor Vehicles Act, 1939 (Act); Section 94; Right of Victim to Claim Compensation; Compulsory Insurance; Valid Driving License; Commercial Vehicle; Insurance Company's Liability\n\n**Tathya:**  \nIn the case of S. Iyyapan v. United India Insurance Company Ltd. and Another, the Supreme Court held that the right of the victim of a road accident to claim compensation is a statutory one, and the Parliament inserted relevant provisions in the Motor Vehicles Act to protect the victims of road accidents. The Court clarified that even if the driver of a vehicle is licensed to drive a light motor vehicle, the insurance company cannot disown its liability on the ground that the driver did not have an endorsement to drive a commercial vehicle. The Court held that the insurer is liable to pay compensation awarded to the victim's dependants, despite the absence of an endorsement in the driver's license, as the aim of the legislation is to protect the victims of road accidents and ensure they receive compensation.\n\n**Mudda:**  \n1. Leave granted.\n2. The right of the victim of a road accident to claim compensation is a statutory one.\n3. The Parliament inserted relevant provisions in the Motor Vehicles Act to protect the victims of road accidents.\n4. The insurance company cannot disown its liability on the ground that the driver did not have an endorsement to drive a commercial vehicle.\n5. The insurer is liable to pay compensation awarded to the victim's dependants.\n6. The aim of ",
+   "rougeL_ours": 0.332,
+   "rougeL_base": 0.206
+  },
+  {
+   "key": "2007_8_458_464",
+   "title": "B.S.GORAYA versus U.T. OF CHANDIGARH",
+   "court": "A B.S.GORAYA -~ v. U.T. OF CHANDIGARH JULY 23, 2007 B [DR. ARIJIT PASA YAT AND S.H. KAPADIA, JJ.] Prevention of Corruption Act, 1988-s. 19Sanction before ·x prosecution-Charge-sheet in terms of s. 13 (I) (e) rlw s. 13 (2)-Prior to c the date of registration of the case, accused was dismissed from the Government service-However he was reinstated later-Application for discharge-On !· the ground of non-compliance of provision of sanction uls 19, on the plea that in view of reinstatement, he is deemed io be in service on the relevant • date-Held: Accused cannot be deemed to be in service on the relevant date-Hence not entitled to protection uls 19-A deeming provision is D operative only for the purpose for which it has been created and not beyond that-Interpretation of Statutes-Legal Fiction. --r A charge-sheet was filed against the appellant by CBI u/s 13 (1) (e) r/w s. 13 (2) of Prevention of Corruption Act, 1988. After withdrawing his application u/s 482 Cr.P.C. for quashing the FIR, he filed an application u/s 227 Cr.P.C. for discharge. His case was that charge-sheet could not have been filed against him without obtaining requisite sanction as at the time of registration of the case he was in Army service. His plea was that though on the date when the charge-sheet was filed he was not in service due to his dismissal prior thereto, but in view of the fact that later he was reinstated, he F should be deemed to be in service during the relevant period. Special Judge held that pr",
+   "ours": "B.S. GORAYA v. UNION TERRITORY OF CHANDIGARH AND ORS. AUGUST 29, 2007 [DR. ARIJIT PASAYAT AND P. SATHASIVAM, JJ.] Prevention of Corruption Act, 1988-ss. 13(/)(e), 13(2), 19(3)-Charge sheet filed against appellant-Appellant was public servant at the time of registration of the case-Appellant was suspended and later dismissed from service-Appellant filed application for discharge stating that he was not in service on the date charge sheet was filed-Held: Appellant was not in service on the date charge sheet was filed-Appellant was not entitled to protection of s. 19(3) of the Act-Code of Criminal Procedure, 1973-s. 482. Appellant was a public servant. He was suspended and later dismissed from service. Charge sheet was filed against him by CBI. Appellant filed application for discharge stating that he was not in service on the date charge sheet was filed. Trial Court held that appellant was not in service on the date charge sheet was filed. High Court upheld the order of trial court. Hence the present appeal. Dismissing the appeal, the Court HELD: 1.1. In view of the definition of 'public servant' in Section 2(c) of the Prevention of Corruption Act, 1988, the appellant was a public servant at the time of registration of the case. The appellant was suspended and later dismissed from service. The appellant was not in service on the date charge sheet was filed. The appellant was not entitled to protection of Section 19(3) of the Act. [Paras 6, 7) [462-G-H; 463-A-B] 1.2. The deeming",
+   "base": "**Headnote:**\n\nPrevention of Corruption Act, 1988 (Act), Section 19(3); Public Servant; Deeming Fiction; Absence of Sanction; High Court Order Upheld\n\n*Vishay*: Prevention of Corruption Act, 1988 (Act), Section 19(3)\n\n*Tathya*: The appellant challenged the order of the learned Special Judge and the High Court dismissing his revision petition, which decided to frame charges against him under the Prevention of Corruption Act, 1988 (Act).\n\n*Mudda*: The appellant argued that he was a public servant until his dismissal from service, and thus, the prosecution against him was invalid due to the absence of the required sanction under Section 19(3) of the Act. He relied on the case of State of U.P. v. Mohammad Nooh, AIR (1958) SC 86, to support his argument.\n\n*Held*: \n1. The Court held that the appellant was not a public servant at the time the charge sheet was filed, as he was already dismissed from service.\n2. The Court rejected the appellant's reliance on the case of State of U.P. v. Mohammad Nooh, AIR (1958) SC 86, as it did not apply to the facts of the present case.\n3. The Court noted that the deeming fiction should be confined to the purpose for which it is intended, and the appellant's argument was not valid.\n4. The Court upheld the order of the High Court, rejecting the appellant's plea based on the absence of sanction under Section 19(3) of the Act.\n\n*Relied On/Distinguished*: \n1. Kalicharan Mahapatra v. State of Orissa, [1998] 6 SCC 41\n2. Prakash Singh Badal and Anr. v. Sta",
+   "rougeL_ours": 0.299,
+   "rougeL_base": 0.22
+  },
+  {
+   "key": "2008_3_287_308",
+   "title": "CHANDRA PRAKASH SINGH & ORS. versus CHAIRMAN, PURVANCHAL GRAMIN BANK & ORS.",
+   "court": "-t CHANDRA PRAKASH SINGH & ORS. v. CHAIRMAN, PURVANCHAL GRAMIN BANK & ORS. (Civil Appeal No.1495 of 2008) FEBRUARY 22, 2008 [P.P. NAOLEKAR & LOKESHWAR SINGH PANTA, JJ.] Regional Rural Banks Act, 1976 : s.29 - Malafide and arbitrariness - Burden to prove - Result of written test for post of officer in Gramin Bank challenged by unsuccessful c candidates on the ground of pias and ma/a tides by the then Chairman of Bank - High Court ordered State Government to conduct inquiry - Inquiry committee submitted report regarding improper functioning of Bank - High Court dismissed ·-I writ petition - On appeal, held: Inquiry ordered to be conducted by State Government in regard to mismanagement and other irregularities of Bank, was ex pa rte without giving any intimation to the Board of Directors of the Bank - State Government ex facie does not exercise any control over the Gramin Bank as it is governed by the policies of Central Government under E s. 29 - Also examining body not made party in writ petition - Burden of proving bias is heavy on the person who alleges it-No specific and definite real danger of bias has been made to , indicate how Chairman was in a position to influence or Jo.- manipulate the result of the written test - Hence, interference with the order of High Court not warranted. The respondent Gramin Bank was constituted under s.3 of the Regional Rural Banks Act, 1976. In the year 2001, 47 posts of Scale II officer and 16 posts of Scale I officer were required to be fi",
+   "ours": "CHANDRA P. SINGH & ORS. v. CHAIRMAN, PURVANCHAL GRAMIN BANK & ORS. (Civil Appeal No. 2654 of 2008) MAY 13, 2008 [LOKESHWAR SINGH PANTA AND HARJIT SINGH BEDI, JJ.] Service Law: Appointment to the post of Scale II Officer and Scale I Officer - By promotion - Held: Selection of candidates to be made by the Committee on the basis of written test, interview and Performance Appraisal Report - Chairman of the Bank was authorized to send the answer books to the examining body - Appellants had failed to qualify the test - They cannot be permitted to allege wholly unfounded, irresponsible and uncalled for allegations of favoritism or mala fide against the Chairman - Regional Rural Banks (Appointment and Promotion of Officers and Other Employees) Rules, 1998 - Third Schedule - Clauses 2 and 3. Appellants filed a writ petition before High Court for quashing of the test held on 18.08.2002 on the ground that the test was conducted by the then Chairman of the Gramin Bank, in spite of the fact that his real brother and cousin were also the candidates for promotion to the post of officer Scale I. The High Court dismissed the writ petition. Hence the present appeal. Dismissing the appeal, the Court HELD: 1.1. The appellants have been given fair treatment in the written test held by the Institute but as they had failed to qualify the test, they, on any legitimate ground, cannot be permitted to allege wholly unfounded, irresponsible and uncalled for allegations of favoritism or mala fide against",
+   "base": "**Headnote:**\n\n**Act:** Regional Rural Banks Act, 1976  \n**Section:** 6(2), 29, 17, 3  \n**Case:** Vishay (Act, section), tathya, mudda, Held:  \n**Held:** The High Court's decision to dismiss the writ petition challenging the conduct of a written examination for promotion to officer scales in a Regional Rural Bank is upheld. The Court found no evidence of malpractice or favoritism by the Chairman of the Gramin Bank who oversaw the examination. The appellants' allegations of corruption and financial irregularities were unsubstantiated. The Court held that the appellants' failure to qualify the examination precludes them from alleging favoritism or mala fide.  \n**Relied on/Distinguished:** None specifically mentioned in the judgment.",
+   "rougeL_ours": 0.198,
+   "rougeL_base": 0.062
+  },
+  {
+   "key": "2014_11_597_604",
+   "title": "MALLELLA SHYAMSUNDER versus STATE OF ANDHRA PRADESH",
+   "court": "• [2014] 11 S.C.R. 597 MALLELLA SHYAMSUNDER v. STATE OF ANDHRA PRADESH (Criminal Appeal No. 1381 of 2011) OCTOBER 29, 2014 [VIKRAMAJIT SEN AND KURIAN JOSEPH, JJ.] Penal Code, 1860 - ss.302 and 498A - Death of married woman due to burn injuries - Allegation that appe!lant-husband had beaten her and set her on fire after pouring kerosene - Further a/legation that on account of non-payment of balance of the promised dowry, deceased was being ii/- treated and harassed by appellant-husband and his mother - Conviction of appellant - Justification - Held: Justified - Dying declarations made by the deceased before police official and Judicial Magistrate were confidence bearing, truthful, consistent and credible - Same corroborated by evidence of PWs-1 to 3; injuries noted in the post-mortem report and indifferent conduct of the appellant - Offence of murder clearly made out. Dismissing the appeal, the Court HELD:1. Exhibits-PS and P10 - dying declarations are confidence bearing, truthful, consistent and credible. Though no corroboration is necessary, yet, there is evidence of PWs-1 to 3 to whom also, the deceased is said to have narrated the incident. Significantly, the antemortem dermo epidermal burns are over lower half of face, neck and then down the body to the legs. If one is to pour kerosene on oneself, it is the normal human conduct to pour it over the head, and in any case, not to pour it on the face sparing the head. The indifferent conduct of the appellant, as spoken about ",
+   "ours": "MALLELLA SHYAMSUNDER v. STATE OF ANDHRA PRADESH (Criminal Appeal No. 1151 of 2003) JULY 14, 2011 [K.S. RADHAKRISHNAN AND KURIAN JOSEPH, JJ.] Penal Code, 1860: s. 302 - Murder - Conviction based on dying declaration - Held: The dying declaration was reliable - The deceased was in a fit state of mind and had the opportunity to identify the assailant - The deceased was subjected to harassment and ill-treatment by the accused persons on account of non-payment of dowry - The deceased was beaten and set on fire by the accused - The injuries noted in the post-mortem report were consistent with the manner of death - The indifferent conduct of the accused in not taking prompt action to move the deceased to the hospital was also a situation to be taken note of - The theory of suicide put forward by the accused was not acceptable - Setting fire on another person after pouring kerosene is an act likely to cause death of such person - It is a matter of simple and common knowledge that in the process, the victim is likely to suffer death on account of the burns - Therefore, the offence of murder is complete - Conviction of accused u/s. 302 affirmed. Evidence: Dying declaration - Reliability of - Discussed. The appellant-accused was prosecuted for committing murder of his wife. The prosecution case was that the deceased was subjected to harassment and ill-treatment by the appellant and his mother on account of non-payment of dowry. On the fateful day, the appellant sent the deceased out of ",
+   "base": "**Headnote:**\n\nDying Declaration, Admissibility, Nemo Moriturus Praesumitur Mentire, Section 302 of the Indian Penal Code (IPC), Evidence, Reliability, Mallella Shyamsunder v. State of Andhra Pradesh, 2003 (6) SCC 603\n\n**Held:**  \n1. The Court upheld the admissibility of dying declarations under the principle of \"nemo moriturus praesumitur mentire,\" emphasizing that a dying declaration is made in extremis and when the declarant is at the point of death.\n2. The Court noted that while dying declarations are generally accepted, they must be carefully evaluated for reliability and authenticity, considering various factors such as the circumstances of the declaration, the presence of external influences, and the physical condition of the declarant.\n3. The Court rejected the appellant's defense of suicide and upheld the conviction under Section 302 of the IPC, finding that the evidence, including the dying declarations, established that the appellant poured kerosene on the deceased and set her on fire, causing her death by burns.\n4. The Court dismissed the appeal, affirming the conviction and sentence of the appellant.\n\n**Relied on/Referred to:**  \n1. Laxman v. State of Maharashtra, (1986) 3 SCC 455\n2. Section 302 of the Indian Penal Code (IPC)\n3. Section 60 of the Indian Evidence Act, 1872",
+   "rougeL_ours": 0.329,
+   "rougeL_base": 0.186
+  },
+  {
+   "key": "2022_10_190_197",
+   "title": "BHURI BAI versus THE STATE OF MADHYA PRADESH",
+   "court": "BHURI BAI v. THE STATE OF MADHYA PRADESH (Criminal Appeal No.1972 of 2022) NOVEMBER 11, 2022 [DINESH MAHESHWARI AND SUDHANSHU DHULIA, JJ.] Code of Criminal Procedure, 1973: s. 439(2) - Cancellation of bail - Power of - Held: Power of cancellation of bail should be exercised with extreme care and circumspection - Such cancellation cannot be ordered merely for any perceived indiscipline on the part of the accused before granting bail - Very cogent and overwhelming circumstances or grounds are required to cancel the bail already granted - Unless a strong case based on any supervening event is made out, an order granting bail is not to be lightly interfered with - Cancellation is envisaged only in such cases where the liberty of the accused is going to be counteracting the requirements of a proper trial of the criminal case - On facts, it had not been the case of the prosecution that the appellant had misused the liberty or had comported herself in any manner in violation of the conditions imposed on her, thus, the order setting aside the bail granted to the appellant cannot be approved, and is set aside. Allowing the appeal, the Court HELD: 1.1 In the peculiar circumstances of the case, particularly for the fact that the deceased left a minor child and none except the appellant was available in the family to look after the child, it is equally difficult to say that the appellant has been an absconder or a fugitive who had been intentionally running away from the process of law. ",
+   "ours": "SMT. KAMLESH DEVI v. STATE OF MADHYA PRADESH (Criminal Appeal No. 134 of 2023) JANUARY 13, 2023 [ABHAY S. OKA AND DINESH MAHESHWARI, JJ.] Code of Criminal Procedure, 1973 - s.439(2) - Cancellation of bail - Appellant was one of the accused persons in the case arising from FIR No. 96/2020 for offences u/ss. 304B, 498A r/w s.34 IPC and ss.3/4 of the Dowry Prohibition Act, 1961 - Appellant's son was the husband of the deceased - Appellant surrendered only on 16.07.2021; and a supplementary chargesheet was also filed on 02.08.2021 - Regular bail application (No. 357/2021) moved on behalf of the appellant was considered by the Sessions Court and was allowed on 05.08.2021, essentially with reference to the facts pertaining to the grant of pre-arrest bail to two of the co-accused persons and regular bail to the other co-accused-husband of the appellant - Son of the appellant moved a second application for bail before the High Court - High Court took exception against the order dated 05.08.2021, for the reason that the Trial Court had not adverted to a relevant fact that the present appellant was absconding and was arrested only on 16.07.2021 - Though, with reference to the nature of accusations, the High Court proceeded to reject the bail plea of the son of the appellant (husband of the deceased) but at the same time, ordered a separate case to be registered while issuing notice to the present appellant to show-cause as to why the bail order dated 05.08.2021 be not recalled - Appell",
+   "base": "**Headnote:**\n\nSupreme Court of India  \n**Nidhi Jain v. State of Madhya Pradesh**  \nCase No.: Civil Appeal No. 1234/2022  \nJudgment Date: [Insert Date]  \nDelivered By: Dinesh Maheshwari, J.\n\n**Vishay (Act, Section):**  \nCode of Criminal Procedure, 1973 (CrPC), Sections 439(2)\n\n**Tathya:**  \nThe appellant, Nidhi Jain, was granted bail by the First Additional Sessions Judge, Jaura, District Morena, in the order dated 05.08.2021. The High Court of Madhya Pradesh, in suo motu proceedings, cancelled the bail on the grounds that the Trial Court had not considered the fact that the appellant was absent for a long period. The Supreme Court held that the cancellation of bail under Section 439(2) CrPC requires cogent and overwhelming circumstances, and the High Court's decision was set aside.\n\n**Mudda:**  \nThe appellant was one of the accused in a case involving the death of the deceased under Sections 304B, 498A, and 3/4 of the Indian Penal Code, 1860, and the Dowry Prohibition Act, 1961. The High Court cancelled the bail granted by the Trial Court on the grounds that the appellant was absent for a long period. The Supreme Court held that the cancellation of bail under Section 439(2) CrPC is not to be lightly interfered with and requires strong and compelling reasons.\n\n**Held:**  \n1. The High Court's cancellation of the bail granted by the Trial Court under Section 439(2) CrPC was not justified as the Trial Court had not considered the fact that the appellant was absent for a long per",
+   "rougeL_ours": 0.21,
+   "rougeL_base": 0.253
+  },
+  {
+   "key": "1987_2_164_178",
+   "title": "CATERING CLEANERS OF SOUTHERN RAILWAY ETC. versus UNION OF INDIA & ORS. ETC.",
+   "court": "CATERING CLEANERS OF SOUTHERN RAILWAY ETC. v. UNION OF INDIA & ORS. ETC. FEBRUARY 4, 1987 B [O. CHINNAPPA REDDY AND V. KHALID, JJ.] \"Labour only contracting\" or \"Inside contracting system\" adopted by the Southern, South Central and South Eastern Railways in respect of catering cleaners while the other units of the Indian Railway have abolished it-Whether a writ of mandamus lie in a petition under Article 32 of the Constitution compelling the primary employees to C abolish the practice in the light of the provisions of s.10 of the Contract Labour (Abolition and Regulation) Act, 1970-The Contract Labour (Abolition and Regulation) Central Rules, 1971, section 25(ii)(iv) and 25(ii)(v)(a) and (b). D More than a quarter of a century ago, in the Standard Vacuum Refining Company v. Its Workmen, [ !960) 3 SCR 466 the Supreme Court affirmed the direction of the Industrial Tribunal for the abolition· of the contract system of labour. As a result thereof, the Contract Labour (Abolition and Regulation) Act came to be passed, \"to regulate the employment of contract labour in certain establishments and to E provide for its abolition in certain circumstances and for matters con-nected therewith\". The Central Government, in exercise of its powers conferred by section 35 of the Act, has made the Contract Labour (Abolition and Regulation) Central Rules, 1971. Section 10 of the Act empowers the appropriate Government to prohibit by notification in the Official Gazette, employment of contract lab",
+   "ours": "A CENTRAL RAILWAY AND ORS. v. UNION OF INDIA AND ORS. FEBRUARY 19, 1987 B [O. CHINNAPPA REDDY AND MURARI MOHON DUTT, JJ.] Contract Labour (Regulation and Abolition) Act, 1970-S.10(1)-C Catering cleaners employed under contract system in Southern Railway-Whether entitled to be absorbed as regular employees of the Railway-Whether entitled to the service benefits presently available to other categories of employees in the Railway. The petitioner, described as 'catering cleaners of Southern Railways', filed a writ petition in this Court claiming that they were working in the catering establishments in various railway junctions of the Southern Railway and in the pantry cars of long distance trains running under the control of the Southern Railway and that they were not even paid minimum wages. They were paid a pittance averaging from Rs.2.00 to Rs.2.50 per day. Although the contract system had been abolished in almost all the other Railways, the Southern Railway persisted in employing contract labour for cleaning its catering establishments and pantry cars. The petitioner sought a direction to the respondents to exercise their powers under section 10(1) of the Contract Labour (Regulation and Abolition) Act, 1970 and to abolish the contract system in respect of catering cleaners in the Southern Railway and further to direct the respondents to regularise the services of the existing catering cleaners employed in the catering establishments at various junctions and in the pantry cars",
+   "base": "**Headnote:**\n\nContract Labour (Regulation and Abolition) Act, 1970 (Act 10 of 1971), Section 10  \nFact: Petitioners, catering cleaners employed by Southern Railway, sought abolition of contract system and regularisation of their services.  \nMatter: Writ petition under Article 32 of the Constitution challenging the employment of contract labour for cleaning work in catering establishments and pantry cars of Southern Railway.  \nHeld: \n1. The Court directed the Southern Railway to consider abolishing the contract labour system and regularising the services of the catering cleaners.\n2. The Court directed the Southern Railway to ensure payment of minimum wages to the catering cleaners.\n3. The Court directed the Central Government to take appropriate action under Section 10 of the Contract Labour (Regulation and Abolition) Act, 1970, within six months, to prohibit the employment of contract labour in the work of cleaning catering establishments and pantry cars in the Southern Railway.\n4. The Southern Railway administration was directed to refrain from employing contract labour until the Central Government's decision and to continue employing the current workers on the same terms and conditions as in the Western Railway.\n5. If the Central Government does not decide within six months, the Southern Railway administration will absorb the workmen into their service and regularise their services within three months thereafter.\nRelied on: None.  \nDistinguished: None.",
+   "rougeL_ours": 0.226,
+   "rougeL_base": 0.235
+  },
+  {
+   "key": "S_1995_2_869_875",
+   "title": "NAMDEO versus COLLECTOR, EAST NEEMAR, KHANDWA AND ORS.",
+   "court": "-'. NAMDEO v. COLLECTOR, EAST NEEMAR, KHANDWA AND ORS. AUGUST 22, 1995 (K. RAMASWAMY AND B.L. HANSARIA, JJ.} M.P. Samaj Ke Kamjor Wa1gon ke Krishi Bhumidharankon Ka Udhar Dene Walon Ke Bhumi Hadapane Sambandhi Kuchakron Se Paritran Tatha Mukti Adhiniyam, 1977: Sections 2(a), (c), 4, 6(4) and 7. \"Holder of Agricultural Land'!._..Weaker .Section-Obtaining of loan-Sale of land for-Prohibited transaction-On facts held transaction was prohibited and thus void-Extent of land covered by prohibition-Power of authorities to declare prohibited transaction as void-Compliance with statutory requirement. Retrospective operation of Ac~Agreement to sell before coming into force of the Act-Documents purporting to be sale deed not intended to be a conveyance-Act held applicable to such a transaction. c R, owner of certain lands obtained loan from L, a money lender, by oral mortgage of his land in 1964. L got the sale-deed executed in favour of his son D who later sold the land in question to the appellant. On the application of the original owner the Sub-Divisional Officer found tha~ it was not a transaction of real sale but of prohibited loan because even after several years of the transaction the original owner was in possession of the disputed land. Consequently, an order was passed declaring that the initial sale as well as subsequent sale-deed by D in favour of the appellant was void under the provisions of the 1977 Adhiniyam and accordingly directed the appellant to deliver possession o",
+   "ours": "NAMDEO v. COLLECTOR AND ORS. SEPTEMBER 19, 1995 [K. RAMASWAMY AND SUHAS C. SEN, JJ.] Land Reforms: M.P. Samaj Ke Kamjor Wargon Ke Krishi Bhumidharakon Ka Udhar Dene Walon Ke Bhumi Hadapane Sambandhi Kuchakron Se Paritran Tatha Mukti Adhiniyam, 1971: Sections 2(c), 2(a), 6, 7(1)(a) and 7(1)(b). Moneylender-Mortgage of land-Subsequent sale-Transaction held to be prohibited transaction of loan-Order of Tribunal declaring the sale void and directing delivery of possession of land to the original owner-Validity of-Held, valid. Sections 6(1), 6(2), 6(3) and 6(4)-Provisions of-Applicability of-Transaction held to be prohibited transaction of loan-Order of Tribunal declaring the sale void and directing delivery of possession of land to the original owner-Whether authorities are required to go into the questions envisaged in sub-section (2) and other follow-up action mentioned in sub-section (4) of section 6-Held, yes. Constitution of India, 1950: Article 226-Administrative Law-Declaratory relief-Grant of-Conditions precedent-Held, there must be a legal right vested in the party seeking the relief and there must be a violation of a legal duty owed by the State to the party. The appellant purchased the land in dispute from D, who was the son of L, a moneylender. L had obtained loan from R, the original owner of the land by an oral mortgage of 12 acres and 20 gunthas of land. L had delivered 4 acres and odd and got the sale deed executed for 8 acres 30 gunthas of the land in the name of",
+   "base": "**Headnote:**\n\nIn **M.P. Samaj Ke Kamjor Wargon Ke Krishi Bhumidharakon Ka Udhar Dene Walon Ke Bhumi Hadapane Sam-bandhi Kuchakron Se Paritran Tatha Mukti Adhiniyam (Act)**, the Supreme Court held that:\n\n1. The **Act** applies to the sale transaction even though it was executed in 1974, as the document purported to be a sale deed of 1964 was intended as a mortgage deed.\n2. The **Act** is not limited to sale transactions from the appointed date (January 1, 1971) but can apply to transactions that were intended to be loans.\n3. The **Act** applies to the sale deed executed in 1974 as the rights, titles, and interests in the land stood extinguished only after the execution and registration of the sale deed.\n4. The **Sub-Divisional Officer** was not required to consider and record findings under **Section 6(4)** of the **Act** as the transaction was found to be a prohibited transaction of loan.\n5. The **Sub-Divisional Officer** was correct in declaring the transaction void and restoring possession to the original owner under **Section 7(1)(a)** of the **Act**.\n\n**Relied on/ Distinguished:**  \n- **Section 2(c)** of the **Act** defining \"holder of agricultural land.\"\n- **Section 7(1)(a)** of the **Act** regarding the declaration of a transaction as void.\n- **Section 7(1)(b)** of the **Act** regarding the payment of the difference of price.\n- **Section 6(4)** of the **Act** regarding the conditions for restoration of possession.",
+   "rougeL_ours": 0.223,
+   "rougeL_base": 0.215
+  },
+  {
+   "key": "2013_5_924_944",
+   "title": "SUNIL KUNDU AND ANR. versus STATE OF JHARKHAND",
+   "court": "[2013) s s.C.R. 924 SUNIL KUNDU AND ANR. v. STATE OF JHARKHAND (Criminal Appeal No. 1073 of 2008) APRIL 9, 2013 [AFTAB ALAM AND RANJANA PRAKASH DESAI, JJ.] Penal Code, 1860 - s. 302134 - Murder - Prosecution for - Conviction by Courts below - Held: In view of serious C lapses in the case, prosecution case not proved beyond reasonable doubt - Hence, the accused are liable to be acquitted. Criminal Jurisprudence - Prosecution must stand or fall 0 on its own - If it has not proved its case beyond reasonable doubt, it cannot draw support from weakness of the defence case. Investigation - Defective investigation - Effect of - Held: Lapses and i\"egularities in investigation, if they do not go to E ..,)he root of the matter, if they do not dislodge the substratum ' of prosecution case, they can be ignored - In the present case, lapses, being serious, cannot be ignored. Witness - Interested witness - Evidentiary value - Held: F Evidence of interested witness, if consistent, can be relied upon and not to be mechanically over-looked - In the present case, the interested witnesses, not being truthful, their presence itself being doubtful, cannot be relied upon. Criminal Trial - Direct evidence and medical evidence G - Inconsistency between \"\"'.\" Effect ofHeld: Where eye-witness is cogent, medical evidence recedes in background - But when eye-witness account is totally inconsistent with medical evidence, there is reason to believe that improvements are H 924 . SUNIL KUNDU AND ANR. v. STA",
+   "ours": "(2012] 1 S.C.R. 925 SUNIL KUNDU AND ANR. v. STATE OF JHARKHAND (Criminal Appeal Nos. 181-185 of 2009) JANUARY 13, 2012 [RANJANA PRAKASH DESAI AND H.L. GOKHALE, JJ.] PENAL CODE, 1860: s.302 r/w s.34 - Murder - Conviction by courts below - HELD: The evidence of eye-witnesses does not inspire confidence - Undoubtedly, a grave suspicion is created about the involvement of the accused in the offence of murder - It is well settled that suspicion, however strong, cannot take the place of proof - In such a case, benefit of doubt must go to the accused - In the circumstances, the impugned judgment and order passed by courts below are set aside - Accused acquitted - Evidence - Appreciation of - Investigation - Lapses in. The appellants were prosecuted for offences punishable u/s 302 r/w s.34 IPC and u/s 27 of the Arms Act, 1959. The prosecution case was that on the day of occurrence, when the deceased was riding a motorcycle alongwith PW-3 and PW-6, the appellants started pelting stones on them, resulting in imbalance of the motorcycle. The appellants attacked the deceased with knife and bhujali and also fired at him. PW-3 was assaulted with an iron rod. PW-6 ran to the police station and informed about the incident. The appellants were charged and tried for the offences. The trial court convicted the appellants u/s 302 r/w s.34 IPC and sentenced them to life imprisonment. However, they were acquitted of the charges u/s 201 r/w s.34 IPC and u/s 27 of the Arms Act. The High Court upheld",
+   "base": "**Headnote:**\n\nSupreme Court of India  \nKundu v. State of Jharkhand, (2011) 11 SCC 754\n\n**Vishay (Act, Section):**  \nIndian Penal Code, Sections 302, 201, 34; Arms Act, Section 27; Evidence Act\n\n**Tathya:**  \nThe appellants were convicted for the murder of Suresh Yadav under Sections 302 and 34 of the Indian Penal Code and sentenced to life imprisonment. They appealed against their conviction to the High Court of Jharkhand, which confirmed the conviction. The Supreme Court, after examining the evidence and the conduct of the investigation, quashed the conviction and set the appellants free.\n\n**Mudda:**  \nThe case revolves around the murder of Suresh Yadav by the appellants. The prosecution presented evidence through several witnesses, while the appellants presented an alibi defense and challenged the reliability of the prosecution witnesses. The Supreme Court, while affirming the importance of proper investigation, found significant lapses in the investigation process, including the non-submission of seized articles to the forensic science laboratory and the absence of detailed records. These lapses, coupled with the unreliability of some prosecution witnesses, led the Supreme Court to quash the conviction and release the appellants.\n\n**Held:**  \n1. The Supreme Court held that the lapses in the investigation cannot be ignored if they displace the foundation of the prosecution case.\n2. The evidence of eye-witnesses was found to be unreliable, creating a grave suspicion about t",
+   "rougeL_ours": 0.134,
+   "rougeL_base": 0.137
+  },
+  {
+   "key": "1969_1_405_411",
+   "title": "KUMAR SHREE DIGBIJAYSINHJI versus NANJISAVDAS & ORS.",
+   "court": "·G KUMAR SHREE DIGBIJAYSINHJI V. NANJISA VDAS & ORS. July 23, 1968 [R. S. BACHAWAT and K. S. HEGDE, JJ.J Saurashtra Land Reforms Act, 1951 (Act 25 of 1951). 18, 19-- Grant of land by former ruler of 1nerged State recognised by Government of India on condition that grantee would not be entitled ilo evict tenants-Such condition whether a right or privilege of the tenant within the meaning of s. 18-Grantee dectared by State Government notification to be a Girasdar subject to s. l S-Such Girasdar whether can file application under s. 19 for allotment of land for self-eultivation after eviction of tenants. In 1947 the Ruler of Virpur State in Saurashtra granted certain agri-cultural lands to the appellant. Later these lands were exchanged for others. In 1948 the administration of Virpur State was assumed by the United State of Saurashtra. The Saurashtra Government questioned the grant but the Government of India at a conference with the Ruler recog-nised it as having been lawfully made to the appellant, with the condition that he would not evict the tenants from the lands. The arrangement was set out in a letter dated November 2, 1949 from the Political Department Of the Government of India to the Rev·~nue Department, United State of Saurashtra. Though the appellant was not a patty to the arrangement he was aware of and accepted the arrangem·ent and the conditions upon which his grant was confirmed by the Government of India. The Saurashtra Land Reforms Act came into effect on Sep",
+   "ours": "DIGVlJAY SINHJI v. NANJISAVDAS & ORS. August 26, 1969 [J. M. SHELAT AND R. S. BACHAWAT, JJ.] Saurashtra Land Reforms Act (25 of 1951), ss. 18, 19, 20, 30 and 50-Conditions imposed by Government on Girasdar-Appellant Girasdar applying for allotment of land for personal cultivation-Whether could seek to evict tenants in contravention of conditions. On February 17, 1948 the appellant was granted certain lands in Kharcdi, Saurashtra. The grant was recorded in the \"Hak Patrak\" of the State. On March 8, 1948 the administration of the State was assumed by the United State of Saurashtra. The grant to the appellant was questioned by the Saurashtra Government. Thereafter at a conference called the Jamnagar Conference, it was arranged between the ruler of the State and the Government of India that the lands in Kharcdi should be regarded as lawfully granted to the appellant subject to the condition that the grantee would not evict the cultivators from the land. The arrangement was set out in a letter dated November 2, 1949 from the Officer on Special Duty (Integration) Political Department, to the Secretary, Revenue Department, United State of Saurashtra. The letter stated that though the grant was an exchange, it was acceptable after verification regarding reasonableness of the exchange. It having been decided on enquiry that the exchange was reasonable, the grant was accepted subject to the liability of the grantee (a) to pay 121% as assessment (b) to see that no cultivator shall be ev",
+   "base": "**Headnote:**\n\nSaurashtra Land Reforms Act, 1951 (Act No. XXV of 1951) - Interpretation of Conditions Imposed on Grant of Agricultural Lands - Rights of Tenants Under Sec. 18 - Competence of Mamlatdar to Pass Order Allotting Land for Personal Cultivation - Sec. 19 of the Act - Applicability of Conditions Imposed by Government - Held: The conditions imposed by the Government on the grant of agricultural lands to the appellant under a letter dated November 2, 1949, enured for the benefit of the tenants under Sec. 18 of the Saurashtra Land Reforms Act, 1951. The appellant, being a Girasdar, was subject to the provisions of Sec. 18 and could not seek to evict tenants in contravention of the conditions imposed by the Government. The Mamlatdar and the High Court correctly dismissed the appellant's application under Sec. 19. **Relied on:** *Saurashtra Land Reforms Act, 1951* (Act No. XXV of 1951); *Sec. 18, 19, 20, 30, 32* of the Act.",
+   "rougeL_ours": 0.248,
+   "rougeL_base": 0.17
+  },
+  {
+   "key": "2018_11_448_454",
+   "title": "STATE ROAD TRANSPORT CORPORATION, JAIPUR versus SHRI PHOOL CHAND(DEAD) THROUGH LRS.",
+   "court": "RAJASTHAN STATE ROAD TRANSPORT CORPORATION, JAIPUR v. SHRI PHOOL CHAND(DEAD) THROUGH LRS. (Civil Appeal No.1756 of 2010) SEPTEMBER 20, 2018 [ABHAY MANOHAR SAPRE AND S. ABDUL NAZEER, JJ.] Service Law - Payment of back wages - Appellant-Corporation dismissed workman from the service on the ground of dereliction of duties - Labour Court directed reinstatement of the workman in service with award of full back wages - High Court upheld the award passed by the Labour Court - On appeal, held: The Courts below completely failed to see that the back wages could not be awarded by the Court as of right to the workman consequent upon setting aside of his dismissal/termination order - The Court is required to consider several factors which have been discussed elaborately in the various judgments of the Supreme Court and then record a finding as to whether it is a fit case for award of the back wages and, if so, to what extent - In the instant case, neither the Labour Court nor the High Court kept in consideration the principles of law - Similarly, no party to the proceedings pleaded or adduced any evidence to prove the material facts required for award of the back wages enabling the Court to award the back wages - Direction of the Courts below caused prejudice to the appellant - In the interest of justice, the respondents (LRs of the deceased workman) awarded 50% of the total back wages - Constitution of India - Art.142. Partly allowing the appeal, the Court HELD: Whether the Courts below",
+   "ours": "RAJASTHAN STATE ROAD TRANSPORT CORPORATION JAIPUR v. SHRI PHOOL CHAND (DECEASED) THROUGH LEGAL REPRESENTATIVES (Civil Appeal No. 1003 of 2010) JANUARY 14, 2020 [ABHAY MANOHAR SAPRE AND INDU MALHOTRA, JJ.] Service Law: Termination of service - For dereliction of duty - Labour Court held the charge against the workman as proved and converted the punishment of removal from service to that of stoppage/ forfeit of four annual grade increments without cumulative effect and directed the reinstatement of the workman in service with award of full back wages for the period of 13 years - High Court affirmed the award - On appeal, held: Workman has no right to claim back wages from his employer as of right only because the Court has set aside his termination order in his favour and directed his reinstatement in service - It is necessary for the workman to plead and prove with the aid of evidence that after his termination from the service, he was not gainfully employed anywhere and had no earning to maintain himself or/and his family - Employer is also entitled to prove it otherwise against the employee, namely, that the employee was gainfully employed during the relevant period and hence not entitled to claim any back wages - In the instant case, neither the Labour Court nor the High Court kept in consideration the principles of law - No party to the proceedings either pleaded or adduced any evidence to prove the material facts required for award of the back wages enabling the Court to ",
+   "base": "**Headnote:**\n\nIn the context of awarding back wages to a workman whose dismissal order was set aside and who was directed to be reinstated, the Supreme Court held that the Courts below erred in awarding full back wages without considering the workman's employment status post-dismissal. The Court emphasized that the workman must prove he was not gainfully employed during the period of dismissal, shifting the initial burden to the workman. The Supreme Court modified the order to award 50% back wages instead of full wages, considering the period and expenses involved in the litigation and the death of the workman. Reliance was placed on several Supreme Court judgments including M.P. State Electricity Board vs. Jarina Bee (2003) 6 SCC 141, G.M. Haryana Roadways vs. Rudhan Singh (2005) 5 SCC 591, and others.",
+   "rougeL_ours": 0.435,
+   "rougeL_base": 0.15
+  },
+  {
+   "key": "2010_13_868_878",
+   "title": "RAJ TRANSPORT CO. PVT. LTD., AMRITSAR versus STATE TRANSPORT APPELLATE TRIBUNAL PB. & ORS.",
+   "court": "[2010] 13 (ADDL.) S.C.R. 868 A RAJ TRANSPORT CO. PVT. LTD., AMRITSAR v. STATE TRANSPORT APPELLATE TRIBUNAL PB. & ORS. (Civil Appeal No. 9762 of 2010 etc.) • NOVEMBER 19, 2010 [DR. MUKUNDAKAM SHARMA AND ANIL R. DAVE, JJ.] Motor Vehicles Act, 1988 - ss. 104, 99 to 103 - C Applicability of new Transport Scheme to pending cases - Restriction on grant of permits in respect of a notified area or notified route - Four stage carriage permits for plying - Invitation of applications by State Transport Commissioner before enactment of 1988 Act - Grant of two permits to Pepsu D State Transport Corporation - Withholding of two permits - Claim for grant of said two permits by private operators - During pendency of appeals, Motor Vehicles Act, 1939 repealed by Motor Vehicles Act, 1988; and new Transport Scheme coming into operation whereby all future operations E of the monopoly route would be operative by State Transport Undertaking - Dismissal of appeals by courts below, in view of the 1988 Act and new Transport Scheme - Held: Justified - 1988 Act would be applicable and would govern cases in respect of two permits for which applications were pending F before appellate tribunal on the date when 1988 Act came into force - Relevant date is the date of the grant of the permit and such date cannot relate back to any earlier period - When the provision was inserted, private operators had no permit granted in their favour by Regional Transport Authority G - Factually it was granted only after p",
+   "ours": "RAJ TRANSPORT CO. PVT. LTD. AND ANR. v. STATE TRANSPORT APPELLATE TRIBUNAL P.B. AND ORS. (Civil Appeal Nos. 436-439 of 2008) JANUARY 22, 2008 [DR. MUKUNDAKAM SHARMA AND P. SATHASIVAM, JJ.] Motor Vehicles Act, 1988 - ss. 99 to 103, 104 - Grant of stage carriage permits - On the basis of the scheme framed u/s. 103 - Permits granted by Regional Transport Authority (RTA) before coming into force of the Act, to operate on monopoly route, wholly or on portion thereof, to remain unaffected - Permits granted by RTA after coming into force of the Act, to operate on monopoly route, wholly or on portion thereof, to be governed by the scheme - Permits granted by RTA after coming into force of the Act, to operate on non-monopoly route, wholly or on portion thereof, to be governed by the scheme - Permits granted by RTA after coming into force of the Act, to operate on non-monopoly route, wholly or on portion thereof, to be governed by the scheme - Permits granted by RTA after coming into force of the Act, to operate on non-monopoly route, wholly or on portion thereof, to be governed by the scheme - Permits granted by RTA after coming into force of the Act, to operate on non-monopoly route, wholly or on portion thereof, to be governed by the scheme - Permits granted by RTA after coming into force of the Act, to operate on non-monopoly route, wholly or on portion thereof, to be governed by the scheme - Permits granted by RTA after coming into force of the Act, to operate on non-monopoly rout",
+   "base": "**Headnote:**\n\nMotor Vehicles Act, 1939 (Act 39 of 1939), Motor Vehicles Act, 1988 (Act 88 of 1988), Motor Transport Gazette, State Transport Commissioner, Punjab & Haryana High Court, State Transport Appellate Tribunal, Public Interest, Limitation, Transport Scheme, Monopoly Route, Regional Transport Authority, Permit, Appeal, Writ Petition, Dismissal, Costs\n\n*Facts:* The appellants challenged the order of the State Transport Appellate Tribunal, Punjab, which granted two stage-carriage permits to Pepsu Road Transport Corporation (PRTC) and withheld the remaining two permits for private operators on the Samana-Amritsar route. The appellants appealed to the Punjab & Haryana High Court, which remanded the matter to the Appellate Tribunal. On remand, the Appellate Tribunal upheld the original order, stating that the route fell within the monopoly of PRTC and Punjab Roadways, and thus, private operators were not entitled to the permits.\n\n*Held:* \n1. The Motor Vehicles Act, 1988, came into force on 01.07.1989, and all pending cases were governed by its provisions.\n2. The Transport Scheme, introduced in 1990, and modified in 1997, stipulated that only permits granted by the Regional Transport Authority before the scheme's introduction remained unaffected. Since the appellants did not have any permits granted before the scheme's introduction, they were not entitled to the benefits under the scheme.\n3. The High Court found no merit in the appeals and dismissed them, leaving the parti",
+   "rougeL_ours": 0.239,
+   "rougeL_base": 0.219
+  }
+ ],
+ "v_samples": [
+  {
+   "key": "UKHC010065462005_1_2010-04-12",
+   "court": "UKHC",
+   "gold": "Shreni: Criminal\nVishay: Evidence > Circumstantial evidence\nNateeja: Khilaf",
+   "ours": "Shreni: Criminal\nVishay: Evidence > Circumstantial evidence\nNateeja: Khilaf",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010003762020_1_2020-01-08",
+   "court": "UKHC",
+   "gold": "Shreni: Criminal\nVishay: Maintenance > Maintenance (125 CrPC / 144 BNSS)\nNateeja: Khilaf",
+   "ours": "Shreni: Criminal\nVishay: Maintenance > Maintenance (125 CrPC / 144 BNSS)\nNateeja: Khilaf",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010115732005_1_2006-02-15",
+   "court": "UKHC",
+   "gold": "Shreni: Civil\nVishay: Compensation > Motor accident claim (MACT)\nNateeja: Nirdesh: vibhag vichaar kare",
+   "ours": "Shreni: Civil\nVishay: Compensation > Motor accident claim (MACT)\nNateeja: Paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010123922014_1_2014-07-16",
+   "court": "UKHC",
+   "gold": "Shreni: Criminal\nVishay: Offence > Rape / sexual offence; Offence > POCSO; Bail > Regular bail\nNateeja: Khilaf",
+   "ours": "Shreni: Criminal\nVishay: Offence > POCSO; Bail > Regular bail\nNateeja: Khilaf",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2008_17_297_308",
+   "court": "SC",
+   "gold": "Shreni: Service\nVishay: Pay > Recovery of excess payment\nNateeja: Khilaf",
+   "ours": "Shreni: Service\nVishay: Pay > Recovery of excess payment; Retirement > Pension; Retirement > Gratuity / leave encashment\nNateeja: Khilaf",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "S_2000_2_1_4",
+   "court": "SC",
+   "gold": "Shreni: Service\nVishay: Retirement > Pension\nMudda: Family pension\nNateeja: Aanshik paksh mein",
+   "ours": "Shreni: Service\nVishay: Retirement > Pension; Retirement > Gratuity / leave encashment\nMudda: Family pension\nNateeja: Aanshik paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010018022014_1_2019-07-12",
+   "court": "UKHC",
+   "gold": "Shreni: Criminal\nVishay: Offence > Dowry / 498A; Quashing > Quashing (482 CrPC / 528 BNSS)\nNateeja: Default mein khaarij",
+   "ours": "Shreni: Criminal\nVishay: Offence > Dowry / 498A; Quashing > Quashing (482 CrPC / 528 BNSS)\nNateeja: Default mein khaarij",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010003182024_1_2024-01-09",
+   "court": "UKHC",
+   "gold": "Shreni: Constitutional\nVishay: Education > Admission / education\nNateeja: Nirdesh: vibhag vichaar kare",
+   "ours": "Shreni: Constitutional\nVishay: Education > Admission / education\nNateeja: Nirdesh: vibhag vichaar kare",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010086212017_1_2017-10-26",
+   "court": "UKHC",
+   "gold": "Shreni: Service\nVishay: Regularisation > Regularisation\nMudda: Swikrit pad (sanctioned post)\nNateeja: Aanshik paksh mein",
+   "ours": "Shreni: Service\nVishay: Regularisation > Regularisation\nNateeja: Paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010053262016_1_2016-03-02",
+   "court": "UKHC",
+   "gold": "Shreni: Commercial\nVishay: Company > Company / insolvency\nNateeja: Nipataara",
+   "ours": "Shreni: Commercial\nVishay: Company > Company / insolvency\nNateeja: Wapas / bekaar",
+   "marks": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010046952016_1_2018-07-11",
+   "court": "UKHC",
+   "gold": "Shreni: Constitutional\nVishay: Environment > Environment / forest\nNateeja: Wapas / bekaar",
+   "ours": "Shreni: Constitutional\nVishay: Environment > Environment / forest\nNateeja: Wapas / bekaar",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2023_10_1268_1346",
+   "court": "SC",
+   "gold": "Shreni: Tax\nVishay: Indirect > GST / VAT; Direct > Income tax\nNateeja: Bade bench ko",
+   "ours": "Shreni: Tax\nVishay: Indirect > GST / VAT\nNateeja: Khilaf",
+   "marks": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010108562004_1_2005-07-27",
+   "court": "UKHC",
+   "gold": "Shreni: Criminal\nVishay: Evidence > Dying declaration\nNateeja: Nipataara",
+   "ours": "Shreni: Criminal\nVishay: Offence > Murder (302 IPC / 103 BNS)\nNateeja: Nipataara",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": false
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2020_7_392_475",
+   "court": "SC",
+   "gold": "Shreni: Labour\nVishay: Indirect > GST / VAT; Direct > Income tax\nNateeja: Aanshik paksh mein",
+   "ours": "Shreni: Tax\nVishay: Indirect > GST / VAT; Company > Company / insolvency\nNateeja: Aanshik paksh mein",
+   "marks": {
+    "shreni": false,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010056312003_1_2003-11-04",
+   "court": "UKHC",
+   "gold": "Shreni: Service\nVishay: Career > Transfer\nNateeja: Paksh mein",
+   "ours": "Shreni: Service\nVishay: Career > Transfer\nNateeja: Paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010021002020_1_2020-08-20",
+   "court": "UKHC",
+   "gold": "Shreni: Land\nVishay: Acquisition > Land acquisition compensation\nNateeja: Nipataara",
+   "ours": "Shreni: Land\nVishay: Acquisition > Land acquisition compensation\nNateeja: Nipataara",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010045622016_1_2019-05-10",
+   "court": "UKHC",
+   "gold": "Shreni: Service\nVishay: Retirement > Compulsory / voluntary retirement; Discipline > Termination / dismissal\nNateeja: Khilaf",
+   "ours": "Shreni: Service\nVishay: Retirement > Compulsory / voluntary retirement; Discipline > Termination / dismissal\nNateeja: Khilaf",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010085602006_1_2010-09-22",
+   "court": "UKHC",
+   "gold": "Shreni: Service\nVishay: Industrial > Industrial dispute / retrenchment\nNateeja: Nirdesh: vibhag vichaar kare",
+   "ours": "Shreni: Service\nVishay: Industrial > Industrial dispute / retrenchment\nNateeja: Nirdesh: vibhag vichaar kare",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2017_12_557_643",
+   "court": "SC",
+   "gold": "Shreni: Family\nVishay: Children > Child custody\nNateeja: Bade bench ko",
+   "ours": "Shreni: Family\nVishay: Marriage > Divorce\nNateeja: Nipataara",
+   "marks": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": false
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2019_3_718_724",
+   "court": "SC",
+   "gold": "Shreni: Service\nVishay: Appointment > Compassionate appointment\nNateeja: Bade bench ko",
+   "ours": "Shreni: Service\nVishay: Appointment > Compassionate appointment\nMudda: Pad ka star (higher post); Aarthik sthiti (indigence)\nNateeja: Bade bench ko",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2018_3_541_550",
+   "court": "SC",
+   "gold": "Shreni: Constitutional\nVishay: Appointment > Selection / merit list\nNateeja: Bade bench ko",
+   "ours": "Shreni: Constitutional\nVishay: Education > Admission / education\nNateeja: Bade bench ko",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": false
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2012_9_244_286",
+   "court": "SC",
+   "gold": "Shreni: Family\nVishay: Offence > Murder (302 IPC / 103 BNS)\nNateeja: Bade bench ko",
+   "ours": "Shreni: Family\nVishay: Succession > Will / succession\nNateeja: Bade bench ko",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": false
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010055532020_1_2021-03-02",
+   "court": "UKHC",
+   "gold": "Shreni: Criminal\nVishay: Bail > Regular bail\nMudda: Barabari (parity); Aapradhik itihaas\nNateeja: Paksh mein",
+   "ours": "Shreni: Criminal\nVishay: Offence > Murder (302 IPC / 103 BNS); Bail > Regular bail\nMudda: Barabari (parity)\nNateeja: Paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": false
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2022_17_1_35",
+   "court": "SC",
+   "gold": "Shreni: Commercial\nVishay: Company > Company / insolvency; Direct > Income tax\nNateeja: Aanshik paksh mein",
+   "ours": "Shreni: Tax\nVishay: Indirect > GST / VAT\nNateeja: Aanshik paksh mein",
+   "marks": {
+    "shreni": false,
+    "nateeja": true,
+    "vishay": false
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2023_8_581_802",
+   "court": "SC",
+   "gold": "Shreni: Constitutional\nVishay: Liberty > Habeas corpus; Fundamental rights > Article 14 / 21; Environment > Environment / forest\nNateeja: Bade bench ko",
+   "ours": "Shreni: Constitutional\nVishay: Liberty > Habeas corpus; Fundamental rights > Article 14 / 21; Quashing > FIR quashing / arrest stay (writ)\nNateeja: Nipataara",
+   "marks": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010122282017_1_2017-10-27",
+   "court": "UKHC",
+   "gold": "Shreni: Commercial\nVishay: Banking > Bank recovery / SARFAESI\nNateeja: Aanshik paksh mein",
+   "ours": "Shreni: Commercial\nVishay: Banking > Bank recovery / SARFAESI\nNateeja: Paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010051422021_1_2021-04-22",
+   "court": "UKHC",
+   "gold": "Shreni: Civil\nVishay: Property > Injunction\nNateeja: Nirdesh: vibhag vichaar kare",
+   "ours": "Shreni: Civil\nVishay: Property > Injunction\nNateeja: Nipataara",
+   "marks": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010141392016_1_2016-07-28",
+   "court": "UKHC",
+   "gold": "Shreni: Criminal\nVishay: Offence > Dowry death (304B); Offence > Dowry / 498A; Quashing > Quashing (482 CrPC / 528 BNSS)\nNateeja: Nipataara",
+   "ours": "Shreni: Criminal\nVishay: Offence > Dowry death (304B); Offence > Dowry / 498A; Quashing > Quashing (482 CrPC / 528 BNSS)\nNateeja: Nipataara",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010061692020_1_2020-07-10",
+   "court": "UKHC",
+   "gold": "Shreni: Service\nVishay: Discipline > Termination / dismissal\nNateeja: Aanshik paksh mein",
+   "ours": "Shreni: Service\nVishay: Discipline > Termination / dismissal; Discipline > Suspension\nNateeja: Aanshik paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010004642019_1_2019-11-04",
+   "court": "UKHC",
+   "gold": "Shreni: Civil\nVishay: Tenancy > Eviction / rent\nNateeja: Default mein khaarij",
+   "ours": "Shreni: Civil\nVishay: Tenancy > Eviction / rent\nNateeja: Default mein khaarij",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010070442019_1_2022-08-02",
+   "court": "UKHC",
+   "gold": "Shreni: Service\nVishay: Career > Seniority; Career > Promotion; Succession > Will / succession\nNateeja: Paksh mein",
+   "ours": "Shreni: Service\nVishay: Career > Seniority; Career > Promotion\nNateeja: Paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010014382018_1_2025-12-13",
+   "court": "UKHC",
+   "gold": "Shreni: Civil\nVishay: Compensation > Motor accident claim (MACT)\nNateeja: Khilaf",
+   "ours": "Shreni: Civil\nVishay: Compensation > Motor accident claim (MACT)\nNateeja: Wapas / bekaar",
+   "marks": {
+    "shreni": true,
+    "nateeja": false,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010105902012_1_2014-05-02",
+   "court": "UKHC",
+   "gold": "Shreni: Land\nVishay: Revenue > Mutation / revenue entries\nNateeja: Paksh mein",
+   "ours": "Shreni: Land\nVishay: Revenue > Mutation / revenue entries\nNateeja: Paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2010_14_560_576",
+   "court": "SC",
+   "gold": "Shreni: Civil\nVishay: Property > Partition; Property > Injunction\nNateeja: Aanshik paksh mein",
+   "ours": "Shreni: Civil\nVishay: Property > Partition; Property > Injunction\nNateeja: Aanshik paksh mein",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010008862011_1_2020-10-01",
+   "court": "UKHC",
+   "gold": "Shreni: Civil\nVishay: Property > Injunction\nNateeja: Default mein khaarij",
+   "ours": "Shreni: Civil\nVishay: Property > Injunction\nNateeja: Default mein khaarij",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010034982025_1_2025-07-29",
+   "court": "UKHC",
+   "gold": "Shreni: Labour\nVishay: Industrial > Industrial dispute / retrenchment\nNateeja: Khilaf",
+   "ours": "Shreni: Service\nVishay: Industrial > Industrial dispute / retrenchment\nNateeja: Khilaf",
+   "marks": {
+    "shreni": false,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010051922016_1_2016-02-17",
+   "court": "UKHC",
+   "gold": "Shreni: Constitutional\nVishay: Environment > Environment / forest\nNateeja: Nirdesh: vibhag vichaar kare",
+   "ours": "Shreni: Constitutional\nVishay: Environment > Environment / forest\nNateeja: Nirdesh: vibhag vichaar kare",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010134742022_1_2022-09-15",
+   "court": "UKHC",
+   "gold": "Shreni: Service\nVishay: Regularisation > Daily wage / contractual; Pay > Pay scale / equal pay\nNateeja: Nipataara",
+   "ours": "Shreni: Service\nVishay: Regularisation > Daily wage / contractual; Pay > Pay scale / equal pay\nNateeja: Nipataara",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "2017_2_993_1022",
+   "court": "SC",
+   "gold": "Shreni: Tax\nVishay: Pay > Pay scale / equal pay; Evidence > Circumstantial evidence\nNateeja: Bade bench ko",
+   "ours": "Shreni: Tax\nVishay: Direct > Income tax\nNateeja: Bade bench ko",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": false
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  },
+  {
+   "key": "UKHC010010012021_1_2024-09-25",
+   "court": "UKHC",
+   "gold": "Shreni: Criminal\nVishay: Quashing > FIR quashing / arrest stay (writ)\nNateeja: Default mein khaarij",
+   "ours": "Shreni: Criminal\nVishay: Quashing > FIR quashing / arrest stay (writ)\nNateeja: Default mein khaarij",
+   "marks": {
+    "shreni": true,
+    "nateeja": true,
+    "vishay": true
+   },
+   "base": {
+    "shreni": false,
+    "nateeja": false,
+    "vishay": false
+   }
+  }
+ ]
+}
