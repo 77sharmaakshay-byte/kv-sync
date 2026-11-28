@@ -6,11 +6,11 @@
  "registration_number": "WPSB /319/2023",
  "registration_date": "2023-07-19",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-04",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "AFTER FRESH MATTERS -128",
+ "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
- "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -203,6 +203,20 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-05",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-11-04",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-11-04",
    "business_date": "2026-10-14",
    "purpose": "ORDERS ON APPLICATIONS -22",
@@ -297,6 +311,15 @@
    "order_type": "WPSB/319/2023",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY2M%2BTWtahS03imk5s6d%2F5aVVEVdoP7hTgSpEGWojW9i3&caseno=WPSB/319/2023&cCode=1&cino=UKHC010114342023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-05",
+   "order_type": "WPSB/319/2023",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY2M%2BTWtahS03imk5s6d%2F5aU44JVHXwQimAzUeSQHJLsq&caseno=WPSB/319/2023&cCode=1&cino=UKHC010114342023&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/192/2020:2025-06-18-013",
+ "title": "RAKESH BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "RAKESH BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/192/2020",
+ "case_type": "WPSB",
+ "decision_date": "2025-06-18",
+ "cnr": "UKHC010070482020",
+ "doc_kind": "order",
+ "order_type": "WPSB/192/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjDyvDkPX9r2gvv0rMCKeuBQfPjH3vA%2BGMdb1Dfd87Hsd&caseno=WPSB/192/2020&cCode=1&cino=UKHC010070482020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5993b4c60897783adba0dcb4b7f4175276868d66372dd95130d71f1dbe95aa47",
+ "fetched_at": "2026-11-28T02:52:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

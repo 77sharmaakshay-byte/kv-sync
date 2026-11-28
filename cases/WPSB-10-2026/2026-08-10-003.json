@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/10/2026:2026-08-10-003",
+ "title": "DHIRENDRA MISHRA versus STATE OF UTTARAKHAND",
+ "petitioner": "DHIRENDRA MISHRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/10/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-10",
+ "cnr": "UKHC010001852026",
+ "doc_kind": "order",
+ "order_type": "WPSB/10/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqoFZ6RMFubQ8qatGq9E8td7A252uMWOlnRTattoGWUL&caseno=WPSB/10/2026&cCode=1&cino=UKHC010001852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d2ce61577582daa45db953d34c940b3511dc203ba429ef2734385d899845c3e4",
+ "fetched_at": "2026-11-28T02:52:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/104/2016:2021-07-14-012",
+ "title": "Dharmveer Saini versus STATE OF UTTARAKHAND   Advocate- ,C.S.C. 1123",
+ "petitioner": "Dharmveer Saini",
+ "respondent": "STATE OF UTTARAKHAND   Advocate- ,C.S.C. 1123",
+ "case_no": "WPPIL/104/2016",
+ "case_type": "WPPIL",
+ "decision_date": "2021-07-14",
+ "cnr": "UKHC010002592016",
+ "doc_kind": "order",
+ "order_type": "WPPIL/104/2016",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBfQHYlx7%2BZdtt2b28xCC2MeReGjbR2OVfEosfQh9cJG4&caseno=WPPIL/104/2016&cCode=1&cino=UKHC010002592016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c8797c5be7bf33c35805542a26084e1dbb9db9bfa6ede83da6844ddbeb9a6ac1",
+ "fetched_at": "2026-11-28T02:42:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

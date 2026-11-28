@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/294/2025:2026-06-01-003",
+ "title": "ASHOK SINGH BISHT versus UNION OF INDIA",
+ "petitioner": "ASHOK SINGH BISHT",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPSB/294/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-01",
+ "cnr": "UKHC010107202025",
+ "doc_kind": "order",
+ "order_type": "WPSB/294/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm8DBOVC3yGa7Mojl0Nok%2B2gh3aQMBphwNC%2FyWdowBVoj&caseno=WPSB/294/2025&cCode=1&cino=UKHC010107202025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "657eef4d47c64ee123f505eef91e8c379e12f8c1c746eadf72f164398ec59cc5",
+ "fetched_at": "2026-11-28T02:50:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

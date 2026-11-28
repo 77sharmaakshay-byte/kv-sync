@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/34/2024:2026-04-21-012",
+ "title": "BEEHIVE AYURVED MEDICAL COLLEGE AND HOSPITAL versus STATE OF UTTARAKHAND",
+ "petitioner": "BEEHIVE AYURVED MEDICAL COLLEGE AND HOSPITAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/34/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-04-21",
+ "cnr": "UKHC010001522024",
+ "doc_kind": "order",
+ "order_type": "WPMS/34/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcNbs8BvxlkUhzkOHaaVn95E3v2ICL2liTQd8AlOggpm4&caseno=WPMS/34/2024&cCode=1&cino=UKHC010001522024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e0042b0b0b37d16e399c0138d2ba49c7425643e133357aa560eeee7111586452",
+ "fetched_at": "2026-11-28T02:48:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

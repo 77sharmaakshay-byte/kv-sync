@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/104/2016:2020-11-26-005",
+ "title": "Dharmveer Saini versus STATE OF UTTARAKHAND   Advocate- ,C.S.C. 1123",
+ "petitioner": "Dharmveer Saini",
+ "respondent": "STATE OF UTTARAKHAND   Advocate- ,C.S.C. 1123",
+ "case_no": "WPPIL/104/2016",
+ "case_type": "WPPIL",
+ "decision_date": "2020-11-26",
+ "cnr": "UKHC010002592016",
+ "doc_kind": "order",
+ "order_type": "WPPIL/104/2016",
+ "judges": [
+  "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBfQHYlx7%2BZdtt2b28xCC2Mf9opp2OU%2FuJ3QOmVMVbRJZ&caseno=WPPIL/104/2016&cCode=1&cino=UKHC010002592016&state_code=15&court_code=1&&appFlag=",
+ "sha256": "560845a16f34cc42b3e58844e01cdb9a27d4e03ff77403b2392a349ab04f9560",
+ "fetched_at": "2026-11-28T02:42:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

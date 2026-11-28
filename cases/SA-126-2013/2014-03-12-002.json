@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/126/2013:2014-03-12-002",
+ "title": "SMT. C. EDMOND versus GOPAL RAM",
+ "petitioner": "SMT. C. EDMOND",
+ "respondent": "GOPAL RAM",
+ "case_no": "SA/126/2013",
+ "case_type": "SA",
+ "decision_date": "2014-03-12",
+ "cnr": "UKHC010007782013",
+ "doc_kind": "order",
+ "order_type": "SA/126/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIbPIA8hgggx6c5BZJE32b67PAAUcXZhQ0mk4uQOUwqLG&caseno=SA/126/2013&cCode=1&cino=UKHC010007782013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b14da358447114db7d37cd5e3a267dee6ae51cec14ff159386eb09aa5b64704f",
+ "fetched_at": "2026-11-28T02:33:41+00:00",
+ "fetched_by": "fetch_live.py"
+}

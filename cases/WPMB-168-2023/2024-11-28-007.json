@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/168/2023:2024-11-28-007",
+ "title": "MUNICIPAL P G COLLEGE versus STATE OF UTTARAKHAND",
+ "petitioner": "MUNICIPAL P G COLLEGE",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/168/2023",
+ "case_type": "WPMB",
+ "decision_date": "2024-11-28",
+ "cnr": "UKHC010111852023",
+ "doc_kind": "order",
+ "order_type": "WPMB/168/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Vivek Bharti Sharma"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FLNCtfMk9CP29WLvMwSrs3Xp6C0dIUTDjsCKP1izmE6&caseno=WPMB/168/2023&cCode=1&cino=UKHC010111852023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "37cb2c039c504b17bb76099c6d74a3ba43de0f07f04c17f33b4eb3092e47281c",
+ "fetched_at": "2026-11-28T02:46:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

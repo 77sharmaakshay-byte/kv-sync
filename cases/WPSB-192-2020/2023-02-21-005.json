@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/192/2020:2023-02-21-005",
+ "title": "RAKESH BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "RAKESH BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/192/2020",
+ "case_type": "WPSB",
+ "decision_date": "2023-02-21",
+ "cnr": "UKHC010070482020",
+ "doc_kind": "order",
+ "order_type": "WPSB/192/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Vipin Sanghi,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjDyvDkPX9r2gvv0rMCKeuBQgIVmA9HY9C%2BUZO61hjNpP&caseno=WPSB/192/2020&cCode=1&cino=UKHC010070482020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5c882d6b8a2e0158a8a0b8714dbf70de2ac2247e9ff0dc33484963a9c7bb4d41",
+ "fetched_at": "2026-11-28T02:52:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

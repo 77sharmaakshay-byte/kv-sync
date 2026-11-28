@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/262/2026:2026-09-28-004",
+ "title": "RAKESH GIRI versus GURUKUL KANGRI HARIDWAR",
+ "petitioner": "RAKESH GIRI",
+ "respondent": "GURUKUL KANGRI HARIDWAR",
+ "case_no": "WPSB/262/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-28",
+ "cnr": "UKHC010074572026",
+ "doc_kind": "order",
+ "order_type": "WPSB/262/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsZUa79lNvY1acJsHmkDxv%2F6uPZD9GaNO6MCl2a%2F4k0L&caseno=WPSB/262/2026&cCode=1&cino=UKHC010074572026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "de27b92b3603acb9edee4dc0854cb2216cd4b9bf8751daaad90fa4d418f6e358",
+ "fetched_at": "2026-11-28T02:54:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/180/2024:2025-01-09-005",
+ "title": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY NAINITAL versus UNION OF INDIA",
+ "petitioner": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY NAINITAL",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPPIL/180/2024",
+ "case_type": "WPPIL",
+ "decision_date": "2025-01-09",
+ "cnr": "UKHC010179032024",
+ "doc_kind": "order",
+ "order_type": "WPPIL/180/2024",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcI11a9c%2BasKMEkeUTOZt5Hqi6ap7G5D5y7YGuy0TVtvK&caseno=WPPIL/180/2024&cCode=1&cino=UKHC010179032024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d7087896081f7648342063c257a20cbda5f12ff7461ec23d48eeb158e6f6a61b",
+ "fetched_at": "2026-11-28T02:47:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

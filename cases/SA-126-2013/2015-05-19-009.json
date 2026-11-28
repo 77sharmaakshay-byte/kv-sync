@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/126/2013:2015-05-19-009",
+ "title": "SMT. C. EDMOND versus GOPAL RAM",
+ "petitioner": "SMT. C. EDMOND",
+ "respondent": "GOPAL RAM",
+ "case_no": "SA/126/2013",
+ "case_type": "SA",
+ "decision_date": "2015-05-19",
+ "cnr": "UKHC010007782013",
+ "doc_kind": "order",
+ "order_type": "SA/126/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIbPIA8hgggx6c5BZJE32b64bb3eYMTmPJPC3MH8IMoF2&caseno=SA/126/2013&cCode=1&cino=UKHC010007782013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7107649a13b778d3d8f784976ce489a68b3da1231fc79dc5cca18b40ab12613b",
+ "fetched_at": "2026-11-28T02:33:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

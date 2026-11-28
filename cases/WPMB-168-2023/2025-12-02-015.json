@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/168/2023:2025-12-02-015",
+ "title": "MUNICIPAL P G COLLEGE versus STATE OF UTTARAKHAND",
+ "petitioner": "MUNICIPAL P G COLLEGE",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/168/2023",
+ "case_type": "WPMB",
+ "decision_date": "2025-12-02",
+ "cnr": "UKHC010111852023",
+ "doc_kind": "order",
+ "order_type": "WPMB/168/2023",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FLNCtfMk9CP29WLvMwSrs3vQt2Sxnj6Tla1uNeMjujI&caseno=WPMB/168/2023&cCode=1&cino=UKHC010111852023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9c9fb2bb014d8cc477df7b643a6fec813349c39222a75d02ef96bf42582fc5ff",
+ "fetched_at": "2026-11-28T02:46:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

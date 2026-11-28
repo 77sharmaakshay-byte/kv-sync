@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/110/2011:2026-02-27-042",
+ "title": "SMT. JAITOON versus SMT. SUCHITA KHURANA",
+ "petitioner": "SMT. JAITOON",
+ "respondent": "SMT. SUCHITA KHURANA",
+ "case_no": "AO/110/2011",
+ "case_type": "AO",
+ "decision_date": "2026-02-27",
+ "cnr": "UKHC010010262011",
+ "doc_kind": "order",
+ "order_type": "AO/110/2011",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYofOhvawX3GWVWXcg7E5uzCeRIFygnPhHzyk8bAqaAYsK&caseno=AO/110/2011&cCode=1&cino=UKHC010010262011&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d017bdea25055dd864988ed66bb2e4c376589aeb8ef7f306796dd24813f14492",
+ "fetched_at": "2026-11-28T02:36:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

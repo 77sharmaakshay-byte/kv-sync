@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/553/2026:2026-09-25-001",
+ "title": "DR AJIT KUMAR SHARMA versus DEEPTI GAUR MUKHERJEE",
+ "petitioner": "DR AJIT KUMAR SHARMA",
+ "respondent": "DEEPTI GAUR MUKHERJEE",
+ "case_no": "CLCON/553/2026",
+ "case_type": "CLCON",
+ "decision_date": "2026-09-25",
+ "cnr": "UKHC010170072026",
+ "doc_kind": "order",
+ "order_type": "CLCON/553/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuWCpHg9nG98aIfiYtoLTQKm6yNXwhgDHSn7saYKRPk8&caseno=CLCON/553/2026&cCode=1&cino=UKHC010170072026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "05070e0055471b07ae1089ce17e0c41fd73a1d562017180e4c4afdf023cfd4a8",
+ "fetched_at": "2026-11-28T02:32:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

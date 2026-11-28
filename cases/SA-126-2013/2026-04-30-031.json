@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/126/2013:2026-04-30-031",
+ "title": "SMT. C. EDMOND versus GOPAL RAM",
+ "petitioner": "SMT. C. EDMOND",
+ "respondent": "GOPAL RAM",
+ "case_no": "SA/126/2013",
+ "case_type": "SA",
+ "decision_date": "2026-04-30",
+ "cnr": "UKHC010007782013",
+ "doc_kind": "order",
+ "order_type": "SA/126/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIbPIA8hgggx6c5BZJE32b67KeaOMB%2BBVzupdrPR5fiK%2B&caseno=SA/126/2013&cCode=1&cino=UKHC010007782013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "beda79487421ccaf595c8b3ed1c9b26a2219699a064d26a86498e626556aa4d9",
+ "fetched_at": "2026-11-28T02:34:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/48/2026:2026-04-21-003",
+ "title": "GULSHAN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "GULSHAN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/48/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-04-21",
+ "cnr": "UKHC010010202026",
+ "doc_kind": "order",
+ "order_type": "WPMB/48/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkLeMa1D2F0y0VZSnITiZJiKvhmF9I67%2FgTNLDs1SAFU&caseno=WPMB/48/2026&cCode=1&cino=UKHC010010202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e0042b0b0b37d16e399c0138d2ba49c7425643e133357aa560eeee7111586452",
+ "fetched_at": "2026-11-28T02:51:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

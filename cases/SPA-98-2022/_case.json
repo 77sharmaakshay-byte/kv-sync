@@ -6,11 +6,11 @@
  "registration_number": "SPA /98/2022",
  "registration_date": "2022-05-17",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-03",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "AFTER FRESH MATTERS -128",
+ "case_stage": "JUST AFTER FRESH MATTERS -252",
  "status": "",
- "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -43,6 +43,34 @@
    "hearing_date": "2022-05-23",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-25",
+   "purpose": "JUST AFTER FRESH MATTERS -252",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-25",
+   "business_date": "2026-11-05",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-11-04",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-11-04",
+   "business_date": "2026-11-03",
+   "purpose": "AFTER FRESH MATTERS -128",
    "judge": "",
    "cause_list_type": "DAILY CAUSE LIST"
   },
@@ -155,6 +183,42 @@
    "order_type": "SPA/98/2022",
    "judge": "Hon'ble Ms. Justice Ritu Bahri,Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wTYq3wR4GwPjWYYqrlGcrcyogxpVcNhjZs88pH8kiIr&caseno=SPA/98/2022&cCode=1&cino=UKHC010063782022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-03",
+   "order_type": "SPA/98/2022",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wTYq3wR4GwPjWYYqrlGcrcm8ELsT692OpmxiP8tVINY&caseno=SPA/98/2022&cCode=1&cino=UKHC010063782022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-04",
+   "order_type": "SPA/98/2022",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wTYq3wR4GwPjWYYqrlGcrcyFIFjAGxJj2FUZHLJFlk1&caseno=SPA/98/2022&cCode=1&cino=UKHC010063782022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-05",
+   "order_type": "SPA/98/2022",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wTYq3wR4GwPjWYYqrlGcrc3rzZfx2eqLfktvh4WmeBu&caseno=SPA/98/2022&cCode=1&cino=UKHC010063782022&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-25",
+   "order_type": "SPA/98/2022",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0wTYq3wR4GwPjWYYqrlGcrfF9u9QRiiiUbyr7lJiz8Ty&caseno=SPA/98/2022&cCode=1&cino=UKHC010063782022&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

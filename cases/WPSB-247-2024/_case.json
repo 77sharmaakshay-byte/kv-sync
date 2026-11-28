@@ -6,11 +6,11 @@
  "registration_number": "WPSB /247/2024",
  "registration_date": "2024-05-07",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-04",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "AFTER FRESH MATTERS -128",
+ "case_stage": "ORDERS ON APPLICATIONS -24",
  "status": "",
- "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Subhash Upadhyay",
+ "coram": "Hon'ble Mr. Justice Manoj Kumar Tiwari , Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Division Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -47,6 +47,34 @@
    "hearing_date": "2024-05-08",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-27",
+   "purpose": "JUST AFTER FRESH MATTERS -252",
+   "judge": "",
+   "cause_list_type": "SUPPLEMENTARY CAUSE LIST I"
+  },
+  {
+   "hearing_date": "2026-11-27",
+   "business_date": "2026-11-26",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-12-22",
+   "business_date": "2026-11-19",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -238",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-04",
+   "purpose": "AFTER FRESH MATTERS -128",
    "judge": "",
    "cause_list_type": "DAILY CAUSE LIST"
   },
@@ -311,6 +339,15 @@
    "order_type": "WPSB/247/2024",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcGGnOxQSc3g4O4khio4iYhS4WK4WqnTcYPl4QHaYs5Gj&caseno=WPSB/247/2024&cCode=1&cino=UKHC010067292024&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-19",
+   "order_type": "WPSB/247/2024",
+   "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcGGnOxQSc3g4O4khio4iYhTqP3lgzyYi7ZSSQXoJVfDT&caseno=WPSB/247/2024&cCode=1&cino=UKHC010067292024&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

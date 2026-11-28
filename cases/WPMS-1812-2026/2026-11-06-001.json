@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1812/2026:2026-11-06-001",
+ "title": "BRIJESH MALLIK versus BANK OF BARODA",
+ "petitioner": "BRIJESH MALLIK",
+ "respondent": "BANK OF BARODA",
+ "case_no": "WPMS/1812/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-06",
+ "cnr": "UKHC010103112026",
+ "doc_kind": "order",
+ "order_type": "WPMS/1812/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg8DzzhQ3LUJGaKHuSnzmd4BQIIG%2FgH8CrKy%2BO7xzfZm&caseno=WPMS/1812/2026&cCode=1&cino=UKHC010103112026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3f61a2b174aee8b24dcacd31c90c8cc583fddac900b12101c9b30dcaa72b44bc",
+ "fetched_at": "2026-11-28T02:24:52+00:00",
+ "fetched_by": "fetch_live.py"
+}

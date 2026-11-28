@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1591/2023:2025-11-04-006",
+ "title": "JILA SAHKARI BANK LTD versus PRESIDING OFFICER LABOUR COURT",
+ "petitioner": "JILA SAHKARI BANK LTD",
+ "respondent": "PRESIDING OFFICER LABOUR COURT",
+ "case_no": "WPMS/1591/2023",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-04",
+ "cnr": "UKHC010083492023",
+ "doc_kind": "order",
+ "order_type": "IA/2/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzZWcx2YvI61VsYiVZcGADLVUoSZNrb2ok9Dwlg%2F4QXL&caseno=WPMS/1591/2023&cCode=1&cino=UKHC010083492023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0878f5a8b6e41c9803ae698f7c8d4567c9af0723eaa12f4a2b557b6afce76879",
+ "fetched_at": "2026-11-28T02:56:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

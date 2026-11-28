@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/49/2025:2026-05-05-006",
+ "title": "RAJ JUYAL AND OTHERS versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJ JUYAL AND OTHERS",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/49/2025",
+ "case_type": "WPSB",
+ "decision_date": "2026-05-05",
+ "cnr": "UKHC010028972025",
+ "doc_kind": "order",
+ "order_type": "WPSB/49/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm63M8Oq5LC2vo8urc95Zw%2F42cuvVxbkU5PrqhXnAl7%2BE&caseno=WPSB/49/2025&cCode=1&cino=UKHC010028972025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "83cf3c53cdcf88e58d92beff0a679e38f573c10a6492117cc3e1a7a6249490b6",
+ "fetched_at": "2026-11-28T02:51:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

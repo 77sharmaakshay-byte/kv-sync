@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/933/2021:2026-06-16-018",
+ "title": "SHIVALIK INSTITUTE OF AYURVEDA AND RESEARCH versus STATE OF UTTARAKHAND",
+ "petitioner": "SHIVALIK INSTITUTE OF AYURVEDA AND RESEARCH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/933/2021",
+ "case_type": "WPMS",
+ "decision_date": "2026-06-16",
+ "cnr": "UKHC010051822021",
+ "doc_kind": "order",
+ "order_type": "WPMS/933/2021",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkMyfMiJuPBUJDE0ltiLcdbuZcJQhkrqyliTqc5RETzmh&caseno=WPMS/933/2021&cCode=1&cino=UKHC010051822021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "120fbbd0ab883c98173f49e5dfd0c807ef7ae96059bca0a88ae43fc427aaf6ab",
+ "fetched_at": "2026-11-28T02:46:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

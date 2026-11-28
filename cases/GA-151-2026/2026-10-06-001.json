@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:GA/151/2026:2026-10-06-001",
+ "title": "STATE OF UTTARAKHAND versus SUNIL SINGH BISHT",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "SUNIL SINGH BISHT",
+ "case_no": "GA/151/2026",
+ "case_type": "GA",
+ "decision_date": "2026-10-06",
+ "cnr": "UKHC010176032026",
+ "doc_kind": "order",
+ "order_type": "GA/151/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmYi%2F9NzfkahXrxcxvZhwZBTn4mqob3Xsfl3n8sl8%2Fie&caseno=GA/151/2026&cCode=1&cino=UKHC010176032026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f021fae2f4464e6c7815186aff9fe346cfb28fcff8b8ad5e0de93bbc27b68a54",
+ "fetched_at": "2026-11-28T03:02:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

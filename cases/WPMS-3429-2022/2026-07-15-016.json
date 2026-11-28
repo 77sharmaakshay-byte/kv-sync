@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3429/2022:2026-07-15-016",
+ "title": "MOTHERHOOD AYURVEDA MEDICAL COLLEGE versus STATE OF UTTARAKHAND",
+ "petitioner": "MOTHERHOOD AYURVEDA MEDICAL COLLEGE",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3429/2022",
+ "case_type": "WPMS",
+ "decision_date": "2026-07-15",
+ "cnr": "UKHC010192022022",
+ "doc_kind": "order",
+ "order_type": "WPMS/3429/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2F011K3oWjpbFShXIqJ3F9qFtI%2FAl1WHRN%2BaHQpHzLF5&caseno=WPMS/3429/2022&cCode=1&cino=UKHC010192022022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7cc3db3805fab5b3b2fc5eaa133997275c70e721b536dbaddafa7948595e2c8c",
+ "fetched_at": "2026-11-28T02:46:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

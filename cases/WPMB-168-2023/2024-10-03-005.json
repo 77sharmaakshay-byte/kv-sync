@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/168/2023:2024-10-03-005",
+ "title": "MUNICIPAL P G COLLEGE versus STATE OF UTTARAKHAND",
+ "petitioner": "MUNICIPAL P G COLLEGE",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/168/2023",
+ "case_type": "WPMB",
+ "decision_date": "2024-10-03",
+ "cnr": "UKHC010111852023",
+ "doc_kind": "order",
+ "order_type": "WPMB/168/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY%2FLNCtfMk9CP29WLvMwSrs2ysW6H8o%2BZ1qYbHVZo%2BMAO&caseno=WPMB/168/2023&cCode=1&cino=UKHC010111852023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "00327d3e50e2c7ef65537ab2247aa3f7ada7a06ee1e862f80ca9801827005a9f",
+ "fetched_at": "2026-11-28T02:46:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

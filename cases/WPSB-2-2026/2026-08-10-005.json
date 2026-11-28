@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/2/2026:2026-08-10-005",
+ "title": "SUSHIL CHANDRA TIWARI versus STATE OF UTTARAKHAND",
+ "petitioner": "SUSHIL CHANDRA TIWARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/2/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-10",
+ "cnr": "UKHC010000552026",
+ "doc_kind": "order",
+ "order_type": "IA/5/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQljsvvLdkYqKua%2BUy2r%2Boz1MaZCvMdUhWpRF2E%2FLG8XU&caseno=WPSB/2/2026&cCode=1&cino=UKHC010000552026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d2ce61577582daa45db953d34c940b3511dc203ba429ef2734385d899845c3e4",
+ "fetched_at": "2026-11-28T02:51:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

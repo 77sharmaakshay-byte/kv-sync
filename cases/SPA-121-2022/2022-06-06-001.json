@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/121/2022:2022-06-06-001",
+ "title": "STATE OF UTTARAKHAND versus VIRAM RAJ",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "VIRAM RAJ",
+ "case_no": "SPA/121/2022",
+ "case_type": "SPA",
+ "decision_date": "2022-06-06",
+ "cnr": "UKHC010072512022",
+ "doc_kind": "order",
+ "order_type": "SPA/121/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0%2F5g4eayTy5dR49CBLtpR7icgbX4hhdKBpoLqri09B3L&caseno=SPA/121/2022&cCode=1&cino=UKHC010072512022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d6ba0e77c08893da87d60c89482aaf45aa91deaa0082236af8d13a951daaddfe",
+ "fetched_at": "2026-11-28T02:43:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

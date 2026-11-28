@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/368/2025:2025-10-16-003",
+ "title": "BAAL SUGRIV SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "BAAL SUGRIV SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/368/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-10-16",
+ "cnr": "UKHC010134342025",
+ "doc_kind": "order",
+ "order_type": "WPSB/368/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm80Fi8yviCmQ6qGG0fu7dzwT16Dz9%2BXGiNqfZwZ8BMpO&caseno=WPSB/368/2025&cCode=1&cino=UKHC010134342025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7554d684130da95a326015ad2f5eaa44d1249b04aaaeb406181aae41bcf465ac",
+ "fetched_at": "2026-11-28T02:53:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

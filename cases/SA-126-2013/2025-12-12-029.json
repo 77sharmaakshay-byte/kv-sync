@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/126/2013:2025-12-12-029",
+ "title": "SMT. C. EDMOND versus GOPAL RAM",
+ "petitioner": "SMT. C. EDMOND",
+ "respondent": "GOPAL RAM",
+ "case_no": "SA/126/2013",
+ "case_type": "SA",
+ "decision_date": "2025-12-12",
+ "cnr": "UKHC010007782013",
+ "doc_kind": "order",
+ "order_type": "SA/126/2013",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=1AvGiyCPy5U8nXAXtVtaIbPIA8hgggx6c5BZJE32b66753nV68qlFKOn0H%2B4RXCt&caseno=SA/126/2013&cCode=1&cino=UKHC010007782013&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d41308b40b1b35a3cc2bf2c6ba5a2331f1217980643914036b9c14bd7ea32fae",
+ "fetched_at": "2026-11-28T02:34:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

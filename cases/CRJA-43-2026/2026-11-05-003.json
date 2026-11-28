@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/43/2026:2026-11-05-003",
+ "title": "TOLA versus STATE OF UTTARAKHAND",
+ "petitioner": "TOLA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/43/2026",
+ "case_type": "CRJA",
+ "decision_date": "2026-11-05",
+ "cnr": "UKHC010118492026",
+ "doc_kind": "order",
+ "order_type": "CRJA/43/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuwIq5TqlENhBetyluix6c9i1FPucLyd5ZEnUY8K75B7&caseno=CRJA/43/2026&cCode=1&cino=UKHC010118492026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "28ce289cf7b3755b8b0285b22da2af62cde0ffb6451b4af95a45467d3cfaa3a6",
+ "fetched_at": "2026-11-28T02:59:04+00:00",
+ "fetched_by": "fetch_live.py"
+}

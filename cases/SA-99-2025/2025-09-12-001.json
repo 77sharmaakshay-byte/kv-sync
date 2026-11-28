@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/99/2025:2025-09-12-001",
+ "title": "SURANTI DEVI versus RAJENDRA SINGH FIRMAAL",
+ "petitioner": "SURANTI DEVI",
+ "respondent": "RAJENDRA SINGH FIRMAAL",
+ "case_no": "SA/99/2025",
+ "case_type": "SA",
+ "decision_date": "2025-09-12",
+ "cnr": "UKHC010126492025",
+ "doc_kind": "order",
+ "order_type": "SA/99/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm065z3HXMNQTgkMSBghS%2Fpia0JwmtZNih5xkchcYd5IA&caseno=SA/99/2025&cCode=1&cino=UKHC010126492025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0254108ad686a40dc8daa634b9b3dd7d64e3411c308cda6de094d5450465ab99",
+ "fetched_at": "2026-11-28T02:34:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

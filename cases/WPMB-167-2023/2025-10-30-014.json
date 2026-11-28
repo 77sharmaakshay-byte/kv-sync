@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/167/2023:2025-10-30-014",
+ "title": "CHINMAYA EDUCATION SOCIETY versus STATE OF UTTARAKHAND",
+ "petitioner": "CHINMAYA EDUCATION SOCIETY",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/167/2023",
+ "case_type": "WPMB",
+ "decision_date": "2025-10-30",
+ "cnr": "UKHC010111862023",
+ "doc_kind": "order",
+ "order_type": "WPMB/167/2023",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXYzRIXASfpmAVlED%2BZdgKn27vSS1pdzLjaYlCXTa89pWI&caseno=WPMB/167/2023&cCode=1&cino=UKHC010111862023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6367936bc60a1c2cf407e631f4199bb3db0f76d2c01dc98837ce458f23b8d746",
+ "fetched_at": "2026-11-28T02:44:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

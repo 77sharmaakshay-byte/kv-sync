@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/254/2024:2026-07-09-009",
+ "title": "STATE OF UTTARAKHAND versus BALWANT SINGH",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "BALWANT SINGH",
+ "case_no": "WPSB/254/2024",
+ "case_type": "WPSB",
+ "decision_date": "2026-07-09",
+ "cnr": "UKHC010070402024",
+ "doc_kind": "order",
+ "order_type": "WPSB/254/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcJwMXipNlZCssxhnxZiFOWS5gOmxNXqFWE5E1vq0At%2B6&caseno=WPSB/254/2024&cCode=1&cino=UKHC010070402024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e063e7990a01c31eda642b5acc8cda13a4b1bbed212a1bbce9699b880ef54d68",
+ "fetched_at": "2026-11-28T02:45:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

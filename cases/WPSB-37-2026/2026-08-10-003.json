@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/37/2026:2026-08-10-003",
+ "title": "SEVAK SINGH BHANDARI versus STATE OF UTTARAKHAND",
+ "petitioner": "SEVAK SINGH BHANDARI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/37/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-10",
+ "cnr": "UKHC010011092026",
+ "doc_kind": "order",
+ "order_type": "WPSB/37/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQp8rozXT1zCQRotpf60FwVQf0nuMRFZmqK5RTQiorLOY&caseno=WPSB/37/2026&cCode=1&cino=UKHC010011092026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d2ce61577582daa45db953d34c940b3511dc203ba429ef2734385d899845c3e4",
+ "fetched_at": "2026-11-28T02:49:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

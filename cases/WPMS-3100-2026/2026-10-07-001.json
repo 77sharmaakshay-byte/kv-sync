@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3100/2026:2026-10-07-001",
+ "title": "JAGDEEP KHANNA versus JAGDISH GUPTA",
+ "petitioner": "JAGDEEP KHANNA",
+ "respondent": "JAGDISH GUPTA",
+ "case_no": "WPMS/3100/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010177512026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3100/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkpnSLrCt6I8rBCjea9N22aPTabg07l5PaagP0IeF8jE&caseno=WPMS/3100/2026&cCode=1&cino=UKHC010177512026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6f08eadf8d6d318f90b35f10cf358676bac6e749e026203c2556476d68991b22",
+ "fetched_at": "2026-11-28T02:57:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

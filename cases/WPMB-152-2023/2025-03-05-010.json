@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/152/2023:2025-03-05-010",
+ "title": "COMMITTEE OF MANAGEMENT versus UNION OF INDIA",
+ "petitioner": "COMMITTEE OF MANAGEMENT",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPMB/152/2023",
+ "case_type": "WPMB",
+ "decision_date": "2025-03-05",
+ "cnr": "UKHC010104192023",
+ "doc_kind": "order",
+ "order_type": "WPMB/152/2023",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY868AYuAMvBGzR8ffef7baf4cjJblxf1CUMV0hO0X7TC&caseno=WPMB/152/2023&cCode=1&cino=UKHC010104192023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "833fdc11bcf42fa7b09dabd85992535636567232f6b82a02d1fdddc9a311d505",
+ "fetched_at": "2026-11-28T02:45:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

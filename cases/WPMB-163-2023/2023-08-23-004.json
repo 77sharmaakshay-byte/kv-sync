@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/163/2023:2023-08-23-004",
+ "title": "COMMITTEE OF MANAGEMENT versus STATE OF UTTARAKHAND",
+ "petitioner": "COMMITTEE OF MANAGEMENT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/163/2023",
+ "case_type": "WPMB",
+ "decision_date": "2023-08-23",
+ "cnr": "UKHC010109972023",
+ "doc_kind": "order",
+ "order_type": "WPMB/163/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY8Z03a74iejzPrdIx0kubxqgAo5k5QwqlmXwGxrxxyHc&caseno=WPMB/163/2023&cCode=1&cino=UKHC010109972023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2f2c055575d692a7e792ccb0c85d96a06009ba7d09815cc1a63cbd02131ae81a",
+ "fetched_at": "2026-11-28T02:46:01+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/288/2026:2026-09-30-002",
+ "title": "RISHABH ALIAS IMRAN versus STATE OF UTTARAKHAND",
+ "petitioner": "RISHABH ALIAS IMRAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/288/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-09-30",
+ "cnr": "UKHC010078482026",
+ "doc_kind": "order",
+ "order_type": "CRLA/288/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrk%2Fukq0wLqoUnjHRuz2dbA495w2FcG5yQ9cr2l7IMHq&caseno=CRLA/288/2026&cCode=1&cino=UKHC010078482026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "05287d1b3c37c4050a5d91d7e78a36e103c59b91a017d765210e9422f450b54e",
+ "fetched_at": "2026-11-28T02:59:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

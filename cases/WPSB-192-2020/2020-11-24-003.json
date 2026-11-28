@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/192/2020:2020-11-24-003",
+ "title": "RAKESH BHATT versus STATE OF UTTARAKHAND",
+ "petitioner": "RAKESH BHATT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/192/2020",
+ "case_type": "WPSB",
+ "decision_date": "2020-11-24",
+ "cnr": "UKHC010070482020",
+ "doc_kind": "order",
+ "order_type": "WPSB/192/2020",
+ "judges": [
+  "Hon'ble Mr. Justice Ravi Malimath,Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=3omG2QVZB9ShlocKT35vjDyvDkPX9r2gvv0rMCKeuBTUUebYebI6X%2BfmTfAxgleX&caseno=WPSB/192/2020&cCode=1&cino=UKHC010070482020&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c5ba384d6606cbd8c48ffa3e9a284e5a5b16195f67729967956c18d2f8756ba7",
+ "fetched_at": "2026-11-28T02:52:44+00:00",
+ "fetched_by": "fetch_live.py"
+}

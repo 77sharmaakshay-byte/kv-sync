@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/20/2023:2026-03-10-012",
+ "title": "KUNDAN PATWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KUNDAN PATWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/20/2023",
+ "case_type": "CRJA",
+ "decision_date": "2026-03-10",
+ "cnr": "UKHC010006762023",
+ "doc_kind": "order",
+ "order_type": "CRJA/20/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3Y46H7Li4MvFoAVSgBn7cBwZh3Ng%2BVIC3sqxzyhoYzj&caseno=CRJA/20/2023&cCode=1&cino=UKHC010006762023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "146e5c63db16e4c49eddb600d765a47265e2c84d5af27e2e39597f7f84225b16",
+ "fetched_at": "2026-11-28T03:03:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

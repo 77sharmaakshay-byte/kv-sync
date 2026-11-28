@@ -6,7 +6,7 @@
  "registration_number": "WPMS /3356/2026",
  "registration_date": "2026-10-28",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-17",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
  "case_stage": "ADMISSION MATTERS -25",
  "status": "",
@@ -63,6 +63,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-17",
+   "purpose": "ADMISSION MATTERS -25",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-11-17",
    "business_date": "2026-11-03",
    "purpose": "FRESH CASES FOR ADMISSION -3",
@@ -83,6 +90,15 @@
    "order_type": "WPMS/3356/2026",
    "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrLYcljjhfCJVMwRDe61DOaUhzsTXYu7IB8R3ZuHj%2Fw0&caseno=WPMS/3356/2026&cCode=1&cino=UKHC010193782026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-17",
+   "order_type": "WPMS/3356/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrLYcljjhfCJVMwRDe61DObZySXlP3Wsza%2B67FAfNE2K&caseno=WPMS/3356/2026&cCode=1&cino=UKHC010193782026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

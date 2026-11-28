@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/106/2017:2018-07-13-002",
+ "title": "Shiv Kumar versus State Of Uttarakhand AND OTHERS",
+ "petitioner": "Shiv Kumar",
+ "respondent": "State Of Uttarakhand AND OTHERS",
+ "case_no": "WPPIL/106/2017",
+ "case_type": "WPPIL",
+ "decision_date": "2018-07-13",
+ "cnr": "UKHC010145682017",
+ "doc_kind": "order",
+ "order_type": "WPPIL/106/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShzS%2BVSxYT4SFkeRESI7vNfseHwgqEcXkN9lg5d8RWX5%2F&caseno=WPPIL/106/2017&cCode=1&cino=UKHC010145682017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "292eefe18c70bb642b2a5e94844cc4c1657b952d5642ba560dd4ef7fa3bab752",
+ "fetched_at": "2026-11-28T02:43:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

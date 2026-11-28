@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/453/2026:2026-07-23-001",
+ "title": "HEMU BISHT versus STATE OF UTTARAKHAND",
+ "petitioner": "HEMU BISHT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/453/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-07-23",
+ "cnr": "UKHC010125122026",
+ "doc_kind": "order",
+ "order_type": "WPSB/453/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiWptcmC2RX3tVp9rJmO8%2BY3W5%2FiqodHzLx%2FfBi1Pdii&caseno=WPSB/453/2026&cCode=1&cino=UKHC010125122026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1c03cff726999c22af3257fa44946aa070a859daa0591860095eb472cf8ec4de",
+ "fetched_at": "2026-11-28T02:52:08+00:00",
+ "fetched_by": "fetch_live.py"
+}

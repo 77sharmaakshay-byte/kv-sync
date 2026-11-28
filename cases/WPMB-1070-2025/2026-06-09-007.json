@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/1070/2025:2026-06-09-007",
+ "title": "MANVENDRA SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "MANVENDRA SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/1070/2025",
+ "case_type": "WPMB",
+ "decision_date": "2026-06-09",
+ "cnr": "UKHC010199152025",
+ "doc_kind": "order",
+ "order_type": "WPMB/1070/2025",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm99wCmhcWi4G70lY9bPouaC4Apx73Q2GRjBCYqG4btbW&caseno=WPMB/1070/2025&cCode=1&cino=UKHC010199152025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4e8bc300bbea000ecc7e77bcb6345fc78ccfc351809a3ff235937d56cb8f1ea2",
+ "fetched_at": "2026-11-28T02:47:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

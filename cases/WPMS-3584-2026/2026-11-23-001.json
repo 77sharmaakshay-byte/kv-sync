@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3584/2026:2026-11-23-001",
+ "title": "LAKHVINDER SINGH ALIAS LAKKHA versus SUB DIVISIONAL MAGISTRATE KASHIPUR",
+ "petitioner": "LAKHVINDER SINGH ALIAS LAKKHA",
+ "respondent": "SUB DIVISIONAL MAGISTRATE KASHIPUR",
+ "case_no": "WPMS/3584/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-23",
+ "cnr": "UKHC010207762026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3584/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnzYMV7XQVm6T2%2BaRatfORQAPy84XnH3gmklqPYtMcje&caseno=WPMS/3584/2026&cCode=1&cino=UKHC010207762026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e818a2ab5ad64cf966434cb47caf9392408b6157d1faaea98c2bfdc9ddd42e01",
+ "fetched_at": "2026-11-28T02:26:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

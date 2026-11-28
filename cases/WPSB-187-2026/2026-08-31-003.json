@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/187/2026:2026-08-31-003",
+ "title": "VINOD CHAUHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "VINOD CHAUHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/187/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010049252026",
+ "doc_kind": "order",
+ "order_type": "WPSB/187/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhKGKSa3RNVNoanTy8Pa%2B3esyje%2B4eZH3PslxSU4UZmB&caseno=WPSB/187/2026&cCode=1&cino=UKHC010049252026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d7d648ec64ca8648f7f42bea8c0fb6ba2224b81290dac9b5e48e07e0de97629e",
+ "fetched_at": "2026-11-28T02:54:06+00:00",
+ "fetched_by": "fetch_live.py"
+}

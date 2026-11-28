@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:HABC/14/2022:2022-06-27-001",
+ "title": "TRILOK SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "TRILOK SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "HABC/14/2022",
+ "case_type": "HABC",
+ "decision_date": "2022-06-27",
+ "cnr": "UKHC010087332022",
+ "doc_kind": "order",
+ "order_type": "HABC/14/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT06qKpniJYsMsLcqcRnpf7kDE7XrsGIIHIwF5lpkse2D4&caseno=HABC/14/2022&cCode=1&cino=UKHC010087332022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bf8051e0b94ced2f79ce72bc85c6ebac9c5631956df001f36ff3b38927148f98",
+ "fetched_at": "2026-11-28T02:58:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

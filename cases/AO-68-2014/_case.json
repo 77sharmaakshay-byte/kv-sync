@@ -6,9 +6,9 @@
  "registration_number": "AO /68/2014",
  "registration_date": "2014-03-05",
  "first_hearing_date": "2014-05-09",
- "next_hearing_date": "2026-10-30",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "FOR ORDERS -103",
+ "case_stage": "AFTER FRESH MATTERS -128",
  "status": "",
  "coram": "Hon'ble Mr. Justice Ravindra Maithani",
  "bench_type": "Single Bench",
@@ -39,6 +39,20 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-25",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-25",
+   "business_date": "2026-10-30",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-30",
    "business_date": "2026-10-15",
@@ -250,13 +264,6 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2024-06-11",
-   "business_date": null,
-   "purpose": "FOR FINAL HEARING -40",
-   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
-   "cause_list_type": "STAND OUT CAUSE LIST"
-  },
-  {
    "hearing_date": "2024-05-24",
    "business_date": "2024-03-19",
    "purpose": "FOR FINAL HEARING -40",
@@ -265,6 +272,13 @@
   },
   {
    "hearing_date": "2024-07-12",
+   "business_date": null,
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
+   "cause_list_type": "STAND OUT CAUSE LIST"
+  },
+  {
+   "hearing_date": "2024-06-11",
    "business_date": null,
    "purpose": "FOR FINAL HEARING -40",
    "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
@@ -285,15 +299,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2024-03-18",
-   "business_date": "2023-10-10",
+   "hearing_date": "2024-01-10",
+   "business_date": null,
    "purpose": "ORDER MATTERS -17",
    "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2024-01-10",
-   "business_date": null,
+   "hearing_date": "2024-03-18",
+   "business_date": "2023-10-10",
    "purpose": "ORDER MATTERS -17",
    "judge": "Hon'ble Mr. Justice Vivek Bharti Sharma",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -572,6 +586,24 @@
    "order_type": "AO/68/2014",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobPPffXmzEcESMokYcFiZBR5w5vSnldtTuxHgUB5Yw0%2BS&caseno=AO/68/2014&cCode=1&cino=UKHC010004822014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-30",
+   "order_type": "AO/68/2014",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobPPffXmzEcESMokYcFiZBR5NRhaE9gThc4V5qlozyEPn&caseno=AO/68/2014&cCode=1&cino=UKHC010004822014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-25",
+   "order_type": "AO/68/2014",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobPPffXmzEcESMokYcFiZBR4%2FcAE20mBT4SftWQsN1wcq&caseno=AO/68/2014&cCode=1&cino=UKHC010004822014&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

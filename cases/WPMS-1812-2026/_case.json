@@ -6,11 +6,11 @@
  "registration_number": "WPMS /1812/2026",
  "registration_date": "2026-06-11",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-04",
+ "next_hearing_date": "2026-11-28",
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
  "status": "",
- "coram": "Registrar (Judicial)",
+ "coram": "Hon'ble Mr. Justice Pankaj Purohit",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -56,6 +56,20 @@
   },
   {
    "hearing_date": null,
+   "business_date": "2026-11-06",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST II"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-04",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
    "business_date": "2026-09-28",
    "purpose": "FRESH CASES AS DEFECTIVE -236",
    "judge": "Registrar (Judicial)",
@@ -83,5 +97,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-11-06",
+   "order_type": "WPMS/1812/2026",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQg8DzzhQ3LUJGaKHuSnzmd4BQIIG%2FgH8CrKy%2BO7xzfZm&caseno=WPMS/1812/2026&cCode=1&cino=UKHC010103112026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

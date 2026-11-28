@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/425/2026:2026-08-20-002",
+ "title": "KARTIK SAH versus ANUKRITI SAH",
+ "petitioner": "KARTIK SAH",
+ "respondent": "ANUKRITI SAH",
+ "case_no": "CRLR/425/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-08-20",
+ "cnr": "UKHC010098412026",
+ "doc_kind": "order",
+ "order_type": "CRLR/425/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQn0CJZTF4BsUdT7syFPLrlC7ANQkhBbyF7QQz2zQVXjF&caseno=CRLR/425/2026&cCode=1&cino=UKHC010098412026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dd10d8a846925bc7b3ae1b6ebc684b3a40941b5bab78a15cbd579692755a2e8b",
+ "fetched_at": "2026-11-28T02:37:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

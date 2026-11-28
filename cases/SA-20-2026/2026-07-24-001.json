@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/20/2026:2026-07-24-001",
+ "title": "SWARN SINGH versus SARWAN SINGH",
+ "petitioner": "SWARN SINGH",
+ "respondent": "SARWAN SINGH",
+ "case_no": "SA/20/2026",
+ "case_type": "SA",
+ "decision_date": "2026-07-24",
+ "cnr": "UKHC010028082026",
+ "doc_kind": "order",
+ "order_type": "SA/20/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhOggKhlGaet4rca%2FRpnTP1Rvie2XQZ2XBhDCmhvdiUI&caseno=SA/20/2026&cCode=1&cino=UKHC010028082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4c83b7ad49767dac6ea3cca13fed05716922cb45fbdab422da0a00c94ae163d4",
+ "fetched_at": "2026-11-28T02:32:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

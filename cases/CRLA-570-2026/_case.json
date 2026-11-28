@@ -6,7 +6,7 @@
  "registration_number": "CRLA /570/2026",
  "registration_date": "2026-09-30",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-16",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
@@ -51,6 +51,20 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-23",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-23",
+   "business_date": "2026-11-16",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-11-16",
    "business_date": "2026-10-06",
    "purpose": "FRESH CASES FOR ADMISSION -3",
@@ -64,6 +78,24 @@
    "order_type": "CRLA/570/2026",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm7QzfvZebHyX2z%2BWlGHHhBXmf2qXh8ophi%2FmKC8imgA&caseno=CRLA/570/2026&cCode=1&cino=UKHC010175352026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-16",
+   "order_type": "CRLA/570/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm7QzfvZebHyX2z%2BWlGHHhDNRXfS%2BFvKl%2FgvcEupwYmH&caseno=CRLA/570/2026&cCode=1&cino=UKHC010175352026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-23",
+   "order_type": "CRLA/570/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQm7QzfvZebHyX2z%2BWlGHHhBMK8gf%2Fff%2BpumM1R4R3LsI&caseno=CRLA/570/2026&cCode=1&cino=UKHC010175352026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

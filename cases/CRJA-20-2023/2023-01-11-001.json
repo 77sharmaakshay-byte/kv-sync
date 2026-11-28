@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/20/2023:2023-01-11-001",
+ "title": "KUNDAN PATWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KUNDAN PATWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/20/2023",
+ "case_type": "CRJA",
+ "decision_date": "2023-01-11",
+ "cnr": "UKHC010006762023",
+ "doc_kind": "order",
+ "order_type": "CRJA/20/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3Y46H7Li4MvFoAVSgBn7cBIfrm2hGTtsWm6eVX9oLhR&caseno=CRJA/20/2023&cCode=1&cino=UKHC010006762023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3c91a8eed1a66d10a8cb9c50714a62da1fa65836218f1d5802024325d2d99599",
+ "fetched_at": "2026-11-28T03:03:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

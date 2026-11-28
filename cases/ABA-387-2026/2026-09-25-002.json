@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/387/2026:2026-09-25-002",
+ "title": "ABDUL SAMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "ABDUL SAMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/387/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-25",
+ "cnr": "UKHC010164472026",
+ "doc_kind": "order",
+ "order_type": "ABA/387/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsQpH%2B3lZVd9IZycD71chjS81K7A93vSstRlAdsYtHJA&caseno=ABA/387/2026&cCode=1&cino=UKHC010164472026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e3a5406f698e558b438f7e22717453493b755c63b11b84e52c5fe41a1ad02d59",
+ "fetched_at": "2026-11-28T02:30:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

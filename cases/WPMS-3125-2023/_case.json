@@ -6,7 +6,7 @@
  "registration_number": "WPMS /3125/2023",
  "registration_date": "2023-11-06",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-03",
+ "next_hearing_date": "2026-11-28",
  "decision_date": null,
  "case_stage": "URGENCY APPLICATIONS WITHOUT RECORD -257",
  "status": "",
@@ -52,6 +52,13 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2027-02-05",
+   "business_date": "2026-11-03",
+   "purpose": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -262,6 +269,15 @@
    "order_type": "WPMS/3125/2023",
    "judge": "Hon'ble Mr. Justice Manoj Kumar Tiwari",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY2nc83mjTV2HF9rSiPnfv4zVdTkS1cxuS4LnLfLgNh50&caseno=WPMS/3125/2023&cCode=1&cino=UKHC010180182023&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-03",
+   "order_type": "WPMS/3125/2023",
+   "judge": "Hon'ble Mr. Justice Pankaj Purohit",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY2nc83mjTV2HF9rSiPnfv4wZniH22qnUmyUz7Uj%2FoCQk&caseno=WPMS/3125/2023&cCode=1&cino=UKHC010180182023&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

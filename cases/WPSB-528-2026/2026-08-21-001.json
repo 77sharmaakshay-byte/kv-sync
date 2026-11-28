@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/528/2026:2026-08-21-001",
+ "title": "PREETI JANGID versus THE GOVERNMENT OF INDIA",
+ "petitioner": "PREETI JANGID",
+ "respondent": "THE GOVERNMENT OF INDIA",
+ "case_no": "WPSB/528/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-21",
+ "cnr": "UKHC010140302026",
+ "doc_kind": "order",
+ "order_type": "WPSB/528/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtMUWbVCDuAEJB6sMxA9FrxOssIyh1yAtOS%2F3hTdFktD&caseno=WPSB/528/2026&cCode=1&cino=UKHC010140302026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c1f2df949a8c8a03a0d2e91477072b31cdc6410d30ea9376e8e1403af94dccda",
+ "fetched_at": "2026-11-28T02:53:54+00:00",
+ "fetched_by": "fetch_live.py"
+}

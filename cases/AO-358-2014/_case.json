@@ -6,9 +6,9 @@
  "registration_number": "AO /358/2014",
  "registration_date": "2014-08-27",
  "first_hearing_date": "2014-10-07",
- "next_hearing_date": "2026-10-30",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "FOR ORDERS -103",
+ "case_stage": "AFTER FRESH MATTERS -128",
  "status": "",
  "coram": "Hon'ble Mr. Justice Ravindra Maithani",
  "bench_type": "Single Bench",
@@ -39,6 +39,20 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-25",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-25",
+   "business_date": "2026-10-30",
+   "purpose": "FOR ORDERS -103",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-30",
    "business_date": "2026-10-15",
@@ -773,6 +787,24 @@
    "order_type": "AO/358/2014",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobG7DIqmMTSTTJxujm4iU%2FIi2TgIDVO9TML5lu01Sdgm7&caseno=AO/358/2014&cCode=1&cino=UKHC010020812014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-30",
+   "order_type": "AO/358/2014",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobG7DIqmMTSTTJxujm4iU%2FIj91lx9NzClJeO3FONsaCRs&caseno=AO/358/2014&cCode=1&cino=UKHC010020812014&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-25",
+   "order_type": "AO/358/2014",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=rurp2s9NenG%2FUBCOr0vobG7DIqmMTSTTJxujm4iU%2FIhE7FYbCnfjCXMr8253waSt&caseno=AO/358/2014&cCode=1&cino=UKHC010020812014&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

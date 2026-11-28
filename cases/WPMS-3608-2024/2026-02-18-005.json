@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3608/2024:2026-02-18-005",
+ "title": "DIVYA TOMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DIVYA TOMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3608/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-02-18",
+ "cnr": "UKHC010204742024",
+ "doc_kind": "order",
+ "order_type": "WPMS/3608/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcMfsslie4Y%2FJgE%2BI0TkIbfVxDfXNdX3ZHvbPucexAxZJ&caseno=WPMS/3608/2024&cCode=1&cino=UKHC010204742024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1da1c856eef10f1482e21d60789f7b291857b8d397a9c48b9d69d576fe3babda",
+ "fetched_at": "2026-11-28T02:31:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

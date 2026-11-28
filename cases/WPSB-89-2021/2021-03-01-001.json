@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/89/2021:2021-03-01-001",
+ "title": "PRIYANKA RANI versus STATE OF UTTARAKHAND",
+ "petitioner": "PRIYANKA RANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/89/2021",
+ "case_type": "WPSB",
+ "decision_date": "2021-03-01",
+ "cnr": "UKHC010025002021",
+ "doc_kind": "order",
+ "order_type": "WPSB/89/2021",
+ "judges": [
+  "Hon'ble Mr. Raghvendra Singh Chauhan,Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkDNQvzlYZ88ZHVsnGFXSTEnaj%2BTVZMu1X3rH4H4pwJGu&caseno=WPSB/89/2021&cCode=1&cino=UKHC010025002021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9448026ffbb82b7d2bd87a9615e2aadab972cbb1771731275d86544ad9b2ff17",
+ "fetched_at": "2026-11-28T02:41:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/110/2011:2016-09-28-006",
+ "title": "SMT. JAITOON versus SMT. SUCHITA KHURANA",
+ "petitioner": "SMT. JAITOON",
+ "respondent": "SMT. SUCHITA KHURANA",
+ "case_no": "AO/110/2011",
+ "case_type": "AO",
+ "decision_date": "2016-09-28",
+ "cnr": "UKHC010010262011",
+ "doc_kind": "order",
+ "order_type": "AO/110/2011",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYofOhvawX3GWVWXcg7E5uzCdHok5FssZ5JL%2BefAD8XGEb&caseno=AO/110/2011&cCode=1&cino=UKHC010010262011&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7f5d65dcb1ee4aa20da951dcec9457631759a35a5b59d1b836255066ecbbe845",
+ "fetched_at": "2026-11-28T02:35:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

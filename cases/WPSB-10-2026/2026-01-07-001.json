@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/10/2026:2026-01-07-001",
+ "title": "DHIRENDRA MISHRA versus STATE OF UTTARAKHAND",
+ "petitioner": "DHIRENDRA MISHRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/10/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-01-07",
+ "cnr": "UKHC010001852026",
+ "doc_kind": "order",
+ "order_type": "WPSB/10/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqoFZ6RMFubQ8qatGq9E8tcPiBkOgcfsqiprFQCX3XrA&caseno=WPSB/10/2026&cCode=1&cino=UKHC010001852026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3331ee1a5188ac759614ff8167f34bc3a3cbadde217ceb91e78c3187c44c61c8",
+ "fetched_at": "2026-11-28T02:52:16+00:00",
+ "fetched_by": "fetch_live.py"
+}

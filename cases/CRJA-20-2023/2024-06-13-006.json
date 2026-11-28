@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/20/2023:2024-06-13-006",
+ "title": "KUNDAN PATWAL versus STATE OF UTTARAKHAND",
+ "petitioner": "KUNDAN PATWAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/20/2023",
+ "case_type": "CRJA",
+ "decision_date": "2024-06-13",
+ "cnr": "UKHC010006762023",
+ "doc_kind": "order",
+ "order_type": "IA/1/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY3Y46H7Li4MvFoAVSgBn7cA60i4IU46SRdntOjJREtOz&caseno=CRJA/20/2023&cCode=1&cino=UKHC010006762023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1669ecfd26961808d15b1b59d85d3d1198ff73fd27e0f02308787228c425c385",
+ "fetched_at": "2026-11-28T03:03:33+00:00",
+ "fetched_by": "fetch_live.py"
+}

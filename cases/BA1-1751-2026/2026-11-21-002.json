@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1751/2026:2026-11-21-002",
+ "title": "SALMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SALMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1751/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-11-21",
+ "cnr": "UKHC010185912026",
+ "doc_kind": "order",
+ "order_type": "BA1/1751/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvjIolpSK4zHwGmP%2BkmuIxwm1jx69stvC%2BU1mm%2FSoJJi&caseno=BA1/1751/2026&cCode=1&cino=UKHC010185912026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "34e9eb5f4b3084763c48b0365a3c7815091c04a4a76d44b69646ab94ca7e39a4",
+ "fetched_at": "2026-11-28T02:20:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

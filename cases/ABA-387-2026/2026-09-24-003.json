@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:ABA/387/2026:2026-09-24-003",
+ "title": "ABDUL SAMAD versus STATE OF UTTARAKHAND",
+ "petitioner": "ABDUL SAMAD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "ABA/387/2026",
+ "case_type": "ABA",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010164472026",
+ "doc_kind": "order",
+ "order_type": "ABA/387/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsQpH%2B3lZVd9IZycD71chjQwFugSBOMuIlkgJqQE%2FWcI&caseno=ABA/387/2026&cCode=1&cino=UKHC010164472026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "54fac4872aad3f770b785a4376aee3e269c0b0ed31e314b6d15d1a4a294be038",
+ "fetched_at": "2026-11-28T02:30:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

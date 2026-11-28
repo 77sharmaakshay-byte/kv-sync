@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1242/2024:2024-05-22-001",
+ "title": "SHASHANK PANDEY versus REGISTRAR GENERAL HIGH COURT OF UTTARAKHAND",
+ "petitioner": "SHASHANK PANDEY",
+ "respondent": "REGISTRAR GENERAL HIGH COURT OF UTTARAKHAND",
+ "case_no": "WPMS/1242/2024",
+ "case_type": "WPMS",
+ "decision_date": "2024-05-22",
+ "cnr": "UKHC010071632024",
+ "doc_kind": "order",
+ "order_type": "WPMS/1242/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcBs7UnpZNzg35t%2FkE%2Fbt%2F%2FtD6HGtHCkWlOtehKom2KMK&caseno=WPMS/1242/2024&cCode=1&cino=UKHC010071632024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3f1b1ce1a3aa88e096e39fedcf2d2a0701e4e74e7320b541bee07928628c72cf",
+ "fetched_at": "2026-11-28T02:32:30+00:00",
+ "fetched_by": "fetch_live.py"
+}

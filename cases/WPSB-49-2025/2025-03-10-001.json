@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/49/2025:2025-03-10-001",
+ "title": "RAJ JUYAL AND OTHERS versus STATE OF UTTARAKHAND",
+ "petitioner": "RAJ JUYAL AND OTHERS",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/49/2025",
+ "case_type": "WPSB",
+ "decision_date": "2025-03-10",
+ "cnr": "UKHC010028972025",
+ "doc_kind": "order",
+ "order_type": "WPSB/49/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm63M8Oq5LC2vo8urc95Zw%2F79J8g429lCwXWMl%2F1Wg7Ol&caseno=WPSB/49/2025&cCode=1&cino=UKHC010028972025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7febfb38aac53534cbcfe4cef9a6e9085895f19a9141b1bd280feac7fe266abe",
+ "fetched_at": "2026-11-28T02:51:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

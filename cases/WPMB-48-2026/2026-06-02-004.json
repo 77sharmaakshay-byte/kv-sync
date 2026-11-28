@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/48/2026:2026-06-02-004",
+ "title": "GULSHAN KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "GULSHAN KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/48/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-06-02",
+ "cnr": "UKHC010010202026",
+ "doc_kind": "order",
+ "order_type": "WPMB/48/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkLeMa1D2F0y0VZSnITiZJizmVaPNNRwTP5i8QSEFeTb&caseno=WPMB/48/2026&cCode=1&cino=UKHC010010202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "503f7a5435f73e3b3e234fa45cebc1ef246c1d9d7c7a1e2831d7da192d74619e",
+ "fetched_at": "2026-11-28T02:51:55+00:00",
+ "fetched_by": "fetch_live.py"
+}

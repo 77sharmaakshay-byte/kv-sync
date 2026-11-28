@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/475/2025:2025-09-09-006",
+ "title": "C O E R MEDICAL COLLEGE OF AYURVEDA AND HOSPITAL versus STATE OF UTTARAKHAND",
+ "petitioner": "C O E R MEDICAL COLLEGE OF AYURVEDA AND HOSPITAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/475/2025",
+ "case_type": "WPMB",
+ "decision_date": "2025-09-09",
+ "cnr": "UKHC010048902025",
+ "doc_kind": "order",
+ "order_type": "WPMB/475/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmwVEwkQeIhqtU4stZWYaYTDxPwrVCvaHGqSU1euvmZso&caseno=WPMB/475/2025&cCode=1&cino=UKHC010048902025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3dc884e991ea66d4b5e999a46cb60b9b88766e23e92f91e190caf05777c92284",
+ "fetched_at": "2026-11-28T02:50:53+00:00",
+ "fetched_by": "fetch_live.py"
+}

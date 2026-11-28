@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMB/591/2026:2026-08-03-001",
+ "title": "MOHAMMAD SAMEER versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHAMMAD SAMEER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMB/591/2026",
+ "case_type": "WPMB",
+ "decision_date": "2026-08-03",
+ "cnr": "UKHC010127832026",
+ "doc_kind": "order",
+ "order_type": "WPMB/591/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoa%2BoQL26Z%2B%2BeWv7AkxqZ2Ww6dsV8MkoXS5zzBBktSES&caseno=WPMB/591/2026&cCode=1&cino=UKHC010127832026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "288800acc816e39069dd3c611efe283f298f56800eaf8057c905a057b70fa530",
+ "fetched_at": "2026-11-28T02:49:35+00:00",
+ "fetched_by": "fetch_live.py"
+}

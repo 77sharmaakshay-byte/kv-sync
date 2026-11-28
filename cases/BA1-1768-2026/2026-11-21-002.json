@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1768/2026:2026-11-21-002",
+ "title": "MEHERBAN versus STATE OF UTTARAKHAND",
+ "petitioner": "MEHERBAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1768/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-11-21",
+ "cnr": "UKHC010186932026",
+ "doc_kind": "order",
+ "order_type": "BA1/1768/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpdUxBYPjzkYdVG6wreqOzBFdAVwzW5dw5HxDo2B70i%2B&caseno=BA1/1768/2026&cCode=1&cino=UKHC010186932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "240066f70c446c3f85dd997a93294b5f28a9101aa51dc5c1cba3da70b52dbae6",
+ "fetched_at": "2026-11-28T02:20:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

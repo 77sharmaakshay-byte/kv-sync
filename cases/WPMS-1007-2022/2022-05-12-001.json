@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1007/2022:2022-05-12-001",
+ "title": "MANJIRA DEVI AYURVEDIC MEDICAL COLLEGE RUKMANI NAGAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MANJIRA DEVI AYURVEDIC MEDICAL COLLEGE RUKMANI NAGAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1007/2022",
+ "case_type": "WPMS",
+ "decision_date": "2022-05-12",
+ "cnr": "UKHC010060952022",
+ "doc_kind": "order",
+ "order_type": "WPMS/1007/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sanjaya Kumar Mishra,Hon'ble Mr. Justice Ramesh Chandra Khulbe"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xHJK4g%2FGjCPVaoeGVLdQOiv%2FTw1hsxp%2BOX2pYrClafl&caseno=WPMS/1007/2022&cCode=1&cino=UKHC010060952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5d7b5507febc4176691f04ea834b8f489dd22ebd41cc6b492d3005a5c04a1a61",
+ "fetched_at": "2026-11-28T02:48:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

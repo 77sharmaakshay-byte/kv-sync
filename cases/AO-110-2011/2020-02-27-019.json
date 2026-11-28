@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:AO/110/2011:2020-02-27-019",
+ "title": "SMT. JAITOON versus SMT. SUCHITA KHURANA",
+ "petitioner": "SMT. JAITOON",
+ "respondent": "SMT. SUCHITA KHURANA",
+ "case_no": "AO/110/2011",
+ "case_type": "AO",
+ "decision_date": "2020-02-27",
+ "cnr": "UKHC010010262011",
+ "doc_kind": "order",
+ "order_type": "AO/110/2011",
+ "judges": [
+  "Hon'ble Mr. Justice Lok Pal Singh"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=tOv3RvsyWSlaFotc2bMYofOhvawX3GWVWXcg7E5uzCfO89ABWufhKKBdT8JQnKZw&caseno=AO/110/2011&cCode=1&cino=UKHC010010262011&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3026ecea1a6b5198d9bb6f38d5ffcc9195dd776dd14a87ca990f76a159b89d6d",
+ "fetched_at": "2026-11-28T02:35:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

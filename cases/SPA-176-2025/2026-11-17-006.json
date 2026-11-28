@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SPA/176/2025:2026-11-17-006",
+ "title": "STATE OF UTTARAKHAND versus JAGDISH CHANDRA BHATT",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "JAGDISH CHANDRA BHATT",
+ "case_no": "SPA/176/2025",
+ "case_type": "SPA",
+ "decision_date": "2026-11-17",
+ "cnr": "UKHC010101792025",
+ "doc_kind": "order",
+ "order_type": "SPA/176/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "Case disposed",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5qdl%2FLrjFwWwasczwDDcoragbnJLhD5Sjv8maoVGbVu&caseno=SPA/176/2025&cCode=1&cino=UKHC010101792025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f0fc2ed26fceec04c1ffec70bae081e1451b3311e6d544c595362f8782bb8668",
+ "fetched_at": "2026-11-28T03:05:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

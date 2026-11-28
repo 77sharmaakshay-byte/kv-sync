@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/89/2021:2026-09-17-003",
+ "title": "PRIYANKA RANI versus STATE OF UTTARAKHAND",
+ "petitioner": "PRIYANKA RANI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/89/2021",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-17",
+ "cnr": "UKHC010025002021",
+ "doc_kind": "order",
+ "order_type": "WPSB/89/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkDNQvzlYZ88ZHVsnGFXSTElwfj%2Fc8F0fNHuYxURIlHGH&caseno=WPSB/89/2021&cCode=1&cino=UKHC010025002021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0f4ebbeff81557cd7b315efec261ed112d6800c3b9fbff124a19c6576b2fc489",
+ "fetched_at": "2026-11-28T02:41:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

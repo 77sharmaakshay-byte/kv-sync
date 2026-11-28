@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/360/2026:2026-06-18-001",
+ "title": "PRADEEP KUMAR UNIYAL versus THE STATE OF UTTARAKHAND",
+ "petitioner": "PRADEEP KUMAR UNIYAL",
+ "respondent": "THE STATE OF UTTARAKHAND",
+ "case_no": "WPSB/360/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-06-18",
+ "cnr": "UKHC010102892026",
+ "doc_kind": "order",
+ "order_type": "WPSB/360/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQk6GftfPVjd47%2BK0SskXf4DDeTWsKl8Vj3Aa3QXv2%2FGh&caseno=WPSB/360/2026&cCode=1&cino=UKHC010102892026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4353038b1d7456beb2195142768d119e1c3cdfacfe97bd731eb11f7fc14e3e14",
+ "fetched_at": "2026-11-28T02:51:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

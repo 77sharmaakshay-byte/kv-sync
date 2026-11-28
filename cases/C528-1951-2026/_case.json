@@ -1,0 +1,80 @@
+{
+ "cnr_number": "UKHC010157302026",
+ "case_type": "",
+ "filing_number": "C528 /7602/2026",
+ "filing_date": "2026-09-03",
+ "registration_number": "C528 /1951/2026",
+ "registration_date": "2026-09-03",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-28",
+ "decision_date": null,
+ "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Nainital",
+ "petitioners": [
+  {
+   "name": "SANDEEP SINGH",
+   "advocate": "VISHAL KUMAR NAUTIYAL,SHALINI THAKRAL,SHALINI THAKRAL, ,SHALINI THAKRAL"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "STATION HOUSE OFFICER",
+   "advocate": "G.A."
+  },
+  {
+   "name": "ANANYA MEHRA",
+   "advocate": ""
+  }
+ ],
+ "acts": [
+  {
+   "act": "Indian Penal Code, 1860 (Act No. 45 of 1860)",
+   "sections": "498A"
+  },
+  {
+   "act": "Dowry Prohibition Act, 1961 (Act No. 28 of 1961)",
+   "sections": "3/4"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-09-08",
+   "business_date": null,
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-11-23",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-10-12",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": null,
+   "business_date": "2026-09-08",
+   "purpose": "FRESH CASES AS DEFECTIVE -236",
+   "judge": "Registrar (Judicial)",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": []
+}

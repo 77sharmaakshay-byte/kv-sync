@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/38/2026:2026-04-27-002",
+ "title": "VIKRAM PANT versus STATE OF UTTARAKHAND",
+ "petitioner": "VIKRAM PANT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/38/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-04-27",
+ "cnr": "UKHC010011142026",
+ "doc_kind": "order",
+ "order_type": "WPSB/38/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQl2y3EoIXzV5NNT3T69MmipxqsWNbK5CdjWHKe1FxnDV&caseno=WPSB/38/2026&cCode=1&cino=UKHC010011142026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "448721e3424b8864cce9956a7da1f54db770f7e79c5e8499cbf8871e879c287f",
+ "fetched_at": "2026-11-28T02:52:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

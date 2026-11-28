@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJR/4/2026:2026-04-29-001",
+ "title": "VIPIN NAYYAR versus STATE OF UTTARAKHAND",
+ "petitioner": "VIPIN NAYYAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJR/4/2026",
+ "case_type": "CRJR",
+ "decision_date": "2026-04-29",
+ "cnr": "UKHC010061042026",
+ "doc_kind": "order",
+ "order_type": "CRJR/4/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnLbzzdtsW1yBQng%2FkGEVrqyM9%2F1LRR7bAhsvuyaoVHn&caseno=CRJR/4/2026&cCode=1&cino=UKHC010061042026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e9a8119792e5cb613fce6044602c9837f3ca7224831277ddb5d6686b92e9cfac",
+ "fetched_at": "2026-11-28T02:36:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

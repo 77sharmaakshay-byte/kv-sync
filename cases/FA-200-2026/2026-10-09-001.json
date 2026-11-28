@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:FA/200/2026:2026-10-09-001",
+ "title": "BHAGWATI SHAH versus RAJAN JOSHI",
+ "petitioner": "BHAGWATI SHAH",
+ "respondent": "RAJAN JOSHI",
+ "case_no": "FA/200/2026",
+ "case_type": "FA",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010179112026",
+ "doc_kind": "order",
+ "order_type": "FA/200/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoi0vntKZvT14VI2X6RFcqk5nG05Lar26ZtvQmNTykWv&caseno=FA/200/2026&cCode=1&cino=UKHC010179112026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "282c5796adb72737c0221e098229fd4b942adbe8a0f7d7e963906da23c3541e6",
+ "fetched_at": "2026-11-28T02:34:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2391/2022:2025-11-14-004",
+ "title": "HARISH CHANDRA SINGH versus COMMISSIONER KUMAON MANDAL DISTRICT NAINITAL",
+ "petitioner": "HARISH CHANDRA SINGH",
+ "respondent": "COMMISSIONER KUMAON MANDAL DISTRICT NAINITAL",
+ "case_no": "WPMS/2391/2022",
+ "case_type": "WPMS",
+ "decision_date": "2025-11-14",
+ "cnr": "UKHC010143272022",
+ "doc_kind": "order",
+ "order_type": "WPMS/2391/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT01cZOPYukW%2BpJriwkearJjOQClw8miZ5VlGHBEfF6uOX&caseno=WPMS/2391/2022&cCode=1&cino=UKHC010143272022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7fb4b7e0e22a6a9e96fb6fee38d20691f545bdabd0d031a68a472e2cef6ee022",
+ "fetched_at": "2026-11-28T02:32:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

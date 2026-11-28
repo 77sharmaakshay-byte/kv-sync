@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/11/2026:2026-01-07-001",
+ "title": "SHANKAR SINGH BORA versus STATE OF UTTARAKHAND",
+ "petitioner": "SHANKAR SINGH BORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/11/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-01-07",
+ "cnr": "UKHC010002042026",
+ "doc_kind": "order",
+ "order_type": "WPSB/11/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnxKKoDLs%2F5GsZN57s1Ab0vbiSndb1G0bvRU0QcVTmZq&caseno=WPSB/11/2026&cCode=1&cino=UKHC010002042026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e4ab6d61ce998e36ba6517f48a8cdb8f93054155945fa066c974a737eed16808",
+ "fetched_at": "2026-11-28T02:51:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

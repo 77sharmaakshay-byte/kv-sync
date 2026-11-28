@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3608/2024:2026-08-31-010",
+ "title": "DIVYA TOMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "DIVYA TOMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3608/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-08-31",
+ "cnr": "UKHC010204742024",
+ "doc_kind": "order",
+ "order_type": "WPMS/3608/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "URGENCY APPLICATIONS WITHOUT RECORD -257",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcMfsslie4Y%2FJgE%2BI0TkIbfWzoNqRLjiyhqZCaeZoKU6q&caseno=WPMS/3608/2024&cCode=1&cino=UKHC010204742024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "624ceff486f893f162dabd069bebea96f24679f64adeefe7fcda2366dee823ea",
+ "fetched_at": "2026-11-28T02:32:02+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/1007/2022:2026-06-16-011",
+ "title": "MANJIRA DEVI AYURVEDIC MEDICAL COLLEGE RUKMANI NAGAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MANJIRA DEVI AYURVEDIC MEDICAL COLLEGE RUKMANI NAGAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/1007/2022",
+ "case_type": "WPMS",
+ "decision_date": "2026-06-16",
+ "cnr": "UKHC010060952022",
+ "doc_kind": "order",
+ "order_type": "WPMS/1007/2022",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT0xHJK4g%2FGjCPVaoeGVLdQOilRd%2B1y91FQnGPnXLIyT2Y&caseno=WPMS/1007/2022&cCode=1&cino=UKHC010060952022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "120fbbd0ab883c98173f49e5dfd0c807ef7ae96059bca0a88ae43fc427aaf6ab",
+ "fetched_at": "2026-11-28T02:49:21+00:00",
+ "fetched_by": "fetch_live.py"
+}

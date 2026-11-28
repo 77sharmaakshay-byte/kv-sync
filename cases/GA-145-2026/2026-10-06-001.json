@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:GA/145/2026:2026-10-06-001",
+ "title": "STATE OF UTTARAKHAND versus NEERAJ ALIAS KAANU KAIRA",
+ "petitioner": "STATE OF UTTARAKHAND",
+ "respondent": "NEERAJ ALIAS KAANU KAIRA",
+ "case_no": "GA/145/2026",
+ "case_type": "GA",
+ "decision_date": "2026-10-06",
+ "cnr": "UKHC010175542026",
+ "doc_kind": "order",
+ "order_type": "GA/145/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "Order on Applications (Time Barred Cases) -250",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqI5dUyBjSMPXZ%2B12fsq8TlDz689HxBBeU%2F7yKTmrjJU&caseno=GA/145/2026&cCode=1&cino=UKHC010175542026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c5f5353d89945ffc4a54fd32f6d977f3b96bfaf6729f5640de3afe5ee0346d4e",
+ "fetched_at": "2026-11-28T03:03:18+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/11/2026:2026-08-10-003",
+ "title": "SHANKAR SINGH BORA versus STATE OF UTTARAKHAND",
+ "petitioner": "SHANKAR SINGH BORA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/11/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-08-10",
+ "cnr": "UKHC010002042026",
+ "doc_kind": "order",
+ "order_type": "WPSB/11/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnxKKoDLs%2F5GsZN57s1Ab0uvXAaJ5gKpA%2BTHRuE02LPi&caseno=WPSB/11/2026&cCode=1&cino=UKHC010002042026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d2ce61577582daa45db953d34c940b3511dc203ba429ef2734385d899845c3e4",
+ "fetched_at": "2026-11-28T02:51:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

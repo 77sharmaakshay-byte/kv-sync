@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSB/608/2026:2026-09-22-001",
+ "title": "MUKESH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "MUKESH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSB/608/2026",
+ "case_type": "WPSB",
+ "decision_date": "2026-09-22",
+ "cnr": "UKHC010164012026",
+ "doc_kind": "order",
+ "order_type": "WPSB/608/2026",
+ "judges": [
+  "Hon'ble Shri Justice Manoj Kumar Gupta,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "JUST AFTER FRESH MATTERS -252",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvcWRbgpsfV8t28QUqlRgQSfORqohHWX5BBV5NoF1yVM&caseno=WPSB/608/2026&cCode=1&cino=UKHC010164012026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "638d5024870ee0940468cbd0cbb1dc67a2c72409a9f1b141ee2776a55f8b4567",
+ "fetched_at": "2026-11-28T02:45:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

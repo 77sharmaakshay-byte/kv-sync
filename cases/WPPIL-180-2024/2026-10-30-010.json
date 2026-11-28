@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPPIL/180/2024:2026-10-30-010",
+ "title": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY NAINITAL versus UNION OF INDIA",
+ "petitioner": "UTTARAKHAND STATE LEGAL SERVICES AUTHORITY NAINITAL",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPPIL/180/2024",
+ "case_type": "WPPIL",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010179032024",
+ "doc_kind": "order",
+ "order_type": "WPPIL/180/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcI11a9c%2BasKMEkeUTOZt5Hpou0CYg3bIAwNjNBlg1PuQ&caseno=WPPIL/180/2024&cCode=1&cino=UKHC010179032024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "4d1f214f14120b92dce9576c8e51ed9c4ea01130fed71f3866536f4dd59a2082",
+ "fetched_at": "2026-11-28T02:47:06+00:00",
+ "fetched_by": "fetch_live.py"
+}
