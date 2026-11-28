@@ -12,14 +12,6 @@
   },
   {
    "kind": "civil",
-   "bench": "Hon'ble Mr. Justice Ravindra Maithani",
-   "type": "DAILY CAUSE LIST",
-   "file": "civil-02-Hon_ble_Mr._Justice_Ravindra_Maithani-DAILY_CAUSE_LIST.pdf",
-   "pages": 5,
-   "chars": 7084
-  },
-  {
-   "kind": "civil",
    "bench": "Hon'ble Mr. Justice Ravindra Maithani, Hon'ble Mr. Justice Siddhartha Sah",
    "type": "DAILY CAUSE LIST",
    "file": "civil-03-Hon_ble_Mr._Justice_Ravindra_Maithani_Hon_ble_Mr._Justice_Siddhartha_Sah-DAILY_CAUSE_LIST.pdf",
@@ -28,12 +20,20 @@
   },
   {
    "kind": "civil",
+   "bench": "Hon'ble Mr. Justice Ravindra Maithani",
+   "type": "DAILY CAUSE LIST",
+   "file": "civil-04-Hon_ble_Mr._Justice_Ravindra_Maithani-DAILY_CAUSE_LIST.pdf",
+   "pages": 5,
+   "chars": 7084
+  },
+  {
+   "kind": "civil",
    "bench": "Registrar",
    "type": "DAILY CAUSE LIST",
-   "file": "civil-04-Registrar-DAILY_CAUSE_LIST.pdf",
+   "file": "civil-07-Registrar-DAILY_CAUSE_LIST.pdf",
    "pages": 1,
    "chars": 713
   }
  ],
- "errors": 0
+ "errors": 18
 }
