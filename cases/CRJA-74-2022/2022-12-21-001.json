@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/74/2022:2022-12-21-001",
+ "title": "MONIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "MONIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/74/2022",
+ "case_type": "CRJA",
+ "decision_date": "2022-12-21",
+ "cnr": "UKHC010186542022",
+ "doc_kind": "order",
+ "order_type": "CRJA/74/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08bTmkxNF2k9TBQ8ElpUJCp4Dlbsdlhme29gmGw1fXa5&caseno=CRJA/74/2022&cCode=1&cino=UKHC010186542022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e61bf7f6735d4c47b3d07984e9344a0d26d69f87c9f5dd430b935123ea4528ee",
+ "fetched_at": "2026-11-28T08:52:11+00:00",
+ "fetched_by": "fetch_live.py"
+}

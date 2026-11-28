@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/74/2022:2025-12-29-008",
+ "title": "MONIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "MONIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/74/2022",
+ "case_type": "CRJA",
+ "decision_date": "2025-12-29",
+ "cnr": "UKHC010186542022",
+ "doc_kind": "order",
+ "order_type": "CRJA/74/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08bTmkxNF2k9TBQ8ElpUJCotZnNuZ%2BOB%2Fw138VBPQoNJ&caseno=CRJA/74/2022&cCode=1&cino=UKHC010186542022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "89a63497f87d8be5d37e2dee42660e28380fbe64654833e8c96b765383eb752b",
+ "fetched_at": "2026-11-28T08:52:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

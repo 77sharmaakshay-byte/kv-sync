@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/74/2022:2024-11-14-002",
+ "title": "MONIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "MONIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/74/2022",
+ "case_type": "CRJA",
+ "decision_date": "2024-11-14",
+ "cnr": "UKHC010186542022",
+ "doc_kind": "order",
+ "order_type": "CRJA/74/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08bTmkxNF2k9TBQ8ElpUJCq5%2FGX85zFa4b%2FkO%2BfK%2Bx2T&caseno=CRJA/74/2022&cCode=1&cino=UKHC010186542022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "80ef46868767f11d9a689be2e55925a75c8c8ca0f7241ff43e2ec382a751b4af",
+ "fetched_at": "2026-11-28T08:52:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/74/2022:2026-03-10-009",
+ "title": "MONIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "MONIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/74/2022",
+ "case_type": "CRJA",
+ "decision_date": "2026-03-10",
+ "cnr": "UKHC010186542022",
+ "doc_kind": "order",
+ "order_type": "CRJA/74/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08bTmkxNF2k9TBQ8ElpUJCpVvHop%2FNohPcwtLuwWbMCD&caseno=CRJA/74/2022&cCode=1&cino=UKHC010186542022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "8eb4b1f6478d9ee0ea84654ae21db48806cf5314425cf78fa7f8729c9fddc8d8",
+ "fetched_at": "2026-11-28T08:52:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

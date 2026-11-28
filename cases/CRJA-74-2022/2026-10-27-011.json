@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/74/2022:2026-10-27-011",
+ "title": "MONIKA versus STATE OF UTTARAKHAND",
+ "petitioner": "MONIKA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/74/2022",
+ "case_type": "CRJA",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010186542022",
+ "doc_kind": "order",
+ "order_type": "CRJA/74/2022",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=ecCMLaqftN0L%2B1WbQmpT08bTmkxNF2k9TBQ8ElpUJCoxeNXyOlKWIrKIszkbmJnM&caseno=CRJA/74/2022&cCode=1&cino=UKHC010186542022&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d402888f02229f77cf4c9ce37be328680c5d7d7684e736e315231bbecbc4c6d3",
+ "fetched_at": "2026-11-28T08:52:22+00:00",
+ "fetched_by": "fetch_live.py"
+}
