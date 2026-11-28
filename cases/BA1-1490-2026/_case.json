@@ -6,11 +6,11 @@
  "registration_number": "BA1 /1490/2026",
  "registration_date": "2026-08-25",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-16",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
  "case_stage": "BAIL MATTERS -98",
  "status": "",
- "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -40,6 +40,20 @@
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-23",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-23",
+   "business_date": "2026-11-16",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
@@ -105,6 +119,24 @@
    "order_type": "BA1/1490/2026",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv1YEvrHozkxIrfkJiHMRs1aeaKPExCNFjLD6j1kJwqv&caseno=BA1/1490/2026&cCode=1&cino=UKHC010153462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-16",
+   "order_type": "BA1/1490/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv1YEvrHozkxIrfkJiHMRs17qVt17g%2B1c%2Bklnpxq%2FfoB&caseno=BA1/1490/2026&cCode=1&cino=UKHC010153462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-23",
+   "order_type": "BA1/1490/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv1YEvrHozkxIrfkJiHMRs0MgXD8%2B18YUkdlCjjLTRRy&caseno=BA1/1490/2026&cCode=1&cino=UKHC010153462026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

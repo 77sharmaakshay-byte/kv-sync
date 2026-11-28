@@ -1,55 +1,24 @@
 {
  "cnr_number": "UKHC010206582026",
- "case_type": "WPSS",
- "filing_number": "WPSS /10651/2026",
- "filing_date": "2026-11-18",
- "registration_number": "WPSS /3004/2026",
- "registration_date": "2026-11-18",
+ "case_type": "",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-20",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "",
  "status": "",
- "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
- "bench_type": "Single Bench",
+ "coram": "",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
  "state": "",
  "district": "",
- "petitioners": [
-  {
-   "name": "DEVENDRA SINGH BISHT",
-   "advocate": "DUSHYANT MAINALI"
-  }
- ],
- "respondents": [
-  {
-   "name": "STATE OF UTTARAKHAND",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "COMMISSIONER CANE DEVELOPMENT",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "SECRETARY UPSC",
-   "advocate": "PANKAJ MIGLANI"
-  }
- ],
- "acts": [
-  {
-   "act": "Under Article 226 of the Constituion of India",
-   "sections": "226"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2026-11-20",
-   "business_date": null,
-   "purpose": "FRESH CASES FOR ADMISSION -3",
-   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
-   "cause_list_type": "DAILY CAUSE LIST"
-  }
- ],
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
  "orders": []
 }

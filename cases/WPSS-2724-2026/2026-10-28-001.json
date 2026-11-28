@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2724/2026:2026-10-28-001",
+ "title": "GULAFSHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "GULAFSHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/2724/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-28",
+ "cnr": "UKHC010188082026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2724/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQixNOQ%2Bxt8mb2aNtLhqyAVSAzemJQsW4iqVfiumnRmcY&caseno=WPSS/2724/2026&cCode=1&cino=UKHC010188082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3b509e1a2e391bc4a879b3f1f6650a453a83f61b49233de6c3fb1cbf577e9d4d",
+ "fetched_at": "2026-11-28T13:50:40+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1213/2026:2026-07-14-001",
+ "title": "SOMNATH HALDAR versus STATE OF UTTARAKHAND",
+ "petitioner": "SOMNATH HALDAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1213/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-14",
+ "cnr": "UKHC010120562026",
+ "doc_kind": "order",
+ "order_type": "BA1/1213/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnPNBBYW9iJq3fAlqthFR%2BzcPy5VtNik3acyuHAiXzht&caseno=BA1/1213/2026&cCode=1&cino=UKHC010120562026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9b157201cc99973a883840b045d78f8f0e3617ceb7a6b6c9197c540574917444",
+ "fetched_at": "2026-11-28T14:01:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

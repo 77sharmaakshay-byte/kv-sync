@@ -1,67 +1,24 @@
 {
  "cnr_number": "UKHC010185782026",
- "case_type": "WPMS",
- "filing_number": "WPMS /9644/2026",
- "filing_date": "2026-10-14",
- "registration_number": "WPMS /3235/2026",
- "registration_date": "2026-10-14",
+ "case_type": "",
+ "filing_number": "",
+ "filing_date": null,
+ "registration_number": "",
+ "registration_date": null,
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-16",
+ "next_hearing_date": null,
  "decision_date": null,
- "case_stage": "FRESH CASES AS DEFECTIVE -236",
+ "case_stage": "",
  "status": "",
- "coram": "Registrar (Judicial)",
- "bench_type": "Single Bench",
+ "coram": "",
+ "bench_type": "",
  "court_number_and_judge": "",
  "court_name": "",
- "state": "UTTARAKHAND",
- "district": "Dehradun",
- "petitioners": [
-  {
-   "name": "DALEEP KUMAR ARORA",
-   "advocate": "NIRANJAN BHATT"
-  }
- ],
- "respondents": [
-  {
-   "name": "STATE OF UTTARAKHAND",
-   "advocate": ""
-  },
-  {
-   "name": "SECRETARY REVENUE",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "COMMISSIONER GARHWAL MANDAL",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "DISTRICT MAGISTRATE",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "SUB DIVISIONAL MAGISTRATE",
-   "advocate": "C.S.C."
-  },
-  {
-   "name": "NAGAR AYUKT",
-   "advocate": ""
-  }
- ],
- "acts": [
-  {
-   "act": "Under Article 226 of the Constituion of India",
-   "sections": "226"
-  }
- ],
- "history": [
-  {
-   "hearing_date": "2026-10-16",
-   "business_date": null,
-   "purpose": "FRESH CASES AS DEFECTIVE -236",
-   "judge": "Registrar (Judicial)",
-   "cause_list_type": "DAILY CAUSE LIST"
-  }
- ],
+ "state": "",
+ "district": "",
+ "petitioners": [],
+ "respondents": [],
+ "acts": [],
+ "history": [],
  "orders": []
 }

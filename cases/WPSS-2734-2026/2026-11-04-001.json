@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2734/2026:2026-11-04-001",
+ "title": "Ved Prakash Saini versus State of Uttarakhand",
+ "petitioner": "Ved Prakash Saini",
+ "respondent": "State of Uttarakhand",
+ "case_no": "WPSS/2734/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-11-04",
+ "cnr": "UKHC010189202026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2734/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsX3TeAszymONtSNfmtaHgvyq4WeplZ4XqKnqQTFH5mu&caseno=WPSS/2734/2026&cCode=1&cino=UKHC010189202026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "201c8c42cc90fe1d1294febbeb783f6620c32b054194b503cffdece0d090d9d9",
+ "fetched_at": "2026-11-28T13:51:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

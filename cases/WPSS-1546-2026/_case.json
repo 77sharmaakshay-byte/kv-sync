@@ -6,7 +6,7 @@
  "registration_number": "WPSS /1546/2026",
  "registration_date": "2026-06-09",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-31",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING -40",
  "status": "",
@@ -55,8 +55,8 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2026-11-19",
-   "business_date": "2026-10-15",
+   "hearing_date": "2026-11-25",
+   "business_date": "2026-10-31",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -64,6 +64,13 @@
   {
    "hearing_date": "2026-10-31",
    "business_date": null,
+   "purpose": "FOR FINAL HEARING -40",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-19",
+   "business_date": "2026-10-15",
    "purpose": "FOR FINAL HEARING -40",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -119,6 +126,15 @@
    "order_type": "WPSS/1546/2026",
    "judge": "Hon'ble Mr. Justice Pankaj Purohit",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrZK8AR14i1g7reawDiY%2FsDjkxKQrfS5K7w7mmVPxEpA&caseno=WPSS/1546/2026&cCode=1&cino=UKHC010102092026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-31",
+   "order_type": "WPSS/1546/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrZK8AR14i1g7reawDiY%2FsBuQ4RUKIvMH4bOb4C1zrld&caseno=WPSS/1546/2026&cCode=1&cino=UKHC010102092026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

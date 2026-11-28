@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3246/2026:2026-11-02-003",
+ "title": "MOHAN SINGH versus COMPETENT AUTHORITY",
+ "petitioner": "MOHAN SINGH",
+ "respondent": "COMPETENT AUTHORITY",
+ "case_no": "WPMS/3246/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-02",
+ "cnr": "UKHC010186602026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3246/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhX3g6E132U0yBjLa5RyDLKD7C50Q%2FUViFLh%2FRnYYFDb&caseno=WPMS/3246/2026&cCode=1&cino=UKHC010186602026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c642af093c196c718ed01b312bfac204f8c59c3232021126e9832231c002335a",
+ "fetched_at": "2026-11-28T14:12:15+00:00",
+ "fetched_by": "fetch_live.py"
+}

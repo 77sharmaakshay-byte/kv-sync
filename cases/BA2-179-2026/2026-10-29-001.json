@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/179/2026:2026-10-29-001",
+ "title": "SHAKUR KHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SHAKUR KHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/179/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010191342026",
+ "doc_kind": "order",
+ "order_type": "BA2/179/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQii2k3oHLJCZ4Y88KlmjY9LV7GoDghMS5h2Kg7hWSaEU&caseno=BA2/179/2026&cCode=1&cino=UKHC010191342026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "7b4cb2b9b258b4ce7acad82bcfce6441d4e628a9c70b3e1b569b641801d3a336",
+ "fetched_at": "2026-11-28T13:58:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

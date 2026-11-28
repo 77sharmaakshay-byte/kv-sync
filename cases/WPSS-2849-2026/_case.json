@@ -6,9 +6,9 @@
  "registration_number": "WPSS /2849/2026",
  "registration_date": "2026-10-31",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-03",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "ADMISSION MATTERS -35",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -49,7 +49,56 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-18",
+   "purpose": "ADMISSION MATTERS -35",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-18",
+   "business_date": "2026-11-05",
+   "purpose": "PERSONAL APPEARANCE -4",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-11-03",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-11-03",
+   "order_type": "WPSS/2849/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvGyNSa2iCvIa1hv26hp5MAM2fAo3dVKtMp7nezq%2BT0s&caseno=WPSS/2849/2026&cCode=1&cino=UKHC010196652026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-05",
+   "order_type": "WPSS/2849/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvGyNSa2iCvIa1hv26hp5MBfnkdrA3bmgEWEp9SwMarb&caseno=WPSS/2849/2026&cCode=1&cino=UKHC010196652026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-18",
+   "order_type": "WPSS/2849/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQvGyNSa2iCvIa1hv26hp5MD3cJ%2B%2F7a%2B7PZW6T8JCmV%2Bl&caseno=WPSS/2849/2026&cCode=1&cino=UKHC010196652026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

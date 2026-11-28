@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1024/2026:2026-10-12-003",
+ "title": "RAHUL KUMAR ALIAS YOGI versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "RAHUL KUMAR ALIAS YOGI",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA1/1024/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010100082026",
+ "doc_kind": "order",
+ "order_type": "BA1/1024/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQomaKEWl281%2FnIbXgkv%2Fd0ZWuY3g42ydBB8Q2JKutO60&caseno=BA1/1024/2026&cCode=1&cino=UKHC010100082026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9ae38014f57e541361f22d33007bce11a7e556d43e5a95ffab02c31793a1e53f",
+ "fetched_at": "2026-11-28T14:01:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1819/2026:2026-10-30-001",
+ "title": "GULJAR versus STATE OF UTTARAKHAND",
+ "petitioner": "GULJAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1819/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010191802026",
+ "doc_kind": "order",
+ "order_type": "BA1/1819/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgjwK14hXhwnHbcny0%2FA%2BW54vTgKKbdUHTbWzX5ghIBi&caseno=BA1/1819/2026&cCode=1&cino=UKHC010191802026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5503e2947ed68b4375dfaf8e171f1d8d52ab52a22318863350ebd0fbe6dd1bc8",
+ "fetched_at": "2026-11-28T14:02:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

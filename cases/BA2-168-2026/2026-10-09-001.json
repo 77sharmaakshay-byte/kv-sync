@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/168/2026:2026-10-09-001",
+ "title": "MOHD AAKIB versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD AAKIB",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA2/168/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010179062026",
+ "doc_kind": "order",
+ "order_type": "BA2/168/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhTxHs4Y5WUvMrg1oWMItLlDrMEAGh8cgTnAzMPCtWJF&caseno=BA2/168/2026&cCode=1&cino=UKHC010179062026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "e8fc5d6b2c0e72f8a94e6385d43a5b3b09a316d2538e4d625d73d7a678b382f7",
+ "fetched_at": "2026-11-28T14:27:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

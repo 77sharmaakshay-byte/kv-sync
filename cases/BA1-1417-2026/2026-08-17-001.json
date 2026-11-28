@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1417/2026:2026-08-17-001",
+ "title": "SALMAN versus STATE OF UTTARAKHAND",
+ "petitioner": "SALMAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1417/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-08-17",
+ "cnr": "UKHC010145432026",
+ "doc_kind": "order",
+ "order_type": "BA1/1417/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQi3aiA%2BC%2Fxyme0sUsbSPruu0j3v%2B8wTKsmVFEL%2BT610y&caseno=BA1/1417/2026&cCode=1&cino=UKHC010145432026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "70b79fd1c2d5b8a1f417ef2dbf4e146fe4989246886f90ce57794b359953d0a9",
+ "fetched_at": "2026-11-28T14:01:32+00:00",
+ "fetched_by": "fetch_live.py"
+}

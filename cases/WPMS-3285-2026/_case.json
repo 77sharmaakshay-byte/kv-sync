@@ -6,9 +6,9 @@
  "registration_number": "WPMS /3285/2026",
  "registration_date": "2026-10-16",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-27",
+ "next_hearing_date": "2026-12-01",
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "ADMISSION MATTERS (AFTER FRESH) -30",
  "status": "",
  "coram": "Hon'ble Mr. Justice Ravindra Maithani",
  "bench_type": "Single Bench",
@@ -34,14 +34,6 @@
   {
    "name": "DISTRICT MAGISTRATE",
    "advocate": "C.S.C."
-  },
-  {
-   "name": "PYARA SINGH (DECEASED)",
-   "advocate": ""
-  },
-  {
-   "name": "KASHMEER KAUR (DECEASED)",
-   "advocate": ""
   }
  ],
  "acts": [
@@ -57,7 +49,70 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-12-01",
+   "business_date": "2026-11-27",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-27",
+   "business_date": "2026-11-19",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-19",
+   "business_date": "2026-10-31",
+   "purpose": "ADMISSION MATTERS (AFTER FRESH) -30",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-29",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-29",
+   "business_date": "2026-10-27",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-10-27",
+   "order_type": "WPMS/3285/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrd%2BWosNlViEpVDCxGU71MAceaqne2K3alABbCCeSJLS&caseno=WPMS/3285/2026&cCode=1&cino=UKHC010188462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-31",
+   "order_type": "WPMS/3285/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrd%2BWosNlViEpVDCxGU71MCGRBgWAq0PwlgAmCK7Mfgf&caseno=WPMS/3285/2026&cCode=1&cino=UKHC010188462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-19",
+   "order_type": "WPMS/3285/2026",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrd%2BWosNlViEpVDCxGU71MALX4a7jMtsOlVU41aIwSb8&caseno=WPMS/3285/2026&cCode=1&cino=UKHC010188462026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

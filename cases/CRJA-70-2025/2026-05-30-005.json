@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRJA/70/2025:2026-05-30-005",
+ "title": "PARVEZ versus STATE OF UTTARAKHAND",
+ "petitioner": "PARVEZ",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRJA/70/2025",
+ "case_type": "CRJA",
+ "decision_date": "2026-05-30",
+ "cnr": "UKHC010197562025",
+ "doc_kind": "order",
+ "order_type": "CRJA/70/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm8h2%2FgD6Xc4BSk%2F3N49kG1Eo6PR1T27k3t0Dbu1Kc1Oa&caseno=CRJA/70/2025&cCode=1&cino=UKHC010197562025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "3e017b09fe9b5c2c01b5a69635a836148f5e59e9cc6aeeec371370f526e23e6c",
+ "fetched_at": "2026-11-28T14:02:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

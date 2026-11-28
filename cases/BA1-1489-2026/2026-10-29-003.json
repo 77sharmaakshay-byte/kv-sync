@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1489/2026:2026-10-29-003",
+ "title": "MAAN DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "MAAN DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1489/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010153312026",
+ "doc_kind": "order",
+ "order_type": "BA1/1489/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgRtA7ovNMkKaiQlBlzSoLUWuEcs89kn4vBXnZE3YICA&caseno=BA1/1489/2026&cCode=1&cino=UKHC010153312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "09ac7cd839e746bbb9f103e805c87337f01f12bc259ef0188ba6812b673eecdd",
+ "fetched_at": "2026-11-28T14:02:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3419/2026:2026-11-04-001",
+ "title": "RAMYASH versus YASHPAL SINGH",
+ "petitioner": "RAMYASH",
+ "respondent": "YASHPAL SINGH",
+ "case_no": "WPMS/3419/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-04",
+ "cnr": "UKHC010197882026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3419/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQv1nVCOktto%2BtqUOtN%2BBFNXuaRVMRXgFtfcxBfQiKOWe&caseno=WPMS/3419/2026&cCode=1&cino=UKHC010197882026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2c5d303709119d4a7b91230351dee57e55bb91873ca9d6b84c90f331e9a5888c",
+ "fetched_at": "2026-11-28T14:27:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

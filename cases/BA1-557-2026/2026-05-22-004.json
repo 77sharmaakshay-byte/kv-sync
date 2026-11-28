@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/557/2026:2026-05-22-004",
+ "title": "MANGTA versus STATE OF UTTARAKHAND",
+ "petitioner": "MANGTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/557/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-05-22",
+ "cnr": "UKHC010054932026",
+ "doc_kind": "order",
+ "order_type": "BA1/557/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ashish Naithani"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjANxyi5vunWUAsTg1bvg%2FCZNYqKbcflwNZsvX1y8%2FhM&caseno=BA1/557/2026&cCode=1&cino=UKHC010054932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "122ab0daafc4d00fc67adc51b549ef714806f1b255428ada44447ebdc7222648",
+ "fetched_at": "2026-11-28T14:00:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

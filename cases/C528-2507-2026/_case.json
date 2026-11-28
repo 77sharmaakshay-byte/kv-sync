@@ -6,11 +6,11 @@
  "registration_number": "C528 /2507/2026",
  "registration_date": "2026-11-03",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-20",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "ADMISSION MATTERS -25",
  "status": "",
- "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -51,6 +51,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-23",
+   "business_date": "2026-11-20",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-11-20",
    "business_date": "2026-11-05",
    "purpose": "FRESH CASES FOR ADMISSION -3",
@@ -64,6 +71,15 @@
    "order_type": "C528/2507/2026",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkZPi5v19Ft4aCwtfxKzFtbd8Rr5Bbot03J1cwFm6O4P&caseno=C528/2507/2026&cCode=1&cino=UKHC010199892026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-20",
+   "order_type": "C528/2507/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkZPi5v19Ft4aCwtfxKzFtbxlutiB4%2BcBQiWAtE7P0rQ&caseno=C528/2507/2026&cCode=1&cino=UKHC010199892026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

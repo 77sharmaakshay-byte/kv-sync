@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1724/2026:2026-10-14-001",
+ "title": "GURCHARAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "GURCHARAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1724/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-14",
+ "cnr": "UKHC010183592026",
+ "doc_kind": "order",
+ "order_type": "BA1/1724/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoft8hTKacvWJc2vP4h3MaZzFoa%2FL6MAibSaSqXjmq98&caseno=BA1/1724/2026&cCode=1&cino=UKHC010183592026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b4771c9e4354efe0061cf4a24ae7f81c16c65ff0ca2dca0ef2aa9d1bb38745d8",
+ "fetched_at": "2026-11-28T14:02:13+00:00",
+ "fetched_by": "fetch_live.py"
+}

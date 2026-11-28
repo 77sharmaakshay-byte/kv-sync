@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1772/2026:2026-10-16-001",
+ "title": "RIPUL CHAUHAN versus UNION OF INDIA",
+ "petitioner": "RIPUL CHAUHAN",
+ "respondent": "UNION OF INDIA",
+ "case_no": "BA1/1772/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-16",
+ "cnr": "UKHC010186882026",
+ "doc_kind": "order",
+ "order_type": "BA1/1772/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQt1VjB0eNqXaovGGRORu%2FBQXfHIRiQvEEuuwP46SliOu&caseno=BA1/1772/2026&cCode=1&cino=UKHC010186882026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "25a4480291f96e93eacb5e3c692a2b1eb7f8ffbc24e52088c092abd46ea0d372",
+ "fetched_at": "2026-11-28T14:00:20+00:00",
+ "fetched_by": "fetch_live.py"
+}

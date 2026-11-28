@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2377/2026:2026-10-29-001",
+ "title": "SAIDUZZAMA versus STATE OF UTTARAKHAND",
+ "petitioner": "SAIDUZZAMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/2377/2026",
+ "case_type": "C528",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010192052026",
+ "doc_kind": "order",
+ "order_type": "C528/2377/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnO032snkx2ylikGsOZs1YhUHgLg3dLSOdW22sDp%2FUcb&caseno=C528/2377/2026&cCode=1&cino=UKHC010192052026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "60b17aa3617e1c91a7a98b4b384cd054d9fe22f5b89b639ff7c28e1c3df07f1a",
+ "fetched_at": "2026-11-28T14:02:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

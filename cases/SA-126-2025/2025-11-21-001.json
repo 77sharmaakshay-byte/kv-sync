@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/126/2025:2025-11-21-001",
+ "title": "CHANDRA PRATAP SINGH CHAUHAN versus GAURAV AGGARWAL",
+ "petitioner": "CHANDRA PRATAP SINGH CHAUHAN",
+ "respondent": "GAURAV AGGARWAL",
+ "case_no": "SA/126/2025",
+ "case_type": "SA",
+ "decision_date": "2025-11-21",
+ "cnr": "UKHC010167882025",
+ "doc_kind": "order",
+ "order_type": "SA/126/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm%2FLnymni%2F57W6Q5%2BmKzij5%2BX1MhWCHD16kyomGy16vct&caseno=SA/126/2025&cCode=1&cino=UKHC010167882025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0aa0d76e15c288f66e786dde17fd64b6a572cde9757fb1091c309951c01018c0",
+ "fetched_at": "2026-11-28T14:30:45+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2072/2026:2026-09-25-001",
+ "title": "Manoj Kumar Arya versus State of Uttarakhand",
+ "petitioner": "Manoj Kumar Arya",
+ "respondent": "State of Uttarakhand",
+ "case_no": "C528/2072/2026",
+ "case_type": "C528",
+ "decision_date": "2026-09-25",
+ "cnr": "UKHC010169872026",
+ "doc_kind": "order",
+ "order_type": "C528/2072/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjBkpAeJoJB%2FeaM2ncyztJZnYpXNmX3f4NrHK6eIUdk%2B&caseno=C528/2072/2026&cCode=1&cino=UKHC010169872026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "85c4a73260d2640cb6ecc039e5869070aa3a8bec27eb2cda0ca13bb94c48406e",
+ "fetched_at": "2026-11-28T14:04:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

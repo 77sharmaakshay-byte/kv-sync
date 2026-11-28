@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1489/2026:2026-09-03-002",
+ "title": "MAAN DEVI versus STATE OF UTTARAKHAND",
+ "petitioner": "MAAN DEVI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1489/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-09-03",
+ "cnr": "UKHC010153312026",
+ "doc_kind": "order",
+ "order_type": "BA1/1489/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgRtA7ovNMkKaiQlBlzSoLVauMTQlnFtTb6tPu4cB0Pd&caseno=BA1/1489/2026&cCode=1&cino=UKHC010153312026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "49a4ba8cee31be9dd19ea2ad3cd02d2f5cd219de688edd0c3d9455323fd37b16",
+ "fetched_at": "2026-11-28T14:02:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

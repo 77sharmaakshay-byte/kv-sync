@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1169/2026:2026-10-29-002",
+ "title": "SAMEER versus STATE OF UTTARAKHAND",
+ "petitioner": "SAMEER",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1169/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010115932026",
+ "doc_kind": "order",
+ "order_type": "BA1/1169/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmT0j2JY2prxzaBIz52fCCdkL323Kf9KNui2b5fSMY7E&caseno=BA1/1169/2026&cCode=1&cino=UKHC010115932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c3b7f621a328407a9b820c6ad4d0ccf6e14e3ce98cd643d4807c65a8ec696a72",
+ "fetched_at": "2026-11-28T14:01:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

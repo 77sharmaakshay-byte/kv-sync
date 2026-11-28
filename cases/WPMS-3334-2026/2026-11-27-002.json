@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3334/2026:2026-11-27-002",
+ "title": "GURPREET SINGH versus MACHHINDER KAUR",
+ "petitioner": "GURPREET SINGH",
+ "respondent": "MACHHINDER KAUR",
+ "case_no": "WPMS/3334/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-27",
+ "cnr": "UKHC010192812026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3334/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpLbLPd8HcqyRkXDQGOwvi4r3f9Lt6nRpe%2B5rc6yjfFH&caseno=WPMS/3334/2026&cCode=1&cino=UKHC010192812026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "dae6a44c19b1fd049196db1ecdc6ba87bf2bc4f49f43fd8b812dc07be0014022",
+ "fetched_at": "2026-11-28T14:30:57+00:00",
+ "fetched_by": "fetch_live.py"
+}

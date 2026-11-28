@@ -6,7 +6,7 @@
  "registration_number": "ABA /692/2025",
  "registration_date": "2025-06-19",
  "first_hearing_date": null,
- "next_hearing_date": "2026-10-30",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
  "case_stage": "REMANDED MATTERS -143",
  "status": "",
@@ -67,6 +67,13 @@
    "cause_list_type": "DAILY CAUSE LIST II"
   },
   {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-10-30",
+   "purpose": "REMANDED MATTERS -143",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-10-30",
    "business_date": "2026-10-09",
    "purpose": "REMANDED MATTERS -143",
@@ -109,15 +116,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2026-07-30",
-   "business_date": null,
+   "hearing_date": "2026-07-20",
+   "business_date": "2026-07-07",
    "purpose": "FOR FURTHER HEARING -113",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2026-07-20",
-   "business_date": "2026-07-07",
+   "hearing_date": "2026-07-30",
+   "business_date": null,
    "purpose": "FOR FURTHER HEARING -113",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -165,15 +172,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2026-03-23",
-   "business_date": null,
+   "hearing_date": null,
+   "business_date": "2026-03-19",
    "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": null,
-   "business_date": "2026-03-19",
+   "hearing_date": "2026-03-23",
+   "business_date": null,
    "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
@@ -228,15 +235,15 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
-   "hearing_date": "2025-12-17",
-   "business_date": null,
+   "hearing_date": "2026-02-10",
+   "business_date": "2025-11-24",
    "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
    "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
    "cause_list_type": "STAND OUT CAUSE LIST"
   },
   {
-   "hearing_date": "2026-02-10",
-   "business_date": "2025-11-24",
+   "hearing_date": "2025-12-17",
+   "business_date": null,
    "purpose": "BAIL ORDER MATTERS (AFTER FRESH) -254",
    "judge": "Hon'ble Mr. Justice Alok Kumar Verma",
    "cause_list_type": "STAND OUT CAUSE LIST"

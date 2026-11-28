@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/509/2023:2023-09-15-002",
+ "title": "MUKESH KOLI versus STATE OF UTTARAKHAND",
+ "petitioner": "MUKESH KOLI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/509/2023",
+ "case_type": "C482",
+ "decision_date": "2023-09-15",
+ "cnr": "UKHC010043292023",
+ "doc_kind": "order",
+ "order_type": "C482/509/2023",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "PRIORITY STAYED MATTERS -270",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=93SxxAyyCdlknlIHY9YXY74%2Bo%2FTtZfWsC4so73Cc8JKcG8%2B8o8mmPXD8LGScgTCo&caseno=C482/509/2023&cCode=1&cino=UKHC010043292023&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0c347d407be010bd2db17b31fe9889fcee007e379d094d6813ff7edb65b51d6f",
+ "fetched_at": "2026-11-28T14:02:43+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -6,7 +6,7 @@
  "registration_number": "CRLR /863/2026",
  "registration_date": "2026-11-04",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-20",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
  "case_stage": "Order on Applications (Time Barred Cases) -250",
  "status": "",
@@ -43,6 +43,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-20",
+   "purpose": "Order on Applications (Time Barred Cases) -250",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-11-20",
    "business_date": "2026-11-05",
    "purpose": "Time Barred (Fresh Cases) -247",
@@ -56,6 +63,15 @@
    "order_type": "CRLR/863/2026",
    "judge": "Hon'ble Mr. Justice Siddhartha Sah",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQok8B6Bv%2FKfamHnbCmzEbkjEl3jRDWKu0va6D03V7dcr&caseno=CRLR/863/2026&cCode=1&cino=UKHC010201242026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-20",
+   "order_type": "CRLR/863/2026",
+   "judge": "Hon'ble Mr. Justice Siddhartha Sah",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQok8B6Bv%2FKfamHnbCmzEbkhRdoHHRPqVCcM4mdiT6dCy&caseno=CRLR/863/2026&cCode=1&cino=UKHC010201242026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

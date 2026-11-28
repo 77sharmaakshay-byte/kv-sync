@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1530/2026:2026-10-29-001",
+ "title": "NAVEEN CHANDRA PALARIYA versus STATE OF UTTARAKHAND",
+ "petitioner": "NAVEEN CHANDRA PALARIYA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1530/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010158192026",
+ "doc_kind": "order",
+ "order_type": "BA1/1530/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQhY0sXhEcFo4bznAsNVjF81tLUDEqFxTN%2BY3qGGeaWi%2B&caseno=BA1/1530/2026&cCode=1&cino=UKHC010158192026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0daeb30594fde896ee780b187168b977b8da45045dff58a1b92673dbd5bd036a",
+ "fetched_at": "2026-11-28T14:01:50+00:00",
+ "fetched_by": "fetch_live.py"
+}

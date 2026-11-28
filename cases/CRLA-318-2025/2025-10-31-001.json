@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/318/2025:2025-10-31-001",
+ "title": "X versus STATE OF UTTARAKHAND",
+ "petitioner": "X",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/318/2025",
+ "case_type": "CRLA",
+ "decision_date": "2025-10-31",
+ "cnr": "UKHC010069802025",
+ "doc_kind": "order",
+ "order_type": "CRLA/318/2025",
+ "judges": [
+  "Hon'ble Mr Justice G. Narendar,Hon'ble Mr. Justice Subhash Upadhyay"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm5dK0hJDmL4PUjEMjYH%2BF9bbecQGMZO02d17rzGmsPY4&caseno=CRLA/318/2025&cCode=1&cino=UKHC010069802025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "9214084d4970ec15724f971f325ffb142698eb50424a13435681a2e08dbef5af",
+ "fetched_at": "2026-11-28T14:24:46+00:00",
+ "fetched_by": "fetch_live.py"
+}

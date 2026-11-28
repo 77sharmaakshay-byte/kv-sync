@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/2590/2026:2026-10-07-001",
+ "title": "DINESH KUMAR versus Chief Executive Officer",
+ "petitioner": "DINESH KUMAR",
+ "respondent": "Chief Executive Officer",
+ "case_no": "WPSS/2590/2026",
+ "case_type": "WPSS",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010178432026",
+ "doc_kind": "order",
+ "order_type": "WPSS/2590/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpJmb6bDdxNNObi04trfmPM3UMca6c76fg7OJDO6ydj1&caseno=WPSS/2590/2026&cCode=1&cino=UKHC010178432026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "34a791fee12b4aebce1cd580908a7a24356ec13e1f18aaa2e0ac7ce68940e916",
+ "fetched_at": "2026-11-28T13:52:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

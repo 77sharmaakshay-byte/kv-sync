@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/1551/2026:2026-10-30-001",
+ "title": "KUNDAN SINGH versus STATE OF UTTARAKHAND",
+ "petitioner": "KUNDAN SINGH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/1551/2026",
+ "case_type": "C528",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010125622026",
+ "doc_kind": "order",
+ "order_type": "C528/1551/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQiHQ5xCKL21m24DgxNbZfmIUQmCXwbCdfL9FOqzirZYp&caseno=C528/1551/2026&cCode=1&cino=UKHC010125622026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c468afce89fa9d1f22220f53688154ff738ddd12a3b5bd7edb63dc124c6cdcf5",
+ "fetched_at": "2026-11-28T14:05:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

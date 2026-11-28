@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1028/2026:2026-10-07-003",
+ "title": "MOHD TANBIR versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHD TANBIR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1028/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-07",
+ "cnr": "UKHC010100722026",
+ "doc_kind": "order",
+ "order_type": "BA1/1028/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmEbR%2FOGjPYzppd9aUuBhDoJyarJixpwGG5Hw%2FL%2BeZk1&caseno=BA1/1028/2026&cCode=1&cino=UKHC010100722026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "77b271fdc8e58fa35dc11227ff932d5b80a10504f46cb4736e3fdd0ad874ad28",
+ "fetched_at": "2026-11-28T13:58:31+00:00",
+ "fetched_by": "fetch_live.py"
+}

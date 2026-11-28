@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3550/2026:2026-11-19-001",
+ "title": "NARESH AND OTHERS versus KANWAL SINGH AND OTHERS",
+ "petitioner": "NARESH AND OTHERS",
+ "respondent": "KANWAL SINGH AND OTHERS",
+ "case_no": "WPMS/3550/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-19",
+ "cnr": "UKHC010205192026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3550/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtqQGRg6RfrU56ap8l4oat%2B7hMHmqd1We9u2LDAWBlET&caseno=WPMS/3550/2026&cCode=1&cino=UKHC010205192026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "96b7fac5ff3032b23895586eb8b3cc3491cd6a392732c5447badb5bda860230b",
+ "fetched_at": "2026-11-28T14:27:56+00:00",
+ "fetched_by": "fetch_live.py"
+}

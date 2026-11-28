@@ -6,9 +6,9 @@
  "registration_number": "WPSS /2641/2026",
  "registration_date": "2026-10-12",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-02",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "PENSION MATTERS -258",
+ "case_stage": "ADMISSION MATTERS -35",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -67,6 +67,20 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-05",
+   "purpose": "PERSONAL APPEARANCE -4",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-11-02",
+   "purpose": "PENSION MATTERS -258",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": "2026-11-02",
    "business_date": "2026-10-14",
    "purpose": "FRESH CASES FOR ADMISSION -3",
@@ -80,6 +94,24 @@
    "order_type": "WPSS/2641/2026",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsWBW13Jl2VhLmqsox7%2BdbCLnfzoVQeCLDr05sP1p47B&caseno=WPSS/2641/2026&cCode=1&cino=UKHC010182562026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-05",
+   "order_type": "WPSS/2641/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsWBW13Jl2VhLmqsox7%2BdbBqhYsDO45MsccnEzVXyf%2FI&caseno=WPSS/2641/2026&cCode=1&cino=UKHC010182562026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-02",
+   "order_type": "WPSS/2641/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsWBW13Jl2VhLmqsox7%2BdbDBp%2FZIVUV%2FvKUqF7VmmNHq&caseno=WPSS/2641/2026&cCode=1&cino=UKHC010182562026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

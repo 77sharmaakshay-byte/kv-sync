@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1187/2026:2026-07-08-001",
+ "title": "MOH. ASIF versus STATE OF UTTARAKHAND",
+ "petitioner": "MOH. ASIF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1187/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-07-08",
+ "cnr": "UKHC010117272026",
+ "doc_kind": "order",
+ "order_type": "BA1/1187/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsnYWTglX018AjlWjHye7ka6Gguahlvnte6Sej2RRw1W&caseno=BA1/1187/2026&cCode=1&cino=UKHC010117272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "c1486a0a2918f2d45644cd6ae4422690bd0bd73e7a44665f090197ef7591a698",
+ "fetched_at": "2026-11-28T13:58:39+00:00",
+ "fetched_by": "fetch_live.py"
+}

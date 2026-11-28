@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/114/2017:2026-11-16-012",
+ "title": "RAVISH KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "RAVISH KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/114/2017",
+ "case_type": "CRLA",
+ "decision_date": "2026-11-16",
+ "cnr": "UKHC010047012017",
+ "doc_kind": "order",
+ "order_type": "CRLA/114/2017",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=a49%2B5s0e2GM8%2BfjVrMWShymhgahhAuPXU0tW8iGRxSuekA1z%2BDfk5Aqpc6yYNfcE&caseno=CRLA/114/2017&cCode=1&cino=UKHC010047012017&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b9b294a5d7d1ee3a2a10e30edfdf40350cbeeb4c5d569ed49e981fd4bf14a6e6",
+ "fetched_at": "2026-11-28T14:25:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

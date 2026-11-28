@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLA/356/2026:2026-10-26-002",
+ "title": "NARESH versus STATE OF UTTARAKHAND",
+ "petitioner": "NARESH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLA/356/2026",
+ "case_type": "CRLA",
+ "decision_date": "2026-10-26",
+ "cnr": "UKHC010105442026",
+ "doc_kind": "order",
+ "order_type": "CRLA/356/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQoToxLfwobtwMLnJHkXX%2FHjgaQPWx5B2IDKSEWVjS7bo&caseno=CRLA/356/2026&cCode=1&cino=UKHC010105442026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d38ee08f63475a762831ff3b8bb8fded8c1bef82745151c4cdcfaf803ec45668",
+ "fetched_at": "2026-11-28T14:01:14+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1187/2026:2026-10-29-004",
+ "title": "MOH. ASIF versus STATE OF UTTARAKHAND",
+ "petitioner": "MOH. ASIF",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1187/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-29",
+ "cnr": "UKHC010117272026",
+ "doc_kind": "order",
+ "order_type": "BA1/1187/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsnYWTglX018AjlWjHye7kZWiPQ3mJ5jIlP%2FIqPjYHMh&caseno=BA1/1187/2026&cCode=1&cino=UKHC010117272026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "16c600102c34c2d78c7029e2c64354f457b91d9ea782b92ebb4260933c2896fc",
+ "fetched_at": "2026-11-28T13:58:42+00:00",
+ "fetched_by": "fetch_live.py"
+}

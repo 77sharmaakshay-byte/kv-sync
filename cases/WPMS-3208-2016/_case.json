@@ -6,7 +6,7 @@
  "registration_number": "WPMS /3208/2016",
  "registration_date": "2016-11-30",
  "first_hearing_date": "2016-12-05",
- "next_hearing_date": "2026-11-16",
+ "next_hearing_date": "2026-12-01",
  "decision_date": null,
  "case_stage": "FOR FINAL HEARING (AFTER FRESH) -45",
  "status": "",
@@ -71,6 +71,20 @@
   }
  ],
  "history": [
+  {
+   "hearing_date": "2026-12-01",
+   "business_date": "2026-11-23",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-23",
+   "business_date": "2026-11-16",
+   "purpose": "FOR FINAL HEARING (AFTER FRESH) -45",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
   {
    "hearing_date": "2026-10-29",
    "business_date": "2026-09-17",
@@ -1082,6 +1096,24 @@
    "order_type": "WPMS/3208/2016",
    "judge": "Hon'ble Mr. Justice Ravindra Maithani",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBeKBwU844ex7VkCn7sqlnkoztzF7rdhx5PiV6WaTDZgU&caseno=WPMS/3208/2016&cCode=1&cino=UKHC010037562016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-16",
+   "order_type": "WPMS/3208/2016",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBeKBwU844ex7VkCn7sqlnkpu5t8oWTjv%2Btc4njI9xV2N&caseno=WPMS/3208/2016&cCode=1&cino=UKHC010037562016&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-23",
+   "order_type": "WPMS/3208/2016",
+   "judge": "Hon'ble Mr. Justice Ravindra Maithani",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=VJ9D%2BsSI7ocW23V1pomRBeKBwU844ex7VkCn7sqlnkroQIeAEW1fkv8ouxdsbf55&caseno=WPMS/3208/2016&cCode=1&cino=UKHC010037562016&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

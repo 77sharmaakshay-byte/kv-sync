@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:HABC/41/2026:2026-11-17-006",
+ "title": "PRIYANSH versus STATE OF UTTARAKHAND",
+ "petitioner": "PRIYANSH",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "HABC/41/2026",
+ "case_type": "HABC",
+ "decision_date": "2026-11-17",
+ "cnr": "UKHC010151362026",
+ "doc_kind": "order",
+ "order_type": "HABC/41/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani,Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "PERSONAL APPEARANCE -4",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQmi1lgA1u%2F7n6tQfaedCJCSzZd5caqgywD%2Bp%2B2iD8XMF&caseno=HABC/41/2026&cCode=1&cino=UKHC010151362026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f42d6557cca14674209480b863a8c0a917dc7184817793d371b3f8607535feee",
+ "fetched_at": "2026-11-28T14:23:12+00:00",
+ "fetched_by": "fetch_live.py"
+}

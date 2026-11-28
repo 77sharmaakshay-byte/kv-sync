@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1269/2026:2026-11-19-002",
+ "title": "SHANE ALAM versus STATE OF UTTARAKHAND",
+ "petitioner": "SHANE ALAM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1269/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-11-19",
+ "cnr": "UKHC010127022026",
+ "doc_kind": "order",
+ "order_type": "BA1/1269/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQkemcA4Hq5Irfy3IY9mQx0R1mG2uFlRxtxm8TSlrDQMx&caseno=BA1/1269/2026&cCode=1&cino=UKHC010127022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "aa934c815b7b49534700b76802d209bbe7ed27d78c308749e918a99851840f8a",
+ "fetched_at": "2026-11-28T14:01:26+00:00",
+ "fetched_by": "fetch_live.py"
+}

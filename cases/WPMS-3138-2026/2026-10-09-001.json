@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3138/2026:2026-10-09-001",
+ "title": "PADAM KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PADAM KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3138/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010180302026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3138/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsh2EoIXDauPBDlt8K5jNy5mlTgIuToPE5ujjWjlc7AQ&caseno=WPMS/3138/2026&cCode=1&cino=UKHC010180302026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bbc0606bb23d2e57fdc2a8729d648e9ce462c496047c3f84c6187d293e9d9f7c",
+ "fetched_at": "2026-11-28T14:10:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

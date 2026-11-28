@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3462/2026:2026-11-06-001",
+ "title": "M/S RECRON ARMOR PVT LTD versus STATE OF UTTARAKHAND",
+ "petitioner": "M/S RECRON ARMOR PVT LTD",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3462/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-06",
+ "cnr": "UKHC010200702026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3462/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDER MATTERS -17",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQqQo6G1MnN4BzDsCP0ublbvL4gRBW6u2oSrPMHuXDKBZ&caseno=WPMS/3462/2026&cCode=1&cino=UKHC010200702026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "01ea83b8c212af9fbc3f664679e668ba7bec8062feb0b6abc4a72f348a4b8805",
+ "fetched_at": "2026-11-28T14:14:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

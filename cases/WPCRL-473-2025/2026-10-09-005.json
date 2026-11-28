@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/473/2025:2026-10-09-005",
+ "title": "RAMESH KUMAR versus UNION OF INDIA",
+ "petitioner": "RAMESH KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPCRL/473/2025",
+ "case_type": "WPCRL",
+ "decision_date": "2026-10-09",
+ "cnr": "UKHC010069132025",
+ "doc_kind": "order",
+ "order_type": "WPCRL/473/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxG84OAN6sMRqYJ8EOyodKLFbz2GB5BfzcQkfkSzd2RK&caseno=WPCRL/473/2025&cCode=1&cino=UKHC010069132025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "31c6c08aef5643eeb254ae0ac5378a9ef7b0284e36e711201f885ea570a05977",
+ "fetched_at": "2026-11-28T14:13:03+00:00",
+ "fetched_by": "fetch_live.py"
+}

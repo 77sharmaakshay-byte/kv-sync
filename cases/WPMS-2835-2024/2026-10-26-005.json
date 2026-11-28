@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/2835/2024:2026-10-26-005",
+ "title": "MS VARROC ENGINEERING LIMITED versus SECRETARY SRI PRESIDENT MAHA MANTRI VARROC WORKERS UNION",
+ "petitioner": "MS VARROC ENGINEERING LIMITED",
+ "respondent": "SECRETARY SRI PRESIDENT MAHA MANTRI VARROC WORKERS UNION",
+ "case_no": "WPMS/2835/2024",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-26",
+ "cnr": "UKHC010164082024",
+ "doc_kind": "order",
+ "order_type": "WPMS/2835/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Ravindra Maithani"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcK3ti94s2xhGZzd4XOeK74PyvPtZlm%2BRJ0vtuvjpZXTO&caseno=WPMS/2835/2024&cCode=1&cino=UKHC010164082024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "0b33f9b32fbb1a21c07e7571161c2e743ed9ceb3620854af48a1f61e7d799347",
+ "fetched_at": "2026-11-28T14:27:51+00:00",
+ "fetched_by": "fetch_live.py"
+}

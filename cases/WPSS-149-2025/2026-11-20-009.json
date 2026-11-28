@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPSS/149/2025:2026-11-20-009",
+ "title": "MOHAMMAD TALIB KHAN versus STATE OF UTTARAKHAND",
+ "petitioner": "MOHAMMAD TALIB KHAN",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPSS/149/2025",
+ "case_type": "WPSS",
+ "decision_date": "2026-11-20",
+ "cnr": "UKHC010015092025",
+ "doc_kind": "order",
+ "order_type": "WPSS/149/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -35",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtm9%2BCtblAW7IwFwjPIURAKG0UN4349YyLS9qqem7Y5QuL&caseno=WPSS/149/2025&cCode=1&cino=UKHC010015092025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "b43bf3b2032065a94a7ec30ad9943c13eef0666db082aa95c02973efcb91aa90",
+ "fetched_at": "2026-11-28T13:47:49+00:00",
+ "fetched_by": "fetch_live.py"
+}

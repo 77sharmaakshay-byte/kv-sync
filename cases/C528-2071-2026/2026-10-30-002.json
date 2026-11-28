@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2071/2026:2026-10-30-002",
+ "title": "BALJEET versus STATE OF UTTARAKHAND",
+ "petitioner": "BALJEET",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/2071/2026",
+ "case_type": "C528",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010169622026",
+ "doc_kind": "order",
+ "order_type": "C528/2071/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtfxIJFDW3zxE3RkHwc65cE5%2BAYI5k0jmSfPryrl8WLG&caseno=C528/2071/2026&cCode=1&cino=UKHC010169622026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "900cdf1302791055b92e994b04ced7e7b2f3575d8a228803efbdbbd5831bb1c2",
+ "fetched_at": "2026-11-28T14:00:25+00:00",
+ "fetched_by": "fetch_live.py"
+}

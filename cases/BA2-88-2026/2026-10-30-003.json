@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA2/88/2026:2026-10-30-003",
+ "title": "NIKHIL KUMAR versus NARCOTICS CONTROL BUREAU",
+ "petitioner": "NIKHIL KUMAR",
+ "respondent": "NARCOTICS CONTROL BUREAU",
+ "case_no": "BA2/88/2026",
+ "case_type": "BA2",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010108022026",
+ "doc_kind": "order",
+ "order_type": "BA2/88/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnctcaQCjr3joNOONnhLM9Ghf%2FwyUBXZnX7MhNJcoa6y&caseno=BA2/88/2026&cCode=1&cino=UKHC010108022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "f567d6a7c006df31be0c23c16be810251c6f1cf07bb86104f56c15496bd137b9",
+ "fetched_at": "2026-11-28T14:00:34+00:00",
+ "fetched_by": "fetch_live.py"
+}

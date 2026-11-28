@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/193/2021:2026-05-06-007",
+ "title": "POORAN CHANDRA BHATT versus ANAND BARDHAN",
+ "petitioner": "POORAN CHANDRA BHATT",
+ "respondent": "ANAND BARDHAN",
+ "case_no": "CLCON/193/2021",
+ "case_type": "CLCON",
+ "decision_date": "2026-05-06",
+ "cnr": "UKHC010060282021",
+ "doc_kind": "order",
+ "order_type": "CLCON/193/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkPoUkRh27izXw%2Fh%2Bb%2B2n4xLP%2BRsPm5Rwy8fx6P3IoRBy&caseno=CLCON/193/2021&cCode=1&cino=UKHC010060282021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "1147a56546629edfcc14dfdc40c242dd8c0e685059d31c0a0e5f131d0d42a789",
+ "fetched_at": "2026-11-28T14:14:27+00:00",
+ "fetched_by": "fetch_live.py"
+}

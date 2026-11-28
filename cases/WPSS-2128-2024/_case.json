@@ -6,9 +6,9 @@
  "registration_number": "WPSS /2128/2024",
  "registration_date": "2024-11-12",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-04",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "ADMISSION MATTERS -35",
+ "case_stage": "AFTER FRESH MATTERS -128",
  "status": "",
  "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
@@ -55,6 +55,27 @@
    "hearing_date": "2024-11-13",
    "business_date": null,
    "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-17",
+   "purpose": "AFTER FRESH MATTERS -128",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-17",
+   "business_date": "2026-11-05",
+   "purpose": "ADMISSION MATTERS -35",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-05",
+   "business_date": "2026-11-04",
+   "purpose": "ADMISSION MATTERS -35",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "cause_list_type": "DAILY CAUSE LIST"
   },
@@ -137,15 +158,6 @@
    "order_type": "WPSS/2128/2024",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcAWO5XNysDQJPwtsIq1b6I8Yx5%2FNTw1%2FdC9K1Qae7baI&caseno=WPSS/2128/2024&cCode=1&cino=UKHC010178232024&state_code=15&court_code=1&&appFlag=",
-   "pdf_bytes": null,
-   "order_text": "",
-   "neutral_citation": ""
-  },
-  {
-   "order_date": "2025-01-08",
-   "order_type": "WPSS/2128/2024",
-   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
-   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcAWO5XNysDQJPwtsIq1b6I%2BNjt6IwVkyVyu9vmNg03x1&caseno=WPSS/2128/2024&cCode=1&cino=UKHC010178232024&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

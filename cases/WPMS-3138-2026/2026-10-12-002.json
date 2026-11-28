@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3138/2026:2026-10-12-002",
+ "title": "PADAM KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "PADAM KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "WPMS/3138/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-10-12",
+ "cnr": "UKHC010180302026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3138/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "FRESH CASES FOR ADMISSION -3",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQsh2EoIXDauPBDlt8K5jNy43z1MxZ1Cp1tUfledmxcNO&caseno=WPMS/3138/2026&cCode=1&cino=UKHC010180302026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "de61bfc5f8f78d1b971dd77078ad61a0dd9633bf9b21c5c217567c7917a2a0ae",
+ "fetched_at": "2026-11-28T14:10:37+00:00",
+ "fetched_by": "fetch_live.py"
+}

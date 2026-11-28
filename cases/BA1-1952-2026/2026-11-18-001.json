@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1952/2026:2026-11-18-001",
+ "title": "SAURABH CHANDRA versus STATE OF UTTARAKHAND",
+ "petitioner": "SAURABH CHANDRA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1952/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-11-18",
+ "cnr": "UKHC010203672026",
+ "doc_kind": "order",
+ "order_type": "BA1/1952/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQlNA9hjLbQyZosPXrJ6GrN8uyjAjXdYiY%2FeVCHcz8u1W&caseno=BA1/1952/2026&cCode=1&cino=UKHC010203672026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "a35adc1c44e3bb74e875c40d48fa1d751a65fcec307db054c395bab839e416a2",
+ "fetched_at": "2026-11-28T14:00:36+00:00",
+ "fetched_by": "fetch_live.py"
+}

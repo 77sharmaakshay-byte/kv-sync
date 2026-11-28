@@ -6,7 +6,7 @@
  "registration_number": "WPSS /2685/2026",
  "registration_date": "2026-10-13",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-20",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
  "case_stage": "ORDERS ON APPLICATIONS -22",
  "status": "",
@@ -55,6 +55,13 @@
    "cause_list_type": "DAILY CAUSE LIST"
   },
   {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-20",
+   "purpose": "ORDERS ON APPLICATIONS -22",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
    "hearing_date": null,
    "business_date": "2026-11-04",
    "purpose": "ADMISSION MATTERS -35",
@@ -75,6 +82,15 @@
    "order_type": "WPSS/2685/2026",
    "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
    "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr%2B0pRPNO10C%2F%2BQtYudzi8KOmZr44av3RO9RsWVjBcle&caseno=WPSS/2685/2026&cCode=1&cino=UKHC010185322026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-20",
+   "order_type": "WPSS/2685/2026",
+   "judge": "Hon'ble Mr. Justice Rakesh Thapliyal",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQr%2B0pRPNO10C%2F%2BQtYudzi8JyWC0Ai4MWAvoPi%2FFhQMJR&caseno=WPSS/2685/2026&cCode=1&cino=UKHC010185322026&state_code=15&court_code=1&&appFlag=",
    "pdf_bytes": null,
    "order_text": "",
    "neutral_citation": ""

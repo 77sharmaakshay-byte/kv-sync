@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/3443/2026:2026-11-06-001",
+ "title": "PUSHPA DEVI versus DISTRICT MAGISTRATE HARIDWAR",
+ "petitioner": "PUSHPA DEVI",
+ "respondent": "DISTRICT MAGISTRATE HARIDWAR",
+ "case_no": "WPMS/3443/2026",
+ "case_type": "WPMS",
+ "decision_date": "2026-11-06",
+ "cnr": "UKHC010199722026",
+ "doc_kind": "order",
+ "order_type": "WPMS/3443/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Siddhartha Sah"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpGUvdN%2Fsj%2BZQJ3NTzjjpth2chje4dLP8s7ckBT97TRA&caseno=WPMS/3443/2026&cCode=1&cino=UKHC010199722026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "495bdd045978c80e3c82d07a2f0fe0d73192b33ad8e400c4f98e98ec0dbecc86",
+ "fetched_at": "2026-11-28T14:13:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

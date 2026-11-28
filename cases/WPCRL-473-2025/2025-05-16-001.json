@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPCRL/473/2025:2025-05-16-001",
+ "title": "RAMESH KUMAR versus UNION OF INDIA",
+ "petitioner": "RAMESH KUMAR",
+ "respondent": "UNION OF INDIA",
+ "case_no": "WPCRL/473/2025",
+ "case_type": "WPCRL",
+ "decision_date": "2025-05-16",
+ "cnr": "UKHC010069132025",
+ "doc_kind": "order",
+ "order_type": "WPCRL/473/2025",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=GAW01ZA12bSRM1HEREVtmxG84OAN6sMRqYJ8EOyodKIebTs5lkaKyB4uu%2BjO%2BhEs&caseno=WPCRL/473/2025&cCode=1&cino=UKHC010069132025&state_code=15&court_code=1&&appFlag=",
+ "sha256": "321e7ac6e7989b7bfcd2181e4b9519f9ad851c2b5b3610d3d187209d070eef8d",
+ "fetched_at": "2026-11-28T14:12:59+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/2041/2026:2026-11-26-001",
+ "title": "ANKIT KUMAR versus STATE OF UTTARAKHAND",
+ "petitioner": "ANKIT KUMAR",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/2041/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-11-26",
+ "cnr": "UKHC010209542026",
+ "doc_kind": "order",
+ "order_type": "BA1/2041/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQszMDA%2F8xN77eprtEx%2Bx8FrYHOIWdNQE%2BzxNBRRoWQ%2FD&caseno=BA1/2041/2026&cCode=1&cino=UKHC010209542026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "14d74e2f0d740ff50c56f04e7313ffbe797156f126c0307ce0e07917cd78847d",
+ "fetched_at": "2026-11-28T14:03:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

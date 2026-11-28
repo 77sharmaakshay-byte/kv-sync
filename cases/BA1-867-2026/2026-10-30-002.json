@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/867/2026:2026-10-30-002",
+ "title": "AMIT GUPTA versus STATE OF UTTARAKHAND",
+ "petitioner": "AMIT GUPTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/867/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010086022026",
+ "doc_kind": "order",
+ "order_type": "BA1/867/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQnmUvS%2BbmJ41ZaxSVCtPC8v2aOsglUEu06TvTVbPwYio&caseno=BA1/867/2026&cCode=1&cino=UKHC010086022026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fdd7e093b4e02161bf433350880559732e4a775227d2b7eb9c1cc351ec430233",
+ "fetched_at": "2026-11-28T13:58:22+00:00",
+ "fetched_by": "fetch_live.py"
+}

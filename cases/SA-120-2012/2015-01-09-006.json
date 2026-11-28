@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/120/2012:2015-01-09-006",
+ "title": "MUNIJA versus JAGDISH PRASAD CHAUHAN",
+ "petitioner": "MUNIJA",
+ "respondent": "JAGDISH PRASAD CHAUHAN",
+ "case_no": "SA/120/2012",
+ "case_type": "SA",
+ "decision_date": "2015-01-09",
+ "cnr": "UKHC010012432012",
+ "doc_kind": "order",
+ "order_type": "SA/120/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Rajiv Sharma,Hon'ble Mr. Justice Alok Singh,Hon'ble Mr. Justice Manoj Kumar Tiwari"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrG06vKr4aoJKkf%2FMJ3o9RBraYuQce%2FFAP9HDgUumbco2&caseno=SA/120/2012&cCode=1&cino=UKHC010012432012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d3e66c6701ca794ec9800eb9e5dba50ccbdaa3430e8173f5adf5f23e716b02a5",
+ "fetched_at": "2026-11-28T14:23:58+00:00",
+ "fetched_by": "fetch_live.py"
+}

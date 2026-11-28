@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1075/2026:2026-06-18-001",
+ "title": "AZEEM versus STATE OF UTTARAKHAND",
+ "petitioner": "AZEEM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1075/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-06-18",
+ "cnr": "UKHC010106822026",
+ "doc_kind": "order",
+ "order_type": "BA1/1075/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuOEL%2FeKox2WY7oVU3acSwtl1OqPj1DcXVwpN7OglPvc&caseno=BA1/1075/2026&cCode=1&cino=UKHC010106822026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "5ca456cf6a96cbd6b81a8063c4db406839737ededae1fd2993f2cb25147df969",
+ "fetched_at": "2026-11-28T14:01:05+00:00",
+ "fetched_by": "fetch_live.py"
+}

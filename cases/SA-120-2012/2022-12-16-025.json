@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/120/2012:2022-12-16-025",
+ "title": "MUNIJA versus JAGDISH PRASAD CHAUHAN",
+ "petitioner": "MUNIJA",
+ "respondent": "JAGDISH PRASAD CHAUHAN",
+ "case_no": "SA/120/2012",
+ "case_type": "SA",
+ "decision_date": "2022-12-16",
+ "cnr": "UKHC010012432012",
+ "doc_kind": "order",
+ "order_type": "SA/120/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Kumar Verma"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrG06vKr4aoJKkf%2FMJ3o9RBos0HxxK0dtJN5J8j4NwOCs&caseno=SA/120/2012&cCode=1&cino=UKHC010012432012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "16c6670e379c21553b5392b35009e84238eaca54c541575af1d99f1fcc15a698",
+ "fetched_at": "2026-11-28T14:24:17+00:00",
+ "fetched_by": "fetch_live.py"
+}

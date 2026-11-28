@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/557/2026:2026-10-15-005",
+ "title": "MANGTA versus STATE OF UTTARAKHAND",
+ "petitioner": "MANGTA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/557/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-15",
+ "cnr": "UKHC010054932026",
+ "doc_kind": "order",
+ "order_type": "BA1/557/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQjANxyi5vunWUAsTg1bvg%2FAjvFqtaSLQZVtUGz4JWljs&caseno=BA1/557/2026&cCode=1&cino=UKHC010054932026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "fd73baa16b198d5edc85f5bd53ce1aaa5b564958986589671094b710c69970a9",
+ "fetched_at": "2026-11-28T14:00:48+00:00",
+ "fetched_by": "fetch_live.py"
+}

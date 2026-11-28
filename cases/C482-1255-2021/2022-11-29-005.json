@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C482/1255/2021:2022-11-29-005",
+ "title": "TANUJ NEGI versus STATE OF UTTARAKHAND",
+ "petitioner": "TANUJ NEGI",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C482/1255/2021",
+ "case_type": "C482",
+ "decision_date": "2022-11-29",
+ "cnr": "UKHC010113292021",
+ "doc_kind": "order",
+ "order_type": "C482/1255/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "FOR FINAL HEARING -40",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkM3rzSI2z2FhGlGNgaH9cZX6tOr9K9O3I6fLlZPxzueJ&caseno=C482/1255/2021&cCode=1&cino=UKHC010113292021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "bc92e3648d9ad39e2596747b345fcfe09c3df728e49ee193c1d8c8bd84be0523",
+ "fetched_at": "2026-11-28T14:06:10+00:00",
+ "fetched_by": "fetch_live.py"
+}

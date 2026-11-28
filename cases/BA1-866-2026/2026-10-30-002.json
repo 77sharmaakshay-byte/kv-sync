@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/866/2026:2026-10-30-002",
+ "title": "GAURAV RAWAT versus STATE OF UTTARAKHAND",
+ "petitioner": "GAURAV RAWAT",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/866/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-30",
+ "cnr": "UKHC010086002026",
+ "doc_kind": "order",
+ "order_type": "BA1/866/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQha2TFllZyoFlrCDGv4nCWPveamCqf%2BWjwiVjAp4mp6j&caseno=BA1/866/2026&cCode=1&cino=UKHC010086002026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "2ddeea14928f1d54da0e155b80dfd75f128cc3bc1317e9a7d9f705444e8cee40",
+ "fetched_at": "2026-11-28T14:01:09+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CRLR/224/2026:2026-04-22-002",
+ "title": "VIJAY MANDAL versus STATE OF UTTARAKHAND",
+ "petitioner": "VIJAY MANDAL",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "CRLR/224/2026",
+ "case_type": "CRLR",
+ "decision_date": "2026-04-22",
+ "cnr": "UKHC010050752026",
+ "doc_kind": "order",
+ "order_type": "CRLR/224/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQgPDUcVTkP0bZPHzo2TUewiUrP0nCGALIM3301G%2FbYs%2B&caseno=CRLR/224/2026&cCode=1&cino=UKHC010050752026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "103b3e3ffd59064625a01875974bace693912e761ac6a202658e924dbc9d26f9",
+ "fetched_at": "2026-11-28T14:04:47+00:00",
+ "fetched_by": "fetch_live.py"
+}

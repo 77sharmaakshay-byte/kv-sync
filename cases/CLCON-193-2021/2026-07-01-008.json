@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:CLCON/193/2021:2026-07-01-008",
+ "title": "POORAN CHANDRA BHATT versus ANAND BARDHAN",
+ "petitioner": "POORAN CHANDRA BHATT",
+ "respondent": "ANAND BARDHAN",
+ "case_no": "CLCON/193/2021",
+ "case_type": "CLCON",
+ "decision_date": "2026-07-01",
+ "cnr": "UKHC010060282021",
+ "doc_kind": "order",
+ "order_type": "CLCON/193/2021",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ORDERS ON APPLICATIONS -22",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=SyGYsRBm4sHyDpkpjdWXkPoUkRh27izXw%2Fh%2Bb%2B2n4xK%2F5p37%2FjphVm5o9H%2Fy2kMd&caseno=CLCON/193/2021&cCode=1&cino=UKHC010060282021&state_code=15&court_code=1&&appFlag=",
+ "sha256": "6775202da3186f58e093db5795c9215ccbcfc260657fd7fbae49eb1856e6bdfa",
+ "fetched_at": "2026-11-28T14:14:28+00:00",
+ "fetched_by": "fetch_live.py"
+}

@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1872/2026:2026-11-25-003",
+ "title": "RACHIT SHARMA versus STATE OF UTTARAKHAND",
+ "petitioner": "RACHIT SHARMA",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1872/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-11-25",
+ "cnr": "UKHC010196872026",
+ "doc_kind": "order",
+ "order_type": "BA1/1872/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQpyIob%2F7K10nJvNWdLR0ShuOYkb2s1SLkm2FKauJv9jG&caseno=BA1/1872/2026&cCode=1&cino=UKHC010196872026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "95ad0bd07bff79d565a5c500d6650b77598a898e6d0960538c5d4a206ce1a7ca",
+ "fetched_at": "2026-11-28T14:03:00+00:00",
+ "fetched_by": "fetch_live.py"
+}

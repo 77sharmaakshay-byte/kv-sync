@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:WPMS/685/2024:2025-09-09-003",
+ "title": "RANVEER SINGH versus BOARD OF REVENUE",
+ "petitioner": "RANVEER SINGH",
+ "respondent": "BOARD OF REVENUE",
+ "case_no": "WPMS/685/2024",
+ "case_type": "WPMS",
+ "decision_date": "2025-09-09",
+ "cnr": "UKHC010035112024",
+ "doc_kind": "order",
+ "order_type": "WPMS/685/2024",
+ "judges": [
+  "Hon'ble Mr. Justice Pankaj Purohit"
+ ],
+ "case_status": "ADMISSION MATTERS -25",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=TeYHI8kPdRUpkijhhxAbcH5OagYDPEh2BSZ5nQHdNNpO1UrcQnlrWSHOCaxQ0JJT&caseno=WPMS/685/2024&cCode=1&cino=UKHC010035112024&state_code=15&court_code=1&&appFlag=",
+ "sha256": "de3d1f029d8649a9648db5e2de1354ebf5284461c4910a32aa792293b021a8ed",
+ "fetched_at": "2026-11-28T14:27:19+00:00",
+ "fetched_by": "fetch_live.py"
+}

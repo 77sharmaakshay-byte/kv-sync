@@ -6,11 +6,11 @@
  "registration_number": "BA1 /1991/2026",
  "registration_date": "2026-11-18",
  "first_hearing_date": null,
- "next_hearing_date": "2026-11-20",
+ "next_hearing_date": "2026-11-30",
  "decision_date": null,
- "case_stage": "FRESH CASES FOR ADMISSION -3",
+ "case_stage": "BAIL MATTERS -98",
  "status": "",
- "coram": "Hon'ble Mr. Justice Alok Mahra",
+ "coram": "Hon'ble Mr. Justice Rakesh Thapliyal",
  "bench_type": "Single Bench",
  "court_number_and_judge": "",
  "court_name": "",
@@ -19,13 +19,13 @@
  "petitioners": [
   {
    "name": "SHEIKH ASIF HUSAIN",
-   "advocate": "RISHAB RANGHAR"
+   "advocate": "RISHAB RANGHAR,LALIT SHARMA,LALIT SHARMA, ,SURAIYA NAAZ,LALIT SHARMA"
   }
  ],
  "respondents": [
   {
    "name": "STATE OF UTTARAKHAND",
-   "advocate": "G.A."
+   "advocate": "G.A.,"
   }
  ],
  "acts": [
@@ -45,7 +45,40 @@
    "purpose": "FRESH CASES FOR ADMISSION -3",
    "judge": "Hon'ble Mr. Justice Alok Mahra",
    "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-11-26",
+   "purpose": "BAIL MATTERS -98",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-26",
+   "business_date": "2026-11-20",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
   }
  ],
- "orders": []
+ "orders": [
+  {
+   "order_date": "2026-11-20",
+   "order_type": "BA1/1991/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrdXQMI9BI6XNS7AkaVUSHYq5Y2XGZju4PUyloa%2FDwGQ&caseno=BA1/1991/2026&cCode=1&cino=UKHC010205932026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-11-26",
+   "order_type": "BA1/1991/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQrdXQMI9BI6XNS7AkaVUSHZld%2BC9r8bEvihcmBTvdVvp&caseno=BA1/1991/2026&cCode=1&cino=UKHC010205932026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
 }

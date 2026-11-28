@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:SA/120/2012:2019-11-20-015",
+ "title": "MUNIJA versus JAGDISH PRASAD CHAUHAN",
+ "petitioner": "MUNIJA",
+ "respondent": "JAGDISH PRASAD CHAUHAN",
+ "case_no": "SA/120/2012",
+ "case_type": "SA",
+ "decision_date": "2019-11-20",
+ "cnr": "UKHC010012432012",
+ "doc_kind": "order",
+ "order_type": "SA/120/2012",
+ "judges": [
+  "Hon'ble Mr. Justice Sharad Kumar Sharma"
+ ],
+ "case_status": "ORDER ON APPLICATIONS (AS DEFECTIVE) -237",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=YcV8Rw5XTmLzpsK5MctzrG06vKr4aoJKkf%2FMJ3o9RBpHv3jFdkelqx8TqZhhOGPE&caseno=SA/120/2012&cCode=1&cino=UKHC010012432012&state_code=15&court_code=1&&appFlag=",
+ "sha256": "58dd5aca391961a08a2b68e6353e7537410a1419f507e057680b31f2d0ab0f34",
+ "fetched_at": "2026-11-28T14:24:07+00:00",
+ "fetched_by": "fetch_live.py"
+}

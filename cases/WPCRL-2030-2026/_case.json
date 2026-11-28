@@ -1,0 +1,88 @@
+{
+ "cnr_number": "UKHC010175302026",
+ "case_type": "WPCRL",
+ "filing_number": "WPCRL /8404/2026",
+ "filing_date": "2026-09-30",
+ "registration_number": "WPCRL /2030/2026",
+ "registration_date": "2026-09-30",
+ "first_hearing_date": null,
+ "next_hearing_date": "2026-11-30",
+ "decision_date": null,
+ "case_stage": "ADMISSION MATTERS -25",
+ "status": "",
+ "coram": "Hon'ble Mr. Justice Siddhartha Sah",
+ "bench_type": "Single Bench",
+ "court_number_and_judge": "",
+ "court_name": "",
+ "state": "UTTARAKHAND",
+ "district": "Dehradun",
+ "petitioners": [
+  {
+   "name": "RAVINDRA SINGH",
+   "advocate": "RAVI JOSHI,GAURAV KANDPAL,GAURAV KANDPAL, ,GAURAV KANDPAL"
+  }
+ ],
+ "respondents": [
+  {
+   "name": "STATE OF UTTARAKHAND",
+   "advocate": "G.A."
+  },
+  {
+   "name": "SENIOR SUPERINTENDENT OF POLICE",
+   "advocate": "G.A."
+  },
+  {
+   "name": "DIRECTOR GENERAL OF POLICE",
+   "advocate": "G.A."
+  }
+ ],
+ "acts": [
+  {
+   "act": "Under Article 226 of the Constituion of India",
+   "sections": "226"
+  }
+ ],
+ "history": [
+  {
+   "hearing_date": "2026-10-01",
+   "business_date": null,
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-11-30",
+   "business_date": "2026-10-08",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  },
+  {
+   "hearing_date": "2026-10-08",
+   "business_date": "2026-10-01",
+   "purpose": "FRESH CASES FOR ADMISSION -3",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "cause_list_type": "DAILY CAUSE LIST"
+  }
+ ],
+ "orders": [
+  {
+   "order_date": "2026-10-01",
+   "order_type": "WPCRL/2030/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQurC2T6pyWZ4mcu8p2w9s81G5DiFJYzyI9vq47mavwiM&caseno=WPCRL/2030/2026&cCode=1&cino=UKHC010175302026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  },
+  {
+   "order_date": "2026-10-08",
+   "order_type": "WPCRL/2030/2026",
+   "judge": "Hon'ble Mr. Justice Alok Mahra",
+   "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQurC2T6pyWZ4mcu8p2w9s82kGbKYA4gTKHeDn5rmnaBY&caseno=WPCRL/2030/2026&cCode=1&cino=UKHC010175302026&state_code=15&court_code=1&&appFlag=",
+   "pdf_bytes": null,
+   "order_text": "",
+   "neutral_citation": ""
+  }
+ ]
+}

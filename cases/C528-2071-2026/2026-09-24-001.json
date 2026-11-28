@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:C528/2071/2026:2026-09-24-001",
+ "title": "BALJEET versus STATE OF UTTARAKHAND",
+ "petitioner": "BALJEET",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "C528/2071/2026",
+ "case_type": "C528",
+ "decision_date": "2026-09-24",
+ "cnr": "UKHC010169622026",
+ "doc_kind": "order",
+ "order_type": "C528/2071/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Rakesh Thapliyal"
+ ],
+ "case_status": "AFTER FRESH MATTERS -128",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQtfxIJFDW3zxE3RkHwc65cH141O5JLNh2dOAEVByJTEa&caseno=C528/2071/2026&cCode=1&cino=UKHC010169622026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d30e42aaa5e0105892f80d3e5ac3e88836aa5a44ffafa4e0ca18946df7a9904e",
+ "fetched_at": "2026-11-28T14:00:24+00:00",
+ "fetched_by": "fetch_live.py"
+}

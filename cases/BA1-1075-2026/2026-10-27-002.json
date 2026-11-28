@@ -1,0 +1,22 @@
+{
+ "court": "UKHC",
+ "source": "uk-live",
+ "source_key": "ukhc-live:BA1/1075/2026:2026-10-27-002",
+ "title": "AZEEM versus STATE OF UTTARAKHAND",
+ "petitioner": "AZEEM",
+ "respondent": "STATE OF UTTARAKHAND",
+ "case_no": "BA1/1075/2026",
+ "case_type": "BA1",
+ "decision_date": "2026-10-27",
+ "cnr": "UKHC010106822026",
+ "doc_kind": "order",
+ "order_type": "BA1/1075/2026",
+ "judges": [
+  "Hon'ble Mr. Justice Alok Mahra"
+ ],
+ "case_status": "BAIL MATTERS -98",
+ "pdf_url": "https://hcservices.ecourts.gov.in/hcservices/cases/display_pdf.php?filename=jeoyTc9%2Fpyo7bD4bcDGMQuOEL%2FeKox2WY7oVU3acSwuhV6pTJ7rfzAT0nFlQw6t%2B&caseno=BA1/1075/2026&cCode=1&cino=UKHC010106822026&state_code=15&court_code=1&&appFlag=",
+ "sha256": "d5ba3b77594a8b841af6b365eb41d9722e242501aaff377f8d4c0cb0b2524139",
+ "fetched_at": "2026-11-28T14:01:06+00:00",
+ "fetched_by": "fetch_live.py"
+}
