@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T08:21+00:00",
+ "generated_at": "2026-11-28T08:34+00:00",
  "dates": [
   "2026-11-30",
   "2026-11-28",
@@ -1415,7 +1415,7 @@
     "NISHA BORA,KETAN ASWAL",
     "PARIKSHIT SAINI"
    ],
-   "next_date": "2026-11-25",
+   "next_date": "2026-12-10",
    "a": 2
   },
   {
@@ -25775,7 +25775,7 @@
     "BHAGWAT MEHRA,KAMAL KISHOR HARBOLA,KAMAL KISHOR HARBOLA, ,K K HARBOLA",
     "P C PETSHALI,KANTI RAM"
    ],
-   "next_date": "2026-11-17",
+   "next_date": null,
    "a": 1
   },
   {
@@ -32147,6 +32147,17 @@
    "a": 1
   },
   {
+   "id": "SPA-151-2025",
+   "case_no": "SPA/151/2025",
+   "title": "UTTARAKHAND FOREST DEVELOPMENT CORPORATION v. VIMLA DEVI",
+   "advocates": [
+    "BHAGWAT MEHRA",
+    "C.S.C."
+   ],
+   "next_date": null,
+   "a": 1
+  },
+  {
    "id": "SPA-155-2024",
    "case_no": "SPA/155/2024",
    "title": "RADHA RANI v. STATE OF UTTARAKHAND",
@@ -33844,6 +33855,18 @@
    ],
    "next_date": "2026-11-17",
    "a": 2
+  },
+  {
+   "id": "SPA-89-2026",
+   "case_no": "SPA/89/2026",
+   "title": "OM PRAKASH v. STATE OF UTTARAKHAND",
+   "advocates": [
+    "BHAGWAT MEHRA",
+    "C.S.C.",
+    "CHANDRAMAULI SHAH"
+   ],
+   "next_date": null,
+   "a": 1
   },
   {
    "id": "SPA-98-2022",
@@ -50684,7 +50707,7 @@
     "DEPUTY  S.G.",
     "DEPUTY S.G."
    ],
-   "next_date": "2019-02-19",
+   "next_date": null,
    "a": 1
   },
   {
@@ -50821,18 +50844,6 @@
    ],
    "next_date": "2026-11-03",
    "a": 1
-  },
-  {
-   "id": "WPSB-201-2026",
-   "case_no": "WPSB/201/2026",
-   "title": "UTTARAKHAND PEY JAL SANSADHAN VIKAS EVAM NIRMAN NIGAM v. SUNIL KUMAR",
-   "advocates": [
-    "C.S.C.",
-    "PRIYANKA AGRAWAL",
-    "SHAILENDRA SINGH CHAUHAN,MANSI CHAUHAN,MANSI CHAUHAN, ,MANSI CHAUHAN"
-   ],
-   "next_date": null,
-   "a": 2
   },
   {
    "id": "WPSB-203-2003",
@@ -53833,7 +53844,7 @@
     "LALIT SHARMA,Rajesh Sharma, C.G.S.C.",
     "Rajesh Sharma, C.G.S.C."
    ],
-   "next_date": "2026-11-06",
+   "next_date": null,
    "a": 1
   },
   {
@@ -58421,17 +58432,6 @@
    ],
    "next_date": "2026-10-31",
    "a": 2
-  },
-  {
-   "id": "WPSS-1917-2020",
-   "case_no": "WPSS/1917/2020",
-   "title": "CHANDRA MEHRA v. STATE OF UTTARAKHAND",
-   "advocates": [
-    "BHAGWAT MEHRA,K K HARBOLA,K K HARBOLA, K K HARBOLA",
-    "C.S.C."
-   ],
-   "next_date": null,
-   "a": 1
   },
   {
    "id": "WPSS-1917-2022",
@@ -65579,7 +65579,7 @@
     "C.S.C.,",
     "C.S.C.,B.D.KANDPAL"
    ],
-   "next_date": "2026-11-16",
+   "next_date": "2026-12-05",
    "a": 1
   },
   {
